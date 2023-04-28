@@ -1,0 +1,1675 @@
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened/AndroidManifest.xml
+launchable-activity: name='com.dcb.EntryActivity'  label='' icon=''
+{ACTIVITY, com.dcb.BaseActivity}
+{ACTIVITY, com.dcb.prelogin.splash.activity.SplashActivity}
+{ACTIVITY, com.dcb.MainActivity}
+{ACTIVITY, com.dcb.postlogin.home.activity.HomeActivity}
+{ACTIVITY, com.dcb.EntryActivity, android.intent.action.MAIN}
+{SERVICE, com.dcbbank.commonlib.logger.ServiceFloatingView}
+{SERVICE, com.dcb.common.service.MyFirebaseMessagingService, com.google.firebase.MESSAGING_EVENT}
+{ACTIVITY, com.dcbbank.commonlib.logger.LoggerMailActivity}
+{SERVICE, com.google.firebase.messaging.FirebaseMessagingService, com.google.firebase.MESSAGING_EVENT}
+{SERVICE, com.google.firebase.components.ComponentDiscoveryService}
+{ACTIVITY, com.journeyapps.barcodescanner.CaptureActivity}
+{RECEIVER, com.google.firebase.iid.FirebaseInstanceIdReceiver, com.google.android.c2dm.intent.RECEIVE}
+{ACTIVITY, com.google.android.gms.common.api.GoogleApiActivity}
+{RECEIVER, com.google.android.gms.measurement.AppMeasurementReceiver}
+{SERVICE, com.google.android.gms.measurement.AppMeasurementService}
+{SERVICE, com.google.android.gms.measurement.AppMeasurementJobService}
+{SERVICE, com.google.android.datatransport.runtime.backends.TransportBackendDiscovery}
+{SERVICE, com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService}
+{ACTIVITY, com.dcb.BaseActivity}
+{ACTIVITY, com.dcb.prelogin.splash.activity.SplashActivity}
+{ACTIVITY, com.dcb.MainActivity}
+{ACTIVITY, com.dcb.postlogin.home.activity.HomeActivity}
+{ACTIVITY, com.dcb.EntryActivity, android.intent.action.MAIN}
+{SERVICE, com.dcbbank.commonlib.logger.ServiceFloatingView}
+{SERVICE, com.dcb.common.service.MyFirebaseMessagingService, com.google.firebase.MESSAGING_EVENT}
+{ACTIVITY, com.dcbbank.commonlib.logger.LoggerMailActivity}
+{SERVICE, com.google.firebase.messaging.FirebaseMessagingService, com.google.firebase.MESSAGING_EVENT}
+{SERVICE, com.google.firebase.components.ComponentDiscoveryService}
+{ACTIVITY, com.journeyapps.barcodescanner.CaptureActivity}
+{RECEIVER, com.google.firebase.iid.FirebaseInstanceIdReceiver, com.google.android.c2dm.intent.RECEIVE}
+{ACTIVITY, com.google.android.gms.common.api.GoogleApiActivity}
+{RECEIVER, com.google.android.gms.measurement.AppMeasurementReceiver}
+{SERVICE, com.google.android.gms.measurement.AppMeasurementService}
+{SERVICE, com.google.android.gms.measurement.AppMeasurementJobService}
+{SERVICE, com.google.android.datatransport.runtime.backends.TransportBackendDiscovery}
+{SERVICE, com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService}
+_getAllDexFiles: /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened/classes2.dex
+_getAllDexFiles: /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened/classes.dex
+----------------/home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened.apk
+dexFile = org.jf.dexlib2.dexbacked.DexBackedDexFile@5305c37d
+com.dcb
+com.dcb.EntryActivity
+debuggable: true
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened.apk
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened.apk
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened_46604b9f/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened_46604b9f/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened.apk
+3601a6ff: Installation Success
+159ceeed: Installation Success
+b29e6a69: Installation Success
+46604b9f: Installing repackaged apk File: 
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened_46604b9f/signed_sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened.apk
+46604b9f: Installation Success
+46604b9f: startApplication called! - devTamper
+3601a6ff: startApplication called! - devRef
+b29e6a69: startApplication called! - devRoot
+159ceeed: startApplication called! - devDebug
+3601a6ff: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample1@devRoot-D-R@devDebug-D-R.obfuscated.only_flattened.ilog)
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample1@devRoot-D-R@devDebug-D-R.obfuscated.only_flattened.ilog)
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample1@devRoot-D-R@devDebug-D-R.obfuscated.only_flattened.ilog)
+3601a6ff: Running Application: com.dcb
+b29e6a69: Running Application: com.dcb
+46604b9f: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devTamper_sample1@devRoot-D-R@devDebug-D-R.obfuscated.only_flattened.ilog)
+46604b9f: Running Application: com.dcb
+PIDs--------------------------------------------------------------------------
+u0_a280       10052    425 14803264 105572 0                  0 S com.dcb
+forward tcp:5005 jdwp:10052
+[*]Found JDWP Target: 10052
+159ceeed: Running Application: com.dcb
+3601a6ff: Top-activity: com.dcb/.prelogin.splash.activity.SplashActivity
+PIDs--------------------------------------------------------------------------
+u0_a177       31771    421 15026528 151076 0                  0 S com.dcb
+3601a6ff: Terminated logcat thread...by itself
+PIDs--------------------------------------------------------------------------
+u0_a177       31771    421 15026528 151076 0                  0 S com.dcb
+Stopping app: com.dcb
+46604b9f: Top-activity: com.dcb/.prelogin.splash.activity.SplashActivity
+PIDs--------------------------------------------------------------------------
+u0_a1033       8585    425 14964312 148312 0                  0 S com.dcb
+46604b9f: Terminated logcat thread...by itself
+PIDs--------------------------------------------------------------------------
+u0_a1033       8585    425 14964312 148312 0                  0 S com.dcb
+Stopping app: com.dcb
+159ceeed: Top-activity: com.dcb/.prelogin.splash.activity.SplashActivity
+b29e6a69: Top-activity: com.dcb/.prelogin.splash.activity.SplashActivity
+PIDs--------------------------------------------------------------------------
+u0_a280       10052    425 15022932 148188 0                  0 S com.dcb
+159ceeed: Terminated logcat thread...by itself
+PIDs--------------------------------------------------------------------------
+u0_a3446      16093    429 14809376 147788 0                  0 S com.dcb
+b29e6a69: Terminated logcat thread...by itself
+PIDs--------------------------------------------------------------------------
+u0_a280       10052    425 15022932 148188 0                  0 S com.dcb
+Stopping app: com.dcb
+PIDs--------------------------------------------------------------------------
+u0_a3446      16093    429 14809376 147788 0                  0 S com.dcb
+Stopping app: com.dcb
+Tryging remove : uninstall com.dcb(com.dcb)
+3601a6ff: Remove Success
+3601a6ff: ilog file size: 357974233
+3601a6ff: End of collecting logcat...
+Tryging remove : uninstall com.dcb(com.dcb)
+46604b9f: Remove Success
+46604b9f: ilog file size: 238400799
+46604b9f: End of collecting logcat...
+Tryging remove : uninstall com.dcb(com.dcb)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 222453642
+b29e6a69: End of collecting logcat...
+Tryging remove : uninstall com.dcb(com.dcb)
+159ceeed: Remove Success
+159ceeed: ilog file size: 343170897
+159ceeed: End of collecting logcat...
+HPFinder's try count remains: 29
+46604b9f: isFailedToLaunch: com.dcb/.prelogin.splash.activity.SplashActivity
+46604b9f: 	--result: Good :)
+b29e6a69: isFailedToLaunch: com.dcb/.prelogin.splash.activity.SplashActivity
+b29e6a69: 	--result: Good :)
+159ceeed: isFailedToLaunch: com.dcb/.prelogin.splash.activity.SplashActivity
+159ceeed: 	--result: Good :)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample1@devRoot-D-R@devDebug-D-R.obfuscated.only_flattened.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample1@devRoot-D-R@devDebug-D-R.obfuscated.only_flattened.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample1@devRoot-D-R@devDebug-D-R.obfuscated.only_flattened.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample1@devRoot-D-R@devDebug-D-R.obfuscated.only_flattened.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devTamper_sample1@devRoot-D-R@devDebug-D-R.obfuscated.only_flattened.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample1@devRoot-D-R@devDebug-D-R.obfuscated.only_flattened.ilog)
+[*] FlowManager: adjust finished.
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:584838		=(rels)=>		1
+[*] Unique action: 1:169482 : <<CALL>> : com.dcb.f.c.b.b.c/a:(Landroid/view/View;)V:584838  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:109960 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b1e6c  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b1e74
+android.view.ViewGroup/addView:(Landroid/view/View;)V:49025a		=(rels)=>		1
+[*] Unique action: 1:168458 : <<CALL>> : androidx.fragment.app.i/a:(Landroidx/fragment/app/Fragment;IIIZ)V:49025a  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:109960 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b1e6c  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b1e74
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:58484c		=(rels)=>		1
+[*] Unique action: 1:169494 : <<CALL>> : com.dcb.f.c.b.b.c/a:(Landroid/view/View;)V:58484c  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:109960 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b1e6c  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b1e74
+android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:5af472		=(rels)=>		1
+[*] Unique action: 1:110249 : <<CALL>> : com.dcb.prelogin.splash.activity.SplashActivity/s:()V:5af472  =>  android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:30ca84
+	1:compareBackwardBranch: 1:109960 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b1e6c  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b1e74
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:584810		=(rels)=>		1
+[*] Unique action: 1:169441 : <<CALL>> : com.dcb.f.c.b.b.c/a:(Landroid/view/View;)V:584810  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+[*] FlowManager: adjust finished.
+Action is completely same :)
+Action is completely same :)
+46604b9f: There is no difference. (tryAgain=false)
+	1:compareBackwardBranch: 1:109960 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b1e6c  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b1e74
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:584824		=(rels)=>		1
+[*] Unique action: 1:169468 : <<CALL>> : com.dcb.f.c.b.b.c/a:(Landroid/view/View;)V:584824  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:109960 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b1e6c  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b1e74
+android.app.Dialog/show:()V:5cafa8		=(rels)=>		1
+[*] Unique action: 1:78311 : <<CALL>> : com.dcbbank.commonlib.customview.b.a/b:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Lcom/dcbbank/commonlib/customview/b/a$p;)Landroid/app/Dialog;:5cafa8  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:109955 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b1e6c  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2350
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:5caf2a		=(rels)=>		1
+[*] Unique action: 1:78274 : <<CALL>> : com.dcbbank.commonlib.customview.b.a/b:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Lcom/dcbbank/commonlib/customview/b/a$p;)Landroid/app/Dialog;:5caf2a  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:109955 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b1e6c  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2350
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:5caf3a		=(rels)=>		1
+[*] Unique action: 1:78300 : <<CALL>> : com.dcbbank.commonlib.customview.b.a/b:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Lcom/dcbbank/commonlib/customview/b/a$p;)Landroid/app/Dialog;:5caf3a  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:109955 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b1e6c  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2350
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:5caed0		=(rels)=>		1
+[*] Unique action: 1:78234 : <<CALL>> : com.dcbbank.commonlib.customview.b.a/b:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Lcom/dcbbank/commonlib/customview/b/a$p;)Landroid/app/Dialog;:5caed0  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:109955 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b1e6c  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2350
+Entry: 5b1cdc
+com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V: 5b1e6c -> 5b2350
+		com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V: 190 -> 674
+addPatchReadme: java.lang.Class<com.dcb.prelogin.splash.activity.SplashActivity>onCreate(Landroid/os/Bundle;)V 190 t
+b29e6a69: [+] Patches found in this round: 1
+b29e6a69: [*] Found Patch size: 1
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample1@devRoot-D-R@devDebug-D-R.obfuscated.only_flattened.ilog)
+b29e6a69: Querying offset: 5b1e6c
+b29e6a69: 	--Add method name to patch = com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V 	5b1e6c
+[*] FlowManager: adjust finished.
+[GOOD]: Anti-analysis is identified! :) -- 1 --devDebug
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:584838		=(rels)=>		1
+[*] Unique action: 1:169482 : <<CALL>> : com.dcb.f.c.b.b.c/a:(Landroid/view/View;)V:584838  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:109960 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b1e6c  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b1e74
+android.view.ViewGroup/addView:(Landroid/view/View;)V:49025a		=(rels)=>		1
+[*] Unique action: 1:168458 : <<CALL>> : androidx.fragment.app.i/a:(Landroidx/fragment/app/Fragment;IIIZ)V:49025a  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:109960 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b1e6c  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b1e74
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:58484c		=(rels)=>		1
+[*] Unique action: 1:169494 : <<CALL>> : com.dcb.f.c.b.b.c/a:(Landroid/view/View;)V:58484c  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:109960 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b1e6c  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b1e74
+android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:5af472		=(rels)=>		1
+[*] Unique action: 1:110249 : <<CALL>> : com.dcb.prelogin.splash.activity.SplashActivity/s:()V:5af472  =>  android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:30ca84
+	1:compareBackwardBranch: 1:109960 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b1e6c  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b1e74
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:584810		=(rels)=>		1
+[*] Unique action: 1:169441 : <<CALL>> : com.dcb.f.c.b.b.c/a:(Landroid/view/View;)V:584810  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:109960 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b1e6c  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b1e74
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:584824		=(rels)=>		1
+[*] Unique action: 1:169468 : <<CALL>> : com.dcb.f.c.b.b.c/a:(Landroid/view/View;)V:584824  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:109960 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b1e6c  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b1e74
+android.app.Dialog/show:()V:5cafa8		=(rels)=>		1
+[*] Unique action: 1:96814 : <<CALL>> : com.dcbbank.commonlib.customview.b.a/b:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Lcom/dcbbank/commonlib/customview/b/a$p;)Landroid/app/Dialog;:5cafa8  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:109955 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b1e6c  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2350
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:5caf2a		=(rels)=>		1
+[*] Unique action: 1:96752 : <<CALL>> : com.dcbbank.commonlib.customview.b.a/b:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Lcom/dcbbank/commonlib/customview/b/a$p;)Landroid/app/Dialog;:5caf2a  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:109955 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b1e6c  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2350
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:5caf3a		=(rels)=>		1
+[*] Unique action: 1:96760 : <<CALL>> : com.dcbbank.commonlib.customview.b.a/b:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Lcom/dcbbank/commonlib/customview/b/a$p;)Landroid/app/Dialog;:5caf3a  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:109955 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b1e6c  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2350
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:5caed0		=(rels)=>		1
+[*] Unique action: 1:96739 : <<CALL>> : com.dcbbank.commonlib.customview.b.a/b:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Lcom/dcbbank/commonlib/customview/b/a$p;)Landroid/app/Dialog;:5caed0  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:109955 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b1e6c  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2350
+Entry: 5b1cdc
+com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V: 5b1e6c -> 5b2350
+		com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V: 190 -> 674
+addPatchReadme: java.lang.Class<com.dcb.prelogin.splash.activity.SplashActivity>onCreate(Landroid/os/Bundle;)V 190 t
+159ceeed: [+] Patches found in this round: 1
+159ceeed: [*] Found Patch size: 1
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample1@devRoot-D-R@devDebug-D-R.obfuscated.only_flattened.ilog)
+159ceeed: Querying offset: 5b1e6c
+159ceeed: 	--Add method name to patch = com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V 	5b1e6c
+Devices presenting anti-analysis: 
+	devRoot
+	devDebug
+b29e6a69: patching method: com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened_devRoot
+Wow!!!!!  --  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 196
+branchTarget: 674
+label = sswitch_data_6
+GOTO -- 196 	674
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened_devRoot/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened_devRoot/signed_sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened.apk
+b29e6a69: First address of Lcom/dcb/prelogin/splash/activity/SplashActivity;->onCreate(Landroid/os/Bundle;)V = 5b1cec
+b29e6a69: Address - Lcom/dcb/prelogin/splash/activity/SplashActivity;->onCreate(Landroid/os/Bundle;)V@190	 lastOffset = c64
+b29e6a69: Instruction@@: SPARSE_SWITCH
+159ceeed: patching method: com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V
+159ceeed: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened_devDebug
+Wow!!!!!  --  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 196
+branchTarget: 674
+label = sswitch_data_6
+GOTO -- 196 	674
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened_devDebug/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened_devDebug/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened.apk
+159ceeed: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened_devDebug/signed_sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened.apk
+159ceeed: First address of Lcom/dcb/prelogin/splash/activity/SplashActivity;->onCreate(Landroid/os/Bundle;)V = 5b1cec
+159ceeed: Address - Lcom/dcb/prelogin/splash/activity/SplashActivity;->onCreate(Landroid/os/Bundle;)V@190	 lastOffset = c64
+159ceeed: Instruction@@: SPARSE_SWITCH
+159ceeed: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened_devDebug/signed_sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened.apk
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened_devRoot/signed_sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened.apk
+159ceeed: Installation Success
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+159ceeed: startApplication called! - devDebug
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample1@devRoot-D-R@devDebug-D-R.obfuscated.only_flattened.ilog)
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample1@devRoot-D-R@devDebug-D-R.obfuscated.only_flattened.ilog)
+b29e6a69: Running Application: com.dcb
+PIDs--------------------------------------------------------------------------
+u0_a281       10398    425 14943668 111392 0                  0 R com.dcb
+forward tcp:5005 jdwp:10398
+[*]Found JDWP Target: 10398
+159ceeed: Running Application: com.dcb
+159ceeed: Running is done - starting comparing... : 5001
+159ceeed: Terminated logcat thread...by itself
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+159ceeed: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.dcb
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.dcb
+Tryging remove : uninstall com.dcb(com.dcb)
+159ceeed: Remove Success
+159ceeed: ilog file size: 22167739
+159ceeed: End of collecting logcat...
+Tryging remove : uninstall com.dcb(com.dcb)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 18907749
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 28
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+159ceeed: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened.apk launch is failed on devRoot
+159ceeed: 	--result: Failed :( (1)
+159ceeed: /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened.apk launch is failed on devDebug
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 5b1e6c
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:584838		=(rels)=>		1
+[*] Unique action: 1:169482 : <<CALL>> : com.dcb.f.c.b.b.c/a:(Landroid/view/View;)V:584838  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:109950 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b228a  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2348
+android.view.ViewGroup/addView:(Landroid/view/View;)V:49025a		=(rels)=>		1
+[*] Unique action: 1:168458 : <<CALL>> : androidx.fragment.app.i/a:(Landroidx/fragment/app/Fragment;IIIZ)V:49025a  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:109950 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b228a  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2348
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:58484c		=(rels)=>		1
+[*] Unique action: 1:169494 : <<CALL>> : com.dcb.f.c.b.b.c/a:(Landroid/view/View;)V:58484c  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:109950 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b228a  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2348
+android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:5af472		=(rels)=>		1
+[*] Unique action: 1:110249 : <<CALL>> : com.dcb.prelogin.splash.activity.SplashActivity/s:()V:5af472  =>  android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:30ca84
+	1:compareBackwardBranch: 1:109950 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b228a  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2348
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:584810		=(rels)=>		1
+[*] Unique action: 1:169441 : <<CALL>> : com.dcb.f.c.b.b.c/a:(Landroid/view/View;)V:584810  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:109950 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b228a  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2348
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:584824		=(rels)=>		1
+[*] Unique action: 1:169468 : <<CALL>> : com.dcb.f.c.b.b.c/a:(Landroid/view/View;)V:584824  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:109950 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b228a  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2348
+android.app.Dialog/show:()V:5cafa8		=(rels)=>		1
+[*] Unique action: 1:78311 : <<CALL>> : com.dcbbank.commonlib.customview.b.a/b:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Lcom/dcbbank/commonlib/customview/b/a$p;)Landroid/app/Dialog;:5cafa8  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:109947 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b228a  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2292
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:5caf2a		=(rels)=>		1
+[*] Unique action: 1:78274 : <<CALL>> : com.dcbbank.commonlib.customview.b.a/b:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Lcom/dcbbank/commonlib/customview/b/a$p;)Landroid/app/Dialog;:5caf2a  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:109947 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b228a  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2292
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:5caf3a		=(rels)=>		1
+[*] Unique action: 1:78300 : <<CALL>> : com.dcbbank.commonlib.customview.b.a/b:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Lcom/dcbbank/commonlib/customview/b/a$p;)Landroid/app/Dialog;:5caf3a  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:109947 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b228a  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2292
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:5caed0		=(rels)=>		1
+[*] Unique action: 1:78234 : <<CALL>> : com.dcbbank.commonlib.customview.b.a/b:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Lcom/dcbbank/commonlib/customview/b/a$p;)Landroid/app/Dialog;:5caed0  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:109947 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b228a  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2292
+Entry: 5b1cdc
+com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V: 5b228a -> 5b2292
+		com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V: 5ae -> 5b6
+addPatchReadme: java.lang.Class<com.dcb.prelogin.splash.activity.SplashActivity>onCreate(Landroid/os/Bundle;)V 5ae t
+b29e6a69: [+] Patches found in this round: 1
+b29e6a69: [*] Found Patch size: 1
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample1@devRoot-D-R@devDebug-D-R.obfuscated.only_flattened.ilog)
+b29e6a69: Querying offset: 5b228a
+b29e6a69: 	--Add method name to patch = com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V 	5b228a
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 5b1e6c
+[GOOD]: Anti-analysis is identified! :) -- 1 --devDebug
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:584838		=(rels)=>		1
+[*] Unique action: 1:169482 : <<CALL>> : com.dcb.f.c.b.b.c/a:(Landroid/view/View;)V:584838  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:109950 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b228a  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2348
+android.view.ViewGroup/addView:(Landroid/view/View;)V:49025a		=(rels)=>		1
+[*] Unique action: 1:168458 : <<CALL>> : androidx.fragment.app.i/a:(Landroidx/fragment/app/Fragment;IIIZ)V:49025a  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:109950 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b228a  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2348
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:58484c		=(rels)=>		1
+[*] Unique action: 1:169494 : <<CALL>> : com.dcb.f.c.b.b.c/a:(Landroid/view/View;)V:58484c  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:109950 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b228a  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2348
+android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:5af472		=(rels)=>		1
+[*] Unique action: 1:110249 : <<CALL>> : com.dcb.prelogin.splash.activity.SplashActivity/s:()V:5af472  =>  android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:30ca84
+	1:compareBackwardBranch: 1:109950 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b228a  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2348
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:584810		=(rels)=>		1
+[*] Unique action: 1:169441 : <<CALL>> : com.dcb.f.c.b.b.c/a:(Landroid/view/View;)V:584810  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:109950 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b228a  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2348
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:584824		=(rels)=>		1
+[*] Unique action: 1:169468 : <<CALL>> : com.dcb.f.c.b.b.c/a:(Landroid/view/View;)V:584824  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:109950 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b228a  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2348
+android.app.Dialog/show:()V:5cafa8		=(rels)=>		1
+[*] Unique action: 1:96814 : <<CALL>> : com.dcbbank.commonlib.customview.b.a/b:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Lcom/dcbbank/commonlib/customview/b/a$p;)Landroid/app/Dialog;:5cafa8  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:109947 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b228a  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2292
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:5caf2a		=(rels)=>		1
+[*] Unique action: 1:96752 : <<CALL>> : com.dcbbank.commonlib.customview.b.a/b:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Lcom/dcbbank/commonlib/customview/b/a$p;)Landroid/app/Dialog;:5caf2a  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:109947 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b228a  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2292
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:5caf3a		=(rels)=>		1
+[*] Unique action: 1:96760 : <<CALL>> : com.dcbbank.commonlib.customview.b.a/b:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Lcom/dcbbank/commonlib/customview/b/a$p;)Landroid/app/Dialog;:5caf3a  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:109947 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b228a  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2292
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:5caed0		=(rels)=>		1
+[*] Unique action: 1:96739 : <<CALL>> : com.dcbbank.commonlib.customview.b.a/b:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Lcom/dcbbank/commonlib/customview/b/a$p;)Landroid/app/Dialog;:5caed0  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:109947 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b228a  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2292
+Entry: 5b1cdc
+com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V: 5b228a -> 5b2292
+		com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V: 5ae -> 5b6
+addPatchReadme: java.lang.Class<com.dcb.prelogin.splash.activity.SplashActivity>onCreate(Landroid/os/Bundle;)V 5ae t
+159ceeed: [+] Patches found in this round: 1
+159ceeed: [*] Found Patch size: 1
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample1@devRoot-D-R@devDebug-D-R.obfuscated.only_flattened.ilog)
+159ceeed: Querying offset: 5b228a
+159ceeed: 	--Add method name to patch = com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V 	5b228a
+Devices presenting anti-analysis: 
+	devRoot
+	devDebug
+b29e6a69: patching method: com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened_devRoot
+Wow!!!!!  --  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 5b4
+branchTarget: 5b6
+label = sswitch_data_27
+GOTO -- 5b4 	5b6
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened_devRoot/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened_devRoot/signed_sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened.apk
+b29e6a69: First address of Lcom/dcb/prelogin/splash/activity/SplashActivity;->onCreate(Landroid/os/Bundle;)V = 5b1cec
+b29e6a69: Address - Lcom/dcb/prelogin/splash/activity/SplashActivity;->onCreate(Landroid/os/Bundle;)V@5ae	 lastOffset = c64
+b29e6a69: Instruction@@: SPARSE_SWITCH
+159ceeed: patching method: com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V
+159ceeed: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened_devDebug
+Wow!!!!!  --  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 5b4
+branchTarget: 5b6
+label = sswitch_data_27
+GOTO -- 5b4 	5b6
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened_devDebug/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened_devDebug/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened.apk
+159ceeed: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened_devDebug/signed_sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened.apk
+159ceeed: First address of Lcom/dcb/prelogin/splash/activity/SplashActivity;->onCreate(Landroid/os/Bundle;)V = 5b1cec
+159ceeed: Address - Lcom/dcb/prelogin/splash/activity/SplashActivity;->onCreate(Landroid/os/Bundle;)V@5ae	 lastOffset = c64
+159ceeed: Instruction@@: SPARSE_SWITCH
+159ceeed: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened_devDebug/signed_sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened.apk
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened_devRoot/signed_sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened.apk
+159ceeed: Installation Success
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+159ceeed: startApplication called! - devDebug
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample1@devRoot-D-R@devDebug-D-R.obfuscated.only_flattened.ilog)
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample1@devRoot-D-R@devDebug-D-R.obfuscated.only_flattened.ilog)
+b29e6a69: Running Application: com.dcb
+PIDs--------------------------------------------------------------------------
+u0_a282       10599    425 14926224 110344 0                  0 S com.dcb
+forward tcp:5005 jdwp:10599
+[*]Found JDWP Target: 10599
+159ceeed: Running Application: com.dcb
+159ceeed: Running is done - starting comparing... : 5001
+159ceeed: Terminated logcat thread...by itself
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+159ceeed: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.dcb
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.dcb
+Tryging remove : uninstall com.dcb(com.dcb)
+159ceeed: Remove Success
+159ceeed: ilog file size: 22292542
+159ceeed: End of collecting logcat...
+Tryging remove : uninstall com.dcb(com.dcb)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 20055733
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 27
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+b29e6a69: /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened.apk launch is failed on devRoot
+159ceeed: isFailedToLaunch: com.android.launcher3/.Launcher
+159ceeed: 	--result: Failed :( (1)
+159ceeed: /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened.apk launch is failed on devDebug
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 5b228a
+-- current localPatchFilter: 5b1e6c
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:584838		=(rels)=>		1
+[*] Unique action: 1:169482 : <<CALL>> : com.dcb.f.c.b.b.c/a:(Landroid/view/View;)V:584838  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:109944 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b22b2  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2342
+android.view.ViewGroup/addView:(Landroid/view/View;)V:49025a		=(rels)=>		1
+[*] Unique action: 1:168458 : <<CALL>> : androidx.fragment.app.i/a:(Landroidx/fragment/app/Fragment;IIIZ)V:49025a  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:109944 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b22b2  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2342
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:58484c		=(rels)=>		1
+[*] Unique action: 1:169494 : <<CALL>> : com.dcb.f.c.b.b.c/a:(Landroid/view/View;)V:58484c  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:109944 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b22b2  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2342
+android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:5af472		=(rels)=>		1
+[*] Unique action: 1:110249 : <<CALL>> : com.dcb.prelogin.splash.activity.SplashActivity/s:()V:5af472  =>  android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:30ca84
+	1:compareBackwardBranch: 1:109944 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b22b2  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2342
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:584810		=(rels)=>		1
+[*] Unique action: 1:169441 : <<CALL>> : com.dcb.f.c.b.b.c/a:(Landroid/view/View;)V:584810  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:109944 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b22b2  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2342
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:584824		=(rels)=>		1
+[*] Unique action: 1:169468 : <<CALL>> : com.dcb.f.c.b.b.c/a:(Landroid/view/View;)V:584824  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:109944 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b22b2  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2342
+android.app.Dialog/show:()V:5cafa8		=(rels)=>		1
+[*] Unique action: 1:78311 : <<CALL>> : com.dcbbank.commonlib.customview.b.a/b:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Lcom/dcbbank/commonlib/customview/b/a$p;)Landroid/app/Dialog;:5cafa8  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:109941 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b22b2  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b233c
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:5caf2a		=(rels)=>		1
+[*] Unique action: 1:78274 : <<CALL>> : com.dcbbank.commonlib.customview.b.a/b:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Lcom/dcbbank/commonlib/customview/b/a$p;)Landroid/app/Dialog;:5caf2a  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:109941 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b22b2  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b233c
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:5caf3a		=(rels)=>		1
+[*] Unique action: 1:78300 : <<CALL>> : com.dcbbank.commonlib.customview.b.a/b:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Lcom/dcbbank/commonlib/customview/b/a$p;)Landroid/app/Dialog;:5caf3a  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:109941 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b22b2  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b233c
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:5caed0		=(rels)=>		1
+[*] Unique action: 1:78234 : <<CALL>> : com.dcbbank.commonlib.customview.b.a/b:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Lcom/dcbbank/commonlib/customview/b/a$p;)Landroid/app/Dialog;:5caed0  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:109941 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b22b2  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b233c
+Entry: 5b1cdc
+com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V: 5b22b2 -> 5b233c
+		com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V: 5d6 -> 660
+addPatchReadme: java.lang.Class<com.dcb.prelogin.splash.activity.SplashActivity>onCreate(Landroid/os/Bundle;)V 5d6 t
+b29e6a69: [+] Patches found in this round: 1
+b29e6a69: [*] Found Patch size: 1
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample1@devRoot-D-R@devDebug-D-R.obfuscated.only_flattened.ilog)
+b29e6a69: Querying offset: 5b22b2
+b29e6a69: 	--Add method name to patch = com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V 	5b22b2
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 5b228a
+-- current localPatchFilter: 5b1e6c
+[GOOD]: Anti-analysis is identified! :) -- 1 --devDebug
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:584838		=(rels)=>		1
+[*] Unique action: 1:169482 : <<CALL>> : com.dcb.f.c.b.b.c/a:(Landroid/view/View;)V:584838  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:109944 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b22b2  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2342
+android.view.ViewGroup/addView:(Landroid/view/View;)V:49025a		=(rels)=>		1
+[*] Unique action: 1:168458 : <<CALL>> : androidx.fragment.app.i/a:(Landroidx/fragment/app/Fragment;IIIZ)V:49025a  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:109944 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b22b2  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2342
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:58484c		=(rels)=>		1
+[*] Unique action: 1:169494 : <<CALL>> : com.dcb.f.c.b.b.c/a:(Landroid/view/View;)V:58484c  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:109944 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b22b2  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2342
+android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:5af472		=(rels)=>		1
+[*] Unique action: 1:110249 : <<CALL>> : com.dcb.prelogin.splash.activity.SplashActivity/s:()V:5af472  =>  android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:30ca84
+	1:compareBackwardBranch: 1:109944 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b22b2  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2342
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:584810		=(rels)=>		1
+[*] Unique action: 1:169441 : <<CALL>> : com.dcb.f.c.b.b.c/a:(Landroid/view/View;)V:584810  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:109944 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b22b2  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2342
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:584824		=(rels)=>		1
+[*] Unique action: 1:169468 : <<CALL>> : com.dcb.f.c.b.b.c/a:(Landroid/view/View;)V:584824  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:109944 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b22b2  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2342
+android.app.Dialog/show:()V:5cafa8		=(rels)=>		1
+[*] Unique action: 1:96814 : <<CALL>> : com.dcbbank.commonlib.customview.b.a/b:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Lcom/dcbbank/commonlib/customview/b/a$p;)Landroid/app/Dialog;:5cafa8  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:109941 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b22b2  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b233c
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:5caf2a		=(rels)=>		1
+[*] Unique action: 1:96752 : <<CALL>> : com.dcbbank.commonlib.customview.b.a/b:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Lcom/dcbbank/commonlib/customview/b/a$p;)Landroid/app/Dialog;:5caf2a  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:109941 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b22b2  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b233c
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:5caf3a		=(rels)=>		1
+[*] Unique action: 1:96760 : <<CALL>> : com.dcbbank.commonlib.customview.b.a/b:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Lcom/dcbbank/commonlib/customview/b/a$p;)Landroid/app/Dialog;:5caf3a  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:109941 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b22b2  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b233c
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:5caed0		=(rels)=>		1
+[*] Unique action: 1:96739 : <<CALL>> : com.dcbbank.commonlib.customview.b.a/b:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Lcom/dcbbank/commonlib/customview/b/a$p;)Landroid/app/Dialog;:5caed0  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:109941 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b22b2  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b233c
+Entry: 5b1cdc
+com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V: 5b22b2 -> 5b233c
+		com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V: 5d6 -> 660
+addPatchReadme: java.lang.Class<com.dcb.prelogin.splash.activity.SplashActivity>onCreate(Landroid/os/Bundle;)V 5d6 t
+159ceeed: [+] Patches found in this round: 1
+159ceeed: [*] Found Patch size: 1
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample1@devRoot-D-R@devDebug-D-R.obfuscated.only_flattened.ilog)
+159ceeed: Querying offset: 5b22b2
+159ceeed: 	--Add method name to patch = com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V 	5b22b2
+Devices presenting anti-analysis: 
+	devRoot
+	devDebug
+b29e6a69: patching method: com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened_devRoot
+Wow!!!!!  --  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 5dc
+branchTarget: 660
+label = sswitch_data_28
+GOTO -- 5dc 	660
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened_devRoot/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened_devRoot/signed_sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened.apk
+b29e6a69: First address of Lcom/dcb/prelogin/splash/activity/SplashActivity;->onCreate(Landroid/os/Bundle;)V = 5b1cec
+b29e6a69: Address - Lcom/dcb/prelogin/splash/activity/SplashActivity;->onCreate(Landroid/os/Bundle;)V@5d6	 lastOffset = c64
+b29e6a69: Instruction@@: SPARSE_SWITCH
+159ceeed: patching method: com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V
+159ceeed: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened_devDebug
+Wow!!!!!  --  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 5dc
+branchTarget: 660
+label = sswitch_data_28
+GOTO -- 5dc 	660
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened_devDebug/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened_devDebug/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened.apk
+159ceeed: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened_devDebug/signed_sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened.apk
+159ceeed: First address of Lcom/dcb/prelogin/splash/activity/SplashActivity;->onCreate(Landroid/os/Bundle;)V = 5b1cec
+159ceeed: Address - Lcom/dcb/prelogin/splash/activity/SplashActivity;->onCreate(Landroid/os/Bundle;)V@5d6	 lastOffset = c64
+159ceeed: Instruction@@: SPARSE_SWITCH
+159ceeed: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened_devDebug/signed_sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened.apk
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened_devRoot/signed_sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened.apk
+159ceeed: Installation Success
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+159ceeed: startApplication called! - devDebug
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample1@devRoot-D-R@devDebug-D-R.obfuscated.only_flattened.ilog)
+b29e6a69: Running Application: com.dcb
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample1@devRoot-D-R@devDebug-D-R.obfuscated.only_flattened.ilog)
+PIDs--------------------------------------------------------------------------
+u0_a283       10799    425 14942520 109164 0                  0 R com.dcb
+forward tcp:5005 jdwp:10799
+[*]Found JDWP Target: 10799
+159ceeed: Running Application: com.dcb
+159ceeed: Running is done - starting comparing... : 5001
+159ceeed: Terminated logcat thread...by itself
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+159ceeed: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.dcb
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.dcb
+Tryging remove : uninstall com.dcb(com.dcb)
+159ceeed: Remove Success
+159ceeed: ilog file size: 22709982
+159ceeed: End of collecting logcat...
+Tryging remove : uninstall com.dcb(com.dcb)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 20499387
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 26
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+159ceeed: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened.apk launch is failed on devRoot
+159ceeed: 	--result: Failed :( (1)
+159ceeed: /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened.apk launch is failed on devDebug
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 5b228a
+-- current localPatchFilter: 5b1e6c
+-- current localPatchFilter: 5b22b2
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:584838		=(rels)=>		1
+[*] Unique action: 1:169482 : <<CALL>> : com.dcb.f.c.b.b.c/a:(Landroid/view/View;)V:584838  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:109938 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b22ce  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2336
+android.view.ViewGroup/addView:(Landroid/view/View;)V:49025a		=(rels)=>		1
+[*] Unique action: 1:168458 : <<CALL>> : androidx.fragment.app.i/a:(Landroidx/fragment/app/Fragment;IIIZ)V:49025a  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:109938 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b22ce  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2336
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:58484c		=(rels)=>		1
+[*] Unique action: 1:169494 : <<CALL>> : com.dcb.f.c.b.b.c/a:(Landroid/view/View;)V:58484c  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:109938 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b22ce  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2336
+android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:5af472		=(rels)=>		1
+[*] Unique action: 1:110249 : <<CALL>> : com.dcb.prelogin.splash.activity.SplashActivity/s:()V:5af472  =>  android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:30ca84
+	1:compareBackwardBranch: 1:109938 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b22ce  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2336
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:584810		=(rels)=>		1
+[*] Unique action: 1:169441 : <<CALL>> : com.dcb.f.c.b.b.c/a:(Landroid/view/View;)V:584810  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:109938 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b22ce  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2336
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:584824		=(rels)=>		1
+[*] Unique action: 1:169468 : <<CALL>> : com.dcb.f.c.b.b.c/a:(Landroid/view/View;)V:584824  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:109938 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b22ce  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2336
+android.app.Dialog/show:()V:5cafa8		=(rels)=>		1
+[*] Unique action: 1:78311 : <<CALL>> : com.dcbbank.commonlib.customview.b.a/b:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Lcom/dcbbank/commonlib/customview/b/a$p;)Landroid/app/Dialog;:5cafa8  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:109935 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b22ce  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2330
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:5caf2a		=(rels)=>		1
+[*] Unique action: 1:78274 : <<CALL>> : com.dcbbank.commonlib.customview.b.a/b:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Lcom/dcbbank/commonlib/customview/b/a$p;)Landroid/app/Dialog;:5caf2a  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:109935 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b22ce  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2330
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:5caf3a		=(rels)=>		1
+[*] Unique action: 1:78300 : <<CALL>> : com.dcbbank.commonlib.customview.b.a/b:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Lcom/dcbbank/commonlib/customview/b/a$p;)Landroid/app/Dialog;:5caf3a  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:109935 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b22ce  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2330
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:5caed0		=(rels)=>		1
+[*] Unique action: 1:78234 : <<CALL>> : com.dcbbank.commonlib.customview.b.a/b:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Lcom/dcbbank/commonlib/customview/b/a$p;)Landroid/app/Dialog;:5caed0  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:109935 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b22ce  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2330
+Entry: 5b1cdc
+com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V: 5b22ce -> 5b2330
+		com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V: 5f2 -> 654
+addPatchReadme: java.lang.Class<com.dcb.prelogin.splash.activity.SplashActivity>onCreate(Landroid/os/Bundle;)V 5f2 t
+b29e6a69: [+] Patches found in this round: 1
+b29e6a69: [*] Found Patch size: 1
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample1@devRoot-D-R@devDebug-D-R.obfuscated.only_flattened.ilog)
+b29e6a69: Querying offset: 5b22ce
+b29e6a69: 	--Add method name to patch = com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V 	5b22ce
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 5b228a
+-- current localPatchFilter: 5b1e6c
+-- current localPatchFilter: 5b22b2
+[GOOD]: Anti-analysis is identified! :) -- 1 --devDebug
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:584838		=(rels)=>		1
+[*] Unique action: 1:169482 : <<CALL>> : com.dcb.f.c.b.b.c/a:(Landroid/view/View;)V:584838  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:109938 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b22ce  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2336
+android.view.ViewGroup/addView:(Landroid/view/View;)V:49025a		=(rels)=>		1
+[*] Unique action: 1:168458 : <<CALL>> : androidx.fragment.app.i/a:(Landroidx/fragment/app/Fragment;IIIZ)V:49025a  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:109938 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b22ce  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2336
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:58484c		=(rels)=>		1
+[*] Unique action: 1:169494 : <<CALL>> : com.dcb.f.c.b.b.c/a:(Landroid/view/View;)V:58484c  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:109938 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b22ce  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2336
+android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:5af472		=(rels)=>		1
+[*] Unique action: 1:110249 : <<CALL>> : com.dcb.prelogin.splash.activity.SplashActivity/s:()V:5af472  =>  android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:30ca84
+	1:compareBackwardBranch: 1:109938 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b22ce  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2336
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:584810		=(rels)=>		1
+[*] Unique action: 1:169441 : <<CALL>> : com.dcb.f.c.b.b.c/a:(Landroid/view/View;)V:584810  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:109938 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b22ce  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2336
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:584824		=(rels)=>		1
+[*] Unique action: 1:169468 : <<CALL>> : com.dcb.f.c.b.b.c/a:(Landroid/view/View;)V:584824  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:109938 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b22ce  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2336
+android.app.Dialog/show:()V:5cafa8		=(rels)=>		1
+[*] Unique action: 1:96814 : <<CALL>> : com.dcbbank.commonlib.customview.b.a/b:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Lcom/dcbbank/commonlib/customview/b/a$p;)Landroid/app/Dialog;:5cafa8  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:109935 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b22ce  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2330
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:5caf2a		=(rels)=>		1
+[*] Unique action: 1:96752 : <<CALL>> : com.dcbbank.commonlib.customview.b.a/b:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Lcom/dcbbank/commonlib/customview/b/a$p;)Landroid/app/Dialog;:5caf2a  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:109935 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b22ce  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2330
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:5caf3a		=(rels)=>		1
+[*] Unique action: 1:96760 : <<CALL>> : com.dcbbank.commonlib.customview.b.a/b:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Lcom/dcbbank/commonlib/customview/b/a$p;)Landroid/app/Dialog;:5caf3a  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:109935 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b22ce  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2330
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:5caed0		=(rels)=>		1
+[*] Unique action: 1:96739 : <<CALL>> : com.dcbbank.commonlib.customview.b.a/b:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Lcom/dcbbank/commonlib/customview/b/a$p;)Landroid/app/Dialog;:5caed0  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:109935 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b22ce  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2330
+Entry: 5b1cdc
+com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V: 5b22ce -> 5b2330
+		com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V: 5f2 -> 654
+addPatchReadme: java.lang.Class<com.dcb.prelogin.splash.activity.SplashActivity>onCreate(Landroid/os/Bundle;)V 5f2 t
+159ceeed: [+] Patches found in this round: 1
+159ceeed: [*] Found Patch size: 1
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample1@devRoot-D-R@devDebug-D-R.obfuscated.only_flattened.ilog)
+159ceeed: Querying offset: 5b22ce
+159ceeed: 	--Add method name to patch = com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V 	5b22ce
+Devices presenting anti-analysis: 
+	devRoot
+	devDebug
+b29e6a69: patching method: com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened_devRoot
+Wow!!!!!  --  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 5f8
+branchTarget: 654
+label = sswitch_data_29
+GOTO -- 5f8 	654
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened_devRoot/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened_devRoot/signed_sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened.apk
+b29e6a69: First address of Lcom/dcb/prelogin/splash/activity/SplashActivity;->onCreate(Landroid/os/Bundle;)V = 5b1cec
+b29e6a69: Address - Lcom/dcb/prelogin/splash/activity/SplashActivity;->onCreate(Landroid/os/Bundle;)V@5f2	 lastOffset = c64
+b29e6a69: Instruction@@: SPARSE_SWITCH
+159ceeed: patching method: com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V
+159ceeed: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened_devDebug
+Wow!!!!!  --  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 5f8
+branchTarget: 654
+label = sswitch_data_29
+GOTO -- 5f8 	654
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened_devDebug/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened_devDebug/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened.apk
+159ceeed: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened_devDebug/signed_sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened.apk
+159ceeed: First address of Lcom/dcb/prelogin/splash/activity/SplashActivity;->onCreate(Landroid/os/Bundle;)V = 5b1cec
+159ceeed: Address - Lcom/dcb/prelogin/splash/activity/SplashActivity;->onCreate(Landroid/os/Bundle;)V@5f2	 lastOffset = c64
+159ceeed: Instruction@@: SPARSE_SWITCH
+159ceeed: (Not Installed) Trying remove : true
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened_devDebug/signed_sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened_devRoot/signed_sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened.apk
+159ceeed: Installation Success
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+159ceeed: startApplication called! - devDebug
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample1@devRoot-D-R@devDebug-D-R.obfuscated.only_flattened.ilog)
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample1@devRoot-D-R@devDebug-D-R.obfuscated.only_flattened.ilog)
+b29e6a69: Running Application: com.dcb
+PIDs--------------------------------------------------------------------------
+u0_a284       11000    425 14926224 110296 0                  0 R com.dcb
+forward tcp:5005 jdwp:11000
+[*]Found JDWP Target: 11000
+159ceeed: Running Application: com.dcb
+159ceeed: Running is done - starting comparing... : 5001
+159ceeed: Terminated logcat thread...by itself
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+159ceeed: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.dcb
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.dcb
+Tryging remove : uninstall com.dcb(com.dcb)
+159ceeed: Remove Success
+159ceeed: ilog file size: 22704766
+159ceeed: End of collecting logcat...
+Tryging remove : uninstall com.dcb(com.dcb)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 19862603
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 25
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+b29e6a69: /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened.apk launch is failed on devRoot
+159ceeed: isFailedToLaunch: com.android.launcher3/.Launcher
+159ceeed: 	--result: Failed :( (1)
+159ceeed: /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened.apk launch is failed on devDebug
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 5b228a
+-- current localPatchFilter: 5b22ce
+-- current localPatchFilter: 5b1e6c
+-- current localPatchFilter: 5b22b2
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:584838		=(rels)=>		1
+[*] Unique action: 1:169482 : <<CALL>> : com.dcb.f.c.b.b.c/a:(Landroid/view/View;)V:584838  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:109932 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b22ea  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b22f2
+android.view.ViewGroup/addView:(Landroid/view/View;)V:49025a		=(rels)=>		1
+[*] Unique action: 1:168458 : <<CALL>> : androidx.fragment.app.i/a:(Landroidx/fragment/app/Fragment;IIIZ)V:49025a  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:109932 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b22ea  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b22f2
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:58484c		=(rels)=>		1
+[*] Unique action: 1:169494 : <<CALL>> : com.dcb.f.c.b.b.c/a:(Landroid/view/View;)V:58484c  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:109932 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b22ea  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b22f2
+android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:5af472		=(rels)=>		1
+[*] Unique action: 1:110249 : <<CALL>> : com.dcb.prelogin.splash.activity.SplashActivity/s:()V:5af472  =>  android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:30ca84
+	1:compareBackwardBranch: 1:109932 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b22ea  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b22f2
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:584810		=(rels)=>		1
+[*] Unique action: 1:169441 : <<CALL>> : com.dcb.f.c.b.b.c/a:(Landroid/view/View;)V:584810  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:109932 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b22ea  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b22f2
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:584824		=(rels)=>		1
+[*] Unique action: 1:169468 : <<CALL>> : com.dcb.f.c.b.b.c/a:(Landroid/view/View;)V:584824  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:109932 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b22ea  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b22f2
+android.app.Dialog/show:()V:5cafa8		=(rels)=>		1
+[*] Unique action: 1:78311 : <<CALL>> : com.dcbbank.commonlib.customview.b.a/b:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Lcom/dcbbank/commonlib/customview/b/a$p;)Landroid/app/Dialog;:5cafa8  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:109929 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b22ea  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b232a
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:5caf2a		=(rels)=>		1
+[*] Unique action: 1:78274 : <<CALL>> : com.dcbbank.commonlib.customview.b.a/b:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Lcom/dcbbank/commonlib/customview/b/a$p;)Landroid/app/Dialog;:5caf2a  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:109929 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b22ea  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b232a
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:5caf3a		=(rels)=>		1
+[*] Unique action: 1:78300 : <<CALL>> : com.dcbbank.commonlib.customview.b.a/b:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Lcom/dcbbank/commonlib/customview/b/a$p;)Landroid/app/Dialog;:5caf3a  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:109929 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b22ea  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b232a
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:5caed0		=(rels)=>		1
+[*] Unique action: 1:78234 : <<CALL>> : com.dcbbank.commonlib.customview.b.a/b:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Lcom/dcbbank/commonlib/customview/b/a$p;)Landroid/app/Dialog;:5caed0  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:109929 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b22ea  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b232a
+Entry: 5b1cdc
+com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V: 5b22ea -> 5b232a
+		com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V: 60e -> 64e
+addPatchReadme: java.lang.Class<com.dcb.prelogin.splash.activity.SplashActivity>onCreate(Landroid/os/Bundle;)V 60e t
+b29e6a69: [+] Patches found in this round: 1
+b29e6a69: [*] Found Patch size: 1
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample1@devRoot-D-R@devDebug-D-R.obfuscated.only_flattened.ilog)
+b29e6a69: Querying offset: 5b22ea
+b29e6a69: 	--Add method name to patch = com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V 	5b22ea
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 5b228a
+-- current localPatchFilter: 5b22ce
+-- current localPatchFilter: 5b1e6c
+-- current localPatchFilter: 5b22b2
+[GOOD]: Anti-analysis is identified! :) -- 1 --devDebug
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:584838		=(rels)=>		1
+[*] Unique action: 1:169482 : <<CALL>> : com.dcb.f.c.b.b.c/a:(Landroid/view/View;)V:584838  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:109932 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b22ea  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b22f2
+android.view.ViewGroup/addView:(Landroid/view/View;)V:49025a		=(rels)=>		1
+[*] Unique action: 1:168458 : <<CALL>> : androidx.fragment.app.i/a:(Landroidx/fragment/app/Fragment;IIIZ)V:49025a  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:109932 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b22ea  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b22f2
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:58484c		=(rels)=>		1
+[*] Unique action: 1:169494 : <<CALL>> : com.dcb.f.c.b.b.c/a:(Landroid/view/View;)V:58484c  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:109932 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b22ea  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b22f2
+android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:5af472		=(rels)=>		1
+[*] Unique action: 1:110249 : <<CALL>> : com.dcb.prelogin.splash.activity.SplashActivity/s:()V:5af472  =>  android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:30ca84
+	1:compareBackwardBranch: 1:109932 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b22ea  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b22f2
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:584810		=(rels)=>		1
+[*] Unique action: 1:169441 : <<CALL>> : com.dcb.f.c.b.b.c/a:(Landroid/view/View;)V:584810  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:109932 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b22ea  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b22f2
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:584824		=(rels)=>		1
+[*] Unique action: 1:169468 : <<CALL>> : com.dcb.f.c.b.b.c/a:(Landroid/view/View;)V:584824  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:109932 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b22ea  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b22f2
+android.app.Dialog/show:()V:5cafa8		=(rels)=>		1
+[*] Unique action: 1:96814 : <<CALL>> : com.dcbbank.commonlib.customview.b.a/b:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Lcom/dcbbank/commonlib/customview/b/a$p;)Landroid/app/Dialog;:5cafa8  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:109929 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b22ea  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b232a
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:5caf2a		=(rels)=>		1
+[*] Unique action: 1:96752 : <<CALL>> : com.dcbbank.commonlib.customview.b.a/b:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Lcom/dcbbank/commonlib/customview/b/a$p;)Landroid/app/Dialog;:5caf2a  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:109929 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b22ea  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b232a
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:5caf3a		=(rels)=>		1
+[*] Unique action: 1:96760 : <<CALL>> : com.dcbbank.commonlib.customview.b.a/b:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Lcom/dcbbank/commonlib/customview/b/a$p;)Landroid/app/Dialog;:5caf3a  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:109929 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b22ea  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b232a
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:5caed0		=(rels)=>		1
+[*] Unique action: 1:96739 : <<CALL>> : com.dcbbank.commonlib.customview.b.a/b:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Lcom/dcbbank/commonlib/customview/b/a$p;)Landroid/app/Dialog;:5caed0  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:109929 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b22ea  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b232a
+Entry: 5b1cdc
+com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V: 5b22ea -> 5b232a
+		com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V: 60e -> 64e
+addPatchReadme: java.lang.Class<com.dcb.prelogin.splash.activity.SplashActivity>onCreate(Landroid/os/Bundle;)V 60e t
+159ceeed: [+] Patches found in this round: 1
+159ceeed: [*] Found Patch size: 1
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample1@devRoot-D-R@devDebug-D-R.obfuscated.only_flattened.ilog)
+159ceeed: Querying offset: 5b22ea
+159ceeed: 	--Add method name to patch = com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V 	5b22ea
+Devices presenting anti-analysis: 
+	devRoot
+	devDebug
+b29e6a69: patching method: com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened_devRoot
+Wow!!!!!  --  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 614
+branchTarget: 64e
+label = sswitch_data_30
+GOTO -- 614 	64e
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened_devRoot/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened_devRoot/signed_sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened.apk
+b29e6a69: First address of Lcom/dcb/prelogin/splash/activity/SplashActivity;->onCreate(Landroid/os/Bundle;)V = 5b1cec
+b29e6a69: Address - Lcom/dcb/prelogin/splash/activity/SplashActivity;->onCreate(Landroid/os/Bundle;)V@60e	 lastOffset = c64
+b29e6a69: Instruction@@: SPARSE_SWITCH
+159ceeed: patching method: com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V
+159ceeed: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened_devDebug
+Wow!!!!!  --  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 614
+branchTarget: 64e
+label = sswitch_data_30
+GOTO -- 614 	64e
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened_devDebug/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened_devDebug/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened.apk
+159ceeed: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened_devDebug/signed_sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened.apk
+159ceeed: First address of Lcom/dcb/prelogin/splash/activity/SplashActivity;->onCreate(Landroid/os/Bundle;)V = 5b1cec
+159ceeed: Address - Lcom/dcb/prelogin/splash/activity/SplashActivity;->onCreate(Landroid/os/Bundle;)V@60e	 lastOffset = c64
+159ceeed: Instruction@@: SPARSE_SWITCH
+159ceeed: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened_devDebug/signed_sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened.apk
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened_devRoot/signed_sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened.apk
+159ceeed: Installation Success
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+159ceeed: startApplication called! - devDebug
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample1@devRoot-D-R@devDebug-D-R.obfuscated.only_flattened.ilog)
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample1@devRoot-D-R@devDebug-D-R.obfuscated.only_flattened.ilog)
+b29e6a69: Running Application: com.dcb
+PIDs--------------------------------------------------------------------------
+u0_a285       11197    425 14926224 110448 0                  0 S com.dcb
+forward tcp:5005 jdwp:11197
+[*]Found JDWP Target: 11197
+159ceeed: Running Application: com.dcb
+159ceeed: Running is done - starting comparing... : 5001
+159ceeed: Terminated logcat thread...by itself
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+159ceeed: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.dcb
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.dcb
+Tryging remove : uninstall com.dcb(com.dcb)
+159ceeed: Remove Success
+159ceeed: ilog file size: 22582163
+159ceeed: End of collecting logcat...
+Tryging remove : uninstall com.dcb(com.dcb)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 20330034
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 24
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+b29e6a69: /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened.apk launch is failed on devRoot
+159ceeed: isFailedToLaunch: com.android.launcher3/.Launcher
+159ceeed: 	--result: Failed :( (1)
+159ceeed: /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened.apk launch is failed on devDebug
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 5b228a
+-- current localPatchFilter: 5b22ea
+-- current localPatchFilter: 5b22ce
+-- current localPatchFilter: 5b1e6c
+-- current localPatchFilter: 5b22b2
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:584838		=(rels)=>		1
+[*] Unique action: 1:169482 : <<CALL>> : com.dcb.f.c.b.b.c/a:(Landroid/view/View;)V:584838  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:109926 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2320  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2324
+android.view.ViewGroup/addView:(Landroid/view/View;)V:49025a		=(rels)=>		1
+[*] Unique action: 1:168458 : <<CALL>> : androidx.fragment.app.i/a:(Landroidx/fragment/app/Fragment;IIIZ)V:49025a  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:109926 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2320  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2324
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:58484c		=(rels)=>		1
+[*] Unique action: 1:169494 : <<CALL>> : com.dcb.f.c.b.b.c/a:(Landroid/view/View;)V:58484c  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:109926 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2320  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2324
+android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:5af472		=(rels)=>		1
+[*] Unique action: 1:110249 : <<CALL>> : com.dcb.prelogin.splash.activity.SplashActivity/s:()V:5af472  =>  android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:30ca84
+	1:compareBackwardBranch: 1:109926 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2320  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2324
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:584810		=(rels)=>		1
+[*] Unique action: 1:169441 : <<CALL>> : com.dcb.f.c.b.b.c/a:(Landroid/view/View;)V:584810  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:109926 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2320  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2324
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:584824		=(rels)=>		1
+[*] Unique action: 1:169468 : <<CALL>> : com.dcb.f.c.b.b.c/a:(Landroid/view/View;)V:584824  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:109926 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2320  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2324
+android.app.Dialog/show:()V:5cafa8		=(rels)=>		1
+[*] Unique action: 1:78311 : <<CALL>> : com.dcbbank.commonlib.customview.b.a/b:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Lcom/dcbbank/commonlib/customview/b/a$p;)Landroid/app/Dialog;:5cafa8  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:109926 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2320  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2324
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:5caf2a		=(rels)=>		1
+[*] Unique action: 1:78274 : <<CALL>> : com.dcbbank.commonlib.customview.b.a/b:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Lcom/dcbbank/commonlib/customview/b/a$p;)Landroid/app/Dialog;:5caf2a  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:109926 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2320  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2324
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:5caf3a		=(rels)=>		1
+[*] Unique action: 1:78300 : <<CALL>> : com.dcbbank.commonlib.customview.b.a/b:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Lcom/dcbbank/commonlib/customview/b/a$p;)Landroid/app/Dialog;:5caf3a  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:109926 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2320  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2324
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:5caed0		=(rels)=>		1
+[*] Unique action: 1:78234 : <<CALL>> : com.dcbbank.commonlib.customview.b.a/b:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Lcom/dcbbank/commonlib/customview/b/a$p;)Landroid/app/Dialog;:5caed0  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:109926 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2320  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2324
+Entry: 5b1cdc
+com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V: 5b2320 -> 5b2324
+		com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V: 644 -> 648
+addPatchReadme: java.lang.Class<com.dcb.prelogin.splash.activity.SplashActivity>onCreate(Landroid/os/Bundle;)V 644 f
+b29e6a69: [+] Patches found in this round: 1
+b29e6a69: [*] Found Patch size: 1
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample1@devRoot-D-R@devDebug-D-R.obfuscated.only_flattened.ilog)
+b29e6a69: Querying offset: 5b2320
+b29e6a69: 	--Add method name to patch = com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V 	5b2320
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 5b228a
+-- current localPatchFilter: 5b22ea
+-- current localPatchFilter: 5b22ce
+-- current localPatchFilter: 5b1e6c
+-- current localPatchFilter: 5b22b2
+[GOOD]: Anti-analysis is identified! :) -- 1 --devDebug
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:584838		=(rels)=>		1
+[*] Unique action: 1:169482 : <<CALL>> : com.dcb.f.c.b.b.c/a:(Landroid/view/View;)V:584838  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:109926 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2320  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2324
+android.view.ViewGroup/addView:(Landroid/view/View;)V:49025a		=(rels)=>		1
+[*] Unique action: 1:168458 : <<CALL>> : androidx.fragment.app.i/a:(Landroidx/fragment/app/Fragment;IIIZ)V:49025a  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:109926 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2320  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2324
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:58484c		=(rels)=>		1
+[*] Unique action: 1:169494 : <<CALL>> : com.dcb.f.c.b.b.c/a:(Landroid/view/View;)V:58484c  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:109926 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2320  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2324
+android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:5af472		=(rels)=>		1
+[*] Unique action: 1:110249 : <<CALL>> : com.dcb.prelogin.splash.activity.SplashActivity/s:()V:5af472  =>  android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:30ca84
+	1:compareBackwardBranch: 1:109926 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2320  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2324
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:584810		=(rels)=>		1
+[*] Unique action: 1:169441 : <<CALL>> : com.dcb.f.c.b.b.c/a:(Landroid/view/View;)V:584810  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:109926 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2320  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2324
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:584824		=(rels)=>		1
+[*] Unique action: 1:169468 : <<CALL>> : com.dcb.f.c.b.b.c/a:(Landroid/view/View;)V:584824  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:109926 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2320  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2324
+android.app.Dialog/show:()V:5cafa8		=(rels)=>		1
+[*] Unique action: 1:96814 : <<CALL>> : com.dcbbank.commonlib.customview.b.a/b:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Lcom/dcbbank/commonlib/customview/b/a$p;)Landroid/app/Dialog;:5cafa8  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:109926 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2320  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2324
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:5caf2a		=(rels)=>		1
+[*] Unique action: 1:96752 : <<CALL>> : com.dcbbank.commonlib.customview.b.a/b:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Lcom/dcbbank/commonlib/customview/b/a$p;)Landroid/app/Dialog;:5caf2a  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:109926 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2320  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2324
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:5caf3a		=(rels)=>		1
+[*] Unique action: 1:96760 : <<CALL>> : com.dcbbank.commonlib.customview.b.a/b:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Lcom/dcbbank/commonlib/customview/b/a$p;)Landroid/app/Dialog;:5caf3a  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:109926 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2320  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2324
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:5caed0		=(rels)=>		1
+[*] Unique action: 1:96739 : <<CALL>> : com.dcbbank.commonlib.customview.b.a/b:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Lcom/dcbbank/commonlib/customview/b/a$p;)Landroid/app/Dialog;:5caed0  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:109926 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2320  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2324
+Entry: 5b1cdc
+com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V: 5b2320 -> 5b2324
+		com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V: 644 -> 648
+addPatchReadme: java.lang.Class<com.dcb.prelogin.splash.activity.SplashActivity>onCreate(Landroid/os/Bundle;)V 644 f
+159ceeed: [+] Patches found in this round: 1
+159ceeed: [*] Found Patch size: 1
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample1@devRoot-D-R@devDebug-D-R.obfuscated.only_flattened.ilog)
+159ceeed: Querying offset: 5b2320
+159ceeed: 	--Add method name to patch = com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V 	5b2320
+Devices presenting anti-analysis: 
+	devRoot
+	devDebug
+b29e6a69: patching method: com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened_devRoot
+Wow!!!!!  --  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 648
+branchTarget: 648
+NOP!
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened_devRoot/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened_devRoot/signed_sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened.apk
+b29e6a69: First address of Lcom/dcb/prelogin/splash/activity/SplashActivity;->onCreate(Landroid/os/Bundle;)V = 5b1cec
+b29e6a69: Address - Lcom/dcb/prelogin/splash/activity/SplashActivity;->onCreate(Landroid/os/Bundle;)V@644	 lastOffset = c64
+b29e6a69: Instruction@@: IF_NEZ
+159ceeed: patching method: com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V
+159ceeed: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened_devDebug
+Wow!!!!!  --  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 648
+branchTarget: 648
+NOP!
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened_devDebug/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened_devDebug/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened.apk
+159ceeed: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened_devDebug/signed_sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened.apk
+159ceeed: First address of Lcom/dcb/prelogin/splash/activity/SplashActivity;->onCreate(Landroid/os/Bundle;)V = 5b1cec
+159ceeed: Address - Lcom/dcb/prelogin/splash/activity/SplashActivity;->onCreate(Landroid/os/Bundle;)V@644	 lastOffset = c64
+159ceeed: Instruction@@: IF_NEZ
+159ceeed: (Not Installed) Trying remove : true
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened_devDebug/signed_sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened_devRoot/signed_sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened.apk
+159ceeed: Installation Success
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+159ceeed: startApplication called! - devDebug
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample1@devRoot-D-R@devDebug-D-R.obfuscated.only_flattened.ilog)
+b29e6a69: Running Application: com.dcb
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample1@devRoot-D-R@devDebug-D-R.obfuscated.only_flattened.ilog)
+PIDs--------------------------------------------------------------------------
+u0_a286       11398    425 14926224 111072 0                  0 R com.dcb
+forward tcp:5005 jdwp:11398
+[*]Found JDWP Target: 11398
+159ceeed: Running Application: com.dcb
+b29e6a69: Top-activity: com.dcb/.prelogin.splash.activity.SplashActivity
+PIDs--------------------------------------------------------------------------
+u0_a3452      17413    429 14771448 148116 0                  0 S com.dcb
+b29e6a69: Terminated logcat thread...by itself
+PIDs--------------------------------------------------------------------------
+u0_a3452      17413    429 14771448 148116 0                  0 S com.dcb
+Stopping app: com.dcb
+159ceeed: Top-activity: com.dcb/.prelogin.splash.activity.SplashActivity
+PIDs--------------------------------------------------------------------------
+u0_a286       11398    425 15056116 149188 0                  0 S com.dcb
+159ceeed: Terminated logcat thread...by itself
+PIDs--------------------------------------------------------------------------
+u0_a286       11398    425 15056116 149188 0                  0 S com.dcb
+Stopping app: com.dcb
+Tryging remove : uninstall com.dcb(com.dcb)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 223417352
+b29e6a69: End of collecting logcat...
+Tryging remove : uninstall com.dcb(com.dcb)
+159ceeed: Remove Success
+159ceeed: ilog file size: 344902296
+159ceeed: End of collecting logcat...
+HPFinder's try count remains: 23
+b29e6a69: isFailedToLaunch: com.dcb/.prelogin.splash.activity.SplashActivity
+b29e6a69: 	--result: Good :)
+159ceeed: isFailedToLaunch: com.dcb/.prelogin.splash.activity.SplashActivity
+159ceeed: 	--result: Good :)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample1@devRoot-D-R@devDebug-D-R.obfuscated.only_flattened.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample1@devRoot-D-R@devDebug-D-R.obfuscated.only_flattened.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample1@devRoot-D-R@devDebug-D-R.obfuscated.only_flattened.ilog)
+b29e6a69: adding filter -- 5b2320
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample1@devRoot-D-R@devDebug-D-R.obfuscated.only_flattened.ilog)
+159ceeed: adding filter -- 5b2320
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 5b2320
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:584838		=(rels)=>		1
+[*] Unique action: 1:169482 : <<CALL>> : com.dcb.f.c.b.b.c/a:(Landroid/view/View;)V:584838  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:110209 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b1e88  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2434
+android.view.ViewGroup/addView:(Landroid/view/View;)V:49025a		=(rels)=>		1
+[*] Unique action: 1:168458 : <<CALL>> : androidx.fragment.app.i/a:(Landroidx/fragment/app/Fragment;IIIZ)V:49025a  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:110209 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b1e88  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2434
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:58484c		=(rels)=>		1
+[*] Unique action: 1:169494 : <<CALL>> : com.dcb.f.c.b.b.c/a:(Landroid/view/View;)V:58484c  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:110209 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b1e88  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2434
+android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:5af472		=(rels)=>		1
+[*] Unique action: 1:110249 : <<CALL>> : com.dcb.prelogin.splash.activity.SplashActivity/s:()V:5af472  =>  android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:30ca84
+	1:compareBackwardBranch: 1:110209 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b1e88  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2434
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:584810		=(rels)=>		1
+[*] Unique action: 1:169441 : <<CALL>> : com.dcb.f.c.b.b.c/a:(Landroid/view/View;)V:584810  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:110209 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b1e88  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2434
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:584824		=(rels)=>		1
+[*] Unique action: 1:169468 : <<CALL>> : com.dcb.f.c.b.b.c/a:(Landroid/view/View;)V:584824  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:110209 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b1e88  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2434
+android.app.Dialog/show:()V:5cafa8		=(rels)=>		1
+[*] Unique action: 1:90570 : <<CALL>> : com.dcbbank.commonlib.customview.b.a/b:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Lcom/dcbbank/commonlib/customview/b/a$p;)Landroid/app/Dialog;:5cafa8  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:110209 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b1e88  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2434
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:5caf2a		=(rels)=>		1
+[*] Unique action: 1:90480 : <<CALL>> : com.dcbbank.commonlib.customview.b.a/b:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Lcom/dcbbank/commonlib/customview/b/a$p;)Landroid/app/Dialog;:5caf2a  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:110209 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b1e88  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2434
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:5caf3a		=(rels)=>		1
+[*] Unique action: 1:90508 : <<CALL>> : com.dcbbank.commonlib.customview.b.a/b:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Lcom/dcbbank/commonlib/customview/b/a$p;)Landroid/app/Dialog;:5caf3a  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:110209 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b1e88  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2434
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:5caed0		=(rels)=>		1
+[*] Unique action: 1:90442 : <<CALL>> : com.dcbbank.commonlib.customview.b.a/b:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Lcom/dcbbank/commonlib/customview/b/a$p;)Landroid/app/Dialog;:5caed0  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:110209 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b1e88  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2434
+Entry: 5b1cdc
+com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V: 5b1e88 -> 5b2434
+		com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V: 1ac -> 758
+addPatchReadme: java.lang.Class<com.dcb.prelogin.splash.activity.SplashActivity>onCreate(Landroid/os/Bundle;)V 1ac t
+b29e6a69: [+] Patches found in this round: 1
+b29e6a69: [*] Found Patch size: 1
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample1@devRoot-D-R@devDebug-D-R.obfuscated.only_flattened.ilog)
+b29e6a69: Querying offset: 5b1e88
+b29e6a69: 	--Add method name to patch = com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V 	5b1e88
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 5b2320
+Action is completely same :)
+Action is completely same :)
+159ceeed: There is no difference. (tryAgain=false)
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: patching method: com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened_devRoot
+Wow!!!!!  --  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 1b2
+branchTarget: 758
+label = sswitch_data_7
+GOTO -- 1b2 	758
+Wow!!!!!  --  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 648
+branchTarget: 648
+NOP!
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened_devRoot/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened_devRoot/signed_sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened.apk
+b29e6a69: First address of Lcom/dcb/prelogin/splash/activity/SplashActivity;->onCreate(Landroid/os/Bundle;)V = 5b1cec
+b29e6a69: Address - Lcom/dcb/prelogin/splash/activity/SplashActivity;->onCreate(Landroid/os/Bundle;)V@1ac	 lastOffset = c64
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: First address of Lcom/dcb/prelogin/splash/activity/SplashActivity;->onCreate(Landroid/os/Bundle;)V = 5b1cec
+b29e6a69: Address - Lcom/dcb/prelogin/splash/activity/SplashActivity;->onCreate(Landroid/os/Bundle;)V@644	 lastOffset = c64
+b29e6a69: Instruction@@: IF_NEZ
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened_devRoot/signed_sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample1@devRoot-D-R@devDebug-D-R.obfuscated.only_flattened.ilog)
+b29e6a69: Running Application: com.dcb
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.dcb
+Tryging remove : uninstall com.dcb(com.dcb)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 20140990
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 22
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+b29e6a69: /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened.apk launch is failed on devRoot
+b29e6a69: adding filter -- 5b2320
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 5b1e88
+-- current localPatchFilter: 5b2320
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:584838		=(rels)=>		1
+[*] Unique action: 1:169482 : <<CALL>> : com.dcb.f.c.b.b.c/a:(Landroid/view/View;)V:584838  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:110202 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2374  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2358
+android.view.ViewGroup/addView:(Landroid/view/View;)V:49025a		=(rels)=>		1
+[*] Unique action: 1:168458 : <<CALL>> : androidx.fragment.app.i/a:(Landroidx/fragment/app/Fragment;IIIZ)V:49025a  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:110202 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2374  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2358
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:58484c		=(rels)=>		1
+[*] Unique action: 1:169494 : <<CALL>> : com.dcb.f.c.b.b.c/a:(Landroid/view/View;)V:58484c  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:110202 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2374  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2358
+android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:5af472		=(rels)=>		1
+[*] Unique action: 1:110249 : <<CALL>> : com.dcb.prelogin.splash.activity.SplashActivity/s:()V:5af472  =>  android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:30ca84
+	1:compareBackwardBranch: 1:110202 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2374  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2358
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:584810		=(rels)=>		1
+[*] Unique action: 1:169441 : <<CALL>> : com.dcb.f.c.b.b.c/a:(Landroid/view/View;)V:584810  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:110202 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2374  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2358
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:584824		=(rels)=>		1
+[*] Unique action: 1:169468 : <<CALL>> : com.dcb.f.c.b.b.c/a:(Landroid/view/View;)V:584824  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:110202 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2374  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2358
+android.app.Dialog/show:()V:5cafa8		=(rels)=>		1
+[*] Unique action: 1:90570 : <<CALL>> : com.dcbbank.commonlib.customview.b.a/b:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Lcom/dcbbank/commonlib/customview/b/a$p;)Landroid/app/Dialog;:5cafa8  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:110202 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2374  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2358
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:5caf2a		=(rels)=>		1
+[*] Unique action: 1:90480 : <<CALL>> : com.dcbbank.commonlib.customview.b.a/b:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Lcom/dcbbank/commonlib/customview/b/a$p;)Landroid/app/Dialog;:5caf2a  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:110202 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2374  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2358
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:5caf3a		=(rels)=>		1
+[*] Unique action: 1:90508 : <<CALL>> : com.dcbbank.commonlib.customview.b.a/b:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Lcom/dcbbank/commonlib/customview/b/a$p;)Landroid/app/Dialog;:5caf3a  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:110202 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2374  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2358
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:5caed0		=(rels)=>		1
+[*] Unique action: 1:90442 : <<CALL>> : com.dcbbank.commonlib.customview.b.a/b:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Lcom/dcbbank/commonlib/customview/b/a$p;)Landroid/app/Dialog;:5caed0  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:110202 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2374  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2358
+Entry: 5b1cdc
+com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V: 5b2374 -> 5b2358
+		com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V: 698 -> 67c
+addPatchReadme: java.lang.Class<com.dcb.prelogin.splash.activity.SplashActivity>onCreate(Landroid/os/Bundle;)V 698 t
+b29e6a69: [+] Patches found in this round: 1
+b29e6a69: [*] Found Patch size: 1
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample1@devRoot-D-R@devDebug-D-R.obfuscated.only_flattened.ilog)
+b29e6a69: Querying offset: 5b2374
+b29e6a69: 	--Add method name to patch = com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V 	5b2374
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: patching method: com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened_devRoot
+Wow!!!!!  --  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 648
+branchTarget: 648
+NOP!
+Wow!!!!!  --  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 69e
+branchTarget: 67c
+label = sswitch_data_31
+GOTO -- 69e 	67c
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened_devRoot/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened_devRoot/signed_sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened.apk
+b29e6a69: First address of Lcom/dcb/prelogin/splash/activity/SplashActivity;->onCreate(Landroid/os/Bundle;)V = 5b1cec
+b29e6a69: Address - Lcom/dcb/prelogin/splash/activity/SplashActivity;->onCreate(Landroid/os/Bundle;)V@644	 lastOffset = c64
+b29e6a69: Instruction@@: IF_NEZ
+b29e6a69: First address of Lcom/dcb/prelogin/splash/activity/SplashActivity;->onCreate(Landroid/os/Bundle;)V = 5b1cec
+b29e6a69: Address - Lcom/dcb/prelogin/splash/activity/SplashActivity;->onCreate(Landroid/os/Bundle;)V@698	 lastOffset = c64
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened_devRoot/signed_sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample1@devRoot-D-R@devDebug-D-R.obfuscated.only_flattened.ilog)
+b29e6a69: Running Application: com.dcb
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.dcb
+Tryging remove : uninstall com.dcb(com.dcb)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 20448902
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 21
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+b29e6a69: /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened.apk launch is failed on devRoot
+b29e6a69: adding filter -- 5b2320
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 5b1e88
+-- current localPatchFilter: 5b2320
+-- current localPatchFilter: 5b2374
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:584838		=(rels)=>		1
+[*] Unique action: 1:169482 : <<CALL>> : com.dcb.f.c.b.b.c/a:(Landroid/view/View;)V:584838  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:110195 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2390  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b23ba
+android.view.ViewGroup/addView:(Landroid/view/View;)V:49025a		=(rels)=>		1
+[*] Unique action: 1:168458 : <<CALL>> : androidx.fragment.app.i/a:(Landroidx/fragment/app/Fragment;IIIZ)V:49025a  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:110195 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2390  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b23ba
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:58484c		=(rels)=>		1
+[*] Unique action: 1:169494 : <<CALL>> : com.dcb.f.c.b.b.c/a:(Landroid/view/View;)V:58484c  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:110195 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2390  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b23ba
+android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:5af472		=(rels)=>		1
+[*] Unique action: 1:110249 : <<CALL>> : com.dcb.prelogin.splash.activity.SplashActivity/s:()V:5af472  =>  android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:30ca84
+	1:compareBackwardBranch: 1:110195 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2390  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b23ba
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:584810		=(rels)=>		1
+[*] Unique action: 1:169441 : <<CALL>> : com.dcb.f.c.b.b.c/a:(Landroid/view/View;)V:584810  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:110195 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2390  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b23ba
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:584824		=(rels)=>		1
+[*] Unique action: 1:169468 : <<CALL>> : com.dcb.f.c.b.b.c/a:(Landroid/view/View;)V:584824  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:110195 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2390  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b23ba
+android.app.Dialog/show:()V:5cafa8		=(rels)=>		1
+[*] Unique action: 1:90570 : <<CALL>> : com.dcbbank.commonlib.customview.b.a/b:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Lcom/dcbbank/commonlib/customview/b/a$p;)Landroid/app/Dialog;:5cafa8  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:110195 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2390  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b23ba
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:5caf2a		=(rels)=>		1
+[*] Unique action: 1:90480 : <<CALL>> : com.dcbbank.commonlib.customview.b.a/b:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Lcom/dcbbank/commonlib/customview/b/a$p;)Landroid/app/Dialog;:5caf2a  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:110195 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2390  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b23ba
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:5caf3a		=(rels)=>		1
+[*] Unique action: 1:90508 : <<CALL>> : com.dcbbank.commonlib.customview.b.a/b:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Lcom/dcbbank/commonlib/customview/b/a$p;)Landroid/app/Dialog;:5caf3a  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:110195 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2390  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b23ba
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:5caed0		=(rels)=>		1
+[*] Unique action: 1:90442 : <<CALL>> : com.dcbbank.commonlib.customview.b.a/b:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Lcom/dcbbank/commonlib/customview/b/a$p;)Landroid/app/Dialog;:5caed0  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:110195 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2390  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b23ba
+Entry: 5b1cdc
+com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V: 5b2390 -> 5b23ba
+		com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V: 6b4 -> 6de
+addPatchReadme: java.lang.Class<com.dcb.prelogin.splash.activity.SplashActivity>onCreate(Landroid/os/Bundle;)V 6b4 t
+b29e6a69: [+] Patches found in this round: 1
+b29e6a69: [*] Found Patch size: 1
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample1@devRoot-D-R@devDebug-D-R.obfuscated.only_flattened.ilog)
+b29e6a69: Querying offset: 5b2390
+b29e6a69: 	--Add method name to patch = com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V 	5b2390
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: patching method: com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened_devRoot
+Wow!!!!!  --  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 648
+branchTarget: 648
+NOP!
+Wow!!!!!  --  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 6ba
+branchTarget: 6de
+label = sswitch_data_32
+GOTO -- 6ba 	6de
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened_devRoot/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened_devRoot/signed_sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened.apk
+b29e6a69: First address of Lcom/dcb/prelogin/splash/activity/SplashActivity;->onCreate(Landroid/os/Bundle;)V = 5b1cec
+b29e6a69: Address - Lcom/dcb/prelogin/splash/activity/SplashActivity;->onCreate(Landroid/os/Bundle;)V@644	 lastOffset = c64
+b29e6a69: Instruction@@: IF_NEZ
+b29e6a69: First address of Lcom/dcb/prelogin/splash/activity/SplashActivity;->onCreate(Landroid/os/Bundle;)V = 5b1cec
+b29e6a69: Address - Lcom/dcb/prelogin/splash/activity/SplashActivity;->onCreate(Landroid/os/Bundle;)V@6b4	 lastOffset = c64
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened_devRoot/signed_sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample1@devRoot-D-R@devDebug-D-R.obfuscated.only_flattened.ilog)
+b29e6a69: Running Application: com.dcb
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.dcb
+Tryging remove : uninstall com.dcb(com.dcb)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 20450039
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 20
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+b29e6a69: /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened.apk launch is failed on devRoot
+b29e6a69: adding filter -- 5b2320
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 5b1e88
+-- current localPatchFilter: 5b2320
+-- current localPatchFilter: 5b2390
+-- current localPatchFilter: 5b2374
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:584838		=(rels)=>		1
+[*] Unique action: 1:169482 : <<CALL>> : com.dcb.f.c.b.b.c/a:(Landroid/view/View;)V:584838  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:110188 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b23ac  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b23c0
+android.view.ViewGroup/addView:(Landroid/view/View;)V:49025a		=(rels)=>		1
+[*] Unique action: 1:168458 : <<CALL>> : androidx.fragment.app.i/a:(Landroidx/fragment/app/Fragment;IIIZ)V:49025a  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:110188 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b23ac  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b23c0
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:58484c		=(rels)=>		1
+[*] Unique action: 1:169494 : <<CALL>> : com.dcb.f.c.b.b.c/a:(Landroid/view/View;)V:58484c  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:110188 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b23ac  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b23c0
+android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:5af472		=(rels)=>		1
+[*] Unique action: 1:110249 : <<CALL>> : com.dcb.prelogin.splash.activity.SplashActivity/s:()V:5af472  =>  android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:30ca84
+	1:compareBackwardBranch: 1:110188 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b23ac  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b23c0
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:584810		=(rels)=>		1
+[*] Unique action: 1:169441 : <<CALL>> : com.dcb.f.c.b.b.c/a:(Landroid/view/View;)V:584810  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:110188 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b23ac  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b23c0
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:584824		=(rels)=>		1
+[*] Unique action: 1:169468 : <<CALL>> : com.dcb.f.c.b.b.c/a:(Landroid/view/View;)V:584824  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:110188 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b23ac  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b23c0
+android.app.Dialog/show:()V:5cafa8		=(rels)=>		1
+[*] Unique action: 1:90570 : <<CALL>> : com.dcbbank.commonlib.customview.b.a/b:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Lcom/dcbbank/commonlib/customview/b/a$p;)Landroid/app/Dialog;:5cafa8  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:110188 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b23ac  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b23c0
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:5caf2a		=(rels)=>		1
+[*] Unique action: 1:90480 : <<CALL>> : com.dcbbank.commonlib.customview.b.a/b:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Lcom/dcbbank/commonlib/customview/b/a$p;)Landroid/app/Dialog;:5caf2a  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:110188 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b23ac  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b23c0
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:5caf3a		=(rels)=>		1
+[*] Unique action: 1:90508 : <<CALL>> : com.dcbbank.commonlib.customview.b.a/b:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Lcom/dcbbank/commonlib/customview/b/a$p;)Landroid/app/Dialog;:5caf3a  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:110188 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b23ac  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b23c0
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:5caed0		=(rels)=>		1
+[*] Unique action: 1:90442 : <<CALL>> : com.dcbbank.commonlib.customview.b.a/b:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Lcom/dcbbank/commonlib/customview/b/a$p;)Landroid/app/Dialog;:5caed0  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:110188 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b23ac  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b23c0
+Entry: 5b1cdc
+com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V: 5b23ac -> 5b23c0
+		com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V: 6d0 -> 6e4
+addPatchReadme: java.lang.Class<com.dcb.prelogin.splash.activity.SplashActivity>onCreate(Landroid/os/Bundle;)V 6d0 t
+b29e6a69: [+] Patches found in this round: 1
+b29e6a69: [*] Found Patch size: 1
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample1@devRoot-D-R@devDebug-D-R.obfuscated.only_flattened.ilog)
+b29e6a69: Querying offset: 5b23ac
+b29e6a69: 	--Add method name to patch = com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V 	5b23ac
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: patching method: com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened_devRoot
+Wow!!!!!  --  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 648
+branchTarget: 648
+NOP!
+Wow!!!!!  --  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 6d6
+branchTarget: 6e4
+label = sswitch_data_33
+GOTO -- 6d6 	6e4
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened_devRoot/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened_devRoot/signed_sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened.apk
+b29e6a69: First address of Lcom/dcb/prelogin/splash/activity/SplashActivity;->onCreate(Landroid/os/Bundle;)V = 5b1cec
+b29e6a69: Address - Lcom/dcb/prelogin/splash/activity/SplashActivity;->onCreate(Landroid/os/Bundle;)V@6d0	 lastOffset = c64
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: First address of Lcom/dcb/prelogin/splash/activity/SplashActivity;->onCreate(Landroid/os/Bundle;)V = 5b1cec
+b29e6a69: Address - Lcom/dcb/prelogin/splash/activity/SplashActivity;->onCreate(Landroid/os/Bundle;)V@644	 lastOffset = c64
+b29e6a69: Instruction@@: IF_NEZ
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened_devRoot/signed_sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample1@devRoot-D-R@devDebug-D-R.obfuscated.only_flattened.ilog)
+b29e6a69: Running Application: com.dcb
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.dcb
+Tryging remove : uninstall com.dcb(com.dcb)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 20104885
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 19
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+b29e6a69: /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened.apk launch is failed on devRoot
+b29e6a69: adding filter -- 5b2320
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 5b1e88
+-- current localPatchFilter: 5b23ac
+-- current localPatchFilter: 5b2320
+-- current localPatchFilter: 5b2390
+-- current localPatchFilter: 5b2374
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:584838		=(rels)=>		1
+[*] Unique action: 1:169482 : <<CALL>> : com.dcb.f.c.b.b.c/a:(Landroid/view/View;)V:584838  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:110184 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b23e0  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b23c6
+android.view.ViewGroup/addView:(Landroid/view/View;)V:49025a		=(rels)=>		1
+[*] Unique action: 1:168458 : <<CALL>> : androidx.fragment.app.i/a:(Landroidx/fragment/app/Fragment;IIIZ)V:49025a  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:110184 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b23e0  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b23c6
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:58484c		=(rels)=>		1
+[*] Unique action: 1:169494 : <<CALL>> : com.dcb.f.c.b.b.c/a:(Landroid/view/View;)V:58484c  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:110184 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b23e0  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b23c6
+android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:5af472		=(rels)=>		1
+[*] Unique action: 1:110249 : <<CALL>> : com.dcb.prelogin.splash.activity.SplashActivity/s:()V:5af472  =>  android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:30ca84
+	1:compareBackwardBranch: 1:110184 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b23e0  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b23c6
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:584810		=(rels)=>		1
+[*] Unique action: 1:169441 : <<CALL>> : com.dcb.f.c.b.b.c/a:(Landroid/view/View;)V:584810  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:110184 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b23e0  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b23c6
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:584824		=(rels)=>		1
+[*] Unique action: 1:169468 : <<CALL>> : com.dcb.f.c.b.b.c/a:(Landroid/view/View;)V:584824  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:110184 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b23e0  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b23c6
+android.app.Dialog/show:()V:5cafa8		=(rels)=>		1
+[*] Unique action: 1:90570 : <<CALL>> : com.dcbbank.commonlib.customview.b.a/b:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Lcom/dcbbank/commonlib/customview/b/a$p;)Landroid/app/Dialog;:5cafa8  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:110184 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b23e0  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b23c6
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:5caf2a		=(rels)=>		1
+[*] Unique action: 1:90480 : <<CALL>> : com.dcbbank.commonlib.customview.b.a/b:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Lcom/dcbbank/commonlib/customview/b/a$p;)Landroid/app/Dialog;:5caf2a  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:110184 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b23e0  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b23c6
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:5caf3a		=(rels)=>		1
+[*] Unique action: 1:90508 : <<CALL>> : com.dcbbank.commonlib.customview.b.a/b:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Lcom/dcbbank/commonlib/customview/b/a$p;)Landroid/app/Dialog;:5caf3a  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:110184 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b23e0  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b23c6
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:5caed0		=(rels)=>		1
+[*] Unique action: 1:90442 : <<CALL>> : com.dcbbank.commonlib.customview.b.a/b:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Lcom/dcbbank/commonlib/customview/b/a$p;)Landroid/app/Dialog;:5caed0  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:110184 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b23e0  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b23c6
+Entry: 5b1cdc
+com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V: 5b23e0 -> 5b23c6
+		com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V: 704 -> 6ea
+addPatchReadme: java.lang.Class<com.dcb.prelogin.splash.activity.SplashActivity>onCreate(Landroid/os/Bundle;)V 704 t
+b29e6a69: [+] Patches found in this round: 1
+b29e6a69: [*] Found Patch size: 1
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample1@devRoot-D-R@devDebug-D-R.obfuscated.only_flattened.ilog)
+b29e6a69: Querying offset: 5b23e0
+b29e6a69: 	--Add method name to patch = com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V 	5b23e0
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: patching method: com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened_devRoot
+Wow!!!!!  --  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 648
+branchTarget: 648
+NOP!
+Wow!!!!!  --  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 70a
+branchTarget: 6ea
+label = sswitch_data_34
+GOTO -- 70a 	6ea
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened_devRoot/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened_devRoot/signed_sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened.apk
+b29e6a69: First address of Lcom/dcb/prelogin/splash/activity/SplashActivity;->onCreate(Landroid/os/Bundle;)V = 5b1cec
+b29e6a69: Address - Lcom/dcb/prelogin/splash/activity/SplashActivity;->onCreate(Landroid/os/Bundle;)V@644	 lastOffset = c64
+b29e6a69: Instruction@@: IF_NEZ
+b29e6a69: First address of Lcom/dcb/prelogin/splash/activity/SplashActivity;->onCreate(Landroid/os/Bundle;)V = 5b1cec
+b29e6a69: Address - Lcom/dcb/prelogin/splash/activity/SplashActivity;->onCreate(Landroid/os/Bundle;)V@704	 lastOffset = c64
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened_devRoot/signed_sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample1@devRoot-D-R@devDebug-D-R.obfuscated.only_flattened.ilog)
+b29e6a69: Running Application: com.dcb
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.dcb
+Tryging remove : uninstall com.dcb(com.dcb)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 20286772
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 18
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+b29e6a69: /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened.apk launch is failed on devRoot
+b29e6a69: adding filter -- 5b2320
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 5b1e88
+-- current localPatchFilter: 5b23ac
+-- current localPatchFilter: 5b2320
+-- current localPatchFilter: 5b2390
+-- current localPatchFilter: 5b23e0
+-- current localPatchFilter: 5b2374
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:584838		=(rels)=>		1
+[*] Unique action: 1:169482 : <<CALL>> : com.dcb.f.c.b.b.c/a:(Landroid/view/View;)V:584838  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:110180 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b23f8  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2402
+android.view.ViewGroup/addView:(Landroid/view/View;)V:49025a		=(rels)=>		1
+[*] Unique action: 1:168458 : <<CALL>> : androidx.fragment.app.i/a:(Landroidx/fragment/app/Fragment;IIIZ)V:49025a  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:110180 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b23f8  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2402
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:58484c		=(rels)=>		1
+[*] Unique action: 1:169494 : <<CALL>> : com.dcb.f.c.b.b.c/a:(Landroid/view/View;)V:58484c  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:110180 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b23f8  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2402
+android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:5af472		=(rels)=>		1
+[*] Unique action: 1:110249 : <<CALL>> : com.dcb.prelogin.splash.activity.SplashActivity/s:()V:5af472  =>  android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:30ca84
+	1:compareBackwardBranch: 1:110180 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b23f8  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2402
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:584810		=(rels)=>		1
+[*] Unique action: 1:169441 : <<CALL>> : com.dcb.f.c.b.b.c/a:(Landroid/view/View;)V:584810  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:110180 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b23f8  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2402
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:584824		=(rels)=>		1
+[*] Unique action: 1:169468 : <<CALL>> : com.dcb.f.c.b.b.c/a:(Landroid/view/View;)V:584824  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:110180 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b23f8  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2402
+android.app.Dialog/show:()V:5cafa8		=(rels)=>		1
+[*] Unique action: 1:90570 : <<CALL>> : com.dcbbank.commonlib.customview.b.a/b:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Lcom/dcbbank/commonlib/customview/b/a$p;)Landroid/app/Dialog;:5cafa8  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:110180 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b23f8  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2402
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:5caf2a		=(rels)=>		1
+[*] Unique action: 1:90480 : <<CALL>> : com.dcbbank.commonlib.customview.b.a/b:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Lcom/dcbbank/commonlib/customview/b/a$p;)Landroid/app/Dialog;:5caf2a  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:110180 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b23f8  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2402
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:5caf3a		=(rels)=>		1
+[*] Unique action: 1:90508 : <<CALL>> : com.dcbbank.commonlib.customview.b.a/b:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Lcom/dcbbank/commonlib/customview/b/a$p;)Landroid/app/Dialog;:5caf3a  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:110180 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b23f8  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2402
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:5caed0		=(rels)=>		1
+[*] Unique action: 1:90442 : <<CALL>> : com.dcbbank.commonlib.customview.b.a/b:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Lcom/dcbbank/commonlib/customview/b/a$p;)Landroid/app/Dialog;:5caed0  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:110180 : <<BRANCH>> : com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b23f8  =>  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V:5b2402
+Entry: 5b1cdc
+com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V: 5b23f8 -> 5b2402
+		com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V: 71c -> 726
+addPatchReadme: java.lang.Class<com.dcb.prelogin.splash.activity.SplashActivity>onCreate(Landroid/os/Bundle;)V 71c t
+b29e6a69: [+] Patches found in this round: 1
+b29e6a69: [*] Found Patch size: 1
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample1@devRoot-D-R@devDebug-D-R.obfuscated.only_flattened.ilog)
+b29e6a69: Querying offset: 5b23f8
+b29e6a69: 	--Add method name to patch = com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V 	5b23f8
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: patching method: com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened_devRoot
+Wow!!!!!  --  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 648
+branchTarget: 648
+NOP!
+Wow!!!!!  --  com.dcb.prelogin.splash.activity.SplashActivity/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 720
+branchTarget: 726
+label = cond_6
+GOTO -- 720 	726
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened_devRoot/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened_devRoot/signed_sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened.apk
+b29e6a69: First address of Lcom/dcb/prelogin/splash/activity/SplashActivity;->onCreate(Landroid/os/Bundle;)V = 5b1cec
+b29e6a69: Address - Lcom/dcb/prelogin/splash/activity/SplashActivity;->onCreate(Landroid/os/Bundle;)V@71c	 lastOffset = c64
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Lcom/dcb/prelogin/splash/activity/SplashActivity;->onCreate(Landroid/os/Bundle;)V = 5b1cec
+b29e6a69: Address - Lcom/dcb/prelogin/splash/activity/SplashActivity;->onCreate(Landroid/os/Bundle;)V@644	 lastOffset = c64
+b29e6a69: Instruction@@: IF_NEZ
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened_devRoot/signed_sample1.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk.only_flattened.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample1@devRoot-D-R@devDebug-D-R.obfuscated.only_flattened.ilog)
+b29e6a69: Running Application: com.dcb
+b29e6a69: Top-activity: com.dcb/.prelogin.splash.activity.SplashActivity
+PIDs--------------------------------------------------------------------------
+u0_a3458      18587    429 14857928 148616 0                  0 S com.dcb
+b29e6a69: Terminated logcat thread...by itself
+PIDs--------------------------------------------------------------------------
+u0_a3458      18587    429 14857928 148616 0                  0 S com.dcb
+Stopping app: com.dcb
+Tryging remove : uninstall com.dcb(com.dcb)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 222326632
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 17
+b29e6a69: isFailedToLaunch: com.dcb/.prelogin.splash.activity.SplashActivity
+b29e6a69: 	--result: Good :)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample1@devRoot-D-R@devDebug-D-R.obfuscated.only_flattened.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample1@devRoot-D-R@devDebug-D-R.obfuscated.only_flattened.ilog)
+b29e6a69: adding filter -- 5b2320
+b29e6a69: adding filter -- 5b23f8
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 5b23f8
+-- current localPatchFilter: 5b2320
+Action is completely same :)
+Action is completely same :)
+b29e6a69: There is no difference. (tryAgain=false)
+-- HPFinder will be done in this iteration :)
+hasAntiAnalysis? - devTamper: false on com.dcb.EntryActivity
+hasAntiAnalysis? - devRoot: true on com.dcb.EntryActivity
+	isRemovedThem? - devRoot: true on com.dcb.EntryActivity	-	tryCount: 12
+hasAntiAnalysis? - devDebug: true on com.dcb.EntryActivity
+	isRemovedThem? - devDebug: true on com.dcb.EntryActivity	-	tryCount: 6
+*****REPORT: com.dcb
+* Package name: com.dcb
+* Running time: 1471
+* FileSize: 21302750
+devTamper : 238400799
+devRef : 357974233
+devRoot : 222326632
+devDebug : 344902296
+hasAntiAnalysis? - devTamper: false on com.dcb.EntryActivity
+hasAntiAnalysis? - devRoot: true on com.dcb.EntryActivity
+	isRemovedThem? - devRoot: true on com.dcb.EntryActivity	-	tryCount: 12
+hasAntiAnalysis? - devDebug: true on com.dcb.EntryActivity
+	isRemovedThem? - devDebug: true on com.dcb.EntryActivity	-	tryCount: 6
+46604b9f: trying remove : com.dcb
+3601a6ff: trying remove : com.dcb
+b29e6a69: trying remove : com.dcb
+159ceeed: trying remove : com.dcb
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+159ceeed: result = true
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+3601a6ff: result = true
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+b29e6a69: result = true
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+46604b9f: result = true
+3601a6ff: isFailedToLaunch: com.dcb/.prelogin.splash.activity.SplashActivity
+3601a6ff: 	--result: Good :)

@@ -1,0 +1,521 @@
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/signed_sample42.apk@devRoot-D-R/AndroidManifest.xml
+launchable-activity: name='com.mobi.datadesignstudio.FirstScreenActivity'  label='eSaathi' icon=''
+{ACTIVITY, com.mobi.datadesignstudio.WritingPadActivity}
+{SERVICE, com.mobi.backgroundservice.LocationSharingJobService}
+{RECEIVER, com.mobi.backgroundservice.LocationSharingServiceReceiver, android.intent.action.BOOT_COMPLETED}
+{SERVICE, com.mobi.backgroundservice.BackgroundLocationTracking}
+{ACTIVITY, com.mobi.datadesignstudio.FullScreenImageActivity}
+{ACTIVITY, com.mobi.datadesignstudio.HelpActivity}
+{ACTIVITY, com.mobi.datadesignstudio.AddGridActivity}
+{ACTIVITY, com.mobi.datadesignstudio.FirstScreenActivity, android.intent.action.CALL_PRIVILEGED, android.intent.action.MAIN}
+{ACTIVITY, com.mobi.datadesignstudio.MainActivity}
+{ACTIVITY, com.mobi.datadesignstudio.LoginActivity}
+{ACTIVITY, com.eze.api.EzeAPIActivity}
+{ACTIVITY, com.mobi.datadesignstudio.CheckoutActivity}
+{ACTIVITY, com.mobi.datadesignstudio.DisplayReportActivity}
+{ACTIVITY, com.mobi.datadesignstudio.SurveyTypes}
+{ACTIVITY, com.mobi.menu.ChangePassword}
+{ACTIVITY, com.mobi.menu.ForgetPassword}
+{ACTIVITY, com.mobi.menu.PendingFileList}
+{ACTIVITY, com.mobi.datadesignstudio.ShowGridTable}
+{ACTIVITY, com.mobi.datadesignstudio.SubMenuActivity}
+{ACTIVITY, com.mobi.datadesignstudio.VideoScreenActivity}
+{SERVICE, com.mobi.backgroundservice.BackgroundDataSenderService}
+{RECEIVER, com.mobi.backgroundservice.MyBroadcCastRecever, android.net.conn.CONNECTIVITY_CHANGE, android.net.wifi.WIFI_STATE_CHANGED, ACTION_SERVICE_STARTED}
+{ACTIVITY, com.mobi.datadesignstudio.WebViewReport}
+{ACTIVITY, com.mobi.datadesignstudio.NotificationView}
+{ACTIVITY, com.mobi.datadesignstudio.UserLocation}
+{ACTIVITY, com.mobi.datadesignstudio.RegisterActivity}
+{ACTIVITY, com.mobi.datadesignstudio.ValidateOTP}
+{ACTIVITY, com.mobi.files.offline.ShowOfflineFileDetails}
+{ACTIVITY, com.mobi.paymentUtility.paymentActivity.InitialScreenActivity}
+{ACTIVITY, com.mobi.paymentUtility.paymentActivity.StatusActivity}
+{ACTIVITY, com.mobi.paymentUtility.paymentActivity.WebViewActivity}
+{ACTIVITY, com.mobi.datadesignstudio.MapsActivity}
+{SERVICE, com.mobi.Notification.firebase.AppSavyFirebaseMessagingService, com.google.firebase.MESSAGING_EVENT}
+{SERVICE, com.mobi.Notification.firebase.AppSavyFirebaseIDService, com.google.firebase.INSTANCE_ID_EVENT}
+{ACTIVITY, com.mobi.datadesignstudio.PrinterActivity}
+{ACTIVITY, com.mobi.aesPrinter.tempproject.MainActivity}
+{ACTIVITY, com.mobi.datadesignstudio.PassCodeActivity}
+{SERVICE, com.mobi.backgroundservice.LocationUpdateService}
+{ACTIVITY, com.mobi.registration.MobileValidateActivity}
+{ACTIVITY, com.mobi.registration.AppSavyLoginActivity}
+{ACTIVITY, com.mobi.registration.AppSavySignUp}
+{ACTIVITY, com.mobi.registration.AppSavyProfileActivity}
+{ACTIVITY, com.mobi.registration.ResetAppSavyPassword}
+{ACTIVITY, com.mobi.registration.ChangeAppSavyPassword}
+{ACTIVITY, com.mobi.registration.ForgotAppSavyPassword}
+{ACTIVITY, com.mobi.registration.ContactAdminActivity}
+{ACTIVITY, com.mobi.webVideoPlayer.WebVideoActivity}
+{SERVICE, com.mobi.speechtotext.SpeechService}
+{ACTIVITY, com.mobi.speechtotext.MobiSpeechText}
+{SERVICE, com.google.firebase.messaging.FirebaseMessagingService, com.google.firebase.MESSAGING_EVENT}
+{SERVICE, com.google.firebase.components.ComponentDiscoveryService}
+{RECEIVER, com.google.android.gms.measurement.AppMeasurementReceiver}
+{SERVICE, com.google.android.gms.measurement.AppMeasurementService}
+{SERVICE, com.google.android.gms.measurement.AppMeasurementJobService}
+{RECEIVER, com.google.firebase.iid.FirebaseInstanceIdReceiver, com.google.android.c2dm.intent.RECEIVE}
+{ACTIVITY, com.google.android.gms.common.api.GoogleApiActivity}
+{SERVICE, com.firebase.jobdispatcher.GooglePlayReceiver, com.google.android.gms.gcm.ACTION_TASK_READY}
+{SERVICE, com.google.android.datatransport.runtime.backends.TransportBackendDiscovery}
+{SERVICE, com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService}
+{ACTIVITY, com.mobi.datadesignstudio.WritingPadActivity}
+{SERVICE, com.mobi.backgroundservice.LocationSharingJobService}
+{RECEIVER, com.mobi.backgroundservice.LocationSharingServiceReceiver, android.intent.action.BOOT_COMPLETED}
+{SERVICE, com.mobi.backgroundservice.BackgroundLocationTracking}
+{ACTIVITY, com.mobi.datadesignstudio.FullScreenImageActivity}
+{ACTIVITY, com.mobi.datadesignstudio.HelpActivity}
+{ACTIVITY, com.mobi.datadesignstudio.AddGridActivity}
+{ACTIVITY, com.mobi.datadesignstudio.FirstScreenActivity, android.intent.action.CALL_PRIVILEGED, android.intent.action.MAIN}
+{ACTIVITY, com.mobi.datadesignstudio.MainActivity}
+{ACTIVITY, com.mobi.datadesignstudio.LoginActivity}
+{ACTIVITY, com.eze.api.EzeAPIActivity}
+{ACTIVITY, com.mobi.datadesignstudio.CheckoutActivity}
+{ACTIVITY, com.mobi.datadesignstudio.DisplayReportActivity}
+{ACTIVITY, com.mobi.datadesignstudio.SurveyTypes}
+{ACTIVITY, com.mobi.menu.ChangePassword}
+{ACTIVITY, com.mobi.menu.ForgetPassword}
+{ACTIVITY, com.mobi.menu.PendingFileList}
+{ACTIVITY, com.mobi.datadesignstudio.ShowGridTable}
+{ACTIVITY, com.mobi.datadesignstudio.SubMenuActivity}
+{ACTIVITY, com.mobi.datadesignstudio.VideoScreenActivity}
+{SERVICE, com.mobi.backgroundservice.BackgroundDataSenderService}
+{RECEIVER, com.mobi.backgroundservice.MyBroadcCastRecever, android.net.conn.CONNECTIVITY_CHANGE, android.net.wifi.WIFI_STATE_CHANGED, ACTION_SERVICE_STARTED}
+{ACTIVITY, com.mobi.datadesignstudio.WebViewReport}
+{ACTIVITY, com.mobi.datadesignstudio.NotificationView}
+{ACTIVITY, com.mobi.datadesignstudio.UserLocation}
+{ACTIVITY, com.mobi.datadesignstudio.RegisterActivity}
+{ACTIVITY, com.mobi.datadesignstudio.ValidateOTP}
+{ACTIVITY, com.mobi.files.offline.ShowOfflineFileDetails}
+{ACTIVITY, com.mobi.paymentUtility.paymentActivity.InitialScreenActivity}
+{ACTIVITY, com.mobi.paymentUtility.paymentActivity.StatusActivity}
+{ACTIVITY, com.mobi.paymentUtility.paymentActivity.WebViewActivity}
+{ACTIVITY, com.mobi.datadesignstudio.MapsActivity}
+{SERVICE, com.mobi.Notification.firebase.AppSavyFirebaseMessagingService, com.google.firebase.MESSAGING_EVENT}
+{SERVICE, com.mobi.Notification.firebase.AppSavyFirebaseIDService, com.google.firebase.INSTANCE_ID_EVENT}
+{ACTIVITY, com.mobi.datadesignstudio.PrinterActivity}
+{ACTIVITY, com.mobi.aesPrinter.tempproject.MainActivity}
+{ACTIVITY, com.mobi.datadesignstudio.PassCodeActivity}
+{SERVICE, com.mobi.backgroundservice.LocationUpdateService}
+{ACTIVITY, com.mobi.registration.MobileValidateActivity}
+{ACTIVITY, com.mobi.registration.AppSavyLoginActivity}
+{ACTIVITY, com.mobi.registration.AppSavySignUp}
+{ACTIVITY, com.mobi.registration.AppSavyProfileActivity}
+{ACTIVITY, com.mobi.registration.ResetAppSavyPassword}
+{ACTIVITY, com.mobi.registration.ChangeAppSavyPassword}
+{ACTIVITY, com.mobi.registration.ForgotAppSavyPassword}
+{ACTIVITY, com.mobi.registration.ContactAdminActivity}
+{ACTIVITY, com.mobi.webVideoPlayer.WebVideoActivity}
+{SERVICE, com.mobi.speechtotext.SpeechService}
+{ACTIVITY, com.mobi.speechtotext.MobiSpeechText}
+{SERVICE, com.google.firebase.messaging.FirebaseMessagingService, com.google.firebase.MESSAGING_EVENT}
+{SERVICE, com.google.firebase.components.ComponentDiscoveryService}
+{RECEIVER, com.google.android.gms.measurement.AppMeasurementReceiver}
+{SERVICE, com.google.android.gms.measurement.AppMeasurementService}
+{SERVICE, com.google.android.gms.measurement.AppMeasurementJobService}
+{RECEIVER, com.google.firebase.iid.FirebaseInstanceIdReceiver, com.google.android.c2dm.intent.RECEIVE}
+{ACTIVITY, com.google.android.gms.common.api.GoogleApiActivity}
+{SERVICE, com.firebase.jobdispatcher.GooglePlayReceiver, com.google.android.gms.gcm.ACTION_TASK_READY}
+{SERVICE, com.google.android.datatransport.runtime.backends.TransportBackendDiscovery}
+{SERVICE, com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService}
+_getAllDexFiles: /home/santapark/Extended3/DEEPerence/reEx/signed_sample42.apk@devRoot-D-R/classes.dex
+----------------/home/santapark/Extended3/DEEPerence/reEx/signed_sample42.apk@devRoot-D-R.apk
+dexFile = org.jf.dexlib2.dexbacked.DexBackedDexFile@737a135b
+com.mobi.eSaathiCH
+com.mobi.datadesignstudio.FirstScreenActivity
+debuggable: true
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/signed_sample42.apk@devRoot-D-R.apk
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/signed_sample42.apk@devRoot-D-R.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/signed_sample42.apk@devRoot-D-R.apk
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/signed_sample42.apk@devRoot-D-R_46604b9f/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/signed_sample42.apk@devRoot-D-R_46604b9f/signed_sample42.apk@devRoot-D-R.apk
+3601a6ff: Installation Success
+159ceeed: Installation Success
+b29e6a69: Installation Success
+46604b9f: Installing repackaged apk File: 
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/signed_sample42.apk@devRoot-D-R_46604b9f/signed_signed_sample42.apk@devRoot-D-R.apk
+46604b9f: Installation Success
+46604b9f: startApplication called! - devTamper
+3601a6ff: startApplication called! - devRef
+b29e6a69: startApplication called! - devRoot
+159ceeed: startApplication called! - devDebug
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_signed_sample42@devRoot-D-R.ilog)
+3601a6ff: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRef_signed_sample42@devRoot-D-R.ilog)
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_signed_sample42@devRoot-D-R.ilog)
+46604b9f: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devTamper_signed_sample42@devRoot-D-R.ilog)
+b29e6a69: Running Application: com.mobi.eSaathiCH
+3601a6ff: Running Application: com.mobi.eSaathiCH
+46604b9f: Running Application: com.mobi.eSaathiCH
+PIDs--------------------------------------------------------------------------
+u0_a194        4398    423 14564252 109912 0                  0 S com.mobi.eSaathiCH
+forward tcp:35535 jdwp:4398
+[*]Found JDWP Target: 4398
+159ceeed: Running Application: com.mobi.eSaathiCH
+PIDs--------------------------------------------------------------------------
+u0_a194        4398    423 14776376 118120 0                  0 R com.mobi.eSaathiCH
+159ceeed: Tryging attach jdb to 4398
+jdb -connect com.sun.jdi.SocketAttach:hostname=localhost,port=35535
+b29e6a69: Running is done - starting comparing... : 10001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.mobi.eSaathiCH/com.mobi.registration.MobileValidateActivity
+PIDs--------------------------------------------------------------------------
+u0_a3648      18269    425 14869340 144448 0                  0 S com.mobi.eSaathiCH
+b29e6a69: savedPid = 18269
+PIDs--------------------------------------------------------------------------
+u0_a3648      18269    425 14869340 144448 0                  0 S com.mobi.eSaathiCH
+b29e6a69: savedPid2 = 18269
+Stopping app: com.mobi.eSaathiCH
+46604b9f: Running is done - starting comparing... : 10001
+46604b9f: Terminated logcat thread...by itself
+46604b9f: Top-activity: com.mobi.eSaathiCH/com.mobi.registration.MobileValidateActivity
+PIDs--------------------------------------------------------------------------
+u0_a739       21855    427 15055256 142376 0                  0 S com.mobi.eSaathiCH
+46604b9f: savedPid = 21855
+PIDs--------------------------------------------------------------------------
+u0_a739       21855    427 15055256 142376 0                  0 S com.mobi.eSaathiCH
+46604b9f: savedPid2 = 21855
+Stopping app: com.mobi.eSaathiCH
+Tryging remove : uninstall com.mobi.eSaathiCH(com.mobi.eSaathiCH)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 54597542
+b29e6a69: End of collecting logcat...
+Tryging remove : uninstall com.mobi.eSaathiCH(com.mobi.eSaathiCH)
+46604b9f: Remove Success
+46604b9f: ilog file size: 74242262
+46604b9f: End of collecting logcat...
+3601a6ff: Top-activity: com.mobi.eSaathiCH/com.mobi.registration.MobileValidateActivity
+PIDs--------------------------------------------------------------------------
+u0_a220       28564    417 14982416 141344 0                  0 S com.mobi.eSaathiCH
+3601a6ff: savedPid = 28564
+3601a6ff: Terminated logcat thread...by itself
+PIDs--------------------------------------------------------------------------
+u0_a220       28564    417 14982416 141344 0                  0 R com.mobi.eSaathiCH
+3601a6ff: savedPid2 = 28564
+Stopping app: com.mobi.eSaathiCH
+Tryging remove : uninstall com.mobi.eSaathiCH(com.mobi.eSaathiCH)
+3601a6ff: Remove Success
+3601a6ff: ilog file size: 76109430
+3601a6ff: End of collecting logcat...
+159ceeed: Top-activity: com.mobi.eSaathiCH/com.mobi.registration.MobileValidateActivity
+PIDs--------------------------------------------------------------------------
+u0_a194        4398    423 14793072 153824 0                  0 S com.mobi.eSaathiCH
+159ceeed: savedPid = 4398
+159ceeed: Terminated logcat thread...by itself
+PIDs--------------------------------------------------------------------------
+u0_a194        4398    423 14793072 153824 0                  0 S com.mobi.eSaathiCH
+159ceeed: savedPid2 = 4398
+Stopping app: com.mobi.eSaathiCH
+Tryging remove : uninstall com.mobi.eSaathiCH(com.mobi.eSaathiCH)
+159ceeed: Remove Success
+159ceeed: ilog file size: 76777862
+159ceeed: End of collecting logcat...
+HPFinder's try count remains: 29
+46604b9f: isFailedToLaunch: com.mobi.eSaathiCH/com.mobi.registration.MobileValidateActivity
+46604b9f: 	--result: Good :)
+46604b9f: isFailedToLaunch: com.mobi.eSaathiCH/com.mobi.registration.MobileValidateActivity
+46604b9f: 	--result: Good :)
+b29e6a69: isFailedToLaunch: com.mobi.eSaathiCH/com.mobi.registration.MobileValidateActivity
+b29e6a69: 	--result: Good :)
+b29e6a69: isFailedToLaunch: com.mobi.eSaathiCH/com.mobi.registration.MobileValidateActivity
+b29e6a69: 	--result: Good :)
+159ceeed: isFailedToLaunch: com.mobi.eSaathiCH/com.mobi.registration.MobileValidateActivity
+159ceeed: 	--result: Good :)
+159ceeed: isFailedToLaunch: com.mobi.eSaathiCH/com.mobi.registration.MobileValidateActivity
+159ceeed: 	--result: Good :)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_signed_sample42@devRoot-D-R.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_signed_sample42@devRoot-D-R.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_signed_sample42@devRoot-D-R.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_signed_sample42@devRoot-D-R.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devTamper_signed_sample42@devRoot-D-R.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_signed_sample42@devRoot-D-R.ilog)
+[*] FlowManager: adjust finished.
+Action is completely same :)
+android.app.AlertDialog$Builder/show:()Landroid/app/AlertDialog;:6f68d8		=(rels)=>		1
+[*] Unique action: 1:110069 : <<CALL>> : com.mobi.registration.MobileValidateActivity/rootAlertDialog:()V:6f68d8  =>  android.app.AlertDialog$Builder/show:()Landroid/app/AlertDialog;:19e3bc
+	1:compareBackwardBranch: 1:116788 : <<BRANCH>> : com.mobi.registration.MobileValidateActivity/onCreate:(Landroid/os/Bundle;)V:6f0b9e  =>  com.mobi.registration.MobileValidateActivity/onCreate:(Landroid/os/Bundle;)V:6f0bb2
+Entry: 6f0afc
+com.mobi.registration.MobileValidateActivity/onCreate:(Landroid/os/Bundle;)V: 6f0b9e -> 6f0bb2
+		com.mobi.registration.MobileValidateActivity/onCreate:(Landroid/os/Bundle;)V: a2 -> b6
+addPatchReadme: java.lang.Class<com.mobi.registration.MobileValidateActivity>onCreate(Landroid/os/Bundle;)V a2 t
+b29e6a69: [+] Patches found in this round: 1
+b29e6a69: [*] Found Patch size: 1
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_signed_sample42@devRoot-D-R.ilog)
+b29e6a69: 	@@@Found patch addr: 6f0bae
+b29e6a69: Querying offset: 6f0b9e
+b29e6a69: 	--Add method name to patch = com.mobi.registration.MobileValidateActivity/onCreate:(Landroid/os/Bundle;)V 	6f0b9e
+[*] FlowManager: adjust finished.
+Action is completely same :)
+Action is completely same :)
+46604b9f: There is no difference. (tryAgain=false)
+[*] FlowManager: adjust finished.
+Action is completely same :)
+Action is completely same :)
+159ceeed: There is no difference. (tryAgain=false)
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: patching method: com.mobi.registration.MobileValidateActivity/onCreate:(Landroid/os/Bundle;)V
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/signed_sample42.apk@devRoot-D-R_devRoot
+Wow!!!!!  --  com.mobi.registration.MobileValidateActivity/onCreate:(Landroid/os/Bundle;)V
+fallthrough: a8
+branchTarget: b6
+label = sswitch_data_1
+GOTO -- a8 	b6
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/signed_sample42.apk@devRoot-D-R_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/signed_sample42.apk@devRoot-D-R_devRoot/signed_sample42.apk@devRoot-D-R.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/signed_sample42.apk@devRoot-D-R_devRoot/signed_signed_sample42.apk@devRoot-D-R.apk
+b29e6a69: First address of Lcom/mobi/registration/MobileValidateActivity;->onCreate(Landroid/os/Bundle;)V = 6f0b0c
+b29e6a69: Address - Lcom/mobi/registration/MobileValidateActivity;->onCreate(Landroid/os/Bundle;)V@a2	 lastOffset = 5b8
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/signed_sample42.apk@devRoot-D-R_devRoot/signed_signed_sample42.apk@devRoot-D-R.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_signed_sample42@devRoot-D-R.ilog)
+b29e6a69: Running Application: com.mobi.eSaathiCH
+b29e6a69: Running is done - starting comparing... : 10001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+b29e6a69: savedPid = null
+PIDs--------------------------------------------------------------------------
+b29e6a69: savedPid2 = null
+Stopping app: com.mobi.eSaathiCH
+Tryging remove : uninstall com.mobi.eSaathiCH(com.mobi.eSaathiCH)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 27525815
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 28
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+b29e6a69: /home/santapark/Extended3/DEEPerence/reEx/signed_sample42.apk@devRoot-D-R.apk launch is failed on devRoot
+b29e6a69: Failed Patch: 6f0bae
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 6f0b9e
+Action is completely same :)
+android.app.AlertDialog$Builder/show:()Landroid/app/AlertDialog;:6f68d8		=(rels)=>		1
+[*] Unique action: 1:110069 : <<CALL>> : com.mobi.registration.MobileValidateActivity/rootAlertDialog:()V:6f68d8  =>  android.app.AlertDialog$Builder/show:()Landroid/app/AlertDialog;:19e3bc
+	1:compareBackwardBranch: 1:116790 : <<BRANCH>> : com.mobi.registration.MobileValidateActivity/onCreate:(Landroid/os/Bundle;)V:6f0bc6  =>  com.mobi.registration.MobileValidateActivity/onCreate:(Landroid/os/Bundle;)V:6f0bda
+Entry: 6f0afc
+com.mobi.registration.MobileValidateActivity/onCreate:(Landroid/os/Bundle;)V: 6f0bc6 -> 6f0bda
+		com.mobi.registration.MobileValidateActivity/onCreate:(Landroid/os/Bundle;)V: ca -> de
+addPatchReadme: java.lang.Class<com.mobi.registration.MobileValidateActivity>onCreate(Landroid/os/Bundle;)V ca t
+b29e6a69: [+] Patches found in this round: 1
+b29e6a69: [*] Found Patch size: 1
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_signed_sample42@devRoot-D-R.ilog)
+b29e6a69: @@localPatchFilter -- 6f0bae
+b29e6a69: 	@@@Found patch addr: 6f0bd6
+b29e6a69: Querying offset: 6f0bc6
+b29e6a69: 	--Add method name to patch = com.mobi.registration.MobileValidateActivity/onCreate:(Landroid/os/Bundle;)V 	6f0bc6
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: patching method: com.mobi.registration.MobileValidateActivity/onCreate:(Landroid/os/Bundle;)V
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/signed_sample42.apk@devRoot-D-R_devRoot
+Wow!!!!!  --  com.mobi.registration.MobileValidateActivity/onCreate:(Landroid/os/Bundle;)V
+fallthrough: d0
+branchTarget: de
+label = sswitch_data_2
+GOTO -- d0 	de
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/signed_sample42.apk@devRoot-D-R_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/signed_sample42.apk@devRoot-D-R_devRoot/signed_sample42.apk@devRoot-D-R.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/signed_sample42.apk@devRoot-D-R_devRoot/signed_signed_sample42.apk@devRoot-D-R.apk
+b29e6a69: First address of Lcom/mobi/registration/MobileValidateActivity;->onCreate(Landroid/os/Bundle;)V = 6f0b0c
+b29e6a69: Address - Lcom/mobi/registration/MobileValidateActivity;->onCreate(Landroid/os/Bundle;)V@ca	 lastOffset = 5b8
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/signed_sample42.apk@devRoot-D-R_devRoot/signed_signed_sample42.apk@devRoot-D-R.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_signed_sample42@devRoot-D-R.ilog)
+b29e6a69: Running Application: com.mobi.eSaathiCH
+b29e6a69: Running is done - starting comparing... : 10001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+b29e6a69: savedPid = null
+PIDs--------------------------------------------------------------------------
+b29e6a69: savedPid2 = null
+Stopping app: com.mobi.eSaathiCH
+Tryging remove : uninstall com.mobi.eSaathiCH(com.mobi.eSaathiCH)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 26978470
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 27
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+b29e6a69: /home/santapark/Extended3/DEEPerence/reEx/signed_sample42.apk@devRoot-D-R.apk launch is failed on devRoot
+b29e6a69: Failed Patch: 6f0bd6
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 6f0b9e
+-- current localPatchFilter: 6f0bc6
+Action is completely same :)
+android.app.AlertDialog$Builder/show:()Landroid/app/AlertDialog;:6f68d8		=(rels)=>		1
+[*] Unique action: 1:110069 : <<CALL>> : com.mobi.registration.MobileValidateActivity/rootAlertDialog:()V:6f68d8  =>  android.app.AlertDialog$Builder/show:()Landroid/app/AlertDialog;:19e3bc
+	1:compareBackwardBranch: 1:116792 : <<BRANCH>> : com.mobi.registration.MobileValidateActivity/onCreate:(Landroid/os/Bundle;)V:6f0bee  =>  com.mobi.registration.MobileValidateActivity/onCreate:(Landroid/os/Bundle;)V:6f0c02
+Entry: 6f0afc
+com.mobi.registration.MobileValidateActivity/onCreate:(Landroid/os/Bundle;)V: 6f0bee -> 6f0c02
+		com.mobi.registration.MobileValidateActivity/onCreate:(Landroid/os/Bundle;)V: f2 -> 106
+addPatchReadme: java.lang.Class<com.mobi.registration.MobileValidateActivity>onCreate(Landroid/os/Bundle;)V f2 t
+b29e6a69: [+] Patches found in this round: 1
+b29e6a69: [*] Found Patch size: 1
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_signed_sample42@devRoot-D-R.ilog)
+b29e6a69: @@localPatchFilter -- 6f0bae
+b29e6a69: @@localPatchFilter -- 6f0bd6
+b29e6a69: 	@@@Found patch addr: 6f0bfe
+b29e6a69: Querying offset: 6f0bee
+b29e6a69: 	--Add method name to patch = com.mobi.registration.MobileValidateActivity/onCreate:(Landroid/os/Bundle;)V 	6f0bee
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: patching method: com.mobi.registration.MobileValidateActivity/onCreate:(Landroid/os/Bundle;)V
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/signed_sample42.apk@devRoot-D-R_devRoot
+Wow!!!!!  --  com.mobi.registration.MobileValidateActivity/onCreate:(Landroid/os/Bundle;)V
+fallthrough: f8
+branchTarget: 106
+label = sswitch_data_3
+GOTO -- f8 	106
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/signed_sample42.apk@devRoot-D-R_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/signed_sample42.apk@devRoot-D-R_devRoot/signed_sample42.apk@devRoot-D-R.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/signed_sample42.apk@devRoot-D-R_devRoot/signed_signed_sample42.apk@devRoot-D-R.apk
+b29e6a69: First address of Lcom/mobi/registration/MobileValidateActivity;->onCreate(Landroid/os/Bundle;)V = 6f0b0c
+b29e6a69: Address - Lcom/mobi/registration/MobileValidateActivity;->onCreate(Landroid/os/Bundle;)V@f2	 lastOffset = 5b8
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/signed_sample42.apk@devRoot-D-R_devRoot/signed_signed_sample42.apk@devRoot-D-R.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_signed_sample42@devRoot-D-R.ilog)
+b29e6a69: Running Application: com.mobi.eSaathiCH
+b29e6a69: Running is done - starting comparing... : 10001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+b29e6a69: savedPid = null
+PIDs--------------------------------------------------------------------------
+b29e6a69: savedPid2 = null
+Stopping app: com.mobi.eSaathiCH
+Tryging remove : uninstall com.mobi.eSaathiCH(com.mobi.eSaathiCH)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 27469436
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 26
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+b29e6a69: /home/santapark/Extended3/DEEPerence/reEx/signed_sample42.apk@devRoot-D-R.apk launch is failed on devRoot
+b29e6a69: Failed Patch: 6f0bfe
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 6f0b9e
+-- current localPatchFilter: 6f0bee
+-- current localPatchFilter: 6f0bc6
+Action is completely same :)
+android.app.AlertDialog$Builder/show:()Landroid/app/AlertDialog;:6f68d8		=(rels)=>		1
+[*] Unique action: 1:110069 : <<CALL>> : com.mobi.registration.MobileValidateActivity/rootAlertDialog:()V:6f68d8  =>  android.app.AlertDialog$Builder/show:()Landroid/app/AlertDialog;:19e3bc
+	1:compareBackwardBranch: 1:215273 : <<BRANCH>> : com.mobi.registration.MobileValidateActivity/onCreate:(Landroid/os/Bundle;)V:6f0c14  =>  com.mobi.registration.MobileValidateActivity/onCreate:(Landroid/os/Bundle;)V:6f0bfc
+Entry: 6f0afc
+com.mobi.registration.MobileValidateActivity/onCreate:(Landroid/os/Bundle;)V: 6f0c14 -> 6f0bfc
+		com.mobi.registration.MobileValidateActivity/onCreate:(Landroid/os/Bundle;)V: 118 -> 100
+addPatchReadme: java.lang.Class<com.mobi.registration.MobileValidateActivity>onCreate(Landroid/os/Bundle;)V 118 t
+b29e6a69: [+] Patches found in this round: 1
+b29e6a69: [*] Found Patch size: 1
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_signed_sample42@devRoot-D-R.ilog)
+b29e6a69: @@localPatchFilter -- 6f0bae
+b29e6a69: @@localPatchFilter -- 6f0bfe
+b29e6a69: @@localPatchFilter -- 6f0bd6
+b29e6a69: 	@@@Found patch addr: 6f0c24
+b29e6a69: Querying offset: 6f0c14
+b29e6a69: 	--Add method name to patch = com.mobi.registration.MobileValidateActivity/onCreate:(Landroid/os/Bundle;)V 	6f0c14
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: patching method: com.mobi.registration.MobileValidateActivity/onCreate:(Landroid/os/Bundle;)V
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/signed_sample42.apk@devRoot-D-R_devRoot
+Wow!!!!!  --  com.mobi.registration.MobileValidateActivity/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 11c
+branchTarget: 100
+label = cond_0
+GOTO -- 11c 	100
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/signed_sample42.apk@devRoot-D-R_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/signed_sample42.apk@devRoot-D-R_devRoot/signed_sample42.apk@devRoot-D-R.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/signed_sample42.apk@devRoot-D-R_devRoot/signed_signed_sample42.apk@devRoot-D-R.apk
+b29e6a69: First address of Lcom/mobi/registration/MobileValidateActivity;->onCreate(Landroid/os/Bundle;)V = 6f0b0c
+b29e6a69: Address - Lcom/mobi/registration/MobileValidateActivity;->onCreate(Landroid/os/Bundle;)V@118	 lastOffset = 5b8
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/signed_sample42.apk@devRoot-D-R_devRoot/signed_signed_sample42.apk@devRoot-D-R.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_signed_sample42@devRoot-D-R.ilog)
+b29e6a69: Running Application: com.mobi.eSaathiCH
+b29e6a69: Running is done - starting comparing... : 10001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.mobi.eSaathiCH/com.mobi.registration.MobileValidateActivity
+PIDs--------------------------------------------------------------------------
+u0_a3652      18750    425 14874056 142756 0                  0 S com.mobi.eSaathiCH
+b29e6a69: savedPid = 18750
+PIDs--------------------------------------------------------------------------
+u0_a3652      18750    425 14874056 142756 0                  0 S com.mobi.eSaathiCH
+b29e6a69: savedPid2 = 18750
+Stopping app: com.mobi.eSaathiCH
+Tryging remove : uninstall com.mobi.eSaathiCH(com.mobi.eSaathiCH)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 53712091
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 25
+b29e6a69: isFailedToLaunch: com.mobi.eSaathiCH/com.mobi.registration.MobileValidateActivity
+b29e6a69: 	--result: Good :)
+b29e6a69: isFailedToLaunch: com.mobi.eSaathiCH/com.mobi.registration.MobileValidateActivity
+b29e6a69: 	--result: Good :)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_signed_sample42@devRoot-D-R.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_signed_sample42@devRoot-D-R.ilog)
+b29e6a69: adding filter -- 6f0c14
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 6f0c14
+Action is completely same :)
+Action is completely same :)
+b29e6a69: There is no difference. (tryAgain=false)
+-- HPFinder will be done in this iteration :)
+hasAntiAnalysis? - devTamper: false on com.mobi.datadesignstudio.FirstScreenActivity
+hasAntiAnalysis? - devRoot: true on com.mobi.datadesignstudio.FirstScreenActivity
+	isRemovedThem? - devRoot: true on com.mobi.datadesignstudio.FirstScreenActivity	-	tryCount: 4
+hasAntiAnalysis? - devDebug: false on com.mobi.datadesignstudio.FirstScreenActivity
+*****REPORT: com.mobi.eSaathiCH
+* Package name: com.mobi.eSaathiCH
+* Running time: 459
+* FileSize: 10168774
+devTamper : 74242262
+devRef : 76109430
+devRoot : 53712091
+devDebug : 76777862
+hasAntiAnalysis? - devTamper: false on com.mobi.datadesignstudio.FirstScreenActivity
+hasAntiAnalysis? - devRoot: true on com.mobi.datadesignstudio.FirstScreenActivity
+	isRemovedThem? - devRoot: true on com.mobi.datadesignstudio.FirstScreenActivity	-	tryCount: 4
+hasAntiAnalysis? - devDebug: false on com.mobi.datadesignstudio.FirstScreenActivity
+46604b9f: trying remove : com.mobi.eSaathiCH
+3601a6ff: trying remove : com.mobi.eSaathiCH
+b29e6a69: trying remove : com.mobi.eSaathiCH
+159ceeed: trying remove : com.mobi.eSaathiCH
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+159ceeed: result = true
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+3601a6ff: result = true
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+46604b9f: result = true
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+b29e6a69: result = true
+3601a6ff: isFailedToLaunch: com.mobi.eSaathiCH/com.mobi.registration.MobileValidateActivity
+3601a6ff: 	--result: Good :)

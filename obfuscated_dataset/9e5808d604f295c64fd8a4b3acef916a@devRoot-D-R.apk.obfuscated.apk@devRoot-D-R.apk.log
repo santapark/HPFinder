@@ -1,0 +1,570 @@
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample81.apk@devRoot-D-R.apk.obfuscated/AndroidManifest.xml
+launchable-activity: name='com.priviatravel.PriviaTravel'  label='현대카드 PRIVIA 여행' icon=''
+{ACTIVITY, com.priviatravel.activity.social.FacebookLoginActivity}
+{ACTIVITY, com.priviatravel.activity.social.KakaoLoginActivity}
+{ACTIVITY, com.priviatravel.activity.social.NaverLoginActivity}
+{ACTIVITY, com.facebook.FacebookActivity}
+{ACTIVITY, com.priviatravel.PriviaTravel, android.intent.action.MAIN, android.intent.action.VIEW, android.intent.action.VIEW, android.intent.action.VIEW}
+{ACTIVITY, com.priviatravel.activity.WebViewActivity}
+{ACTIVITY, com.priviatravel.activity.PreferenceActivity}
+{ACTIVITY, com.priviatravel.activity.ExitActivity}
+{RECEIVER, com.priviatravel.NetworkBroadcastReceiver, android.net.conn.CONNECTIVITY_CHANGE, android.intent.action.AIRPLANE_MODE}
+{SERVICE, com.priviatravel.fcm.FingerPushIntentService, com.google.firebase.MESSAGING_EVENT}
+{ACTIVITY, com.priviatravel.PopupActivity}
+{ACTIVITY, com.gun0912.tedpermission.TedPermissionActivity}
+{ACTIVITY, com.nhn.android.naverlogin.ui.OAuthLoginActivity}
+{ACTIVITY, com.nhn.android.naverlogin.ui.OAuthLoginInAppBrowserActivity}
+{ACTIVITY, com.nhn.android.naverlogin.ui.OAuthCustomTabActivity, android.intent.action.VIEW}
+{ACTIVITY, com.facebook.CustomTabMainActivity}
+{ACTIVITY, com.facebook.CustomTabActivity, android.intent.action.VIEW}
+{SERVICE, com.google.firebase.messaging.FirebaseMessagingService, com.google.firebase.MESSAGING_EVENT}
+{SERVICE, com.google.firebase.components.ComponentDiscoveryService}
+{RECEIVER, com.google.firebase.iid.FirebaseInstanceIdReceiver, com.google.android.c2dm.intent.RECEIVE}
+{ACTIVITY, com.google.android.gms.common.api.GoogleApiActivity}
+{RECEIVER, com.google.android.gms.measurement.AppMeasurementReceiver}
+{RECEIVER, com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver, com.android.vending.INSTALL_REFERRER}
+{SERVICE, com.google.android.gms.measurement.AppMeasurementService}
+{SERVICE, com.google.android.gms.measurement.AppMeasurementJobService}
+{ACTIVITY, com.kakao.auth.authorization.authcode.KakaoWebViewActivity}
+{ACTIVITY, com.priviatravel.activity.social.FacebookLoginActivity}
+{ACTIVITY, com.priviatravel.activity.social.KakaoLoginActivity}
+{ACTIVITY, com.priviatravel.activity.social.NaverLoginActivity}
+{ACTIVITY, com.facebook.FacebookActivity}
+{ACTIVITY, com.priviatravel.PriviaTravel, android.intent.action.MAIN, android.intent.action.VIEW, android.intent.action.VIEW, android.intent.action.VIEW}
+{ACTIVITY, com.priviatravel.activity.WebViewActivity}
+{ACTIVITY, com.priviatravel.activity.PreferenceActivity}
+{ACTIVITY, com.priviatravel.activity.ExitActivity}
+{RECEIVER, com.priviatravel.NetworkBroadcastReceiver, android.net.conn.CONNECTIVITY_CHANGE, android.intent.action.AIRPLANE_MODE}
+{SERVICE, com.priviatravel.fcm.FingerPushIntentService, com.google.firebase.MESSAGING_EVENT}
+{ACTIVITY, com.priviatravel.PopupActivity}
+{ACTIVITY, com.gun0912.tedpermission.TedPermissionActivity}
+{ACTIVITY, com.nhn.android.naverlogin.ui.OAuthLoginActivity}
+{ACTIVITY, com.nhn.android.naverlogin.ui.OAuthLoginInAppBrowserActivity}
+{ACTIVITY, com.nhn.android.naverlogin.ui.OAuthCustomTabActivity, android.intent.action.VIEW}
+{ACTIVITY, com.facebook.CustomTabMainActivity}
+{ACTIVITY, com.facebook.CustomTabActivity, android.intent.action.VIEW}
+{SERVICE, com.google.firebase.messaging.FirebaseMessagingService, com.google.firebase.MESSAGING_EVENT}
+{SERVICE, com.google.firebase.components.ComponentDiscoveryService}
+{RECEIVER, com.google.firebase.iid.FirebaseInstanceIdReceiver, com.google.android.c2dm.intent.RECEIVE}
+{ACTIVITY, com.google.android.gms.common.api.GoogleApiActivity}
+{RECEIVER, com.google.android.gms.measurement.AppMeasurementReceiver}
+{RECEIVER, com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver, com.android.vending.INSTALL_REFERRER}
+{SERVICE, com.google.android.gms.measurement.AppMeasurementService}
+{SERVICE, com.google.android.gms.measurement.AppMeasurementJobService}
+{ACTIVITY, com.kakao.auth.authorization.authcode.KakaoWebViewActivity}
+_getAllDexFiles: /home/santapark/Extended3/DEEPerence/reEx/sample81.apk@devRoot-D-R.apk.obfuscated/classes.dex
+----------------/home/santapark/Extended3/DEEPerence/reEx/sample81.apk@devRoot-D-R.apk.obfuscated.apk
+dexFile = org.jf.dexlib2.dexbacked.DexBackedDexFile@66ec9390
+com.priviatravel
+com.priviatravel.PriviaTravel
+debuggable: true
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample81.apk@devRoot-D-R.apk.obfuscated.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample81.apk@devRoot-D-R.apk.obfuscated.apk
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample81.apk@devRoot-D-R.apk.obfuscated_46604b9f/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample81.apk@devRoot-D-R.apk.obfuscated_46604b9f/sample81.apk@devRoot-D-R.apk.obfuscated.apk
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample81.apk@devRoot-D-R.apk.obfuscated/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample81.apk@devRoot-D-R.apk.obfuscated/sample81.apk@devRoot-D-R.apk.obfuscated.apk
+3601a6ff: Installation Success
+b29e6a69: Installation Success
+159ceeed: Installing debuggable .apk file: 
+46604b9f: Installing repackaged apk File: 
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample81.apk@devRoot-D-R.apk.obfuscated/signed_sample81.apk@devRoot-D-R.apk.obfuscated.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample81.apk@devRoot-D-R.apk.obfuscated_46604b9f/signed_sample81.apk@devRoot-D-R.apk.obfuscated.apk
+159ceeed: Installation Success
+46604b9f: Installation Success
+46604b9f: startApplication called! - devTamper
+3601a6ff: startApplication called! - devRef
+b29e6a69: startApplication called! - devRoot
+159ceeed: startApplication called! - devDebug
+3601a6ff: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample81@devRoot-D-R.obfuscated.ilog)
+46604b9f: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devTamper_sample81@devRoot-D-R.obfuscated.ilog)
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample81@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample81@devRoot-D-R.obfuscated.ilog)
+3601a6ff: Running Application: com.priviatravel
+46604b9f: Running Application: com.priviatravel
+b29e6a69: Running Application: com.priviatravel
+PIDs--------------------------------------------------------------------------
+u0_a723        7631    429 14041284 98896 0                   0 R com.priviatravel
+forward tcp:5005 jdwp:7631
+[*]Found JDWP Target: 7631
+159ceeed: Running Application: com.priviatravel
+3601a6ff: Running is done - starting comparing... : 5001
+3601a6ff: Terminated logcat thread...by itself
+3601a6ff: Top-activity: com.priviatravel/.PriviaTravel
+PIDs--------------------------------------------------------------------------
+u0_a222       30224    407 14333772 142580 0                  0 S com.priviatravel
+PIDs--------------------------------------------------------------------------
+u0_a222       30224    407 14333772 142580 0                  0 S com.priviatravel
+Stopping app: com.priviatravel
+46604b9f: Top-activity: com.priviatravel/.PriviaTravel
+PIDs--------------------------------------------------------------------------
+u0_a912       15032    425 14282684 142868 0                  0 S com.priviatravel
+46604b9f: Terminated logcat thread...by itself
+PIDs--------------------------------------------------------------------------
+u0_a912       15032    425 14282684 142868 0                  0 S com.priviatravel
+Stopping app: com.priviatravel
+Tryging remove : uninstall com.priviatravel(com.priviatravel)
+3601a6ff: Remove Success
+3601a6ff: ilog file size: 319492125
+3601a6ff: End of collecting logcat...
+b29e6a69: Top-activity: com.priviatravel/.PriviaTravel
+PIDs--------------------------------------------------------------------------
+u0_a3094      10634    429 14177356 144728 0                  0 S com.priviatravel
+b29e6a69: Terminated logcat thread...by itself
+PIDs--------------------------------------------------------------------------
+u0_a3094      10634    429 14177356 144728 0                  0 S com.priviatravel
+Stopping app: com.priviatravel
+159ceeed: Top-activity: com.priviatravel/.PriviaTravel
+PIDs--------------------------------------------------------------------------
+u0_a723        7631    429 14186428 142592 0                  0 S com.priviatravel
+159ceeed: Terminated logcat thread...by itself
+PIDs--------------------------------------------------------------------------
+u0_a723        7631    429 14186428 142592 0                  0 S com.priviatravel
+Stopping app: com.priviatravel
+Tryging remove : uninstall com.priviatravel(com.priviatravel)
+46604b9f: Remove Success
+46604b9f: ilog file size: 295375350
+46604b9f: End of collecting logcat...
+Tryging remove : uninstall com.priviatravel(com.priviatravel)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 281022298
+b29e6a69: End of collecting logcat...
+Tryging remove : uninstall com.priviatravel(com.priviatravel)
+159ceeed: Remove Success
+159ceeed: ilog file size: 312881242
+159ceeed: End of collecting logcat...
+HPFinder's try count remains: 19
+46604b9f: isFailedToLaunch: com.priviatravel/.PriviaTravel
+46604b9f: 	--result: Good :)
+b29e6a69: isFailedToLaunch: com.priviatravel/.PriviaTravel
+b29e6a69: 	--result: Good :)
+159ceeed: isFailedToLaunch: com.priviatravel/.PriviaTravel
+159ceeed: 	--result: Good :)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample81@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample81@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample81@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample81@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devTamper_sample81@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample81@devRoot-D-R.obfuscated.ilog)
+[*] FlowManager: adjust finished.
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.app.Dialog/show:()V:5ad5f0		=(rels)=>		1
+[*] Unique action: 1:128025 : <<CALL>> : com.priviatravel.PriviaTravel/i:()V:5ad5f0  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:111097 : <<BRANCH>> : com.priviatravel.PriviaTravel/h:()V:5acb80  =>  com.priviatravel.PriviaTravel/h:()V:5acf5c
+java.net.URL/openConnection:()Ljava/net/URLConnection;:407e4c		=(rels)=>		0
+android.app.Dialog/show:()V:5acdfa		=(rels)=>		1
+[*] Unique action: 1:60212 : <<CALL>> : com.priviatravel.PriviaTravel/h:()V:5acdfa  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:110100 : <<BRANCH>> : com.priviatravel.PriviaTravel/h:()V:5acb80  =>  com.priviatravel.PriviaTravel/h:()V:5ace08
+Entry: 5acacc
+com.priviatravel.PriviaTravel/h:()V: 5acb80 -> 5ace08
+		com.priviatravel.PriviaTravel/h:()V: b4 -> 33c
+addPatchReadme: java.lang.Class<com.priviatravel.PriviaTravel>h()V b4 t
+[*] FlowManager: adjust finished.
+Action is completely same :)
+Action is completely same :)
+46604b9f: There is no difference. (tryAgain=false)
+[*] FlowManager: adjust finished.
+Action is completely same :)
+Action is completely same :)
+159ceeed: There is no difference. (tryAgain=false)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample81@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Patch size: 1
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample81.apk@devRoot-D-R.apk.obfuscated_devRoot
+Wow!!!!!  --  com.priviatravel.PriviaTravel/h:()V
+fallthrough: ba
+branchTarget: 33c
+label = sswitch_data_0
+GOTO -- ba 	33c
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample81.apk@devRoot-D-R.apk.obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample81.apk@devRoot-D-R.apk.obfuscated_devRoot/sample81.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample81.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample81.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: First address of Lcom/priviatravel/PriviaTravel;->h()V = 5acadc
+b29e6a69: Address - Lcom/priviatravel/PriviaTravel;->h()V@b4	 lastOffset = 73c
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample81.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample81.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample81@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Running Application: com.priviatravel
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.priviatravel
+Tryging remove : uninstall com.priviatravel(com.priviatravel)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 7873614
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 18
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+/home/santapark/Extended3/DEEPerence/reEx/sample81.apk@devRoot-D-R.apk.obfuscated.apk launch is failed on devRoot
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 5acb80
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.app.Dialog/show:()V:5ad5f0		=(rels)=>		1
+[*] Unique action: 1:128025 : <<CALL>> : com.priviatravel.PriviaTravel/i:()V:5ad5f0  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:110090 : <<BRANCH>> : com.priviatravel.PriviaTravel/h:()V:5acba2  =>  com.priviatravel.PriviaTravel/h:()V:5acf72
+java.net.URL/openConnection:()Ljava/net/URLConnection;:407e4c		=(rels)=>		0
+android.app.Dialog/show:()V:5acdfa		=(rels)=>		1
+[*] Unique action: 1:60212 : <<CALL>> : com.priviatravel.PriviaTravel/h:()V:5acdfa  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:110090 : <<BRANCH>> : com.priviatravel.PriviaTravel/h:()V:5acba2  =>  com.priviatravel.PriviaTravel/h:()V:5acf72
+Entry: 5acacc
+com.priviatravel.PriviaTravel/h:()V: 5acba2 -> 5acf72
+		com.priviatravel.PriviaTravel/h:()V: d6 -> 4a6
+addPatchReadme: java.lang.Class<com.priviatravel.PriviaTravel>h()V d6 t
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample81@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Patch size: 1
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample81.apk@devRoot-D-R.apk.obfuscated_devRoot
+Wow!!!!!  --  com.priviatravel.PriviaTravel/h:()V
+fallthrough: dc
+branchTarget: 4a6
+label = sswitch_data_1
+GOTO -- dc 	4a6
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample81.apk@devRoot-D-R.apk.obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample81.apk@devRoot-D-R.apk.obfuscated_devRoot/sample81.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample81.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample81.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: First address of Lcom/priviatravel/PriviaTravel;->h()V = 5acadc
+b29e6a69: Address - Lcom/priviatravel/PriviaTravel;->h()V@d6	 lastOffset = 73c
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample81.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample81.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample81@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Running Application: com.priviatravel
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.priviatravel
+Tryging remove : uninstall com.priviatravel(com.priviatravel)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 8029378
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 17
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+/home/santapark/Extended3/DEEPerence/reEx/sample81.apk@devRoot-D-R.apk.obfuscated.apk launch is failed on devRoot
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 5acba2
+-- current localPatchFilter: 5acb80
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.app.Dialog/show:()V:5ad5f0		=(rels)=>		1
+[*] Unique action: 1:128025 : <<CALL>> : com.priviatravel.PriviaTravel/i:()V:5ad5f0  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:110082 : <<BRANCH>> : com.priviatravel.PriviaTravel/h:()V:5acbbe  =>  com.priviatravel.PriviaTravel/h:()V:5acbcc
+java.net.URL/openConnection:()Ljava/net/URLConnection;:407e4c		=(rels)=>		0
+android.app.Dialog/show:()V:5acdfa		=(rels)=>		1
+[*] Unique action: 1:60212 : <<CALL>> : com.priviatravel.PriviaTravel/h:()V:5acdfa  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:110082 : <<BRANCH>> : com.priviatravel.PriviaTravel/h:()V:5acbbe  =>  com.priviatravel.PriviaTravel/h:()V:5acbcc
+Entry: 5acacc
+com.priviatravel.PriviaTravel/h:()V: 5acbbe -> 5acbcc
+		com.priviatravel.PriviaTravel/h:()V: f2 -> 100
+addPatchReadme: java.lang.Class<com.priviatravel.PriviaTravel>h()V f2 t
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample81@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Patch size: 1
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample81.apk@devRoot-D-R.apk.obfuscated_devRoot
+Wow!!!!!  --  com.priviatravel.PriviaTravel/h:()V
+fallthrough: f8
+branchTarget: 100
+label = sswitch_data_2
+GOTO -- f8 	100
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample81.apk@devRoot-D-R.apk.obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample81.apk@devRoot-D-R.apk.obfuscated_devRoot/sample81.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample81.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample81.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: First address of Lcom/priviatravel/PriviaTravel;->h()V = 5acadc
+b29e6a69: Address - Lcom/priviatravel/PriviaTravel;->h()V@f2	 lastOffset = 73c
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample81.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample81.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample81@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Running Application: com.priviatravel
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.priviatravel
+Tryging remove : uninstall com.priviatravel(com.priviatravel)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 7648618
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 16
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+/home/santapark/Extended3/DEEPerence/reEx/sample81.apk@devRoot-D-R.apk.obfuscated.apk launch is failed on devRoot
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 5acbbe
+-- current localPatchFilter: 5acba2
+-- current localPatchFilter: 5acb80
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.app.Dialog/show:()V:5ad5f0		=(rels)=>		1
+[*] Unique action: 1:128025 : <<CALL>> : com.priviatravel.PriviaTravel/i:()V:5ad5f0  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:110072 : <<BRANCH>> : com.priviatravel.PriviaTravel/h:()V:5acbec  =>  com.priviatravel.PriviaTravel/h:()V:5acbd2
+java.net.URL/openConnection:()Ljava/net/URLConnection;:407e4c		=(rels)=>		0
+android.app.Dialog/show:()V:5acdfa		=(rels)=>		1
+[*] Unique action: 1:60212 : <<CALL>> : com.priviatravel.PriviaTravel/h:()V:5acdfa  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:110072 : <<BRANCH>> : com.priviatravel.PriviaTravel/h:()V:5acbec  =>  com.priviatravel.PriviaTravel/h:()V:5acbd2
+Entry: 5acacc
+com.priviatravel.PriviaTravel/h:()V: 5acbec -> 5acbd2
+		com.priviatravel.PriviaTravel/h:()V: 120 -> 106
+addPatchReadme: java.lang.Class<com.priviatravel.PriviaTravel>h()V 120 t
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample81@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Patch size: 1
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample81.apk@devRoot-D-R.apk.obfuscated_devRoot
+Wow!!!!!  --  com.priviatravel.PriviaTravel/h:()V
+fallthrough: 126
+branchTarget: 106
+label = sswitch_data_3
+GOTO -- 126 	106
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample81.apk@devRoot-D-R.apk.obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample81.apk@devRoot-D-R.apk.obfuscated_devRoot/sample81.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample81.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample81.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: First address of Lcom/priviatravel/PriviaTravel;->h()V = 5acadc
+b29e6a69: Address - Lcom/priviatravel/PriviaTravel;->h()V@120	 lastOffset = 73c
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample81.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample81.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample81@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Running Application: com.priviatravel
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.priviatravel
+Tryging remove : uninstall com.priviatravel(com.priviatravel)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 7882242
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 15
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+/home/santapark/Extended3/DEEPerence/reEx/sample81.apk@devRoot-D-R.apk.obfuscated.apk launch is failed on devRoot
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 5acbbe
+-- current localPatchFilter: 5acbec
+-- current localPatchFilter: 5acba2
+-- current localPatchFilter: 5acb80
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.app.Dialog/show:()V:5ad5f0		=(rels)=>		1
+[*] Unique action: 1:128025 : <<CALL>> : com.priviatravel.PriviaTravel/i:()V:5ad5f0  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:110060 : <<BRANCH>> : com.priviatravel.PriviaTravel/h:()V:5acc08  =>  com.priviatravel.PriviaTravel/h:()V:5acc16
+java.net.URL/openConnection:()Ljava/net/URLConnection;:407e4c		=(rels)=>		0
+android.app.Dialog/show:()V:5acdfa		=(rels)=>		1
+[*] Unique action: 1:60212 : <<CALL>> : com.priviatravel.PriviaTravel/h:()V:5acdfa  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:110060 : <<BRANCH>> : com.priviatravel.PriviaTravel/h:()V:5acc08  =>  com.priviatravel.PriviaTravel/h:()V:5acc16
+Entry: 5acacc
+com.priviatravel.PriviaTravel/h:()V: 5acc08 -> 5acc16
+		com.priviatravel.PriviaTravel/h:()V: 13c -> 14a
+addPatchReadme: java.lang.Class<com.priviatravel.PriviaTravel>h()V 13c t
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample81@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Patch size: 1
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample81.apk@devRoot-D-R.apk.obfuscated_devRoot
+Wow!!!!!  --  com.priviatravel.PriviaTravel/h:()V
+fallthrough: 142
+branchTarget: 14a
+label = sswitch_data_4
+GOTO -- 142 	14a
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample81.apk@devRoot-D-R.apk.obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample81.apk@devRoot-D-R.apk.obfuscated_devRoot/sample81.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample81.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample81.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: First address of Lcom/priviatravel/PriviaTravel;->h()V = 5acadc
+b29e6a69: Address - Lcom/priviatravel/PriviaTravel;->h()V@13c	 lastOffset = 73c
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample81.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample81.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample81@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Running Application: com.priviatravel
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.priviatravel
+Tryging remove : uninstall com.priviatravel(com.priviatravel)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 7873909
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 14
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+/home/santapark/Extended3/DEEPerence/reEx/sample81.apk@devRoot-D-R.apk.obfuscated.apk launch is failed on devRoot
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 5acc08
+-- current localPatchFilter: 5acbbe
+-- current localPatchFilter: 5acbec
+-- current localPatchFilter: 5acba2
+-- current localPatchFilter: 5acb80
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.app.Dialog/show:()V:5ad5f0		=(rels)=>		1
+[*] Unique action: 1:128025 : <<CALL>> : com.priviatravel.PriviaTravel/i:()V:5ad5f0  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:110051 : <<BRANCH>> : com.priviatravel.PriviaTravel/h:()V:5acc36  =>  com.priviatravel.PriviaTravel/h:()V:5acc1c
+java.net.URL/openConnection:()Ljava/net/URLConnection;:407e4c		=(rels)=>		0
+android.app.Dialog/show:()V:5acdfa		=(rels)=>		1
+[*] Unique action: 1:60212 : <<CALL>> : com.priviatravel.PriviaTravel/h:()V:5acdfa  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:110051 : <<BRANCH>> : com.priviatravel.PriviaTravel/h:()V:5acc36  =>  com.priviatravel.PriviaTravel/h:()V:5acc1c
+Entry: 5acacc
+com.priviatravel.PriviaTravel/h:()V: 5acc36 -> 5acc1c
+		com.priviatravel.PriviaTravel/h:()V: 16a -> 150
+addPatchReadme: java.lang.Class<com.priviatravel.PriviaTravel>h()V 16a t
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample81@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Patch size: 1
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample81.apk@devRoot-D-R.apk.obfuscated_devRoot
+Wow!!!!!  --  com.priviatravel.PriviaTravel/h:()V
+fallthrough: 170
+branchTarget: 150
+label = sswitch_data_5
+GOTO -- 170 	150
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample81.apk@devRoot-D-R.apk.obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample81.apk@devRoot-D-R.apk.obfuscated_devRoot/sample81.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample81.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample81.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: First address of Lcom/priviatravel/PriviaTravel;->h()V = 5acadc
+b29e6a69: Address - Lcom/priviatravel/PriviaTravel;->h()V@16a	 lastOffset = 73c
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample81.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample81.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample81@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Running Application: com.priviatravel
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.priviatravel
+Tryging remove : uninstall com.priviatravel(com.priviatravel)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 7702038
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 13
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+/home/santapark/Extended3/DEEPerence/reEx/sample81.apk@devRoot-D-R.apk.obfuscated.apk launch is failed on devRoot
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 5acc08
+-- current localPatchFilter: 5acbbe
+-- current localPatchFilter: 5acbec
+-- current localPatchFilter: 5acba2
+-- current localPatchFilter: 5acb80
+-- current localPatchFilter: 5acc36
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.app.Dialog/show:()V:5ad5f0		=(rels)=>		1
+[*] Unique action: 1:128025 : <<CALL>> : com.priviatravel.PriviaTravel/i:()V:5ad5f0  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:110036 : <<BRANCH>> : com.priviatravel.PriviaTravel/h:()V:5acc5c  =>  com.priviatravel.PriviaTravel/h:()V:5acc44
+java.net.URL/openConnection:()Ljava/net/URLConnection;:407e4c		=(rels)=>		0
+android.app.Dialog/show:()V:5acdfa		=(rels)=>		1
+[*] Unique action: 1:60212 : <<CALL>> : com.priviatravel.PriviaTravel/h:()V:5acdfa  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:110036 : <<BRANCH>> : com.priviatravel.PriviaTravel/h:()V:5acc5c  =>  com.priviatravel.PriviaTravel/h:()V:5acc44
+Entry: 5acacc
+com.priviatravel.PriviaTravel/h:()V: 5acc5c -> 5acc44
+		com.priviatravel.PriviaTravel/h:()V: 190 -> 178
+addPatchReadme: java.lang.Class<com.priviatravel.PriviaTravel>h()V 190 t
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample81@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Patch size: 1
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample81.apk@devRoot-D-R.apk.obfuscated_devRoot
+Wow!!!!!  --  com.priviatravel.PriviaTravel/h:()V
+fallthrough: 194
+branchTarget: 178
+label = cond_0
+GOTO -- 194 	178
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample81.apk@devRoot-D-R.apk.obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample81.apk@devRoot-D-R.apk.obfuscated_devRoot/sample81.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample81.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample81.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: First address of Lcom/priviatravel/PriviaTravel;->h()V = 5acadc
+b29e6a69: Address - Lcom/priviatravel/PriviaTravel;->h()V@190	 lastOffset = 73c
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample81.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample81.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample81@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Running Application: com.priviatravel
+b29e6a69: Top-activity: com.priviatravel/.PriviaTravel
+PIDs--------------------------------------------------------------------------
+u0_a3101      11852    429 14218080 146540 0                  0 S com.priviatravel
+b29e6a69: Terminated logcat thread...by itself
+PIDs--------------------------------------------------------------------------
+u0_a3101      11852    429 14218080 146540 0                  0 S com.priviatravel
+Stopping app: com.priviatravel
+Tryging remove : uninstall com.priviatravel(com.priviatravel)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 282589629
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 12
+b29e6a69: isFailedToLaunch: com.priviatravel/.PriviaTravel
+b29e6a69: 	--result: Good :)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample81@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample81@devRoot-D-R.obfuscated.ilog)
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 5acc5c
+Action is completely same :)
+Action is completely same :)
+b29e6a69: There is no difference. (tryAgain=false)
+-- HPFinder will be done in this iteration :)
+hasAntiAnalysis? - devTamper: false on com.priviatravel.PriviaTravel
+hasAntiAnalysis? - devRoot: true on com.priviatravel.PriviaTravel
+	isRemovedThem? - devRoot: true on com.priviatravel.PriviaTravel	-	tryCount: 7
+hasAntiAnalysis? - devDebug: false on com.priviatravel.PriviaTravel
+*****REPORT: com.priviatravel
+* Package name: com.priviatravel
+* Running time: 648
+* FileSize: 7316365
+devTamper : 295375350
+devRef : 319492125
+devRoot : 282589629
+devDebug : 312881242
+hasAntiAnalysis? - devTamper: false on com.priviatravel.PriviaTravel
+hasAntiAnalysis? - devRoot: true on com.priviatravel.PriviaTravel
+	isRemovedThem? - devRoot: true on com.priviatravel.PriviaTravel	-	tryCount: 7
+hasAntiAnalysis? - devDebug: false on com.priviatravel.PriviaTravel
+46604b9f: trying remove : com.priviatravel
+3601a6ff: trying remove : com.priviatravel
+b29e6a69: trying remove : com.priviatravel
+159ceeed: trying remove : com.priviatravel
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+3601a6ff: result = true
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+159ceeed: result = true
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+b29e6a69: result = true
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+46604b9f: result = true
+3601a6ff: isFailedToLaunch: com.priviatravel/.PriviaTravel
+3601a6ff: 	--result: Good :)

@@ -1,0 +1,1670 @@
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample77.apk@devRoot-D-R.apk.obfuscated_flattened/AndroidManifest.xml
+launchable-activity: name='com.enthralltech.empoweredtls.view.WelcomeActivity'  label='' icon=''
+{ACTIVITY, com.enthralltech.empoweredtls.view.PremiumCalculationActivity}
+{ACTIVITY, com.enthralltech.empoweredtls.view.ActitvityMaxFreshMascot}
+{ACTIVITY, com.enthralltech.empoweredtls.view.ActivityExternalProviderPlayer}
+{ACTIVITY, com.enthralltech.empoweredtls.view.ActivityPostEvalSubmit}
+{ACTIVITY, com.enthralltech.empoweredtls.view.ActivityEvaluationPreview}
+{ACTIVITY, com.enthralltech.empoweredtls.view.ActivityProcessEvalQuestions}
+{ACTIVITY, com.enthralltech.empoweredtls.view.ActivityProcessEval}
+{ACTIVITY, com.enthralltech.empoweredtls.view.ActivityYouTubePlayer}
+{ACTIVITY, com.enthralltech.empoweredtls.view.AuthoringCoursePlayer}
+{ACTIVITY, com.enthralltech.empoweredtls.view.AssignmentActivity}
+{ACTIVITY, com.enthralltech.empoweredtls.view.QRCodeScanActivity}
+{ACTIVITY, com.enthralltech.empoweredtls.view.CoursePdfOpenerActivity}
+{ACTIVITY, com.enthralltech.empoweredtls.view.CertificateActivity}
+{ACTIVITY, com.enthralltech.empoweredtls.view.NlicSplashScreenActivity}
+{ACTIVITY, com.enthralltech.empoweredtls.view.BrowseCatelogueActivity}
+{ACTIVITY, com.enthralltech.empoweredtls.view.WelcomeActivity, android.intent.action.MAIN}
+{ACTIVITY, com.enthralltech.empoweredtls.view.LoginActivity, android.intent.action.VIEW}
+{ACTIVITY, com.enthralltech.empoweredtls.view.HomePageActivity}
+{ACTIVITY, com.enthralltech.empoweredtls.view.AllCoursesActivity}
+{ACTIVITY, com.enthralltech.empoweredtls.view.CourseDetailsNewActivity}
+{ACTIVITY, com.enthralltech.empoweredtls.view.CoursePlayerActivity}
+{ACTIVITY, com.enthralltech.empoweredtls.view.AssessmentDetailsActivity}
+{ACTIVITY, com.enthralltech.empoweredtls.view.AssessmentActivity}
+{ACTIVITY, com.enthralltech.empoweredtls.view.AdaptiveAssessmentActivity}
+{ACTIVITY, com.enthralltech.empoweredtls.view.AssessmentResultActivity}
+{ACTIVITY, com.enthralltech.empoweredtls.view.FeedbackActivity}
+{ACTIVITY, com.enthralltech.empoweredtls.view.ILTCourseActivity}
+{ACTIVITY, com.enthralltech.empoweredtls.view.TermsConditionActivity}
+{ACTIVITY, com.enthralltech.empoweredtls.view.ChangePasswordActivity}
+{ACTIVITY, com.enthralltech.empoweredtls.view.ILTCourseList}
+{ACTIVITY, com.enthralltech.empoweredtls.view.NotificationActivity}
+{ACTIVITY, com.enthralltech.empoweredtls.view.SurveyActivity}
+{ACTIVITY, com.enthralltech.empoweredtls.view.SurveyQuestionActivity}
+{ACTIVITY, com.enthralltech.empoweredtls.view.DiscussionActivity}
+{ACTIVITY, com.enthralltech.empoweredtls.view.GamificationActivity}
+{ACTIVITY, com.enthralltech.empoweredtls.view.ActivityReviewRewards}
+{ACTIVITY, com.enthralltech.empoweredtls.view.MyTeamActivity}
+{ACTIVITY, com.enthralltech.empoweredtls.view.ActivityUserProgress}
+{ACTIVITY, com.enthralltech.empoweredtls.view.TeamUserActivity}
+{ACTIVITY, com.enthralltech.empoweredtls.view.LearningStatusCourseListActivity}
+{ACTIVITY, com.enthralltech.empoweredtls.view.ActivityMyCalender}
+{ACTIVITY, com.enthralltech.empoweredtls.view.TODOListActivity}
+{ACTIVITY, com.enthralltech.empoweredtls.view.LeaderBoardActivity}
+{ACTIVITY, com.enthralltech.empoweredtls.view.ILTScheduleList}
+{ACTIVITY, com.enthralltech.empoweredtls.view.ForgotPasswordActivity}
+{ACTIVITY, com.enthralltech.empoweredtls.view.NewPasswordActivity}
+{ACTIVITY, com.enthralltech.empoweredtls.view.ActivityMyProfile}
+{ACTIVITY, com.enthralltech.empoweredtls.view.CourseDetailsActivity}
+{ACTIVITY, com.enthralltech.empoweredtls.view.ActivitySetting}
+{ACTIVITY, com.enthralltech.empoweredtls.view.ActivitySocial}
+{ACTIVITY, com.enthralltech.empoweredtls.view.ActivityQuizCorner}
+{ACTIVITY, com.enthralltech.empoweredtls.view.OpinionPollListActivity}
+{ACTIVITY, com.enthralltech.empoweredtls.view.OpinionPollActivity}
+{ACTIVITY, com.enthralltech.empoweredtls.view.MediaLibraryListActivity}
+{ACTIVITY, com.enthralltech.empoweredtls.view.MediaLibraryImageActivity}
+{ACTIVITY, com.enthralltech.empoweredtls.view.PublicationActivity}
+{ACTIVITY, com.enthralltech.empoweredtls.view.PolicyDocumentsActivity}
+{ACTIVITY, com.enthralltech.empoweredtls.view.CentralLibraryActivity}
+{ACTIVITY, com.enthralltech.empoweredtls.view.NewsUpdateActivity}
+{ACTIVITY, com.enthralltech.empoweredtls.view.InterestingArticleActivity}
+{ACTIVITY, com.enthralltech.empoweredtls.view.PDFOpenerActivity}
+{ACTIVITY, com.enthralltech.empoweredtls.view.OpenMediaActivity}
+{ACTIVITY, com.enthralltech.empoweredtls.view.VideoOpenerActivity, android.intent.action.MAIN}
+{ACTIVITY, com.enthralltech.empoweredtls.view.ActivityCategorization}
+{ACTIVITY, com.enthralltech.empoweredtls.view.ActivityRatingsAndReviews}
+{ACTIVITY, com.enthralltech.empoweredtls.view.MySuggestionActivity}
+{ACTIVITY, com.enthralltech.empoweredtls.view.AddSuggestionActivity}
+{ACTIVITY, com.enthralltech.empoweredtls.view.ActivityOffline}
+{ACTIVITY, com.enthralltech.empoweredtls.view.ActivityOfflineCourseDetails}
+{ACTIVITY, com.enthralltech.empoweredtls.profab.ActivityProfab}
+{ACTIVITY, com.enthralltech.empoweredtls.profab.ActivityProfabProductDetails}
+{ACTIVITY, com.enthralltech.empoweredtls.view.AssessmentReviewActivity}
+{ACTIVITY, com.enthralltech.empoweredtls.view.SocialQuizQuestionsActivity}
+{SERVICE, com.enthralltech.empoweredtls.service.CountdownTimerService}
+{SERVICE, com.enthralltech.empoweredtls.firebase.FirebaseNotificationService, com.google.firebase.MESSAGING_EVENT}
+{SERVICE, com.google.firebase.components.ComponentDiscoveryService}
+{ACTIVITY, com.journeyapps.barcodescanner.CaptureActivity}
+{ACTIVITY, com.google.firebase.auth.internal.FederatedSignInActivity}
+{SERVICE, com.google.firebase.messaging.FirebaseMessagingService, com.google.firebase.MESSAGING_EVENT}
+{ACTIVITY, com.google.android.play.core.missingsplits.PlayCoreMissingSplitsActivity}
+{ACTIVITY, com.google.android.play.core.common.PlayCoreDialogWrapperActivity}
+{SERVICE, com.google.android.play.core.assetpacks.AssetPackExtractionService}
+{RECEIVER, com.google.firebase.iid.FirebaseInstanceIdReceiver, com.google.android.c2dm.intent.RECEIVE}
+{ACTIVITY, com.google.android.gms.common.api.GoogleApiActivity}
+{RECEIVER, com.google.android.gms.measurement.AppMeasurementReceiver}
+{SERVICE, com.google.android.gms.measurement.AppMeasurementService}
+{SERVICE, com.google.android.gms.measurement.AppMeasurementJobService}
+{SERVICE, com.google.android.datatransport.runtime.backends.TransportBackendDiscovery}
+{SERVICE, com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService}
+{ACTIVITY, com.enthralltech.empoweredtls.view.PremiumCalculationActivity}
+{ACTIVITY, com.enthralltech.empoweredtls.view.ActitvityMaxFreshMascot}
+{ACTIVITY, com.enthralltech.empoweredtls.view.ActivityExternalProviderPlayer}
+{ACTIVITY, com.enthralltech.empoweredtls.view.ActivityPostEvalSubmit}
+{ACTIVITY, com.enthralltech.empoweredtls.view.ActivityEvaluationPreview}
+{ACTIVITY, com.enthralltech.empoweredtls.view.ActivityProcessEvalQuestions}
+{ACTIVITY, com.enthralltech.empoweredtls.view.ActivityProcessEval}
+{ACTIVITY, com.enthralltech.empoweredtls.view.ActivityYouTubePlayer}
+{ACTIVITY, com.enthralltech.empoweredtls.view.AuthoringCoursePlayer}
+{ACTIVITY, com.enthralltech.empoweredtls.view.AssignmentActivity}
+{ACTIVITY, com.enthralltech.empoweredtls.view.QRCodeScanActivity}
+{ACTIVITY, com.enthralltech.empoweredtls.view.CoursePdfOpenerActivity}
+{ACTIVITY, com.enthralltech.empoweredtls.view.CertificateActivity}
+{ACTIVITY, com.enthralltech.empoweredtls.view.NlicSplashScreenActivity}
+{ACTIVITY, com.enthralltech.empoweredtls.view.BrowseCatelogueActivity}
+{ACTIVITY, com.enthralltech.empoweredtls.view.WelcomeActivity, android.intent.action.MAIN}
+{ACTIVITY, com.enthralltech.empoweredtls.view.LoginActivity, android.intent.action.VIEW}
+{ACTIVITY, com.enthralltech.empoweredtls.view.HomePageActivity}
+{ACTIVITY, com.enthralltech.empoweredtls.view.AllCoursesActivity}
+{ACTIVITY, com.enthralltech.empoweredtls.view.CourseDetailsNewActivity}
+{ACTIVITY, com.enthralltech.empoweredtls.view.CoursePlayerActivity}
+{ACTIVITY, com.enthralltech.empoweredtls.view.AssessmentDetailsActivity}
+{ACTIVITY, com.enthralltech.empoweredtls.view.AssessmentActivity}
+{ACTIVITY, com.enthralltech.empoweredtls.view.AdaptiveAssessmentActivity}
+{ACTIVITY, com.enthralltech.empoweredtls.view.AssessmentResultActivity}
+{ACTIVITY, com.enthralltech.empoweredtls.view.FeedbackActivity}
+{ACTIVITY, com.enthralltech.empoweredtls.view.ILTCourseActivity}
+{ACTIVITY, com.enthralltech.empoweredtls.view.TermsConditionActivity}
+{ACTIVITY, com.enthralltech.empoweredtls.view.ChangePasswordActivity}
+{ACTIVITY, com.enthralltech.empoweredtls.view.ILTCourseList}
+{ACTIVITY, com.enthralltech.empoweredtls.view.NotificationActivity}
+{ACTIVITY, com.enthralltech.empoweredtls.view.SurveyActivity}
+{ACTIVITY, com.enthralltech.empoweredtls.view.SurveyQuestionActivity}
+{ACTIVITY, com.enthralltech.empoweredtls.view.DiscussionActivity}
+{ACTIVITY, com.enthralltech.empoweredtls.view.GamificationActivity}
+{ACTIVITY, com.enthralltech.empoweredtls.view.ActivityReviewRewards}
+{ACTIVITY, com.enthralltech.empoweredtls.view.MyTeamActivity}
+{ACTIVITY, com.enthralltech.empoweredtls.view.ActivityUserProgress}
+{ACTIVITY, com.enthralltech.empoweredtls.view.TeamUserActivity}
+{ACTIVITY, com.enthralltech.empoweredtls.view.LearningStatusCourseListActivity}
+{ACTIVITY, com.enthralltech.empoweredtls.view.ActivityMyCalender}
+{ACTIVITY, com.enthralltech.empoweredtls.view.TODOListActivity}
+{ACTIVITY, com.enthralltech.empoweredtls.view.LeaderBoardActivity}
+{ACTIVITY, com.enthralltech.empoweredtls.view.ILTScheduleList}
+{ACTIVITY, com.enthralltech.empoweredtls.view.ForgotPasswordActivity}
+{ACTIVITY, com.enthralltech.empoweredtls.view.NewPasswordActivity}
+{ACTIVITY, com.enthralltech.empoweredtls.view.ActivityMyProfile}
+{ACTIVITY, com.enthralltech.empoweredtls.view.CourseDetailsActivity}
+{ACTIVITY, com.enthralltech.empoweredtls.view.ActivitySetting}
+{ACTIVITY, com.enthralltech.empoweredtls.view.ActivitySocial}
+{ACTIVITY, com.enthralltech.empoweredtls.view.ActivityQuizCorner}
+{ACTIVITY, com.enthralltech.empoweredtls.view.OpinionPollListActivity}
+{ACTIVITY, com.enthralltech.empoweredtls.view.OpinionPollActivity}
+{ACTIVITY, com.enthralltech.empoweredtls.view.MediaLibraryListActivity}
+{ACTIVITY, com.enthralltech.empoweredtls.view.MediaLibraryImageActivity}
+{ACTIVITY, com.enthralltech.empoweredtls.view.PublicationActivity}
+{ACTIVITY, com.enthralltech.empoweredtls.view.PolicyDocumentsActivity}
+{ACTIVITY, com.enthralltech.empoweredtls.view.CentralLibraryActivity}
+{ACTIVITY, com.enthralltech.empoweredtls.view.NewsUpdateActivity}
+{ACTIVITY, com.enthralltech.empoweredtls.view.InterestingArticleActivity}
+{ACTIVITY, com.enthralltech.empoweredtls.view.PDFOpenerActivity}
+{ACTIVITY, com.enthralltech.empoweredtls.view.OpenMediaActivity}
+{ACTIVITY, com.enthralltech.empoweredtls.view.VideoOpenerActivity, android.intent.action.MAIN}
+{ACTIVITY, com.enthralltech.empoweredtls.view.ActivityCategorization}
+{ACTIVITY, com.enthralltech.empoweredtls.view.ActivityRatingsAndReviews}
+{ACTIVITY, com.enthralltech.empoweredtls.view.MySuggestionActivity}
+{ACTIVITY, com.enthralltech.empoweredtls.view.AddSuggestionActivity}
+{ACTIVITY, com.enthralltech.empoweredtls.view.ActivityOffline}
+{ACTIVITY, com.enthralltech.empoweredtls.view.ActivityOfflineCourseDetails}
+{ACTIVITY, com.enthralltech.empoweredtls.profab.ActivityProfab}
+{ACTIVITY, com.enthralltech.empoweredtls.profab.ActivityProfabProductDetails}
+{ACTIVITY, com.enthralltech.empoweredtls.view.AssessmentReviewActivity}
+{ACTIVITY, com.enthralltech.empoweredtls.view.SocialQuizQuestionsActivity}
+{SERVICE, com.enthralltech.empoweredtls.service.CountdownTimerService}
+{SERVICE, com.enthralltech.empoweredtls.firebase.FirebaseNotificationService, com.google.firebase.MESSAGING_EVENT}
+{SERVICE, com.google.firebase.components.ComponentDiscoveryService}
+{ACTIVITY, com.journeyapps.barcodescanner.CaptureActivity}
+{ACTIVITY, com.google.firebase.auth.internal.FederatedSignInActivity}
+{SERVICE, com.google.firebase.messaging.FirebaseMessagingService, com.google.firebase.MESSAGING_EVENT}
+{ACTIVITY, com.google.android.play.core.missingsplits.PlayCoreMissingSplitsActivity}
+{ACTIVITY, com.google.android.play.core.common.PlayCoreDialogWrapperActivity}
+{SERVICE, com.google.android.play.core.assetpacks.AssetPackExtractionService}
+{RECEIVER, com.google.firebase.iid.FirebaseInstanceIdReceiver, com.google.android.c2dm.intent.RECEIVE}
+{ACTIVITY, com.google.android.gms.common.api.GoogleApiActivity}
+{RECEIVER, com.google.android.gms.measurement.AppMeasurementReceiver}
+{SERVICE, com.google.android.gms.measurement.AppMeasurementService}
+{SERVICE, com.google.android.gms.measurement.AppMeasurementJobService}
+{SERVICE, com.google.android.datatransport.runtime.backends.TransportBackendDiscovery}
+{SERVICE, com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService}
+_getAllDexFiles: /home/santapark/Extended3/DEEPerence/reEx/sample77.apk@devRoot-D-R.apk.obfuscated_flattened/classes.dex
+----------------/home/santapark/Extended3/DEEPerence/reEx/sample77.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+dexFile = org.jf.dexlib2.dexbacked.DexBackedDexFile@53ab0286
+com.enthralltech.keventers
+com.enthralltech.empoweredtls.view.WelcomeActivity
+debuggable: true
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample77.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample77.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample77.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample77.apk@devRoot-D-R.apk.obfuscated_flattened_46604b9f/sample77.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+3601a6ff: Installation Success
+159ceeed: Installation Success
+b29e6a69: Installation Success
+46604b9f: Installing repackaged apk File: 
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample77.apk@devRoot-D-R.apk.obfuscated_flattened_46604b9f/signed_sample77.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+46604b9f: Installation Success
+46604b9f: startApplication called! - devTamper
+3601a6ff: startApplication called! - devRef
+b29e6a69: startApplication called! - devRoot
+159ceeed: startApplication called! - devDebug
+46604b9f: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devTamper_sample77@devRoot-D-R.obfuscated_flattened.ilog)
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample77@devRoot-D-R.obfuscated_flattened.ilog)
+46604b9f: Running Application: com.enthralltech.keventers
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample77@devRoot-D-R.obfuscated_flattened.ilog)
+3601a6ff: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample77@devRoot-D-R.obfuscated_flattened.ilog)
+b29e6a69: Running Application: com.enthralltech.keventers
+3601a6ff: Running Application: com.enthralltech.keventers
+PIDs--------------------------------------------------------------------------
+u0_a333       21000    423 14574464 117928 0                  0 S com.enthralltech.keventers
+forward tcp:35535 jdwp:21000
+[*]Found JDWP Target: 21000
+159ceeed: Running Application: com.enthralltech.keventers
+PIDs--------------------------------------------------------------------------
+u0_a333       21000    423 14715760 125688 0                  0 S com.enthralltech.keventers
+159ceeed: Tryging attach jdb to 21000
+jdb -connect com.sun.jdi.SocketAttach:hostname=localhost,port=35535
+46604b9f: Running is done - starting comparing... : 10001
+46604b9f: Terminated logcat thread...by itself
+46604b9f: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+46604b9f: savedPid = null
+PIDs--------------------------------------------------------------------------
+46604b9f: savedPid2 = null
+Stopping app: com.enthralltech.keventers
+Tryging remove : uninstall com.enthralltech.keventers(com.enthralltech.keventers)
+46604b9f: Remove Success
+46604b9f: ilog file size: 88242522
+46604b9f: End of collecting logcat...
+3601a6ff: Running is done - starting comparing... : 10001
+3601a6ff: Terminated logcat thread...by itself
+3601a6ff: Top-activity: com.enthralltech.keventers/com.enthralltech.empoweredtls.view.LoginActivity
+PIDs--------------------------------------------------------------------------
+u0_a313        3769    405 15089984 160764 0                  0 S com.enthralltech.keventers
+3601a6ff: savedPid = 3769
+PIDs--------------------------------------------------------------------------
+u0_a313        3769    405 15089984 160764 0                  0 S com.enthralltech.keventers
+3601a6ff: savedPid2 = 3769
+Stopping app: com.enthralltech.keventers
+Tryging remove : uninstall com.enthralltech.keventers(com.enthralltech.keventers)
+3601a6ff: Remove Success
+3601a6ff: ilog file size: 256800366
+3601a6ff: End of collecting logcat...
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.enthralltech.keventers/com.enthralltech.empoweredtls.view.WelcomeActivity
+PIDs--------------------------------------------------------------------------
+u0_a3993      26629    425 14771328 151276 0                  0 S com.enthralltech.keventers
+b29e6a69: savedPid = 26629
+PIDs--------------------------------------------------------------------------
+u0_a3993      26629    425 14771328 151276 0                  0 S com.enthralltech.keventers
+b29e6a69: savedPid2 = 26629
+Stopping app: com.enthralltech.keventers
+Tryging remove : uninstall com.enthralltech.keventers(com.enthralltech.keventers)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 221933128
+b29e6a69: End of collecting logcat...
+159ceeed: Terminated logcat thread...by itself
+159ceeed: Top-activity: com.enthralltech.keventers/com.enthralltech.empoweredtls.view.LoginActivity
+PIDs--------------------------------------------------------------------------
+u0_a333       21000    423 14771056 171228 0                  0 S com.enthralltech.keventers
+159ceeed: savedPid = 21000
+PIDs--------------------------------------------------------------------------
+u0_a333       21000    423 14771056 171228 0                  0 S com.enthralltech.keventers
+159ceeed: savedPid2 = 21000
+Stopping app: com.enthralltech.keventers
+Tryging remove : uninstall com.enthralltech.keventers(com.enthralltech.keventers)
+159ceeed: Remove Success
+159ceeed: ilog file size: 259266935
+159ceeed: End of collecting logcat...
+HPFinder's try count remains: 29
+b29e6a69: isFailedToLaunch: com.enthralltech.keventers/com.enthralltech.empoweredtls.view.WelcomeActivity
+46604b9f: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Good :)
+159ceeed: isFailedToLaunch: com.enthralltech.keventers/com.enthralltech.empoweredtls.view.LoginActivity
+b29e6a69: isFailedToLaunch: com.enthralltech.keventers/com.enthralltech.empoweredtls.view.WelcomeActivity
+b29e6a69: 	--result: Good :)
+46604b9f: 	--result: Failed :( (1)
+159ceeed: 	--result: Good :)
+46604b9f: isFailedToLaunch: com.android.launcher3/.Launcher
+159ceeed: isFailedToLaunch: com.enthralltech.keventers/com.enthralltech.empoweredtls.view.LoginActivity
+46604b9f: 	--result: Failed :( (1)
+159ceeed: 	--result: Good :)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample77@devRoot-D-R.obfuscated_flattened.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample77@devRoot-D-R.obfuscated_flattened.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample77@devRoot-D-R.obfuscated_flattened.ilog)
+ExitReason-Code: 5 (/home/santapark/Extended3/DEEPerence/reEx/devTamper_sample77@devRoot-D-R.obfuscated_flattened.ilog)
+[*] FlowManager: adjust finished.
+[GOOD]: Anti-analysis is identified! :) -- 1 --devTamper
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:ea914a		=(rels)=>		1
+[*] Unique action: 1:425048 : <<CALL>> : com.enthralltech.empoweredtls.view.LoginActivity/onCreate:(Landroid/os/Bundle;)V:ea914a  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample77@devRoot-D-R.obfuscated_flattened.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample77@devRoot-D-R.obfuscated_flattened.ilog)
+[*] FlowManager: adjust finished.
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:ea914a		=(rels)=>		1
+[*] Unique action: 1:425048 : <<CALL>> : com.enthralltech.empoweredtls.view.LoginActivity/onCreate:(Landroid/os/Bundle;)V:ea914a  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:383201 : <<BRANCH>> : com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd06  =>  com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd0a
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:10331b2		=(rels)=>		1
+[*] Unique action: 1:405944 : <<CALL>> : com.google.android.material.textfield.TextInputLayout/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:10331b2  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+	1:compareBackwardBranch: 1:383201 : <<BRANCH>> : com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd06  =>  com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd0a
+android.view.ViewGroup/addView:(Landroid/view/View;)V:1031790		=(rels)=>		1
+[*] Unique action: 1:399722 : <<CALL>> : com.google.android.material.textfield.TextInputLayout/<init>:(Landroid/content/Context;Landroid/util/AttributeSet;I)V:1031790  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:383201 : <<BRANCH>> : com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd06  =>  com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd0a
+android.widget.EditText/getText:()Landroid/text/Editable;:bc8928		=(rels)=>		1
+[*] Unique action: 1:392819 : <<CALL>> : androidx.appcompat.widget.AppCompatEditText/getText:()Landroid/text/Editable;:bc8928  =>  android.widget.EditText/getText:()Landroid/text/Editable;:2330f8
+	1:compareBackwardBranch: 1:383201 : <<BRANCH>> : com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd06  =>  com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd0a
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:ea925c		=(rels)=>		1
+[*] Unique action: 1:429777 : <<CALL>> : com.enthralltech.empoweredtls.view.LoginActivity/onCreate:(Landroid/os/Bundle;)V:ea925c  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+[*] FlowManager: adjust finished.
+Action is completely same :)
+Action is completely same :)
+159ceeed: There is no difference. (tryAgain=false)
+	1:compareBackwardBranch: 1:383201 : <<BRANCH>> : com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd06  =>  com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd0a
+android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:10331d4		=(rels)=>		1
+[*] Unique action: 1:396958 : <<CALL>> : com.google.android.material.textfield.TextInputLayout/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:10331d4  =>  android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:1959fc
+	1:compareBackwardBranch: 1:383201 : <<BRANCH>> : com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd06  =>  com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd0a
+android.app.Activity/startActivity:(Landroid/content/Intent;)V:eeb676		=(rels)=>		1
+[*] Unique action: 1:383409 : <<CALL>> : com.enthralltech.empoweredtls.view.WelcomeActivity/b0:()V:eeb676  =>  android.app.Activity/startActivity:(Landroid/content/Intent;)V:19cda0
+	1:compareBackwardBranch: 1:383201 : <<BRANCH>> : com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd06  =>  com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd0a
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1031f48		=(rels)=>		1
+[*] Unique action: 1:400694 : <<CALL>> : com.google.android.material.textfield.TextInputLayout/O:(Lcom/google/android/material/internal/CheckableImageButton;Landroid/view/View$OnClickListener;Landroid/view/View$OnLongClickListener;)V:1031f48  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:383201 : <<BRANCH>> : com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd06  =>  com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd0a
+android.view.ViewGroup/addView:(Landroid/view/View;)V:1031ac8		=(rels)=>		1
+[*] Unique action: 1:401842 : <<CALL>> : com.google.android.material.textfield.TextInputLayout/<init>:(Landroid/content/Context;Landroid/util/AttributeSet;I)V:1031ac8  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:10331b2		=(rels)=>		1
+[*] Unique action: 1:405944 : <<CALL>> : com.google.android.material.textfield.TextInputLayout/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:10331b2  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+	1:compareBackwardBranch: 1:383201 : <<BRANCH>> : com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd06  =>  com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd0a
+android.view.ViewGroup/addView:(Landroid/view/View;)V:10318e8		=(rels)=>		1
+[*] Unique action: 1:400660 : <<CALL>> : com.google.android.material.textfield.TextInputLayout/<init>:(Landroid/content/Context;Landroid/util/AttributeSet;I)V:10318e8  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:383201 : <<BRANCH>> : com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd06  =>  com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd0a
+android.view.ViewGroup/addView:(Landroid/view/View;)V:10313b8		=(rels)=>		1
+[*] Unique action: 1:396952 : <<CALL>> : com.google.android.material.textfield.TextInputLayout/<init>:(Landroid/content/Context;Landroid/util/AttributeSet;I)V:10313b8  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:383201 : <<BRANCH>> : com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd06  =>  com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd0a
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:ea9696		=(rels)=>		1
+[*] Unique action: 1:430441 : <<CALL>> : com.enthralltech.empoweredtls.view.LoginActivity/onCreate:(Landroid/os/Bundle;)V:ea9696  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:383201 : <<BRANCH>> : com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd06  =>  com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd0a
+android.view.ViewGroup/addView:(Landroid/view/View;)V:10313ec		=(rels)=>		1
+[*] Unique action: 1:397042 : <<CALL>> : com.google.android.material.textfield.TextInputLayout/<init>:(Landroid/content/Context;Landroid/util/AttributeSet;I)V:10313ec  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:383201 : <<BRANCH>> : com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd06  =>  com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd0a
+android.app.Dialog/show:()V:eecfce		=(rels)=>		1
+[*] Unique action: 1:206073 : <<CALL>> : com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecfce  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch2: 1:383196 : <<BRANCH>> : com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eec87e  =>  com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eeccaa
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:d43546		=(rels)=>		1
+[*] Unique action: 1:215456 : <<CALL>> : com.enthralltech.empoweredtls.dialog.CustomAlertDialog/d:()V:d43546  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch2: 1:383196 : <<BRANCH>> : com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eec87e  =>  com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eeccaa
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:d435a0		=(rels)=>		1
+[*] Unique action: 1:215511 : <<CALL>> : com.enthralltech.empoweredtls.dialog.CustomAlertDialog/d:()V:d435a0  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch2: 1:383196 : <<BRANCH>> : com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eec87e  =>  com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eeccaa
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:d42e40		=(rels)=>		1
+[*] Unique action: 1:215789 : <<CALL>> : com.enthralltech.empoweredtls.dialog.CustomAlertDialog/c:()V:d42e40  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch2: 1:383196 : <<BRANCH>> : com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eec87e  =>  com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eeccaa
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:d4369c		=(rels)=>		1
+[*] Unique action: 1:215616 : <<CALL>> : com.enthralltech.empoweredtls.dialog.CustomAlertDialog/d:()V:d4369c  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch2: 1:383196 : <<BRANCH>> : com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eec87e  =>  com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eeccaa
+Entry: eec444
+com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V: eecd06 -> eecd0a
+		com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V: 8c2 -> 8c6
+addPatchReadme: java.lang.Class<com.enthralltech.empoweredtls.view.WelcomeActivity>onCreate(Landroid/os/Bundle;)V 8c2 f
+Entry: eec444
+com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V: eec87e -> eeccaa
+		com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V: 43a -> 866
+addPatchReadme: java.lang.Class<com.enthralltech.empoweredtls.view.WelcomeActivity>onCreate(Landroid/os/Bundle;)V 43a t
+b29e6a69: [+] Patches found in this round: 2
+b29e6a69: [*] Found Patch size: 1
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:ea925c		=(rels)=>		1
+[*] Unique action: 1:429777 : <<CALL>> : com.enthralltech.empoweredtls.view.LoginActivity/onCreate:(Landroid/os/Bundle;)V:ea925c  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample77@devRoot-D-R.obfuscated_flattened.ilog)
+b29e6a69: 	@@@Found patch addr: eec88e
+b29e6a69: Querying offset: eec87e
+b29e6a69: 	--Add method name to patch = com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V 	eec87e
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:ea9696		=(rels)=>		1
+[*] Unique action: 1:430441 : <<CALL>> : com.enthralltech.empoweredtls.view.LoginActivity/onCreate:(Landroid/os/Bundle;)V:ea9696  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+Action is completely same :)
+Entry: 1033e68
+com.google.android.material.textfield.TextInputLayout/setEndIconContentDescription:(Ljava/lang/CharSequence;)V: 1033e70 -> 1033e74
+		com.google.android.material.textfield.TextInputLayout/setEndIconContentDescription:(Ljava/lang/CharSequence;)V: 8 -> c
+addPatchReadme: java.lang.Class<com.google.android.material.textfield.TextInputLayout>setEndIconContentDescription(Ljava/lang/CharSequence;)V 8 f
+46604b9f: [+] Patches found in this round: 1
+46604b9f: [*] Found Patch size: 1
+ExitReason-Code: 5 (/home/santapark/Extended3/DEEPerence/reEx/devTamper_sample77@devRoot-D-R.obfuscated_flattened.ilog)
+46604b9f: 	@@@Found patch addr: 1033e80
+46604b9f: Querying offset: 1033e70
+46604b9f: 	--Add method name to patch = com.google.android.material.textfield.TextInputLayout/setEndIconContentDescription:(Ljava/lang/CharSequence;)V 	1033e70
+Devices presenting anti-analysis: 
+	devTamper
+	devRoot
+46604b9f: patching method: com.google.android.material.textfield.TextInputLayout/setEndIconContentDescription:(Ljava/lang/CharSequence;)V
+46604b9f: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample77.apk@devRoot-D-R.apk.obfuscated_flattened_devTamper
+Wow!!!!!  --  com.google.android.material.textfield.TextInputLayout/setEndIconContentDescription:(Ljava/lang/CharSequence;)V
+fallthrough: c
+branchTarget: c
+NOP!
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample77.apk@devRoot-D-R.apk.obfuscated_flattened_devTamper/sample77.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+46604b9f: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample77.apk@devRoot-D-R.apk.obfuscated_flattened_devTamper/signed_sample77.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+46604b9f: First address of Lcom/google/android/material/textfield/TextInputLayout;->setEndIconContentDescription(Ljava/lang/CharSequence;)V = 1033e78
+46604b9f: Address - Lcom/google/android/material/textfield/TextInputLayout;->setEndIconContentDescription(Ljava/lang/CharSequence;)V@8	 lastOffset = 16
+46604b9f: Instruction@@: IF_EQ
+b29e6a69: patching method: com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample77.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot
+Wow!!!!!  --  com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 440
+branchTarget: 866
+label = sswitch_data_11
+GOTO -- 440 	866
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample77.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/sample77.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample77.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/signed_sample77.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+b29e6a69: First address of Lcom/enthralltech/empoweredtls/view/WelcomeActivity;->onCreate(Landroid/os/Bundle;)V = eec454
+b29e6a69: Address - Lcom/enthralltech/empoweredtls/view/WelcomeActivity;->onCreate(Landroid/os/Bundle;)V@43a	 lastOffset = 10ec
+b29e6a69: Instruction@@: SPARSE_SWITCH
+46604b9f: (Not Installed) Trying remove : true
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample77.apk@devRoot-D-R.apk.obfuscated_flattened_devTamper/signed_sample77.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample77.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/signed_sample77.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+46604b9f: Installation Success
+b29e6a69: Installation Success
+46604b9f: startApplication called! - devTamper
+b29e6a69: startApplication called! - devRoot
+46604b9f: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devTamper_sample77@devRoot-D-R.obfuscated_flattened.ilog)
+46604b9f: Running Application: com.enthralltech.keventers
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample77@devRoot-D-R.obfuscated_flattened.ilog)
+b29e6a69: Running Application: com.enthralltech.keventers
+b29e6a69: Running is done - starting comparing... : 10001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+b29e6a69: savedPid = null
+PIDs--------------------------------------------------------------------------
+b29e6a69: savedPid2 = null
+Stopping app: com.enthralltech.keventers
+Tryging remove : uninstall com.enthralltech.keventers(com.enthralltech.keventers)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 5086126
+b29e6a69: End of collecting logcat...
+46604b9f: Running is done - starting comparing... : 10001
+46604b9f: Terminated logcat thread...by itself
+46604b9f: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+46604b9f: savedPid = null
+PIDs--------------------------------------------------------------------------
+46604b9f: savedPid2 = null
+Stopping app: com.enthralltech.keventers
+Tryging remove : uninstall com.enthralltech.keventers(com.enthralltech.keventers)
+46604b9f: Remove Success
+46604b9f: ilog file size: 89610293
+46604b9f: End of collecting logcat...
+HPFinder's try count remains: 28
+46604b9f: isFailedToLaunch: com.android.launcher3/.Launcher
+46604b9f: 	--result: Failed :( (1)
+46604b9f: isFailedToLaunch: com.android.launcher3/.Launcher
+46604b9f: 	--result: Failed :( (1)
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+b29e6a69: /home/santapark/Extended3/DEEPerence/reEx/sample77.apk@devRoot-D-R.apk.obfuscated_flattened.apk launch is failed on devRoot
+b29e6a69: Failed Patch: eec88e
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample77@devRoot-D-R.obfuscated_flattened.ilog)
+ExitReason-Code: 5 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample77@devRoot-D-R.obfuscated_flattened.ilog)
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: eec87e
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:ea914a		=(rels)=>		1
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample77@devRoot-D-R.obfuscated_flattened.ilog)
+[*] Unique action: 1:425048 : <<CALL>> : com.enthralltech.empoweredtls.view.LoginActivity/onCreate:(Landroid/os/Bundle;)V:ea914a  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+ExitReason-Code: 5 (/home/santapark/Extended3/DEEPerence/reEx/devTamper_sample77@devRoot-D-R.obfuscated_flattened.ilog)
+46604b9f: adding filter -- 1033e70
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 1033e70
+[GOOD]: Anti-analysis is identified! :) -- 1 --devTamper
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:ea914a		=(rels)=>		1
+[*] Unique action: 1:425048 : <<CALL>> : com.enthralltech.empoweredtls.view.LoginActivity/onCreate:(Landroid/os/Bundle;)V:ea914a  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+java.net.URL/openConnection:()Ljava/net/URLConnection;:105e3e0		=(rels)=>		1
+[*] Unique action: 18:1036097 : <<CALL>> : com.google.firebase.installations.q.c/k:(Ljava/net/URL;Ljava/lang/String;)Ljava/net/HttpURLConnection;:105e3e0  =>  java.net.URL/openConnection:()Ljava/net/URLConnection;:12417c
+java.net.URL/openConnection:()Ljava/net/URLConnection;:105e3e0		=(rels)=>		0
+android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:be2d18		=(rels)=>		1
+[*] Unique action: 1:28119 : <<CALL>> : androidx.constraintlayout.widget.ConstraintLayout/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:be2d18  =>  android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:1959fc
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1031f48		=(rels)=>		1
+[*] Unique action: 1:400694 : <<CALL>> : com.google.android.material.textfield.TextInputLayout/O:(Lcom/google/android/material/internal/CheckableImageButton;Landroid/view/View$OnClickListener;Landroid/view/View$OnLongClickListener;)V:1031f48  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:ea925c		=(rels)=>		1
+[*] Unique action: 1:429777 : <<CALL>> : com.enthralltech.empoweredtls.view.LoginActivity/onCreate:(Landroid/os/Bundle;)V:ea925c  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+android.view.ViewGroup/addView:(Landroid/view/View;)V:1031ac8		=(rels)=>		1
+[*] Unique action: 1:401842 : <<CALL>> : com.google.android.material.textfield.TextInputLayout/<init>:(Landroid/content/Context;Landroid/util/AttributeSet;I)V:1031ac8  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+android.view.ViewGroup/addView:(Landroid/view/View;)V:10318e8		=(rels)=>		1
+[*] Unique action: 1:400660 : <<CALL>> : com.google.android.material.textfield.TextInputLayout/<init>:(Landroid/content/Context;Landroid/util/AttributeSet;I)V:10318e8  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+android.view.ViewGroup/addView:(Landroid/view/View;)V:10313ec		=(rels)=>		1
+[*] Unique action: 1:397042 : <<CALL>> : com.google.android.material.textfield.TextInputLayout/<init>:(Landroid/content/Context;Landroid/util/AttributeSet;I)V:10313ec  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:ea9696		=(rels)=>		1
+[*] Unique action: 1:430441 : <<CALL>> : com.enthralltech.empoweredtls.view.LoginActivity/onCreate:(Landroid/os/Bundle;)V:ea9696  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:10331b2		=(rels)=>		1
+[*] Unique action: 1:405944 : <<CALL>> : com.google.android.material.textfield.TextInputLayout/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:10331b2  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+android.view.ViewGroup/addView:(Landroid/view/View;)V:1031790		=(rels)=>		1
+[*] Unique action: 1:399722 : <<CALL>> : com.google.android.material.textfield.TextInputLayout/<init>:(Landroid/content/Context;Landroid/util/AttributeSet;I)V:1031790  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+Action is completely same :)
+Entry: fddd10
+com.google.android.gms.measurement.internal.c5/run:()V: fddd56 -> fddd78
+		com.google.android.gms.measurement.internal.c5/run:()V: 46 -> 68
+addPatchReadme: java.lang.Class<com.google.android.gms.measurement.internal.c5>run()V 46 t
+46604b9f: [+] Patches found in this round: 1
+46604b9f: [*] Found Patch size: 1
+ExitReason-Code: 5 (/home/santapark/Extended3/DEEPerence/reEx/devTamper_sample77@devRoot-D-R.obfuscated_flattened.ilog)
+46604b9f: @@localPatchFilter -- 1033e80
+46604b9f: 	@@@Found patch addr: fddd66
+46604b9f: Querying offset: fddd56
+46604b9f: 	--Add method name to patch = com.google.android.gms.measurement.internal.c5/run:()V 	fddd56
+android.widget.EditText/getText:()Landroid/text/Editable;:bc8928		=(rels)=>		1
+[*] Unique action: 1:392819 : <<CALL>> : androidx.appcompat.widget.AppCompatEditText/getText:()Landroid/text/Editable;:bc8928  =>  android.widget.EditText/getText:()Landroid/text/Editable;:2330f8
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:ea925c		=(rels)=>		1
+[*] Unique action: 1:429777 : <<CALL>> : com.enthralltech.empoweredtls.view.LoginActivity/onCreate:(Landroid/os/Bundle;)V:ea925c  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:10331d4		=(rels)=>		1
+[*] Unique action: 1:396958 : <<CALL>> : com.google.android.material.textfield.TextInputLayout/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:10331d4  =>  android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:1959fc
+android.app.Activity/startActivity:(Landroid/content/Intent;)V:eeb676		=(rels)=>		1
+[*] Unique action: 1:383409 : <<CALL>> : com.enthralltech.empoweredtls.view.WelcomeActivity/b0:()V:eeb676  =>  android.app.Activity/startActivity:(Landroid/content/Intent;)V:19cda0
+android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:feb3a6		=(rels)=>		0
+android.view.ViewGroup/addView:(Landroid/view/View;)V:10313b8		=(rels)=>		1
+[*] Unique action: 1:396952 : <<CALL>> : com.google.android.material.textfield.TextInputLayout/<init>:(Landroid/content/Context;Landroid/util/AttributeSet;I)V:10313b8  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:ea9696		=(rels)=>		1
+[*] Unique action: 1:430441 : <<CALL>> : com.enthralltech.empoweredtls.view.LoginActivity/onCreate:(Landroid/os/Bundle;)V:ea9696  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+Action is completely same :)
+Entry: fb34f8
+com.google.android.gms.internal.measurement.y1/b:(Landroid/content/Context;)Lcom/google/android/gms/internal/measurement/n2;: fb351e -> fb3522
+		com.google.android.gms.internal.measurement.y1/b:(Landroid/content/Context;)Lcom/google/android/gms/internal/measurement/n2;: 26 -> 2a
+addPatchReadme: java.lang.Class<com.google.android.gms.internal.measurement.y1>b(Landroid/content/Context;)Lcom/google/android/gms/internal/measurement/n2; 26 f
+b29e6a69: [+] Patches found in this round: 1
+b29e6a69: [*] Found Patch size: 1
+ExitReason-Code: 5 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample77@devRoot-D-R.obfuscated_flattened.ilog)
+b29e6a69: @@localPatchFilter -- eec88e
+b29e6a69: 	@@@Found patch addr: fb352e
+b29e6a69: Querying offset: fb351e
+b29e6a69: 	--Add method name to patch = com.google.android.gms.internal.measurement.y1/b:(Landroid/content/Context;)Lcom/google/android/gms/internal/measurement/n2; 	fb351e
+Devices presenting anti-analysis: 
+	devTamper
+	devRoot
+46604b9f: patching method: com.google.android.gms.measurement.internal.c5/run:()V
+46604b9f: patching method: com.google.android.material.textfield.TextInputLayout/setEndIconContentDescription:(Ljava/lang/CharSequence;)V
+46604b9f: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample77.apk@devRoot-D-R.apk.obfuscated_flattened_devTamper
+Wow!!!!!  --  com.google.android.gms.measurement.internal.c5/run:()V
+fallthrough: 4a
+branchTarget: 68
+label = cond_2
+GOTO -- 4a 	68
+Wow!!!!!  --  com.google.android.material.textfield.TextInputLayout/setEndIconContentDescription:(Ljava/lang/CharSequence;)V
+fallthrough: c
+branchTarget: c
+NOP!
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample77.apk@devRoot-D-R.apk.obfuscated_flattened_devTamper/sample77.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+46604b9f: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample77.apk@devRoot-D-R.apk.obfuscated_flattened_devTamper/signed_sample77.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+46604b9f: First address of Lcom/google/android/gms/measurement/internal/c5;->run()V = fddd20
+46604b9f: Address - Lcom/google/android/gms/measurement/internal/c5;->run()V@46	 lastOffset = 10a
+46604b9f: Instruction@@: IF_EQZ
+46604b9f: First address of Lcom/google/android/material/textfield/TextInputLayout;->setEndIconContentDescription(Ljava/lang/CharSequence;)V = 1033e78
+46604b9f: Address - Lcom/google/android/material/textfield/TextInputLayout;->setEndIconContentDescription(Ljava/lang/CharSequence;)V@8	 lastOffset = 16
+46604b9f: Instruction@@: IF_EQ
+b29e6a69: patching method: com.google.android.gms.measurement.internal.c5/run:()V
+b29e6a69: patching method: com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V
+b29e6a69: patching method: com.google.android.gms.internal.measurement.y1/b:(Landroid/content/Context;)Lcom/google/android/gms/internal/measurement/n2;
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample77.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot
+Wow!!!!!  --  com.google.android.gms.internal.measurement.y1/b:(Landroid/content/Context;)Lcom/google/android/gms/internal/measurement/n2;
+fallthrough: 2a
+branchTarget: 2a
+NOP!
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample77.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/sample77.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample77.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/signed_sample77.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+b29e6a69: First address of Lcom/google/android/gms/internal/measurement/y1;->b(Landroid/content/Context;)Lcom/google/android/gms/internal/measurement/n2; = fb3508
+b29e6a69: Address - Lcom/google/android/gms/internal/measurement/y1;->b(Landroid/content/Context;)Lcom/google/android/gms/internal/measurement/n2;@26	 lastOffset = ba
+b29e6a69: Instruction@@: IF_NEZ
+46604b9f: (Not Installed) Trying remove : true
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample77.apk@devRoot-D-R.apk.obfuscated_flattened_devTamper/signed_sample77.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample77.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/signed_sample77.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+46604b9f: Installation Success
+b29e6a69: Installation Success
+46604b9f: startApplication called! - devTamper
+b29e6a69: startApplication called! - devRoot
+46604b9f: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devTamper_sample77@devRoot-D-R.obfuscated_flattened.ilog)
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample77@devRoot-D-R.obfuscated_flattened.ilog)
+46604b9f: Running Application: com.enthralltech.keventers
+b29e6a69: Running Application: com.enthralltech.keventers
+46604b9f: Running is done - starting comparing... : 10001
+46604b9f: Terminated logcat thread...by itself
+46604b9f: Top-activity: com.enthralltech.keventers/com.enthralltech.empoweredtls.view.LoginActivity
+PIDs--------------------------------------------------------------------------
+u0_a959        3964    427 15117844 158460 0                  0 S com.enthralltech.keventers
+46604b9f: savedPid = 3964
+PIDs--------------------------------------------------------------------------
+u0_a959        3964    427 15117844 158460 0                  0 S com.enthralltech.keventers
+46604b9f: savedPid2 = 3964
+Stopping app: com.enthralltech.keventers
+Tryging remove : uninstall com.enthralltech.keventers(com.enthralltech.keventers)
+46604b9f: Remove Success
+46604b9f: ilog file size: 68361514
+46604b9f: End of collecting logcat...
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.enthralltech.keventers/com.enthralltech.empoweredtls.view.WelcomeActivity
+PIDs--------------------------------------------------------------------------
+u0_a3995      26841    425 14815396 150908 0                  0 S com.enthralltech.keventers
+b29e6a69: savedPid = 26841
+PIDs--------------------------------------------------------------------------
+u0_a3995      26841    425 14815396 150908 0                  0 S com.enthralltech.keventers
+b29e6a69: savedPid2 = 26841
+Stopping app: com.enthralltech.keventers
+Tryging remove : uninstall com.enthralltech.keventers(com.enthralltech.keventers)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 221937083
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 27
+46604b9f: isFailedToLaunch: com.enthralltech.keventers/com.enthralltech.empoweredtls.view.LoginActivity
+46604b9f: 	--result: Good :)
+46604b9f: isFailedToLaunch: com.enthralltech.keventers/com.enthralltech.empoweredtls.view.LoginActivity
+46604b9f: 	--result: Good :)
+b29e6a69: isFailedToLaunch: com.enthralltech.keventers/com.enthralltech.empoweredtls.view.WelcomeActivity
+b29e6a69: 	--result: Good :)
+b29e6a69: isFailedToLaunch: com.enthralltech.keventers/com.enthralltech.empoweredtls.view.WelcomeActivity
+b29e6a69: 	--result: Good :)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample77@devRoot-D-R.obfuscated_flattened.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample77@devRoot-D-R.obfuscated_flattened.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devTamper_sample77@devRoot-D-R.obfuscated_flattened.ilog)
+46604b9f: adding filter -- 1033e70
+46604b9f: adding filter -- fddd56
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample77@devRoot-D-R.obfuscated_flattened.ilog)
+b29e6a69: adding filter -- fb351e
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 1033e70
+-- current localPatchFilter: fddd56
+[GOOD]: Anti-analysis is identified! :) -- 1 --devTamper
+android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:feb3a6		=(rels)=>		0
+Action is completely same :)
+Action is completely same :)
+46604b9f: There is no difference. (tryAgain=false)
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: eec87e
+-- current localPatchFilter: fb351e
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:ea914a		=(rels)=>		1
+[*] Unique action: 1:425048 : <<CALL>> : com.enthralltech.empoweredtls.view.LoginActivity/onCreate:(Landroid/os/Bundle;)V:ea914a  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:383201 : <<BRANCH>> : com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd06  =>  com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd0a
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:10331b2		=(rels)=>		1
+[*] Unique action: 1:405944 : <<CALL>> : com.google.android.material.textfield.TextInputLayout/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:10331b2  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+	1:compareBackwardBranch: 1:383201 : <<BRANCH>> : com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd06  =>  com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd0a
+android.view.ViewGroup/addView:(Landroid/view/View;)V:1031790		=(rels)=>		1
+[*] Unique action: 1:399722 : <<CALL>> : com.google.android.material.textfield.TextInputLayout/<init>:(Landroid/content/Context;Landroid/util/AttributeSet;I)V:1031790  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:383201 : <<BRANCH>> : com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd06  =>  com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd0a
+android.widget.EditText/getText:()Landroid/text/Editable;:bc8928		=(rels)=>		1
+[*] Unique action: 1:392819 : <<CALL>> : androidx.appcompat.widget.AppCompatEditText/getText:()Landroid/text/Editable;:bc8928  =>  android.widget.EditText/getText:()Landroid/text/Editable;:2330f8
+	1:compareBackwardBranch: 1:383201 : <<BRANCH>> : com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd06  =>  com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd0a
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:ea925c		=(rels)=>		1
+[*] Unique action: 1:429777 : <<CALL>> : com.enthralltech.empoweredtls.view.LoginActivity/onCreate:(Landroid/os/Bundle;)V:ea925c  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:383201 : <<BRANCH>> : com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd06  =>  com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd0a
+android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:10331d4		=(rels)=>		1
+[*] Unique action: 1:396958 : <<CALL>> : com.google.android.material.textfield.TextInputLayout/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:10331d4  =>  android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:1959fc
+	1:compareBackwardBranch: 1:383201 : <<BRANCH>> : com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd06  =>  com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd0a
+android.app.Activity/startActivity:(Landroid/content/Intent;)V:eeb676		=(rels)=>		1
+[*] Unique action: 1:383409 : <<CALL>> : com.enthralltech.empoweredtls.view.WelcomeActivity/b0:()V:eeb676  =>  android.app.Activity/startActivity:(Landroid/content/Intent;)V:19cda0
+	1:compareBackwardBranch: 1:383201 : <<BRANCH>> : com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd06  =>  com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd0a
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1031f48		=(rels)=>		1
+[*] Unique action: 1:400694 : <<CALL>> : com.google.android.material.textfield.TextInputLayout/O:(Lcom/google/android/material/internal/CheckableImageButton;Landroid/view/View$OnClickListener;Landroid/view/View$OnLongClickListener;)V:1031f48  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:383201 : <<BRANCH>> : com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd06  =>  com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd0a
+android.view.ViewGroup/addView:(Landroid/view/View;)V:1031ac8		=(rels)=>		1
+[*] Unique action: 1:401842 : <<CALL>> : com.google.android.material.textfield.TextInputLayout/<init>:(Landroid/content/Context;Landroid/util/AttributeSet;I)V:1031ac8  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:383201 : <<BRANCH>> : com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd06  =>  com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd0a
+android.view.ViewGroup/addView:(Landroid/view/View;)V:10318e8		=(rels)=>		1
+[*] Unique action: 1:400660 : <<CALL>> : com.google.android.material.textfield.TextInputLayout/<init>:(Landroid/content/Context;Landroid/util/AttributeSet;I)V:10318e8  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:383201 : <<BRANCH>> : com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd06  =>  com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd0a
+android.view.ViewGroup/addView:(Landroid/view/View;)V:10313b8		=(rels)=>		1
+[*] Unique action: 1:396952 : <<CALL>> : com.google.android.material.textfield.TextInputLayout/<init>:(Landroid/content/Context;Landroid/util/AttributeSet;I)V:10313b8  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:383201 : <<BRANCH>> : com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd06  =>  com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd0a
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:ea9696		=(rels)=>		1
+[*] Unique action: 1:430441 : <<CALL>> : com.enthralltech.empoweredtls.view.LoginActivity/onCreate:(Landroid/os/Bundle;)V:ea9696  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:383201 : <<BRANCH>> : com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd06  =>  com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd0a
+android.view.ViewGroup/addView:(Landroid/view/View;)V:10313ec		=(rels)=>		1
+[*] Unique action: 1:397042 : <<CALL>> : com.google.android.material.textfield.TextInputLayout/<init>:(Landroid/content/Context;Landroid/util/AttributeSet;I)V:10313ec  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:383201 : <<BRANCH>> : com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd06  =>  com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd0a
+android.app.Dialog/show:()V:eecfce		=(rels)=>		1
+[*] Unique action: 1:200167 : <<CALL>> : com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecfce  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch2: 1:383198 : <<BRANCH>> : com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eeccbe  =>  com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eeccd6
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:d43546		=(rels)=>		1
+[*] Unique action: 1:209704 : <<CALL>> : com.enthralltech.empoweredtls.dialog.CustomAlertDialog/d:()V:d43546  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch2: 1:383198 : <<BRANCH>> : com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eeccbe  =>  com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eeccd6
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:d435a0		=(rels)=>		1
+[*] Unique action: 1:209768 : <<CALL>> : com.enthralltech.empoweredtls.dialog.CustomAlertDialog/d:()V:d435a0  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch2: 1:383198 : <<BRANCH>> : com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eeccbe  =>  com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eeccd6
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:d42e40		=(rels)=>		1
+[*] Unique action: 1:210056 : <<CALL>> : com.enthralltech.empoweredtls.dialog.CustomAlertDialog/c:()V:d42e40  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch2: 1:383198 : <<BRANCH>> : com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eeccbe  =>  com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eeccd6
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:d4369c		=(rels)=>		1
+[*] Unique action: 1:209874 : <<CALL>> : com.enthralltech.empoweredtls.dialog.CustomAlertDialog/d:()V:d4369c  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch2: 1:383198 : <<BRANCH>> : com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eeccbe  =>  com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eeccd6
+Entry: eec444
+com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V: eecd06 -> eecd0a
+		com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V: 8c2 -> 8c6
+addPatchReadme: java.lang.Class<com.enthralltech.empoweredtls.view.WelcomeActivity>onCreate(Landroid/os/Bundle;)V 8c2 f
+Entry: eec444
+com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V: eeccbe -> eeccd6
+		com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V: 87a -> 892
+addPatchReadme: java.lang.Class<com.enthralltech.empoweredtls.view.WelcomeActivity>onCreate(Landroid/os/Bundle;)V 87a t
+b29e6a69: [+] Patches found in this round: 2
+b29e6a69: [*] Found Patch size: 1
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample77@devRoot-D-R.obfuscated_flattened.ilog)
+b29e6a69: @@localPatchFilter -- eec88e
+b29e6a69: @@localPatchFilter -- fb352e
+b29e6a69: 	@@@Found patch addr: eeccce
+b29e6a69: Querying offset: eeccbe
+b29e6a69: 	--Add method name to patch = com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V 	eeccbe
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: patching method: com.google.android.gms.measurement.internal.c5/run:()V
+b29e6a69: patching method: com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V
+b29e6a69: patching method: com.google.android.gms.internal.measurement.y1/b:(Landroid/content/Context;)Lcom/google/android/gms/internal/measurement/n2;
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample77.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot
+Wow!!!!!  --  com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 880
+branchTarget: 892
+label = sswitch_data_28
+GOTO -- 880 	892
+Wow!!!!!  --  com.google.android.gms.internal.measurement.y1/b:(Landroid/content/Context;)Lcom/google/android/gms/internal/measurement/n2;
+fallthrough: 2a
+branchTarget: 2a
+NOP!
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample77.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/sample77.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample77.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/signed_sample77.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+b29e6a69: First address of Lcom/enthralltech/empoweredtls/view/WelcomeActivity;->onCreate(Landroid/os/Bundle;)V = eec454
+b29e6a69: Address - Lcom/enthralltech/empoweredtls/view/WelcomeActivity;->onCreate(Landroid/os/Bundle;)V@87a	 lastOffset = 10ec
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: First address of Lcom/google/android/gms/internal/measurement/y1;->b(Landroid/content/Context;)Lcom/google/android/gms/internal/measurement/n2; = fb3508
+b29e6a69: Address - Lcom/google/android/gms/internal/measurement/y1;->b(Landroid/content/Context;)Lcom/google/android/gms/internal/measurement/n2;@26	 lastOffset = ba
+b29e6a69: Instruction@@: IF_NEZ
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample77.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/signed_sample77.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample77@devRoot-D-R.obfuscated_flattened.ilog)
+b29e6a69: Running Application: com.enthralltech.keventers
+b29e6a69: Running is done - starting comparing... : 10001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+b29e6a69: savedPid = null
+PIDs--------------------------------------------------------------------------
+b29e6a69: savedPid2 = null
+Stopping app: com.enthralltech.keventers
+Tryging remove : uninstall com.enthralltech.keventers(com.enthralltech.keventers)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 5134286
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 26
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+b29e6a69: /home/santapark/Extended3/DEEPerence/reEx/sample77.apk@devRoot-D-R.apk.obfuscated_flattened.apk launch is failed on devRoot
+b29e6a69: Failed Patch: eeccce
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample77@devRoot-D-R.obfuscated_flattened.ilog)
+ExitReason-Code: 5 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample77@devRoot-D-R.obfuscated_flattened.ilog)
+b29e6a69: adding filter -- fb351e
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: eeccbe
+-- current localPatchFilter: eec87e
+-- current localPatchFilter: fb351e
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:ea914a		=(rels)=>		1
+[*] Unique action: 1:425048 : <<CALL>> : com.enthralltech.empoweredtls.view.LoginActivity/onCreate:(Landroid/os/Bundle;)V:ea914a  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+java.net.URL/openConnection:()Ljava/net/URLConnection;:105e3e0		=(rels)=>		1
+[*] Unique action: 18:1036097 : <<CALL>> : com.google.firebase.installations.q.c/k:(Ljava/net/URL;Ljava/lang/String;)Ljava/net/HttpURLConnection;:105e3e0  =>  java.net.URL/openConnection:()Ljava/net/URLConnection;:12417c
+java.net.URL/openConnection:()Ljava/net/URLConnection;:105e3e0		=(rels)=>		0
+android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:be2d18		=(rels)=>		1
+[*] Unique action: 1:28119 : <<CALL>> : androidx.constraintlayout.widget.ConstraintLayout/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:be2d18  =>  android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:1959fc
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1031f48		=(rels)=>		1
+[*] Unique action: 1:400694 : <<CALL>> : com.google.android.material.textfield.TextInputLayout/O:(Lcom/google/android/material/internal/CheckableImageButton;Landroid/view/View$OnClickListener;Landroid/view/View$OnLongClickListener;)V:1031f48  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+android.view.ViewGroup/addView:(Landroid/view/View;)V:1031ac8		=(rels)=>		1
+[*] Unique action: 1:401842 : <<CALL>> : com.google.android.material.textfield.TextInputLayout/<init>:(Landroid/content/Context;Landroid/util/AttributeSet;I)V:1031ac8  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+android.view.ViewGroup/addView:(Landroid/view/View;)V:10318e8		=(rels)=>		1
+[*] Unique action: 1:400660 : <<CALL>> : com.google.android.material.textfield.TextInputLayout/<init>:(Landroid/content/Context;Landroid/util/AttributeSet;I)V:10318e8  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+android.view.ViewGroup/addView:(Landroid/view/View;)V:10313ec		=(rels)=>		1
+[*] Unique action: 1:397042 : <<CALL>> : com.google.android.material.textfield.TextInputLayout/<init>:(Landroid/content/Context;Landroid/util/AttributeSet;I)V:10313ec  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:10331b2		=(rels)=>		1
+[*] Unique action: 1:405944 : <<CALL>> : com.google.android.material.textfield.TextInputLayout/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:10331b2  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+android.view.ViewGroup/addView:(Landroid/view/View;)V:1031790		=(rels)=>		1
+[*] Unique action: 1:399722 : <<CALL>> : com.google.android.material.textfield.TextInputLayout/<init>:(Landroid/content/Context;Landroid/util/AttributeSet;I)V:1031790  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+android.widget.EditText/getText:()Landroid/text/Editable;:bc8928		=(rels)=>		1
+[*] Unique action: 1:392819 : <<CALL>> : androidx.appcompat.widget.AppCompatEditText/getText:()Landroid/text/Editable;:bc8928  =>  android.widget.EditText/getText:()Landroid/text/Editable;:2330f8
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:ea925c		=(rels)=>		1
+[*] Unique action: 1:429777 : <<CALL>> : com.enthralltech.empoweredtls.view.LoginActivity/onCreate:(Landroid/os/Bundle;)V:ea925c  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:10331d4		=(rels)=>		1
+[*] Unique action: 1:396958 : <<CALL>> : com.google.android.material.textfield.TextInputLayout/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:10331d4  =>  android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:1959fc
+android.app.Activity/startActivity:(Landroid/content/Intent;)V:eeb676		=(rels)=>		1
+[*] Unique action: 1:383409 : <<CALL>> : com.enthralltech.empoweredtls.view.WelcomeActivity/b0:()V:eeb676  =>  android.app.Activity/startActivity:(Landroid/content/Intent;)V:19cda0
+android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:feb3a6		=(rels)=>		0
+android.view.ViewGroup/addView:(Landroid/view/View;)V:10313b8		=(rels)=>		1
+[*] Unique action: 1:396952 : <<CALL>> : com.google.android.material.textfield.TextInputLayout/<init>:(Landroid/content/Context;Landroid/util/AttributeSet;I)V:10313b8  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:ea9696		=(rels)=>		1
+[*] Unique action: 1:430441 : <<CALL>> : com.enthralltech.empoweredtls.view.LoginActivity/onCreate:(Landroid/os/Bundle;)V:ea9696  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+Action is completely same :)
+Entry: c09590
+androidx.lifecycle.j/q:()V: c095b2 -> c095b6
+		androidx.lifecycle.j/q:()V: 22 -> 26
+addPatchReadme: java.lang.Class<androidx.lifecycle.j>q()V 22 f
+Entry: f8c12c
+com.google.android.gms.internal.measurement.a2/a:(Ljava/lang/String;)Landroid/net/Uri;: f8c142 -> f8c18e
+		com.google.android.gms.internal.measurement.a2/a:(Ljava/lang/String;)Landroid/net/Uri;: 16 -> 62
+addPatchReadme: java.lang.Class<com.google.android.gms.internal.measurement.a2>a(Ljava/lang/String;)Landroid/net/Uri; 16 t
+b29e6a69: [+] Patches found in this round: 2
+b29e6a69: [*] Found Patch size: 1
+ExitReason-Code: 5 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample77@devRoot-D-R.obfuscated_flattened.ilog)
+b29e6a69: @@localPatchFilter -- eeccce
+b29e6a69: @@localPatchFilter -- eec88e
+b29e6a69: @@localPatchFilter -- fb352e
+b29e6a69: 	@@@Found patch addr: f8c152
+b29e6a69: Querying offset: f8c142
+b29e6a69: 	--Add method name to patch = com.google.android.gms.internal.measurement.a2/a:(Ljava/lang/String;)Landroid/net/Uri; 	f8c142
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: patching method: com.google.android.gms.measurement.internal.c5/run:()V
+b29e6a69: patching method: androidx.lifecycle.j/q:()V
+b29e6a69: patching method: com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V
+b29e6a69: patching method: com.google.android.gms.internal.measurement.a2/a:(Ljava/lang/String;)Landroid/net/Uri;
+b29e6a69: patching method: com.google.android.gms.internal.measurement.y1/b:(Landroid/content/Context;)Lcom/google/android/gms/internal/measurement/n2;
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample77.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot
+Wow!!!!!  --  com.google.android.gms.internal.measurement.a2/a:(Ljava/lang/String;)Landroid/net/Uri;
+fallthrough: 1a
+branchTarget: 62
+label = cond_1
+GOTO -- 1a 	62
+Wow!!!!!  --  com.google.android.gms.internal.measurement.y1/b:(Landroid/content/Context;)Lcom/google/android/gms/internal/measurement/n2;
+fallthrough: 2a
+branchTarget: 2a
+NOP!
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample77.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/sample77.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample77.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/signed_sample77.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+b29e6a69: First address of Lcom/google/android/gms/internal/measurement/a2;->a(Ljava/lang/String;)Landroid/net/Uri; = f8c13c
+b29e6a69: Address - Lcom/google/android/gms/internal/measurement/a2;->a(Ljava/lang/String;)Landroid/net/Uri;@16	 lastOffset = 6a
+b29e6a69: Instruction@@: IF_NEZ
+b29e6a69: First address of Lcom/google/android/gms/internal/measurement/y1;->b(Landroid/content/Context;)Lcom/google/android/gms/internal/measurement/n2; = fb3508
+b29e6a69: Address - Lcom/google/android/gms/internal/measurement/y1;->b(Landroid/content/Context;)Lcom/google/android/gms/internal/measurement/n2;@26	 lastOffset = ba
+b29e6a69: Instruction@@: IF_NEZ
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample77.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/signed_sample77.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample77@devRoot-D-R.obfuscated_flattened.ilog)
+b29e6a69: Running Application: com.enthralltech.keventers
+b29e6a69: Running is done - starting comparing... : 10001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+b29e6a69: savedPid = null
+PIDs--------------------------------------------------------------------------
+b29e6a69: savedPid2 = null
+Stopping app: com.enthralltech.keventers
+Tryging remove : uninstall com.enthralltech.keventers(com.enthralltech.keventers)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 4862690
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 25
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample77@devRoot-D-R.obfuscated_flattened.ilog)
+ExitReason-Code: 5 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample77@devRoot-D-R.obfuscated_flattened.ilog)
+b29e6a69: adding filter -- fb351e
+b29e6a69: adding filter -- f8c142
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: eeccbe
+-- current localPatchFilter: eec87e
+-- current localPatchFilter: fb351e
+-- current localPatchFilter: f8c142
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:ea914a		=(rels)=>		1
+[*] Unique action: 1:425048 : <<CALL>> : com.enthralltech.empoweredtls.view.LoginActivity/onCreate:(Landroid/os/Bundle;)V:ea914a  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+java.net.URL/openConnection:()Ljava/net/URLConnection;:105e3e0		=(rels)=>		1
+[*] Unique action: 18:1036097 : <<CALL>> : com.google.firebase.installations.q.c/k:(Ljava/net/URL;Ljava/lang/String;)Ljava/net/HttpURLConnection;:105e3e0  =>  java.net.URL/openConnection:()Ljava/net/URLConnection;:12417c
+java.net.URL/openConnection:()Ljava/net/URLConnection;:105e3e0		=(rels)=>		0
+android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:be2d18		=(rels)=>		1
+[*] Unique action: 1:28119 : <<CALL>> : androidx.constraintlayout.widget.ConstraintLayout/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:be2d18  =>  android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:1959fc
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1031f48		=(rels)=>		1
+[*] Unique action: 1:400694 : <<CALL>> : com.google.android.material.textfield.TextInputLayout/O:(Lcom/google/android/material/internal/CheckableImageButton;Landroid/view/View$OnClickListener;Landroid/view/View$OnLongClickListener;)V:1031f48  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+android.view.ViewGroup/addView:(Landroid/view/View;)V:1031ac8		=(rels)=>		1
+[*] Unique action: 1:401842 : <<CALL>> : com.google.android.material.textfield.TextInputLayout/<init>:(Landroid/content/Context;Landroid/util/AttributeSet;I)V:1031ac8  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+android.view.ViewGroup/addView:(Landroid/view/View;)V:10318e8		=(rels)=>		1
+[*] Unique action: 1:400660 : <<CALL>> : com.google.android.material.textfield.TextInputLayout/<init>:(Landroid/content/Context;Landroid/util/AttributeSet;I)V:10318e8  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+android.view.ViewGroup/addView:(Landroid/view/View;)V:10313ec		=(rels)=>		1
+[*] Unique action: 1:397042 : <<CALL>> : com.google.android.material.textfield.TextInputLayout/<init>:(Landroid/content/Context;Landroid/util/AttributeSet;I)V:10313ec  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:10331b2		=(rels)=>		1
+[*] Unique action: 1:405944 : <<CALL>> : com.google.android.material.textfield.TextInputLayout/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:10331b2  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+android.view.ViewGroup/addView:(Landroid/view/View;)V:1031790		=(rels)=>		1
+[*] Unique action: 1:399722 : <<CALL>> : com.google.android.material.textfield.TextInputLayout/<init>:(Landroid/content/Context;Landroid/util/AttributeSet;I)V:1031790  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+android.widget.EditText/getText:()Landroid/text/Editable;:bc8928		=(rels)=>		1
+[*] Unique action: 1:392819 : <<CALL>> : androidx.appcompat.widget.AppCompatEditText/getText:()Landroid/text/Editable;:bc8928  =>  android.widget.EditText/getText:()Landroid/text/Editable;:2330f8
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:ea925c		=(rels)=>		1
+[*] Unique action: 1:429777 : <<CALL>> : com.enthralltech.empoweredtls.view.LoginActivity/onCreate:(Landroid/os/Bundle;)V:ea925c  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:10331d4		=(rels)=>		1
+[*] Unique action: 1:396958 : <<CALL>> : com.google.android.material.textfield.TextInputLayout/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:10331d4  =>  android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:1959fc
+android.app.Activity/startActivity:(Landroid/content/Intent;)V:eeb676		=(rels)=>		1
+[*] Unique action: 1:383409 : <<CALL>> : com.enthralltech.empoweredtls.view.WelcomeActivity/b0:()V:eeb676  =>  android.app.Activity/startActivity:(Landroid/content/Intent;)V:19cda0
+android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:feb3a6		=(rels)=>		0
+android.view.ViewGroup/addView:(Landroid/view/View;)V:10313b8		=(rels)=>		1
+[*] Unique action: 1:396952 : <<CALL>> : com.google.android.material.textfield.TextInputLayout/<init>:(Landroid/content/Context;Landroid/util/AttributeSet;I)V:10313b8  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:ea9696		=(rels)=>		1
+[*] Unique action: 1:430441 : <<CALL>> : com.enthralltech.empoweredtls.view.LoginActivity/onCreate:(Landroid/os/Bundle;)V:ea9696  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+Action is completely same :)
+Entry: fb5504
+com.google.android.gms.internal.measurement.z1/<init>:(Lcom/google/android/gms/internal/measurement/g2;Ljava/lang/String;Ljava/lang/Object;Z)V: fb5514 -> fb5518
+		com.google.android.gms.internal.measurement.z1/<init>:(Lcom/google/android/gms/internal/measurement/g2;Ljava/lang/String;Ljava/lang/Object;Z)V: 10 -> 14
+addPatchReadme: java.lang.Class<com.google.android.gms.internal.measurement.z1><init>(Lcom/google/android/gms/internal/measurement/g2;Ljava/lang/String;Ljava/lang/Object;Z)V 10 f
+Entry: ffc740
+com.google.android.gms.measurement.internal.q3/a:(Ljava/lang/Object;)Ljava/lang/Object;: ffc7c0 -> ffc7d0
+		com.google.android.gms.measurement.internal.q3/a:(Ljava/lang/Object;)Ljava/lang/Object;: 80 -> 90
+addPatchReadme: java.lang.Class<com.google.android.gms.measurement.internal.q3>a(Ljava/lang/Object;)Ljava/lang/Object; 80 t
+b29e6a69: [+] Patches found in this round: 2
+b29e6a69: [*] Found Patch size: 1
+ExitReason-Code: 5 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample77@devRoot-D-R.obfuscated_flattened.ilog)
+b29e6a69: @@localPatchFilter -- eeccce
+b29e6a69: @@localPatchFilter -- eec88e
+b29e6a69: @@localPatchFilter -- fb352e
+b29e6a69: @@localPatchFilter -- f8c152
+b29e6a69: 	@@@Found patch addr: ffc7d0
+b29e6a69: Querying offset: ffc7c0
+b29e6a69: 	--Add method name to patch = com.google.android.gms.measurement.internal.q3/a:(Ljava/lang/Object;)Ljava/lang/Object; 	ffc7c0
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: patching method: com.google.android.gms.measurement.internal.c5/run:()V
+b29e6a69: patching method: androidx.lifecycle.j/q:()V
+b29e6a69: patching method: com.google.android.gms.internal.measurement.z1/<init>:(Lcom/google/android/gms/internal/measurement/g2;Ljava/lang/String;Ljava/lang/Object;Z)V
+b29e6a69: patching method: com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V
+b29e6a69: patching method: com.google.android.gms.internal.measurement.a2/a:(Ljava/lang/String;)Landroid/net/Uri;
+b29e6a69: patching method: com.google.android.gms.measurement.internal.q3/a:(Ljava/lang/Object;)Ljava/lang/Object;
+b29e6a69: patching method: com.google.android.gms.internal.measurement.y1/b:(Landroid/content/Context;)Lcom/google/android/gms/internal/measurement/n2;
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample77.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot
+Wow!!!!!  --  com.google.android.gms.internal.measurement.a2/a:(Ljava/lang/String;)Landroid/net/Uri;
+fallthrough: 1a
+branchTarget: 62
+label = cond_1
+GOTO -- 1a 	62
+Wow!!!!!  --  com.google.android.gms.internal.measurement.y1/b:(Landroid/content/Context;)Lcom/google/android/gms/internal/measurement/n2;
+fallthrough: 2a
+branchTarget: 2a
+NOP!
+Wow!!!!!  --  com.google.android.gms.measurement.internal.q3/a:(Ljava/lang/Object;)Ljava/lang/Object;
+fallthrough: 84
+branchTarget: 90
+label = cond_4
+GOTO -- 84 	90
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample77.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/sample77.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample77.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/signed_sample77.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+b29e6a69: First address of Lcom/google/android/gms/internal/measurement/a2;->a(Ljava/lang/String;)Landroid/net/Uri; = f8c13c
+b29e6a69: Address - Lcom/google/android/gms/internal/measurement/a2;->a(Ljava/lang/String;)Landroid/net/Uri;@16	 lastOffset = 6a
+b29e6a69: Instruction@@: IF_NEZ
+b29e6a69: First address of Lcom/google/android/gms/measurement/internal/q3;->a(Ljava/lang/Object;)Ljava/lang/Object; = ffc750
+b29e6a69: Address - Lcom/google/android/gms/measurement/internal/q3;->a(Ljava/lang/Object;)Ljava/lang/Object;@80	 lastOffset = e6
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Lcom/google/android/gms/internal/measurement/y1;->b(Landroid/content/Context;)Lcom/google/android/gms/internal/measurement/n2; = fb3508
+b29e6a69: Address - Lcom/google/android/gms/internal/measurement/y1;->b(Landroid/content/Context;)Lcom/google/android/gms/internal/measurement/n2;@26	 lastOffset = ba
+b29e6a69: Instruction@@: IF_NEZ
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample77.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/signed_sample77.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample77@devRoot-D-R.obfuscated_flattened.ilog)
+b29e6a69: Running Application: com.enthralltech.keventers
+b29e6a69: Running is done - starting comparing... : 10001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+b29e6a69: savedPid = null
+PIDs--------------------------------------------------------------------------
+b29e6a69: savedPid2 = null
+Stopping app: com.enthralltech.keventers
+Tryging remove : uninstall com.enthralltech.keventers(com.enthralltech.keventers)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 5111825
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 24
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample77@devRoot-D-R.obfuscated_flattened.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample77@devRoot-D-R.obfuscated_flattened.ilog)
+b29e6a69: adding filter -- fb351e
+b29e6a69: adding filter -- f8c142
+b29e6a69: adding filter -- ffc7c0
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: eeccbe
+-- current localPatchFilter: eec87e
+-- current localPatchFilter: fb351e
+-- current localPatchFilter: f8c142
+-- current localPatchFilter: ffc7c0
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:ea914a		=(rels)=>		1
+[*] Unique action: 1:425048 : <<CALL>> : com.enthralltech.empoweredtls.view.LoginActivity/onCreate:(Landroid/os/Bundle;)V:ea914a  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+java.net.URL/openConnection:()Ljava/net/URLConnection;:105e3e0		=(rels)=>		1
+[*] Unique action: 18:1036097 : <<CALL>> : com.google.firebase.installations.q.c/k:(Ljava/net/URL;Ljava/lang/String;)Ljava/net/HttpURLConnection;:105e3e0  =>  java.net.URL/openConnection:()Ljava/net/URLConnection;:12417c
+java.net.URL/openConnection:()Ljava/net/URLConnection;:105e3e0		=(rels)=>		0
+android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:be2d18		=(rels)=>		1
+[*] Unique action: 1:28119 : <<CALL>> : androidx.constraintlayout.widget.ConstraintLayout/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:be2d18  =>  android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:1959fc
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1031f48		=(rels)=>		1
+[*] Unique action: 1:400694 : <<CALL>> : com.google.android.material.textfield.TextInputLayout/O:(Lcom/google/android/material/internal/CheckableImageButton;Landroid/view/View$OnClickListener;Landroid/view/View$OnLongClickListener;)V:1031f48  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+android.view.ViewGroup/addView:(Landroid/view/View;)V:1031ac8		=(rels)=>		1
+[*] Unique action: 1:401842 : <<CALL>> : com.google.android.material.textfield.TextInputLayout/<init>:(Landroid/content/Context;Landroid/util/AttributeSet;I)V:1031ac8  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+android.view.ViewGroup/addView:(Landroid/view/View;)V:10318e8		=(rels)=>		1
+[*] Unique action: 1:400660 : <<CALL>> : com.google.android.material.textfield.TextInputLayout/<init>:(Landroid/content/Context;Landroid/util/AttributeSet;I)V:10318e8  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+android.view.ViewGroup/addView:(Landroid/view/View;)V:10313ec		=(rels)=>		1
+[*] Unique action: 1:397042 : <<CALL>> : com.google.android.material.textfield.TextInputLayout/<init>:(Landroid/content/Context;Landroid/util/AttributeSet;I)V:10313ec  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:10331b2		=(rels)=>		1
+[*] Unique action: 1:405944 : <<CALL>> : com.google.android.material.textfield.TextInputLayout/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:10331b2  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+android.view.ViewGroup/addView:(Landroid/view/View;)V:1031790		=(rels)=>		1
+[*] Unique action: 1:399722 : <<CALL>> : com.google.android.material.textfield.TextInputLayout/<init>:(Landroid/content/Context;Landroid/util/AttributeSet;I)V:1031790  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+android.widget.EditText/getText:()Landroid/text/Editable;:bc8928		=(rels)=>		1
+[*] Unique action: 1:392819 : <<CALL>> : androidx.appcompat.widget.AppCompatEditText/getText:()Landroid/text/Editable;:bc8928  =>  android.widget.EditText/getText:()Landroid/text/Editable;:2330f8
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:ea925c		=(rels)=>		1
+[*] Unique action: 1:429777 : <<CALL>> : com.enthralltech.empoweredtls.view.LoginActivity/onCreate:(Landroid/os/Bundle;)V:ea925c  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:10331d4		=(rels)=>		1
+[*] Unique action: 1:396958 : <<CALL>> : com.google.android.material.textfield.TextInputLayout/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:10331d4  =>  android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:1959fc
+android.app.Activity/startActivity:(Landroid/content/Intent;)V:eeb676		=(rels)=>		1
+[*] Unique action: 1:383409 : <<CALL>> : com.enthralltech.empoweredtls.view.WelcomeActivity/b0:()V:eeb676  =>  android.app.Activity/startActivity:(Landroid/content/Intent;)V:19cda0
+android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:feb3a6		=(rels)=>		0
+android.view.ViewGroup/addView:(Landroid/view/View;)V:10313b8		=(rels)=>		1
+[*] Unique action: 1:396952 : <<CALL>> : com.google.android.material.textfield.TextInputLayout/<init>:(Landroid/content/Context;Landroid/util/AttributeSet;I)V:10313b8  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:ea9696		=(rels)=>		1
+[*] Unique action: 1:430441 : <<CALL>> : com.enthralltech.empoweredtls.view.LoginActivity/onCreate:(Landroid/os/Bundle;)V:ea9696  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+Action is completely same :)
+Entry: b85ad0
+a.d.g/e:(Ljava/lang/Object;I)I: b85ad4 -> b85adc
+		a.d.g/e:(Ljava/lang/Object;I)I: 4 -> c
+addPatchReadme: java.lang.Class<a.d.g>e(Ljava/lang/Object;I)I 4 t
+Entry: fb5504
+com.google.android.gms.internal.measurement.z1/<init>:(Lcom/google/android/gms/internal/measurement/g2;Ljava/lang/String;Ljava/lang/Object;Z)V: fb5514 -> fb5518
+		com.google.android.gms.internal.measurement.z1/<init>:(Lcom/google/android/gms/internal/measurement/g2;Ljava/lang/String;Ljava/lang/Object;Z)V: 10 -> 14
+addPatchReadme: java.lang.Class<com.google.android.gms.internal.measurement.z1><init>(Lcom/google/android/gms/internal/measurement/g2;Ljava/lang/String;Ljava/lang/Object;Z)V 10 f
+b29e6a69: [+] Patches found in this round: 2
+b29e6a69: [*] Found Patch size: 1
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample77@devRoot-D-R.obfuscated_flattened.ilog)
+b29e6a69: @@localPatchFilter -- eeccce
+b29e6a69: @@localPatchFilter -- eec88e
+b29e6a69: @@localPatchFilter -- fb352e
+b29e6a69: @@localPatchFilter -- f8c152
+b29e6a69: @@localPatchFilter -- ffc7d0
+b29e6a69: 	@@@Found patch addr: fb5524
+b29e6a69: Querying offset: fb5514
+b29e6a69: 	--Add method name to patch = com.google.android.gms.internal.measurement.z1/<init>:(Lcom/google/android/gms/internal/measurement/g2;Ljava/lang/String;Ljava/lang/Object;Z)V 	fb5514
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: patching method: com.google.android.gms.measurement.internal.c5/run:()V
+b29e6a69: patching method: androidx.lifecycle.j/q:()V
+b29e6a69: patching method: com.google.android.gms.internal.measurement.z1/<init>:(Lcom/google/android/gms/internal/measurement/g2;Ljava/lang/String;Ljava/lang/Object;Z)V
+b29e6a69: patching method: com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V
+b29e6a69: patching method: a.d.g/e:(Ljava/lang/Object;I)I
+b29e6a69: patching method: com.google.android.gms.internal.measurement.a2/a:(Ljava/lang/String;)Landroid/net/Uri;
+b29e6a69: patching method: com.google.android.gms.measurement.internal.q3/a:(Ljava/lang/Object;)Ljava/lang/Object;
+b29e6a69: patching method: com.google.android.gms.internal.measurement.y1/b:(Landroid/content/Context;)Lcom/google/android/gms/internal/measurement/n2;
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample77.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot
+Wow!!!!!  --  com.google.android.gms.internal.measurement.a2/a:(Ljava/lang/String;)Landroid/net/Uri;
+fallthrough: 1a
+branchTarget: 62
+label = cond_1
+GOTO -- 1a 	62
+Wow!!!!!  --  com.google.android.gms.internal.measurement.y1/b:(Landroid/content/Context;)Lcom/google/android/gms/internal/measurement/n2;
+fallthrough: 2a
+branchTarget: 2a
+NOP!
+Wow!!!!!  --  com.google.android.gms.internal.measurement.z1/<init>:(Lcom/google/android/gms/internal/measurement/g2;Ljava/lang/String;Ljava/lang/Object;Z)V
+fallthrough: 14
+branchTarget: 14
+NOP!
+Wow!!!!!  --  com.google.android.gms.measurement.internal.q3/a:(Ljava/lang/Object;)Ljava/lang/Object;
+fallthrough: 84
+branchTarget: 90
+label = cond_4
+GOTO -- 84 	90
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample77.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/sample77.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample77.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/signed_sample77.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+b29e6a69: First address of Lcom/google/android/gms/internal/measurement/z1;-><init>(Lcom/google/android/gms/internal/measurement/g2;Ljava/lang/String;Ljava/lang/Object;Z)V = fb5514
+b29e6a69: Address - Lcom/google/android/gms/internal/measurement/z1;-><init>(Lcom/google/android/gms/internal/measurement/g2;Ljava/lang/String;Ljava/lang/Object;Z)V@10	 lastOffset = 30
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Lcom/google/android/gms/internal/measurement/a2;->a(Ljava/lang/String;)Landroid/net/Uri; = f8c13c
+b29e6a69: Address - Lcom/google/android/gms/internal/measurement/a2;->a(Ljava/lang/String;)Landroid/net/Uri;@16	 lastOffset = 6a
+b29e6a69: Instruction@@: IF_NEZ
+b29e6a69: First address of Lcom/google/android/gms/measurement/internal/q3;->a(Ljava/lang/Object;)Ljava/lang/Object; = ffc750
+b29e6a69: Address - Lcom/google/android/gms/measurement/internal/q3;->a(Ljava/lang/Object;)Ljava/lang/Object;@80	 lastOffset = e6
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Lcom/google/android/gms/internal/measurement/y1;->b(Landroid/content/Context;)Lcom/google/android/gms/internal/measurement/n2; = fb3508
+b29e6a69: Address - Lcom/google/android/gms/internal/measurement/y1;->b(Landroid/content/Context;)Lcom/google/android/gms/internal/measurement/n2;@26	 lastOffset = ba
+b29e6a69: Instruction@@: IF_NEZ
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample77.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/signed_sample77.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample77@devRoot-D-R.obfuscated_flattened.ilog)
+b29e6a69: Running Application: com.enthralltech.keventers
+b29e6a69: Running is done - starting comparing... : 10001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.enthralltech.keventers/com.enthralltech.empoweredtls.view.WelcomeActivity
+PIDs--------------------------------------------------------------------------
+u0_a3999      27254    425 14816408 147808 0                  0 S com.enthralltech.keventers
+b29e6a69: savedPid = 27254
+PIDs--------------------------------------------------------------------------
+u0_a3999      27254    425 14816408 147808 0                  0 S com.enthralltech.keventers
+b29e6a69: savedPid2 = 27254
+Stopping app: com.enthralltech.keventers
+Tryging remove : uninstall com.enthralltech.keventers(com.enthralltech.keventers)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 26668511
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 23
+b29e6a69: isFailedToLaunch: com.enthralltech.keventers/com.enthralltech.empoweredtls.view.WelcomeActivity
+b29e6a69: 	--result: Good :)
+b29e6a69: isFailedToLaunch: com.enthralltech.keventers/com.enthralltech.empoweredtls.view.WelcomeActivity
+b29e6a69: 	--result: Good :)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample77@devRoot-D-R.obfuscated_flattened.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample77@devRoot-D-R.obfuscated_flattened.ilog)
+b29e6a69: adding filter -- f8c142
+b29e6a69: adding filter -- fb351e
+b29e6a69: adding filter -- ffc7c0
+b29e6a69: adding filter -- fb5514
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: eeccbe
+-- current localPatchFilter: eec87e
+-- current localPatchFilter: fb351e
+-- current localPatchFilter: f8c142
+-- current localPatchFilter: fb5514
+-- current localPatchFilter: ffc7c0
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:ea914a		=(rels)=>		1
+[*] Unique action: 1:425048 : <<CALL>> : com.enthralltech.empoweredtls.view.LoginActivity/onCreate:(Landroid/os/Bundle;)V:ea914a  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:383201 : <<BRANCH>> : com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd06  =>  com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd0a
+java.net.URL/openConnection:()Ljava/net/URLConnection;:105e3e0		=(rels)=>		1
+[*] Unique action: 18:1036097 : <<CALL>> : com.google.firebase.installations.q.c/k:(Ljava/net/URL;Ljava/lang/String;)Ljava/net/HttpURLConnection;:105e3e0  =>  java.net.URL/openConnection:()Ljava/net/URLConnection;:12417c
+java.net.URL/openConnection:()Ljava/net/URLConnection;:105e3e0		=(rels)=>		0
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1031f48		=(rels)=>		1
+[*] Unique action: 1:400694 : <<CALL>> : com.google.android.material.textfield.TextInputLayout/O:(Lcom/google/android/material/internal/CheckableImageButton;Landroid/view/View$OnClickListener;Landroid/view/View$OnLongClickListener;)V:1031f48  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:383201 : <<BRANCH>> : com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd06  =>  com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd0a
+android.view.ViewGroup/addView:(Landroid/view/View;)V:1031ac8		=(rels)=>		1
+[*] Unique action: 1:401842 : <<CALL>> : com.google.android.material.textfield.TextInputLayout/<init>:(Landroid/content/Context;Landroid/util/AttributeSet;I)V:1031ac8  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:383201 : <<BRANCH>> : com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd06  =>  com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd0a
+android.view.ViewGroup/addView:(Landroid/view/View;)V:10318e8		=(rels)=>		1
+[*] Unique action: 1:400660 : <<CALL>> : com.google.android.material.textfield.TextInputLayout/<init>:(Landroid/content/Context;Landroid/util/AttributeSet;I)V:10318e8  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:383201 : <<BRANCH>> : com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd06  =>  com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd0a
+android.view.ViewGroup/addView:(Landroid/view/View;)V:10313ec		=(rels)=>		1
+[*] Unique action: 1:397042 : <<CALL>> : com.google.android.material.textfield.TextInputLayout/<init>:(Landroid/content/Context;Landroid/util/AttributeSet;I)V:10313ec  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:383201 : <<BRANCH>> : com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd06  =>  com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd0a
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:10331b2		=(rels)=>		1
+[*] Unique action: 1:405944 : <<CALL>> : com.google.android.material.textfield.TextInputLayout/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:10331b2  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+	1:compareBackwardBranch: 1:383201 : <<BRANCH>> : com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd06  =>  com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd0a
+android.view.ViewGroup/addView:(Landroid/view/View;)V:1031790		=(rels)=>		1
+[*] Unique action: 1:399722 : <<CALL>> : com.google.android.material.textfield.TextInputLayout/<init>:(Landroid/content/Context;Landroid/util/AttributeSet;I)V:1031790  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:383201 : <<BRANCH>> : com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd06  =>  com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd0a
+android.widget.EditText/getText:()Landroid/text/Editable;:bc8928		=(rels)=>		1
+[*] Unique action: 1:392819 : <<CALL>> : androidx.appcompat.widget.AppCompatEditText/getText:()Landroid/text/Editable;:bc8928  =>  android.widget.EditText/getText:()Landroid/text/Editable;:2330f8
+	1:compareBackwardBranch: 1:383201 : <<BRANCH>> : com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd06  =>  com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd0a
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:ea925c		=(rels)=>		1
+[*] Unique action: 1:429777 : <<CALL>> : com.enthralltech.empoweredtls.view.LoginActivity/onCreate:(Landroid/os/Bundle;)V:ea925c  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:383201 : <<BRANCH>> : com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd06  =>  com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd0a
+android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:10331d4		=(rels)=>		1
+[*] Unique action: 1:396958 : <<CALL>> : com.google.android.material.textfield.TextInputLayout/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:10331d4  =>  android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:1959fc
+	1:compareBackwardBranch: 1:383201 : <<BRANCH>> : com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd06  =>  com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd0a
+android.app.Activity/startActivity:(Landroid/content/Intent;)V:eeb676		=(rels)=>		1
+[*] Unique action: 1:383409 : <<CALL>> : com.enthralltech.empoweredtls.view.WelcomeActivity/b0:()V:eeb676  =>  android.app.Activity/startActivity:(Landroid/content/Intent;)V:19cda0
+	1:compareBackwardBranch: 1:383201 : <<BRANCH>> : com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd06  =>  com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd0a
+android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:feb3a6		=(rels)=>		0
+android.view.ViewGroup/addView:(Landroid/view/View;)V:10313b8		=(rels)=>		1
+[*] Unique action: 1:396952 : <<CALL>> : com.google.android.material.textfield.TextInputLayout/<init>:(Landroid/content/Context;Landroid/util/AttributeSet;I)V:10313b8  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:383201 : <<BRANCH>> : com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd06  =>  com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd0a
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:ea9696		=(rels)=>		1
+[*] Unique action: 1:430441 : <<CALL>> : com.enthralltech.empoweredtls.view.LoginActivity/onCreate:(Landroid/os/Bundle;)V:ea9696  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:383201 : <<BRANCH>> : com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd06  =>  com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd0a
+android.app.Dialog/show:()V:eecfce		=(rels)=>		1
+[*] Unique action: 1:109889 : <<CALL>> : com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecfce  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch2: 1:383200 : <<BRANCH>> : com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eeccea  =>  com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd02
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:d43546		=(rels)=>		1
+[*] Unique action: 1:113564 : <<CALL>> : com.enthralltech.empoweredtls.dialog.CustomAlertDialog/d:()V:d43546  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch2: 1:383200 : <<BRANCH>> : com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eeccea  =>  com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd02
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:d435a0		=(rels)=>		1
+[*] Unique action: 1:113586 : <<CALL>> : com.enthralltech.empoweredtls.dialog.CustomAlertDialog/d:()V:d435a0  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch2: 1:383200 : <<BRANCH>> : com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eeccea  =>  com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd02
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:d42e40		=(rels)=>		1
+[*] Unique action: 1:113729 : <<CALL>> : com.enthralltech.empoweredtls.dialog.CustomAlertDialog/c:()V:d42e40  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch2: 1:383200 : <<BRANCH>> : com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eeccea  =>  com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd02
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:d4369c		=(rels)=>		1
+[*] Unique action: 1:113640 : <<CALL>> : com.enthralltech.empoweredtls.dialog.CustomAlertDialog/d:()V:d4369c  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch2: 1:383200 : <<BRANCH>> : com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eeccea  =>  com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd02
+Entry: eec444
+com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V: eecd06 -> eecd0a
+		com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V: 8c2 -> 8c6
+addPatchReadme: java.lang.Class<com.enthralltech.empoweredtls.view.WelcomeActivity>onCreate(Landroid/os/Bundle;)V 8c2 f
+Entry: eec444
+com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V: eeccea -> eecd02
+		com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V: 8a6 -> 8be
+addPatchReadme: java.lang.Class<com.enthralltech.empoweredtls.view.WelcomeActivity>onCreate(Landroid/os/Bundle;)V 8a6 t
+b29e6a69: [+] Patches found in this round: 2
+b29e6a69: [*] Found Patch size: 1
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample77@devRoot-D-R.obfuscated_flattened.ilog)
+b29e6a69: @@localPatchFilter -- eeccce
+b29e6a69: @@localPatchFilter -- eec88e
+b29e6a69: @@localPatchFilter -- fb352e
+b29e6a69: @@localPatchFilter -- f8c152
+b29e6a69: @@localPatchFilter -- fb5524
+b29e6a69: @@localPatchFilter -- ffc7d0
+b29e6a69: 	@@@Found patch addr: eeccfa
+b29e6a69: Querying offset: eeccea
+b29e6a69: 	--Add method name to patch = com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V 	eeccea
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: patching method: com.google.android.gms.measurement.internal.c5/run:()V
+b29e6a69: patching method: androidx.lifecycle.j/q:()V
+b29e6a69: patching method: com.google.android.gms.internal.measurement.z1/<init>:(Lcom/google/android/gms/internal/measurement/g2;Ljava/lang/String;Ljava/lang/Object;Z)V
+b29e6a69: patching method: com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V
+b29e6a69: patching method: a.d.g/e:(Ljava/lang/Object;I)I
+b29e6a69: patching method: com.google.android.gms.internal.measurement.a2/a:(Ljava/lang/String;)Landroid/net/Uri;
+b29e6a69: patching method: com.google.android.gms.measurement.internal.q3/a:(Ljava/lang/Object;)Ljava/lang/Object;
+b29e6a69: patching method: com.google.android.gms.internal.measurement.y1/b:(Landroid/content/Context;)Lcom/google/android/gms/internal/measurement/n2;
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample77.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot
+Wow!!!!!  --  com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 8ac
+branchTarget: 8be
+label = sswitch_data_29
+GOTO -- 8ac 	8be
+Wow!!!!!  --  com.google.android.gms.internal.measurement.a2/a:(Ljava/lang/String;)Landroid/net/Uri;
+fallthrough: 1a
+branchTarget: 62
+label = cond_1
+GOTO -- 1a 	62
+Wow!!!!!  --  com.google.android.gms.internal.measurement.y1/b:(Landroid/content/Context;)Lcom/google/android/gms/internal/measurement/n2;
+fallthrough: 2a
+branchTarget: 2a
+NOP!
+Wow!!!!!  --  com.google.android.gms.internal.measurement.z1/<init>:(Lcom/google/android/gms/internal/measurement/g2;Ljava/lang/String;Ljava/lang/Object;Z)V
+fallthrough: 14
+branchTarget: 14
+NOP!
+Wow!!!!!  --  com.google.android.gms.measurement.internal.q3/a:(Ljava/lang/Object;)Ljava/lang/Object;
+fallthrough: 84
+branchTarget: 90
+label = cond_4
+GOTO -- 84 	90
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample77.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/sample77.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample77.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/signed_sample77.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+b29e6a69: First address of Lcom/google/android/gms/internal/measurement/z1;-><init>(Lcom/google/android/gms/internal/measurement/g2;Ljava/lang/String;Ljava/lang/Object;Z)V = fb5514
+b29e6a69: Address - Lcom/google/android/gms/internal/measurement/z1;-><init>(Lcom/google/android/gms/internal/measurement/g2;Ljava/lang/String;Ljava/lang/Object;Z)V@10	 lastOffset = 30
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Lcom/enthralltech/empoweredtls/view/WelcomeActivity;->onCreate(Landroid/os/Bundle;)V = eec454
+b29e6a69: Address - Lcom/enthralltech/empoweredtls/view/WelcomeActivity;->onCreate(Landroid/os/Bundle;)V@8a6	 lastOffset = 10ec
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: First address of Lcom/google/android/gms/internal/measurement/a2;->a(Ljava/lang/String;)Landroid/net/Uri; = f8c13c
+b29e6a69: Address - Lcom/google/android/gms/internal/measurement/a2;->a(Ljava/lang/String;)Landroid/net/Uri;@16	 lastOffset = 6a
+b29e6a69: Instruction@@: IF_NEZ
+b29e6a69: First address of Lcom/google/android/gms/measurement/internal/q3;->a(Ljava/lang/Object;)Ljava/lang/Object; = ffc750
+b29e6a69: Address - Lcom/google/android/gms/measurement/internal/q3;->a(Ljava/lang/Object;)Ljava/lang/Object;@80	 lastOffset = e6
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Lcom/google/android/gms/internal/measurement/y1;->b(Landroid/content/Context;)Lcom/google/android/gms/internal/measurement/n2; = fb3508
+b29e6a69: Address - Lcom/google/android/gms/internal/measurement/y1;->b(Landroid/content/Context;)Lcom/google/android/gms/internal/measurement/n2;@26	 lastOffset = ba
+b29e6a69: Instruction@@: IF_NEZ
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample77.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/signed_sample77.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample77@devRoot-D-R.obfuscated_flattened.ilog)
+b29e6a69: Running Application: com.enthralltech.keventers
+b29e6a69: Running is done - starting comparing... : 10001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+b29e6a69: savedPid = null
+PIDs--------------------------------------------------------------------------
+b29e6a69: savedPid2 = null
+Stopping app: com.enthralltech.keventers
+Tryging remove : uninstall com.enthralltech.keventers(com.enthralltech.keventers)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 4889713
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 22
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+b29e6a69: /home/santapark/Extended3/DEEPerence/reEx/sample77.apk@devRoot-D-R.apk.obfuscated_flattened.apk launch is failed on devRoot
+b29e6a69: Failed Patch: eeccfa
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample77@devRoot-D-R.obfuscated_flattened.ilog)
+ExitReason-Code: 5 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample77@devRoot-D-R.obfuscated_flattened.ilog)
+b29e6a69: adding filter -- f8c142
+b29e6a69: adding filter -- fb351e
+b29e6a69: adding filter -- ffc7c0
+b29e6a69: adding filter -- fb5514
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: eeccbe
+-- current localPatchFilter: eec87e
+-- current localPatchFilter: eeccea
+-- current localPatchFilter: fb351e
+-- current localPatchFilter: f8c142
+-- current localPatchFilter: fb5514
+-- current localPatchFilter: ffc7c0
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:ea914a		=(rels)=>		1
+[*] Unique action: 1:425048 : <<CALL>> : com.enthralltech.empoweredtls.view.LoginActivity/onCreate:(Landroid/os/Bundle;)V:ea914a  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+java.net.URL/openConnection:()Ljava/net/URLConnection;:105e3e0		=(rels)=>		1
+[*] Unique action: 18:1036097 : <<CALL>> : com.google.firebase.installations.q.c/k:(Ljava/net/URL;Ljava/lang/String;)Ljava/net/HttpURLConnection;:105e3e0  =>  java.net.URL/openConnection:()Ljava/net/URLConnection;:12417c
+java.net.URL/openConnection:()Ljava/net/URLConnection;:105e3e0		=(rels)=>		0
+android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:be2d18		=(rels)=>		1
+[*] Unique action: 1:28119 : <<CALL>> : androidx.constraintlayout.widget.ConstraintLayout/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:be2d18  =>  android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:1959fc
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1031f48		=(rels)=>		1
+[*] Unique action: 1:400694 : <<CALL>> : com.google.android.material.textfield.TextInputLayout/O:(Lcom/google/android/material/internal/CheckableImageButton;Landroid/view/View$OnClickListener;Landroid/view/View$OnLongClickListener;)V:1031f48  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+android.view.ViewGroup/addView:(Landroid/view/View;)V:1031ac8		=(rels)=>		1
+[*] Unique action: 1:401842 : <<CALL>> : com.google.android.material.textfield.TextInputLayout/<init>:(Landroid/content/Context;Landroid/util/AttributeSet;I)V:1031ac8  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+android.view.ViewGroup/addView:(Landroid/view/View;)V:10318e8		=(rels)=>		1
+[*] Unique action: 1:400660 : <<CALL>> : com.google.android.material.textfield.TextInputLayout/<init>:(Landroid/content/Context;Landroid/util/AttributeSet;I)V:10318e8  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+android.view.ViewGroup/addView:(Landroid/view/View;)V:10313ec		=(rels)=>		1
+[*] Unique action: 1:397042 : <<CALL>> : com.google.android.material.textfield.TextInputLayout/<init>:(Landroid/content/Context;Landroid/util/AttributeSet;I)V:10313ec  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:10331b2		=(rels)=>		1
+[*] Unique action: 1:405944 : <<CALL>> : com.google.android.material.textfield.TextInputLayout/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:10331b2  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+android.view.ViewGroup/addView:(Landroid/view/View;)V:1031790		=(rels)=>		1
+[*] Unique action: 1:399722 : <<CALL>> : com.google.android.material.textfield.TextInputLayout/<init>:(Landroid/content/Context;Landroid/util/AttributeSet;I)V:1031790  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+android.widget.EditText/getText:()Landroid/text/Editable;:bc8928		=(rels)=>		1
+[*] Unique action: 1:392819 : <<CALL>> : androidx.appcompat.widget.AppCompatEditText/getText:()Landroid/text/Editable;:bc8928  =>  android.widget.EditText/getText:()Landroid/text/Editable;:2330f8
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:ea925c		=(rels)=>		1
+[*] Unique action: 1:429777 : <<CALL>> : com.enthralltech.empoweredtls.view.LoginActivity/onCreate:(Landroid/os/Bundle;)V:ea925c  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:10331d4		=(rels)=>		1
+[*] Unique action: 1:396958 : <<CALL>> : com.google.android.material.textfield.TextInputLayout/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:10331d4  =>  android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:1959fc
+android.app.Activity/startActivity:(Landroid/content/Intent;)V:eeb676		=(rels)=>		1
+[*] Unique action: 1:383409 : <<CALL>> : com.enthralltech.empoweredtls.view.WelcomeActivity/b0:()V:eeb676  =>  android.app.Activity/startActivity:(Landroid/content/Intent;)V:19cda0
+android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:feb3a6		=(rels)=>		0
+android.view.ViewGroup/addView:(Landroid/view/View;)V:10313b8		=(rels)=>		1
+[*] Unique action: 1:396952 : <<CALL>> : com.google.android.material.textfield.TextInputLayout/<init>:(Landroid/content/Context;Landroid/util/AttributeSet;I)V:10313b8  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:ea9696		=(rels)=>		1
+[*] Unique action: 1:430441 : <<CALL>> : com.enthralltech.empoweredtls.view.LoginActivity/onCreate:(Landroid/os/Bundle;)V:ea9696  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+Action is completely same :)
+Entry: fa8aec
+com.google.android.gms.internal.measurement.q2/a:()Ljava/lang/Object;: fa8afa -> fa8b18
+		com.google.android.gms.internal.measurement.q2/a:()Ljava/lang/Object;: e -> 2c
+addPatchReadme: java.lang.Class<com.google.android.gms.internal.measurement.q2>a()Ljava/lang/Object; e t
+Entry: c09590
+androidx.lifecycle.j/q:()V: c095b2 -> c095b6
+		androidx.lifecycle.j/q:()V: 22 -> 26
+addPatchReadme: java.lang.Class<androidx.lifecycle.j>q()V 22 f
+Entry: 1007a50
+com.google.android.gms.measurement.internal.x3/B:(IZZLjava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V: 1007a5e -> 1007a70
+		com.google.android.gms.measurement.internal.x3/B:(IZZLjava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V: e -> 20
+addPatchReadme: java.lang.Class<com.google.android.gms.measurement.internal.x3>B(IZZLjava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V e t
+b29e6a69: [+] Patches found in this round: 3
+b29e6a69: [*] Found Patch size: 1
+ExitReason-Code: 5 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample77@devRoot-D-R.obfuscated_flattened.ilog)
+b29e6a69: @@localPatchFilter -- eeccce
+b29e6a69: @@localPatchFilter -- eec88e
+b29e6a69: @@localPatchFilter -- eeccfa
+b29e6a69: @@localPatchFilter -- fb352e
+b29e6a69: @@localPatchFilter -- f8c152
+b29e6a69: @@localPatchFilter -- fb5524
+b29e6a69: @@localPatchFilter -- ffc7d0
+b29e6a69: 	@@@Found patch addr: 1007a6e
+b29e6a69: Querying offset: 1007a5e
+b29e6a69: 	--Add method name to patch = com.google.android.gms.measurement.internal.x3/B:(IZZLjava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V 	1007a5e
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: patching method: com.google.android.gms.measurement.internal.c5/run:()V
+b29e6a69: patching method: com.google.android.gms.internal.measurement.q2/a:()Ljava/lang/Object;
+b29e6a69: patching method: com.google.android.gms.measurement.internal.x3/B:(IZZLjava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V
+b29e6a69: patching method: androidx.lifecycle.j/q:()V
+b29e6a69: patching method: com.google.android.gms.internal.measurement.z1/<init>:(Lcom/google/android/gms/internal/measurement/g2;Ljava/lang/String;Ljava/lang/Object;Z)V
+b29e6a69: patching method: com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V
+b29e6a69: patching method: a.d.g/e:(Ljava/lang/Object;I)I
+b29e6a69: patching method: com.google.android.gms.internal.measurement.a2/a:(Ljava/lang/String;)Landroid/net/Uri;
+b29e6a69: patching method: com.google.android.gms.measurement.internal.q3/a:(Ljava/lang/Object;)Ljava/lang/Object;
+b29e6a69: patching method: com.google.android.gms.internal.measurement.y1/b:(Landroid/content/Context;)Lcom/google/android/gms/internal/measurement/n2;
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample77.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot
+Wow!!!!!  --  com.google.android.gms.internal.measurement.a2/a:(Ljava/lang/String;)Landroid/net/Uri;
+fallthrough: 1a
+branchTarget: 62
+label = cond_1
+GOTO -- 1a 	62
+Wow!!!!!  --  com.google.android.gms.internal.measurement.y1/b:(Landroid/content/Context;)Lcom/google/android/gms/internal/measurement/n2;
+fallthrough: 2a
+branchTarget: 2a
+NOP!
+Wow!!!!!  --  com.google.android.gms.internal.measurement.z1/<init>:(Lcom/google/android/gms/internal/measurement/g2;Ljava/lang/String;Ljava/lang/Object;Z)V
+fallthrough: 14
+branchTarget: 14
+NOP!
+Wow!!!!!  --  com.google.android.gms.measurement.internal.q3/a:(Ljava/lang/Object;)Ljava/lang/Object;
+fallthrough: 84
+branchTarget: 90
+label = cond_4
+GOTO -- 84 	90
+Wow!!!!!  --  com.google.android.gms.measurement.internal.x3/B:(IZZLjava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V
+fallthrough: 12
+branchTarget: 20
+label = cond_0
+GOTO -- 12 	20
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample77.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/sample77.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample77.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/signed_sample77.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+b29e6a69: First address of Lcom/google/android/gms/measurement/internal/x3;->B(IZZLjava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V = 1007a60
+b29e6a69: Address - Lcom/google/android/gms/measurement/internal/x3;->B(IZZLjava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V@e	 lastOffset = 96
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Lcom/google/android/gms/internal/measurement/z1;-><init>(Lcom/google/android/gms/internal/measurement/g2;Ljava/lang/String;Ljava/lang/Object;Z)V = fb5514
+b29e6a69: Address - Lcom/google/android/gms/internal/measurement/z1;-><init>(Lcom/google/android/gms/internal/measurement/g2;Ljava/lang/String;Ljava/lang/Object;Z)V@10	 lastOffset = 30
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Lcom/google/android/gms/internal/measurement/a2;->a(Ljava/lang/String;)Landroid/net/Uri; = f8c13c
+b29e6a69: Address - Lcom/google/android/gms/internal/measurement/a2;->a(Ljava/lang/String;)Landroid/net/Uri;@16	 lastOffset = 6a
+b29e6a69: Instruction@@: IF_NEZ
+b29e6a69: First address of Lcom/google/android/gms/measurement/internal/q3;->a(Ljava/lang/Object;)Ljava/lang/Object; = ffc750
+b29e6a69: Address - Lcom/google/android/gms/measurement/internal/q3;->a(Ljava/lang/Object;)Ljava/lang/Object;@80	 lastOffset = e6
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Lcom/google/android/gms/internal/measurement/y1;->b(Landroid/content/Context;)Lcom/google/android/gms/internal/measurement/n2; = fb3508
+b29e6a69: Address - Lcom/google/android/gms/internal/measurement/y1;->b(Landroid/content/Context;)Lcom/google/android/gms/internal/measurement/n2;@26	 lastOffset = ba
+b29e6a69: Instruction@@: IF_NEZ
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample77.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/signed_sample77.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample77@devRoot-D-R.obfuscated_flattened.ilog)
+b29e6a69: Running Application: com.enthralltech.keventers
+b29e6a69: Running is done - starting comparing... : 10001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.enthralltech.keventers/com.enthralltech.empoweredtls.view.WelcomeActivity
+PIDs--------------------------------------------------------------------------
+u0_a4001      27454    425 14833672 146836 0                  0 S com.enthralltech.keventers
+b29e6a69: savedPid = 27454
+PIDs--------------------------------------------------------------------------
+u0_a4001      27454    425 14833672 146836 0                  0 S com.enthralltech.keventers
+b29e6a69: savedPid2 = 27454
+Stopping app: com.enthralltech.keventers
+Tryging remove : uninstall com.enthralltech.keventers(com.enthralltech.keventers)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 26596874
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 21
+b29e6a69: isFailedToLaunch: com.enthralltech.keventers/com.enthralltech.empoweredtls.view.WelcomeActivity
+b29e6a69: 	--result: Good :)
+b29e6a69: isFailedToLaunch: com.enthralltech.keventers/com.enthralltech.empoweredtls.view.WelcomeActivity
+b29e6a69: 	--result: Good :)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample77@devRoot-D-R.obfuscated_flattened.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample77@devRoot-D-R.obfuscated_flattened.ilog)
+b29e6a69: adding filter -- f8c142
+b29e6a69: adding filter -- fb351e
+b29e6a69: adding filter -- 1007a5e
+b29e6a69: adding filter -- ffc7c0
+b29e6a69: adding filter -- fb5514
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: eeccbe
+-- current localPatchFilter: eec87e
+-- current localPatchFilter: eeccea
+-- current localPatchFilter: fb351e
+-- current localPatchFilter: f8c142
+-- current localPatchFilter: 1007a5e
+-- current localPatchFilter: fb5514
+-- current localPatchFilter: ffc7c0
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:ea914a		=(rels)=>		1
+[*] Unique action: 1:425048 : <<CALL>> : com.enthralltech.empoweredtls.view.LoginActivity/onCreate:(Landroid/os/Bundle;)V:ea914a  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:383201 : <<BRANCH>> : com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd06  =>  com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd0a
+java.net.URL/openConnection:()Ljava/net/URLConnection;:105e3e0		=(rels)=>		1
+[*] Unique action: 18:1036097 : <<CALL>> : com.google.firebase.installations.q.c/k:(Ljava/net/URL;Ljava/lang/String;)Ljava/net/HttpURLConnection;:105e3e0  =>  java.net.URL/openConnection:()Ljava/net/URLConnection;:12417c
+java.net.URL/openConnection:()Ljava/net/URLConnection;:105e3e0		=(rels)=>		0
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1031f48		=(rels)=>		1
+[*] Unique action: 1:400694 : <<CALL>> : com.google.android.material.textfield.TextInputLayout/O:(Lcom/google/android/material/internal/CheckableImageButton;Landroid/view/View$OnClickListener;Landroid/view/View$OnLongClickListener;)V:1031f48  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:383201 : <<BRANCH>> : com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd06  =>  com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd0a
+android.view.ViewGroup/addView:(Landroid/view/View;)V:1031ac8		=(rels)=>		1
+[*] Unique action: 1:401842 : <<CALL>> : com.google.android.material.textfield.TextInputLayout/<init>:(Landroid/content/Context;Landroid/util/AttributeSet;I)V:1031ac8  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:383201 : <<BRANCH>> : com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd06  =>  com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd0a
+android.view.ViewGroup/addView:(Landroid/view/View;)V:10318e8		=(rels)=>		1
+[*] Unique action: 1:400660 : <<CALL>> : com.google.android.material.textfield.TextInputLayout/<init>:(Landroid/content/Context;Landroid/util/AttributeSet;I)V:10318e8  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:383201 : <<BRANCH>> : com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd06  =>  com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd0a
+android.view.ViewGroup/addView:(Landroid/view/View;)V:10313ec		=(rels)=>		1
+[*] Unique action: 1:397042 : <<CALL>> : com.google.android.material.textfield.TextInputLayout/<init>:(Landroid/content/Context;Landroid/util/AttributeSet;I)V:10313ec  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:383201 : <<BRANCH>> : com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd06  =>  com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd0a
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:10331b2		=(rels)=>		1
+[*] Unique action: 1:405944 : <<CALL>> : com.google.android.material.textfield.TextInputLayout/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:10331b2  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+	1:compareBackwardBranch: 1:383201 : <<BRANCH>> : com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd06  =>  com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd0a
+android.view.ViewGroup/addView:(Landroid/view/View;)V:1031790		=(rels)=>		1
+[*] Unique action: 1:399722 : <<CALL>> : com.google.android.material.textfield.TextInputLayout/<init>:(Landroid/content/Context;Landroid/util/AttributeSet;I)V:1031790  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:383201 : <<BRANCH>> : com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd06  =>  com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd0a
+android.widget.EditText/getText:()Landroid/text/Editable;:bc8928		=(rels)=>		1
+[*] Unique action: 1:392819 : <<CALL>> : androidx.appcompat.widget.AppCompatEditText/getText:()Landroid/text/Editable;:bc8928  =>  android.widget.EditText/getText:()Landroid/text/Editable;:2330f8
+	1:compareBackwardBranch: 1:383201 : <<BRANCH>> : com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd06  =>  com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd0a
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:ea925c		=(rels)=>		1
+[*] Unique action: 1:429777 : <<CALL>> : com.enthralltech.empoweredtls.view.LoginActivity/onCreate:(Landroid/os/Bundle;)V:ea925c  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:383201 : <<BRANCH>> : com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd06  =>  com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd0a
+android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:10331d4		=(rels)=>		1
+[*] Unique action: 1:396958 : <<CALL>> : com.google.android.material.textfield.TextInputLayout/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:10331d4  =>  android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:1959fc
+	1:compareBackwardBranch: 1:383201 : <<BRANCH>> : com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd06  =>  com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd0a
+android.app.Activity/startActivity:(Landroid/content/Intent;)V:eeb676		=(rels)=>		1
+[*] Unique action: 1:383409 : <<CALL>> : com.enthralltech.empoweredtls.view.WelcomeActivity/b0:()V:eeb676  =>  android.app.Activity/startActivity:(Landroid/content/Intent;)V:19cda0
+	1:compareBackwardBranch: 1:383201 : <<BRANCH>> : com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd06  =>  com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd0a
+android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:feb3a6		=(rels)=>		0
+android.view.ViewGroup/addView:(Landroid/view/View;)V:10313b8		=(rels)=>		1
+[*] Unique action: 1:396952 : <<CALL>> : com.google.android.material.textfield.TextInputLayout/<init>:(Landroid/content/Context;Landroid/util/AttributeSet;I)V:10313b8  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:383201 : <<BRANCH>> : com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd06  =>  com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd0a
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:ea9696		=(rels)=>		1
+[*] Unique action: 1:430441 : <<CALL>> : com.enthralltech.empoweredtls.view.LoginActivity/onCreate:(Landroid/os/Bundle;)V:ea9696  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:383201 : <<BRANCH>> : com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd06  =>  com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd0a
+android.app.Dialog/show:()V:eecfce		=(rels)=>		1
+[*] Unique action: 1:109749 : <<CALL>> : com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecfce  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch2: 1:383201 : <<BRANCH>> : com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd06  =>  com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd0a
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:d43546		=(rels)=>		1
+[*] Unique action: 1:113426 : <<CALL>> : com.enthralltech.empoweredtls.dialog.CustomAlertDialog/d:()V:d43546  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch2: 1:383201 : <<BRANCH>> : com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd06  =>  com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd0a
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:d435a0		=(rels)=>		1
+[*] Unique action: 1:113448 : <<CALL>> : com.enthralltech.empoweredtls.dialog.CustomAlertDialog/d:()V:d435a0  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch2: 1:383201 : <<BRANCH>> : com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd06  =>  com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd0a
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:d42e40		=(rels)=>		1
+[*] Unique action: 1:113591 : <<CALL>> : com.enthralltech.empoweredtls.dialog.CustomAlertDialog/c:()V:d42e40  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch2: 1:383201 : <<BRANCH>> : com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd06  =>  com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd0a
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:d4369c		=(rels)=>		1
+[*] Unique action: 1:113502 : <<CALL>> : com.enthralltech.empoweredtls.dialog.CustomAlertDialog/d:()V:d4369c  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch2: 1:383201 : <<BRANCH>> : com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd06  =>  com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V:eecd0a
+Entry: eec444
+com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V: eecd06 -> eecd0a
+		com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V: 8c2 -> 8c6
+addPatchReadme: java.lang.Class<com.enthralltech.empoweredtls.view.WelcomeActivity>onCreate(Landroid/os/Bundle;)V 8c2 f
+b29e6a69: [+] Patches found in this round: 1
+b29e6a69: [*] Found Patch size: 1
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample77@devRoot-D-R.obfuscated_flattened.ilog)
+b29e6a69: @@localPatchFilter -- eeccce
+b29e6a69: @@localPatchFilter -- eec88e
+b29e6a69: @@localPatchFilter -- eeccfa
+b29e6a69: @@localPatchFilter -- fb352e
+b29e6a69: @@localPatchFilter -- f8c152
+b29e6a69: @@localPatchFilter -- 1007a6e
+b29e6a69: @@localPatchFilter -- fb5524
+b29e6a69: @@localPatchFilter -- ffc7d0
+b29e6a69: 	@@@Found patch addr: eecd16
+b29e6a69: Querying offset: eecd06
+b29e6a69: 	--Add method name to patch = com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V 	eecd06
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: patching method: com.google.android.gms.measurement.internal.c5/run:()V
+b29e6a69: patching method: com.google.android.gms.internal.measurement.q2/a:()Ljava/lang/Object;
+b29e6a69: patching method: com.google.android.gms.measurement.internal.x3/B:(IZZLjava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V
+b29e6a69: patching method: androidx.lifecycle.j/q:()V
+b29e6a69: patching method: com.google.android.gms.internal.measurement.z1/<init>:(Lcom/google/android/gms/internal/measurement/g2;Ljava/lang/String;Ljava/lang/Object;Z)V
+b29e6a69: patching method: com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V
+b29e6a69: patching method: a.d.g/e:(Ljava/lang/Object;I)I
+b29e6a69: patching method: com.google.android.gms.internal.measurement.a2/a:(Ljava/lang/String;)Landroid/net/Uri;
+b29e6a69: patching method: com.google.android.gms.measurement.internal.q3/a:(Ljava/lang/Object;)Ljava/lang/Object;
+b29e6a69: patching method: com.google.android.gms.internal.measurement.y1/b:(Landroid/content/Context;)Lcom/google/android/gms/internal/measurement/n2;
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample77.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot
+Wow!!!!!  --  com.enthralltech.empoweredtls.view.WelcomeActivity/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 8c6
+branchTarget: 8c6
+NOP!
+Wow!!!!!  --  com.google.android.gms.internal.measurement.a2/a:(Ljava/lang/String;)Landroid/net/Uri;
+fallthrough: 1a
+branchTarget: 62
+label = cond_1
+GOTO -- 1a 	62
+Wow!!!!!  --  com.google.android.gms.internal.measurement.y1/b:(Landroid/content/Context;)Lcom/google/android/gms/internal/measurement/n2;
+fallthrough: 2a
+branchTarget: 2a
+NOP!
+Wow!!!!!  --  com.google.android.gms.internal.measurement.z1/<init>:(Lcom/google/android/gms/internal/measurement/g2;Ljava/lang/String;Ljava/lang/Object;Z)V
+fallthrough: 14
+branchTarget: 14
+NOP!
+Wow!!!!!  --  com.google.android.gms.measurement.internal.q3/a:(Ljava/lang/Object;)Ljava/lang/Object;
+fallthrough: 84
+branchTarget: 90
+label = cond_4
+GOTO -- 84 	90
+Wow!!!!!  --  com.google.android.gms.measurement.internal.x3/B:(IZZLjava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V
+fallthrough: 12
+branchTarget: 20
+label = cond_0
+GOTO -- 12 	20
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample77.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/sample77.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample77.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/signed_sample77.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+b29e6a69: First address of Lcom/google/android/gms/measurement/internal/x3;->B(IZZLjava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V = 1007a60
+b29e6a69: Address - Lcom/google/android/gms/measurement/internal/x3;->B(IZZLjava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V@e	 lastOffset = 96
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Lcom/google/android/gms/internal/measurement/z1;-><init>(Lcom/google/android/gms/internal/measurement/g2;Ljava/lang/String;Ljava/lang/Object;Z)V = fb5514
+b29e6a69: Address - Lcom/google/android/gms/internal/measurement/z1;-><init>(Lcom/google/android/gms/internal/measurement/g2;Ljava/lang/String;Ljava/lang/Object;Z)V@10	 lastOffset = 30
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Lcom/enthralltech/empoweredtls/view/WelcomeActivity;->onCreate(Landroid/os/Bundle;)V = eec454
+b29e6a69: Address - Lcom/enthralltech/empoweredtls/view/WelcomeActivity;->onCreate(Landroid/os/Bundle;)V@8c2	 lastOffset = 10ec
+b29e6a69: Instruction@@: IF_NEZ
+b29e6a69: First address of Lcom/google/android/gms/internal/measurement/a2;->a(Ljava/lang/String;)Landroid/net/Uri; = f8c13c
+b29e6a69: Address - Lcom/google/android/gms/internal/measurement/a2;->a(Ljava/lang/String;)Landroid/net/Uri;@16	 lastOffset = 6a
+b29e6a69: Instruction@@: IF_NEZ
+b29e6a69: First address of Lcom/google/android/gms/measurement/internal/q3;->a(Ljava/lang/Object;)Ljava/lang/Object; = ffc750
+b29e6a69: Address - Lcom/google/android/gms/measurement/internal/q3;->a(Ljava/lang/Object;)Ljava/lang/Object;@80	 lastOffset = e6
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Lcom/google/android/gms/internal/measurement/y1;->b(Landroid/content/Context;)Lcom/google/android/gms/internal/measurement/n2; = fb3508
+b29e6a69: Address - Lcom/google/android/gms/internal/measurement/y1;->b(Landroid/content/Context;)Lcom/google/android/gms/internal/measurement/n2;@26	 lastOffset = ba
+b29e6a69: Instruction@@: IF_NEZ
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample77.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/signed_sample77.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample77@devRoot-D-R.obfuscated_flattened.ilog)
+b29e6a69: Running Application: com.enthralltech.keventers
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.enthralltech.keventers/com.enthralltech.empoweredtls.view.LoginActivity
+PIDs--------------------------------------------------------------------------
+u0_a4002      27556    425 14811120 157560 0                  0 S com.enthralltech.keventers
+b29e6a69: savedPid = 27556
+PIDs--------------------------------------------------------------------------
+u0_a4002      27556    425 14811120 157560 0                  0 S com.enthralltech.keventers
+b29e6a69: savedPid2 = 27556
+Stopping app: com.enthralltech.keventers
+Tryging remove : uninstall com.enthralltech.keventers(com.enthralltech.keventers)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 56799433
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 20
+b29e6a69: isFailedToLaunch: com.enthralltech.keventers/com.enthralltech.empoweredtls.view.LoginActivity
+b29e6a69: 	--result: Good :)
+b29e6a69: isFailedToLaunch: com.enthralltech.keventers/com.enthralltech.empoweredtls.view.LoginActivity
+b29e6a69: 	--result: Good :)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample77@devRoot-D-R.obfuscated_flattened.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample77@devRoot-D-R.obfuscated_flattened.ilog)
+b29e6a69: adding filter -- eecd06
+b29e6a69: adding filter -- f8c142
+b29e6a69: adding filter -- fb351e
+b29e6a69: adding filter -- 1007a5e
+b29e6a69: adding filter -- ffc7c0
+b29e6a69: adding filter -- fb5514
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: eeccbe
+-- current localPatchFilter: eec87e
+-- current localPatchFilter: eeccea
+-- current localPatchFilter: fb351e
+-- current localPatchFilter: eecd06
+-- current localPatchFilter: f8c142
+-- current localPatchFilter: 1007a5e
+-- current localPatchFilter: fb5514
+-- current localPatchFilter: ffc7c0
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:feb3a6		=(rels)=>		0
+Action is completely same :)
+Action is completely same :)
+b29e6a69: There is no difference. (tryAgain=false)
+-- HPFinder will be done in this iteration :)
+hasAntiAnalysis? - devTamper: true on com.enthralltech.empoweredtls.view.WelcomeActivity
+	isRemovedThem? - devTamper: true on com.enthralltech.empoweredtls.view.WelcomeActivity	-	tryCount: 2
+hasAntiAnalysis? - devRoot: true on com.enthralltech.empoweredtls.view.WelcomeActivity
+	isRemovedThem? - devRoot: true on com.enthralltech.empoweredtls.view.WelcomeActivity	-	tryCount: 9
+hasAntiAnalysis? - devDebug: false on com.enthralltech.empoweredtls.view.WelcomeActivity
+*****REPORT: com.enthralltech.keventers
+* Package name: com.enthralltech.keventers
+* Running time: 1647
+* FileSize: 32820775
+devTamper : 68361514
+devRef : 256800366
+devRoot : 56799433
+devDebug : 259266935
+hasAntiAnalysis? - devTamper: true on com.enthralltech.empoweredtls.view.WelcomeActivity
+	isRemovedThem? - devTamper: true on com.enthralltech.empoweredtls.view.WelcomeActivity	-	tryCount: 2
+hasAntiAnalysis? - devRoot: true on com.enthralltech.empoweredtls.view.WelcomeActivity
+	isRemovedThem? - devRoot: true on com.enthralltech.empoweredtls.view.WelcomeActivity	-	tryCount: 9
+hasAntiAnalysis? - devDebug: false on com.enthralltech.empoweredtls.view.WelcomeActivity
+46604b9f: trying remove : com.enthralltech.keventers
+3601a6ff: trying remove : com.enthralltech.keventers
+b29e6a69: trying remove : com.enthralltech.keventers
+159ceeed: trying remove : com.enthralltech.keventers
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+159ceeed: result = true
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+3601a6ff: result = true
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+46604b9f: result = true
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+b29e6a69: result = true
+3601a6ff: isFailedToLaunch: com.enthralltech.keventers/com.enthralltech.empoweredtls.view.LoginActivity
+3601a6ff: 	--result: Good :)

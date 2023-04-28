@@ -1,0 +1,704 @@
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample82.apk@devRoot-D-R.apk.obfuscated/AndroidManifest.xml
+launchable-activity: name='com.nsek.mobile.IntroActivity'  label='뉴스킨몰' icon=''
+{ACTIVITY, com.nsek.mobile.IntroActivity, android.intent.action.MAIN}
+{ACTIVITY, com.nsek.mobile.MainActivity, android.intent.action.VIEW}
+{ACTIVITY, com.nsek.mobile.DownloadAppActivity}
+{ACTIVITY, com.nsek.mobile.WebActivity}
+{ACTIVITY, com.nsek.mobile.BarcodeCaptureActivity}
+{RECEIVER, com.google.android.gms.analytics.AnalyticsReceiver, com.google.android.gms.analytics.ANALYTICS_DISPATCH}
+{SERVICE, com.google.android.gms.analytics.AnalyticsService}
+{RECEIVER, com.google.android.gms.analytics.CampaignTrackingReceiver, com.android.vending.INSTALL_REFERRER}
+{SERVICE, com.google.android.gms.analytics.CampaignTrackingService}
+{ACTIVITY, com.nsek.mobile.IntroActivity, android.intent.action.MAIN}
+{ACTIVITY, com.nsek.mobile.MainActivity, android.intent.action.VIEW}
+{ACTIVITY, com.nsek.mobile.DownloadAppActivity}
+{ACTIVITY, com.nsek.mobile.WebActivity}
+{ACTIVITY, com.nsek.mobile.BarcodeCaptureActivity}
+{RECEIVER, com.google.android.gms.analytics.AnalyticsReceiver, com.google.android.gms.analytics.ANALYTICS_DISPATCH}
+{SERVICE, com.google.android.gms.analytics.AnalyticsService}
+{RECEIVER, com.google.android.gms.analytics.CampaignTrackingReceiver, com.android.vending.INSTALL_REFERRER}
+{SERVICE, com.google.android.gms.analytics.CampaignTrackingService}
+_getAllDexFiles: /home/santapark/Extended3/DEEPerence/reEx/sample82.apk@devRoot-D-R.apk.obfuscated/classes.dex
+----------------/home/santapark/Extended3/DEEPerence/reEx/sample82.apk@devRoot-D-R.apk.obfuscated.apk
+dexFile = org.jf.dexlib2.dexbacked.DexBackedDexFile@242aa8d9
+com.nsek.mobile
+com.nsek.mobile.IntroActivity
+debuggable: true
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample82.apk@devRoot-D-R.apk.obfuscated.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample82.apk@devRoot-D-R.apk.obfuscated.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample82.apk@devRoot-D-R.apk.obfuscated.apk
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample82.apk@devRoot-D-R.apk.obfuscated_46604b9f/sample82.apk@devRoot-D-R.apk.obfuscated.apk
+3601a6ff: Installation Success
+159ceeed: Installation Success
+b29e6a69: Installation Success
+46604b9f: Installing repackaged apk File: 
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample82.apk@devRoot-D-R.apk.obfuscated_46604b9f/signed_sample82.apk@devRoot-D-R.apk.obfuscated.apk
+46604b9f: Installation Success
+46604b9f: startApplication called! - devTamper
+3601a6ff: startApplication called! - devRef
+b29e6a69: startApplication called! - devRoot
+159ceeed: startApplication called! - devDebug
+46604b9f: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devTamper_sample82@devRoot-D-R.obfuscated.ilog)
+46604b9f: Running Application: com.nsek.mobile
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample82@devRoot-D-R.obfuscated.ilog)
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample82@devRoot-D-R.obfuscated.ilog)
+3601a6ff: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample82@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Running Application: com.nsek.mobile
+3601a6ff: Running Application: com.nsek.mobile
+PIDs--------------------------------------------------------------------------
+u0_a370       25386    423 14426992 105648 0                  0 R com.nsek.mobile
+forward tcp:35535 jdwp:25386
+[*]Found JDWP Target: 25386
+159ceeed: Running Application: com.nsek.mobile
+b29e6a69: Running is done - starting comparing... : 10001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.nsek.mobile/.IntroActivity
+PIDs--------------------------------------------------------------------------
+u0_a157        7836    427 14910136 139812 0                  0 S com.nsek.mobile
+b29e6a69: savedPid = 7836
+PIDs--------------------------------------------------------------------------
+u0_a157        7836    427 14910136 139812 0                  0 S com.nsek.mobile
+b29e6a69: savedPid2 = 7836
+Stopping app: com.nsek.mobile
+PIDs--------------------------------------------------------------------------
+u0_a370       25386    423 14551736 137428 0                  0 S com.nsek.mobile
+159ceeed: Tryging attach jdb to 25386
+jdb -connect com.sun.jdi.SocketAttach:hostname=localhost,port=35535
+Tryging remove : uninstall com.nsek.mobile(com.nsek.mobile)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 2264454
+b29e6a69: End of collecting logcat...
+46604b9f: Terminated logcat thread...by itself
+3601a6ff: Terminated logcat thread...by itself
+46604b9f: Top-activity: com.nsek.mobile/.IntroActivity
+PIDs--------------------------------------------------------------------------
+u0_a111        4484    425 14694740 152056 0                  0 S com.nsek.mobile
+46604b9f: savedPid = 4484
+3601a6ff: Top-activity: com.nsek.mobile/.IntroActivity
+PIDs--------------------------------------------------------------------------
+u0_a111        4484    425 14694740 152056 0                  0 S com.nsek.mobile
+46604b9f: savedPid2 = 4484
+Stopping app: com.nsek.mobile
+PIDs--------------------------------------------------------------------------
+u0_a191        4334    411 14727500 151560 0                  0 S com.nsek.mobile
+3601a6ff: savedPid = 4334
+PIDs--------------------------------------------------------------------------
+u0_a191        4334    411 14727500 151560 0                  0 S com.nsek.mobile
+3601a6ff: savedPid2 = 4334
+Stopping app: com.nsek.mobile
+Tryging remove : uninstall com.nsek.mobile(com.nsek.mobile)
+3601a6ff: Remove Success
+3601a6ff: ilog file size: 351890459
+3601a6ff: End of collecting logcat...
+Tryging remove : uninstall com.nsek.mobile(com.nsek.mobile)
+46604b9f: Remove Success
+46604b9f: ilog file size: 374483423
+46604b9f: End of collecting logcat...
+159ceeed: Terminated logcat thread...by itself
+159ceeed: Top-activity: com.nsek.mobile/.IntroActivity
+PIDs--------------------------------------------------------------------------
+u0_a370       25386    423 14634004 167328 0                  0 S com.nsek.mobile
+159ceeed: savedPid = 25386
+PIDs--------------------------------------------------------------------------
+u0_a370       25386    423 14634004 167328 0                  0 S com.nsek.mobile
+159ceeed: savedPid2 = 25386
+Stopping app: com.nsek.mobile
+Tryging remove : uninstall com.nsek.mobile(com.nsek.mobile)
+159ceeed: Remove Success
+159ceeed: ilog file size: 409610101
+159ceeed: End of collecting logcat...
+HPFinder's try count remains: 29
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample82@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample82@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample82@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample82@devRoot-D-R.obfuscated.ilog)
+[*] FlowManager: adjust finished.
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:a410a2		=(rels)=>		1
+[*] Unique action: 1:2046 : <<CALL>> : com.nsek.mobile.app.b/a:()V:a410a2  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+	1:compareBackwardBranch: 1:1889 : <<BRANCH>> : com.nsek.mobile.IntroActivity/onCreate:(Landroid/os/Bundle;)V:9edc2c  =>  com.nsek.mobile.IntroActivity/onCreate:(Landroid/os/Bundle;)V:9edab0
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:a576c6		=(rels)=>		1
+[*] Unique action: 1:4027 : <<CALL>> : com.nsek.mobile.dialog.fragment.d/onCreateView:(Landroid/view/LayoutInflater;Landroid/view/ViewGroup;Landroid/os/Bundle;)Landroid/view/View;:a576c6  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch2: 1:11064 : <<BRANCH>> : com.nsek.mobile.app.BaseFragmentActivity/r:()Z:a3ffea  =>  com.nsek.mobile.app.BaseFragmentActivity/r:()Z:a3fff2
+android.app.Dialog/show:()V:79562c		=(rels)=>		1
+[*] Unique action: 1:4562 : <<CALL>> : android.support.v4.app.DialogFragment/scrgbGquWgmjDKkx:(Landroid/app/Dialog;)V:79562c  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch2: 1:11064 : <<BRANCH>> : com.nsek.mobile.app.BaseFragmentActivity/r:()Z:a3ffea  =>  com.nsek.mobile.app.BaseFragmentActivity/r:()Z:a3fff2
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:a5766e		=(rels)=>		1
+[*] Unique action: 1:3929 : <<CALL>> : com.nsek.mobile.dialog.fragment.d/onCreateView:(Landroid/view/LayoutInflater;Landroid/view/ViewGroup;Landroid/os/Bundle;)Landroid/view/View;:a5766e  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch2: 1:11064 : <<BRANCH>> : com.nsek.mobile.app.BaseFragmentActivity/r:()Z:a3ffea  =>  com.nsek.mobile.app.BaseFragmentActivity/r:()Z:a3fff2
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:a5168a		=(rels)=>		1
+[*] Unique action: 1:3903 : <<CALL>> : com.nsek.mobile.dialog.fragment.a/a:(Landroid/widget/Button;Ljava/lang/String;)V:a5168a  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch2: 1:11064 : <<BRANCH>> : com.nsek.mobile.app.BaseFragmentActivity/r:()Z:a3ffea  =>  com.nsek.mobile.app.BaseFragmentActivity/r:()Z:a3fff2
+Entry: a3fed0
+com.nsek.mobile.app.BaseFragmentActivity/r:()Z: a3ffea -> a3fff2
+		com.nsek.mobile.app.BaseFragmentActivity/r:()Z: 11a -> 122
+addPatchReadme: java.lang.Class<com.nsek.mobile.app.BaseFragmentActivity>r()Z 11a t
+Entry: 9eda8c
+com.nsek.mobile.IntroActivity/onCreate:(Landroid/os/Bundle;)V: 9edc2c -> 9edab0
+		com.nsek.mobile.IntroActivity/onCreate:(Landroid/os/Bundle;)V: 1a0 -> 24
+addPatchReadme: java.lang.Class<com.nsek.mobile.IntroActivity>onCreate(Landroid/os/Bundle;)V 1a0 t
+b29e6a69: [+] Patches found in this round: 2
+b29e6a69: [*] Found Patch size: 1
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample82@devRoot-D-R.obfuscated.ilog)
+b29e6a69: 	@@@Found patch addr: 9edc3c
+b29e6a69: Querying offset: 9edc2c
+b29e6a69: 	--Add method name to patch = com.nsek.mobile.IntroActivity/onCreate:(Landroid/os/Bundle;)V 	9edc2c
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devTamper_sample82@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample82@devRoot-D-R.obfuscated.ilog)
+[*] FlowManager: adjust finished.
+Action is completely same :)
+Action is completely same :)
+46604b9f: There is no difference. (tryAgain=false)
+[*] FlowManager: adjust finished.
+Action is completely same :)
+Action is completely same :)
+159ceeed: There is no difference. (tryAgain=false)
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: patching method: com.nsek.mobile.IntroActivity/onCreate:(Landroid/os/Bundle;)V
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample82.apk@devRoot-D-R.apk.obfuscated_devRoot
+Wow!!!!!  --  com.nsek.mobile.IntroActivity/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 1a6
+branchTarget: 24
+label = sswitch_data_6
+GOTO -- 1a6 	24
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample82.apk@devRoot-D-R.apk.obfuscated_devRoot/sample82.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample82.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample82.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: First address of Lcom/nsek/mobile/IntroActivity;->onCreate(Landroid/os/Bundle;)V = 9eda9c
+b29e6a69: Address - Lcom/nsek/mobile/IntroActivity;->onCreate(Landroid/os/Bundle;)V@1a0	 lastOffset = b70
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample82.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample82.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample82@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Running Application: com.nsek.mobile
+b29e6a69: Running is done - starting comparing... : 10001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+b29e6a69: savedPid = null
+PIDs--------------------------------------------------------------------------
+b29e6a69: savedPid2 = null
+Stopping app: com.nsek.mobile
+Tryging remove : uninstall com.nsek.mobile(com.nsek.mobile)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 215448
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 28
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample82@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 5 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample82@devRoot-D-R.obfuscated.ilog)
+b29e6a69: /home/santapark/Extended3/DEEPerence/reEx/sample82.apk@devRoot-D-R.apk.obfuscated.apk launch is failed on devRoot
+b29e6a69: Failed Patch: 9edc3c
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 9edc2c
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:a410a2		=(rels)=>		1
+[*] Unique action: 1:2046 : <<CALL>> : com.nsek.mobile.app.b/a:()V:a410a2  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+	1:compareBackwardBranch: 1:1886 : <<BRANCH>> : com.nsek.mobile.IntroActivity/onCreate:(Landroid/os/Bundle;)V:9edc70  =>  com.nsek.mobile.IntroActivity/onCreate:(Landroid/os/Bundle;)V:9edc52
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:a576c6		=(rels)=>		1
+[*] Unique action: 1:4027 : <<CALL>> : com.nsek.mobile.dialog.fragment.d/onCreateView:(Landroid/view/LayoutInflater;Landroid/view/ViewGroup;Landroid/os/Bundle;)Landroid/view/View;:a576c6  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch2: 1:11064 : <<BRANCH>> : com.nsek.mobile.app.BaseFragmentActivity/r:()Z:a3ffea  =>  com.nsek.mobile.app.BaseFragmentActivity/r:()Z:a3fff2
+android.app.Dialog/show:()V:79562c		=(rels)=>		1
+[*] Unique action: 1:4562 : <<CALL>> : android.support.v4.app.DialogFragment/scrgbGquWgmjDKkx:(Landroid/app/Dialog;)V:79562c  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch2: 1:11064 : <<BRANCH>> : com.nsek.mobile.app.BaseFragmentActivity/r:()Z:a3ffea  =>  com.nsek.mobile.app.BaseFragmentActivity/r:()Z:a3fff2
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:a5766e		=(rels)=>		1
+[*] Unique action: 1:3929 : <<CALL>> : com.nsek.mobile.dialog.fragment.d/onCreateView:(Landroid/view/LayoutInflater;Landroid/view/ViewGroup;Landroid/os/Bundle;)Landroid/view/View;:a5766e  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch2: 1:11064 : <<BRANCH>> : com.nsek.mobile.app.BaseFragmentActivity/r:()Z:a3ffea  =>  com.nsek.mobile.app.BaseFragmentActivity/r:()Z:a3fff2
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:a5168a		=(rels)=>		1
+[*] Unique action: 1:3903 : <<CALL>> : com.nsek.mobile.dialog.fragment.a/a:(Landroid/widget/Button;Ljava/lang/String;)V:a5168a  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch2: 1:11064 : <<BRANCH>> : com.nsek.mobile.app.BaseFragmentActivity/r:()Z:a3ffea  =>  com.nsek.mobile.app.BaseFragmentActivity/r:()Z:a3fff2
+Entry: a3fed0
+com.nsek.mobile.app.BaseFragmentActivity/r:()Z: a3ffea -> a3fff2
+		com.nsek.mobile.app.BaseFragmentActivity/r:()Z: 11a -> 122
+addPatchReadme: java.lang.Class<com.nsek.mobile.app.BaseFragmentActivity>r()Z 11a t
+Entry: 9eda8c
+com.nsek.mobile.IntroActivity/onCreate:(Landroid/os/Bundle;)V: 9edc70 -> 9edc52
+		com.nsek.mobile.IntroActivity/onCreate:(Landroid/os/Bundle;)V: 1e4 -> 1c6
+addPatchReadme: java.lang.Class<com.nsek.mobile.IntroActivity>onCreate(Landroid/os/Bundle;)V 1e4 t
+b29e6a69: [+] Patches found in this round: 2
+b29e6a69: [*] Found Patch size: 1
+ExitReason-Code: 5 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample82@devRoot-D-R.obfuscated.ilog)
+b29e6a69: @@localPatchFilter -- 9edc3c
+b29e6a69: 	@@@Found patch addr: 9edc80
+b29e6a69: Querying offset: 9edc70
+b29e6a69: 	--Add method name to patch = com.nsek.mobile.IntroActivity/onCreate:(Landroid/os/Bundle;)V 	9edc70
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: patching method: com.nsek.mobile.app.BaseFragmentActivity/r:()Z
+b29e6a69: patching method: com.nsek.mobile.IntroActivity/onCreate:(Landroid/os/Bundle;)V
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample82.apk@devRoot-D-R.apk.obfuscated_devRoot
+Wow!!!!!  --  com.nsek.mobile.IntroActivity/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 1ea
+branchTarget: 1c6
+label = sswitch_data_7
+GOTO -- 1ea 	1c6
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample82.apk@devRoot-D-R.apk.obfuscated_devRoot/sample82.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample82.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample82.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: First address of Lcom/nsek/mobile/IntroActivity;->onCreate(Landroid/os/Bundle;)V = 9eda9c
+b29e6a69: Address - Lcom/nsek/mobile/IntroActivity;->onCreate(Landroid/os/Bundle;)V@1e4	 lastOffset = b70
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample82.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample82.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample82@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Running Application: com.nsek.mobile
+b29e6a69: Running is done - starting comparing... : 10001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+b29e6a69: savedPid = null
+PIDs--------------------------------------------------------------------------
+b29e6a69: savedPid2 = null
+Stopping app: com.nsek.mobile
+Tryging remove : uninstall com.nsek.mobile(com.nsek.mobile)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 216067
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 27
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample82@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 5 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample82@devRoot-D-R.obfuscated.ilog)
+b29e6a69: /home/santapark/Extended3/DEEPerence/reEx/sample82.apk@devRoot-D-R.apk.obfuscated.apk launch is failed on devRoot
+b29e6a69: Failed Patch: 9edc80
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 9edc2c
+-- current localPatchFilter: 9edc70
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:a410a2		=(rels)=>		1
+[*] Unique action: 1:2046 : <<CALL>> : com.nsek.mobile.app.b/a:()V:a410a2  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+	1:compareBackwardBranch: 1:1883 : <<BRANCH>> : com.nsek.mobile.IntroActivity/onCreate:(Landroid/os/Bundle;)V:9edc8e  =>  com.nsek.mobile.IntroActivity/onCreate:(Landroid/os/Bundle;)V:9edc96
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:a576c6		=(rels)=>		1
+[*] Unique action: 1:4027 : <<CALL>> : com.nsek.mobile.dialog.fragment.d/onCreateView:(Landroid/view/LayoutInflater;Landroid/view/ViewGroup;Landroid/os/Bundle;)Landroid/view/View;:a576c6  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch2: 1:11064 : <<BRANCH>> : com.nsek.mobile.app.BaseFragmentActivity/r:()Z:a3ffea  =>  com.nsek.mobile.app.BaseFragmentActivity/r:()Z:a3fff2
+android.app.Dialog/show:()V:79562c		=(rels)=>		1
+[*] Unique action: 1:4562 : <<CALL>> : android.support.v4.app.DialogFragment/scrgbGquWgmjDKkx:(Landroid/app/Dialog;)V:79562c  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch2: 1:11064 : <<BRANCH>> : com.nsek.mobile.app.BaseFragmentActivity/r:()Z:a3ffea  =>  com.nsek.mobile.app.BaseFragmentActivity/r:()Z:a3fff2
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:a5766e		=(rels)=>		1
+[*] Unique action: 1:3929 : <<CALL>> : com.nsek.mobile.dialog.fragment.d/onCreateView:(Landroid/view/LayoutInflater;Landroid/view/ViewGroup;Landroid/os/Bundle;)Landroid/view/View;:a5766e  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch2: 1:11064 : <<BRANCH>> : com.nsek.mobile.app.BaseFragmentActivity/r:()Z:a3ffea  =>  com.nsek.mobile.app.BaseFragmentActivity/r:()Z:a3fff2
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:a5168a		=(rels)=>		1
+[*] Unique action: 1:3903 : <<CALL>> : com.nsek.mobile.dialog.fragment.a/a:(Landroid/widget/Button;Ljava/lang/String;)V:a5168a  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch2: 1:11064 : <<BRANCH>> : com.nsek.mobile.app.BaseFragmentActivity/r:()Z:a3ffea  =>  com.nsek.mobile.app.BaseFragmentActivity/r:()Z:a3fff2
+Entry: 9eda8c
+com.nsek.mobile.IntroActivity/onCreate:(Landroid/os/Bundle;)V: 9edc8e -> 9edc96
+		com.nsek.mobile.IntroActivity/onCreate:(Landroid/os/Bundle;)V: 202 -> 20a
+addPatchReadme: java.lang.Class<com.nsek.mobile.IntroActivity>onCreate(Landroid/os/Bundle;)V 202 t
+Entry: a3fed0
+com.nsek.mobile.app.BaseFragmentActivity/r:()Z: a3ffea -> a3fff2
+		com.nsek.mobile.app.BaseFragmentActivity/r:()Z: 11a -> 122
+addPatchReadme: java.lang.Class<com.nsek.mobile.app.BaseFragmentActivity>r()Z 11a t
+b29e6a69: [+] Patches found in this round: 2
+b29e6a69: [*] Found Patch size: 1
+ExitReason-Code: 5 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample82@devRoot-D-R.obfuscated.ilog)
+b29e6a69: @@localPatchFilter -- 9edc3c
+b29e6a69: @@localPatchFilter -- 9edc80
+b29e6a69: 	@@@Found patch addr: a3fffa
+b29e6a69: Querying offset: a3ffea
+b29e6a69: 	--Add method name to patch = com.nsek.mobile.app.BaseFragmentActivity/r:()Z 	a3ffea
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: patching method: com.nsek.mobile.app.BaseFragmentActivity/r:()Z
+b29e6a69: patching method: com.nsek.mobile.IntroActivity/onCreate:(Landroid/os/Bundle;)V
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample82.apk@devRoot-D-R.apk.obfuscated_devRoot
+Wow!!!!!  --  com.nsek.mobile.app.BaseFragmentActivity/r:()Z
+fallthrough: 120
+branchTarget: 122
+label = sswitch_data_4
+GOTO -- 120 	122
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample82.apk@devRoot-D-R.apk.obfuscated_devRoot/sample82.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample82.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample82.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: First address of Lcom/nsek/mobile/app/BaseFragmentActivity;->r()Z = a3fee0
+b29e6a69: Address - Lcom/nsek/mobile/app/BaseFragmentActivity;->r()Z@11a	 lastOffset = 308
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample82.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample82.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample82@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Running Application: com.nsek.mobile
+b29e6a69: Running is done - starting comparing... : 10001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+b29e6a69: savedPid = null
+PIDs--------------------------------------------------------------------------
+b29e6a69: savedPid2 = null
+Stopping app: com.nsek.mobile
+Tryging remove : uninstall com.nsek.mobile(com.nsek.mobile)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 215448
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 26
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample82@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 5 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample82@devRoot-D-R.obfuscated.ilog)
+b29e6a69: /home/santapark/Extended3/DEEPerence/reEx/sample82.apk@devRoot-D-R.apk.obfuscated.apk launch is failed on devRoot
+b29e6a69: Failed Patch: a3fffa
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 9edc2c
+-- current localPatchFilter: a3ffea
+-- current localPatchFilter: 9edc70
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:a410a2		=(rels)=>		1
+[*] Unique action: 1:2046 : <<CALL>> : com.nsek.mobile.app.b/a:()V:a410a2  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+	1:compareBackwardBranch: 1:1883 : <<BRANCH>> : com.nsek.mobile.IntroActivity/onCreate:(Landroid/os/Bundle;)V:9edc8e  =>  com.nsek.mobile.IntroActivity/onCreate:(Landroid/os/Bundle;)V:9edc96
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:a576c6		=(rels)=>		1
+[*] Unique action: 1:4027 : <<CALL>> : com.nsek.mobile.dialog.fragment.d/onCreateView:(Landroid/view/LayoutInflater;Landroid/view/ViewGroup;Landroid/os/Bundle;)Landroid/view/View;:a576c6  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch2: 1:11068 : <<BRANCH>> : com.nsek.mobile.app.BaseFragmentActivity/r:()Z:a40008  =>  com.nsek.mobile.app.BaseFragmentActivity/r:()Z:a40026
+android.app.Dialog/show:()V:79562c		=(rels)=>		1
+[*] Unique action: 1:4562 : <<CALL>> : android.support.v4.app.DialogFragment/scrgbGquWgmjDKkx:(Landroid/app/Dialog;)V:79562c  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch2: 1:11068 : <<BRANCH>> : com.nsek.mobile.app.BaseFragmentActivity/r:()Z:a40008  =>  com.nsek.mobile.app.BaseFragmentActivity/r:()Z:a40026
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:a5766e		=(rels)=>		1
+[*] Unique action: 1:3929 : <<CALL>> : com.nsek.mobile.dialog.fragment.d/onCreateView:(Landroid/view/LayoutInflater;Landroid/view/ViewGroup;Landroid/os/Bundle;)Landroid/view/View;:a5766e  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch2: 1:11068 : <<BRANCH>> : com.nsek.mobile.app.BaseFragmentActivity/r:()Z:a40008  =>  com.nsek.mobile.app.BaseFragmentActivity/r:()Z:a40026
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:a5168a		=(rels)=>		1
+[*] Unique action: 1:3903 : <<CALL>> : com.nsek.mobile.dialog.fragment.a/a:(Landroid/widget/Button;Ljava/lang/String;)V:a5168a  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch2: 1:11068 : <<BRANCH>> : com.nsek.mobile.app.BaseFragmentActivity/r:()Z:a40008  =>  com.nsek.mobile.app.BaseFragmentActivity/r:()Z:a40026
+Entry: 9eda8c
+com.nsek.mobile.IntroActivity/onCreate:(Landroid/os/Bundle;)V: 9edc8e -> 9edc96
+		com.nsek.mobile.IntroActivity/onCreate:(Landroid/os/Bundle;)V: 202 -> 20a
+addPatchReadme: java.lang.Class<com.nsek.mobile.IntroActivity>onCreate(Landroid/os/Bundle;)V 202 t
+Entry: a3fed0
+com.nsek.mobile.app.BaseFragmentActivity/r:()Z: a40008 -> a40026
+		com.nsek.mobile.app.BaseFragmentActivity/r:()Z: 138 -> 156
+addPatchReadme: java.lang.Class<com.nsek.mobile.app.BaseFragmentActivity>r()Z 138 t
+b29e6a69: [+] Patches found in this round: 2
+b29e6a69: [*] Found Patch size: 1
+ExitReason-Code: 5 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample82@devRoot-D-R.obfuscated.ilog)
+b29e6a69: @@localPatchFilter -- 9edc3c
+b29e6a69: @@localPatchFilter -- a3fffa
+b29e6a69: @@localPatchFilter -- 9edc80
+b29e6a69: 	@@@Found patch addr: a40018
+b29e6a69: Querying offset: a40008
+b29e6a69: 	--Add method name to patch = com.nsek.mobile.app.BaseFragmentActivity/r:()Z 	a40008
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: patching method: com.nsek.mobile.app.BaseFragmentActivity/r:()Z
+b29e6a69: patching method: com.nsek.mobile.IntroActivity/onCreate:(Landroid/os/Bundle;)V
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample82.apk@devRoot-D-R.apk.obfuscated_devRoot
+Wow!!!!!  --  com.nsek.mobile.app.BaseFragmentActivity/r:()Z
+fallthrough: 13e
+branchTarget: 156
+label = sswitch_data_5
+GOTO -- 13e 	156
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample82.apk@devRoot-D-R.apk.obfuscated_devRoot/sample82.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample82.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample82.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: First address of Lcom/nsek/mobile/app/BaseFragmentActivity;->r()Z = a3fee0
+b29e6a69: Address - Lcom/nsek/mobile/app/BaseFragmentActivity;->r()Z@138	 lastOffset = 308
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample82.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample82.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample82@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Running Application: com.nsek.mobile
+b29e6a69: Running is done - starting comparing... : 10001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+b29e6a69: savedPid = null
+PIDs--------------------------------------------------------------------------
+b29e6a69: savedPid2 = null
+Stopping app: com.nsek.mobile
+Tryging remove : uninstall com.nsek.mobile(com.nsek.mobile)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 219554
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 25
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample82@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 5 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample82@devRoot-D-R.obfuscated.ilog)
+b29e6a69: /home/santapark/Extended3/DEEPerence/reEx/sample82.apk@devRoot-D-R.apk.obfuscated.apk launch is failed on devRoot
+b29e6a69: Failed Patch: a40018
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 9edc2c
+-- current localPatchFilter: a3ffea
+-- current localPatchFilter: a40008
+-- current localPatchFilter: 9edc70
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:a410a2		=(rels)=>		1
+[*] Unique action: 1:2046 : <<CALL>> : com.nsek.mobile.app.b/a:()V:a410a2  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+	1:compareBackwardBranch: 1:1883 : <<BRANCH>> : com.nsek.mobile.IntroActivity/onCreate:(Landroid/os/Bundle;)V:9edc8e  =>  com.nsek.mobile.IntroActivity/onCreate:(Landroid/os/Bundle;)V:9edc96
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:a576c6		=(rels)=>		1
+[*] Unique action: 1:4027 : <<CALL>> : com.nsek.mobile.dialog.fragment.d/onCreateView:(Landroid/view/LayoutInflater;Landroid/view/ViewGroup;Landroid/os/Bundle;)Landroid/view/View;:a576c6  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch2: 1:11071 : <<BRANCH>> : com.nsek.mobile.app.BaseFragmentActivity/r:()Z:a4003c  =>  com.nsek.mobile.app.BaseFragmentActivity/r:()Z:a40054
+android.app.Dialog/show:()V:79562c		=(rels)=>		1
+[*] Unique action: 1:4562 : <<CALL>> : android.support.v4.app.DialogFragment/scrgbGquWgmjDKkx:(Landroid/app/Dialog;)V:79562c  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch2: 1:11071 : <<BRANCH>> : com.nsek.mobile.app.BaseFragmentActivity/r:()Z:a4003c  =>  com.nsek.mobile.app.BaseFragmentActivity/r:()Z:a40054
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:a5766e		=(rels)=>		1
+[*] Unique action: 1:3929 : <<CALL>> : com.nsek.mobile.dialog.fragment.d/onCreateView:(Landroid/view/LayoutInflater;Landroid/view/ViewGroup;Landroid/os/Bundle;)Landroid/view/View;:a5766e  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch2: 1:11071 : <<BRANCH>> : com.nsek.mobile.app.BaseFragmentActivity/r:()Z:a4003c  =>  com.nsek.mobile.app.BaseFragmentActivity/r:()Z:a40054
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:a5168a		=(rels)=>		1
+[*] Unique action: 1:3903 : <<CALL>> : com.nsek.mobile.dialog.fragment.a/a:(Landroid/widget/Button;Ljava/lang/String;)V:a5168a  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch2: 1:11071 : <<BRANCH>> : com.nsek.mobile.app.BaseFragmentActivity/r:()Z:a4003c  =>  com.nsek.mobile.app.BaseFragmentActivity/r:()Z:a40054
+Entry: 9eda8c
+com.nsek.mobile.IntroActivity/onCreate:(Landroid/os/Bundle;)V: 9edc8e -> 9edc96
+		com.nsek.mobile.IntroActivity/onCreate:(Landroid/os/Bundle;)V: 202 -> 20a
+addPatchReadme: java.lang.Class<com.nsek.mobile.IntroActivity>onCreate(Landroid/os/Bundle;)V 202 t
+Entry: a3fed0
+com.nsek.mobile.app.BaseFragmentActivity/r:()Z: a4003c -> a40054
+		com.nsek.mobile.app.BaseFragmentActivity/r:()Z: 16c -> 184
+addPatchReadme: java.lang.Class<com.nsek.mobile.app.BaseFragmentActivity>r()Z 16c t
+b29e6a69: [+] Patches found in this round: 2
+b29e6a69: [*] Found Patch size: 1
+ExitReason-Code: 5 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample82@devRoot-D-R.obfuscated.ilog)
+b29e6a69: @@localPatchFilter -- 9edc3c
+b29e6a69: @@localPatchFilter -- a3fffa
+b29e6a69: @@localPatchFilter -- a40018
+b29e6a69: @@localPatchFilter -- 9edc80
+b29e6a69: 	@@@Found patch addr: a4004c
+b29e6a69: Querying offset: a4003c
+b29e6a69: 	--Add method name to patch = com.nsek.mobile.app.BaseFragmentActivity/r:()Z 	a4003c
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: patching method: com.nsek.mobile.app.BaseFragmentActivity/r:()Z
+b29e6a69: patching method: com.nsek.mobile.IntroActivity/onCreate:(Landroid/os/Bundle;)V
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample82.apk@devRoot-D-R.apk.obfuscated_devRoot
+Wow!!!!!  --  com.nsek.mobile.app.BaseFragmentActivity/r:()Z
+fallthrough: 172
+branchTarget: 184
+label = sswitch_data_6
+GOTO -- 172 	184
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample82.apk@devRoot-D-R.apk.obfuscated_devRoot/sample82.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample82.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample82.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: First address of Lcom/nsek/mobile/app/BaseFragmentActivity;->r()Z = a3fee0
+b29e6a69: Address - Lcom/nsek/mobile/app/BaseFragmentActivity;->r()Z@16c	 lastOffset = 308
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample82.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample82.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample82@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Running Application: com.nsek.mobile
+b29e6a69: Running is done - starting comparing... : 10001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+b29e6a69: savedPid = null
+PIDs--------------------------------------------------------------------------
+b29e6a69: savedPid2 = null
+Stopping app: com.nsek.mobile
+Tryging remove : uninstall com.nsek.mobile(com.nsek.mobile)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 215448
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 24
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample82@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 5 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample82@devRoot-D-R.obfuscated.ilog)
+b29e6a69: /home/santapark/Extended3/DEEPerence/reEx/sample82.apk@devRoot-D-R.apk.obfuscated.apk launch is failed on devRoot
+b29e6a69: Failed Patch: a4004c
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 9edc2c
+-- current localPatchFilter: a4003c
+-- current localPatchFilter: a3ffea
+-- current localPatchFilter: a40008
+-- current localPatchFilter: 9edc70
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:a410a2		=(rels)=>		1
+[*] Unique action: 1:2046 : <<CALL>> : com.nsek.mobile.app.b/a:()V:a410a2  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+	1:compareBackwardBranch: 1:1883 : <<BRANCH>> : com.nsek.mobile.IntroActivity/onCreate:(Landroid/os/Bundle;)V:9edc8e  =>  com.nsek.mobile.IntroActivity/onCreate:(Landroid/os/Bundle;)V:9edc96
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:a576c6		=(rels)=>		1
+[*] Unique action: 1:4027 : <<CALL>> : com.nsek.mobile.dialog.fragment.d/onCreateView:(Landroid/view/LayoutInflater;Landroid/view/ViewGroup;Landroid/os/Bundle;)Landroid/view/View;:a576c6  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch2: 1:11083 : <<BRANCH>> : com.nsek.mobile.app.a/a:()Z:a40a7a  =>  com.nsek.mobile.app.a/a:()Z:a40a8a
+android.app.Dialog/show:()V:79562c		=(rels)=>		1
+[*] Unique action: 1:4562 : <<CALL>> : android.support.v4.app.DialogFragment/scrgbGquWgmjDKkx:(Landroid/app/Dialog;)V:79562c  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch2: 1:11083 : <<BRANCH>> : com.nsek.mobile.app.a/a:()Z:a40a7a  =>  com.nsek.mobile.app.a/a:()Z:a40a8a
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:a5766e		=(rels)=>		1
+[*] Unique action: 1:3929 : <<CALL>> : com.nsek.mobile.dialog.fragment.d/onCreateView:(Landroid/view/LayoutInflater;Landroid/view/ViewGroup;Landroid/os/Bundle;)Landroid/view/View;:a5766e  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch2: 1:11083 : <<BRANCH>> : com.nsek.mobile.app.a/a:()Z:a40a7a  =>  com.nsek.mobile.app.a/a:()Z:a40a8a
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:a5168a		=(rels)=>		1
+[*] Unique action: 1:3903 : <<CALL>> : com.nsek.mobile.dialog.fragment.a/a:(Landroid/widget/Button;Ljava/lang/String;)V:a5168a  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch2: 1:11083 : <<BRANCH>> : com.nsek.mobile.app.a/a:()Z:a40a7a  =>  com.nsek.mobile.app.a/a:()Z:a40a8a
+Entry: 9eda8c
+com.nsek.mobile.IntroActivity/onCreate:(Landroid/os/Bundle;)V: 9edc8e -> 9edc96
+		com.nsek.mobile.IntroActivity/onCreate:(Landroid/os/Bundle;)V: 202 -> 20a
+addPatchReadme: java.lang.Class<com.nsek.mobile.IntroActivity>onCreate(Landroid/os/Bundle;)V 202 t
+Entry: a40a40
+com.nsek.mobile.app.a/a:()Z: a40a7a -> a40a8a
+		com.nsek.mobile.app.a/a:()Z: 3a -> 4a
+addPatchReadme: java.lang.Class<com.nsek.mobile.app.a>a()Z 3a t
+b29e6a69: [+] Patches found in this round: 2
+b29e6a69: [*] Found Patch size: 1
+ExitReason-Code: 5 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample82@devRoot-D-R.obfuscated.ilog)
+b29e6a69: @@localPatchFilter -- 9edc3c
+b29e6a69: @@localPatchFilter -- a4004c
+b29e6a69: @@localPatchFilter -- a3fffa
+b29e6a69: @@localPatchFilter -- a40018
+b29e6a69: @@localPatchFilter -- 9edc80
+b29e6a69: 	@@@Found patch addr: a40a8a
+b29e6a69: Querying offset: a40a7a
+b29e6a69: 	--Add method name to patch = com.nsek.mobile.app.a/a:()Z 	a40a7a
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: patching method: com.nsek.mobile.app.BaseFragmentActivity/r:()Z
+b29e6a69: patching method: com.nsek.mobile.app.a/a:()Z
+b29e6a69: patching method: com.nsek.mobile.IntroActivity/onCreate:(Landroid/os/Bundle;)V
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample82.apk@devRoot-D-R.apk.obfuscated_devRoot
+Wow!!!!!  --  com.nsek.mobile.app.a/a:()Z
+fallthrough: 40
+branchTarget: 4a
+label = sswitch_data_0
+GOTO -- 40 	4a
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample82.apk@devRoot-D-R.apk.obfuscated_devRoot/sample82.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample82.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample82.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: First address of Lcom/nsek/mobile/app/a;->a()Z = a40a50
+b29e6a69: Address - Lcom/nsek/mobile/app/a;->a()Z@3a	 lastOffset = 50
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample82.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample82.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample82@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Running Application: com.nsek.mobile
+b29e6a69: Running is done - starting comparing... : 10001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+b29e6a69: savedPid = null
+PIDs--------------------------------------------------------------------------
+b29e6a69: savedPid2 = null
+Stopping app: com.nsek.mobile
+Tryging remove : uninstall com.nsek.mobile(com.nsek.mobile)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 241407
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 23
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample82@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 5 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample82@devRoot-D-R.obfuscated.ilog)
+b29e6a69: /home/santapark/Extended3/DEEPerence/reEx/sample82.apk@devRoot-D-R.apk.obfuscated.apk launch is failed on devRoot
+b29e6a69: Failed Patch: a40a8a
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 9edc2c
+-- current localPatchFilter: a4003c
+-- current localPatchFilter: a3ffea
+-- current localPatchFilter: a40008
+-- current localPatchFilter: 9edc70
+-- current localPatchFilter: a40a7a
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:a410a2		=(rels)=>		1
+[*] Unique action: 1:2046 : <<CALL>> : com.nsek.mobile.app.b/a:()V:a410a2  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+	1:compareBackwardBranch: 1:1883 : <<BRANCH>> : com.nsek.mobile.IntroActivity/onCreate:(Landroid/os/Bundle;)V:9edc8e  =>  com.nsek.mobile.IntroActivity/onCreate:(Landroid/os/Bundle;)V:9edc96
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:a576c6		=(rels)=>		1
+[*] Unique action: 1:4027 : <<CALL>> : com.nsek.mobile.dialog.fragment.d/onCreateView:(Landroid/view/LayoutInflater;Landroid/view/ViewGroup;Landroid/os/Bundle;)Landroid/view/View;:a576c6  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch2: 1:1880 : <<BRANCH>> : com.nsek.mobile.IntroActivity/onCreate:(Landroid/os/Bundle;)V:9edcae  =>  com.nsek.mobile.IntroActivity/onCreate:(Landroid/os/Bundle;)V:9edc9e
+android.app.Dialog/show:()V:79562c		=(rels)=>		1
+[*] Unique action: 1:4562 : <<CALL>> : android.support.v4.app.DialogFragment/scrgbGquWgmjDKkx:(Landroid/app/Dialog;)V:79562c  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch2: 1:1880 : <<BRANCH>> : com.nsek.mobile.IntroActivity/onCreate:(Landroid/os/Bundle;)V:9edcae  =>  com.nsek.mobile.IntroActivity/onCreate:(Landroid/os/Bundle;)V:9edc9e
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:a5766e		=(rels)=>		1
+[*] Unique action: 1:3929 : <<CALL>> : com.nsek.mobile.dialog.fragment.d/onCreateView:(Landroid/view/LayoutInflater;Landroid/view/ViewGroup;Landroid/os/Bundle;)Landroid/view/View;:a5766e  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch2: 1:1880 : <<BRANCH>> : com.nsek.mobile.IntroActivity/onCreate:(Landroid/os/Bundle;)V:9edcae  =>  com.nsek.mobile.IntroActivity/onCreate:(Landroid/os/Bundle;)V:9edc9e
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:a5168a		=(rels)=>		1
+[*] Unique action: 1:3903 : <<CALL>> : com.nsek.mobile.dialog.fragment.a/a:(Landroid/widget/Button;Ljava/lang/String;)V:a5168a  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch2: 1:1880 : <<BRANCH>> : com.nsek.mobile.IntroActivity/onCreate:(Landroid/os/Bundle;)V:9edcae  =>  com.nsek.mobile.IntroActivity/onCreate:(Landroid/os/Bundle;)V:9edc9e
+Entry: 9eda8c
+com.nsek.mobile.IntroActivity/onCreate:(Landroid/os/Bundle;)V: 9edc8e -> 9edc96
+		com.nsek.mobile.IntroActivity/onCreate:(Landroid/os/Bundle;)V: 202 -> 20a
+addPatchReadme: java.lang.Class<com.nsek.mobile.IntroActivity>onCreate(Landroid/os/Bundle;)V 202 t
+Entry: 9eda8c
+com.nsek.mobile.IntroActivity/onCreate:(Landroid/os/Bundle;)V: 9edcae -> 9edc9e
+		com.nsek.mobile.IntroActivity/onCreate:(Landroid/os/Bundle;)V: 222 -> 212
+addPatchReadme: java.lang.Class<com.nsek.mobile.IntroActivity>onCreate(Landroid/os/Bundle;)V 222 t
+b29e6a69: [+] Patches found in this round: 2
+b29e6a69: [*] Found Patch size: 1
+ExitReason-Code: 5 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample82@devRoot-D-R.obfuscated.ilog)
+b29e6a69: @@localPatchFilter -- 9edc3c
+b29e6a69: @@localPatchFilter -- a4004c
+b29e6a69: @@localPatchFilter -- a3fffa
+b29e6a69: @@localPatchFilter -- a40018
+b29e6a69: @@localPatchFilter -- 9edc80
+b29e6a69: @@localPatchFilter -- a40a8a
+b29e6a69: 	@@@Found patch addr: 9edcbe
+b29e6a69: Querying offset: 9edcae
+b29e6a69: 	--Add method name to patch = com.nsek.mobile.IntroActivity/onCreate:(Landroid/os/Bundle;)V 	9edcae
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: patching method: com.nsek.mobile.app.BaseFragmentActivity/r:()Z
+b29e6a69: patching method: com.nsek.mobile.app.a/a:()Z
+b29e6a69: patching method: com.nsek.mobile.IntroActivity/onCreate:(Landroid/os/Bundle;)V
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample82.apk@devRoot-D-R.apk.obfuscated_devRoot
+Wow!!!!!  --  com.nsek.mobile.IntroActivity/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 226
+branchTarget: 212
+label = cond_1
+GOTO -- 226 	212
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample82.apk@devRoot-D-R.apk.obfuscated_devRoot/sample82.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample82.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample82.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: First address of Lcom/nsek/mobile/IntroActivity;->onCreate(Landroid/os/Bundle;)V = 9eda9c
+b29e6a69: Address - Lcom/nsek/mobile/IntroActivity;->onCreate(Landroid/os/Bundle;)V@222	 lastOffset = b70
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample82.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample82.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample82@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Running Application: com.nsek.mobile
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.nsek.mobile/.IntroActivity
+PIDs--------------------------------------------------------------------------
+u0_a164        8384    427 14906000 153016 0                  0 S com.nsek.mobile
+b29e6a69: savedPid = 8384
+PIDs--------------------------------------------------------------------------
+u0_a164        8384    427 14906000 153016 0                  0 S com.nsek.mobile
+b29e6a69: savedPid2 = 8384
+Stopping app: com.nsek.mobile
+Tryging remove : uninstall com.nsek.mobile(com.nsek.mobile)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 357956862
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 22
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample82@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample82@devRoot-D-R.obfuscated.ilog)
+b29e6a69: adding filter -- 9edcae
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 9edcae
+-- current localPatchFilter: 9edc2c
+-- current localPatchFilter: a4003c
+-- current localPatchFilter: a3ffea
+-- current localPatchFilter: a40008
+-- current localPatchFilter: 9edc70
+-- current localPatchFilter: a40a7a
+Action is completely same :)
+Action is completely same :)
+b29e6a69: There is no difference. (tryAgain=false)
+-- HPFinder will be done in this iteration :)
+hasAntiAnalysis? - devTamper: false on com.nsek.mobile.IntroActivity
+hasAntiAnalysis? - devRoot: true on com.nsek.mobile.IntroActivity
+	isRemovedThem? - devRoot: true on com.nsek.mobile.IntroActivity	-	tryCount: 7
+hasAntiAnalysis? - devDebug: false on com.nsek.mobile.IntroActivity
+*****REPORT: com.nsek.mobile
+* Package name: com.nsek.mobile
+* Running time: 744
+* FileSize: 34922850
+devTamper : 374483423
+devRef : 351890459
+devRoot : 357956862
+devDebug : 409610101
+hasAntiAnalysis? - devTamper: false on com.nsek.mobile.IntroActivity
+hasAntiAnalysis? - devRoot: true on com.nsek.mobile.IntroActivity
+	isRemovedThem? - devRoot: true on com.nsek.mobile.IntroActivity	-	tryCount: 7
+hasAntiAnalysis? - devDebug: false on com.nsek.mobile.IntroActivity
+46604b9f: trying remove : com.nsek.mobile
+3601a6ff: trying remove : com.nsek.mobile
+b29e6a69: trying remove : com.nsek.mobile
+159ceeed: trying remove : com.nsek.mobile
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+159ceeed: result = true
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+b29e6a69: result = true
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+46604b9f: result = true
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+3601a6ff: result = true
+3601a6ff: isFailedToLaunch: com.nsek.mobile/.IntroActivity
+3601a6ff: 	--result: Good :)

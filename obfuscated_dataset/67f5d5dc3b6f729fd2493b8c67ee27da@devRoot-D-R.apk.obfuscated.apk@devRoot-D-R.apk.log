@@ -1,0 +1,525 @@
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample85.apk@devRoot-D-R.apk.obfuscated/AndroidManifest.xml
+launchable-activity: name='mv.com.mib.faisamobile.X0Activity'  label='' icon=''
+{SERVICE, mv.com.mib.faisamobile.MediaDownloader}
+{RECEIVER, mv.com.mib.faisamobile.MediaDownloaderBroadcastReciever, mv.com.mib.faisamobile.RestartMediaDownloader, android.intent.action.BOOT_COMPLETED}
+{ACTIVITY, mv.com.mib.faisamobile.DH, android.intent.action.VIEW}
+{ACTIVITY, mv.com.mib.faisamobile.TermsAgreeActivity}
+{ACTIVITY, mv.com.mib.faisamobile.TermsActivity}
+{ACTIVITY, mv.com.mib.faisamobile.TermsSessionCompatActivity}
+{ACTIVITY, mv.com.mib.faisamobile.PrivacyActivity}
+{ACTIVITY, mv.com.mib.faisamobile.PrivacySessionCompatActivity}
+{ACTIVITY, mv.com.mib.faisamobile.SelfRegisterActivity}
+{ACTIVITY, mv.com.mib.faisamobile.ChangePasswordActivity}
+{ACTIVITY, mv.com.mib.faisamobile.ForgotPasswordActivity}
+{ACTIVITY, mv.com.mib.faisamobile.ZeroAccountActivity}
+{ACTIVITY, mv.com.mib.faisamobile.ZakathActivity}
+{ACTIVITY, mv.com.mib.faisamobile.CBReportActivity}
+{ACTIVITY, mv.com.mib.faisamobile.TransferActivity}
+{ACTIVITY, mv.com.mib.faisamobile.ChatActivity}
+{ACTIVITY, mv.com.mib.faisamobile.SplashActivity}
+{ACTIVITY, mv.com.mib.faisamobile.X0Activity, android.intent.action.MAIN}
+{ACTIVITY, mv.com.mib.faisamobile.X1Activity}
+{ACTIVITY, mv.com.mib.faisamobile.TabbedActivity}
+{ACTIVITY, mv.com.mib.faisamobile.UnlockActivity}
+{ACTIVITY, mv.com.mib.faisamobile.cropper.CropImageActivity}
+{ACTIVITY, mv.com.mib.faisamobile.TrxHistoryActivity}
+{ACTIVITY, mv.com.mib.faisamobile.CBLeavesActivity}
+{ACTIVITY, mv.com.mib.faisamobile.BeneficiaryAddEditActivity}
+{ACTIVITY, mv.com.mib.faisamobile.FullscreenActivity}
+{ACTIVITY, mv.com.mib.faisamobile.Map2Activity}
+{ACTIVITY, mv.com.mib.faisamobile.Map2SessionCompatActivity}
+{ACTIVITY, mv.com.mib.faisamobile.PinChangeActivity}
+{ACTIVITY, mv.com.mib.faisamobile.InfoSessionCompatActivity}
+{ACTIVITY, mv.com.mib.faisamobile.InfoActivity}
+{ACTIVITY, androidx.biometric.DeviceCredentialHandlerActivity}
+{SERVICE, mv.com.mib.faisamobile.MediaDownloader}
+{RECEIVER, mv.com.mib.faisamobile.MediaDownloaderBroadcastReciever, mv.com.mib.faisamobile.RestartMediaDownloader, android.intent.action.BOOT_COMPLETED}
+{ACTIVITY, mv.com.mib.faisamobile.DH, android.intent.action.VIEW}
+{ACTIVITY, mv.com.mib.faisamobile.TermsAgreeActivity}
+{ACTIVITY, mv.com.mib.faisamobile.TermsActivity}
+{ACTIVITY, mv.com.mib.faisamobile.TermsSessionCompatActivity}
+{ACTIVITY, mv.com.mib.faisamobile.PrivacyActivity}
+{ACTIVITY, mv.com.mib.faisamobile.PrivacySessionCompatActivity}
+{ACTIVITY, mv.com.mib.faisamobile.SelfRegisterActivity}
+{ACTIVITY, mv.com.mib.faisamobile.ChangePasswordActivity}
+{ACTIVITY, mv.com.mib.faisamobile.ForgotPasswordActivity}
+{ACTIVITY, mv.com.mib.faisamobile.ZeroAccountActivity}
+{ACTIVITY, mv.com.mib.faisamobile.ZakathActivity}
+{ACTIVITY, mv.com.mib.faisamobile.CBReportActivity}
+{ACTIVITY, mv.com.mib.faisamobile.TransferActivity}
+{ACTIVITY, mv.com.mib.faisamobile.ChatActivity}
+{ACTIVITY, mv.com.mib.faisamobile.SplashActivity}
+{ACTIVITY, mv.com.mib.faisamobile.X0Activity, android.intent.action.MAIN}
+{ACTIVITY, mv.com.mib.faisamobile.X1Activity}
+{ACTIVITY, mv.com.mib.faisamobile.TabbedActivity}
+{ACTIVITY, mv.com.mib.faisamobile.UnlockActivity}
+{ACTIVITY, mv.com.mib.faisamobile.cropper.CropImageActivity}
+{ACTIVITY, mv.com.mib.faisamobile.TrxHistoryActivity}
+{ACTIVITY, mv.com.mib.faisamobile.CBLeavesActivity}
+{ACTIVITY, mv.com.mib.faisamobile.BeneficiaryAddEditActivity}
+{ACTIVITY, mv.com.mib.faisamobile.FullscreenActivity}
+{ACTIVITY, mv.com.mib.faisamobile.Map2Activity}
+{ACTIVITY, mv.com.mib.faisamobile.Map2SessionCompatActivity}
+{ACTIVITY, mv.com.mib.faisamobile.PinChangeActivity}
+{ACTIVITY, mv.com.mib.faisamobile.InfoSessionCompatActivity}
+{ACTIVITY, mv.com.mib.faisamobile.InfoActivity}
+{ACTIVITY, androidx.biometric.DeviceCredentialHandlerActivity}
+_getAllDexFiles: /home/santapark/Extended3/DEEPerence/reEx/sample85.apk@devRoot-D-R.apk.obfuscated/classes.dex
+----------------/home/santapark/Extended3/DEEPerence/reEx/sample85.apk@devRoot-D-R.apk.obfuscated.apk
+dexFile = org.jf.dexlib2.dexbacked.DexBackedDexFile@4fad6218
+mv.com.mib.faisamobile
+mv.com.mib.faisamobile.X0Activity
+debuggable: true
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample85.apk@devRoot-D-R.apk.obfuscated.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample85.apk@devRoot-D-R.apk.obfuscated.apk
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample85.apk@devRoot-D-R.apk.obfuscated_46604b9f/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample85.apk@devRoot-D-R.apk.obfuscated_46604b9f/sample85.apk@devRoot-D-R.apk.obfuscated.apk
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample85.apk@devRoot-D-R.apk.obfuscated/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample85.apk@devRoot-D-R.apk.obfuscated/sample85.apk@devRoot-D-R.apk.obfuscated.apk
+3601a6ff: Installation Success
+b29e6a69: Installation Success
+46604b9f: Installing repackaged apk File: 
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample85.apk@devRoot-D-R.apk.obfuscated_46604b9f/signed_sample85.apk@devRoot-D-R.apk.obfuscated.apk
+159ceeed: Installing debuggable .apk file: 
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample85.apk@devRoot-D-R.apk.obfuscated/signed_sample85.apk@devRoot-D-R.apk.obfuscated.apk
+159ceeed: Installation Success
+46604b9f: Installation Success
+46604b9f: startApplication called! - devTamper
+3601a6ff: startApplication called! - devRef
+b29e6a69: startApplication called! - devRoot
+159ceeed: startApplication called! - devDebug
+3601a6ff: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample85@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample85@devRoot-D-R.obfuscated.ilog)
+3601a6ff: Running Application: mv.com.mib.faisamobile
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample85@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Running Application: mv.com.mib.faisamobile
+46604b9f: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devTamper_sample85@devRoot-D-R.obfuscated.ilog)
+46604b9f: Running Application: mv.com.mib.faisamobile
+PIDs--------------------------------------------------------------------------
+u0_a724        8451    429 14559400 105504 0                  0 R mv.com.mib.faisamobile
+forward tcp:5005 jdwp:8451
+[*]Found JDWP Target: 8451
+159ceeed: Running Application: mv.com.mib.faisamobile
+3601a6ff: Running is done - starting comparing... : 5001
+3601a6ff: Terminated logcat thread...by itself
+3601a6ff: Top-activity: mv.com.mib.faisamobile/.X1Activity
+PIDs--------------------------------------------------------------------------
+u0_a223       31042    407 14834584 141624 0                  0 S mv.com.mib.faisamobile
+PIDs--------------------------------------------------------------------------
+u0_a223       31042    407 14834584 141624 0                  0 S mv.com.mib.faisamobile
+Stopping app: mv.com.mib.faisamobile
+Tryging remove : uninstall mv.com.mib.faisamobile(mv.com.mib.faisamobile)
+3601a6ff: Remove Success
+3601a6ff: ilog file size: 74883963
+3601a6ff: End of collecting logcat...
+159ceeed: Running is done - starting comparing... : 5001
+159ceeed: Terminated logcat thread...by itself
+46604b9f: Running is done - starting comparing... : 5001
+46604b9f: Terminated logcat thread...by itself
+159ceeed: Top-activity: mv.com.mib.faisamobile/.X1Activity
+PIDs--------------------------------------------------------------------------
+u0_a724        8451    429 14802920 142704 0                  0 S mv.com.mib.faisamobile
+PIDs--------------------------------------------------------------------------
+u0_a724        8451    429 14802920 142704 0                  0 S mv.com.mib.faisamobile
+Stopping app: mv.com.mib.faisamobile
+46604b9f: Top-activity: mv.com.mib.faisamobile/.X1Activity
+PIDs--------------------------------------------------------------------------
+u0_a913       15854    425 14879760 142120 0                  0 S mv.com.mib.faisamobile
+PIDs--------------------------------------------------------------------------
+u0_a913       15854    425 14879760 142120 0                  0 S mv.com.mib.faisamobile
+Stopping app: mv.com.mib.faisamobile
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: mv.com.mib.faisamobile/.X1Activity
+PIDs--------------------------------------------------------------------------
+u0_a3102      12202    429 14743764 142196 0                  0 S mv.com.mib.faisamobile
+PIDs--------------------------------------------------------------------------
+u0_a3102      12202    429 14743764 142196 0                  0 S mv.com.mib.faisamobile
+Stopping app: mv.com.mib.faisamobile
+Tryging remove : uninstall mv.com.mib.faisamobile(mv.com.mib.faisamobile)
+159ceeed: Remove Success
+159ceeed: ilog file size: 75054429
+159ceeed: End of collecting logcat...
+Tryging remove : uninstall mv.com.mib.faisamobile(mv.com.mib.faisamobile)
+46604b9f: Remove Success
+46604b9f: ilog file size: 74909997
+46604b9f: End of collecting logcat...
+Tryging remove : uninstall mv.com.mib.faisamobile(mv.com.mib.faisamobile)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 75225970
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 19
+46604b9f: isFailedToLaunch: mv.com.mib.faisamobile/.X1Activity
+46604b9f: 	--result: Good :)
+b29e6a69: isFailedToLaunch: mv.com.mib.faisamobile/.X1Activity
+b29e6a69: 	--result: Good :)
+159ceeed: isFailedToLaunch: mv.com.mib.faisamobile/.X1Activity
+159ceeed: 	--result: Good :)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample85@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample85@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample85@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devTamper_sample85@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample85@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample85@devRoot-D-R.obfuscated.ilog)
+[*] FlowManager: adjust finished.
+Action is completely same :)
+Action is completely same :)
+46604b9f: There is no difference. (tryAgain=false)
+[*] FlowManager: adjust finished.
+Action is completely same :)
+android.app.Dialog/show:()V:4907b8		=(rels)=>		1
+[*] Unique action: 1:56992 : <<CALL>> : androidx.fragment.app.DialogFragment/onStart:()V:4907b8  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:31976 : <<BRANCH>> : mv.com.mib.faisamobile.X1Activity/onCreate:(Landroid/os/Bundle;)V:63bd8e  =>  mv.com.mib.faisamobile.X1Activity/onCreate:(Landroid/os/Bundle;)V:63bd96
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:669a2e		=(rels)=>		1
+[*] Unique action: 1:30204 : <<CALL>> : mv.com.mib.faisamobile.j0/onCreateView:(Landroid/view/LayoutInflater;Landroid/view/ViewGroup;Landroid/os/Bundle;)Landroid/view/View;:669a2e  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+[*] FlowManager: adjust finished.
+Action is completely same :)
+Action is completely same :)
+159ceeed: There is no difference. (tryAgain=false)
+	1:compareBackwardBranch: 1:31976 : <<BRANCH>> : mv.com.mib.faisamobile.X1Activity/onCreate:(Landroid/os/Bundle;)V:63bd8e  =>  mv.com.mib.faisamobile.X1Activity/onCreate:(Landroid/os/Bundle;)V:63bd96
+Entry: 63ba28
+mv.com.mib.faisamobile.X1Activity/onCreate:(Landroid/os/Bundle;)V: 63bd8e -> 63bd96
+		mv.com.mib.faisamobile.X1Activity/onCreate:(Landroid/os/Bundle;)V: 366 -> 36e
+addPatchReadme: java.lang.Class<mv.com.mib.faisamobile.X1Activity>onCreate(Landroid/os/Bundle;)V 366 t
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample85@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Patch size: 1
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample85.apk@devRoot-D-R.apk.obfuscated_devRoot
+Wow!!!!!  --  mv.com.mib.faisamobile.X1Activity/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 36c
+branchTarget: 36e
+label = sswitch_data_11
+GOTO -- 36c 	36e
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample85.apk@devRoot-D-R.apk.obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample85.apk@devRoot-D-R.apk.obfuscated_devRoot/sample85.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample85.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample85.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: First address of Lmv/com/mib/faisamobile/X1Activity;->onCreate(Landroid/os/Bundle;)V = 63ba38
+b29e6a69: Address - Lmv/com/mib/faisamobile/X1Activity;->onCreate(Landroid/os/Bundle;)V@366	 lastOffset = 808
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample85.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample85.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample85@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Running Application: mv.com.mib.faisamobile
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: mv.com.mib.faisamobile
+Tryging remove : uninstall mv.com.mib.faisamobile(mv.com.mib.faisamobile)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 5447050
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 18
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+/home/santapark/Extended3/DEEPerence/reEx/sample85.apk@devRoot-D-R.apk.obfuscated.apk launch is failed on devRoot
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 63bd8e
+Action is completely same :)
+android.app.Dialog/show:()V:4907b8		=(rels)=>		1
+[*] Unique action: 1:56992 : <<CALL>> : androidx.fragment.app.DialogFragment/onStart:()V:4907b8  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:31973 : <<BRANCH>> : mv.com.mib.faisamobile.X1Activity/onCreate:(Landroid/os/Bundle;)V:63bdba  =>  mv.com.mib.faisamobile.X1Activity/onCreate:(Landroid/os/Bundle;)V:63bda0
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:669a2e		=(rels)=>		1
+[*] Unique action: 1:30204 : <<CALL>> : mv.com.mib.faisamobile.j0/onCreateView:(Landroid/view/LayoutInflater;Landroid/view/ViewGroup;Landroid/os/Bundle;)Landroid/view/View;:669a2e  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:31973 : <<BRANCH>> : mv.com.mib.faisamobile.X1Activity/onCreate:(Landroid/os/Bundle;)V:63bdba  =>  mv.com.mib.faisamobile.X1Activity/onCreate:(Landroid/os/Bundle;)V:63bda0
+Entry: 63ba28
+mv.com.mib.faisamobile.X1Activity/onCreate:(Landroid/os/Bundle;)V: 63bdba -> 63bda0
+		mv.com.mib.faisamobile.X1Activity/onCreate:(Landroid/os/Bundle;)V: 392 -> 378
+addPatchReadme: java.lang.Class<mv.com.mib.faisamobile.X1Activity>onCreate(Landroid/os/Bundle;)V 392 t
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample85@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Patch size: 1
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample85.apk@devRoot-D-R.apk.obfuscated_devRoot
+Wow!!!!!  --  mv.com.mib.faisamobile.X1Activity/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 398
+branchTarget: 378
+label = sswitch_data_12
+GOTO -- 398 	378
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample85.apk@devRoot-D-R.apk.obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample85.apk@devRoot-D-R.apk.obfuscated_devRoot/sample85.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample85.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample85.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: First address of Lmv/com/mib/faisamobile/X1Activity;->onCreate(Landroid/os/Bundle;)V = 63ba38
+b29e6a69: Address - Lmv/com/mib/faisamobile/X1Activity;->onCreate(Landroid/os/Bundle;)V@392	 lastOffset = 808
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample85.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample85.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample85@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Running Application: mv.com.mib.faisamobile
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: mv.com.mib.faisamobile
+Tryging remove : uninstall mv.com.mib.faisamobile(mv.com.mib.faisamobile)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 5447828
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 17
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+/home/santapark/Extended3/DEEPerence/reEx/sample85.apk@devRoot-D-R.apk.obfuscated.apk launch is failed on devRoot
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 63bdba
+-- current localPatchFilter: 63bd8e
+Action is completely same :)
+android.app.Dialog/show:()V:4907b8		=(rels)=>		1
+[*] Unique action: 1:56992 : <<CALL>> : androidx.fragment.app.DialogFragment/onStart:()V:4907b8  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:31970 : <<BRANCH>> : mv.com.mib.faisamobile.X1Activity/onCreate:(Landroid/os/Bundle;)V:63bdd6  =>  mv.com.mib.faisamobile.X1Activity/onCreate:(Landroid/os/Bundle;)V:63bdde
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:669a2e		=(rels)=>		1
+[*] Unique action: 1:30204 : <<CALL>> : mv.com.mib.faisamobile.j0/onCreateView:(Landroid/view/LayoutInflater;Landroid/view/ViewGroup;Landroid/os/Bundle;)Landroid/view/View;:669a2e  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:31970 : <<BRANCH>> : mv.com.mib.faisamobile.X1Activity/onCreate:(Landroid/os/Bundle;)V:63bdd6  =>  mv.com.mib.faisamobile.X1Activity/onCreate:(Landroid/os/Bundle;)V:63bdde
+Entry: 63ba28
+mv.com.mib.faisamobile.X1Activity/onCreate:(Landroid/os/Bundle;)V: 63bdd6 -> 63bdde
+		mv.com.mib.faisamobile.X1Activity/onCreate:(Landroid/os/Bundle;)V: 3ae -> 3b6
+addPatchReadme: java.lang.Class<mv.com.mib.faisamobile.X1Activity>onCreate(Landroid/os/Bundle;)V 3ae t
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample85@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Patch size: 1
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample85.apk@devRoot-D-R.apk.obfuscated_devRoot
+Wow!!!!!  --  mv.com.mib.faisamobile.X1Activity/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 3b4
+branchTarget: 3b6
+label = sswitch_data_13
+GOTO -- 3b4 	3b6
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample85.apk@devRoot-D-R.apk.obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample85.apk@devRoot-D-R.apk.obfuscated_devRoot/sample85.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample85.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample85.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: First address of Lmv/com/mib/faisamobile/X1Activity;->onCreate(Landroid/os/Bundle;)V = 63ba38
+b29e6a69: Address - Lmv/com/mib/faisamobile/X1Activity;->onCreate(Landroid/os/Bundle;)V@3ae	 lastOffset = 808
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample85.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample85.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample85@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Running Application: mv.com.mib.faisamobile
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: mv.com.mib.faisamobile
+Tryging remove : uninstall mv.com.mib.faisamobile(mv.com.mib.faisamobile)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 5445235
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 16
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+/home/santapark/Extended3/DEEPerence/reEx/sample85.apk@devRoot-D-R.apk.obfuscated.apk launch is failed on devRoot
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 63bdd6
+-- current localPatchFilter: 63bdba
+-- current localPatchFilter: 63bd8e
+Action is completely same :)
+android.app.Dialog/show:()V:4907b8		=(rels)=>		1
+[*] Unique action: 1:56992 : <<CALL>> : androidx.fragment.app.DialogFragment/onStart:()V:4907b8  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:31967 : <<BRANCH>> : mv.com.mib.faisamobile.X1Activity/onCreate:(Landroid/os/Bundle;)V:63bdfe  =>  mv.com.mib.faisamobile.X1Activity/onCreate:(Landroid/os/Bundle;)V:63bde4
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:669a2e		=(rels)=>		1
+[*] Unique action: 1:30204 : <<CALL>> : mv.com.mib.faisamobile.j0/onCreateView:(Landroid/view/LayoutInflater;Landroid/view/ViewGroup;Landroid/os/Bundle;)Landroid/view/View;:669a2e  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:31967 : <<BRANCH>> : mv.com.mib.faisamobile.X1Activity/onCreate:(Landroid/os/Bundle;)V:63bdfe  =>  mv.com.mib.faisamobile.X1Activity/onCreate:(Landroid/os/Bundle;)V:63bde4
+Entry: 63ba28
+mv.com.mib.faisamobile.X1Activity/onCreate:(Landroid/os/Bundle;)V: 63bdfe -> 63bde4
+		mv.com.mib.faisamobile.X1Activity/onCreate:(Landroid/os/Bundle;)V: 3d6 -> 3bc
+addPatchReadme: java.lang.Class<mv.com.mib.faisamobile.X1Activity>onCreate(Landroid/os/Bundle;)V 3d6 t
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample85@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Patch size: 1
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample85.apk@devRoot-D-R.apk.obfuscated_devRoot
+Wow!!!!!  --  mv.com.mib.faisamobile.X1Activity/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 3dc
+branchTarget: 3bc
+label = sswitch_data_14
+GOTO -- 3dc 	3bc
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample85.apk@devRoot-D-R.apk.obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample85.apk@devRoot-D-R.apk.obfuscated_devRoot/sample85.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample85.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample85.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: First address of Lmv/com/mib/faisamobile/X1Activity;->onCreate(Landroid/os/Bundle;)V = 63ba38
+b29e6a69: Address - Lmv/com/mib/faisamobile/X1Activity;->onCreate(Landroid/os/Bundle;)V@3d6	 lastOffset = 808
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample85.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample85.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample85@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Running Application: mv.com.mib.faisamobile
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: mv.com.mib.faisamobile
+Tryging remove : uninstall mv.com.mib.faisamobile(mv.com.mib.faisamobile)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 5446619
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 15
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+/home/santapark/Extended3/DEEPerence/reEx/sample85.apk@devRoot-D-R.apk.obfuscated.apk launch is failed on devRoot
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 63bdd6
+-- current localPatchFilter: 63bdba
+-- current localPatchFilter: 63bd8e
+-- current localPatchFilter: 63bdfe
+Action is completely same :)
+android.app.Dialog/show:()V:4907b8		=(rels)=>		1
+[*] Unique action: 1:56992 : <<CALL>> : androidx.fragment.app.DialogFragment/onStart:()V:4907b8  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:31964 : <<BRANCH>> : mv.com.mib.faisamobile.X1Activity/onCreate:(Landroid/os/Bundle;)V:63be26  =>  mv.com.mib.faisamobile.X1Activity/onCreate:(Landroid/os/Bundle;)V:63be0c
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:669a2e		=(rels)=>		1
+[*] Unique action: 1:30204 : <<CALL>> : mv.com.mib.faisamobile.j0/onCreateView:(Landroid/view/LayoutInflater;Landroid/view/ViewGroup;Landroid/os/Bundle;)Landroid/view/View;:669a2e  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:31964 : <<BRANCH>> : mv.com.mib.faisamobile.X1Activity/onCreate:(Landroid/os/Bundle;)V:63be26  =>  mv.com.mib.faisamobile.X1Activity/onCreate:(Landroid/os/Bundle;)V:63be0c
+Entry: 63ba28
+mv.com.mib.faisamobile.X1Activity/onCreate:(Landroid/os/Bundle;)V: 63be26 -> 63be0c
+		mv.com.mib.faisamobile.X1Activity/onCreate:(Landroid/os/Bundle;)V: 3fe -> 3e4
+addPatchReadme: java.lang.Class<mv.com.mib.faisamobile.X1Activity>onCreate(Landroid/os/Bundle;)V 3fe t
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample85@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Patch size: 1
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample85.apk@devRoot-D-R.apk.obfuscated_devRoot
+Wow!!!!!  --  mv.com.mib.faisamobile.X1Activity/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 404
+branchTarget: 3e4
+label = sswitch_data_15
+GOTO -- 404 	3e4
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample85.apk@devRoot-D-R.apk.obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample85.apk@devRoot-D-R.apk.obfuscated_devRoot/sample85.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample85.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample85.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: First address of Lmv/com/mib/faisamobile/X1Activity;->onCreate(Landroid/os/Bundle;)V = 63ba38
+b29e6a69: Address - Lmv/com/mib/faisamobile/X1Activity;->onCreate(Landroid/os/Bundle;)V@3fe	 lastOffset = 808
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample85.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample85.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample85@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Running Application: mv.com.mib.faisamobile
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: mv.com.mib.faisamobile
+Tryging remove : uninstall mv.com.mib.faisamobile(mv.com.mib.faisamobile)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 5446791
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 14
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+/home/santapark/Extended3/DEEPerence/reEx/sample85.apk@devRoot-D-R.apk.obfuscated.apk launch is failed on devRoot
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 63bdd6
+-- current localPatchFilter: 63be26
+-- current localPatchFilter: 63bdba
+-- current localPatchFilter: 63bd8e
+-- current localPatchFilter: 63bdfe
+Action is completely same :)
+android.app.Dialog/show:()V:4907b8		=(rels)=>		1
+[*] Unique action: 1:56992 : <<CALL>> : androidx.fragment.app.DialogFragment/onStart:()V:4907b8  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:31961 : <<BRANCH>> : mv.com.mib.faisamobile.X1Activity/onCreate:(Landroid/os/Bundle;)V:63be48  =>  mv.com.mib.faisamobile.X1Activity/onCreate:(Landroid/os/Bundle;)V:63be52
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:669a2e		=(rels)=>		1
+[*] Unique action: 1:30204 : <<CALL>> : mv.com.mib.faisamobile.j0/onCreateView:(Landroid/view/LayoutInflater;Landroid/view/ViewGroup;Landroid/os/Bundle;)Landroid/view/View;:669a2e  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:31961 : <<BRANCH>> : mv.com.mib.faisamobile.X1Activity/onCreate:(Landroid/os/Bundle;)V:63be48  =>  mv.com.mib.faisamobile.X1Activity/onCreate:(Landroid/os/Bundle;)V:63be52
+Entry: 63ba28
+mv.com.mib.faisamobile.X1Activity/onCreate:(Landroid/os/Bundle;)V: 63be48 -> 63be52
+		mv.com.mib.faisamobile.X1Activity/onCreate:(Landroid/os/Bundle;)V: 420 -> 42a
+addPatchReadme: java.lang.Class<mv.com.mib.faisamobile.X1Activity>onCreate(Landroid/os/Bundle;)V 420 t
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample85@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Patch size: 1
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample85.apk@devRoot-D-R.apk.obfuscated_devRoot
+Wow!!!!!  --  mv.com.mib.faisamobile.X1Activity/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 424
+branchTarget: 42a
+label = cond_2
+GOTO -- 424 	42a
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample85.apk@devRoot-D-R.apk.obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample85.apk@devRoot-D-R.apk.obfuscated_devRoot/sample85.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample85.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample85.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: First address of Lmv/com/mib/faisamobile/X1Activity;->onCreate(Landroid/os/Bundle;)V = 63ba38
+b29e6a69: Address - Lmv/com/mib/faisamobile/X1Activity;->onCreate(Landroid/os/Bundle;)V@420	 lastOffset = 808
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample85.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample85.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample85@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Running Application: mv.com.mib.faisamobile
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: mv.com.mib.faisamobile/.X1Activity
+PIDs--------------------------------------------------------------------------
+u0_a3108      15775    429 14751808 140828 0                  0 S mv.com.mib.faisamobile
+PIDs--------------------------------------------------------------------------
+u0_a3108      15775    429 14751808 140828 0                  0 S mv.com.mib.faisamobile
+Stopping app: mv.com.mib.faisamobile
+Tryging remove : uninstall mv.com.mib.faisamobile(mv.com.mib.faisamobile)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 73265033
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 13
+b29e6a69: isFailedToLaunch: mv.com.mib.faisamobile/.X1Activity
+b29e6a69: 	--result: Good :)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample85@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample85@devRoot-D-R.obfuscated.ilog)
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 63be48
+Action is completely same :)
+Action is completely same :)
+b29e6a69: There is no difference. (tryAgain=false)
+-- HPFinder will be done in this iteration :)
+hasAntiAnalysis? - devTamper: false on mv.com.mib.faisamobile.X0Activity
+hasAntiAnalysis? - devRoot: true on mv.com.mib.faisamobile.X0Activity
+	isRemovedThem? - devRoot: true on mv.com.mib.faisamobile.X0Activity	-	tryCount: 6
+hasAntiAnalysis? - devDebug: false on mv.com.mib.faisamobile.X0Activity
+*****REPORT: mv.com.mib.faisamobile
+* Package name: mv.com.mib.faisamobile
+* Running time: 466
+* FileSize: 13249332
+devTamper : 74909997
+devRef : 74883963
+devRoot : 73265033
+devDebug : 75054429
+hasAntiAnalysis? - devTamper: false on mv.com.mib.faisamobile.X0Activity
+hasAntiAnalysis? - devRoot: true on mv.com.mib.faisamobile.X0Activity
+	isRemovedThem? - devRoot: true on mv.com.mib.faisamobile.X0Activity	-	tryCount: 6
+hasAntiAnalysis? - devDebug: false on mv.com.mib.faisamobile.X0Activity
+46604b9f: trying remove : mv.com.mib.faisamobile
+3601a6ff: trying remove : mv.com.mib.faisamobile
+b29e6a69: trying remove : mv.com.mib.faisamobile
+159ceeed: trying remove : mv.com.mib.faisamobile
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+3601a6ff: result = true
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+46604b9f: result = true
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+b29e6a69: result = true
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+159ceeed: result = true
+3601a6ff: isFailedToLaunch: mv.com.mib.faisamobile/.X1Activity
+3601a6ff: 	--result: Good :)

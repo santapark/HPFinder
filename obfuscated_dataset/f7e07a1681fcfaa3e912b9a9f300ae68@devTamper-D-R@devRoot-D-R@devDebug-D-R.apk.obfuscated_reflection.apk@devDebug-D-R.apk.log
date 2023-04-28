@@ -1,0 +1,295 @@
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/(anti-tamper)src.com.rbsr.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_reflection/AndroidManifest.xml
+launchable-activity: name='src.com.rbsr.controller.SplashActivity'  label='' icon=''
+{ACTIVITY, src.com.rbsr.controller.SplashActivity, android.intent.action.MAIN}
+{ACTIVITY, src.com.rbsr.controller.MainActivity}
+{ACTIVITY, src.com.rbsr.controller.LocateViewActivity}
+{ACTIVITY, jim.h.common.android.zxinglib.CaptureActivity}
+{ACTIVITY, src.com.rbsr.controller.GroupMainActivity}
+{ACTIVITY, src.com.rbsr.mrdc.CameraActivity}
+{ACTIVITY, src.com.rbsr.mrdc.UseImageActivity}
+{ACTIVITY, src.com.rbsr.controller.ProgressBarActivity, src.com.rbsr.MCONNECT_PROGRESSBAR}
+{ACTIVITY, src.com.rbsr.controller.SplashActivity, android.intent.action.MAIN}
+{ACTIVITY, src.com.rbsr.controller.MainActivity}
+{ACTIVITY, src.com.rbsr.controller.LocateViewActivity}
+{ACTIVITY, jim.h.common.android.zxinglib.CaptureActivity}
+{ACTIVITY, src.com.rbsr.controller.GroupMainActivity}
+{ACTIVITY, src.com.rbsr.mrdc.CameraActivity}
+{ACTIVITY, src.com.rbsr.mrdc.UseImageActivity}
+{ACTIVITY, src.com.rbsr.controller.ProgressBarActivity, src.com.rbsr.MCONNECT_PROGRESSBAR}
+_getAllDexFiles: /home/santapark/Extended3/DEEPerence/reEx/(anti-tamper)src.com.rbsr.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_reflection/classes.dex
+----------------/home/santapark/Extended3/DEEPerence/reEx/(anti-tamper)src.com.rbsr.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_reflection.apk
+dexFile = org.jf.dexlib2.dexbacked.DexBackedDexFile@76a4ebf2
+src.com.rbsr
+src.com.rbsr.controller.SplashActivity
+debuggable: false
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/(anti-tamper)src.com.rbsr.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_reflection.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/(anti-tamper)src.com.rbsr.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_reflection.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/(anti-tamper)src.com.rbsr.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_reflection.apk
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/(anti-tamper)src.com.rbsr.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_reflection_46604b9f/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/(anti-tamper)src.com.rbsr.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_reflection_46604b9f/(anti-tamper)src.com.rbsr.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_reflection.apk
+159ceeed: Installation Success
+3601a6ff: Installation Success
+b29e6a69: Installation Success
+46604b9f: Installing repackaged apk File: 
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/(anti-tamper)src.com.rbsr.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_reflection_46604b9f/signed_(anti-tamper)src.com.rbsr.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_reflection.apk
+46604b9f: Installation Success
+46604b9f: startApplication called! - devTamper
+3601a6ff: startApplication called! - devRef
+b29e6a69: startApplication called! - devRoot
+159ceeed: startApplication called! - devDebug
+3601a6ff: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRef_(anti-tamper)src.com.rbsr@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated_reflection.ilog)
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_(anti-tamper)src.com.rbsr@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated_reflection.ilog)
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_(anti-tamper)src.com.rbsr@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated_reflection.ilog)
+46604b9f: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devTamper_(anti-tamper)src.com.rbsr@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated_reflection.ilog)
+3601a6ff: Running Application: src.com.rbsr
+b29e6a69: Running Application: src.com.rbsr
+46604b9f: Running Application: src.com.rbsr
+PIDs--------------------------------------------------------------------------
+u0_a1569      12992    423 13763896 101068 0                  0 R src.com.rbsr
+forward tcp:35535 jdwp:12992
+[*]Found JDWP Target: 12992
+159ceeed: Running Application: src.com.rbsr
+159ceeed: Running is done - starting comparing... : 15001
+159ceeed: Terminated logcat thread...by itself
+PIDs--------------------------------------------------------------------------
+u0_a1569      12992    423 13837852 129788 0                  0 S src.com.rbsr
+159ceeed: Tryging attach jdb to 12992
+jdb -connect com.sun.jdi.SocketAttach:hostname=localhost,port=35535
+159ceeed: Top-activity: src.com.rbsr/.controller.SplashActivity
+PIDs--------------------------------------------------------------------------
+u0_a1569      12992    423 13947100 143564 0                  0 S src.com.rbsr
+159ceeed: savedPid = 12992
+PIDs--------------------------------------------------------------------------
+u0_a1569      12992    423 13947100 143564 0                  0 S src.com.rbsr
+159ceeed: savedPid2 = 12992
+Stopping app: src.com.rbsr
+Tryging remove : uninstall src.com.rbsr(src.com.rbsr)
+159ceeed: Remove Success
+159ceeed: ilog file size: 1570929
+159ceeed: End of collecting logcat...
+46604b9f: Running is done - starting comparing... : 15001
+46604b9f: Terminated logcat thread...by itself
+46604b9f: Top-activity: src.com.rbsr/.controller.SplashActivity
+PIDs--------------------------------------------------------------------------
+u0_a1068       4040    425 13975864 134556 0                  0 S src.com.rbsr
+46604b9f: savedPid = 4040
+PIDs--------------------------------------------------------------------------
+u0_a1068       4040    425 13975864 134556 0                  0 S src.com.rbsr
+46604b9f: savedPid2 = 4040
+Stopping app: src.com.rbsr
+b29e6a69: Running is done - starting comparing... : 15001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: src.com.rbsr/.controller.SplashActivity
+PIDs--------------------------------------------------------------------------
+u0_a1035       5894    428 14245568 132924 0                  0 S src.com.rbsr
+b29e6a69: savedPid = 5894
+PIDs--------------------------------------------------------------------------
+u0_a1035       5894    428 14245568 132924 0                  0 S src.com.rbsr
+b29e6a69: savedPid2 = 5894
+Stopping app: src.com.rbsr
+Tryging remove : uninstall src.com.rbsr(src.com.rbsr)
+46604b9f: Remove Success
+46604b9f: ilog file size: 68454370
+46604b9f: End of collecting logcat...
+Tryging remove : uninstall src.com.rbsr(src.com.rbsr)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 68431904
+b29e6a69: End of collecting logcat...
+3601a6ff: Terminated logcat thread...by itself
+3601a6ff: Top-activity: src.com.rbsr/.controller.SplashActivity
+PIDs--------------------------------------------------------------------------
+u0_a971       19134    414 13969680 133104 0                  0 S src.com.rbsr
+3601a6ff: savedPid = 19134
+PIDs--------------------------------------------------------------------------
+u0_a971       19134    414 13969680 133104 0                  0 S src.com.rbsr
+3601a6ff: savedPid2 = 19134
+Stopping app: src.com.rbsr
+Tryging remove : uninstall src.com.rbsr(src.com.rbsr)
+3601a6ff: Remove Success
+3601a6ff: ilog file size: 70643946
+3601a6ff: End of collecting logcat...
+HPFinder's try count remains: 29
+Target PID : 19134
+Target PID : 19134
+Target PID : 19134
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_(anti-tamper)src.com.rbsr@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated_reflection.ilog)
+Target PID : 12992
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_(anti-tamper)src.com.rbsr@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated_reflection.ilog)
+Target PID : 5894
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_(anti-tamper)src.com.rbsr@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated_reflection.ilog)
+Target PID : 4040
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_(anti-tamper)src.com.rbsr@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated_reflection.ilog)
+[*] FlowManager: adjust finished.
+[GOOD]: Anti-analysis is identified! :) -- 1 --devDebug
+android.view.ViewGroup/addView:(Landroid/view/View;)V:4d05ec		=(rels)=>		1
+[*] Unique action: 1:274336 : <<CALL>> : src.com.rbsr.controller.SplashActivity/a:(Ljava/lang/String;)V:4d05ec  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_(anti-tamper)src.com.rbsr@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated_reflection.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devTamper_(anti-tamper)src.com.rbsr@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated_reflection.ilog)
+[*] FlowManager: adjust finished.
+Action is completely same :)
+Action is completely same :)
+46604b9f: There is no difference. (tryAgain=false)
+[*] FlowManager: adjust finished.
+Action is completely same :)
+Action is completely same :)
+b29e6a69: There is no difference. (tryAgain=false)
+	1:compareBackwardBranch: 1:5534 : <<BRANCH>> : src.com.rbsr.controller.SplashActivity/onCreate:(Landroid/os/Bundle;)V:4d0b76  =>  src.com.rbsr.controller.SplashActivity/onCreate:(Landroid/os/Bundle;)V:4d0b82
+android.view.ViewGroup/addView:(Landroid/view/View;)V:4d0548		=(rels)=>		1
+[*] Unique action: 1:270542 : <<CALL>> : src.com.rbsr.controller.SplashActivity/a:(Ljava/lang/String;)V:4d0548  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:5534 : <<BRANCH>> : src.com.rbsr.controller.SplashActivity/onCreate:(Landroid/os/Bundle;)V:4d0b76  =>  src.com.rbsr.controller.SplashActivity/onCreate:(Landroid/os/Bundle;)V:4d0b82
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:4d05aa		=(rels)=>		1
+[*] Unique action: 1:271746 : <<CALL>> : src.com.rbsr.controller.SplashActivity/a:(Ljava/lang/String;)V:4d05aa  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:5534 : <<BRANCH>> : src.com.rbsr.controller.SplashActivity/onCreate:(Landroid/os/Bundle;)V:4d0b76  =>  src.com.rbsr.controller.SplashActivity/onCreate:(Landroid/os/Bundle;)V:4d0b82
+android.view.ViewGroup/addView:(Landroid/view/View;)V:4d050a		=(rels)=>		1
+[*] Unique action: 1:269347 : <<CALL>> : src.com.rbsr.controller.SplashActivity/a:(Ljava/lang/String;)V:4d050a  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:5534 : <<BRANCH>> : src.com.rbsr.controller.SplashActivity/onCreate:(Landroid/os/Bundle;)V:4d0b76  =>  src.com.rbsr.controller.SplashActivity/onCreate:(Landroid/os/Bundle;)V:4d0b82
+android.view.ViewGroup/addView:(Landroid/view/View;)V:4d0064		=(rels)=>		1
+[*] Unique action: 1:268820 : <<CALL>> : src.com.rbsr.controller.SplashActivity/e:()Landroid/view/View;:4d0064  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:5534 : <<BRANCH>> : src.com.rbsr.controller.SplashActivity/onCreate:(Landroid/os/Bundle;)V:4d0b76  =>  src.com.rbsr.controller.SplashActivity/onCreate:(Landroid/os/Bundle;)V:4d0b82
+android.os.AsyncTask/execute:([Ljava/lang/Object;)Landroid/os/AsyncTask;:3f5054		=(rels)=>		1
+[*] Unique action: 1:6058 : <<CALL>> : com.infosys.util.o/WonmhIysapvJwRmM:(Lcom/infosys/util/o;[Ljava/lang/Object;)Landroid/os/AsyncTask;:3f5054  =>  android.os.AsyncTask/execute:([Ljava/lang/Object;)Landroid/os/AsyncTask;:2ed1e4
+	1:compareBackwardBranch: 1:5534 : <<BRANCH>> : src.com.rbsr.controller.SplashActivity/onCreate:(Landroid/os/Bundle;)V:4d0b76  =>  src.com.rbsr.controller.SplashActivity/onCreate:(Landroid/os/Bundle;)V:4d0b82
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:4d0120		=(rels)=>		1
+[*] Unique action: 1:269298 : <<CALL>> : src.com.rbsr.controller.SplashActivity/e:()Landroid/view/View;:4d0120  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+	1:compareBackwardBranch: 1:5534 : <<BRANCH>> : src.com.rbsr.controller.SplashActivity/onCreate:(Landroid/os/Bundle;)V:4d0b76  =>  src.com.rbsr.controller.SplashActivity/onCreate:(Landroid/os/Bundle;)V:4d0b82
+android.view.ViewGroup/addView:(Landroid/view/View;)V:4d00a0		=(rels)=>		1
+[*] Unique action: 1:269257 : <<CALL>> : src.com.rbsr.controller.SplashActivity/e:()Landroid/view/View;:4d00a0  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:5534 : <<BRANCH>> : src.com.rbsr.controller.SplashActivity/onCreate:(Landroid/os/Bundle;)V:4d0b76  =>  src.com.rbsr.controller.SplashActivity/onCreate:(Landroid/os/Bundle;)V:4d0b82
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:4d00c0		=(rels)=>		1
+[*] Unique action: 1:269261 : <<CALL>> : src.com.rbsr.controller.SplashActivity/e:()Landroid/view/View;:4d00c0  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+	1:compareBackwardBranch: 1:5534 : <<BRANCH>> : src.com.rbsr.controller.SplashActivity/onCreate:(Landroid/os/Bundle;)V:4d0b76  =>  src.com.rbsr.controller.SplashActivity/onCreate:(Landroid/os/Bundle;)V:4d0b82
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:4d063c		=(rels)=>		1
+[*] Unique action: 1:274363 : <<CALL>> : src.com.rbsr.controller.SplashActivity/a:(Ljava/lang/String;)V:4d063c  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:5534 : <<BRANCH>> : src.com.rbsr.controller.SplashActivity/onCreate:(Landroid/os/Bundle;)V:4d0b76  =>  src.com.rbsr.controller.SplashActivity/onCreate:(Landroid/os/Bundle;)V:4d0b82
+android.app.Dialog/show:()V:4d061c		=(rels)=>		1
+[*] Unique action: 1:274357 : <<CALL>> : src.com.rbsr.controller.SplashActivity/a:(Ljava/lang/String;)V:4d061c  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:5534 : <<BRANCH>> : src.com.rbsr.controller.SplashActivity/onCreate:(Landroid/os/Bundle;)V:4d0b76  =>  src.com.rbsr.controller.SplashActivity/onCreate:(Landroid/os/Bundle;)V:4d0b82
+android.view.ViewGroup/addView:(Landroid/view/View;)V:4d05ba		=(rels)=>		1
+[*] Unique action: 1:271748 : <<CALL>> : src.com.rbsr.controller.SplashActivity/a:(Ljava/lang/String;)V:4d05ba  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:5534 : <<BRANCH>> : src.com.rbsr.controller.SplashActivity/onCreate:(Landroid/os/Bundle;)V:4d0b76  =>  src.com.rbsr.controller.SplashActivity/onCreate:(Landroid/os/Bundle;)V:4d0b82
+android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:2f8f14		=(rels)=>		1
+[*] Unique action: 1:269253 : <<CALL>> : com.apireflectionmanager.AdvancedApiReflection/obfuscate:(ILjava/lang/Object;[Ljava/lang/Object;)Ljava/lang/Object;:2f8f14  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:5534 : <<BRANCH>> : src.com.rbsr.controller.SplashActivity/onCreate:(Landroid/os/Bundle;)V:4d0b76  =>  src.com.rbsr.controller.SplashActivity/onCreate:(Landroid/os/Bundle;)V:4d0b82
+android.app.Dialog/show:()V:4d0610		=(rels)=>		1
+[*] Unique action: 1:274344 : <<CALL>> : src.com.rbsr.controller.SplashActivity/a:(Ljava/lang/String;)V:4d0610  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:5534 : <<BRANCH>> : src.com.rbsr.controller.SplashActivity/onCreate:(Landroid/os/Bundle;)V:4d0b76  =>  src.com.rbsr.controller.SplashActivity/onCreate:(Landroid/os/Bundle;)V:4d0b82
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:4d0530		=(rels)=>		1
+[*] Unique action: 1:270539 : <<CALL>> : src.com.rbsr.controller.SplashActivity/a:(Ljava/lang/String;)V:4d0530  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:5534 : <<BRANCH>> : src.com.rbsr.controller.SplashActivity/onCreate:(Landroid/os/Bundle;)V:4d0b76  =>  src.com.rbsr.controller.SplashActivity/onCreate:(Landroid/os/Bundle;)V:4d0b82
+android.view.ViewGroup/addView:(Landroid/view/View;)V:4d05f2		=(rels)=>		1
+[*] Unique action: 1:274337 : <<CALL>> : src.com.rbsr.controller.SplashActivity/a:(Ljava/lang/String;)V:4d05f2  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:5534 : <<BRANCH>> : src.com.rbsr.controller.SplashActivity/onCreate:(Landroid/os/Bundle;)V:4d0b76  =>  src.com.rbsr.controller.SplashActivity/onCreate:(Landroid/os/Bundle;)V:4d0b82
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:4d04f2		=(rels)=>		1
+[*] Unique action: 1:269344 : <<CALL>> : src.com.rbsr.controller.SplashActivity/a:(Ljava/lang/String;)V:4d04f2  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:5534 : <<BRANCH>> : src.com.rbsr.controller.SplashActivity/onCreate:(Landroid/os/Bundle;)V:4d0b76  =>  src.com.rbsr.controller.SplashActivity/onCreate:(Landroid/os/Bundle;)V:4d0b82
+android.app.Dialog/show:()V:4d07ac		=(rels)=>		1
+[*] Unique action: 1:5489 : <<CALL>> : src.com.rbsr.controller.SplashActivity/b:()V:4d07ac  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch2: 1:5534 : <<BRANCH>> : src.com.rbsr.controller.SplashActivity/onCreate:(Landroid/os/Bundle;)V:4d0b76  =>  src.com.rbsr.controller.SplashActivity/onCreate:(Landroid/os/Bundle;)V:4d0b82
+Entry: 4d0b58
+src.com.rbsr.controller.SplashActivity/onCreate:(Landroid/os/Bundle;)V: 4d0b76 -> 4d0b82
+		src.com.rbsr.controller.SplashActivity/onCreate:(Landroid/os/Bundle;)V: 1e -> 2a
+addPatchReadme: java.lang.Class<src.com.rbsr.controller.SplashActivity>onCreate(Landroid/os/Bundle;)V 1e t
+159ceeed: [+] Patches found in this round: 1
+159ceeed: [*] Found Patch size: 1
+Target PID : 
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_(anti-tamper)src.com.rbsr@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated_reflection.ilog)
+159ceeed: 	@@@Found patch addr: 4d0b86
+159ceeed: Querying offset: 4d0b76
+159ceeed: 	--Add method name to patch = src.com.rbsr.controller.SplashActivity/onCreate:(Landroid/os/Bundle;)V 	4d0b76
+Devices presenting anti-analysis: 
+	devDebug
+159ceeed: patching method: src.com.rbsr.controller.SplashActivity/onCreate:(Landroid/os/Bundle;)V
+159ceeed: outDir - /home/santapark/Extended3/DEEPerence/reEx/(anti-tamper)src.com.rbsr.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_reflection_devDebug
+Wow!!!!!  --  src.com.rbsr.controller.SplashActivity/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 22
+branchTarget: 2a
+label = cond_1
+GOTO -- 22 	2a
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/(anti-tamper)src.com.rbsr.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_reflection_devDebug/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/(anti-tamper)src.com.rbsr.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_reflection_devDebug/(anti-tamper)src.com.rbsr.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_reflection.apk
+159ceeed: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/(anti-tamper)src.com.rbsr.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_reflection_devDebug/signed_(anti-tamper)src.com.rbsr.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_reflection.apk
+159ceeed: First address of Lsrc/com/rbsr/controller/SplashActivity;->onCreate(Landroid/os/Bundle;)V = 4d0b68
+159ceeed: Address - Lsrc/com/rbsr/controller/SplashActivity;->onCreate(Landroid/os/Bundle;)V@1e	 lastOffset = 15a
+159ceeed: Instruction@@: IF_EQZ
+159ceeed: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/(anti-tamper)src.com.rbsr.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_reflection_devDebug/signed_(anti-tamper)src.com.rbsr.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_reflection.apk
+159ceeed: Installation Success
+159ceeed: startApplication called! - devDebug
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_(anti-tamper)src.com.rbsr@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated_reflection.ilog)
+PIDs--------------------------------------------------------------------------
+u0_a1570      13084    423 13798980 105176 0                  0 R src.com.rbsr
+forward tcp:35535 jdwp:13084
+[*]Found JDWP Target: 13084
+159ceeed: Running Application: src.com.rbsr
+PIDs--------------------------------------------------------------------------
+u0_a1570      13084    423 13798964 105264 0                  0 S src.com.rbsr
+159ceeed: Tryging attach jdb to 13084
+jdb -connect com.sun.jdi.SocketAttach:hostname=localhost,port=35535
+159ceeed: Running is done - starting comparing... : 15001
+159ceeed: Terminated logcat thread...by itself
+159ceeed: Top-activity: src.com.rbsr/.controller.SplashActivity
+PIDs--------------------------------------------------------------------------
+u0_a1570      13084    423 13943676 148832 0                  0 S src.com.rbsr
+159ceeed: savedPid = 13084
+PIDs--------------------------------------------------------------------------
+u0_a1570      13084    423 13943676 148832 0                  0 S src.com.rbsr
+159ceeed: savedPid2 = 13084
+Stopping app: src.com.rbsr
+Tryging remove : uninstall src.com.rbsr(src.com.rbsr)
+159ceeed: Remove Success
+159ceeed: ilog file size: 68453223
+159ceeed: End of collecting logcat...
+HPFinder's try count remains: 28
+Target PID : 19134
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_(anti-tamper)src.com.rbsr@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated_reflection.ilog)
+Target PID : 13084
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_(anti-tamper)src.com.rbsr@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated_reflection.ilog)
+159ceeed: adding filter -- 4d0b76
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 4d0b76
+Action is completely same :)
+Action is completely same :)
+159ceeed: There is no difference. (tryAgain=false)
+-- HPFinder will be done in this iteration :)
+hasAntiAnalysis? - devTamper: false on src.com.rbsr.controller.SplashActivity
+hasAntiAnalysis? - devRoot: false on src.com.rbsr.controller.SplashActivity
+hasAntiAnalysis? - devDebug: true on src.com.rbsr.controller.SplashActivity
+	isRemovedThem? - devDebug: true on src.com.rbsr.controller.SplashActivity	-	tryCount: 1
+*****REPORT: src.com.rbsr
+* Package name: src.com.rbsr
+* Running time: 270
+* FileSize: 4854682
+devTamper : 68454370
+devRef : 70643946
+devRoot : 68431904
+devDebug : 68453223
+hasAntiAnalysis? - devTamper: false on src.com.rbsr.controller.SplashActivity
+hasAntiAnalysis? - devRoot: false on src.com.rbsr.controller.SplashActivity
+hasAntiAnalysis? - devDebug: true on src.com.rbsr.controller.SplashActivity
+	isRemovedThem? - devDebug: true on src.com.rbsr.controller.SplashActivity	-	tryCount: 1
+46604b9f: trying remove : src.com.rbsr
+3601a6ff: trying remove : src.com.rbsr
+b29e6a69: trying remove : src.com.rbsr
+159ceeed: trying remove : src.com.rbsr
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+159ceeed: result = true
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+b29e6a69: result = true
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+46604b9f: result = true
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+3601a6ff: result = true
+3601a6ff: isFailedToLaunch: src.com.rbsr/.controller.SplashActivity
+3601a6ff: 	--result: Good :)

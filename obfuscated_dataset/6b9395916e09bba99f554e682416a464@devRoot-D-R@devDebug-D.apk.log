@@ -1,0 +1,1587 @@
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample23/AndroidManifest.xml
+launchable-activity: name='com.deltadental.HealthApp.DeltaDental'  label='Delta Dental' icon=''
+{ACTIVITY, com.deltadental.HealthApp.DeltaDental, android.intent.action.MAIN, android.intent.action.SEARCH}
+{RECEIVER, com.konylabs.gcm.KonyGCMBroadcastReceiver, com.google.android.c2dm.intent.RECEIVE, com.google.android.c2dm.intent.REGISTRATION}
+{SERVICE, com.konylabs.api.service.KonyLocalService}
+{SERVICE, com.kony.sdkcommons.Network.NetworkCore.KNYHttpJobIntentService}
+{SERVICE, com.kony.sdkcommons.Network.NetworkCore.KNYHttpService}
+{ACTIVITY, com.deltadental.HealthApp.DeltaDental, android.intent.action.MAIN, android.intent.action.SEARCH}
+{RECEIVER, com.konylabs.gcm.KonyGCMBroadcastReceiver, com.google.android.c2dm.intent.RECEIVE, com.google.android.c2dm.intent.REGISTRATION}
+{SERVICE, com.konylabs.api.service.KonyLocalService}
+{SERVICE, com.kony.sdkcommons.Network.NetworkCore.KNYHttpJobIntentService}
+{SERVICE, com.kony.sdkcommons.Network.NetworkCore.KNYHttpService}
+_getAllDexFiles: /home/santapark/Extended3/DEEPerence/reEx/sample23/classes2.dex
+_getAllDexFiles: /home/santapark/Extended3/DEEPerence/reEx/sample23/classes.dex
+----------------/home/santapark/Extended3/DEEPerence/reEx/sample23.apk
+dexFile = org.jf.dexlib2.dexbacked.DexBackedDexFile@1c39680d
+com.deltadental.HealthApp
+com.deltadental.HealthApp.DeltaDental
+debuggable: false
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample23.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample23.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample23.apk
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample23_46604b9f/sample23.apk
+159ceeed: Installation Success
+3601a6ff: Installation Success
+b29e6a69: Installation Success
+46604b9f: Installing repackaged apk File: 
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample23_46604b9f/signed_sample23.apk
+46604b9f: Installation Success
+46604b9f: startApplication called! - devTamper
+3601a6ff: startApplication called! - devRef
+b29e6a69: startApplication called! - devRoot
+159ceeed: startApplication called! - devDebug
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample23.ilog)
+b29e6a69: Running Application: com.deltadental.HealthApp
+3601a6ff: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample23.ilog)
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample23.ilog)
+46604b9f: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devTamper_sample23.ilog)
+3601a6ff: Running Application: com.deltadental.HealthApp
+46604b9f: Running Application: com.deltadental.HealthApp
+PIDs--------------------------------------------------------------------------
+forward tcp:35535 jdwp:null
+[*]Found JDWP Target: null
+159ceeed: Running Application: com.deltadental.HealthApp
+159ceeed: Running is done - starting comparing... : 10001
+159ceeed: Terminated logcat thread...by itself
+159ceeed: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+159ceeed: savedPid = null
+PIDs--------------------------------------------------------------------------
+159ceeed: savedPid2 = null
+Stopping app: com.deltadental.HealthApp
+Tryging remove : uninstall com.deltadental.HealthApp(com.deltadental.HealthApp)
+159ceeed: Remove Success
+159ceeed: ilog file size: 4506346
+159ceeed: End of collecting logcat...
+b29e6a69: Running is done - starting comparing... : 10001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.deltadental.HealthApp/.DeltaDental
+PIDs--------------------------------------------------------------------------
+u0_a155       11278    430 14862604 161572 0                  0 S com.deltadental.HealthApp
+b29e6a69: savedPid = 11278
+PIDs--------------------------------------------------------------------------
+u0_a155       11278    430 14862604 161572 0                  0 S com.deltadental.HealthApp
+b29e6a69: savedPid2 = 11278
+Stopping app: com.deltadental.HealthApp
+Tryging remove : uninstall com.deltadental.HealthApp(com.deltadental.HealthApp)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 191943880
+b29e6a69: End of collecting logcat...
+46604b9f: Terminated logcat thread...by itself
+3601a6ff: Terminated logcat thread...by itself
+3601a6ff: Top-activity: com.deltadental.HealthApp/.DeltaDental
+PIDs--------------------------------------------------------------------------
+u0_a227        6570    414 14792912 155480 0                  0 S com.deltadental.HealthApp
+3601a6ff: savedPid = 6570
+46604b9f: Top-activity: com.deltadental.HealthApp/.DeltaDental
+PIDs--------------------------------------------------------------------------
+u0_a181       14267    425 14779040 159564 0                  0 S com.deltadental.HealthApp
+46604b9f: savedPid = 14267
+PIDs--------------------------------------------------------------------------
+u0_a227        6570    414 14792912 155480 0                  0 S com.deltadental.HealthApp
+3601a6ff: savedPid2 = 6570
+Stopping app: com.deltadental.HealthApp
+PIDs--------------------------------------------------------------------------
+u0_a181       14267    425 14779040 159564 0                  0 S com.deltadental.HealthApp
+46604b9f: savedPid2 = 14267
+Stopping app: com.deltadental.HealthApp
+Tryging remove : uninstall com.deltadental.HealthApp(com.deltadental.HealthApp)
+3601a6ff: Remove Success
+3601a6ff: ilog file size: 372750551
+3601a6ff: End of collecting logcat...
+Tryging remove : uninstall com.deltadental.HealthApp(com.deltadental.HealthApp)
+46604b9f: Remove Success
+46604b9f: ilog file size: 375180095
+46604b9f: End of collecting logcat...
+HPFinder's try count remains: 29
+Target PID : 6570
+Target PID : 6570
+Target PID : 6570
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample23.ilog)
+Target PID : 14267
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample23.ilog)
+Target PID : 
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample23.ilog)
+Target PID : 11278
+ExitReason-Code: 6 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample23.ilog)
+[*] FlowManager: adjust finished.
+[GOOD]: Anti-analysis is identified! :) -- 1 --devDebug
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:32be96		=(rels)=>		1
+[*] Unique action: 1:164100 : <<CALL>> : com.konylabs.android.KonyMain/b0439й0439йй0439йй:()Landroid/widget/RelativeLayout;:32be96  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+	1:compareBackwardBranch: 1:19445 : <<BRANCH>> : lccccc.miimim/b042B042B042B042BЫ042BЫ042B:()V:2111c8  =>  lccccc.miimim/b042B042B042B042BЫ042BЫ042B:()V:2112d0
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:13e27a		=(rels)=>		1
+[*] Unique action: 1:171794 : <<CALL>> : androidx.appcompat.app.AppCompatDelegateImpl/setContentView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:13e27a  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+	1:compareBackwardBranch: 1:19445 : <<BRANCH>> : lccccc.miimim/b042B042B042B042BЫ042BЫ042B:()V:2111c8  =>  lccccc.miimim/b042B042B042B042BЫ042BЫ042B:()V:2112d0
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:32bd1e		=(rels)=>		1
+[*] Unique action: 1:163753 : <<CALL>> : com.konylabs.android.KonyMain/b0439й0439йй0439йй:()Landroid/widget/RelativeLayout;:32bd1e  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+	1:compareBackwardBranch: 1:19445 : <<BRANCH>> : lccccc.miimim/b042B042B042B042BЫ042BЫ042B:()V:2111c8  =>  lccccc.miimim/b042B042B042B042BЫ042BЫ042B:()V:2112d0
+java.lang.System/exit:(I)V:2112bc		=(rels)=>		1
+[*] Unique action: 1:22199 : <<CALL>> : lccccc.miimim/b042B042B042B042BЫ042BЫ042B:()V:2112bc  =>  java.lang.System/exit:(I)V:ea908
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample23.ilog)
+	1:compareBackwardBranch2: 1:1306 : <<BRANCH>> : lccccc.bubbub/bССС0421СС0421С:(I)I:10b328  =>  lccccc.bubbub/bССС0421СС0421С:(I)I:10b32c
+Entry: 10b324
+lccccc.bubbub/bССС0421СС0421С:(I)I: 10b328 -> 10b32c
+		lccccc.bubbub/bССС0421СС0421С:(I)I: 4 -> 8
+addPatchReadme: java.lang.Class<lccccc.bubbub>bССС0421СС0421С(I)I 4 f
+Entry: 210e38
+lccccc.miimim/b042B042B042B042BЫ042BЫ042B:()V: 2111c8 -> 2112d0
+		lccccc.miimim/b042B042B042B042BЫ042BЫ042B:()V: 390 -> 498
+addPatchReadme: java.lang.Class<lccccc.miimim>b042B042B042B042BЫ042BЫ042B()V 390 t
+159ceeed: [+] Patches found in this round: 2
+159ceeed: [*] Found Patch size: 1
+Target PID : 
+ExitReason-Code: 6 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample23.ilog)
+159ceeed: 	@@@Found patch addr: 2111d8
+159ceeed: Querying offset: 2111c8
+159ceeed: 	--Add method name to patch = lccccc.miimim/b042B042B042B042BЫ042BЫ042B:()V 	2111c8
+[*] FlowManager: adjust finished.
+Action is completely same :)
+android.app.Dialog/show:()V:29f4e2		=(rels)=>		1
+[*] Unique action: 1:170101 : <<CALL>> : lccccc.tgtgtt/bЭ042DЭ042D042DЭЭ042D:()V:29f4e2  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch2: 1:2477 : <<BRANCH>> : lccccc.mmimmi/bЫ042B042BЫЫЫ042B042B:(Ljava/lang/String;C)Ljava/lang/String;:213a72  =>  lccccc.mmimmi/bЫ042B042BЫЫЫ042B042B:(Ljava/lang/String;C)Ljava/lang/String;:213a76
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29f324		=(rels)=>		1
+[*] Unique action: 1:169964 : <<CALL>> : lccccc.tgtgtt/b042DЭ042DЭ042DЭЭ042D:(Ljava/lang/String;I)V:29f324  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devTamper_sample23.ilog)
+	1:compareBackwardBranch2: 1:2477 : <<BRANCH>> : lccccc.mmimmi/bЫ042B042BЫЫЫ042B042B:(Ljava/lang/String;C)Ljava/lang/String;:213a72  =>  lccccc.mmimmi/bЫ042B042BЫЫЫ042B042B:(Ljava/lang/String;C)Ljava/lang/String;:213a76
+Entry: 213a50
+lccccc.mmimmi/bЫ042B042BЫЫЫ042B042B:(Ljava/lang/String;C)Ljava/lang/String;: 213a72 -> 213a76
+		lccccc.mmimmi/bЫ042B042BЫЫЫ042B042B:(Ljava/lang/String;C)Ljava/lang/String;: 22 -> 26
+addPatchReadme: java.lang.Class<lccccc.mmimmi>bЫ042B042BЫЫЫ042B042B(Ljava/lang/String;C)Ljava/lang/String; 22 f
+b29e6a69: [+] Patches found in this round: 1
+b29e6a69: [*] Found Patch size: 1
+Target PID : 
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample23.ilog)
+b29e6a69: 	@@@Found patch addr: 213a82
+b29e6a69: Querying offset: 213a72
+b29e6a69: 	--Add method name to patch = lccccc.mmimmi/bЫ042B042BЫЫЫ042B042B:(Ljava/lang/String;C)Ljava/lang/String; 	213a72
+[*] FlowManager: adjust finished.
+Action is completely same :)
+Action is completely same :)
+46604b9f: There is no difference. (tryAgain=false)
+Devices presenting anti-analysis: 
+	devRoot
+	devDebug
+b29e6a69: patching method: lccccc.mmimmi/bЫ042B042BЫЫЫ042B042B:(Ljava/lang/String;C)Ljava/lang/String;
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample23_devRoot
+Wow!!!!!  --  lccccc.mmimmi/bЫ042B042BЫЫЫ042B042B:(Ljava/lang/String;C)Ljava/lang/String;
+fallthrough: 26
+branchTarget: 26
+NOP!
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample23_devRoot/sample23.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample23_devRoot/signed_sample23.apk
+b29e6a69: First address of Llccccc/mmimmi;->bЫ042B042BЫЫЫ042B042B(Ljava/lang/String;C)Ljava/lang/String; = 213a60
+b29e6a69: Address - Llccccc/mmimmi;->bЫ042B042BЫЫЫ042B042B(Ljava/lang/String;C)Ljava/lang/String;@22	 lastOffset = ec
+b29e6a69: Instruction@@: IF_EQZ
+159ceeed: patching method: lccccc.miimim/b042B042B042B042BЫ042BЫ042B:()V
+159ceeed: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample23_devDebug
+Wow!!!!!  --  lccccc.miimim/b042B042B042B042BЫ042BЫ042B:()V
+fallthrough: 394
+branchTarget: 498
+label = cond_9
+GOTO -- 394 	498
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample23_devDebug/sample23.apk
+159ceeed: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample23_devDebug/signed_sample23.apk
+159ceeed: First address of Llccccc/miimim;->b042B042B042B042BЫ042BЫ042B()V = 210e48
+159ceeed: Address - Llccccc/miimim;->b042B042B042B042BЫ042BЫ042B()V@390	 lastOffset = 4ec
+159ceeed: Instruction@@: IF_EQZ
+b29e6a69: (Not Installed) Trying remove : true
+159ceeed: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample23_devRoot/signed_sample23.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample23_devDebug/signed_sample23.apk
+159ceeed: Installation Success
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+159ceeed: startApplication called! - devDebug
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample23.ilog)
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample23.ilog)
+b29e6a69: Running Application: com.deltadental.HealthApp
+PIDs--------------------------------------------------------------------------
+u0_a462        5237    423 14446820 109000 0                  0 R com.deltadental.HealthApp
+forward tcp:35535 jdwp:5237
+[*]Found JDWP Target: 5237
+159ceeed: Running Application: com.deltadental.HealthApp
+159ceeed: Running is done - starting comparing... : 10001
+159ceeed: Terminated logcat thread...by itself
+159ceeed: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+159ceeed: savedPid = null
+PIDs--------------------------------------------------------------------------
+159ceeed: savedPid2 = null
+Stopping app: com.deltadental.HealthApp
+Tryging remove : uninstall com.deltadental.HealthApp(com.deltadental.HealthApp)
+159ceeed: Remove Success
+159ceeed: ilog file size: 16536505
+159ceeed: End of collecting logcat...
+b29e6a69: Running is done - starting comparing... : 10001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.deltadental.HealthApp/.DeltaDental
+PIDs--------------------------------------------------------------------------
+u0_a156       11381    430 14787872 161808 0                  0 S com.deltadental.HealthApp
+b29e6a69: savedPid = 11381
+PIDs--------------------------------------------------------------------------
+u0_a156       11381    430 14787872 161808 0                  0 S com.deltadental.HealthApp
+b29e6a69: savedPid2 = 11381
+Stopping app: com.deltadental.HealthApp
+Tryging remove : uninstall com.deltadental.HealthApp(com.deltadental.HealthApp)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 191264902
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 28
+Target PID : 6570
+Target PID : 6570
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample23.ilog)
+Target PID : 11381
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample23.ilog)
+Target PID : 
+ExitReason-Code: 4 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample23.ilog)
+	System.exit called
+159ceeed: adding filter -- 2111c8
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 2111c8
+[GOOD]: Anti-analysis is identified! :) -- 1 --devDebug
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:32be96		=(rels)=>		1
+[*] Unique action: 1:164100 : <<CALL>> : com.konylabs.android.KonyMain/b0439й0439йй0439йй:()Landroid/widget/RelativeLayout;:32be96  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+	1:compareBackwardBranch: 1:54504 : <<BRANCH>> : com.kony.logger.LogPersisters.FileLogPersister/updateConfig:()V:31736a  =>  com.kony.logger.LogPersisters.FileLogPersister/updateConfig:()V:31736e
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:13e27a		=(rels)=>		1
+[*] Unique action: 1:171794 : <<CALL>> : androidx.appcompat.app.AppCompatDelegateImpl/setContentView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:13e27a  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+	1:compareBackwardBranch: 1:54504 : <<BRANCH>> : com.kony.logger.LogPersisters.FileLogPersister/updateConfig:()V:31736a  =>  com.kony.logger.LogPersisters.FileLogPersister/updateConfig:()V:31736e
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:32bd1e		=(rels)=>		1
+[*] Unique action: 1:163753 : <<CALL>> : com.konylabs.android.KonyMain/b0439й0439йй0439йй:()Landroid/widget/RelativeLayout;:32bd1e  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample23.ilog)
+b29e6a69: adding filter -- 213a72
+	1:compareBackwardBranch: 1:54504 : <<BRANCH>> : com.kony.logger.LogPersisters.FileLogPersister/updateConfig:()V:31736a  =>  com.kony.logger.LogPersisters.FileLogPersister/updateConfig:()V:31736e
+Action is completely same :)
+Entry: 317360
+com.kony.logger.LogPersisters.FileLogPersister/updateConfig:()V: 31736a -> 31736e
+		com.kony.logger.LogPersisters.FileLogPersister/updateConfig:()V: a -> e
+addPatchReadme: java.lang.Class<com.kony.logger.LogPersisters.FileLogPersister>updateConfig()V a f
+159ceeed: [+] Patches found in this round: 1
+159ceeed: [*] Found Patch size: 1
+Target PID : 
+ExitReason-Code: 4 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample23.ilog)
+	System.exit called
+159ceeed: @@localPatchFilter -- 2111d8
+159ceeed: 	@@@Found patch addr: 31737a
+159ceeed: Querying offset: 31736a
+159ceeed: 	--Add method name to patch = com.kony.logger.LogPersisters.FileLogPersister/updateConfig:()V 	31736a
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 213a72
+Action is completely same :)
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:414200		=(rels)=>		1
+[*] Unique action: 1:177932 : <<CALL>> : lccccc.tgtgtt/b042DЭ042DЭ042DЭЭ042D:(Ljava/lang/String;I)V:414200  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch2: 1:151 : <<BRANCH>> : lccccc.mmmimi/b042B042B042B042B042B042BЫ042B:(I)I:213c3c  =>  lccccc.mmmimi/b042B042B042B042B042B042BЫ042B:(I)I:213c40
+android.app.Dialog/show:()V:4143d6		=(rels)=>		1
+[*] Unique action: 1:178031 : <<CALL>> : lccccc.tgtgtt/bЭ042DЭ042D042DЭЭ042D:()V:4143d6  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch2: 1:151 : <<BRANCH>> : lccccc.mmmimi/b042B042B042B042B042B042BЫ042B:(I)I:213c3c  =>  lccccc.mmmimi/b042B042B042B042B042B042BЫ042B:(I)I:213c40
+Entry: 213c04
+lccccc.mmmimi/b042B042B042B042B042B042BЫ042B:(I)I: 213c3c -> 213c40
+		lccccc.mmmimi/b042B042B042B042B042B042BЫ042B:(I)I: 38 -> 3c
+addPatchReadme: java.lang.Class<lccccc.mmmimi>b042B042B042B042B042B042BЫ042B(I)I 38 f
+b29e6a69: [+] Patches found in this round: 1
+b29e6a69: [*] Found Patch size: 1
+Target PID : 
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample23.ilog)
+b29e6a69: @@localPatchFilter -- 213a82
+b29e6a69: 	@@@Found patch addr: 213c4c
+b29e6a69: Querying offset: 213c3c
+b29e6a69: 	--Add method name to patch = lccccc.mmmimi/b042B042B042B042B042B042BЫ042B:(I)I 	213c3c
+Devices presenting anti-analysis: 
+	devRoot
+	devDebug
+b29e6a69: patching method: lccccc.mmmimi/b042B042B042B042B042B042BЫ042B:(I)I
+b29e6a69: patching method: lccccc.mmimmi/bЫ042B042BЫЫЫ042B042B:(Ljava/lang/String;C)Ljava/lang/String;
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample23_devRoot
+Wow!!!!!  --  lccccc.mmimmi/bЫ042B042BЫЫЫ042B042B:(Ljava/lang/String;C)Ljava/lang/String;
+fallthrough: 26
+branchTarget: 26
+NOP!
+Wow!!!!!  --  lccccc.mmmimi/b042B042B042B042B042B042BЫ042B:(I)I
+fallthrough: 3c
+branchTarget: 3c
+NOP!
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample23_devRoot/sample23.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample23_devRoot/signed_sample23.apk
+b29e6a69: First address of Llccccc/mmmimi;->b042B042B042B042B042B042BЫ042B(I)I = 213c14
+b29e6a69: Address - Llccccc/mmmimi;->b042B042B042B042B042B042BЫ042B(I)I@38	 lastOffset = 6a
+b29e6a69: Instruction@@: IF_GEZ
+b29e6a69: First address of Llccccc/mmimmi;->bЫ042B042BЫЫЫ042B042B(Ljava/lang/String;C)Ljava/lang/String; = 213a60
+b29e6a69: Address - Llccccc/mmimmi;->bЫ042B042BЫЫЫ042B042B(Ljava/lang/String;C)Ljava/lang/String;@22	 lastOffset = ec
+b29e6a69: Instruction@@: IF_EQZ
+159ceeed: patching method: com.kony.logger.LogPersisters.FileLogPersister/updateConfig:()V
+159ceeed: patching method: lccccc.miimim/b042B042B042B042BЫ042BЫ042B:()V
+159ceeed: patching method: lccccc.mmmimi/b042B042B042B042B042B042BЫ042B:(I)I
+159ceeed: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample23_devDebug
+Wow!!!!!  --  com.kony.logger.LogPersisters.FileLogPersister/updateConfig:()V
+fallthrough: e
+branchTarget: e
+NOP!
+Wow!!!!!  --  lccccc.miimim/b042B042B042B042BЫ042BЫ042B:()V
+fallthrough: 394
+branchTarget: 498
+label = cond_9
+GOTO -- 394 	498
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample23_devDebug/sample23.apk
+159ceeed: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample23_devDebug/signed_sample23.apk
+159ceeed: First address of Lcom/kony/logger/LogPersisters/FileLogPersister;->updateConfig()V = 317370
+159ceeed: Address - Lcom/kony/logger/LogPersisters/FileLogPersister;->updateConfig()V@a	 lastOffset = 80
+159ceeed: Instruction@@: IF_NEZ
+159ceeed: First address of Llccccc/miimim;->b042B042B042B042BЫ042BЫ042B()V = 210e48
+159ceeed: Address - Llccccc/miimim;->b042B042B042B042BЫ042BЫ042B()V@390	 lastOffset = 4ec
+159ceeed: Instruction@@: IF_EQZ
+b29e6a69: (Not Installed) Trying remove : true
+159ceeed: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample23_devRoot/signed_sample23.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample23_devDebug/signed_sample23.apk
+159ceeed: Installation Success
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+159ceeed: startApplication called! - devDebug
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample23.ilog)
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample23.ilog)
+b29e6a69: Running Application: com.deltadental.HealthApp
+PIDs--------------------------------------------------------------------------
+u0_a463        5326    423 14446820 109204 0                  0 S com.deltadental.HealthApp
+forward tcp:35535 jdwp:5326
+[*]Found JDWP Target: 5326
+159ceeed: Running Application: com.deltadental.HealthApp
+b29e6a69: Running is done - starting comparing... : 10001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+b29e6a69: savedPid = null
+PIDs--------------------------------------------------------------------------
+b29e6a69: savedPid2 = null
+Stopping app: com.deltadental.HealthApp
+159ceeed: Running is done - starting comparing... : 10001
+159ceeed: Terminated logcat thread...by itself
+159ceeed: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+159ceeed: savedPid = null
+PIDs--------------------------------------------------------------------------
+159ceeed: savedPid2 = null
+Stopping app: com.deltadental.HealthApp
+Tryging remove : uninstall com.deltadental.HealthApp(com.deltadental.HealthApp)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 8141323
+b29e6a69: End of collecting logcat...
+Tryging remove : uninstall com.deltadental.HealthApp(com.deltadental.HealthApp)
+159ceeed: Remove Success
+159ceeed: ilog file size: 16296573
+159ceeed: End of collecting logcat...
+HPFinder's try count remains: 27
+Target PID : 6570
+Target PID : 6570
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample23.ilog)
+Target PID : 
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample23.ilog)
+Target PID : 
+ExitReason-Code: 5 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample23.ilog)
+b29e6a69: /home/santapark/Extended3/DEEPerence/reEx/sample23.apk launch is failed on devRoot
+b29e6a69: Failed Patch: 213c4c
+b29e6a69: adding filter -- 213a72
+ExitReason-Code: 4 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample23.ilog)
+	System.exit called
+159ceeed: adding filter -- 2111c8
+159ceeed: adding filter -- 31736a
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 2111c8
+-- current localPatchFilter: 31736a
+[GOOD]: Anti-analysis is identified! :) -- 1 --devDebug
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:32be96		=(rels)=>		1
+[*] Unique action: 1:164100 : <<CALL>> : com.konylabs.android.KonyMain/b0439й0439йй0439йй:()Landroid/widget/RelativeLayout;:32be96  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+	1:compareBackwardBranch: 1:19442 : <<BRANCH>> : lccccc.miimim/b042B042B042B042BЫ042BЫ042B:()V:2111ae  =>  lccccc.miimim/b042B042B042B042BЫ042BЫ042B:()V:2111b6
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:13e27a		=(rels)=>		1
+[*] Unique action: 1:171794 : <<CALL>> : androidx.appcompat.app.AppCompatDelegateImpl/setContentView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:13e27a  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 213a72
+-- current localPatchFilter: 213c3c
+Action is completely same :)
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:414200		=(rels)=>		1
+[*] Unique action: 1:177932 : <<CALL>> : lccccc.tgtgtt/b042DЭ042DЭ042DЭЭ042D:(Ljava/lang/String;I)V:414200  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:19442 : <<BRANCH>> : lccccc.miimim/b042B042B042B042BЫ042BЫ042B:()V:2111ae  =>  lccccc.miimim/b042B042B042B042BЫ042BЫ042B:()V:2111b6
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:32bd1e		=(rels)=>		1
+[*] Unique action: 1:163753 : <<CALL>> : com.konylabs.android.KonyMain/b0439й0439йй0439йй:()Landroid/widget/RelativeLayout;:32bd1e  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+	1:compareBackwardBranch2: 1:606 : <<BRANCH>> : lccccc.iimimi/b042BЫ042B042BЫ042B042B042B:()Z:1dba4a  =>  lccccc.iimimi/b042BЫ042B042BЫ042B042B042B:()Z:1dbada
+android.app.Dialog/show:()V:4143d6		=(rels)=>		1
+[*] Unique action: 1:178031 : <<CALL>> : lccccc.tgtgtt/bЭ042DЭ042D042DЭЭ042D:()V:4143d6  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch2: 1:606 : <<BRANCH>> : lccccc.iimimi/b042BЫ042B042BЫ042B042B042B:()Z:1dba4a  =>  lccccc.iimimi/b042BЫ042B042BЫ042B042B042B:()Z:1dbada
+Entry: 1dba40
+lccccc.iimimi/b042BЫ042B042BЫ042B042B042B:()Z: 1dba4a -> 1dbada
+		lccccc.iimimi/b042BЫ042B042BЫ042B042B042B:()Z: a -> 9a
+addPatchReadme: java.lang.Class<lccccc.iimimi>b042BЫ042B042BЫ042B042B042B()Z a t
+b29e6a69: [+] Patches found in this round: 1
+b29e6a69: [*] Found Patch size: 1
+Target PID : 
+ExitReason-Code: 5 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample23.ilog)
+b29e6a69: @@localPatchFilter -- 213a82
+b29e6a69: @@localPatchFilter -- 213c4c
+b29e6a69: 	@@@Found patch addr: 1dba5a
+b29e6a69: Querying offset: 1dba4a
+b29e6a69: 	--Add method name to patch = lccccc.iimimi/b042BЫ042B042BЫ042B042B042B:()Z 	1dba4a
+	1:compareBackwardBranch: 1:19442 : <<BRANCH>> : lccccc.miimim/b042B042B042B042BЫ042BЫ042B:()V:2111ae  =>  lccccc.miimim/b042B042B042B042BЫ042BЫ042B:()V:2111b6
+Action is completely same :)
+Entry: 210e38
+lccccc.miimim/b042B042B042B042BЫ042BЫ042B:()V: 2111ae -> 2111b6
+		lccccc.miimim/b042B042B042B042BЫ042BЫ042B:()V: 376 -> 37e
+addPatchReadme: java.lang.Class<lccccc.miimim>b042B042B042B042BЫ042BЫ042B()V 376 t
+159ceeed: [+] Patches found in this round: 1
+159ceeed: [*] Found Patch size: 1
+Target PID : 
+ExitReason-Code: 4 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample23.ilog)
+	System.exit called
+159ceeed: @@localPatchFilter -- 2111d8
+159ceeed: @@localPatchFilter -- 31737a
+159ceeed: 	@@@Found patch addr: 2111be
+159ceeed: Querying offset: 2111ae
+159ceeed: 	--Add method name to patch = lccccc.miimim/b042B042B042B042BЫ042BЫ042B:()V 	2111ae
+Devices presenting anti-analysis: 
+	devRoot
+	devDebug
+b29e6a69: patching method: lccccc.mmmimi/b042B042B042B042B042B042BЫ042B:(I)I
+b29e6a69: patching method: lccccc.mmimmi/bЫ042B042BЫЫЫ042B042B:(Ljava/lang/String;C)Ljava/lang/String;
+b29e6a69: patching method: lccccc.iimimi/b042BЫ042B042BЫ042B042B042B:()Z
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample23_devRoot
+Wow!!!!!  --  lccccc.iimimi/b042BЫ042B042BЫ042B042B042B:()Z
+fallthrough: e
+branchTarget: 9a
+label = cond_1
+GOTO -- e 	9a
+Wow!!!!!  --  lccccc.mmimmi/bЫ042B042BЫЫЫ042B042B:(Ljava/lang/String;C)Ljava/lang/String;
+fallthrough: 26
+branchTarget: 26
+NOP!
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample23_devRoot/sample23.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample23_devRoot/signed_sample23.apk
+b29e6a69: First address of Llccccc/mmimmi;->bЫ042B042BЫЫЫ042B042B(Ljava/lang/String;C)Ljava/lang/String; = 213a60
+b29e6a69: Address - Llccccc/mmimmi;->bЫ042B042BЫЫЫ042B042B(Ljava/lang/String;C)Ljava/lang/String;@22	 lastOffset = ec
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Llccccc/iimimi;->b042BЫ042B042BЫ042B042B042B()Z = 1dba50
+b29e6a69: Address - Llccccc/iimimi;->b042BЫ042B042BЫ042B042B042B()Z@a	 lastOffset = b0
+b29e6a69: Instruction@@: IF_GE
+159ceeed: patching method: com.kony.logger.LogPersisters.FileLogPersister/updateConfig:()V
+159ceeed: patching method: lccccc.miimim/b042B042B042B042BЫ042BЫ042B:()V
+159ceeed: patching method: lccccc.mmmimi/b042B042B042B042B042B042BЫ042B:(I)I
+159ceeed: patching method: lccccc.iimimi/b042BЫ042B042BЫ042B042B042B:()Z
+159ceeed: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample23_devDebug
+Wow!!!!!  --  com.kony.logger.LogPersisters.FileLogPersister/updateConfig:()V
+fallthrough: e
+branchTarget: e
+NOP!
+Wow!!!!!  --  lccccc.miimim/b042B042B042B042BЫ042BЫ042B:()V
+fallthrough: 37a
+branchTarget: 37e
+label = cond_4
+GOTO -- 37a 	37e
+Wow!!!!!  --  lccccc.miimim/b042B042B042B042BЫ042BЫ042B:()V
+fallthrough: 394
+branchTarget: 498
+label = cond_9
+GOTO -- 394 	498
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample23_devDebug/sample23.apk
+159ceeed: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample23_devDebug/signed_sample23.apk
+159ceeed: First address of Lcom/kony/logger/LogPersisters/FileLogPersister;->updateConfig()V = 317370
+159ceeed: Address - Lcom/kony/logger/LogPersisters/FileLogPersister;->updateConfig()V@a	 lastOffset = 80
+159ceeed: Instruction@@: IF_NEZ
+159ceeed: First address of Llccccc/miimim;->b042B042B042B042BЫ042BЫ042B()V = 210e48
+159ceeed: Address - Llccccc/miimim;->b042B042B042B042BЫ042BЫ042B()V@390	 lastOffset = 4ec
+159ceeed: Instruction@@: IF_EQZ
+159ceeed: First address of Llccccc/miimim;->b042B042B042B042BЫ042BЫ042B()V = 210e48
+159ceeed: Address - Llccccc/miimim;->b042B042B042B042BЫ042BЫ042B()V@376	 lastOffset = 4ec
+159ceeed: Instruction@@: IF_EQZ
+b29e6a69: (Not Installed) Trying remove : true
+159ceeed: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample23_devRoot/signed_sample23.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample23_devDebug/signed_sample23.apk
+159ceeed: Installation Success
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+159ceeed: startApplication called! - devDebug
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample23.ilog)
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample23.ilog)
+b29e6a69: Running Application: com.deltadental.HealthApp
+PIDs--------------------------------------------------------------------------
+u0_a464        5418    423 14446820 109368 0                  0 S com.deltadental.HealthApp
+forward tcp:35535 jdwp:5418
+[*]Found JDWP Target: 5418
+159ceeed: Running Application: com.deltadental.HealthApp
+b29e6a69: Running is done - starting comparing... : 10001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+b29e6a69: savedPid = null
+PIDs--------------------------------------------------------------------------
+b29e6a69: savedPid2 = null
+Stopping app: com.deltadental.HealthApp
+159ceeed: Running is done - starting comparing... : 10001
+159ceeed: Terminated logcat thread...by itself
+159ceeed: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+159ceeed: savedPid = null
+PIDs--------------------------------------------------------------------------
+159ceeed: savedPid2 = null
+Stopping app: com.deltadental.HealthApp
+Tryging remove : uninstall com.deltadental.HealthApp(com.deltadental.HealthApp)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 948690
+b29e6a69: End of collecting logcat...
+Tryging remove : uninstall com.deltadental.HealthApp(com.deltadental.HealthApp)
+159ceeed: Remove Success
+159ceeed: ilog file size: 16628864
+159ceeed: End of collecting logcat...
+HPFinder's try count remains: 26
+Target PID : 6570
+Target PID : 6570
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample23.ilog)
+Target PID : 
+ExitReason-Code: 5 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample23.ilog)
+b29e6a69: /home/santapark/Extended3/DEEPerence/reEx/sample23.apk launch is failed on devRoot
+b29e6a69: Failed Patch: 1dba5a
+b29e6a69: adding filter -- 213a72
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample23.ilog)
+Target PID : 
+ExitReason-Code: 4 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample23.ilog)
+	System.exit called
+159ceeed: adding filter -- 2111c8
+159ceeed: adding filter -- 31736a
+159ceeed: adding filter -- 2111ae
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 2111c8
+-- current localPatchFilter: 31736a
+-- current localPatchFilter: 2111ae
+[GOOD]: Anti-analysis is identified! :) -- 1 --devDebug
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:32be96		=(rels)=>		1
+[*] Unique action: 1:164100 : <<CALL>> : com.konylabs.android.KonyMain/b0439й0439йй0439йй:()Landroid/widget/RelativeLayout;:32be96  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 213a72
+-- current localPatchFilter: 1dba4a
+-- current localPatchFilter: 213c3c
+Action is completely same :)
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:414200		=(rels)=>		1
+[*] Unique action: 1:177932 : <<CALL>> : lccccc.tgtgtt/b042DЭ042DЭ042DЭЭ042D:(Ljava/lang/String;I)V:414200  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:13e27a		=(rels)=>		1
+[*] Unique action: 1:171794 : <<CALL>> : androidx.appcompat.app.AppCompatDelegateImpl/setContentView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:13e27a  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+	1:compareBackwardBranch2: 1:12312 : <<BRANCH>> : lccccc.miimmi/b042B042B042BЫЫЫ042B042B:(Ljava/lang/String;CC)Ljava/lang/String;:212f48  =>  lccccc.miimmi/b042B042B042BЫЫЫ042B042B:(Ljava/lang/String;CC)Ljava/lang/String;:212f4c
+android.app.Dialog/show:()V:4143d6		=(rels)=>		1
+[*] Unique action: 1:178031 : <<CALL>> : lccccc.tgtgtt/bЭ042DЭ042D042DЭЭ042D:()V:4143d6  =>  android.app.Dialog/show:()V:1b4adc
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:32bd1e		=(rels)=>		1
+[*] Unique action: 1:163753 : <<CALL>> : com.konylabs.android.KonyMain/b0439й0439йй0439йй:()Landroid/widget/RelativeLayout;:32bd1e  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+	1:compareBackwardBranch2: 1:12312 : <<BRANCH>> : lccccc.miimmi/b042B042B042BЫЫЫ042B042B:(Ljava/lang/String;CC)Ljava/lang/String;:212f48  =>  lccccc.miimmi/b042B042B042BЫЫЫ042B042B:(Ljava/lang/String;CC)Ljava/lang/String;:212f4c
+Entry: 212ea8
+lccccc.miimmi/b042B042B042BЫЫЫ042B042B:(Ljava/lang/String;CC)Ljava/lang/String;: 212f48 -> 212f4c
+		lccccc.miimmi/b042B042B042BЫЫЫ042B042B:(Ljava/lang/String;CC)Ljava/lang/String;: a0 -> a4
+addPatchReadme: java.lang.Class<lccccc.miimmi>b042B042B042BЫЫЫ042B042B(Ljava/lang/String;CC)Ljava/lang/String; a0 f
+b29e6a69: [+] Patches found in this round: 1
+b29e6a69: [*] Found Patch size: 1
+Target PID : 
+ExitReason-Code: 5 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample23.ilog)
+b29e6a69: @@localPatchFilter -- 213a82
+b29e6a69: @@localPatchFilter -- 1dba5a
+b29e6a69: @@localPatchFilter -- 213c4c
+b29e6a69: 	@@@Found patch addr: 212f58
+b29e6a69: Querying offset: 212f48
+b29e6a69: 	--Add method name to patch = lccccc.miimmi/b042B042B042BЫЫЫ042B042B:(Ljava/lang/String;CC)Ljava/lang/String; 	212f48
+Action is completely same :)
+Entry: 2f315c
+lccccc.xccccc/b042A042A042A042A042AЪ042A042A:()Landroid/content/Context;: 2f31f2 -> 2f31f6
+		lccccc.xccccc/b042A042A042A042A042AЪ042A042A:()Landroid/content/Context;: 96 -> 9a
+addPatchReadme: java.lang.Class<lccccc.xccccc>b042A042A042A042A042AЪ042A042A()Landroid/content/Context; 96 f
+159ceeed: [+] Patches found in this round: 1
+159ceeed: [*] Found Patch size: 1
+Target PID : 
+ExitReason-Code: 4 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample23.ilog)
+	System.exit called
+159ceeed: @@localPatchFilter -- 2111d8
+159ceeed: @@localPatchFilter -- 31737a
+159ceeed: @@localPatchFilter -- 2111be
+159ceeed: 	@@@Found patch addr: 2f3202
+159ceeed: Querying offset: 2f31f2
+159ceeed: 	--Add method name to patch = lccccc.xccccc/b042A042A042A042A042AЪ042A042A:()Landroid/content/Context; 	2f31f2
+Devices presenting anti-analysis: 
+	devRoot
+	devDebug
+b29e6a69: patching method: lccccc.mmmimi/b042B042B042B042B042B042BЫ042B:(I)I
+b29e6a69: patching method: lccccc.mmimmi/bЫ042B042BЫЫЫ042B042B:(Ljava/lang/String;C)Ljava/lang/String;
+b29e6a69: patching method: lccccc.miimmi/b042B042B042BЫЫЫ042B042B:(Ljava/lang/String;CC)Ljava/lang/String;
+b29e6a69: patching method: lccccc.iimimi/b042BЫ042B042BЫ042B042B042B:()Z
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample23_devRoot
+Wow!!!!!  --  lccccc.miimmi/b042B042B042BЫЫЫ042B042B:(Ljava/lang/String;CC)Ljava/lang/String;
+fallthrough: a4
+branchTarget: a4
+NOP!
+Wow!!!!!  --  lccccc.mmimmi/bЫ042B042BЫЫЫ042B042B:(Ljava/lang/String;C)Ljava/lang/String;
+fallthrough: 26
+branchTarget: 26
+NOP!
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample23_devRoot/sample23.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample23_devRoot/signed_sample23.apk
+b29e6a69: First address of Llccccc/mmimmi;->bЫ042B042BЫЫЫ042B042B(Ljava/lang/String;C)Ljava/lang/String; = 213a60
+b29e6a69: Address - Llccccc/mmimmi;->bЫ042B042BЫЫЫ042B042B(Ljava/lang/String;C)Ljava/lang/String;@22	 lastOffset = ec
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Llccccc/miimmi;->b042B042B042BЫЫЫ042B042B(Ljava/lang/String;CC)Ljava/lang/String; = 212eb8
+b29e6a69: Address - Llccccc/miimmi;->b042B042B042BЫЫЫ042B042B(Ljava/lang/String;CC)Ljava/lang/String;@a0	 lastOffset = fc
+b29e6a69: Instruction@@: IF_EQZ
+159ceeed: patching method: com.kony.logger.LogPersisters.FileLogPersister/updateConfig:()V
+159ceeed: patching method: lccccc.miimim/b042B042B042B042BЫ042BЫ042B:()V
+159ceeed: patching method: lccccc.xccccc/b042A042A042A042A042AЪ042A042A:()Landroid/content/Context;
+159ceeed: patching method: lccccc.mmmimi/b042B042B042B042B042B042BЫ042B:(I)I
+159ceeed: patching method: lccccc.miimmi/b042B042B042BЫЫЫ042B042B:(Ljava/lang/String;CC)Ljava/lang/String;
+159ceeed: patching method: lccccc.iimimi/b042BЫ042B042BЫ042B042B042B:()Z
+159ceeed: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample23_devDebug
+Wow!!!!!  --  com.kony.logger.LogPersisters.FileLogPersister/updateConfig:()V
+fallthrough: e
+branchTarget: e
+NOP!
+Wow!!!!!  --  lccccc.miimim/b042B042B042B042BЫ042BЫ042B:()V
+fallthrough: 37a
+branchTarget: 37e
+label = cond_4
+GOTO -- 37a 	37e
+Wow!!!!!  --  lccccc.miimim/b042B042B042B042BЫ042BЫ042B:()V
+fallthrough: 394
+branchTarget: 498
+label = cond_9
+GOTO -- 394 	498
+Wow!!!!!  --  lccccc.xccccc/b042A042A042A042A042AЪ042A042A:()Landroid/content/Context;
+fallthrough: 9a
+branchTarget: 9a
+NOP!
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample23_devDebug/sample23.apk
+159ceeed: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample23_devDebug/signed_sample23.apk
+159ceeed: First address of Lcom/kony/logger/LogPersisters/FileLogPersister;->updateConfig()V = 317370
+159ceeed: Address - Lcom/kony/logger/LogPersisters/FileLogPersister;->updateConfig()V@a	 lastOffset = 80
+159ceeed: Instruction@@: IF_NEZ
+159ceeed: First address of Llccccc/miimim;->b042B042B042B042BЫ042BЫ042B()V = 210e48
+159ceeed: Address - Llccccc/miimim;->b042B042B042B042BЫ042BЫ042B()V@390	 lastOffset = 4ec
+159ceeed: Instruction@@: IF_EQZ
+159ceeed: First address of Llccccc/miimim;->b042B042B042B042BЫ042BЫ042B()V = 210e48
+159ceeed: Address - Llccccc/miimim;->b042B042B042B042BЫ042BЫ042B()V@376	 lastOffset = 4ec
+159ceeed: Instruction@@: IF_EQZ
+159ceeed: First address of Llccccc/xccccc;->b042A042A042A042A042AЪ042A042A()Landroid/content/Context; = 2f316c
+159ceeed: Address - Llccccc/xccccc;->b042A042A042A042A042AЪ042A042A()Landroid/content/Context;@96	 lastOffset = c0
+159ceeed: Instruction@@: IF_EQZ
+b29e6a69: (Not Installed) Trying remove : true
+159ceeed: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample23_devRoot/signed_sample23.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample23_devDebug/signed_sample23.apk
+159ceeed: Installation Success
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+159ceeed: startApplication called! - devDebug
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample23.ilog)
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample23.ilog)
+b29e6a69: Running Application: com.deltadental.HealthApp
+PIDs--------------------------------------------------------------------------
+forward tcp:35535 jdwp:null
+[*]Found JDWP Target: null
+159ceeed: Running Application: com.deltadental.HealthApp
+159ceeed: Running is done - starting comparing... : 10001
+159ceeed: Terminated logcat thread...by itself
+159ceeed: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+159ceeed: savedPid = null
+PIDs--------------------------------------------------------------------------
+159ceeed: savedPid2 = null
+Stopping app: com.deltadental.HealthApp
+Tryging remove : uninstall com.deltadental.HealthApp(com.deltadental.HealthApp)
+159ceeed: Remove Success
+159ceeed: ilog file size: 4284433
+159ceeed: End of collecting logcat...
+b29e6a69: Running is done - starting comparing... : 10001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+b29e6a69: savedPid = null
+PIDs--------------------------------------------------------------------------
+b29e6a69: savedPid2 = null
+Stopping app: com.deltadental.HealthApp
+Tryging remove : uninstall com.deltadental.HealthApp(com.deltadental.HealthApp)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 29646533
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 25
+Target PID : 6570
+Target PID : 6570
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample23.ilog)
+Target PID : 
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample23.ilog)
+Target PID : 
+ExitReason-Code: 5 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample23.ilog)
+159ceeed: /home/santapark/Extended3/DEEPerence/reEx/sample23.apk launch is failed on devDebug
+159ceeed: Failed Patch: 2f3202
+159ceeed: adding filter -- 2111c8
+159ceeed: adding filter -- 31736a
+159ceeed: adding filter -- 2111ae
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 2111c8
+-- current localPatchFilter: 31736a
+-- current localPatchFilter: 2f31f2
+-- current localPatchFilter: 2111ae
+[GOOD]: Anti-analysis is identified! :) -- 1 --devDebug
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:32be96		=(rels)=>		1
+[*] Unique action: 1:164100 : <<CALL>> : com.konylabs.android.KonyMain/b0439й0439йй0439йй:()Landroid/widget/RelativeLayout;:32be96  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+ExitReason-Code: 5 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample23.ilog)
+b29e6a69: /home/santapark/Extended3/DEEPerence/reEx/sample23.apk launch is failed on devRoot
+b29e6a69: Failed Patch: 212f58
+b29e6a69: adding filter -- 213a72
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:13e27a		=(rels)=>		1
+[*] Unique action: 1:171794 : <<CALL>> : androidx.appcompat.app.AppCompatDelegateImpl/setContentView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:13e27a  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 213a72
+-- current localPatchFilter: 1dba4a
+-- current localPatchFilter: 212f48
+-- current localPatchFilter: 213c3c
+Action is completely same :)
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:414200		=(rels)=>		1
+[*] Unique action: 1:177932 : <<CALL>> : lccccc.tgtgtt/b042DЭ042DЭ042DЭЭ042D:(Ljava/lang/String;I)V:414200  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch2: 1:1761 : <<BRANCH>> : lccccc.imiiim/b042B042B042BЫЫЫ042B042B:(Ljava/lang/String;CC)Ljava/lang/String;:1dc3ce  =>  lccccc.imiiim/b042B042B042BЫЫЫ042B042B:(Ljava/lang/String;CC)Ljava/lang/String;:1dc3d2
+android.app.Dialog/show:()V:4143d6		=(rels)=>		1
+[*] Unique action: 1:178031 : <<CALL>> : lccccc.tgtgtt/bЭ042DЭ042D042DЭЭ042D:()V:4143d6  =>  android.app.Dialog/show:()V:1b4adc
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:32bd1e		=(rels)=>		1
+[*] Unique action: 1:163753 : <<CALL>> : com.konylabs.android.KonyMain/b0439й0439йй0439йй:()Landroid/widget/RelativeLayout;:32bd1e  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+	1:compareBackwardBranch2: 1:1761 : <<BRANCH>> : lccccc.imiiim/b042B042B042BЫЫЫ042B042B:(Ljava/lang/String;CC)Ljava/lang/String;:1dc3ce  =>  lccccc.imiiim/b042B042B042BЫЫЫ042B042B:(Ljava/lang/String;CC)Ljava/lang/String;:1dc3d2
+Entry: 1dc3ac
+lccccc.imiiim/b042B042B042BЫЫЫ042B042B:(Ljava/lang/String;CC)Ljava/lang/String;: 1dc3ce -> 1dc3d2
+		lccccc.imiiim/b042B042B042BЫЫЫ042B042B:(Ljava/lang/String;CC)Ljava/lang/String;: 22 -> 26
+addPatchReadme: java.lang.Class<lccccc.imiiim>b042B042B042BЫЫЫ042B042B(Ljava/lang/String;CC)Ljava/lang/String; 22 f
+b29e6a69: [+] Patches found in this round: 1
+b29e6a69: [*] Found Patch size: 1
+Target PID : 
+Action is completely same :)
+159ceeed: There is no difference. (tryAgain=false)
+ExitReason-Code: 5 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample23.ilog)
+b29e6a69: @@localPatchFilter -- 213a82
+b29e6a69: @@localPatchFilter -- 1dba5a
+b29e6a69: @@localPatchFilter -- 212f58
+b29e6a69: @@localPatchFilter -- 213c4c
+b29e6a69: 	@@@Found patch addr: 1dc3de
+b29e6a69: Querying offset: 1dc3ce
+b29e6a69: 	--Add method name to patch = lccccc.imiiim/b042B042B042BЫЫЫ042B042B:(Ljava/lang/String;CC)Ljava/lang/String; 	1dc3ce
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: patching method: lccccc.mmmimi/b042B042B042B042B042B042BЫ042B:(I)I
+b29e6a69: patching method: lccccc.mmimmi/bЫ042B042BЫЫЫ042B042B:(Ljava/lang/String;C)Ljava/lang/String;
+b29e6a69: patching method: lccccc.imiiim/b042B042B042BЫЫЫ042B042B:(Ljava/lang/String;CC)Ljava/lang/String;
+b29e6a69: patching method: lccccc.miimmi/b042B042B042BЫЫЫ042B042B:(Ljava/lang/String;CC)Ljava/lang/String;
+b29e6a69: patching method: lccccc.iimimi/b042BЫ042B042BЫ042B042B042B:()Z
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample23_devRoot
+Wow!!!!!  --  lccccc.imiiim/b042B042B042BЫЫЫ042B042B:(Ljava/lang/String;CC)Ljava/lang/String;
+fallthrough: 26
+branchTarget: 26
+NOP!
+Wow!!!!!  --  lccccc.mmimmi/bЫ042B042BЫЫЫ042B042B:(Ljava/lang/String;C)Ljava/lang/String;
+fallthrough: 26
+branchTarget: 26
+NOP!
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample23_devRoot/sample23.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample23_devRoot/signed_sample23.apk
+b29e6a69: First address of Llccccc/mmimmi;->bЫ042B042BЫЫЫ042B042B(Ljava/lang/String;C)Ljava/lang/String; = 213a60
+b29e6a69: Address - Llccccc/mmimmi;->bЫ042B042BЫЫЫ042B042B(Ljava/lang/String;C)Ljava/lang/String;@22	 lastOffset = ec
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Llccccc/imiiim;->b042B042B042BЫЫЫ042B042B(Ljava/lang/String;CC)Ljava/lang/String; = 1dc3bc
+b29e6a69: Address - Llccccc/imiiim;->b042B042B042BЫЫЫ042B042B(Ljava/lang/String;CC)Ljava/lang/String;@22	 lastOffset = 6a
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample23_devRoot/signed_sample23.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample23.ilog)
+b29e6a69: Running Application: com.deltadental.HealthApp
+b29e6a69: Running is done - starting comparing... : 10001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.deltadental.HealthApp/.DeltaDental
+PIDs--------------------------------------------------------------------------
+u0_a160       11770    430 14909772 159948 0                  0 S com.deltadental.HealthApp
+b29e6a69: savedPid = 11770
+PIDs--------------------------------------------------------------------------
+u0_a160       11770    430 14909772 159948 0                  0 S com.deltadental.HealthApp
+b29e6a69: savedPid2 = 11770
+Stopping app: com.deltadental.HealthApp
+Tryging remove : uninstall com.deltadental.HealthApp(com.deltadental.HealthApp)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 191423539
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 24
+Target PID : 6570
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample23.ilog)
+Target PID : 11770
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample23.ilog)
+b29e6a69: adding filter -- 213a72
+b29e6a69: adding filter -- 1dc3ce
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 213a72
+-- current localPatchFilter: 1dc3ce
+-- current localPatchFilter: 1dba4a
+-- current localPatchFilter: 212f48
+-- current localPatchFilter: 213c3c
+Action is completely same :)
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:414200		=(rels)=>		1
+[*] Unique action: 1:183340 : <<CALL>> : lccccc.tgtgtt/b042DЭ042DЭ042DЭЭ042D:(Ljava/lang/String;I)V:414200  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch2: 1:15878 : <<BRANCH>> : lccccc.mimmmi/b042B042B042BЫЫЫ042B042B:(Ljava/lang/String;CC)Ljava/lang/String;:213342  =>  lccccc.mimmmi/b042B042B042BЫЫЫ042B042B:(Ljava/lang/String;CC)Ljava/lang/String;:213346
+android.app.Dialog/show:()V:4143d6		=(rels)=>		1
+[*] Unique action: 1:183476 : <<CALL>> : lccccc.tgtgtt/bЭ042DЭ042D042DЭЭ042D:()V:4143d6  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch2: 1:15878 : <<BRANCH>> : lccccc.mimmmi/b042B042B042BЫЫЫ042B042B:(Ljava/lang/String;CC)Ljava/lang/String;:213342  =>  lccccc.mimmmi/b042B042B042BЫЫЫ042B042B:(Ljava/lang/String;CC)Ljava/lang/String;:213346
+Entry: 2132f4
+lccccc.mimmmi/b042B042B042BЫЫЫ042B042B:(Ljava/lang/String;CC)Ljava/lang/String;: 213342 -> 213346
+		lccccc.mimmmi/b042B042B042BЫЫЫ042B042B:(Ljava/lang/String;CC)Ljava/lang/String;: 4e -> 52
+addPatchReadme: java.lang.Class<lccccc.mimmmi>b042B042B042BЫЫЫ042B042B(Ljava/lang/String;CC)Ljava/lang/String; 4e f
+b29e6a69: [+] Patches found in this round: 1
+b29e6a69: [*] Found Patch size: 1
+Target PID : 
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample23.ilog)
+b29e6a69: @@localPatchFilter -- 213a82
+b29e6a69: @@localPatchFilter -- 1dc3de
+b29e6a69: @@localPatchFilter -- 1dba5a
+b29e6a69: @@localPatchFilter -- 212f58
+b29e6a69: @@localPatchFilter -- 213c4c
+b29e6a69: 	@@@Found patch addr: 213352
+b29e6a69: Querying offset: 213342
+b29e6a69: 	--Add method name to patch = lccccc.mimmmi/b042B042B042BЫЫЫ042B042B:(Ljava/lang/String;CC)Ljava/lang/String; 	213342
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: patching method: lccccc.mimmmi/b042B042B042BЫЫЫ042B042B:(Ljava/lang/String;CC)Ljava/lang/String;
+b29e6a69: patching method: lccccc.mmmimi/b042B042B042B042B042B042BЫ042B:(I)I
+b29e6a69: patching method: lccccc.mmimmi/bЫ042B042BЫЫЫ042B042B:(Ljava/lang/String;C)Ljava/lang/String;
+b29e6a69: patching method: lccccc.imiiim/b042B042B042BЫЫЫ042B042B:(Ljava/lang/String;CC)Ljava/lang/String;
+b29e6a69: patching method: lccccc.miimmi/b042B042B042BЫЫЫ042B042B:(Ljava/lang/String;CC)Ljava/lang/String;
+b29e6a69: patching method: lccccc.iimimi/b042BЫ042B042BЫ042B042B042B:()Z
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample23_devRoot
+Wow!!!!!  --  lccccc.imiiim/b042B042B042BЫЫЫ042B042B:(Ljava/lang/String;CC)Ljava/lang/String;
+fallthrough: 26
+branchTarget: 26
+NOP!
+Wow!!!!!  --  lccccc.mimmmi/b042B042B042BЫЫЫ042B042B:(Ljava/lang/String;CC)Ljava/lang/String;
+fallthrough: 52
+branchTarget: 52
+NOP!
+Wow!!!!!  --  lccccc.mmimmi/bЫ042B042BЫЫЫ042B042B:(Ljava/lang/String;C)Ljava/lang/String;
+fallthrough: 26
+branchTarget: 26
+NOP!
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample23_devRoot/sample23.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample23_devRoot/signed_sample23.apk
+b29e6a69: First address of Llccccc/mimmmi;->b042B042B042BЫЫЫ042B042B(Ljava/lang/String;CC)Ljava/lang/String; = 213304
+b29e6a69: Address - Llccccc/mimmmi;->b042B042B042BЫЫЫ042B042B(Ljava/lang/String;CC)Ljava/lang/String;@4e	 lastOffset = e4
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Llccccc/mmimmi;->bЫ042B042BЫЫЫ042B042B(Ljava/lang/String;C)Ljava/lang/String; = 213a60
+b29e6a69: Address - Llccccc/mmimmi;->bЫ042B042BЫЫЫ042B042B(Ljava/lang/String;C)Ljava/lang/String;@22	 lastOffset = ec
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Llccccc/imiiim;->b042B042B042BЫЫЫ042B042B(Ljava/lang/String;CC)Ljava/lang/String; = 1dc3bc
+b29e6a69: Address - Llccccc/imiiim;->b042B042B042BЫЫЫ042B042B(Ljava/lang/String;CC)Ljava/lang/String;@22	 lastOffset = 6a
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample23_devRoot/signed_sample23.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample23.ilog)
+b29e6a69: Running Application: com.deltadental.HealthApp
+b29e6a69: Running is done - starting comparing... : 10001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.deltadental.HealthApp/.DeltaDental
+PIDs--------------------------------------------------------------------------
+u0_a161       11873    430 14766876 161108 0                  0 S com.deltadental.HealthApp
+b29e6a69: savedPid = 11873
+PIDs--------------------------------------------------------------------------
+u0_a161       11873    430 14766876 161108 0                  0 S com.deltadental.HealthApp
+b29e6a69: savedPid2 = 11873
+Stopping app: com.deltadental.HealthApp
+Tryging remove : uninstall com.deltadental.HealthApp(com.deltadental.HealthApp)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 121613110
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 23
+Target PID : 6570
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample23.ilog)
+Target PID : 11873
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample23.ilog)
+b29e6a69: adding filter -- 213a72
+b29e6a69: adding filter -- 1dc3ce
+b29e6a69: adding filter -- 213342
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 213a72
+-- current localPatchFilter: 1dc3ce
+-- current localPatchFilter: 213342
+-- current localPatchFilter: 1dba4a
+-- current localPatchFilter: 212f48
+-- current localPatchFilter: 213c3c
+Action is completely same :)
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:414200		=(rels)=>		1
+[*] Unique action: 1:174213 : <<CALL>> : lccccc.tgtgtt/b042DЭ042DЭ042DЭЭ042D:(Ljava/lang/String;I)V:414200  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch2: 1:7474 : <<BRANCH>> : lccccc.mmmmmi/bЫ042B042BЫЫЫ042B042B:(Ljava/lang/String;C)Ljava/lang/String;:214b5a  =>  lccccc.mmmmmi/bЫ042B042BЫЫЫ042B042B:(Ljava/lang/String;C)Ljava/lang/String;:214bc2
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:32bef0		=(rels)=>		1
+[*] Unique action: 1:155892 : <<CALL>> : com.konylabs.android.KonyMain/b0439й0439йй0439йй:()Landroid/widget/RelativeLayout;:32bef0  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+	1:compareBackwardBranch2: 1:164118 : <<BRANCH>> : com.konylabs.android.KonyMain/b0439й0439йй0439йй:()Landroid/widget/RelativeLayout;:32bebe  =>  com.konylabs.android.KonyMain/b0439й0439йй0439йй:()Landroid/widget/RelativeLayout;:32bef6
+android.app.Dialog/show:()V:4143d6		=(rels)=>		1
+[*] Unique action: 1:174373 : <<CALL>> : lccccc.tgtgtt/bЭ042DЭ042D042DЭЭ042D:()V:4143d6  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch2: 1:7474 : <<BRANCH>> : lccccc.mmmmmi/bЫ042B042BЫЫЫ042B042B:(Ljava/lang/String;C)Ljava/lang/String;:214b5a  =>  lccccc.mmmmmi/bЫ042B042BЫЫЫ042B042B:(Ljava/lang/String;C)Ljava/lang/String;:214bc2
+Entry: 32b784
+com.konylabs.android.KonyMain/b0439й0439йй0439йй:()Landroid/widget/RelativeLayout;: 32bebe -> 32bef6
+		com.konylabs.android.KonyMain/b0439й0439йй0439йй:()Landroid/widget/RelativeLayout;: 73a -> 772
+addPatchReadme: java.lang.Class<com.konylabs.android.KonyMain>b0439й0439йй0439йй()Landroid/widget/RelativeLayout; 73a t
+Entry: 214b38
+lccccc.mmmmmi/bЫ042B042BЫЫЫ042B042B:(Ljava/lang/String;C)Ljava/lang/String;: 214b5a -> 214bc2
+		lccccc.mmmmmi/bЫ042B042BЫЫЫ042B042B:(Ljava/lang/String;C)Ljava/lang/String;: 22 -> 8a
+addPatchReadme: java.lang.Class<lccccc.mmmmmi>bЫ042B042BЫЫЫ042B042B(Ljava/lang/String;C)Ljava/lang/String; 22 t
+b29e6a69: [+] Patches found in this round: 2
+b29e6a69: [*] Found Patch size: 1
+Target PID : 
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample23.ilog)
+b29e6a69: @@localPatchFilter -- 213a82
+b29e6a69: @@localPatchFilter -- 1dc3de
+b29e6a69: @@localPatchFilter -- 213352
+b29e6a69: @@localPatchFilter -- 1dba5a
+b29e6a69: @@localPatchFilter -- 212f58
+b29e6a69: @@localPatchFilter -- 213c4c
+b29e6a69: 	@@@Found patch addr: 214b6a
+b29e6a69: Querying offset: 214b5a
+b29e6a69: 	--Add method name to patch = lccccc.mmmmmi/bЫ042B042BЫЫЫ042B042B:(Ljava/lang/String;C)Ljava/lang/String; 	214b5a
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: patching method: lccccc.mimmmi/b042B042B042BЫЫЫ042B042B:(Ljava/lang/String;CC)Ljava/lang/String;
+b29e6a69: patching method: lccccc.mmmimi/b042B042B042B042B042B042BЫ042B:(I)I
+b29e6a69: patching method: lccccc.mmmmmi/bЫ042B042BЫЫЫ042B042B:(Ljava/lang/String;C)Ljava/lang/String;
+b29e6a69: patching method: lccccc.mmimmi/bЫ042B042BЫЫЫ042B042B:(Ljava/lang/String;C)Ljava/lang/String;
+b29e6a69: patching method: lccccc.imiiim/b042B042B042BЫЫЫ042B042B:(Ljava/lang/String;CC)Ljava/lang/String;
+b29e6a69: patching method: lccccc.miimmi/b042B042B042BЫЫЫ042B042B:(Ljava/lang/String;CC)Ljava/lang/String;
+b29e6a69: patching method: lccccc.iimimi/b042BЫ042B042BЫ042B042B042B:()Z
+b29e6a69: patching method: com.konylabs.android.KonyMain/b0439й0439йй0439йй:()Landroid/widget/RelativeLayout;
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample23_devRoot
+Wow!!!!!  --  lccccc.imiiim/b042B042B042BЫЫЫ042B042B:(Ljava/lang/String;CC)Ljava/lang/String;
+fallthrough: 26
+branchTarget: 26
+NOP!
+Wow!!!!!  --  lccccc.mimmmi/b042B042B042BЫЫЫ042B042B:(Ljava/lang/String;CC)Ljava/lang/String;
+fallthrough: 52
+branchTarget: 52
+NOP!
+Wow!!!!!  --  lccccc.mmimmi/bЫ042B042BЫЫЫ042B042B:(Ljava/lang/String;C)Ljava/lang/String;
+fallthrough: 26
+branchTarget: 26
+NOP!
+Wow!!!!!  --  lccccc.mmmmmi/bЫ042B042BЫЫЫ042B042B:(Ljava/lang/String;C)Ljava/lang/String;
+fallthrough: 26
+branchTarget: 8a
+label = cond_1
+GOTO -- 26 	8a
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample23_devRoot/sample23.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample23_devRoot/signed_sample23.apk
+b29e6a69: First address of Llccccc/mimmmi;->b042B042B042BЫЫЫ042B042B(Ljava/lang/String;CC)Ljava/lang/String; = 213304
+b29e6a69: Address - Llccccc/mimmmi;->b042B042B042BЫЫЫ042B042B(Ljava/lang/String;CC)Ljava/lang/String;@4e	 lastOffset = e4
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Llccccc/mmmmmi;->bЫ042B042BЫЫЫ042B042B(Ljava/lang/String;C)Ljava/lang/String; = 214b48
+b29e6a69: Address - Llccccc/mmmmmi;->bЫ042B042BЫЫЫ042B042B(Ljava/lang/String;C)Ljava/lang/String;@22	 lastOffset = 9c
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Llccccc/mmimmi;->bЫ042B042BЫЫЫ042B042B(Ljava/lang/String;C)Ljava/lang/String; = 213a60
+b29e6a69: Address - Llccccc/mmimmi;->bЫ042B042BЫЫЫ042B042B(Ljava/lang/String;C)Ljava/lang/String;@22	 lastOffset = ec
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Llccccc/imiiim;->b042B042B042BЫЫЫ042B042B(Ljava/lang/String;CC)Ljava/lang/String; = 1dc3bc
+b29e6a69: Address - Llccccc/imiiim;->b042B042B042BЫЫЫ042B042B(Ljava/lang/String;CC)Ljava/lang/String;@22	 lastOffset = 6a
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample23_devRoot/signed_sample23.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample23.ilog)
+b29e6a69: Running Application: com.deltadental.HealthApp
+b29e6a69: Running is done - starting comparing... : 10001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.deltadental.HealthApp/.DeltaDental
+PIDs--------------------------------------------------------------------------
+u0_a162       11974    430 14791452 161016 0                  0 S com.deltadental.HealthApp
+b29e6a69: savedPid = 11974
+PIDs--------------------------------------------------------------------------
+u0_a162       11974    430 14791452 161016 0                  0 S com.deltadental.HealthApp
+b29e6a69: savedPid2 = 11974
+Stopping app: com.deltadental.HealthApp
+Tryging remove : uninstall com.deltadental.HealthApp(com.deltadental.HealthApp)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 121211717
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 22
+Target PID : 6570
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample23.ilog)
+Target PID : 11974
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample23.ilog)
+b29e6a69: adding filter -- 213a72
+b29e6a69: adding filter -- 1dc3ce
+b29e6a69: adding filter -- 213342
+b29e6a69: adding filter -- 214b5a
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 213a72
+-- current localPatchFilter: 1dc3ce
+-- current localPatchFilter: 213342
+-- current localPatchFilter: 1dba4a
+-- current localPatchFilter: 212f48
+-- current localPatchFilter: 214b5a
+-- current localPatchFilter: 213c3c
+Action is completely same :)
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:414200		=(rels)=>		1
+[*] Unique action: 1:159899 : <<CALL>> : lccccc.tgtgtt/b042DЭ042DЭ042DЭЭ042D:(Ljava/lang/String;I)V:414200  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch2: 1:104 : <<BRANCH>> : lccccc.imimmi/bЫ042B042BЫЫЫ042B042B:(Ljava/lang/String;C)Ljava/lang/String;:1dc4f2  =>  lccccc.imimmi/bЫ042B042BЫЫЫ042B042B:(Ljava/lang/String;C)Ljava/lang/String;:1dc4f6
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:32bef0		=(rels)=>		1
+[*] Unique action: 1:142463 : <<CALL>> : com.konylabs.android.KonyMain/b0439й0439йй0439йй:()Landroid/widget/RelativeLayout;:32bef0  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+	1:compareBackwardBranch2: 1:164118 : <<BRANCH>> : com.konylabs.android.KonyMain/b0439й0439йй0439йй:()Landroid/widget/RelativeLayout;:32bebe  =>  com.konylabs.android.KonyMain/b0439й0439йй0439йй:()Landroid/widget/RelativeLayout;:32bef6
+android.app.Dialog/show:()V:4143d6		=(rels)=>		1
+[*] Unique action: 1:160054 : <<CALL>> : lccccc.tgtgtt/bЭ042DЭ042D042DЭЭ042D:()V:4143d6  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch2: 1:104 : <<BRANCH>> : lccccc.imimmi/bЫ042B042BЫЫЫ042B042B:(Ljava/lang/String;C)Ljava/lang/String;:1dc4f2  =>  lccccc.imimmi/bЫ042B042BЫЫЫ042B042B:(Ljava/lang/String;C)Ljava/lang/String;:1dc4f6
+Entry: 32b784
+com.konylabs.android.KonyMain/b0439й0439йй0439йй:()Landroid/widget/RelativeLayout;: 32bebe -> 32bef6
+		com.konylabs.android.KonyMain/b0439й0439йй0439йй:()Landroid/widget/RelativeLayout;: 73a -> 772
+addPatchReadme: java.lang.Class<com.konylabs.android.KonyMain>b0439й0439йй0439йй()Landroid/widget/RelativeLayout; 73a t
+Entry: 1dc470
+lccccc.imimmi/bЫ042B042BЫЫЫ042B042B:(Ljava/lang/String;C)Ljava/lang/String;: 1dc4f2 -> 1dc4f6
+		lccccc.imimmi/bЫ042B042BЫЫЫ042B042B:(Ljava/lang/String;C)Ljava/lang/String;: 82 -> 86
+addPatchReadme: java.lang.Class<lccccc.imimmi>bЫ042B042BЫЫЫ042B042B(Ljava/lang/String;C)Ljava/lang/String; 82 f
+b29e6a69: [+] Patches found in this round: 2
+b29e6a69: [*] Found Patch size: 1
+Target PID : 
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample23.ilog)
+b29e6a69: @@localPatchFilter -- 213a82
+b29e6a69: @@localPatchFilter -- 1dc3de
+b29e6a69: @@localPatchFilter -- 213352
+b29e6a69: @@localPatchFilter -- 1dba5a
+b29e6a69: @@localPatchFilter -- 212f58
+b29e6a69: @@localPatchFilter -- 214b6a
+b29e6a69: @@localPatchFilter -- 213c4c
+b29e6a69: 	@@@Found patch addr: 1dc502
+b29e6a69: Querying offset: 1dc4f2
+b29e6a69: 	--Add method name to patch = lccccc.imimmi/bЫ042B042BЫЫЫ042B042B:(Ljava/lang/String;C)Ljava/lang/String; 	1dc4f2
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: patching method: lccccc.mimmmi/b042B042B042BЫЫЫ042B042B:(Ljava/lang/String;CC)Ljava/lang/String;
+b29e6a69: patching method: lccccc.imimmi/bЫ042B042BЫЫЫ042B042B:(Ljava/lang/String;C)Ljava/lang/String;
+b29e6a69: patching method: lccccc.mmmimi/b042B042B042B042B042B042BЫ042B:(I)I
+b29e6a69: patching method: lccccc.mmmmmi/bЫ042B042BЫЫЫ042B042B:(Ljava/lang/String;C)Ljava/lang/String;
+b29e6a69: patching method: lccccc.mmimmi/bЫ042B042BЫЫЫ042B042B:(Ljava/lang/String;C)Ljava/lang/String;
+b29e6a69: patching method: lccccc.imiiim/b042B042B042BЫЫЫ042B042B:(Ljava/lang/String;CC)Ljava/lang/String;
+b29e6a69: patching method: lccccc.miimmi/b042B042B042BЫЫЫ042B042B:(Ljava/lang/String;CC)Ljava/lang/String;
+b29e6a69: patching method: lccccc.iimimi/b042BЫ042B042BЫ042B042B042B:()Z
+b29e6a69: patching method: com.konylabs.android.KonyMain/b0439й0439йй0439йй:()Landroid/widget/RelativeLayout;
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample23_devRoot
+Wow!!!!!  --  lccccc.imiiim/b042B042B042BЫЫЫ042B042B:(Ljava/lang/String;CC)Ljava/lang/String;
+fallthrough: 26
+branchTarget: 26
+NOP!
+Wow!!!!!  --  lccccc.imimmi/bЫ042B042BЫЫЫ042B042B:(Ljava/lang/String;C)Ljava/lang/String;
+fallthrough: 86
+branchTarget: 86
+NOP!
+Wow!!!!!  --  lccccc.mimmmi/b042B042B042BЫЫЫ042B042B:(Ljava/lang/String;CC)Ljava/lang/String;
+fallthrough: 52
+branchTarget: 52
+NOP!
+Wow!!!!!  --  lccccc.mmimmi/bЫ042B042BЫЫЫ042B042B:(Ljava/lang/String;C)Ljava/lang/String;
+fallthrough: 26
+branchTarget: 26
+NOP!
+Wow!!!!!  --  lccccc.mmmmmi/bЫ042B042BЫЫЫ042B042B:(Ljava/lang/String;C)Ljava/lang/String;
+fallthrough: 26
+branchTarget: 8a
+label = cond_1
+GOTO -- 26 	8a
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample23_devRoot/sample23.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample23_devRoot/signed_sample23.apk
+b29e6a69: First address of Llccccc/mimmmi;->b042B042B042BЫЫЫ042B042B(Ljava/lang/String;CC)Ljava/lang/String; = 213304
+b29e6a69: Address - Llccccc/mimmmi;->b042B042B042BЫЫЫ042B042B(Ljava/lang/String;CC)Ljava/lang/String;@4e	 lastOffset = e4
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Llccccc/imimmi;->bЫ042B042BЫЫЫ042B042B(Ljava/lang/String;C)Ljava/lang/String; = 1dc480
+b29e6a69: Address - Llccccc/imimmi;->bЫ042B042BЫЫЫ042B042B(Ljava/lang/String;C)Ljava/lang/String;@82	 lastOffset = f8
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Llccccc/mmmmmi;->bЫ042B042BЫЫЫ042B042B(Ljava/lang/String;C)Ljava/lang/String; = 214b48
+b29e6a69: Address - Llccccc/mmmmmi;->bЫ042B042BЫЫЫ042B042B(Ljava/lang/String;C)Ljava/lang/String;@22	 lastOffset = 9c
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Llccccc/mmimmi;->bЫ042B042BЫЫЫ042B042B(Ljava/lang/String;C)Ljava/lang/String; = 213a60
+b29e6a69: Address - Llccccc/mmimmi;->bЫ042B042BЫЫЫ042B042B(Ljava/lang/String;C)Ljava/lang/String;@22	 lastOffset = ec
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Llccccc/imiiim;->b042B042B042BЫЫЫ042B042B(Ljava/lang/String;CC)Ljava/lang/String; = 1dc3bc
+b29e6a69: Address - Llccccc/imiiim;->b042B042B042BЫЫЫ042B042B(Ljava/lang/String;CC)Ljava/lang/String;@22	 lastOffset = 6a
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample23_devRoot/signed_sample23.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample23.ilog)
+b29e6a69: Running Application: com.deltadental.HealthApp
+b29e6a69: Running is done - starting comparing... : 10001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+b29e6a69: savedPid = null
+PIDs--------------------------------------------------------------------------
+b29e6a69: savedPid2 = null
+Stopping app: com.deltadental.HealthApp
+Tryging remove : uninstall com.deltadental.HealthApp(com.deltadental.HealthApp)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 5733993
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 21
+Target PID : 6570
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample23.ilog)
+Target PID : 
+ExitReason-Code: 5 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample23.ilog)
+b29e6a69: /home/santapark/Extended3/DEEPerence/reEx/sample23.apk launch is failed on devRoot
+b29e6a69: Failed Patch: 1dc502
+b29e6a69: adding filter -- 213a72
+b29e6a69: adding filter -- 1dc3ce
+b29e6a69: adding filter -- 213342
+b29e6a69: adding filter -- 214b5a
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 213a72
+-- current localPatchFilter: 1dc3ce
+-- current localPatchFilter: 213342
+-- current localPatchFilter: 1dba4a
+-- current localPatchFilter: 212f48
+-- current localPatchFilter: 214b5a
+-- current localPatchFilter: 213c3c
+-- current localPatchFilter: 1dc4f2
+Action is completely same :)
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:414200		=(rels)=>		1
+[*] Unique action: 1:159899 : <<CALL>> : lccccc.tgtgtt/b042DЭ042DЭ042DЭЭ042D:(Ljava/lang/String;I)V:414200  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch2: 1:171865 : <<BRANCH>> : com.konylabs.android.KonyMain/onCreate:(Landroid/os/Bundle;)V:339c80  =>  com.konylabs.android.KonyMain/onCreate:(Landroid/os/Bundle;)V:339cb0
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:32bef0		=(rels)=>		1
+[*] Unique action: 1:142463 : <<CALL>> : com.konylabs.android.KonyMain/b0439й0439йй0439йй:()Landroid/widget/RelativeLayout;:32bef0  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+	1:compareBackwardBranch2: 1:164118 : <<BRANCH>> : com.konylabs.android.KonyMain/b0439й0439йй0439йй:()Landroid/widget/RelativeLayout;:32bebe  =>  com.konylabs.android.KonyMain/b0439й0439йй0439йй:()Landroid/widget/RelativeLayout;:32bef6
+android.app.Dialog/show:()V:4143d6		=(rels)=>		1
+[*] Unique action: 1:160054 : <<CALL>> : lccccc.tgtgtt/bЭ042DЭ042D042DЭЭ042D:()V:4143d6  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch2: 1:171865 : <<BRANCH>> : com.konylabs.android.KonyMain/onCreate:(Landroid/os/Bundle;)V:339c80  =>  com.konylabs.android.KonyMain/onCreate:(Landroid/os/Bundle;)V:339cb0
+Entry: 32b784
+com.konylabs.android.KonyMain/b0439й0439йй0439йй:()Landroid/widget/RelativeLayout;: 32bebe -> 32bef6
+		com.konylabs.android.KonyMain/b0439й0439йй0439йй:()Landroid/widget/RelativeLayout;: 73a -> 772
+addPatchReadme: java.lang.Class<com.konylabs.android.KonyMain>b0439й0439йй0439йй()Landroid/widget/RelativeLayout; 73a t
+Entry: 3398cc
+com.konylabs.android.KonyMain/onCreate:(Landroid/os/Bundle;)V: 339c80 -> 339cb0
+		com.konylabs.android.KonyMain/onCreate:(Landroid/os/Bundle;)V: 3b4 -> 3e4
+addPatchReadme: java.lang.Class<com.konylabs.android.KonyMain>onCreate(Landroid/os/Bundle;)V 3b4 t
+b29e6a69: [+] Patches found in this round: 2
+b29e6a69: [*] Found Patch size: 1
+Target PID : 
+ExitReason-Code: 5 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample23.ilog)
+b29e6a69: @@localPatchFilter -- 213a82
+b29e6a69: @@localPatchFilter -- 1dc3de
+b29e6a69: @@localPatchFilter -- 213352
+b29e6a69: @@localPatchFilter -- 1dba5a
+b29e6a69: @@localPatchFilter -- 212f58
+b29e6a69: @@localPatchFilter -- 214b6a
+b29e6a69: @@localPatchFilter -- 213c4c
+b29e6a69: @@localPatchFilter -- 1dc502
+b29e6a69: 	@@@Found patch addr: 339c90
+b29e6a69: Querying offset: 339c80
+b29e6a69: 	--Add method name to patch = com.konylabs.android.KonyMain/onCreate:(Landroid/os/Bundle;)V 	339c80
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: patching method: lccccc.mimmmi/b042B042B042BЫЫЫ042B042B:(Ljava/lang/String;CC)Ljava/lang/String;
+b29e6a69: patching method: lccccc.imimmi/bЫ042B042BЫЫЫ042B042B:(Ljava/lang/String;C)Ljava/lang/String;
+b29e6a69: patching method: lccccc.mmmimi/b042B042B042B042B042B042BЫ042B:(I)I
+b29e6a69: patching method: lccccc.mmmmmi/bЫ042B042BЫЫЫ042B042B:(Ljava/lang/String;C)Ljava/lang/String;
+b29e6a69: patching method: lccccc.mmimmi/bЫ042B042BЫЫЫ042B042B:(Ljava/lang/String;C)Ljava/lang/String;
+b29e6a69: patching method: lccccc.imiiim/b042B042B042BЫЫЫ042B042B:(Ljava/lang/String;CC)Ljava/lang/String;
+b29e6a69: patching method: lccccc.miimmi/b042B042B042BЫЫЫ042B042B:(Ljava/lang/String;CC)Ljava/lang/String;
+b29e6a69: patching method: lccccc.iimimi/b042BЫ042B042BЫ042B042B042B:()Z
+b29e6a69: patching method: com.konylabs.android.KonyMain/b0439й0439йй0439йй:()Landroid/widget/RelativeLayout;
+b29e6a69: patching method: com.konylabs.android.KonyMain/onCreate:(Landroid/os/Bundle;)V
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample23_devRoot
+Wow!!!!!  --  com.konylabs.android.KonyMain/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 3b8
+branchTarget: 3e4
+label = cond_12
+GOTO -- 3b8 	3e4
+Wow!!!!!  --  lccccc.imiiim/b042B042B042BЫЫЫ042B042B:(Ljava/lang/String;CC)Ljava/lang/String;
+fallthrough: 26
+branchTarget: 26
+NOP!
+Wow!!!!!  --  lccccc.mimmmi/b042B042B042BЫЫЫ042B042B:(Ljava/lang/String;CC)Ljava/lang/String;
+fallthrough: 52
+branchTarget: 52
+NOP!
+Wow!!!!!  --  lccccc.mmimmi/bЫ042B042BЫЫЫ042B042B:(Ljava/lang/String;C)Ljava/lang/String;
+fallthrough: 26
+branchTarget: 26
+NOP!
+Wow!!!!!  --  lccccc.mmmmmi/bЫ042B042BЫЫЫ042B042B:(Ljava/lang/String;C)Ljava/lang/String;
+fallthrough: 26
+branchTarget: 8a
+label = cond_1
+GOTO -- 26 	8a
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample23_devRoot/sample23.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample23_devRoot/signed_sample23.apk
+b29e6a69: First address of Llccccc/mimmmi;->b042B042B042BЫЫЫ042B042B(Ljava/lang/String;CC)Ljava/lang/String; = 213304
+b29e6a69: Address - Llccccc/mimmmi;->b042B042B042BЫЫЫ042B042B(Ljava/lang/String;CC)Ljava/lang/String;@4e	 lastOffset = e4
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Llccccc/mmmmmi;->bЫ042B042BЫЫЫ042B042B(Ljava/lang/String;C)Ljava/lang/String; = 214b48
+b29e6a69: Address - Llccccc/mmmmmi;->bЫ042B042BЫЫЫ042B042B(Ljava/lang/String;C)Ljava/lang/String;@22	 lastOffset = 9c
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Llccccc/mmimmi;->bЫ042B042BЫЫЫ042B042B(Ljava/lang/String;C)Ljava/lang/String; = 213a60
+b29e6a69: Address - Llccccc/mmimmi;->bЫ042B042BЫЫЫ042B042B(Ljava/lang/String;C)Ljava/lang/String;@22	 lastOffset = ec
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Llccccc/imiiim;->b042B042B042BЫЫЫ042B042B(Ljava/lang/String;CC)Ljava/lang/String; = 1dc3bc
+b29e6a69: Address - Llccccc/imiiim;->b042B042B042BЫЫЫ042B042B(Ljava/lang/String;CC)Ljava/lang/String;@22	 lastOffset = 6a
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Lcom/konylabs/android/KonyMain;->onCreate(Landroid/os/Bundle;)V = 3398dc
+b29e6a69: Address - Lcom/konylabs/android/KonyMain;->onCreate(Landroid/os/Bundle;)V@3b4	 lastOffset = 592
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample23_devRoot/signed_sample23.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample23.ilog)
+b29e6a69: Running Application: com.deltadental.HealthApp
+b29e6a69: Running is done - starting comparing... : 10001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.deltadental.HealthApp/.DeltaDental
+PIDs--------------------------------------------------------------------------
+u0_a164       12172    430 14809420 160684 0                  0 S com.deltadental.HealthApp
+b29e6a69: savedPid = 12172
+PIDs--------------------------------------------------------------------------
+u0_a164       12172    430 14809420 160684 0                  0 S com.deltadental.HealthApp
+b29e6a69: savedPid2 = 12172
+Stopping app: com.deltadental.HealthApp
+Tryging remove : uninstall com.deltadental.HealthApp(com.deltadental.HealthApp)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 120547819
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 20
+Target PID : 6570
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample23.ilog)
+Target PID : 12172
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample23.ilog)
+b29e6a69: adding filter -- 213a72
+b29e6a69: adding filter -- 1dc3ce
+b29e6a69: adding filter -- 213342
+b29e6a69: adding filter -- 214b5a
+b29e6a69: adding filter -- 339c80
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 213a72
+-- current localPatchFilter: 1dc3ce
+-- current localPatchFilter: 213342
+-- current localPatchFilter: 339c80
+-- current localPatchFilter: 1dba4a
+-- current localPatchFilter: 212f48
+-- current localPatchFilter: 214b5a
+-- current localPatchFilter: 213c3c
+-- current localPatchFilter: 1dc4f2
+Action is completely same :)
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:414200		=(rels)=>		1
+[*] Unique action: 1:178545 : <<CALL>> : lccccc.tgtgtt/b042DЭ042DЭ042DЭЭ042D:(Ljava/lang/String;I)V:414200  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch2: 1:1808226 : <<BRANCH>> : lccccc.ccxxxx$1$1/run:()V:12097a  =>  lccccc.ccxxxx$1$1/run:()V:1209a0
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:32bef0		=(rels)=>		1
+[*] Unique action: 1:151912 : <<CALL>> : com.konylabs.android.KonyMain/b0439й0439йй0439йй:()Landroid/widget/RelativeLayout;:32bef0  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+	1:compareBackwardBranch2: 1:164118 : <<BRANCH>> : com.konylabs.android.KonyMain/b0439й0439йй0439йй:()Landroid/widget/RelativeLayout;:32bebe  =>  com.konylabs.android.KonyMain/b0439й0439йй0439йй:()Landroid/widget/RelativeLayout;:32bef6
+android.app.Dialog/show:()V:4143d6		=(rels)=>		1
+[*] Unique action: 1:178653 : <<CALL>> : lccccc.tgtgtt/bЭ042DЭ042D042DЭЭ042D:()V:4143d6  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch2: 1:1808226 : <<BRANCH>> : lccccc.ccxxxx$1$1/run:()V:12097a  =>  lccccc.ccxxxx$1$1/run:()V:1209a0
+Entry: 120924
+lccccc.ccxxxx$1$1/run:()V: 12097a -> 1209a0
+		lccccc.ccxxxx$1$1/run:()V: 56 -> 7c
+addPatchReadme: java.lang.Class<lccccc.ccxxxx$1$1>run()V 56 t
+Entry: 32b784
+com.konylabs.android.KonyMain/b0439й0439йй0439йй:()Landroid/widget/RelativeLayout;: 32bebe -> 32bef6
+		com.konylabs.android.KonyMain/b0439й0439йй0439йй:()Landroid/widget/RelativeLayout;: 73a -> 772
+addPatchReadme: java.lang.Class<com.konylabs.android.KonyMain>b0439й0439йй0439йй()Landroid/widget/RelativeLayout; 73a t
+b29e6a69: [+] Patches found in this round: 2
+b29e6a69: [*] Found Patch size: 1
+Target PID : 
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample23.ilog)
+b29e6a69: @@localPatchFilter -- 213a82
+b29e6a69: @@localPatchFilter -- 1dc3de
+b29e6a69: @@localPatchFilter -- 213352
+b29e6a69: @@localPatchFilter -- 339c90
+b29e6a69: @@localPatchFilter -- 1dba5a
+b29e6a69: @@localPatchFilter -- 212f58
+b29e6a69: @@localPatchFilter -- 214b6a
+b29e6a69: @@localPatchFilter -- 213c4c
+b29e6a69: @@localPatchFilter -- 1dc502
+b29e6a69: 	@@@Found patch addr: 32bece
+b29e6a69: Querying offset: 32bebe
+b29e6a69: 	--Add method name to patch = com.konylabs.android.KonyMain/b0439й0439йй0439йй:()Landroid/widget/RelativeLayout; 	32bebe
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: patching method: lccccc.mimmmi/b042B042B042BЫЫЫ042B042B:(Ljava/lang/String;CC)Ljava/lang/String;
+b29e6a69: patching method: lccccc.imimmi/bЫ042B042BЫЫЫ042B042B:(Ljava/lang/String;C)Ljava/lang/String;
+b29e6a69: patching method: lccccc.ccxxxx$1$1/run:()V
+b29e6a69: patching method: lccccc.mmmimi/b042B042B042B042B042B042BЫ042B:(I)I
+b29e6a69: patching method: lccccc.mmmmmi/bЫ042B042BЫЫЫ042B042B:(Ljava/lang/String;C)Ljava/lang/String;
+b29e6a69: patching method: lccccc.mmimmi/bЫ042B042BЫЫЫ042B042B:(Ljava/lang/String;C)Ljava/lang/String;
+b29e6a69: patching method: lccccc.imiiim/b042B042B042BЫЫЫ042B042B:(Ljava/lang/String;CC)Ljava/lang/String;
+b29e6a69: patching method: lccccc.miimmi/b042B042B042BЫЫЫ042B042B:(Ljava/lang/String;CC)Ljava/lang/String;
+b29e6a69: patching method: lccccc.iimimi/b042BЫ042B042BЫ042B042B042B:()Z
+b29e6a69: patching method: com.konylabs.android.KonyMain/b0439й0439йй0439йй:()Landroid/widget/RelativeLayout;
+b29e6a69: patching method: com.konylabs.android.KonyMain/onCreate:(Landroid/os/Bundle;)V
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample23_devRoot
+Wow!!!!!  --  com.konylabs.android.KonyMain/b0439й0439йй0439йй:()Landroid/widget/RelativeLayout;
+fallthrough: 73e
+branchTarget: 772
+label = cond_24
+GOTO -- 73e 	772
+Wow!!!!!  --  com.konylabs.android.KonyMain/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 3b8
+branchTarget: 3e4
+label = cond_12
+GOTO -- 3b8 	3e4
+Wow!!!!!  --  lccccc.imiiim/b042B042B042BЫЫЫ042B042B:(Ljava/lang/String;CC)Ljava/lang/String;
+fallthrough: 26
+branchTarget: 26
+NOP!
+Wow!!!!!  --  lccccc.mimmmi/b042B042B042BЫЫЫ042B042B:(Ljava/lang/String;CC)Ljava/lang/String;
+fallthrough: 52
+branchTarget: 52
+NOP!
+Wow!!!!!  --  lccccc.mmimmi/bЫ042B042BЫЫЫ042B042B:(Ljava/lang/String;C)Ljava/lang/String;
+fallthrough: 26
+branchTarget: 26
+NOP!
+Wow!!!!!  --  lccccc.mmmmmi/bЫ042B042BЫЫЫ042B042B:(Ljava/lang/String;C)Ljava/lang/String;
+fallthrough: 26
+branchTarget: 8a
+label = cond_1
+GOTO -- 26 	8a
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample23_devRoot/sample23.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample23_devRoot/signed_sample23.apk
+b29e6a69: First address of Llccccc/mimmmi;->b042B042B042BЫЫЫ042B042B(Ljava/lang/String;CC)Ljava/lang/String; = 213304
+b29e6a69: Address - Llccccc/mimmmi;->b042B042B042BЫЫЫ042B042B(Ljava/lang/String;CC)Ljava/lang/String;@4e	 lastOffset = e4
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Llccccc/mmmmmi;->bЫ042B042BЫЫЫ042B042B(Ljava/lang/String;C)Ljava/lang/String; = 214b48
+b29e6a69: Address - Llccccc/mmmmmi;->bЫ042B042BЫЫЫ042B042B(Ljava/lang/String;C)Ljava/lang/String;@22	 lastOffset = 9c
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Llccccc/mmimmi;->bЫ042B042BЫЫЫ042B042B(Ljava/lang/String;C)Ljava/lang/String; = 213a60
+b29e6a69: Address - Llccccc/mmimmi;->bЫ042B042BЫЫЫ042B042B(Ljava/lang/String;C)Ljava/lang/String;@22	 lastOffset = ec
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Llccccc/imiiim;->b042B042B042BЫЫЫ042B042B(Ljava/lang/String;CC)Ljava/lang/String; = 1dc3bc
+b29e6a69: Address - Llccccc/imiiim;->b042B042B042BЫЫЫ042B042B(Ljava/lang/String;CC)Ljava/lang/String;@22	 lastOffset = 6a
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Lcom/konylabs/android/KonyMain;->b0439й0439йй0439йй()Landroid/widget/RelativeLayout; = 32b794
+b29e6a69: Address - Lcom/konylabs/android/KonyMain;->b0439й0439йй0439йй()Landroid/widget/RelativeLayout;@73a	 lastOffset = 82c
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Lcom/konylabs/android/KonyMain;->onCreate(Landroid/os/Bundle;)V = 3398dc
+b29e6a69: Address - Lcom/konylabs/android/KonyMain;->onCreate(Landroid/os/Bundle;)V@3b4	 lastOffset = 592
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample23_devRoot/signed_sample23.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample23.ilog)
+b29e6a69: Running Application: com.deltadental.HealthApp
+b29e6a69: Running is done - starting comparing... : 10001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.deltadental.HealthApp/.DeltaDental
+PIDs--------------------------------------------------------------------------
+u0_a165       12274    430 14848332 160128 0                  0 S com.deltadental.HealthApp
+b29e6a69: savedPid = 12274
+PIDs--------------------------------------------------------------------------
+u0_a165       12274    430 14848332 160128 0                  0 S com.deltadental.HealthApp
+b29e6a69: savedPid2 = 12274
+Stopping app: com.deltadental.HealthApp
+Tryging remove : uninstall com.deltadental.HealthApp(com.deltadental.HealthApp)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 121022107
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 19
+Target PID : 6570
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample23.ilog)
+Target PID : 12274
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample23.ilog)
+b29e6a69: adding filter -- 213a72
+b29e6a69: adding filter -- 1dc3ce
+b29e6a69: adding filter -- 213342
+b29e6a69: adding filter -- 214b5a
+b29e6a69: adding filter -- 339c80
+b29e6a69: adding filter -- 32bebe
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 213a72
+-- current localPatchFilter: 1dc3ce
+-- current localPatchFilter: 213342
+-- current localPatchFilter: 339c80
+-- current localPatchFilter: 1dba4a
+-- current localPatchFilter: 212f48
+-- current localPatchFilter: 214b5a
+-- current localPatchFilter: 32bebe
+-- current localPatchFilter: 213c3c
+-- current localPatchFilter: 1dc4f2
+Action is completely same :)
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:414200		=(rels)=>		1
+[*] Unique action: 1:178503 : <<CALL>> : lccccc.tgtgtt/b042DЭ042DЭ042DЭЭ042D:(Ljava/lang/String;I)V:414200  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch2: 1:1808226 : <<BRANCH>> : lccccc.ccxxxx$1$1/run:()V:12097a  =>  lccccc.ccxxxx$1$1/run:()V:1209a0
+android.app.Dialog/show:()V:4143d6		=(rels)=>		1
+[*] Unique action: 1:178643 : <<CALL>> : lccccc.tgtgtt/bЭ042DЭ042D042DЭЭ042D:()V:4143d6  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch2: 1:1808226 : <<BRANCH>> : lccccc.ccxxxx$1$1/run:()V:12097a  =>  lccccc.ccxxxx$1$1/run:()V:1209a0
+Entry: 120924
+lccccc.ccxxxx$1$1/run:()V: 12097a -> 1209a0
+		lccccc.ccxxxx$1$1/run:()V: 56 -> 7c
+addPatchReadme: java.lang.Class<lccccc.ccxxxx$1$1>run()V 56 t
+b29e6a69: [+] Patches found in this round: 1
+b29e6a69: [*] Found Patch size: 1
+Target PID : 
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample23.ilog)
+b29e6a69: @@localPatchFilter -- 213a82
+b29e6a69: @@localPatchFilter -- 1dc3de
+b29e6a69: @@localPatchFilter -- 213352
+b29e6a69: @@localPatchFilter -- 339c90
+b29e6a69: @@localPatchFilter -- 1dba5a
+b29e6a69: @@localPatchFilter -- 212f58
+b29e6a69: @@localPatchFilter -- 214b6a
+b29e6a69: @@localPatchFilter -- 32bece
+b29e6a69: @@localPatchFilter -- 213c4c
+b29e6a69: @@localPatchFilter -- 1dc502
+b29e6a69: 	@@@Found patch addr: 12098a
+b29e6a69: Querying offset: 12097a
+b29e6a69: 	--Add method name to patch = lccccc.ccxxxx$1$1/run:()V 	12097a
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: patching method: lccccc.mimmmi/b042B042B042BЫЫЫ042B042B:(Ljava/lang/String;CC)Ljava/lang/String;
+b29e6a69: patching method: lccccc.imimmi/bЫ042B042BЫЫЫ042B042B:(Ljava/lang/String;C)Ljava/lang/String;
+b29e6a69: patching method: lccccc.ccxxxx$1$1/run:()V
+b29e6a69: patching method: lccccc.mmmimi/b042B042B042B042B042B042BЫ042B:(I)I
+b29e6a69: patching method: lccccc.mmmmmi/bЫ042B042BЫЫЫ042B042B:(Ljava/lang/String;C)Ljava/lang/String;
+b29e6a69: patching method: lccccc.mmimmi/bЫ042B042BЫЫЫ042B042B:(Ljava/lang/String;C)Ljava/lang/String;
+b29e6a69: patching method: lccccc.imiiim/b042B042B042BЫЫЫ042B042B:(Ljava/lang/String;CC)Ljava/lang/String;
+b29e6a69: patching method: lccccc.miimmi/b042B042B042BЫЫЫ042B042B:(Ljava/lang/String;CC)Ljava/lang/String;
+b29e6a69: patching method: lccccc.iimimi/b042BЫ042B042BЫ042B042B042B:()Z
+b29e6a69: patching method: com.konylabs.android.KonyMain/b0439й0439йй0439йй:()Landroid/widget/RelativeLayout;
+b29e6a69: patching method: com.konylabs.android.KonyMain/onCreate:(Landroid/os/Bundle;)V
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample23_devRoot
+Wow!!!!!  --  com.konylabs.android.KonyMain/b0439й0439йй0439йй:()Landroid/widget/RelativeLayout;
+fallthrough: 73e
+branchTarget: 772
+label = cond_24
+GOTO -- 73e 	772
+Wow!!!!!  --  com.konylabs.android.KonyMain/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 3b8
+branchTarget: 3e4
+label = cond_12
+GOTO -- 3b8 	3e4
+Wow!!!!!  --  lccccc.ccxxxx$1$1/run:()V
+fallthrough: 5a
+branchTarget: 7c
+label = cond_1
+GOTO -- 5a 	7c
+Wow!!!!!  --  lccccc.imiiim/b042B042B042BЫЫЫ042B042B:(Ljava/lang/String;CC)Ljava/lang/String;
+fallthrough: 26
+branchTarget: 26
+NOP!
+Wow!!!!!  --  lccccc.mimmmi/b042B042B042BЫЫЫ042B042B:(Ljava/lang/String;CC)Ljava/lang/String;
+fallthrough: 52
+branchTarget: 52
+NOP!
+Wow!!!!!  --  lccccc.mmimmi/bЫ042B042BЫЫЫ042B042B:(Ljava/lang/String;C)Ljava/lang/String;
+fallthrough: 26
+branchTarget: 26
+NOP!
+Wow!!!!!  --  lccccc.mmmmmi/bЫ042B042BЫЫЫ042B042B:(Ljava/lang/String;C)Ljava/lang/String;
+fallthrough: 26
+branchTarget: 8a
+label = cond_1
+GOTO -- 26 	8a
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample23_devRoot/sample23.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample23_devRoot/signed_sample23.apk
+b29e6a69: First address of Llccccc/mimmmi;->b042B042B042BЫЫЫ042B042B(Ljava/lang/String;CC)Ljava/lang/String; = 213304
+b29e6a69: Address - Llccccc/mimmmi;->b042B042B042BЫЫЫ042B042B(Ljava/lang/String;CC)Ljava/lang/String;@4e	 lastOffset = e4
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Llccccc/ccxxxx$1$1;->run()V = 120934
+b29e6a69: Address - Llccccc/ccxxxx$1$1;->run()V@56	 lastOffset = 7c
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Llccccc/mmmmmi;->bЫ042B042BЫЫЫ042B042B(Ljava/lang/String;C)Ljava/lang/String; = 214b48
+b29e6a69: Address - Llccccc/mmmmmi;->bЫ042B042BЫЫЫ042B042B(Ljava/lang/String;C)Ljava/lang/String;@22	 lastOffset = 9c
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Llccccc/mmimmi;->bЫ042B042BЫЫЫ042B042B(Ljava/lang/String;C)Ljava/lang/String; = 213a60
+b29e6a69: Address - Llccccc/mmimmi;->bЫ042B042BЫЫЫ042B042B(Ljava/lang/String;C)Ljava/lang/String;@22	 lastOffset = ec
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Llccccc/imiiim;->b042B042B042BЫЫЫ042B042B(Ljava/lang/String;CC)Ljava/lang/String; = 1dc3bc
+b29e6a69: Address - Llccccc/imiiim;->b042B042B042BЫЫЫ042B042B(Ljava/lang/String;CC)Ljava/lang/String;@22	 lastOffset = 6a
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Lcom/konylabs/android/KonyMain;->b0439й0439йй0439йй()Landroid/widget/RelativeLayout; = 32b794
+b29e6a69: Address - Lcom/konylabs/android/KonyMain;->b0439й0439йй0439йй()Landroid/widget/RelativeLayout;@73a	 lastOffset = 82c
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Lcom/konylabs/android/KonyMain;->onCreate(Landroid/os/Bundle;)V = 3398dc
+b29e6a69: Address - Lcom/konylabs/android/KonyMain;->onCreate(Landroid/os/Bundle;)V@3b4	 lastOffset = 592
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample23_devRoot/signed_sample23.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample23.ilog)
+b29e6a69: Running Application: com.deltadental.HealthApp
+b29e6a69: Running is done - starting comparing... : 10001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.deltadental.HealthApp/.DeltaDental
+PIDs--------------------------------------------------------------------------
+u0_a166       12377    430 14864536 156232 0                  0 S com.deltadental.HealthApp
+b29e6a69: savedPid = 12377
+PIDs--------------------------------------------------------------------------
+u0_a166       12377    430 14864536 156232 0                  0 S com.deltadental.HealthApp
+b29e6a69: savedPid2 = 12377
+Stopping app: com.deltadental.HealthApp
+Tryging remove : uninstall com.deltadental.HealthApp(com.deltadental.HealthApp)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 119030976
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 18
+Target PID : 6570
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample23.ilog)
+Target PID : 12377
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample23.ilog)
+b29e6a69: adding filter -- 213a72
+b29e6a69: adding filter -- 1dc3ce
+b29e6a69: adding filter -- 213342
+b29e6a69: adding filter -- 339c80
+b29e6a69: adding filter -- 12097a
+b29e6a69: adding filter -- 214b5a
+b29e6a69: adding filter -- 32bebe
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 213a72
+-- current localPatchFilter: 1dc3ce
+-- current localPatchFilter: 213342
+-- current localPatchFilter: 339c80
+-- current localPatchFilter: 1dba4a
+-- current localPatchFilter: 12097a
+-- current localPatchFilter: 212f48
+-- current localPatchFilter: 214b5a
+-- current localPatchFilter: 32bebe
+-- current localPatchFilter: 213c3c
+-- current localPatchFilter: 1dc4f2
+Action is completely same :)
+Action is completely same :)
+b29e6a69: There is no difference. (tryAgain=false)
+-- HPFinder will be done in this iteration :)
+hasAntiAnalysis? - devTamper: false on com.deltadental.HealthApp.DeltaDental
+hasAntiAnalysis? - devRoot: true on com.deltadental.HealthApp.DeltaDental
+	isRemovedThem? - devRoot: true on com.deltadental.HealthApp.DeltaDental	-	tryCount: 11
+hasAntiAnalysis? - devDebug: true on com.deltadental.HealthApp.DeltaDental
+	isRemovedThem? - devDebug: false on com.deltadental.HealthApp.DeltaDental	-	tryCount: 4
+*****REPORT: com.deltadental.HealthApp
+* Package name: com.deltadental.HealthApp
+* Running time: 1492
+* FileSize: 44358132
+devTamper : 375180095
+devRef : 372750551
+devRoot : 119030976
+devDebug : 4284433
+hasAntiAnalysis? - devTamper: false on com.deltadental.HealthApp.DeltaDental
+hasAntiAnalysis? - devRoot: true on com.deltadental.HealthApp.DeltaDental
+	isRemovedThem? - devRoot: true on com.deltadental.HealthApp.DeltaDental	-	tryCount: 11
+hasAntiAnalysis? - devDebug: true on com.deltadental.HealthApp.DeltaDental
+	isRemovedThem? - devDebug: false on com.deltadental.HealthApp.DeltaDental	-	tryCount: 4
+46604b9f: trying remove : com.deltadental.HealthApp
+3601a6ff: trying remove : com.deltadental.HealthApp
+b29e6a69: trying remove : com.deltadental.HealthApp
+159ceeed: trying remove : com.deltadental.HealthApp
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+b29e6a69: result = true
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+46604b9f: result = true
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+159ceeed: result = true
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+3601a6ff: result = true
+3601a6ff: isFailedToLaunch: com.deltadental.HealthApp/.DeltaDental
+3601a6ff: 	--result: Good :)

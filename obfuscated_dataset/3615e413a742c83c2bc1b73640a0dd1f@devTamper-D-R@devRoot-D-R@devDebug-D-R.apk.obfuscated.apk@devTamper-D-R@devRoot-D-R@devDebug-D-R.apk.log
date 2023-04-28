@@ -1,0 +1,376 @@
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/cz.daruma.audioguide.zuberec_2.1.3_.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated/AndroidManifest.xml
+launchable-activity: name='cz.daruma.audioguide.app.SplashActivity'  label='Múzeum Zuberec' icon=''
+{ACTIVITY, cz.daruma.audioguide.customgui.CoverFlowGuidesActivity}
+{ACTIVITY, cz.daruma.audioguide.customgui.ListGuidesActivity}
+{ACTIVITY, cz.daruma.audioguide.app.PointGalleryThumbnailActivity}
+{ACTIVITY, cz.daruma.audioguide.app.SplashActivity, android.intent.action.MAIN}
+{ACTIVITY, cz.daruma.audioguide.app.StoresListActivity}
+{ACTIVITY, cz.daruma.audioguide.app.MainActivity}
+{ACTIVITY, cz.daruma.audioguide.customgui.GoogleMapActivity}
+{ACTIVITY, cz.daruma.audioguide.app.PointMapActivity}
+{ACTIVITY, cz.daruma.audioguide.app.PointListActivity}
+{ACTIVITY, cz.daruma.audioguide.app.PointInfoActivity}
+{ACTIVITY, cz.daruma.audioguide.app.PointTextActivity}
+{ACTIVITY, cz.daruma.audioguide.app.SubPointListActivity}
+{ACTIVITY, cz.daruma.audioguide.app.SubPointInfoActivity}
+{ACTIVITY, cz.daruma.audioguide.app.AudioImagePlayerActivity}
+{ACTIVITY, com.google.android.gms.common.api.GoogleApiActivity}
+{ACTIVITY, com.facebook.FacebookActivity}
+{ACTIVITY, com.facebook.CustomTabActivity}
+{ACTIVITY, cz.daruma.audioguide.customgui.CoverFlowGuidesActivity}
+{ACTIVITY, cz.daruma.audioguide.customgui.ListGuidesActivity}
+{ACTIVITY, cz.daruma.audioguide.app.PointGalleryThumbnailActivity}
+{ACTIVITY, cz.daruma.audioguide.app.SplashActivity, android.intent.action.MAIN}
+{ACTIVITY, cz.daruma.audioguide.app.StoresListActivity}
+{ACTIVITY, cz.daruma.audioguide.app.MainActivity}
+{ACTIVITY, cz.daruma.audioguide.customgui.GoogleMapActivity}
+{ACTIVITY, cz.daruma.audioguide.app.PointMapActivity}
+{ACTIVITY, cz.daruma.audioguide.app.PointListActivity}
+{ACTIVITY, cz.daruma.audioguide.app.PointInfoActivity}
+{ACTIVITY, cz.daruma.audioguide.app.PointTextActivity}
+{ACTIVITY, cz.daruma.audioguide.app.SubPointListActivity}
+{ACTIVITY, cz.daruma.audioguide.app.SubPointInfoActivity}
+{ACTIVITY, cz.daruma.audioguide.app.AudioImagePlayerActivity}
+{ACTIVITY, com.google.android.gms.common.api.GoogleApiActivity}
+{ACTIVITY, com.facebook.FacebookActivity}
+{ACTIVITY, com.facebook.CustomTabActivity}
+_getAllDexFiles: /home/santapark/Extended3/DEEPerence/reEx/cz.daruma.audioguide.zuberec_2.1.3_.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated/classes.dex
+----------------/home/santapark/Extended3/DEEPerence/reEx/cz.daruma.audioguide.zuberec_2.1.3_.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+dexFile = org.jf.dexlib2.dexbacked.DexBackedDexFile@13c9d689
+cz.daruma.audioguide.zuberec
+cz.daruma.audioguide.app.SplashActivity
+debuggable: false
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+b29e6a69: (Not Installed) Trying remove : true
+46604b9f: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+46604b9f: -- Success
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/cz.daruma.audioguide.zuberec_2.1.3_.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/cz.daruma.audioguide.zuberec_2.1.3_.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/cz.daruma.audioguide.zuberec_2.1.3_.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/cz.daruma.audioguide.zuberec_2.1.3_.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated_46604b9f/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/cz.daruma.audioguide.zuberec_2.1.3_.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated_46604b9f/cz.daruma.audioguide.zuberec_2.1.3_.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+159ceeed: Installation Success
+3601a6ff: Installation Success
+b29e6a69: Installation Success
+46604b9f: Installing repackaged apk File: 
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/cz.daruma.audioguide.zuberec_2.1.3_.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated_46604b9f/signed_cz.daruma.audioguide.zuberec_2.1.3_.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+46604b9f: Installation Success
+46604b9f: startApplication called! - devTamper
+3601a6ff: startApplication called! - devRef
+b29e6a69: startApplication called! - devRoot
+159ceeed: startApplication called! - devDebug
+3601a6ff: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRef_cz.daruma.audioguide.zuberec_2.1.3_@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_cz.daruma.audioguide.zuberec_2.1.3_@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_cz.daruma.audioguide.zuberec_2.1.3_@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+46604b9f: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devTamper_cz.daruma.audioguide.zuberec_2.1.3_@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+46604b9f: Running Application: cz.daruma.audioguide.zuberec
+3601a6ff: Running Application: cz.daruma.audioguide.zuberec
+b29e6a69: Running Application: cz.daruma.audioguide.zuberec
+PIDs--------------------------------------------------------------------------
+u0_a986       27644    423 13782324 103308 0                  0 R cz.daruma.audioguide.zuberec
+forward tcp:35535 jdwp:27644
+[*]Found JDWP Target: 27644
+159ceeed: Running Application: cz.daruma.audioguide.zuberec
+PIDs--------------------------------------------------------------------------
+u0_a986       27644    423 13919052 134648 0                  0 R cz.daruma.audioguide.zuberec
+159ceeed: Tryging attach jdb to 27644
+jdb -connect com.sun.jdi.SocketAttach:hostname=localhost,port=35535
+46604b9f: Terminated logcat thread...by itself
+46604b9f: Top-activity: cz.daruma.audioguide.zuberec/cz.daruma.audioguide.app.MainActivity
+PIDs--------------------------------------------------------------------------
+u0_a527       31988    425 14040468 130556 0                  0 S cz.daruma.audioguide.zuberec
+46604b9f: savedPid = 31988
+PIDs--------------------------------------------------------------------------
+u0_a527       31988    425 14040468 130556 0                  0 S cz.daruma.audioguide.zuberec
+46604b9f: savedPid2 = 31988
+Stopping app: cz.daruma.audioguide.zuberec
+3601a6ff: Terminated logcat thread...by itself
+3601a6ff: Top-activity: cz.daruma.audioguide.zuberec/cz.daruma.audioguide.app.MainActivity
+b29e6a69: Terminated logcat thread...by itself
+PIDs--------------------------------------------------------------------------
+u0_a540       22431    414 14036600 123076 0                  0 S cz.daruma.audioguide.zuberec
+3601a6ff: savedPid = 22431
+PIDs--------------------------------------------------------------------------
+u0_a540       22431    414 14036600 123076 0                  0 S cz.daruma.audioguide.zuberec
+3601a6ff: savedPid2 = 22431
+Stopping app: cz.daruma.audioguide.zuberec
+b29e6a69: Top-activity: cz.daruma.audioguide.zuberec/cz.daruma.audioguide.app.MainActivity
+PIDs--------------------------------------------------------------------------
+u0_a679       31169    430 14043364 137732 0                  0 S cz.daruma.audioguide.zuberec
+b29e6a69: savedPid = 31169
+PIDs--------------------------------------------------------------------------
+u0_a679       31169    430 14043364 137732 0                  0 S cz.daruma.audioguide.zuberec
+b29e6a69: savedPid2 = 31169
+Stopping app: cz.daruma.audioguide.zuberec
+Tryging remove : uninstall cz.daruma.audioguide.zuberec(cz.daruma.audioguide.zuberec)
+3601a6ff: Remove Success
+3601a6ff: ilog file size: 4242785
+3601a6ff: End of collecting logcat...
+Tryging remove : uninstall cz.daruma.audioguide.zuberec(cz.daruma.audioguide.zuberec)
+46604b9f: Remove Success
+46604b9f: ilog file size: 330647865
+46604b9f: End of collecting logcat...
+Tryging remove : uninstall cz.daruma.audioguide.zuberec(cz.daruma.audioguide.zuberec)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 319575924
+b29e6a69: End of collecting logcat...
+159ceeed: Terminated logcat thread...by itself
+159ceeed: Top-activity: cz.daruma.audioguide.zuberec/cz.daruma.audioguide.app.MainActivity
+PIDs--------------------------------------------------------------------------
+u0_a986       27644    423 14032428 153864 0                  0 S cz.daruma.audioguide.zuberec
+159ceeed: savedPid = 27644
+PIDs--------------------------------------------------------------------------
+u0_a986       27644    423 14032428 153864 0                  0 S cz.daruma.audioguide.zuberec
+159ceeed: savedPid2 = 27644
+Stopping app: cz.daruma.audioguide.zuberec
+Tryging remove : uninstall cz.daruma.audioguide.zuberec(cz.daruma.audioguide.zuberec)
+159ceeed: Remove Success
+159ceeed: ilog file size: 373899250
+159ceeed: End of collecting logcat...
+HPFinder's try count remains: 29
+Target PID : 22431
+Target PID : 22431
+Target PID : 22431
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_cz.daruma.audioguide.zuberec_2.1.3_@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+Target PID : 27644
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_cz.daruma.audioguide.zuberec_2.1.3_@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+Target PID : 31169
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_cz.daruma.audioguide.zuberec_2.1.3_@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+Target PID : 31988
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_cz.daruma.audioguide.zuberec_2.1.3_@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devTamper_cz.daruma.audioguide.zuberec_2.1.3_@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_cz.daruma.audioguide.zuberec_2.1.3_@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+[*] FlowManager: adjust finished.
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.app.AlertDialog$Builder/show:()Landroid/app/AlertDialog;:519d1c		=(rels)=>		1
+[*] Unique action: 1:7575 : <<CALL>> : cz.daruma.audioguide.zuberec.AudioguideApp/showDefaultNoCacheError:(Landroid/content/Context;)V:519d1c  =>  android.app.AlertDialog$Builder/show:()Landroid/app/AlertDialog;:19e3bc
+	1:compareBackwardBranch: 1:6834 : <<BRANCH>> : cz.daruma.audioguide.files.ResourcesStorage/getAppRootDir:(Lcz/daruma/audioguide/zuberec/AudioguideApp;)Ljava/lang/String;:515e32  =>  cz.daruma.audioguide.files.ResourcesStorage/getAppRootDir:(Lcz/daruma/audioguide/zuberec/AudioguideApp;)Ljava/lang/String;:515e36
+Action is completely same :)
+Entry: 515d6c
+cz.daruma.audioguide.files.ResourcesStorage/getAppRootDir:(Lcz/daruma/audioguide/zuberec/AudioguideApp;)Ljava/lang/String;: 515e32 -> 515e36
+		cz.daruma.audioguide.files.ResourcesStorage/getAppRootDir:(Lcz/daruma/audioguide/zuberec/AudioguideApp;)Ljava/lang/String;: c6 -> ca
+addPatchReadme: java.lang.Class<cz.daruma.audioguide.files.ResourcesStorage>getAppRootDir(Lcz/daruma/audioguide/zuberec/AudioguideApp;)Ljava/lang/String; c6 f
+b29e6a69: [+] Patches found in this round: 1
+b29e6a69: [*] Found Patch size: 1
+Target PID : 
+[*] FlowManager: adjust finished.
+[GOOD]: Anti-analysis is identified! :) -- 1 --devTamper
+android.app.AlertDialog$Builder/show:()Landroid/app/AlertDialog;:519d1c		=(rels)=>		1
+[*] Unique action: 1:7575 : <<CALL>> : cz.daruma.audioguide.zuberec.AudioguideApp/showDefaultNoCacheError:(Landroid/content/Context;)V:519d1c  =>  android.app.AlertDialog$Builder/show:()Landroid/app/AlertDialog;:19e3bc
+	1:compareBackwardBranch: 1:6834 : <<BRANCH>> : cz.daruma.audioguide.files.ResourcesStorage/getAppRootDir:(Lcz/daruma/audioguide/zuberec/AudioguideApp;)Ljava/lang/String;:515e32  =>  cz.daruma.audioguide.files.ResourcesStorage/getAppRootDir:(Lcz/daruma/audioguide/zuberec/AudioguideApp;)Ljava/lang/String;:515e36
+Action is completely same :)
+Entry: 515d6c
+cz.daruma.audioguide.files.ResourcesStorage/getAppRootDir:(Lcz/daruma/audioguide/zuberec/AudioguideApp;)Ljava/lang/String;: 515e32 -> 515e36
+		cz.daruma.audioguide.files.ResourcesStorage/getAppRootDir:(Lcz/daruma/audioguide/zuberec/AudioguideApp;)Ljava/lang/String;: c6 -> ca
+addPatchReadme: java.lang.Class<cz.daruma.audioguide.files.ResourcesStorage>getAppRootDir(Lcz/daruma/audioguide/zuberec/AudioguideApp;)Ljava/lang/String; c6 f
+46604b9f: [+] Patches found in this round: 1
+46604b9f: [*] Found Patch size: 1
+Target PID : 
+[*] FlowManager: adjust finished.
+[GOOD]: Anti-analysis is identified! :) -- 1 --devDebug
+android.app.AlertDialog$Builder/show:()Landroid/app/AlertDialog;:519d1c		=(rels)=>		1
+[*] Unique action: 1:7575 : <<CALL>> : cz.daruma.audioguide.zuberec.AudioguideApp/showDefaultNoCacheError:(Landroid/content/Context;)V:519d1c  =>  android.app.AlertDialog$Builder/show:()Landroid/app/AlertDialog;:19e3bc
+	1:compareBackwardBranch: 1:6834 : <<BRANCH>> : cz.daruma.audioguide.files.ResourcesStorage/getAppRootDir:(Lcz/daruma/audioguide/zuberec/AudioguideApp;)Ljava/lang/String;:515e32  =>  cz.daruma.audioguide.files.ResourcesStorage/getAppRootDir:(Lcz/daruma/audioguide/zuberec/AudioguideApp;)Ljava/lang/String;:515e36
+Action is completely same :)
+Entry: 515d6c
+cz.daruma.audioguide.files.ResourcesStorage/getAppRootDir:(Lcz/daruma/audioguide/zuberec/AudioguideApp;)Ljava/lang/String;: 515e32 -> 515e36
+		cz.daruma.audioguide.files.ResourcesStorage/getAppRootDir:(Lcz/daruma/audioguide/zuberec/AudioguideApp;)Ljava/lang/String;: c6 -> ca
+addPatchReadme: java.lang.Class<cz.daruma.audioguide.files.ResourcesStorage>getAppRootDir(Lcz/daruma/audioguide/zuberec/AudioguideApp;)Ljava/lang/String; c6 f
+159ceeed: [+] Patches found in this round: 1
+159ceeed: [*] Found Patch size: 1
+Target PID : 26025
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_cz.daruma.audioguide.zuberec_2.1.3_@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+b29e6a69: 	@@@Found patch addr: 515e42
+b29e6a69: Querying offset: 515e32
+b29e6a69: 	--Add method name to patch = cz.daruma.audioguide.files.ResourcesStorage/getAppRootDir:(Lcz/daruma/audioguide/zuberec/AudioguideApp;)Ljava/lang/String; 	515e32
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devTamper_cz.daruma.audioguide.zuberec_2.1.3_@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+46604b9f: 	@@@Found patch addr: 515e42
+46604b9f: Querying offset: 515e32
+46604b9f: 	--Add method name to patch = cz.daruma.audioguide.files.ResourcesStorage/getAppRootDir:(Lcz/daruma/audioguide/zuberec/AudioguideApp;)Ljava/lang/String; 	515e32
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_cz.daruma.audioguide.zuberec_2.1.3_@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+159ceeed: 	@@@Found patch addr: 515e42
+159ceeed: Querying offset: 515e32
+159ceeed: 	--Add method name to patch = cz.daruma.audioguide.files.ResourcesStorage/getAppRootDir:(Lcz/daruma/audioguide/zuberec/AudioguideApp;)Ljava/lang/String; 	515e32
+Devices presenting anti-analysis: 
+	devTamper
+	devRoot
+	devDebug
+46604b9f: patching method: cz.daruma.audioguide.files.ResourcesStorage/getAppRootDir:(Lcz/daruma/audioguide/zuberec/AudioguideApp;)Ljava/lang/String;
+46604b9f: outDir - /home/santapark/Extended3/DEEPerence/reEx/cz.daruma.audioguide.zuberec_2.1.3_.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated_devTamper
+Wow!!!!!  --  cz.daruma.audioguide.files.ResourcesStorage/getAppRootDir:(Lcz/daruma/audioguide/zuberec/AudioguideApp;)Ljava/lang/String;
+fallthrough: ca
+branchTarget: ca
+NOP!
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/cz.daruma.audioguide.zuberec_2.1.3_.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated_devTamper/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/cz.daruma.audioguide.zuberec_2.1.3_.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated_devTamper/cz.daruma.audioguide.zuberec_2.1.3_.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+46604b9f: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/cz.daruma.audioguide.zuberec_2.1.3_.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated_devTamper/signed_cz.daruma.audioguide.zuberec_2.1.3_.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+46604b9f: First address of Lcz/daruma/audioguide/files/ResourcesStorage;->getAppRootDir(Lcz/daruma/audioguide/zuberec/AudioguideApp;)Ljava/lang/String; = 515d7c
+46604b9f: Address - Lcz/daruma/audioguide/files/ResourcesStorage;->getAppRootDir(Lcz/daruma/audioguide/zuberec/AudioguideApp;)Ljava/lang/String;@c6	 lastOffset = 1ec
+46604b9f: Instruction@@: IF_NEZ
+b29e6a69: patching method: cz.daruma.audioguide.files.ResourcesStorage/getAppRootDir:(Lcz/daruma/audioguide/zuberec/AudioguideApp;)Ljava/lang/String;
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/cz.daruma.audioguide.zuberec_2.1.3_.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated_devRoot
+Wow!!!!!  --  cz.daruma.audioguide.files.ResourcesStorage/getAppRootDir:(Lcz/daruma/audioguide/zuberec/AudioguideApp;)Ljava/lang/String;
+fallthrough: ca
+branchTarget: ca
+NOP!
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/cz.daruma.audioguide.zuberec_2.1.3_.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/cz.daruma.audioguide.zuberec_2.1.3_.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated_devRoot/cz.daruma.audioguide.zuberec_2.1.3_.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/cz.daruma.audioguide.zuberec_2.1.3_.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated_devRoot/signed_cz.daruma.audioguide.zuberec_2.1.3_.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+b29e6a69: First address of Lcz/daruma/audioguide/files/ResourcesStorage;->getAppRootDir(Lcz/daruma/audioguide/zuberec/AudioguideApp;)Ljava/lang/String; = 515d7c
+b29e6a69: Address - Lcz/daruma/audioguide/files/ResourcesStorage;->getAppRootDir(Lcz/daruma/audioguide/zuberec/AudioguideApp;)Ljava/lang/String;@c6	 lastOffset = 1ec
+b29e6a69: Instruction@@: IF_NEZ
+159ceeed: patching method: cz.daruma.audioguide.files.ResourcesStorage/getAppRootDir:(Lcz/daruma/audioguide/zuberec/AudioguideApp;)Ljava/lang/String;
+159ceeed: outDir - /home/santapark/Extended3/DEEPerence/reEx/cz.daruma.audioguide.zuberec_2.1.3_.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated_devDebug
+Wow!!!!!  --  cz.daruma.audioguide.files.ResourcesStorage/getAppRootDir:(Lcz/daruma/audioguide/zuberec/AudioguideApp;)Ljava/lang/String;
+fallthrough: ca
+branchTarget: ca
+NOP!
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/cz.daruma.audioguide.zuberec_2.1.3_.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated_devDebug/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/cz.daruma.audioguide.zuberec_2.1.3_.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated_devDebug/cz.daruma.audioguide.zuberec_2.1.3_.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+159ceeed: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/cz.daruma.audioguide.zuberec_2.1.3_.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated_devDebug/signed_cz.daruma.audioguide.zuberec_2.1.3_.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+159ceeed: First address of Lcz/daruma/audioguide/files/ResourcesStorage;->getAppRootDir(Lcz/daruma/audioguide/zuberec/AudioguideApp;)Ljava/lang/String; = 515d7c
+159ceeed: Address - Lcz/daruma/audioguide/files/ResourcesStorage;->getAppRootDir(Lcz/daruma/audioguide/zuberec/AudioguideApp;)Ljava/lang/String;@c6	 lastOffset = 1ec
+159ceeed: Instruction@@: IF_NEZ
+b29e6a69: (Not Installed) Trying remove : true
+159ceeed: (Not Installed) Trying remove : true
+46604b9f: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/cz.daruma.audioguide.zuberec_2.1.3_.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated_devRoot/signed_cz.daruma.audioguide.zuberec_2.1.3_.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/cz.daruma.audioguide.zuberec_2.1.3_.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated_devTamper/signed_cz.daruma.audioguide.zuberec_2.1.3_.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/cz.daruma.audioguide.zuberec_2.1.3_.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated_devDebug/signed_cz.daruma.audioguide.zuberec_2.1.3_.apk@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+159ceeed: Installation Success
+b29e6a69: Installation Success
+46604b9f: Installation Success
+46604b9f: startApplication called! - devTamper
+b29e6a69: startApplication called! - devRoot
+159ceeed: startApplication called! - devDebug
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_cz.daruma.audioguide.zuberec_2.1.3_@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+46604b9f: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devTamper_cz.daruma.audioguide.zuberec_2.1.3_@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+46604b9f: Running Application: cz.daruma.audioguide.zuberec
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_cz.daruma.audioguide.zuberec_2.1.3_@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+b29e6a69: Running Application: cz.daruma.audioguide.zuberec
+PIDs--------------------------------------------------------------------------
+u0_a987       27754    423 13927664 128900 0                  0 S cz.daruma.audioguide.zuberec
+forward tcp:35535 jdwp:27754
+[*]Found JDWP Target: 27754
+159ceeed: Running Application: cz.daruma.audioguide.zuberec
+b29e6a69: Running is done - starting comparing... : 10001
+b29e6a69: Terminated logcat thread...by itself
+46604b9f: Running is done - starting comparing... : 10001
+46604b9f: Terminated logcat thread...by itself
+b29e6a69: Top-activity: cz.daruma.audioguide.zuberec/cz.daruma.audioguide.app.MainActivity
+PIDs--------------------------------------------------------------------------
+u0_a680       31275    430 14043792 129676 0                  0 S cz.daruma.audioguide.zuberec
+b29e6a69: savedPid = 31275
+PIDs--------------------------------------------------------------------------
+u0_a680       31275    430 14043792 129676 0                  0 S cz.daruma.audioguide.zuberec
+b29e6a69: savedPid2 = 31275
+Stopping app: cz.daruma.audioguide.zuberec
+46604b9f: Top-activity: cz.daruma.audioguide.zuberec/cz.daruma.audioguide.app.MainActivity
+PIDs--------------------------------------------------------------------------
+u0_a528       32095    425 14028032 122884 0                  0 S cz.daruma.audioguide.zuberec
+46604b9f: savedPid = 32095
+PIDs--------------------------------------------------------------------------
+u0_a528       32095    425 14028032 122884 0                  0 S cz.daruma.audioguide.zuberec
+46604b9f: savedPid2 = 32095
+Stopping app: cz.daruma.audioguide.zuberec
+PIDs--------------------------------------------------------------------------
+u0_a987       27754    423 13911280 132184 0                  0 S cz.daruma.audioguide.zuberec
+159ceeed: Tryging attach jdb to 27754
+jdb -connect com.sun.jdi.SocketAttach:hostname=localhost,port=35535
+Tryging remove : uninstall cz.daruma.audioguide.zuberec(cz.daruma.audioguide.zuberec)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 2038665
+b29e6a69: End of collecting logcat...
+Tryging remove : uninstall cz.daruma.audioguide.zuberec(cz.daruma.audioguide.zuberec)
+46604b9f: Remove Success
+46604b9f: ilog file size: 2039446
+46604b9f: End of collecting logcat...
+159ceeed: Terminated logcat thread...by itself
+159ceeed: Top-activity: cz.daruma.audioguide.zuberec/cz.daruma.audioguide.app.MainActivity
+PIDs--------------------------------------------------------------------------
+u0_a987       27754    423 14063560 144712 0                  0 S cz.daruma.audioguide.zuberec
+159ceeed: savedPid = 27754
+PIDs--------------------------------------------------------------------------
+u0_a987       27754    423 14063560 144712 0                  0 S cz.daruma.audioguide.zuberec
+159ceeed: savedPid2 = 27754
+Stopping app: cz.daruma.audioguide.zuberec
+Tryging remove : uninstall cz.daruma.audioguide.zuberec(cz.daruma.audioguide.zuberec)
+159ceeed: Remove Success
+159ceeed: ilog file size: 4551846
+159ceeed: End of collecting logcat...
+HPFinder's try count remains: 28
+Target PID : 22431
+Target PID : 22431
+Target PID : 22431
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_cz.daruma.audioguide.zuberec_2.1.3_@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+Target PID : 27754
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_cz.daruma.audioguide.zuberec_2.1.3_@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+Target PID : 31275
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_cz.daruma.audioguide.zuberec_2.1.3_@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+Target PID : 32095
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_cz.daruma.audioguide.zuberec_2.1.3_@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+159ceeed: adding filter -- 515e32
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_cz.daruma.audioguide.zuberec_2.1.3_@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+b29e6a69: adding filter -- 515e32
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devTamper_cz.daruma.audioguide.zuberec_2.1.3_@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+46604b9f: adding filter -- 515e32
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 515e32
+[*] FlowManager: adjust finished.
+Action is completely same :)
+-- current localPatchFilter: 515e32
+Action is completely same :)
+46604b9f: There is no difference. (tryAgain=false)
+Action is completely same :)
+Action is completely same :)
+159ceeed: There is no difference. (tryAgain=false)
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 515e32
+Action is completely same :)
+Action is completely same :)
+b29e6a69: There is no difference. (tryAgain=false)
+-- HPFinder will be done in this iteration :)
+hasAntiAnalysis? - devTamper: true on cz.daruma.audioguide.app.SplashActivity
+	isRemovedThem? - devTamper: true on cz.daruma.audioguide.app.SplashActivity	-	tryCount: 1
+hasAntiAnalysis? - devRoot: true on cz.daruma.audioguide.app.SplashActivity
+	isRemovedThem? - devRoot: true on cz.daruma.audioguide.app.SplashActivity	-	tryCount: 1
+hasAntiAnalysis? - devDebug: true on cz.daruma.audioguide.app.SplashActivity
+	isRemovedThem? - devDebug: true on cz.daruma.audioguide.app.SplashActivity	-	tryCount: 1
+3601a6ff: isFailedToLaunch: cz.daruma.audioguide.zuberec/cz.daruma.audioguide.app.MainActivity
+3601a6ff: 	--result: Good :)
+*****REPORT: cz.daruma.audioguide.zuberec
+* Package name: cz.daruma.audioguide.zuberec
+* Running time: 374
+* FileSize: 5194177
+devTamper : 2039446
+devRef : 4242785
+devRoot : 2038665
+devDebug : 4551846
+hasAntiAnalysis? - devTamper: true on cz.daruma.audioguide.app.SplashActivity
+	isRemovedThem? - devTamper: true on cz.daruma.audioguide.app.SplashActivity	-	tryCount: 1
+hasAntiAnalysis? - devRoot: true on cz.daruma.audioguide.app.SplashActivity
+	isRemovedThem? - devRoot: true on cz.daruma.audioguide.app.SplashActivity	-	tryCount: 1
+hasAntiAnalysis? - devDebug: true on cz.daruma.audioguide.app.SplashActivity
+	isRemovedThem? - devDebug: true on cz.daruma.audioguide.app.SplashActivity	-	tryCount: 1
+46604b9f: trying remove : cz.daruma.audioguide.zuberec
+3601a6ff: trying remove : cz.daruma.audioguide.zuberec
+b29e6a69: trying remove : cz.daruma.audioguide.zuberec
+159ceeed: trying remove : cz.daruma.audioguide.zuberec
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+b29e6a69: result = true
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+159ceeed: result = true
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+46604b9f: result = true
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+3601a6ff: result = true
+3601a6ff: isFailedToLaunch: cz.daruma.audioguide.zuberec/cz.daruma.audioguide.app.MainActivity
+3601a6ff: 	--result: Good :)

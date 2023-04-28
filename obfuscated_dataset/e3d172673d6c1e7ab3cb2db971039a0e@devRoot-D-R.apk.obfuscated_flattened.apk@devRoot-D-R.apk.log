@@ -1,0 +1,612 @@
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample65.apk@devRoot-D-R.apk.obfuscated_flattened/AndroidManifest.xml
+launchable-activity: name='in.gov.ap.spandana.Activities.SplashScreen'  label='' icon=''
+{ACTIVITY, in.gov.ap.spandana.Activities.Dashboard}
+{ACTIVITY, in.gov.ap.spandana.Activities.OTPVerification}
+{ACTIVITY, in.gov.ap.spandana.Activities.Login}
+{ACTIVITY, in.gov.ap.spandana.Activities.SplashScreen, android.intent.action.MAIN}
+{RECEIVER, com.google.android.gms.analytics.AnalyticsReceiver}
+{SERVICE, com.google.android.gms.analytics.AnalyticsService}
+{SERVICE, com.google.android.gms.analytics.AnalyticsJobService}
+{ACTIVITY, com.google.android.gms.appinvite.PreviewActivity, com.google.android.gms.appinvite.ACTION_PREVIEW}
+{SERVICE, com.google.firebase.components.ComponentDiscoveryService}
+{SERVICE, com.google.firebase.messaging.FirebaseMessagingService, com.google.firebase.MESSAGING_EVENT}
+{RECEIVER, com.google.firebase.iid.FirebaseInstanceIdReceiver, com.google.android.c2dm.intent.RECEIVE}
+{RECEIVER, com.google.android.gms.measurement.AppMeasurementReceiver}
+{RECEIVER, com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver, com.android.vending.INSTALL_REFERRER}
+{SERVICE, com.google.android.gms.measurement.AppMeasurementService}
+{SERVICE, com.google.android.gms.measurement.AppMeasurementJobService}
+{ACTIVITY, com.google.android.gms.common.api.GoogleApiActivity}
+{SERVICE, com.google.android.datatransport.runtime.backends.TransportBackendDiscovery}
+{SERVICE, com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService}
+{ACTIVITY, in.gov.ap.spandana.Activities.Dashboard}
+{ACTIVITY, in.gov.ap.spandana.Activities.OTPVerification}
+{ACTIVITY, in.gov.ap.spandana.Activities.Login}
+{ACTIVITY, in.gov.ap.spandana.Activities.SplashScreen, android.intent.action.MAIN}
+{RECEIVER, com.google.android.gms.analytics.AnalyticsReceiver}
+{SERVICE, com.google.android.gms.analytics.AnalyticsService}
+{SERVICE, com.google.android.gms.analytics.AnalyticsJobService}
+{ACTIVITY, com.google.android.gms.appinvite.PreviewActivity, com.google.android.gms.appinvite.ACTION_PREVIEW}
+{SERVICE, com.google.firebase.components.ComponentDiscoveryService}
+{SERVICE, com.google.firebase.messaging.FirebaseMessagingService, com.google.firebase.MESSAGING_EVENT}
+{RECEIVER, com.google.firebase.iid.FirebaseInstanceIdReceiver, com.google.android.c2dm.intent.RECEIVE}
+{RECEIVER, com.google.android.gms.measurement.AppMeasurementReceiver}
+{RECEIVER, com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver, com.android.vending.INSTALL_REFERRER}
+{SERVICE, com.google.android.gms.measurement.AppMeasurementService}
+{SERVICE, com.google.android.gms.measurement.AppMeasurementJobService}
+{ACTIVITY, com.google.android.gms.common.api.GoogleApiActivity}
+{SERVICE, com.google.android.datatransport.runtime.backends.TransportBackendDiscovery}
+{SERVICE, com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService}
+_getAllDexFiles: /home/santapark/Extended3/DEEPerence/reEx/sample65.apk@devRoot-D-R.apk.obfuscated_flattened/classes.dex
+----------------/home/santapark/Extended3/DEEPerence/reEx/sample65.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+dexFile = org.jf.dexlib2.dexbacked.DexBackedDexFile@625abb97
+in.gov.ap.spandana
+in.gov.ap.spandana.Activities.SplashScreen
+debuggable: true
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample65.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample65.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample65.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample65.apk@devRoot-D-R.apk.obfuscated_flattened_46604b9f/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample65.apk@devRoot-D-R.apk.obfuscated_flattened_46604b9f/sample65.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+3601a6ff: Installation Success
+159ceeed: Installation Success
+b29e6a69: Installation Success
+46604b9f: Installing repackaged apk File: 
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample65.apk@devRoot-D-R.apk.obfuscated_flattened_46604b9f/signed_sample65.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+46604b9f: Installation Success
+46604b9f: startApplication called! - devTamper
+3601a6ff: startApplication called! - devRef
+b29e6a69: startApplication called! - devRoot
+159ceeed: startApplication called! - devDebug
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample65@devRoot-D-R.obfuscated_flattened.ilog)
+46604b9f: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devTamper_sample65@devRoot-D-R.obfuscated_flattened.ilog)
+46604b9f: Running Application: in.gov.ap.spandana
+3601a6ff: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample65@devRoot-D-R.obfuscated_flattened.ilog)
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample65@devRoot-D-R.obfuscated_flattened.ilog)
+b29e6a69: Running Application: in.gov.ap.spandana
+3601a6ff: Running Application: in.gov.ap.spandana
+PIDs--------------------------------------------------------------------------
+u0_a288       14897    423 14498988 116124 0                  0 S in.gov.ap.spandana
+forward tcp:35535 jdwp:14897
+[*]Found JDWP Target: 14897
+159ceeed: Running Application: in.gov.ap.spandana
+PIDs--------------------------------------------------------------------------
+u0_a288       14897    423 14646180 148720 0                  0 S in.gov.ap.spandana
+159ceeed: Tryging attach jdb to 14897
+jdb -connect com.sun.jdi.SocketAttach:hostname=localhost,port=35535
+b29e6a69: Running is done - starting comparing... : 10001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: in.gov.ap.spandana/.Activities.SplashScreen
+PIDs--------------------------------------------------------------------------
+u0_a3859      10567    425 14657060 140352 0                  0 S in.gov.ap.spandana
+b29e6a69: savedPid = 10567
+PIDs--------------------------------------------------------------------------
+u0_a3859      10567    425 14657060 140352 0                  0 S in.gov.ap.spandana
+b29e6a69: savedPid2 = 10567
+Stopping app: in.gov.ap.spandana
+Tryging remove : uninstall in.gov.ap.spandana(in.gov.ap.spandana)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 4433536
+b29e6a69: End of collecting logcat...
+159ceeed: Running is done - starting comparing... : 10001
+159ceeed: Terminated logcat thread...by itself
+46604b9f: Running is done - starting comparing... : 10001
+46604b9f: Terminated logcat thread...by itself
+159ceeed: Top-activity: in.gov.ap.spandana/.Activities.Login
+PIDs--------------------------------------------------------------------------
+u0_a288       14897    423 14716544 160972 0                  0 S in.gov.ap.spandana
+159ceeed: savedPid = 14897
+3601a6ff: Running is done - starting comparing... : 10001
+3601a6ff: Terminated logcat thread...by itself
+PIDs--------------------------------------------------------------------------
+u0_a288       14897    423 14716544 160972 0                  0 S in.gov.ap.spandana
+159ceeed: savedPid2 = 14897
+Stopping app: in.gov.ap.spandana
+3601a6ff: Top-activity: in.gov.ap.spandana/.Activities.Login
+PIDs--------------------------------------------------------------------------
+u0_a278        6795    417 14899996 147684 0                  0 S in.gov.ap.spandana
+3601a6ff: savedPid = 6795
+46604b9f: Top-activity: in.gov.ap.spandana/.Activities.Login
+PIDs--------------------------------------------------------------------------
+u0_a922        8134    427 14919828 146492 0                  0 S in.gov.ap.spandana
+46604b9f: savedPid = 8134
+PIDs--------------------------------------------------------------------------
+u0_a278        6795    417 14899996 147684 0                  0 S in.gov.ap.spandana
+3601a6ff: savedPid2 = 6795
+Stopping app: in.gov.ap.spandana
+PIDs--------------------------------------------------------------------------
+u0_a922        8134    427 14919828 146492 0                  0 S in.gov.ap.spandana
+46604b9f: savedPid2 = 8134
+Stopping app: in.gov.ap.spandana
+Tryging remove : uninstall in.gov.ap.spandana(in.gov.ap.spandana)
+159ceeed: Remove Success
+159ceeed: ilog file size: 41651148
+159ceeed: End of collecting logcat...
+Tryging remove : uninstall in.gov.ap.spandana(in.gov.ap.spandana)
+3601a6ff: Remove Success
+3601a6ff: ilog file size: 41241219
+3601a6ff: End of collecting logcat...
+Tryging remove : uninstall in.gov.ap.spandana(in.gov.ap.spandana)
+46604b9f: Remove Success
+46604b9f: ilog file size: 41557242
+46604b9f: End of collecting logcat...
+HPFinder's try count remains: 29
+46604b9f: isFailedToLaunch: in.gov.ap.spandana/.Activities.Login
+46604b9f: 	--result: Good :)
+46604b9f: isFailedToLaunch: in.gov.ap.spandana/.Activities.Login
+46604b9f: 	--result: Good :)
+b29e6a69: isFailedToLaunch: in.gov.ap.spandana/.Activities.SplashScreen
+b29e6a69: 	--result: Good :)
+b29e6a69: isFailedToLaunch: in.gov.ap.spandana/.Activities.SplashScreen
+b29e6a69: 	--result: Good :)
+159ceeed: isFailedToLaunch: in.gov.ap.spandana/.Activities.Login
+159ceeed: 	--result: Good :)
+159ceeed: isFailedToLaunch: in.gov.ap.spandana/.Activities.Login
+159ceeed: 	--result: Good :)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample65@devRoot-D-R.obfuscated_flattened.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample65@devRoot-D-R.obfuscated_flattened.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample65@devRoot-D-R.obfuscated_flattened.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample65@devRoot-D-R.obfuscated_flattened.ilog)
+[*] FlowManager: adjust finished.
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:76a646		=(rels)=>		1
+[*] Unique action: 1:172418 : <<CALL>> : in.gov.ap.spandana.Activities.Login/onCreate:(Landroid/os/Bundle;)V:76a646  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devTamper_sample65@devRoot-D-R.obfuscated_flattened.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample65@devRoot-D-R.obfuscated_flattened.ilog)
+	1:compareBackwardBranch: 1:107613 : <<BRANCH>> : in.gov.ap.spandana.Activities.SplashScreen/onCreate:(Landroid/os/Bundle;)V:76f9c8  =>  in.gov.ap.spandana.Activities.SplashScreen/onCreate:(Landroid/os/Bundle;)V:76f9d8
+android.app.Activity/startActivity:(Landroid/content/Intent;)V:76f3d4		=(rels)=>		1
+[*] Unique action: 1:143675 : <<CALL>> : in.gov.ap.spandana.Activities.SplashScreen$3$1/run:()V:76f3d4  =>  android.app.Activity/startActivity:(Landroid/content/Intent;)V:19cda0
+[*] FlowManager: adjust finished.
+Action is completely same :)
+Action is completely same :)
+46604b9f: There is no difference. (tryAgain=false)
+[*] FlowManager: adjust finished.
+Action is completely same :)
+Action is completely same :)
+159ceeed: There is no difference. (tryAgain=false)
+	1:compareBackwardBranch: 1:107613 : <<BRANCH>> : in.gov.ap.spandana.Activities.SplashScreen/onCreate:(Landroid/os/Bundle;)V:76f9c8  =>  in.gov.ap.spandana.Activities.SplashScreen/onCreate:(Landroid/os/Bundle;)V:76f9d8
+android.widget.TextView/setText:(Ljava/lang/CharSequence;Landroid/widget/TextView$BufferType;)V:76a404		=(rels)=>		1
+[*] Unique action: 1:160898 : <<CALL>> : in.gov.ap.spandana.Activities.Login/onCreate:(Landroid/os/Bundle;)V:76a404  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;Landroid/widget/TextView$BufferType;)V:29ee50
+	1:compareBackwardBranch: 1:107613 : <<BRANCH>> : in.gov.ap.spandana.Activities.SplashScreen/onCreate:(Landroid/os/Bundle;)V:76f9c8  =>  in.gov.ap.spandana.Activities.SplashScreen/onCreate:(Landroid/os/Bundle;)V:76f9d8
+android.widget.EditText/getText:()Landroid/text/Editable;:48b85c		=(rels)=>		1
+[*] Unique action: 1:152073 : <<CALL>> : androidx.appcompat.widget.AppCompatEditText/getText:()Landroid/text/Editable;:48b85c  =>  android.widget.EditText/getText:()Landroid/text/Editable;:2330f8
+	1:compareBackwardBranch: 1:107613 : <<BRANCH>> : in.gov.ap.spandana.Activities.SplashScreen/onCreate:(Landroid/os/Bundle;)V:76f9c8  =>  in.gov.ap.spandana.Activities.SplashScreen/onCreate:(Landroid/os/Bundle;)V:76f9d8
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:76a5f2		=(rels)=>		1
+[*] Unique action: 1:172397 : <<CALL>> : in.gov.ap.spandana.Activities.Login/onCreate:(Landroid/os/Bundle;)V:76a5f2  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:107613 : <<BRANCH>> : in.gov.ap.spandana.Activities.SplashScreen/onCreate:(Landroid/os/Bundle;)V:76f9c8  =>  in.gov.ap.spandana.Activities.SplashScreen/onCreate:(Landroid/os/Bundle;)V:76f9d8
+android.widget.Toast/show:()V:78c4ce		=(rels)=>		1
+[*] Unique action: 1:172389 : <<CALL>> : in.gov.ap.spandana.utils.HFAUtils/showToast:(Landroid/app/Activity;Ljava/lang/String;)V:78c4ce  =>  android.widget.Toast/show:()V:2a3e70
+	1:compareBackwardBranch: 1:107613 : <<BRANCH>> : in.gov.ap.spandana.Activities.SplashScreen/onCreate:(Landroid/os/Bundle;)V:76f9c8  =>  in.gov.ap.spandana.Activities.SplashScreen/onCreate:(Landroid/os/Bundle;)V:76f9d8
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:76a3d0		=(rels)=>		1
+[*] Unique action: 1:160881 : <<CALL>> : in.gov.ap.spandana.Activities.Login/onCreate:(Landroid/os/Bundle;)V:76a3d0  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:107613 : <<BRANCH>> : in.gov.ap.spandana.Activities.SplashScreen/onCreate:(Landroid/os/Bundle;)V:76f9c8  =>  in.gov.ap.spandana.Activities.SplashScreen/onCreate:(Landroid/os/Bundle;)V:76f9d8
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:76a60e		=(rels)=>		1
+[*] Unique action: 1:172404 : <<CALL>> : in.gov.ap.spandana.Activities.Login/onCreate:(Landroid/os/Bundle;)V:76a60e  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:107613 : <<BRANCH>> : in.gov.ap.spandana.Activities.SplashScreen/onCreate:(Landroid/os/Bundle;)V:76f9c8  =>  in.gov.ap.spandana.Activities.SplashScreen/onCreate:(Landroid/os/Bundle;)V:76f9d8
+android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:516848		=(rels)=>		1
+[*] Unique action: 1:143987 : <<CALL>> : androidx.lifecycle.ProcessLifecycleOwner/a:()V:516848  =>  android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:30ca84
+	1:compareBackwardBranch: 1:107613 : <<BRANCH>> : in.gov.ap.spandana.Activities.SplashScreen/onCreate:(Landroid/os/Bundle;)V:76f9c8  =>  in.gov.ap.spandana.Activities.SplashScreen/onCreate:(Landroid/os/Bundle;)V:76f9d8
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:76a62a		=(rels)=>		1
+[*] Unique action: 1:172411 : <<CALL>> : in.gov.ap.spandana.Activities.Login/onCreate:(Landroid/os/Bundle;)V:76a62a  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:107613 : <<BRANCH>> : in.gov.ap.spandana.Activities.SplashScreen/onCreate:(Landroid/os/Bundle;)V:76f9c8  =>  in.gov.ap.spandana.Activities.SplashScreen/onCreate:(Landroid/os/Bundle;)V:76f9d8
+android.widget.TextView/setText:(Ljava/lang/CharSequence;Landroid/widget/TextView$BufferType;)V:76a438		=(rels)=>		1
+[*] Unique action: 1:160919 : <<CALL>> : in.gov.ap.spandana.Activities.Login/onCreate:(Landroid/os/Bundle;)V:76a438  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;Landroid/widget/TextView$BufferType;)V:29ee50
+	1:compareBackwardBranch: 1:107613 : <<BRANCH>> : in.gov.ap.spandana.Activities.SplashScreen/onCreate:(Landroid/os/Bundle;)V:76f9c8  =>  in.gov.ap.spandana.Activities.SplashScreen/onCreate:(Landroid/os/Bundle;)V:76f9d8
+android.app.Dialog/show:()V:76f7a4		=(rels)=>		1
+[*] Unique action: 1:10586 : <<CALL>> : in.gov.ap.spandana.Activities.SplashScreen/showRootedDeviceDialog:()V:76f7a4  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:6665 : <<BRANCH>> : in.gov.ap.spandana.Activities.SplashScreen/onCreate:(Landroid/os/Bundle;)V:76f968  =>  in.gov.ap.spandana.Activities.SplashScreen/onCreate:(Landroid/os/Bundle;)V:76f97e
+Entry: 76f800
+in.gov.ap.spandana.Activities.SplashScreen/onCreate:(Landroid/os/Bundle;)V: 76f9c8 -> 76f9d8
+		in.gov.ap.spandana.Activities.SplashScreen/onCreate:(Landroid/os/Bundle;)V: 1c8 -> 1d8
+addPatchReadme: java.lang.Class<in.gov.ap.spandana.Activities.SplashScreen>onCreate(Landroid/os/Bundle;)V 1c8 t
+Entry: 76f800
+in.gov.ap.spandana.Activities.SplashScreen/onCreate:(Landroid/os/Bundle;)V: 76f968 -> 76f97e
+		in.gov.ap.spandana.Activities.SplashScreen/onCreate:(Landroid/os/Bundle;)V: 168 -> 17e
+addPatchReadme: java.lang.Class<in.gov.ap.spandana.Activities.SplashScreen>onCreate(Landroid/os/Bundle;)V 168 t
+b29e6a69: [+] Patches found in this round: 2
+b29e6a69: [*] Found Patch size: 1
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample65@devRoot-D-R.obfuscated_flattened.ilog)
+b29e6a69: 	@@@Found patch addr: 76f978
+b29e6a69: Querying offset: 76f968
+b29e6a69: 	--Add method name to patch = in.gov.ap.spandana.Activities.SplashScreen/onCreate:(Landroid/os/Bundle;)V 	76f968
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: patching method: in.gov.ap.spandana.Activities.SplashScreen/onCreate:(Landroid/os/Bundle;)V
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample65.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot
+Wow!!!!!  --  in.gov.ap.spandana.Activities.SplashScreen/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 16e
+branchTarget: 17e
+label = sswitch_data_4
+GOTO -- 16e 	17e
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample65.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample65.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/sample65.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample65.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/signed_sample65.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+b29e6a69: First address of Lin/gov/ap/spandana/Activities/SplashScreen;->onCreate(Landroid/os/Bundle;)V = 76f810
+b29e6a69: Address - Lin/gov/ap/spandana/Activities/SplashScreen;->onCreate(Landroid/os/Bundle;)V@168	 lastOffset = 368
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample65.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/signed_sample65.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample65@devRoot-D-R.obfuscated_flattened.ilog)
+b29e6a69: Running Application: in.gov.ap.spandana
+b29e6a69: Running is done - starting comparing... : 10001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+b29e6a69: savedPid = null
+PIDs--------------------------------------------------------------------------
+b29e6a69: savedPid2 = null
+Stopping app: in.gov.ap.spandana
+Tryging remove : uninstall in.gov.ap.spandana(in.gov.ap.spandana)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 79293
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 28
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+b29e6a69: /home/santapark/Extended3/DEEPerence/reEx/sample65.apk@devRoot-D-R.apk.obfuscated_flattened.apk launch is failed on devRoot
+b29e6a69: Failed Patch: 76f978
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample65@devRoot-D-R.obfuscated_flattened.ilog)
+ExitReason-Code: 5 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample65@devRoot-D-R.obfuscated_flattened.ilog)
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 76f968
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.app.Activity/startActivity:(Landroid/content/Intent;)V:76f3d4		=(rels)=>		1
+[*] Unique action: 1:143675 : <<CALL>> : in.gov.ap.spandana.Activities.SplashScreen$3$1/run:()V:76f3d4  =>  android.app.Activity/startActivity:(Landroid/content/Intent;)V:19cda0
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:4a146e		=(rels)=>		1
+[*] Unique action: 1:4175 : <<CALL>> : androidx.appcompat.widget.Toolbar/setNavigationOnClickListener:(Landroid/view/View$OnClickListener;)V:4a146e  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:76a5f2		=(rels)=>		1
+[*] Unique action: 1:172397 : <<CALL>> : in.gov.ap.spandana.Activities.Login/onCreate:(Landroid/os/Bundle;)V:76a5f2  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:76a3d0		=(rels)=>		1
+[*] Unique action: 1:160881 : <<CALL>> : in.gov.ap.spandana.Activities.Login/onCreate:(Landroid/os/Bundle;)V:76a3d0  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+android.widget.TextView/setText:(Ljava/lang/CharSequence;Landroid/widget/TextView$BufferType;)V:76a438		=(rels)=>		1
+[*] Unique action: 1:160919 : <<CALL>> : in.gov.ap.spandana.Activities.Login/onCreate:(Landroid/os/Bundle;)V:76a438  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;Landroid/widget/TextView$BufferType;)V:29ee50
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:76a646		=(rels)=>		1
+[*] Unique action: 1:172418 : <<CALL>> : in.gov.ap.spandana.Activities.Login/onCreate:(Landroid/os/Bundle;)V:76a646  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:49f2d8		=(rels)=>		1
+[*] Unique action: 1:4813 : <<CALL>> : androidx.appcompat.widget.Toolbar/addSystemView:(Landroid/view/View;Z)V:49f2d8  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+android.widget.TextView/setText:(Ljava/lang/CharSequence;Landroid/widget/TextView$BufferType;)V:76a404		=(rels)=>		1
+[*] Unique action: 1:160898 : <<CALL>> : in.gov.ap.spandana.Activities.Login/onCreate:(Landroid/os/Bundle;)V:76a404  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;Landroid/widget/TextView$BufferType;)V:29ee50
+android.widget.EditText/getText:()Landroid/text/Editable;:48b85c		=(rels)=>		1
+[*] Unique action: 1:152073 : <<CALL>> : androidx.appcompat.widget.AppCompatEditText/getText:()Landroid/text/Editable;:48b85c  =>  android.widget.EditText/getText:()Landroid/text/Editable;:2330f8
+android.widget.Toast/show:()V:78c4ce		=(rels)=>		1
+[*] Unique action: 1:172389 : <<CALL>> : in.gov.ap.spandana.utils.HFAUtils/showToast:(Landroid/app/Activity;Ljava/lang/String;)V:78c4ce  =>  android.widget.Toast/show:()V:2a3e70
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:76a60e		=(rels)=>		1
+[*] Unique action: 1:172404 : <<CALL>> : in.gov.ap.spandana.Activities.Login/onCreate:(Landroid/os/Bundle;)V:76a60e  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:516848		=(rels)=>		1
+[*] Unique action: 1:143987 : <<CALL>> : androidx.lifecycle.ProcessLifecycleOwner/a:()V:516848  =>  android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:30ca84
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:4a1750		=(rels)=>		1
+[*] Unique action: 1:4822 : <<CALL>> : androidx.appcompat.widget.Toolbar/setTitle:(Ljava/lang/CharSequence;)V:4a1750  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:76a62a		=(rels)=>		1
+[*] Unique action: 1:172411 : <<CALL>> : in.gov.ap.spandana.Activities.Login/onCreate:(Landroid/os/Bundle;)V:76a62a  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+Action is completely same :)
+Entry: 5150a8
+androidx.lifecycle.LifecycleRegistry/a:(Landroidx/lifecycle/Lifecycle$Event;)Landroidx/lifecycle/Lifecycle$State;: 5150b0 -> 5150b4
+		androidx.lifecycle.LifecycleRegistry/a:(Landroidx/lifecycle/Lifecycle$Event;)Landroidx/lifecycle/Lifecycle$State;: 8 -> c
+addPatchReadme: java.lang.Class<androidx.lifecycle.LifecycleRegistry>a(Landroidx/lifecycle/Lifecycle$Event;)Landroidx/lifecycle/Lifecycle$State; 8 f
+Entry: 4a9e30
+androidx.collection.SimpleArrayMap/a:(Ljava/lang/Object;I)I: 4a9e34 -> 4a9e3c
+		androidx.collection.SimpleArrayMap/a:(Ljava/lang/Object;I)I: 4 -> c
+addPatchReadme: java.lang.Class<androidx.collection.SimpleArrayMap>a(Ljava/lang/Object;I)I 4 t
+Entry: 51549c
+androidx.lifecycle.LifecycleRegistry/sync:()V: 5154be -> 5154c2
+		androidx.lifecycle.LifecycleRegistry/sync:()V: 22 -> 26
+addPatchReadme: java.lang.Class<androidx.lifecycle.LifecycleRegistry>sync()V 22 f
+b29e6a69: [+] Patches found in this round: 3
+b29e6a69: [*] Found Patch size: 1
+ExitReason-Code: 5 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample65@devRoot-D-R.obfuscated_flattened.ilog)
+b29e6a69: @@localPatchFilter -- 76f978
+b29e6a69: 	@@@Found patch addr: 5154ce
+b29e6a69: Querying offset: 5154be
+b29e6a69: 	--Add method name to patch = androidx.lifecycle.LifecycleRegistry/sync:()V 	5154be
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: patching method: androidx.collection.SimpleArrayMap/a:(Ljava/lang/Object;I)I
+b29e6a69: patching method: androidx.lifecycle.LifecycleRegistry/a:(Landroidx/lifecycle/Lifecycle$Event;)Landroidx/lifecycle/Lifecycle$State;
+b29e6a69: patching method: androidx.lifecycle.LifecycleRegistry/sync:()V
+b29e6a69: patching method: in.gov.ap.spandana.Activities.SplashScreen/onCreate:(Landroid/os/Bundle;)V
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample65.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot
+Wow!!!!!  --  androidx.lifecycle.LifecycleRegistry/sync:()V
+fallthrough: 26
+branchTarget: 26
+NOP!
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample65.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample65.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/sample65.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample65.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/signed_sample65.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+b29e6a69: First address of Landroidx/lifecycle/LifecycleRegistry;->sync()V = 5154ac
+b29e6a69: Address - Landroidx/lifecycle/LifecycleRegistry;->sync()V@22	 lastOffset = a8
+b29e6a69: Instruction@@: IF_NEZ
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample65.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/signed_sample65.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample65@devRoot-D-R.obfuscated_flattened.ilog)
+b29e6a69: Running Application: in.gov.ap.spandana
+b29e6a69: Running is done - starting comparing... : 10001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+b29e6a69: savedPid = null
+PIDs--------------------------------------------------------------------------
+b29e6a69: savedPid2 = null
+Stopping app: in.gov.ap.spandana
+Tryging remove : uninstall in.gov.ap.spandana(in.gov.ap.spandana)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 77284
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 27
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+b29e6a69: /home/santapark/Extended3/DEEPerence/reEx/sample65.apk@devRoot-D-R.apk.obfuscated_flattened.apk launch is failed on devRoot
+b29e6a69: Failed Patch: 5154ce
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample65@devRoot-D-R.obfuscated_flattened.ilog)
+ExitReason-Code: 5 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample65@devRoot-D-R.obfuscated_flattened.ilog)
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 76f968
+-- current localPatchFilter: 5154be
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.app.Activity/startActivity:(Landroid/content/Intent;)V:76f3d4		=(rels)=>		1
+[*] Unique action: 1:143675 : <<CALL>> : in.gov.ap.spandana.Activities.SplashScreen$3$1/run:()V:76f3d4  =>  android.app.Activity/startActivity:(Landroid/content/Intent;)V:19cda0
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:4a146e		=(rels)=>		1
+[*] Unique action: 1:4175 : <<CALL>> : androidx.appcompat.widget.Toolbar/setNavigationOnClickListener:(Landroid/view/View$OnClickListener;)V:4a146e  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:76a5f2		=(rels)=>		1
+[*] Unique action: 1:172397 : <<CALL>> : in.gov.ap.spandana.Activities.Login/onCreate:(Landroid/os/Bundle;)V:76a5f2  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:76a3d0		=(rels)=>		1
+[*] Unique action: 1:160881 : <<CALL>> : in.gov.ap.spandana.Activities.Login/onCreate:(Landroid/os/Bundle;)V:76a3d0  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+android.widget.TextView/setText:(Ljava/lang/CharSequence;Landroid/widget/TextView$BufferType;)V:76a438		=(rels)=>		1
+[*] Unique action: 1:160919 : <<CALL>> : in.gov.ap.spandana.Activities.Login/onCreate:(Landroid/os/Bundle;)V:76a438  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;Landroid/widget/TextView$BufferType;)V:29ee50
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:76a646		=(rels)=>		1
+[*] Unique action: 1:172418 : <<CALL>> : in.gov.ap.spandana.Activities.Login/onCreate:(Landroid/os/Bundle;)V:76a646  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:49f2d8		=(rels)=>		1
+[*] Unique action: 1:4813 : <<CALL>> : androidx.appcompat.widget.Toolbar/addSystemView:(Landroid/view/View;Z)V:49f2d8  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+android.widget.TextView/setText:(Ljava/lang/CharSequence;Landroid/widget/TextView$BufferType;)V:76a404		=(rels)=>		1
+[*] Unique action: 1:160898 : <<CALL>> : in.gov.ap.spandana.Activities.Login/onCreate:(Landroid/os/Bundle;)V:76a404  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;Landroid/widget/TextView$BufferType;)V:29ee50
+android.widget.EditText/getText:()Landroid/text/Editable;:48b85c		=(rels)=>		1
+[*] Unique action: 1:152073 : <<CALL>> : androidx.appcompat.widget.AppCompatEditText/getText:()Landroid/text/Editable;:48b85c  =>  android.widget.EditText/getText:()Landroid/text/Editable;:2330f8
+android.widget.Toast/show:()V:78c4ce		=(rels)=>		1
+[*] Unique action: 1:172389 : <<CALL>> : in.gov.ap.spandana.utils.HFAUtils/showToast:(Landroid/app/Activity;Ljava/lang/String;)V:78c4ce  =>  android.widget.Toast/show:()V:2a3e70
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:76a60e		=(rels)=>		1
+[*] Unique action: 1:172404 : <<CALL>> : in.gov.ap.spandana.Activities.Login/onCreate:(Landroid/os/Bundle;)V:76a60e  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:516848		=(rels)=>		1
+[*] Unique action: 1:143987 : <<CALL>> : androidx.lifecycle.ProcessLifecycleOwner/a:()V:516848  =>  android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:30ca84
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:4a1750		=(rels)=>		1
+[*] Unique action: 1:4822 : <<CALL>> : androidx.appcompat.widget.Toolbar/setTitle:(Ljava/lang/CharSequence;)V:4a1750  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:76a62a		=(rels)=>		1
+[*] Unique action: 1:172411 : <<CALL>> : in.gov.ap.spandana.Activities.Login/onCreate:(Landroid/os/Bundle;)V:76a62a  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+Action is completely same :)
+Entry: 5150a8
+androidx.lifecycle.LifecycleRegistry/a:(Landroidx/lifecycle/Lifecycle$Event;)Landroidx/lifecycle/Lifecycle$State;: 5150b0 -> 5150b4
+		androidx.lifecycle.LifecycleRegistry/a:(Landroidx/lifecycle/Lifecycle$Event;)Landroidx/lifecycle/Lifecycle$State;: 8 -> c
+addPatchReadme: java.lang.Class<androidx.lifecycle.LifecycleRegistry>a(Landroidx/lifecycle/Lifecycle$Event;)Landroidx/lifecycle/Lifecycle$State; 8 f
+Entry: 51539c
+androidx.lifecycle.LifecycleRegistry/isSynced:()Z: 5153aa -> 5153b0
+		androidx.lifecycle.LifecycleRegistry/isSynced:()Z: e -> 14
+addPatchReadme: java.lang.Class<androidx.lifecycle.LifecycleRegistry>isSynced()Z e t
+Entry: 4a9e30
+androidx.collection.SimpleArrayMap/a:(Ljava/lang/Object;I)I: 4a9e34 -> 4a9e3c
+		androidx.collection.SimpleArrayMap/a:(Ljava/lang/Object;I)I: 4 -> c
+addPatchReadme: java.lang.Class<androidx.collection.SimpleArrayMap>a(Ljava/lang/Object;I)I 4 t
+b29e6a69: [+] Patches found in this round: 3
+b29e6a69: [*] Found Patch size: 1
+ExitReason-Code: 5 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample65@devRoot-D-R.obfuscated_flattened.ilog)
+b29e6a69: @@localPatchFilter -- 76f978
+b29e6a69: @@localPatchFilter -- 5154ce
+b29e6a69: 	@@@Found patch addr: 4a9e44
+b29e6a69: Querying offset: 4a9e34
+b29e6a69: 	--Add method name to patch = androidx.collection.SimpleArrayMap/a:(Ljava/lang/Object;I)I 	4a9e34
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: patching method: androidx.collection.SimpleArrayMap/a:(Ljava/lang/Object;I)I
+b29e6a69: patching method: androidx.lifecycle.LifecycleRegistry/a:(Landroidx/lifecycle/Lifecycle$Event;)Landroidx/lifecycle/Lifecycle$State;
+b29e6a69: patching method: androidx.lifecycle.LifecycleRegistry/isSynced:()Z
+b29e6a69: patching method: androidx.lifecycle.LifecycleRegistry/sync:()V
+b29e6a69: patching method: in.gov.ap.spandana.Activities.SplashScreen/onCreate:(Landroid/os/Bundle;)V
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample65.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot
+Wow!!!!!  --  androidx.collection.SimpleArrayMap/a:(Ljava/lang/Object;I)I
+fallthrough: 8
+branchTarget: c
+label = cond_0
+GOTO -- 8 	c
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample65.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample65.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/sample65.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample65.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/signed_sample65.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+b29e6a69: First address of Landroidx/collection/SimpleArrayMap;->a(Ljava/lang/Object;I)I = 4a9e40
+b29e6a69: Address - Landroidx/collection/SimpleArrayMap;->a(Ljava/lang/Object;I)I@4	 lastOffset = a2
+b29e6a69: Instruction@@: IF_NEZ
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample65.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/signed_sample65.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample65@devRoot-D-R.obfuscated_flattened.ilog)
+b29e6a69: Running Application: in.gov.ap.spandana
+b29e6a69: Running is done - starting comparing... : 10001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: in.gov.ap.spandana/.Activities.SplashScreen
+PIDs--------------------------------------------------------------------------
+u0_a3862      10798    425 14664264 139324 0                  0 S in.gov.ap.spandana
+b29e6a69: savedPid = 10798
+PIDs--------------------------------------------------------------------------
+u0_a3862      10798    425 14664264 139324 0                  0 S in.gov.ap.spandana
+b29e6a69: savedPid2 = 10798
+Stopping app: in.gov.ap.spandana
+Tryging remove : uninstall in.gov.ap.spandana(in.gov.ap.spandana)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 4438005
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 26
+b29e6a69: isFailedToLaunch: in.gov.ap.spandana/.Activities.SplashScreen
+b29e6a69: 	--result: Good :)
+b29e6a69: isFailedToLaunch: in.gov.ap.spandana/.Activities.SplashScreen
+b29e6a69: 	--result: Good :)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample65@devRoot-D-R.obfuscated_flattened.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample65@devRoot-D-R.obfuscated_flattened.ilog)
+b29e6a69: adding filter -- 4a9e34
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 4a9e34
+-- current localPatchFilter: 76f968
+-- current localPatchFilter: 5154be
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:76a646		=(rels)=>		1
+[*] Unique action: 1:172418 : <<CALL>> : in.gov.ap.spandana.Activities.Login/onCreate:(Landroid/os/Bundle;)V:76a646  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:107613 : <<BRANCH>> : in.gov.ap.spandana.Activities.SplashScreen/onCreate:(Landroid/os/Bundle;)V:76f9c8  =>  in.gov.ap.spandana.Activities.SplashScreen/onCreate:(Landroid/os/Bundle;)V:76f9d8
+android.app.Activity/startActivity:(Landroid/content/Intent;)V:76f3d4		=(rels)=>		1
+[*] Unique action: 1:143675 : <<CALL>> : in.gov.ap.spandana.Activities.SplashScreen$3$1/run:()V:76f3d4  =>  android.app.Activity/startActivity:(Landroid/content/Intent;)V:19cda0
+	1:compareBackwardBranch: 1:107613 : <<BRANCH>> : in.gov.ap.spandana.Activities.SplashScreen/onCreate:(Landroid/os/Bundle;)V:76f9c8  =>  in.gov.ap.spandana.Activities.SplashScreen/onCreate:(Landroid/os/Bundle;)V:76f9d8
+android.widget.TextView/setText:(Ljava/lang/CharSequence;Landroid/widget/TextView$BufferType;)V:76a404		=(rels)=>		1
+[*] Unique action: 1:160898 : <<CALL>> : in.gov.ap.spandana.Activities.Login/onCreate:(Landroid/os/Bundle;)V:76a404  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;Landroid/widget/TextView$BufferType;)V:29ee50
+	1:compareBackwardBranch: 1:107613 : <<BRANCH>> : in.gov.ap.spandana.Activities.SplashScreen/onCreate:(Landroid/os/Bundle;)V:76f9c8  =>  in.gov.ap.spandana.Activities.SplashScreen/onCreate:(Landroid/os/Bundle;)V:76f9d8
+android.widget.EditText/getText:()Landroid/text/Editable;:48b85c		=(rels)=>		1
+[*] Unique action: 1:152073 : <<CALL>> : androidx.appcompat.widget.AppCompatEditText/getText:()Landroid/text/Editable;:48b85c  =>  android.widget.EditText/getText:()Landroid/text/Editable;:2330f8
+	1:compareBackwardBranch: 1:107613 : <<BRANCH>> : in.gov.ap.spandana.Activities.SplashScreen/onCreate:(Landroid/os/Bundle;)V:76f9c8  =>  in.gov.ap.spandana.Activities.SplashScreen/onCreate:(Landroid/os/Bundle;)V:76f9d8
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:76a5f2		=(rels)=>		1
+[*] Unique action: 1:172397 : <<CALL>> : in.gov.ap.spandana.Activities.Login/onCreate:(Landroid/os/Bundle;)V:76a5f2  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:107613 : <<BRANCH>> : in.gov.ap.spandana.Activities.SplashScreen/onCreate:(Landroid/os/Bundle;)V:76f9c8  =>  in.gov.ap.spandana.Activities.SplashScreen/onCreate:(Landroid/os/Bundle;)V:76f9d8
+android.widget.Toast/show:()V:78c4ce		=(rels)=>		1
+[*] Unique action: 1:172389 : <<CALL>> : in.gov.ap.spandana.utils.HFAUtils/showToast:(Landroid/app/Activity;Ljava/lang/String;)V:78c4ce  =>  android.widget.Toast/show:()V:2a3e70
+	1:compareBackwardBranch: 1:107613 : <<BRANCH>> : in.gov.ap.spandana.Activities.SplashScreen/onCreate:(Landroid/os/Bundle;)V:76f9c8  =>  in.gov.ap.spandana.Activities.SplashScreen/onCreate:(Landroid/os/Bundle;)V:76f9d8
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:76a3d0		=(rels)=>		1
+[*] Unique action: 1:160881 : <<CALL>> : in.gov.ap.spandana.Activities.Login/onCreate:(Landroid/os/Bundle;)V:76a3d0  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:107613 : <<BRANCH>> : in.gov.ap.spandana.Activities.SplashScreen/onCreate:(Landroid/os/Bundle;)V:76f9c8  =>  in.gov.ap.spandana.Activities.SplashScreen/onCreate:(Landroid/os/Bundle;)V:76f9d8
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:76a60e		=(rels)=>		1
+[*] Unique action: 1:172404 : <<CALL>> : in.gov.ap.spandana.Activities.Login/onCreate:(Landroid/os/Bundle;)V:76a60e  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:107613 : <<BRANCH>> : in.gov.ap.spandana.Activities.SplashScreen/onCreate:(Landroid/os/Bundle;)V:76f9c8  =>  in.gov.ap.spandana.Activities.SplashScreen/onCreate:(Landroid/os/Bundle;)V:76f9d8
+android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:516848		=(rels)=>		1
+[*] Unique action: 1:143987 : <<CALL>> : androidx.lifecycle.ProcessLifecycleOwner/a:()V:516848  =>  android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:30ca84
+	1:compareBackwardBranch: 1:107613 : <<BRANCH>> : in.gov.ap.spandana.Activities.SplashScreen/onCreate:(Landroid/os/Bundle;)V:76f9c8  =>  in.gov.ap.spandana.Activities.SplashScreen/onCreate:(Landroid/os/Bundle;)V:76f9d8
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:76a62a		=(rels)=>		1
+[*] Unique action: 1:172411 : <<CALL>> : in.gov.ap.spandana.Activities.Login/onCreate:(Landroid/os/Bundle;)V:76a62a  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:107613 : <<BRANCH>> : in.gov.ap.spandana.Activities.SplashScreen/onCreate:(Landroid/os/Bundle;)V:76f9c8  =>  in.gov.ap.spandana.Activities.SplashScreen/onCreate:(Landroid/os/Bundle;)V:76f9d8
+android.widget.TextView/setText:(Ljava/lang/CharSequence;Landroid/widget/TextView$BufferType;)V:76a438		=(rels)=>		1
+[*] Unique action: 1:160919 : <<CALL>> : in.gov.ap.spandana.Activities.Login/onCreate:(Landroid/os/Bundle;)V:76a438  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;Landroid/widget/TextView$BufferType;)V:29ee50
+	1:compareBackwardBranch: 1:107613 : <<BRANCH>> : in.gov.ap.spandana.Activities.SplashScreen/onCreate:(Landroid/os/Bundle;)V:76f9c8  =>  in.gov.ap.spandana.Activities.SplashScreen/onCreate:(Landroid/os/Bundle;)V:76f9d8
+android.app.Dialog/show:()V:76f7a4		=(rels)=>		1
+[*] Unique action: 1:10605 : <<CALL>> : in.gov.ap.spandana.Activities.SplashScreen/showRootedDeviceDialog:()V:76f7a4  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:6667 : <<BRANCH>> : in.gov.ap.spandana.Activities.SplashScreen/onCreate:(Landroid/os/Bundle;)V:76f992  =>  in.gov.ap.spandana.Activities.SplashScreen/onCreate:(Landroid/os/Bundle;)V:76f99a
+Entry: 76f800
+in.gov.ap.spandana.Activities.SplashScreen/onCreate:(Landroid/os/Bundle;)V: 76f992 -> 76f99a
+		in.gov.ap.spandana.Activities.SplashScreen/onCreate:(Landroid/os/Bundle;)V: 192 -> 19a
+addPatchReadme: java.lang.Class<in.gov.ap.spandana.Activities.SplashScreen>onCreate(Landroid/os/Bundle;)V 192 t
+Entry: 76f800
+in.gov.ap.spandana.Activities.SplashScreen/onCreate:(Landroid/os/Bundle;)V: 76f9c8 -> 76f9d8
+		in.gov.ap.spandana.Activities.SplashScreen/onCreate:(Landroid/os/Bundle;)V: 1c8 -> 1d8
+addPatchReadme: java.lang.Class<in.gov.ap.spandana.Activities.SplashScreen>onCreate(Landroid/os/Bundle;)V 1c8 t
+b29e6a69: [+] Patches found in this round: 2
+b29e6a69: [*] Found Patch size: 1
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample65@devRoot-D-R.obfuscated_flattened.ilog)
+b29e6a69: @@localPatchFilter -- 4a9e44
+b29e6a69: @@localPatchFilter -- 76f978
+b29e6a69: @@localPatchFilter -- 5154ce
+b29e6a69: 	@@@Found patch addr: 76f9d8
+b29e6a69: Querying offset: 76f9c8
+b29e6a69: 	--Add method name to patch = in.gov.ap.spandana.Activities.SplashScreen/onCreate:(Landroid/os/Bundle;)V 	76f9c8
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: patching method: androidx.collection.SimpleArrayMap/a:(Ljava/lang/Object;I)I
+b29e6a69: patching method: androidx.lifecycle.LifecycleRegistry/a:(Landroidx/lifecycle/Lifecycle$Event;)Landroidx/lifecycle/Lifecycle$State;
+b29e6a69: patching method: androidx.lifecycle.LifecycleRegistry/isSynced:()Z
+b29e6a69: patching method: androidx.lifecycle.LifecycleRegistry/sync:()V
+b29e6a69: patching method: in.gov.ap.spandana.Activities.SplashScreen/onCreate:(Landroid/os/Bundle;)V
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample65.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot
+Wow!!!!!  --  androidx.collection.SimpleArrayMap/a:(Ljava/lang/Object;I)I
+fallthrough: 8
+branchTarget: c
+label = cond_0
+GOTO -- 8 	c
+Wow!!!!!  --  in.gov.ap.spandana.Activities.SplashScreen/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 1cc
+branchTarget: 1d8
+label = cond_1
+GOTO -- 1cc 	1d8
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample65.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample65.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/sample65.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample65.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/signed_sample65.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+b29e6a69: First address of Landroidx/collection/SimpleArrayMap;->a(Ljava/lang/Object;I)I = 4a9e40
+b29e6a69: Address - Landroidx/collection/SimpleArrayMap;->a(Ljava/lang/Object;I)I@4	 lastOffset = a2
+b29e6a69: Instruction@@: IF_NEZ
+b29e6a69: First address of Lin/gov/ap/spandana/Activities/SplashScreen;->onCreate(Landroid/os/Bundle;)V = 76f810
+b29e6a69: Address - Lin/gov/ap/spandana/Activities/SplashScreen;->onCreate(Landroid/os/Bundle;)V@1c8	 lastOffset = 368
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample65.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/signed_sample65.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample65@devRoot-D-R.obfuscated_flattened.ilog)
+b29e6a69: Running Application: in.gov.ap.spandana
+b29e6a69: Running is done - starting comparing... : 10001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: in.gov.ap.spandana/.Activities.Login
+PIDs--------------------------------------------------------------------------
+u0_a3863      10878    425 14719272 147516 0                  0 S in.gov.ap.spandana
+b29e6a69: savedPid = 10878
+PIDs--------------------------------------------------------------------------
+u0_a3863      10878    425 14719272 147516 0                  0 S in.gov.ap.spandana
+b29e6a69: savedPid2 = 10878
+Stopping app: in.gov.ap.spandana
+Tryging remove : uninstall in.gov.ap.spandana(in.gov.ap.spandana)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 20881812
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 25
+b29e6a69: isFailedToLaunch: in.gov.ap.spandana/.Activities.Login
+b29e6a69: 	--result: Good :)
+b29e6a69: isFailedToLaunch: in.gov.ap.spandana/.Activities.Login
+b29e6a69: 	--result: Good :)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample65@devRoot-D-R.obfuscated_flattened.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample65@devRoot-D-R.obfuscated_flattened.ilog)
+b29e6a69: adding filter -- 4a9e34
+b29e6a69: adding filter -- 76f9c8
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 76f9c8
+-- current localPatchFilter: 4a9e34
+-- current localPatchFilter: 76f968
+-- current localPatchFilter: 5154be
+Action is completely same :)
+Action is completely same :)
+b29e6a69: There is no difference. (tryAgain=false)
+-- HPFinder will be done in this iteration :)
+hasAntiAnalysis? - devTamper: false on in.gov.ap.spandana.Activities.SplashScreen
+hasAntiAnalysis? - devRoot: true on in.gov.ap.spandana.Activities.SplashScreen
+	isRemovedThem? - devRoot: true on in.gov.ap.spandana.Activities.SplashScreen	-	tryCount: 4
+hasAntiAnalysis? - devDebug: false on in.gov.ap.spandana.Activities.SplashScreen
+*****REPORT: in.gov.ap.spandana
+* Package name: in.gov.ap.spandana
+* Running time: 414
+* FileSize: 45361586
+devTamper : 41557242
+devRef : 41241219
+devRoot : 20881812
+devDebug : 41651148
+hasAntiAnalysis? - devTamper: false on in.gov.ap.spandana.Activities.SplashScreen
+hasAntiAnalysis? - devRoot: true on in.gov.ap.spandana.Activities.SplashScreen
+	isRemovedThem? - devRoot: true on in.gov.ap.spandana.Activities.SplashScreen	-	tryCount: 4
+hasAntiAnalysis? - devDebug: false on in.gov.ap.spandana.Activities.SplashScreen
+46604b9f: trying remove : in.gov.ap.spandana
+3601a6ff: trying remove : in.gov.ap.spandana
+b29e6a69: trying remove : in.gov.ap.spandana
+159ceeed: trying remove : in.gov.ap.spandana
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+159ceeed: result = true
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+3601a6ff: result = true
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+b29e6a69: result = true
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+46604b9f: result = true
+3601a6ff: isFailedToLaunch: in.gov.ap.spandana/.Activities.Login
+3601a6ff: 	--result: Good :)

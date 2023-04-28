@@ -1,0 +1,935 @@
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample18.apk@devRoot-D-R.apk.obfuscated/AndroidManifest.xml
+launchable-activity: name='com.cnsl.a_pote.view.ui.RootingCheckActivity'  label='' icon=''
+{ACTIVITY, com.cnsl.a_pote.view.ui.RootingCheckActivity, android.intent.action.MAIN}
+{ACTIVITY, com.cnsl.a_pote.view.ui.MainActivity}
+{ACTIVITY, com.cnsl.a_pote.view.ui.LoginActivity}
+{ACTIVITY, com.cnsl.a_pote.view.ui.DialogActivity}
+{ACTIVITY, com.cnsl.a_pote.view.ui.WebviewActivity}
+{ACTIVITY, com.cnsl.a_pote.view.ui.amaaas.SettingsActivity}
+{ACTIVITY, com.cnsl.a_pote.view.ui.walk_through.WalkThroughActivity}
+{ACTIVITY, com.cnsl.a_pote.view.ui.amaaas.DetailActivity}
+{ACTIVITY, com.cnsl.a_pote.view.ui.sms.DetailActivity}
+{ACTIVITY, com.cnsl.a_pote.view.ui.sms.SettingActivity}
+{ACTIVITY, com.cnsl.a_pote.view.ui.MainBetaActivity}
+{SERVICE, com.cnsl.a_pote.background.AnalysisService}
+{ACTIVITY, com.cnsl.a_pote.view.ui.RootingCheckActivity, android.intent.action.MAIN}
+{ACTIVITY, com.cnsl.a_pote.view.ui.MainActivity}
+{ACTIVITY, com.cnsl.a_pote.view.ui.LoginActivity}
+{ACTIVITY, com.cnsl.a_pote.view.ui.DialogActivity}
+{ACTIVITY, com.cnsl.a_pote.view.ui.WebviewActivity}
+{ACTIVITY, com.cnsl.a_pote.view.ui.amaaas.SettingsActivity}
+{ACTIVITY, com.cnsl.a_pote.view.ui.walk_through.WalkThroughActivity}
+{ACTIVITY, com.cnsl.a_pote.view.ui.amaaas.DetailActivity}
+{ACTIVITY, com.cnsl.a_pote.view.ui.sms.DetailActivity}
+{ACTIVITY, com.cnsl.a_pote.view.ui.sms.SettingActivity}
+{ACTIVITY, com.cnsl.a_pote.view.ui.MainBetaActivity}
+{SERVICE, com.cnsl.a_pote.background.AnalysisService}
+_getAllDexFiles: /home/santapark/Extended3/DEEPerence/reEx/sample18.apk@devRoot-D-R.apk.obfuscated/classes.dex
+----------------/home/santapark/Extended3/DEEPerence/reEx/sample18.apk@devRoot-D-R.apk.obfuscated.apk
+dexFile = org.jf.dexlib2.dexbacked.DexBackedDexFile@d6e7bab
+com.cnsl.amaaas_agent
+com.cnsl.a_pote.view.ui.RootingCheckActivity
+debuggable: true
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample18.apk@devRoot-D-R.apk.obfuscated.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample18.apk@devRoot-D-R.apk.obfuscated.apk
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample18.apk@devRoot-D-R.apk.obfuscated/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample18.apk@devRoot-D-R.apk.obfuscated/sample18.apk@devRoot-D-R.apk.obfuscated.apk
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample18.apk@devRoot-D-R.apk.obfuscated_46604b9f/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample18.apk@devRoot-D-R.apk.obfuscated_46604b9f/sample18.apk@devRoot-D-R.apk.obfuscated.apk
+3601a6ff: Installation Success
+b29e6a69: Installation Success
+46604b9f: Installing repackaged apk File: 
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample18.apk@devRoot-D-R.apk.obfuscated_46604b9f/signed_sample18.apk@devRoot-D-R.apk.obfuscated.apk
+159ceeed: Installing debuggable .apk file: 
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample18.apk@devRoot-D-R.apk.obfuscated/signed_sample18.apk@devRoot-D-R.apk.obfuscated.apk
+46604b9f: Installation Success
+159ceeed: Installation Success
+46604b9f: startApplication called! - devTamper
+3601a6ff: startApplication called! - devRef
+b29e6a69: startApplication called! - devRoot
+159ceeed: startApplication called! - devDebug
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample18@devRoot-D-R.obfuscated.ilog)
+3601a6ff: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample18@devRoot-D-R.obfuscated.ilog)
+46604b9f: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devTamper_sample18@devRoot-D-R.obfuscated.ilog)
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample18@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Running Application: com.cnsl.amaaas_agent
+46604b9f: Running Application: com.cnsl.amaaas_agent
+3601a6ff: Running Application: com.cnsl.amaaas_agent
+PIDs--------------------------------------------------------------------------
+u0_a720        6060    429 13901332 102192 0                  0 R com.cnsl.amaaas_agent
+forward tcp:5005 jdwp:6060
+[*]Found JDWP Target: 6060
+159ceeed: Running Application: com.cnsl.amaaas_agent
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+3601a6ff: Running is done - starting comparing... : 5001
+3601a6ff: Terminated logcat thread...by itself
+159ceeed: Running is done - starting comparing... : 5001
+159ceeed: Terminated logcat thread...by itself
+46604b9f: Running is done - starting comparing... : 5001
+46604b9f: Terminated logcat thread...by itself
+3601a6ff: Top-activity: com.cnsl.amaaas_agent/com.cnsl.a_pote.view.ui.walk_through.WalkThroughActivity
+PIDs--------------------------------------------------------------------------
+u0_a219       28689    407 14052192 130928 0                  0 S com.cnsl.amaaas_agent
+PIDs--------------------------------------------------------------------------
+u0_a219       28689    407 14052192 130928 0                  0 S com.cnsl.amaaas_agent
+Stopping app: com.cnsl.amaaas_agent
+46604b9f: Top-activity: com.cnsl.amaaas_agent/com.cnsl.a_pote.view.ui.walk_through.WalkThroughActivity
+PIDs--------------------------------------------------------------------------
+u0_a909       13475    425 14064112 130224 0                  0 S com.cnsl.amaaas_agent
+PIDs--------------------------------------------------------------------------
+u0_a909       13475    425 14064112 130224 0                  0 S com.cnsl.amaaas_agent
+Stopping app: com.cnsl.amaaas_agent
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+u0_a3066       7081    429 13986232 129384 0                  0 S com.cnsl.amaaas_agent
+PIDs--------------------------------------------------------------------------
+u0_a3066       7081    429 13986232 129384 0                  0 S com.cnsl.amaaas_agent
+Stopping app: com.cnsl.amaaas_agent
+159ceeed: Top-activity: com.cnsl.amaaas_agent/com.cnsl.a_pote.view.ui.walk_through.WalkThroughActivity
+PIDs--------------------------------------------------------------------------
+u0_a720        6060    429 13971956 130204 0                  0 S com.cnsl.amaaas_agent
+PIDs--------------------------------------------------------------------------
+u0_a720        6060    429 13971956 130204 0                  0 S com.cnsl.amaaas_agent
+Stopping app: com.cnsl.amaaas_agent
+Tryging remove : uninstall com.cnsl.amaaas_agent(com.cnsl.amaaas_agent)
+3601a6ff: Remove Success
+3601a6ff: ilog file size: 8235272
+3601a6ff: End of collecting logcat...
+Tryging remove : uninstall com.cnsl.amaaas_agent(com.cnsl.amaaas_agent)
+46604b9f: Remove Success
+46604b9f: ilog file size: 8248292
+46604b9f: End of collecting logcat...
+Tryging remove : uninstall com.cnsl.amaaas_agent(com.cnsl.amaaas_agent)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 5489668
+b29e6a69: End of collecting logcat...
+Tryging remove : uninstall com.cnsl.amaaas_agent(com.cnsl.amaaas_agent)
+159ceeed: Remove Success
+159ceeed: ilog file size: 8248292
+159ceeed: End of collecting logcat...
+HPFinder's try count remains: 19
+46604b9f: isFailedToLaunch: com.cnsl.amaaas_agent/com.cnsl.a_pote.view.ui.walk_through.WalkThroughActivity
+46604b9f: 	--result: Good :)
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+159ceeed: isFailedToLaunch: com.cnsl.amaaas_agent/com.cnsl.a_pote.view.ui.walk_through.WalkThroughActivity
+/home/santapark/Extended3/DEEPerence/reEx/sample18.apk@devRoot-D-R.apk.obfuscated.apk launch is failed on devRoot
+159ceeed: 	--result: Good :)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample18@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample18@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample18@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample18@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample18@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devTamper_sample18@devRoot-D-R.obfuscated.ilog)
+[*] FlowManager: adjust finished.
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:453f04		=(rels)=>		1
+[*] Unique action: 1:25274 : <<CALL>> : com.cnsl.a_pote.view.ui.walk_through.WalkThroughActivity/oyEAdtelRdRDBuVO:(Landroid/widget/TextView;Landroid/view/View$OnClickListener;)V:453f04  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+[*] FlowManager: adjust finished.
+Action is completely same :)
+Action is completely same :)
+159ceeed: There is no difference. (tryAgain=false)
+[*] FlowManager: adjust finished.
+Action is completely same :)
+Action is completely same :)
+46604b9f: There is no difference. (tryAgain=false)
+	1:compareBackwardBranch: 1:17391 : <<BRANCH>> : com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:445fc0  =>  com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:4461c2
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:453d74		=(rels)=>		1
+[*] Unique action: 1:25280 : <<CALL>> : com.cnsl.a_pote.view.ui.walk_through.WalkThroughActivity/chrFXKeVnIMGBLjF:(Landroid/widget/LinearLayout;Landroid/view/View$OnClickListener;)V:453d74  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:17391 : <<BRANCH>> : com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:445fc0  =>  com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:4461c2
+android.app.Activity/startActivity:(Landroid/content/Intent;)V:43e220		=(rels)=>		1
+[*] Unique action: 17:19942 : <<CALL>> : com.cnsl.a_pote.view.ui.RootingCheckActivity$1/wdhkDMydYaKxVhbz:(Lcom/cnsl/a_pote/view/ui/RootingCheckActivity;Landroid/content/Intent;)V:43e220  =>  android.app.Activity/startActivity:(Landroid/content/Intent;)V:19cda0
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:422174		=(rels)=>		1
+[*] Unique action: 1:23190 : <<CALL>> : com.b.a.d/MMtuvJlfrFOLCeMV:(Lcom/b/a/d;Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:422174  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+	1:compareBackwardBranch: 1:17391 : <<BRANCH>> : com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:445fc0  =>  com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:4461c2
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:45489c		=(rels)=>		1
+[*] Unique action: 1:27234 : <<CALL>> : com.cnsl.a_pote.view.ui.walk_through.d/vgXGTHRKSEBNgigd:(Landroid/widget/ImageView;Landroid/view/View$OnClickListener;)V:45489c  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:17391 : <<BRANCH>> : com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:445fc0  =>  com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:4461c2
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:421968		=(rels)=>		1
+[*] Unique action: 1:25242 : <<CALL>> : com.b.a.d$1/xRIBWQGxbfYSjRfl:(Lcom/b/a/d;Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:421968  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+	1:compareBackwardBranch: 1:17391 : <<BRANCH>> : com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:445fc0  =>  com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:4461c2
+android.widget.Toast/show:()V:440816		=(rels)=>		1
+[*] Unique action: 1:17469 : <<CALL>> : com.cnsl.a_pote.view.ui.RootingCheckActivity/QczUsyAfydJPMwjH:(Landroid/widget/Toast;)V:440816  =>  android.widget.Toast/show:()V:2a3e70
+	1:compareBackwardBranch: 1:17388 : <<BRANCH>> : com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:44601e  =>  com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:446004
+Entry: 444c68
+com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V: 445fc0 -> 4461c2
+		com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V: 1358 -> 155a
+addPatchReadme: java.lang.Class<com.cnsl.a_pote.view.ui.RootingCheckActivity>onCreate(Landroid/os/Bundle;)V 1358 t
+Entry: 444c68
+com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V: 44601e -> 446004
+		com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V: 13b6 -> 139c
+addPatchReadme: java.lang.Class<com.cnsl.a_pote.view.ui.RootingCheckActivity>onCreate(Landroid/os/Bundle;)V 13b6 t
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample18@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Patch size: 2
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample18.apk@devRoot-D-R.apk.obfuscated_devRoot
+Wow!!!!!  --  com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 13bc
+branchTarget: 139c
+label = sswitch_data_87
+GOTO -- 13bc 	139c
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample18.apk@devRoot-D-R.apk.obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample18.apk@devRoot-D-R.apk.obfuscated_devRoot/sample18.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample18.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample18.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: First address of Lcom/cnsl/a_pote/view/ui/RootingCheckActivity;->onCreate(Landroid/os/Bundle;)V = 444c78
+b29e6a69: Address - Lcom/cnsl/a_pote/view/ui/RootingCheckActivity;->onCreate(Landroid/os/Bundle;)V@13b6	 lastOffset = 22ac
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample18.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample18.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample18@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Running Application: com.cnsl.amaaas_agent
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.cnsl.amaaas_agent
+Tryging remove : uninstall com.cnsl.amaaas_agent(com.cnsl.amaaas_agent)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 1738752
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 18
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+/home/santapark/Extended3/DEEPerence/reEx/sample18.apk@devRoot-D-R.apk.obfuscated.apk launch is failed on devRoot
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 445fc0
+-- current localPatchFilter: 44601e
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:453f04		=(rels)=>		1
+[*] Unique action: 1:25274 : <<CALL>> : com.cnsl.a_pote.view.ui.walk_through.WalkThroughActivity/oyEAdtelRdRDBuVO:(Landroid/widget/TextView;Landroid/view/View$OnClickListener;)V:453f04  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:17385 : <<BRANCH>> : com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:446046  =>  com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:44602c
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:453d74		=(rels)=>		1
+[*] Unique action: 1:25280 : <<CALL>> : com.cnsl.a_pote.view.ui.walk_through.WalkThroughActivity/chrFXKeVnIMGBLjF:(Landroid/widget/LinearLayout;Landroid/view/View$OnClickListener;)V:453d74  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:17385 : <<BRANCH>> : com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:446046  =>  com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:44602c
+android.app.Activity/startActivity:(Landroid/content/Intent;)V:43e220		=(rels)=>		1
+[*] Unique action: 17:19942 : <<CALL>> : com.cnsl.a_pote.view.ui.RootingCheckActivity$1/wdhkDMydYaKxVhbz:(Lcom/cnsl/a_pote/view/ui/RootingCheckActivity;Landroid/content/Intent;)V:43e220  =>  android.app.Activity/startActivity:(Landroid/content/Intent;)V:19cda0
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:422174		=(rels)=>		1
+[*] Unique action: 1:23190 : <<CALL>> : com.b.a.d/MMtuvJlfrFOLCeMV:(Lcom/b/a/d;Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:422174  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+	1:compareBackwardBranch: 1:17385 : <<BRANCH>> : com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:446046  =>  com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:44602c
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:45489c		=(rels)=>		1
+[*] Unique action: 1:27234 : <<CALL>> : com.cnsl.a_pote.view.ui.walk_through.d/vgXGTHRKSEBNgigd:(Landroid/widget/ImageView;Landroid/view/View$OnClickListener;)V:45489c  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:17385 : <<BRANCH>> : com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:446046  =>  com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:44602c
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:421968		=(rels)=>		1
+[*] Unique action: 1:25242 : <<CALL>> : com.b.a.d$1/xRIBWQGxbfYSjRfl:(Lcom/b/a/d;Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:421968  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+	1:compareBackwardBranch: 1:17385 : <<BRANCH>> : com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:446046  =>  com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:44602c
+android.widget.Toast/show:()V:440816		=(rels)=>		1
+[*] Unique action: 1:17469 : <<CALL>> : com.cnsl.a_pote.view.ui.RootingCheckActivity/QczUsyAfydJPMwjH:(Landroid/widget/Toast;)V:440816  =>  android.widget.Toast/show:()V:2a3e70
+	1:compareBackwardBranch: 1:17385 : <<BRANCH>> : com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:446046  =>  com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:44602c
+Entry: 444c68
+com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V: 446046 -> 44602c
+		com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V: 13de -> 13c4
+addPatchReadme: java.lang.Class<com.cnsl.a_pote.view.ui.RootingCheckActivity>onCreate(Landroid/os/Bundle;)V 13de t
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample18@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Patch size: 1
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample18.apk@devRoot-D-R.apk.obfuscated_devRoot
+Wow!!!!!  --  com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 13e4
+branchTarget: 13c4
+label = sswitch_data_88
+GOTO -- 13e4 	13c4
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample18.apk@devRoot-D-R.apk.obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample18.apk@devRoot-D-R.apk.obfuscated_devRoot/sample18.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample18.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample18.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: First address of Lcom/cnsl/a_pote/view/ui/RootingCheckActivity;->onCreate(Landroid/os/Bundle;)V = 444c78
+b29e6a69: Address - Lcom/cnsl/a_pote/view/ui/RootingCheckActivity;->onCreate(Landroid/os/Bundle;)V@13de	 lastOffset = 22ac
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample18.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample18.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample18@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Running Application: com.cnsl.amaaas_agent
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.cnsl.amaaas_agent
+Tryging remove : uninstall com.cnsl.amaaas_agent(com.cnsl.amaaas_agent)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 1738542
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 17
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+/home/santapark/Extended3/DEEPerence/reEx/sample18.apk@devRoot-D-R.apk.obfuscated.apk launch is failed on devRoot
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 446046
+-- current localPatchFilter: 445fc0
+-- current localPatchFilter: 44601e
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:453f04		=(rels)=>		1
+[*] Unique action: 1:25274 : <<CALL>> : com.cnsl.a_pote.view.ui.walk_through.WalkThroughActivity/oyEAdtelRdRDBuVO:(Landroid/widget/TextView;Landroid/view/View$OnClickListener;)V:453f04  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:17382 : <<BRANCH>> : com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:44606e  =>  com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:446054
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:453d74		=(rels)=>		1
+[*] Unique action: 1:25280 : <<CALL>> : com.cnsl.a_pote.view.ui.walk_through.WalkThroughActivity/chrFXKeVnIMGBLjF:(Landroid/widget/LinearLayout;Landroid/view/View$OnClickListener;)V:453d74  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:17382 : <<BRANCH>> : com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:44606e  =>  com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:446054
+android.app.Activity/startActivity:(Landroid/content/Intent;)V:43e220		=(rels)=>		1
+[*] Unique action: 17:19942 : <<CALL>> : com.cnsl.a_pote.view.ui.RootingCheckActivity$1/wdhkDMydYaKxVhbz:(Lcom/cnsl/a_pote/view/ui/RootingCheckActivity;Landroid/content/Intent;)V:43e220  =>  android.app.Activity/startActivity:(Landroid/content/Intent;)V:19cda0
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:422174		=(rels)=>		1
+[*] Unique action: 1:23190 : <<CALL>> : com.b.a.d/MMtuvJlfrFOLCeMV:(Lcom/b/a/d;Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:422174  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+	1:compareBackwardBranch: 1:17382 : <<BRANCH>> : com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:44606e  =>  com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:446054
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:45489c		=(rels)=>		1
+[*] Unique action: 1:27234 : <<CALL>> : com.cnsl.a_pote.view.ui.walk_through.d/vgXGTHRKSEBNgigd:(Landroid/widget/ImageView;Landroid/view/View$OnClickListener;)V:45489c  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:17382 : <<BRANCH>> : com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:44606e  =>  com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:446054
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:421968		=(rels)=>		1
+[*] Unique action: 1:25242 : <<CALL>> : com.b.a.d$1/xRIBWQGxbfYSjRfl:(Lcom/b/a/d;Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:421968  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+	1:compareBackwardBranch: 1:17382 : <<BRANCH>> : com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:44606e  =>  com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:446054
+android.widget.Toast/show:()V:440816		=(rels)=>		1
+[*] Unique action: 1:17469 : <<CALL>> : com.cnsl.a_pote.view.ui.RootingCheckActivity/QczUsyAfydJPMwjH:(Landroid/widget/Toast;)V:440816  =>  android.widget.Toast/show:()V:2a3e70
+	1:compareBackwardBranch: 1:17382 : <<BRANCH>> : com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:44606e  =>  com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:446054
+Entry: 444c68
+com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V: 44606e -> 446054
+		com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V: 1406 -> 13ec
+addPatchReadme: java.lang.Class<com.cnsl.a_pote.view.ui.RootingCheckActivity>onCreate(Landroid/os/Bundle;)V 1406 t
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample18@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Patch size: 1
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample18.apk@devRoot-D-R.apk.obfuscated_devRoot
+Wow!!!!!  --  com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 140c
+branchTarget: 13ec
+label = sswitch_data_89
+GOTO -- 140c 	13ec
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample18.apk@devRoot-D-R.apk.obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample18.apk@devRoot-D-R.apk.obfuscated_devRoot/sample18.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample18.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample18.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: First address of Lcom/cnsl/a_pote/view/ui/RootingCheckActivity;->onCreate(Landroid/os/Bundle;)V = 444c78
+b29e6a69: Address - Lcom/cnsl/a_pote/view/ui/RootingCheckActivity;->onCreate(Landroid/os/Bundle;)V@1406	 lastOffset = 22ac
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample18.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample18.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample18@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Running Application: com.cnsl.amaaas_agent
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.cnsl.amaaas_agent
+Tryging remove : uninstall com.cnsl.amaaas_agent(com.cnsl.amaaas_agent)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 1738752
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 16
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+/home/santapark/Extended3/DEEPerence/reEx/sample18.apk@devRoot-D-R.apk.obfuscated.apk launch is failed on devRoot
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 446046
+-- current localPatchFilter: 445fc0
+-- current localPatchFilter: 44601e
+-- current localPatchFilter: 44606e
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:453f04		=(rels)=>		1
+[*] Unique action: 1:25274 : <<CALL>> : com.cnsl.a_pote.view.ui.walk_through.WalkThroughActivity/oyEAdtelRdRDBuVO:(Landroid/widget/TextView;Landroid/view/View$OnClickListener;)V:453f04  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:17379 : <<BRANCH>> : com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:44608a  =>  com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:446098
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:453d74		=(rels)=>		1
+[*] Unique action: 1:25280 : <<CALL>> : com.cnsl.a_pote.view.ui.walk_through.WalkThroughActivity/chrFXKeVnIMGBLjF:(Landroid/widget/LinearLayout;Landroid/view/View$OnClickListener;)V:453d74  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:17379 : <<BRANCH>> : com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:44608a  =>  com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:446098
+android.app.Activity/startActivity:(Landroid/content/Intent;)V:43e220		=(rels)=>		1
+[*] Unique action: 17:19942 : <<CALL>> : com.cnsl.a_pote.view.ui.RootingCheckActivity$1/wdhkDMydYaKxVhbz:(Lcom/cnsl/a_pote/view/ui/RootingCheckActivity;Landroid/content/Intent;)V:43e220  =>  android.app.Activity/startActivity:(Landroid/content/Intent;)V:19cda0
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:422174		=(rels)=>		1
+[*] Unique action: 1:23190 : <<CALL>> : com.b.a.d/MMtuvJlfrFOLCeMV:(Lcom/b/a/d;Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:422174  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+	1:compareBackwardBranch: 1:17379 : <<BRANCH>> : com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:44608a  =>  com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:446098
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:45489c		=(rels)=>		1
+[*] Unique action: 1:27234 : <<CALL>> : com.cnsl.a_pote.view.ui.walk_through.d/vgXGTHRKSEBNgigd:(Landroid/widget/ImageView;Landroid/view/View$OnClickListener;)V:45489c  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:17379 : <<BRANCH>> : com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:44608a  =>  com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:446098
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:421968		=(rels)=>		1
+[*] Unique action: 1:25242 : <<CALL>> : com.b.a.d$1/xRIBWQGxbfYSjRfl:(Lcom/b/a/d;Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:421968  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+	1:compareBackwardBranch: 1:17379 : <<BRANCH>> : com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:44608a  =>  com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:446098
+android.widget.Toast/show:()V:440816		=(rels)=>		1
+[*] Unique action: 1:17469 : <<CALL>> : com.cnsl.a_pote.view.ui.RootingCheckActivity/QczUsyAfydJPMwjH:(Landroid/widget/Toast;)V:440816  =>  android.widget.Toast/show:()V:2a3e70
+	1:compareBackwardBranch: 1:17379 : <<BRANCH>> : com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:44608a  =>  com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:446098
+Entry: 444c68
+com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V: 44608a -> 446098
+		com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V: 1422 -> 1430
+addPatchReadme: java.lang.Class<com.cnsl.a_pote.view.ui.RootingCheckActivity>onCreate(Landroid/os/Bundle;)V 1422 t
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample18@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Patch size: 1
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample18.apk@devRoot-D-R.apk.obfuscated_devRoot
+Wow!!!!!  --  com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 1428
+branchTarget: 1430
+label = sswitch_data_90
+GOTO -- 1428 	1430
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample18.apk@devRoot-D-R.apk.obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample18.apk@devRoot-D-R.apk.obfuscated_devRoot/sample18.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample18.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample18.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: First address of Lcom/cnsl/a_pote/view/ui/RootingCheckActivity;->onCreate(Landroid/os/Bundle;)V = 444c78
+b29e6a69: Address - Lcom/cnsl/a_pote/view/ui/RootingCheckActivity;->onCreate(Landroid/os/Bundle;)V@1422	 lastOffset = 22ac
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample18.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample18.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample18@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Running Application: com.cnsl.amaaas_agent
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.cnsl.amaaas_agent
+Tryging remove : uninstall com.cnsl.amaaas_agent(com.cnsl.amaaas_agent)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 1738752
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 15
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+/home/santapark/Extended3/DEEPerence/reEx/sample18.apk@devRoot-D-R.apk.obfuscated.apk launch is failed on devRoot
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 446046
+-- current localPatchFilter: 445fc0
+-- current localPatchFilter: 44601e
+-- current localPatchFilter: 44606e
+-- current localPatchFilter: 44608a
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:453f04		=(rels)=>		1
+[*] Unique action: 1:25274 : <<CALL>> : com.cnsl.a_pote.view.ui.walk_through.WalkThroughActivity/oyEAdtelRdRDBuVO:(Landroid/widget/TextView;Landroid/view/View$OnClickListener;)V:453f04  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:17376 : <<BRANCH>> : com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:4460a8  =>  com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:44609e
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:453d74		=(rels)=>		1
+[*] Unique action: 1:25280 : <<CALL>> : com.cnsl.a_pote.view.ui.walk_through.WalkThroughActivity/chrFXKeVnIMGBLjF:(Landroid/widget/LinearLayout;Landroid/view/View$OnClickListener;)V:453d74  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:17376 : <<BRANCH>> : com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:4460a8  =>  com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:44609e
+android.app.Activity/startActivity:(Landroid/content/Intent;)V:43e220		=(rels)=>		1
+[*] Unique action: 17:19942 : <<CALL>> : com.cnsl.a_pote.view.ui.RootingCheckActivity$1/wdhkDMydYaKxVhbz:(Lcom/cnsl/a_pote/view/ui/RootingCheckActivity;Landroid/content/Intent;)V:43e220  =>  android.app.Activity/startActivity:(Landroid/content/Intent;)V:19cda0
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:422174		=(rels)=>		1
+[*] Unique action: 1:23190 : <<CALL>> : com.b.a.d/MMtuvJlfrFOLCeMV:(Lcom/b/a/d;Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:422174  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+	1:compareBackwardBranch: 1:17376 : <<BRANCH>> : com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:4460a8  =>  com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:44609e
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:45489c		=(rels)=>		1
+[*] Unique action: 1:27234 : <<CALL>> : com.cnsl.a_pote.view.ui.walk_through.d/vgXGTHRKSEBNgigd:(Landroid/widget/ImageView;Landroid/view/View$OnClickListener;)V:45489c  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:17376 : <<BRANCH>> : com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:4460a8  =>  com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:44609e
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:421968		=(rels)=>		1
+[*] Unique action: 1:25242 : <<CALL>> : com.b.a.d$1/xRIBWQGxbfYSjRfl:(Lcom/b/a/d;Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:421968  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+	1:compareBackwardBranch: 1:17376 : <<BRANCH>> : com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:4460a8  =>  com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:44609e
+android.widget.Toast/show:()V:440816		=(rels)=>		1
+[*] Unique action: 1:17469 : <<CALL>> : com.cnsl.a_pote.view.ui.RootingCheckActivity/QczUsyAfydJPMwjH:(Landroid/widget/Toast;)V:440816  =>  android.widget.Toast/show:()V:2a3e70
+	1:compareBackwardBranch: 1:17376 : <<BRANCH>> : com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:4460a8  =>  com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:44609e
+Entry: 444c68
+com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V: 4460a8 -> 44609e
+		com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V: 1440 -> 1436
+addPatchReadme: java.lang.Class<com.cnsl.a_pote.view.ui.RootingCheckActivity>onCreate(Landroid/os/Bundle;)V 1440 t
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample18@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Patch size: 1
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample18.apk@devRoot-D-R.apk.obfuscated_devRoot
+Wow!!!!!  --  com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 1444
+branchTarget: 1436
+label = cond_17
+GOTO -- 1444 	1436
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample18.apk@devRoot-D-R.apk.obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample18.apk@devRoot-D-R.apk.obfuscated_devRoot/sample18.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample18.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample18.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: First address of Lcom/cnsl/a_pote/view/ui/RootingCheckActivity;->onCreate(Landroid/os/Bundle;)V = 444c78
+b29e6a69: Address - Lcom/cnsl/a_pote/view/ui/RootingCheckActivity;->onCreate(Landroid/os/Bundle;)V@1440	 lastOffset = 22ac
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample18.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample18.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample18@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Running Application: com.cnsl.amaaas_agent
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+u0_a3071       7640    429 13988272 128812 0                  0 S com.cnsl.amaaas_agent
+PIDs--------------------------------------------------------------------------
+u0_a3071       7640    429 13988272 128812 0                  0 S com.cnsl.amaaas_agent
+Stopping app: com.cnsl.amaaas_agent
+Tryging remove : uninstall com.cnsl.amaaas_agent(com.cnsl.amaaas_agent)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 5470303
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 14
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+/home/santapark/Extended3/DEEPerence/reEx/sample18.apk@devRoot-D-R.apk.obfuscated.apk launch is failed on devRoot
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 446046
+-- current localPatchFilter: 445fc0
+-- current localPatchFilter: 44601e
+-- current localPatchFilter: 44606e
+-- current localPatchFilter: 4460a8
+-- current localPatchFilter: 44608a
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:453f04		=(rels)=>		1
+[*] Unique action: 1:25274 : <<CALL>> : com.cnsl.a_pote.view.ui.walk_through.WalkThroughActivity/oyEAdtelRdRDBuVO:(Landroid/widget/TextView;Landroid/view/View$OnClickListener;)V:453f04  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:16035 : <<BRANCH>> : com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:444f5c  =>  com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:4456a4
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:453d74		=(rels)=>		1
+[*] Unique action: 1:25280 : <<CALL>> : com.cnsl.a_pote.view.ui.walk_through.WalkThroughActivity/chrFXKeVnIMGBLjF:(Landroid/widget/LinearLayout;Landroid/view/View$OnClickListener;)V:453d74  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:16035 : <<BRANCH>> : com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:444f5c  =>  com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:4456a4
+android.app.Activity/startActivity:(Landroid/content/Intent;)V:43e220		=(rels)=>		1
+[*] Unique action: 17:19942 : <<CALL>> : com.cnsl.a_pote.view.ui.RootingCheckActivity$1/wdhkDMydYaKxVhbz:(Lcom/cnsl/a_pote/view/ui/RootingCheckActivity;Landroid/content/Intent;)V:43e220  =>  android.app.Activity/startActivity:(Landroid/content/Intent;)V:19cda0
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:422174		=(rels)=>		1
+[*] Unique action: 1:23190 : <<CALL>> : com.b.a.d/MMtuvJlfrFOLCeMV:(Lcom/b/a/d;Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:422174  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+	1:compareBackwardBranch: 1:16035 : <<BRANCH>> : com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:444f5c  =>  com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:4456a4
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:45489c		=(rels)=>		1
+[*] Unique action: 1:27234 : <<CALL>> : com.cnsl.a_pote.view.ui.walk_through.d/vgXGTHRKSEBNgigd:(Landroid/widget/ImageView;Landroid/view/View$OnClickListener;)V:45489c  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:16035 : <<BRANCH>> : com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:444f5c  =>  com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:4456a4
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:421968		=(rels)=>		1
+[*] Unique action: 1:25242 : <<CALL>> : com.b.a.d$1/xRIBWQGxbfYSjRfl:(Lcom/b/a/d;Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:421968  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+	1:compareBackwardBranch: 1:16035 : <<BRANCH>> : com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:444f5c  =>  com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:4456a4
+android.widget.Toast/show:()V:440816		=(rels)=>		1
+[*] Unique action: 1:17469 : <<CALL>> : com.cnsl.a_pote.view.ui.RootingCheckActivity/QczUsyAfydJPMwjH:(Landroid/widget/Toast;)V:440816  =>  android.widget.Toast/show:()V:2a3e70
+	1:compareBackwardBranch: 1:16032 : <<BRANCH>> : com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:444f5c  =>  com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:444f64
+Entry: 444c68
+com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V: 444f5c -> 444f64
+		com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V: 2f4 -> 2fc
+addPatchReadme: java.lang.Class<com.cnsl.a_pote.view.ui.RootingCheckActivity>onCreate(Landroid/os/Bundle;)V 2f4 t
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample18@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Patch size: 1
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample18.apk@devRoot-D-R.apk.obfuscated_devRoot
+Wow!!!!!  --  com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 2fa
+branchTarget: 2fc
+label = sswitch_data_12
+GOTO -- 2fa 	2fc
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample18.apk@devRoot-D-R.apk.obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample18.apk@devRoot-D-R.apk.obfuscated_devRoot/sample18.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample18.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample18.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: First address of Lcom/cnsl/a_pote/view/ui/RootingCheckActivity;->onCreate(Landroid/os/Bundle;)V = 444c78
+b29e6a69: Address - Lcom/cnsl/a_pote/view/ui/RootingCheckActivity;->onCreate(Landroid/os/Bundle;)V@2f4	 lastOffset = 22ac
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample18.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample18.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample18@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Running Application: com.cnsl.amaaas_agent
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.cnsl.amaaas_agent
+Tryging remove : uninstall com.cnsl.amaaas_agent(com.cnsl.amaaas_agent)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 1738489
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 13
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+/home/santapark/Extended3/DEEPerence/reEx/sample18.apk@devRoot-D-R.apk.obfuscated.apk launch is failed on devRoot
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 446046
+-- current localPatchFilter: 445fc0
+-- current localPatchFilter: 444f5c
+-- current localPatchFilter: 44601e
+-- current localPatchFilter: 44606e
+-- current localPatchFilter: 4460a8
+-- current localPatchFilter: 44608a
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:453f04		=(rels)=>		1
+[*] Unique action: 1:25274 : <<CALL>> : com.cnsl.a_pote.view.ui.walk_through.WalkThroughActivity/oyEAdtelRdRDBuVO:(Landroid/widget/TextView;Landroid/view/View$OnClickListener;)V:453f04  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:16029 : <<BRANCH>> : com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:4455e0  =>  com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:4455e8
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:453d74		=(rels)=>		1
+[*] Unique action: 1:25280 : <<CALL>> : com.cnsl.a_pote.view.ui.walk_through.WalkThroughActivity/chrFXKeVnIMGBLjF:(Landroid/widget/LinearLayout;Landroid/view/View$OnClickListener;)V:453d74  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:16029 : <<BRANCH>> : com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:4455e0  =>  com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:4455e8
+android.app.Activity/startActivity:(Landroid/content/Intent;)V:43e220		=(rels)=>		1
+[*] Unique action: 17:19942 : <<CALL>> : com.cnsl.a_pote.view.ui.RootingCheckActivity$1/wdhkDMydYaKxVhbz:(Lcom/cnsl/a_pote/view/ui/RootingCheckActivity;Landroid/content/Intent;)V:43e220  =>  android.app.Activity/startActivity:(Landroid/content/Intent;)V:19cda0
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:422174		=(rels)=>		1
+[*] Unique action: 1:23190 : <<CALL>> : com.b.a.d/MMtuvJlfrFOLCeMV:(Lcom/b/a/d;Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:422174  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+	1:compareBackwardBranch: 1:16029 : <<BRANCH>> : com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:4455e0  =>  com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:4455e8
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:45489c		=(rels)=>		1
+[*] Unique action: 1:27234 : <<CALL>> : com.cnsl.a_pote.view.ui.walk_through.d/vgXGTHRKSEBNgigd:(Landroid/widget/ImageView;Landroid/view/View$OnClickListener;)V:45489c  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:16029 : <<BRANCH>> : com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:4455e0  =>  com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:4455e8
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:421968		=(rels)=>		1
+[*] Unique action: 1:25242 : <<CALL>> : com.b.a.d$1/xRIBWQGxbfYSjRfl:(Lcom/b/a/d;Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:421968  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+	1:compareBackwardBranch: 1:16029 : <<BRANCH>> : com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:4455e0  =>  com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:4455e8
+android.widget.Toast/show:()V:440816		=(rels)=>		1
+[*] Unique action: 1:17469 : <<CALL>> : com.cnsl.a_pote.view.ui.RootingCheckActivity/QczUsyAfydJPMwjH:(Landroid/widget/Toast;)V:440816  =>  android.widget.Toast/show:()V:2a3e70
+	1:compareBackwardBranch: 1:16026 : <<BRANCH>> : com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:4455e0  =>  com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:44569a
+Entry: 444c68
+com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V: 4455e0 -> 44569a
+		com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V: 978 -> a32
+addPatchReadme: java.lang.Class<com.cnsl.a_pote.view.ui.RootingCheckActivity>onCreate(Landroid/os/Bundle;)V 978 t
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample18@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Patch size: 1
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample18.apk@devRoot-D-R.apk.obfuscated_devRoot
+Wow!!!!!  --  com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 97e
+branchTarget: a32
+label = sswitch_data_41
+GOTO -- 97e 	a32
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample18.apk@devRoot-D-R.apk.obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample18.apk@devRoot-D-R.apk.obfuscated_devRoot/sample18.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample18.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample18.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: First address of Lcom/cnsl/a_pote/view/ui/RootingCheckActivity;->onCreate(Landroid/os/Bundle;)V = 444c78
+b29e6a69: Address - Lcom/cnsl/a_pote/view/ui/RootingCheckActivity;->onCreate(Landroid/os/Bundle;)V@978	 lastOffset = 22ac
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample18.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample18.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample18@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Running Application: com.cnsl.amaaas_agent
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.cnsl.amaaas_agent
+Tryging remove : uninstall com.cnsl.amaaas_agent(com.cnsl.amaaas_agent)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 1738752
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 12
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+/home/santapark/Extended3/DEEPerence/reEx/sample18.apk@devRoot-D-R.apk.obfuscated.apk launch is failed on devRoot
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 446046
+-- current localPatchFilter: 445fc0
+-- current localPatchFilter: 4455e0
+-- current localPatchFilter: 444f5c
+-- current localPatchFilter: 44601e
+-- current localPatchFilter: 44606e
+-- current localPatchFilter: 4460a8
+-- current localPatchFilter: 44608a
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:453f04		=(rels)=>		1
+[*] Unique action: 1:25274 : <<CALL>> : com.cnsl.a_pote.view.ui.walk_through.WalkThroughActivity/oyEAdtelRdRDBuVO:(Landroid/widget/TextView;Landroid/view/View$OnClickListener;)V:453f04  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:16023 : <<BRANCH>> : com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:44560a  =>  com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:445694
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:453d74		=(rels)=>		1
+[*] Unique action: 1:25280 : <<CALL>> : com.cnsl.a_pote.view.ui.walk_through.WalkThroughActivity/chrFXKeVnIMGBLjF:(Landroid/widget/LinearLayout;Landroid/view/View$OnClickListener;)V:453d74  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:16023 : <<BRANCH>> : com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:44560a  =>  com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:445694
+android.app.Activity/startActivity:(Landroid/content/Intent;)V:43e220		=(rels)=>		1
+[*] Unique action: 17:19942 : <<CALL>> : com.cnsl.a_pote.view.ui.RootingCheckActivity$1/wdhkDMydYaKxVhbz:(Lcom/cnsl/a_pote/view/ui/RootingCheckActivity;Landroid/content/Intent;)V:43e220  =>  android.app.Activity/startActivity:(Landroid/content/Intent;)V:19cda0
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:422174		=(rels)=>		1
+[*] Unique action: 1:23190 : <<CALL>> : com.b.a.d/MMtuvJlfrFOLCeMV:(Lcom/b/a/d;Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:422174  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+	1:compareBackwardBranch: 1:16023 : <<BRANCH>> : com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:44560a  =>  com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:445694
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:45489c		=(rels)=>		1
+[*] Unique action: 1:27234 : <<CALL>> : com.cnsl.a_pote.view.ui.walk_through.d/vgXGTHRKSEBNgigd:(Landroid/widget/ImageView;Landroid/view/View$OnClickListener;)V:45489c  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:16023 : <<BRANCH>> : com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:44560a  =>  com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:445694
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:421968		=(rels)=>		1
+[*] Unique action: 1:25242 : <<CALL>> : com.b.a.d$1/xRIBWQGxbfYSjRfl:(Lcom/b/a/d;Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:421968  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+	1:compareBackwardBranch: 1:16023 : <<BRANCH>> : com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:44560a  =>  com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:445694
+android.widget.Toast/show:()V:440816		=(rels)=>		1
+[*] Unique action: 1:17469 : <<CALL>> : com.cnsl.a_pote.view.ui.RootingCheckActivity/QczUsyAfydJPMwjH:(Landroid/widget/Toast;)V:440816  =>  android.widget.Toast/show:()V:2a3e70
+	1:compareBackwardBranch: 1:16020 : <<BRANCH>> : com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:44560a  =>  com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:445612
+Entry: 444c68
+com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V: 44560a -> 445612
+		com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V: 9a2 -> 9aa
+addPatchReadme: java.lang.Class<com.cnsl.a_pote.view.ui.RootingCheckActivity>onCreate(Landroid/os/Bundle;)V 9a2 t
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample18@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Patch size: 1
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample18.apk@devRoot-D-R.apk.obfuscated_devRoot
+Wow!!!!!  --  com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 9a8
+branchTarget: 9aa
+label = sswitch_data_42
+GOTO -- 9a8 	9aa
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample18.apk@devRoot-D-R.apk.obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample18.apk@devRoot-D-R.apk.obfuscated_devRoot/sample18.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample18.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample18.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: First address of Lcom/cnsl/a_pote/view/ui/RootingCheckActivity;->onCreate(Landroid/os/Bundle;)V = 444c78
+b29e6a69: Address - Lcom/cnsl/a_pote/view/ui/RootingCheckActivity;->onCreate(Landroid/os/Bundle;)V@9a2	 lastOffset = 22ac
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample18.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample18.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample18@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Running Application: com.cnsl.amaaas_agent
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.cnsl.amaaas_agent
+Tryging remove : uninstall com.cnsl.amaaas_agent(com.cnsl.amaaas_agent)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 1738752
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 11
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+/home/santapark/Extended3/DEEPerence/reEx/sample18.apk@devRoot-D-R.apk.obfuscated.apk launch is failed on devRoot
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 446046
+-- current localPatchFilter: 445fc0
+-- current localPatchFilter: 4455e0
+-- current localPatchFilter: 444f5c
+-- current localPatchFilter: 44601e
+-- current localPatchFilter: 44606e
+-- current localPatchFilter: 4460a8
+-- current localPatchFilter: 44608a
+-- current localPatchFilter: 44560a
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:453f04		=(rels)=>		1
+[*] Unique action: 1:25274 : <<CALL>> : com.cnsl.a_pote.view.ui.walk_through.WalkThroughActivity/oyEAdtelRdRDBuVO:(Landroid/widget/TextView;Landroid/view/View$OnClickListener;)V:453f04  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:16017 : <<BRANCH>> : com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:445632  =>  com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:44568e
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:453d74		=(rels)=>		1
+[*] Unique action: 1:25280 : <<CALL>> : com.cnsl.a_pote.view.ui.walk_through.WalkThroughActivity/chrFXKeVnIMGBLjF:(Landroid/widget/LinearLayout;Landroid/view/View$OnClickListener;)V:453d74  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:16017 : <<BRANCH>> : com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:445632  =>  com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:44568e
+android.app.Activity/startActivity:(Landroid/content/Intent;)V:43e220		=(rels)=>		1
+[*] Unique action: 17:19942 : <<CALL>> : com.cnsl.a_pote.view.ui.RootingCheckActivity$1/wdhkDMydYaKxVhbz:(Lcom/cnsl/a_pote/view/ui/RootingCheckActivity;Landroid/content/Intent;)V:43e220  =>  android.app.Activity/startActivity:(Landroid/content/Intent;)V:19cda0
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:422174		=(rels)=>		1
+[*] Unique action: 1:23190 : <<CALL>> : com.b.a.d/MMtuvJlfrFOLCeMV:(Lcom/b/a/d;Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:422174  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+	1:compareBackwardBranch: 1:16017 : <<BRANCH>> : com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:445632  =>  com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:44568e
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:45489c		=(rels)=>		1
+[*] Unique action: 1:27234 : <<CALL>> : com.cnsl.a_pote.view.ui.walk_through.d/vgXGTHRKSEBNgigd:(Landroid/widget/ImageView;Landroid/view/View$OnClickListener;)V:45489c  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:16017 : <<BRANCH>> : com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:445632  =>  com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:44568e
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:421968		=(rels)=>		1
+[*] Unique action: 1:25242 : <<CALL>> : com.b.a.d$1/xRIBWQGxbfYSjRfl:(Lcom/b/a/d;Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:421968  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+	1:compareBackwardBranch: 1:16017 : <<BRANCH>> : com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:445632  =>  com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:44568e
+android.widget.Toast/show:()V:440816		=(rels)=>		1
+[*] Unique action: 1:17469 : <<CALL>> : com.cnsl.a_pote.view.ui.RootingCheckActivity/QczUsyAfydJPMwjH:(Landroid/widget/Toast;)V:440816  =>  android.widget.Toast/show:()V:2a3e70
+	1:compareBackwardBranch: 1:16014 : <<BRANCH>> : com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:445632  =>  com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:44563a
+Entry: 444c68
+com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V: 445632 -> 44563a
+		com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V: 9ca -> 9d2
+addPatchReadme: java.lang.Class<com.cnsl.a_pote.view.ui.RootingCheckActivity>onCreate(Landroid/os/Bundle;)V 9ca t
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample18@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Patch size: 1
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample18.apk@devRoot-D-R.apk.obfuscated_devRoot
+Wow!!!!!  --  com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 9d0
+branchTarget: 9d2
+label = sswitch_data_43
+GOTO -- 9d0 	9d2
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample18.apk@devRoot-D-R.apk.obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample18.apk@devRoot-D-R.apk.obfuscated_devRoot/sample18.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample18.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample18.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: First address of Lcom/cnsl/a_pote/view/ui/RootingCheckActivity;->onCreate(Landroid/os/Bundle;)V = 444c78
+b29e6a69: Address - Lcom/cnsl/a_pote/view/ui/RootingCheckActivity;->onCreate(Landroid/os/Bundle;)V@9ca	 lastOffset = 22ac
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample18.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample18.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample18@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Running Application: com.cnsl.amaaas_agent
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.cnsl.amaaas_agent
+Tryging remove : uninstall com.cnsl.amaaas_agent(com.cnsl.amaaas_agent)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 1738437
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 10
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+/home/santapark/Extended3/DEEPerence/reEx/sample18.apk@devRoot-D-R.apk.obfuscated.apk launch is failed on devRoot
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 446046
+-- current localPatchFilter: 445fc0
+-- current localPatchFilter: 4455e0
+-- current localPatchFilter: 445632
+-- current localPatchFilter: 444f5c
+-- current localPatchFilter: 44601e
+-- current localPatchFilter: 44606e
+-- current localPatchFilter: 4460a8
+-- current localPatchFilter: 44608a
+-- current localPatchFilter: 44560a
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:453f04		=(rels)=>		1
+[*] Unique action: 1:25274 : <<CALL>> : com.cnsl.a_pote.view.ui.walk_through.WalkThroughActivity/oyEAdtelRdRDBuVO:(Landroid/widget/TextView;Landroid/view/View$OnClickListener;)V:453f04  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:16011 : <<BRANCH>> : com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:44565a  =>  com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:445662
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:453d74		=(rels)=>		1
+[*] Unique action: 1:25280 : <<CALL>> : com.cnsl.a_pote.view.ui.walk_through.WalkThroughActivity/chrFXKeVnIMGBLjF:(Landroid/widget/LinearLayout;Landroid/view/View$OnClickListener;)V:453d74  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:16011 : <<BRANCH>> : com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:44565a  =>  com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:445662
+android.app.Activity/startActivity:(Landroid/content/Intent;)V:43e220		=(rels)=>		1
+[*] Unique action: 17:19942 : <<CALL>> : com.cnsl.a_pote.view.ui.RootingCheckActivity$1/wdhkDMydYaKxVhbz:(Lcom/cnsl/a_pote/view/ui/RootingCheckActivity;Landroid/content/Intent;)V:43e220  =>  android.app.Activity/startActivity:(Landroid/content/Intent;)V:19cda0
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:422174		=(rels)=>		1
+[*] Unique action: 1:23190 : <<CALL>> : com.b.a.d/MMtuvJlfrFOLCeMV:(Lcom/b/a/d;Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:422174  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+	1:compareBackwardBranch: 1:16011 : <<BRANCH>> : com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:44565a  =>  com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:445662
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:45489c		=(rels)=>		1
+[*] Unique action: 1:27234 : <<CALL>> : com.cnsl.a_pote.view.ui.walk_through.d/vgXGTHRKSEBNgigd:(Landroid/widget/ImageView;Landroid/view/View$OnClickListener;)V:45489c  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:16011 : <<BRANCH>> : com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:44565a  =>  com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:445662
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:421968		=(rels)=>		1
+[*] Unique action: 1:25242 : <<CALL>> : com.b.a.d$1/xRIBWQGxbfYSjRfl:(Lcom/b/a/d;Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:421968  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+	1:compareBackwardBranch: 1:16011 : <<BRANCH>> : com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:44565a  =>  com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:445662
+android.widget.Toast/show:()V:440816		=(rels)=>		1
+[*] Unique action: 1:17469 : <<CALL>> : com.cnsl.a_pote.view.ui.RootingCheckActivity/QczUsyAfydJPMwjH:(Landroid/widget/Toast;)V:440816  =>  android.widget.Toast/show:()V:2a3e70
+	1:compareBackwardBranch: 1:16008 : <<BRANCH>> : com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:44565a  =>  com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:445688
+Entry: 444c68
+com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V: 44565a -> 445688
+		com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V: 9f2 -> a20
+addPatchReadme: java.lang.Class<com.cnsl.a_pote.view.ui.RootingCheckActivity>onCreate(Landroid/os/Bundle;)V 9f2 t
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample18@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Patch size: 1
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample18.apk@devRoot-D-R.apk.obfuscated_devRoot
+Wow!!!!!  --  com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 9f8
+branchTarget: a20
+label = sswitch_data_44
+GOTO -- 9f8 	a20
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample18.apk@devRoot-D-R.apk.obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample18.apk@devRoot-D-R.apk.obfuscated_devRoot/sample18.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample18.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample18.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: First address of Lcom/cnsl/a_pote/view/ui/RootingCheckActivity;->onCreate(Landroid/os/Bundle;)V = 444c78
+b29e6a69: Address - Lcom/cnsl/a_pote/view/ui/RootingCheckActivity;->onCreate(Landroid/os/Bundle;)V@9f2	 lastOffset = 22ac
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample18.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample18.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample18@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Running Application: com.cnsl.amaaas_agent
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.cnsl.amaaas_agent
+Tryging remove : uninstall com.cnsl.amaaas_agent(com.cnsl.amaaas_agent)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 1738752
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 9
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+/home/santapark/Extended3/DEEPerence/reEx/sample18.apk@devRoot-D-R.apk.obfuscated.apk launch is failed on devRoot
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 446046
+-- current localPatchFilter: 445fc0
+-- current localPatchFilter: 4455e0
+-- current localPatchFilter: 445632
+-- current localPatchFilter: 444f5c
+-- current localPatchFilter: 44601e
+-- current localPatchFilter: 44606e
+-- current localPatchFilter: 4460a8
+-- current localPatchFilter: 44608a
+-- current localPatchFilter: 44560a
+-- current localPatchFilter: 44565a
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:453f04		=(rels)=>		1
+[*] Unique action: 1:25274 : <<CALL>> : com.cnsl.a_pote.view.ui.walk_through.WalkThroughActivity/oyEAdtelRdRDBuVO:(Landroid/widget/TextView;Landroid/view/View$OnClickListener;)V:453f04  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:16005 : <<BRANCH>> : com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:44567e  =>  com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:445682
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:453d74		=(rels)=>		1
+[*] Unique action: 1:25280 : <<CALL>> : com.cnsl.a_pote.view.ui.walk_through.WalkThroughActivity/chrFXKeVnIMGBLjF:(Landroid/widget/LinearLayout;Landroid/view/View$OnClickListener;)V:453d74  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:16005 : <<BRANCH>> : com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:44567e  =>  com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:445682
+android.app.Activity/startActivity:(Landroid/content/Intent;)V:43e220		=(rels)=>		1
+[*] Unique action: 17:19942 : <<CALL>> : com.cnsl.a_pote.view.ui.RootingCheckActivity$1/wdhkDMydYaKxVhbz:(Lcom/cnsl/a_pote/view/ui/RootingCheckActivity;Landroid/content/Intent;)V:43e220  =>  android.app.Activity/startActivity:(Landroid/content/Intent;)V:19cda0
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:422174		=(rels)=>		1
+[*] Unique action: 1:23190 : <<CALL>> : com.b.a.d/MMtuvJlfrFOLCeMV:(Lcom/b/a/d;Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:422174  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+	1:compareBackwardBranch: 1:16005 : <<BRANCH>> : com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:44567e  =>  com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:445682
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:45489c		=(rels)=>		1
+[*] Unique action: 1:27234 : <<CALL>> : com.cnsl.a_pote.view.ui.walk_through.d/vgXGTHRKSEBNgigd:(Landroid/widget/ImageView;Landroid/view/View$OnClickListener;)V:45489c  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:16005 : <<BRANCH>> : com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:44567e  =>  com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:445682
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:421968		=(rels)=>		1
+[*] Unique action: 1:25242 : <<CALL>> : com.b.a.d$1/xRIBWQGxbfYSjRfl:(Lcom/b/a/d;Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:421968  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+	1:compareBackwardBranch: 1:16005 : <<BRANCH>> : com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:44567e  =>  com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:445682
+android.widget.Toast/show:()V:440816		=(rels)=>		1
+[*] Unique action: 1:17469 : <<CALL>> : com.cnsl.a_pote.view.ui.RootingCheckActivity/QczUsyAfydJPMwjH:(Landroid/widget/Toast;)V:440816  =>  android.widget.Toast/show:()V:2a3e70
+	1:compareBackwardBranch: 1:16005 : <<BRANCH>> : com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:44567e  =>  com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V:445682
+Entry: 444c68
+com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V: 44567e -> 445682
+		com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V: a16 -> a1a
+addPatchReadme: java.lang.Class<com.cnsl.a_pote.view.ui.RootingCheckActivity>onCreate(Landroid/os/Bundle;)V a16 f
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample18@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Patch size: 1
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample18.apk@devRoot-D-R.apk.obfuscated_devRoot
+Wow!!!!!  --  com.cnsl.a_pote.view.ui.RootingCheckActivity/onCreate:(Landroid/os/Bundle;)V
+fallthrough: a1a
+branchTarget: a1a
+NOP!
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample18.apk@devRoot-D-R.apk.obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample18.apk@devRoot-D-R.apk.obfuscated_devRoot/sample18.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample18.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample18.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: First address of Lcom/cnsl/a_pote/view/ui/RootingCheckActivity;->onCreate(Landroid/os/Bundle;)V = 444c78
+b29e6a69: Address - Lcom/cnsl/a_pote/view/ui/RootingCheckActivity;->onCreate(Landroid/os/Bundle;)V@a16	 lastOffset = 22ac
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample18.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample18.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample18@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Running Application: com.cnsl.amaaas_agent
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.cnsl.amaaas_agent/com.cnsl.a_pote.view.ui.walk_through.WalkThroughActivity
+PIDs--------------------------------------------------------------------------
+u0_a3077       8299    429 13981016 130792 0                  0 S com.cnsl.amaaas_agent
+PIDs--------------------------------------------------------------------------
+u0_a3077       8299    429 13981016 130792 0                  0 S com.cnsl.amaaas_agent
+Stopping app: com.cnsl.amaaas_agent
+Tryging remove : uninstall com.cnsl.amaaas_agent(com.cnsl.amaaas_agent)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 8245877
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 8
+b29e6a69: isFailedToLaunch: com.cnsl.amaaas_agent/com.cnsl.a_pote.view.ui.walk_through.WalkThroughActivity
+b29e6a69: 	--result: Good :)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample18@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample18@devRoot-D-R.obfuscated.ilog)
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 44567e
+Action is completely same :)
+Action is completely same :)
+b29e6a69: There is no difference. (tryAgain=false)
+-- HPFinder will be done in this iteration :)
+hasAntiAnalysis? - devTamper: false on com.cnsl.a_pote.view.ui.RootingCheckActivity
+hasAntiAnalysis? - devRoot: true on com.cnsl.a_pote.view.ui.RootingCheckActivity
+	isRemovedThem? - devRoot: true on com.cnsl.a_pote.view.ui.RootingCheckActivity	-	tryCount: 11
+hasAntiAnalysis? - devDebug: false on com.cnsl.a_pote.view.ui.RootingCheckActivity
+*****REPORT: com.cnsl.amaaas_agent
+* Package name: com.cnsl.amaaas_agent
+* Running time: 422
+* FileSize: 4643371
+devTamper : 8248292
+devRef : 8235272
+devRoot : 8245877
+devDebug : 8248292
+hasAntiAnalysis? - devTamper: false on com.cnsl.a_pote.view.ui.RootingCheckActivity
+hasAntiAnalysis? - devRoot: true on com.cnsl.a_pote.view.ui.RootingCheckActivity
+	isRemovedThem? - devRoot: true on com.cnsl.a_pote.view.ui.RootingCheckActivity	-	tryCount: 11
+hasAntiAnalysis? - devDebug: false on com.cnsl.a_pote.view.ui.RootingCheckActivity
+46604b9f: trying remove : com.cnsl.amaaas_agent
+3601a6ff: trying remove : com.cnsl.amaaas_agent
+b29e6a69: trying remove : com.cnsl.amaaas_agent
+159ceeed: trying remove : com.cnsl.amaaas_agent
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+3601a6ff: result = true
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+46604b9f: result = true
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+159ceeed: result = true
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+b29e6a69: result = true
+3601a6ff: isFailedToLaunch: com.cnsl.amaaas_agent/com.cnsl.a_pote.view.ui.walk_through.WalkThroughActivity
+3601a6ff: 	--result: Good :)

@@ -1,0 +1,370 @@
+axmlPath: /home/santapark/Extended3/DEEPerence/obfuscated/sample44.apk@devRoot-D-R.apk.obfuscated/AndroidManifest.xml
+launchable-activity: name='com.lotte.b2b.MainActivity'  label='롯데ON 기업용' icon=''
+{ACTIVITY, com.lotte.b2b.MainActivity, android.intent.action.MAIN, android.intent.action.VIEW}
+{ACTIVITY, com.lotte.b2b.MainActivity, android.intent.action.MAIN, android.intent.action.VIEW}
+_getAllDexFiles: /home/santapark/Extended3/DEEPerence/obfuscated/sample44.apk@devRoot-D-R.apk.obfuscated/classes.dex
+----------------/home/santapark/Extended3/DEEPerence/obfuscated/sample44.apk@devRoot-D-R.apk.obfuscated.apk
+dexFile = org.jf.dexlib2.dexbacked.DexBackedDexFile@77d9112e
+com.lotte.b2b
+com.lotte.b2b.MainActivity
+debuggable: true
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+Installing apk: /home/santapark/Extended3/DEEPerence/obfuscated/sample44.apk@devRoot-D-R.apk.obfuscated.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/obfuscated/sample44.apk@devRoot-D-R.apk.obfuscated.apk
+axmlPath: /home/santapark/Extended3/DEEPerence/obfuscated/sample44.apk@devRoot-D-R.apk.obfuscated_46604b9f/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/obfuscated/sample44.apk@devRoot-D-R.apk.obfuscated_46604b9f/sample44.apk@devRoot-D-R.apk.obfuscated.apk
+axmlPath: /home/santapark/Extended3/DEEPerence/obfuscated/sample44.apk@devRoot-D-R.apk.obfuscated/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/obfuscated/sample44.apk@devRoot-D-R.apk.obfuscated/sample44.apk@devRoot-D-R.apk.obfuscated.apk
+3601a6ff: Installation Success
+b29e6a69: Installation Success
+46604b9f: Installing repackaged apk File: 
+Installing apk: /home/santapark/Extended3/DEEPerence/obfuscated/sample44.apk@devRoot-D-R.apk.obfuscated_46604b9f/signed_sample44.apk@devRoot-D-R.apk.obfuscated.apk
+159ceeed: Installing debuggable .apk file: 
+Installing apk: /home/santapark/Extended3/DEEPerence/obfuscated/sample44.apk@devRoot-D-R.apk.obfuscated/signed_sample44.apk@devRoot-D-R.apk.obfuscated.apk
+46604b9f: Installation Success
+159ceeed: Installation Success
+46604b9f: startApplication called! - devTamper
+3601a6ff: startApplication called! - devRef
+b29e6a69: startApplication called! - devRoot
+159ceeed: startApplication called! - devDebug
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/obfuscated/devRoot_sample44@devRoot-D-R.obfuscated.ilog)
+46604b9f: Collecting logcat... (/home/santapark/Extended3/DEEPerence/obfuscated/devTamper_sample44@devRoot-D-R.obfuscated.ilog)
+3601a6ff: Collecting logcat... (/home/santapark/Extended3/DEEPerence/obfuscated/devRef_sample44@devRoot-D-R.obfuscated.ilog)
+46604b9f: Running Application: com.lotte.b2b
+b29e6a69: Running Application: com.lotte.b2b
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/obfuscated/devDebug_sample44@devRoot-D-R.obfuscated.ilog)
+3601a6ff: Running Application: com.lotte.b2b
+PIDs--------------------------------------------------------------------------
+u0_a785       24349    428 14514644 160484 0                  0 R com.lotte.b2b
+forward tcp:5005 jdwp:24349
+[*]Found JDWP Target: 24349
+159ceeed: Running Application: com.lotte.b2b
+3601a6ff: Running is done - starting comparing... : 5001
+3601a6ff: Terminated logcat thread...by itself
+46604b9f: Running is done - starting comparing... : 5001
+46604b9f: Terminated logcat thread...by itself
+159ceeed: Running is done - starting comparing... : 5001
+159ceeed: Terminated logcat thread...by itself
+3601a6ff: Top-activity: com.lotte.b2b/.MainActivity
+PIDs--------------------------------------------------------------------------
+u0_a177       16346    407 14335400 183456 0                  0 S com.lotte.b2b
+PIDs--------------------------------------------------------------------------
+u0_a177       16346    407 14335400 183456 0                  0 S com.lotte.b2b
+Stopping app: com.lotte.b2b
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+46604b9f: Top-activity: com.lotte.b2b/.MainActivity
+PIDs--------------------------------------------------------------------------
+u0_a853       16440    427 14333596 183128 0                  0 S com.lotte.b2b
+PIDs--------------------------------------------------------------------------
+u0_a853       16440    427 14333596 183128 0                  0 S com.lotte.b2b
+Stopping app: com.lotte.b2b
+159ceeed: Top-activity: com.lotte.b2b/.MainActivity
+PIDs--------------------------------------------------------------------------
+u0_a785       24349    428 14521936 182396 0                  0 S com.lotte.b2b
+PIDs--------------------------------------------------------------------------
+u0_a785       24349    428 14521936 182396 0                  0 S com.lotte.b2b
+Stopping app: com.lotte.b2b
+b29e6a69: Top-activity: com.lotte.b2b/.MainActivity
+PIDs--------------------------------------------------------------------------
+u0_a3437       9044    428 14503364 183928 0                  0 S com.lotte.b2b
+PIDs--------------------------------------------------------------------------
+u0_a3437       9044    428 14503364 183928 0                  0 S com.lotte.b2b
+Stopping app: com.lotte.b2b
+Tryging remove : uninstall com.lotte.b2b(com.lotte.b2b)
+3601a6ff: Remove Success
+3601a6ff: ilog file size: 908213
+3601a6ff: End of collecting logcat...
+Tryging remove : uninstall com.lotte.b2b(com.lotte.b2b)
+46604b9f: Remove Success
+46604b9f: ilog file size: 908435
+46604b9f: End of collecting logcat...
+Tryging remove : uninstall com.lotte.b2b(com.lotte.b2b)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 809061
+b29e6a69: End of collecting logcat...
+Tryging remove : uninstall com.lotte.b2b(com.lotte.b2b)
+159ceeed: Remove Success
+159ceeed: ilog file size: 908435
+159ceeed: End of collecting logcat...
+HPFinder's try count remains: 19
+46604b9f: isFailedToLaunch: com.lotte.b2b/.MainActivity
+46604b9f: 	--result: Good :)
+b29e6a69: isFailedToLaunch: com.lotte.b2b/.MainActivity
+b29e6a69: 	--result: Good :)
+159ceeed: isFailedToLaunch: com.lotte.b2b/.MainActivity
+159ceeed: 	--result: Good :)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/obfuscated/devRef_sample44@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/obfuscated/devRef_sample44@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/obfuscated/devRef_sample44@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/obfuscated/devTamper_sample44@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/obfuscated/devRoot_sample44@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/obfuscated/devDebug_sample44@devRoot-D-R.obfuscated.ilog)
+[*] FlowManager: adjust finished.
+Action is completely same :)
+Action is completely same :)
+46604b9f: There is no difference. (tryAgain=false)
+[*] FlowManager: adjust finished.
+[*] FlowManager: adjust finished.
+Action is completely same :)
+Action is completely same :)
+159ceeed: There is no difference. (tryAgain=false)
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.app.Dialog/show:()V:98a6ba		=(rels)=>		1
+[*] Unique action: 1:3064 : <<CALL>> : com.lotte.b2b.MainActivity/WVxXkehwlNGXmZmm:(Landroid/app/AlertDialog;)V:98a6ba  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:2860 : <<BRANCH>> : com.lotte.b2b.MainActivity/onCreate:(Landroid/os/Bundle;)V:98e690  =>  com.lotte.b2b.MainActivity/onCreate:(Landroid/os/Bundle;)V:98e99c
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:98ab34		=(rels)=>		1
+[*] Unique action: 1:3033 : <<CALL>> : com.lotte.b2b.MainActivity/aOpNQfFKuKdpzbaP:(Landroid/widget/Button;Landroid/view/View$OnClickListener;)V:98ab34  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:2860 : <<BRANCH>> : com.lotte.b2b.MainActivity/onCreate:(Landroid/os/Bundle;)V:98e690  =>  com.lotte.b2b.MainActivity/onCreate:(Landroid/os/Bundle;)V:98e99c
+android.app.AlertDialog$Builder/show:()Landroid/app/AlertDialog;:989a0c		=(rels)=>		1
+[*] Unique action: 1:2582 : <<CALL>> : com.lotte.b2b.MainActivity/NajiExBjGbOeRcSA:(Landroid/app/AlertDialog$Builder;)Landroid/app/AlertDialog;:989a0c  =>  android.app.AlertDialog$Builder/show:()Landroid/app/AlertDialog;:19e3bc
+	1:compareBackwardBranch: 1:2860 : <<BRANCH>> : com.lotte.b2b.MainActivity/onCreate:(Landroid/os/Bundle;)V:98e690  =>  com.lotte.b2b.MainActivity/onCreate:(Landroid/os/Bundle;)V:98e99c
+Entry: 98e65c
+com.lotte.b2b.MainActivity/onCreate:(Landroid/os/Bundle;)V: 98e690 -> 98e99c
+		com.lotte.b2b.MainActivity/onCreate:(Landroid/os/Bundle;)V: 34 -> 340
+addPatchReadme: java.lang.Class<com.lotte.b2b.MainActivity>onCreate(Landroid/os/Bundle;)V 34 t
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/obfuscated/devRoot_sample44@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Patch size: 1
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/obfuscated/sample44.apk@devRoot-D-R.apk.obfuscated_devRoot
+Wow!!!!!  --  com.lotte.b2b.MainActivity/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 3a
+branchTarget: 340
+label = sswitch_data_0
+GOTO -- 3a 	340
+axmlPath: /home/santapark/Extended3/DEEPerence/obfuscated/sample44.apk@devRoot-D-R.apk.obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/obfuscated/sample44.apk@devRoot-D-R.apk.obfuscated_devRoot/sample44.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/obfuscated/sample44.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample44.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: First address of Lcom/lotte/b2b/MainActivity;->onCreate(Landroid/os/Bundle;)V = 98e66c
+b29e6a69: Address - Lcom/lotte/b2b/MainActivity;->onCreate(Landroid/os/Bundle;)V@34	 lastOffset = 744
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/obfuscated/sample44.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample44.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/obfuscated/devRoot_sample44@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Running Application: com.lotte.b2b
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.lotte.b2b
+Tryging remove : uninstall com.lotte.b2b(com.lotte.b2b)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 26774
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 18
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+/home/santapark/Extended3/DEEPerence/obfuscated/sample44.apk@devRoot-D-R.apk.obfuscated.apk launch is failed on devRoot
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 98e690
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.app.Dialog/show:()V:98a6ba		=(rels)=>		1
+[*] Unique action: 1:3064 : <<CALL>> : com.lotte.b2b.MainActivity/WVxXkehwlNGXmZmm:(Landroid/app/AlertDialog;)V:98a6ba  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:2857 : <<BRANCH>> : com.lotte.b2b.MainActivity/onCreate:(Landroid/os/Bundle;)V:98e914  =>  com.lotte.b2b.MainActivity/onCreate:(Landroid/os/Bundle;)V:98e91c
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:98ab34		=(rels)=>		1
+[*] Unique action: 1:3033 : <<CALL>> : com.lotte.b2b.MainActivity/aOpNQfFKuKdpzbaP:(Landroid/widget/Button;Landroid/view/View$OnClickListener;)V:98ab34  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:2857 : <<BRANCH>> : com.lotte.b2b.MainActivity/onCreate:(Landroid/os/Bundle;)V:98e914  =>  com.lotte.b2b.MainActivity/onCreate:(Landroid/os/Bundle;)V:98e91c
+android.app.AlertDialog$Builder/show:()Landroid/app/AlertDialog;:989a0c		=(rels)=>		1
+[*] Unique action: 1:2582 : <<CALL>> : com.lotte.b2b.MainActivity/NajiExBjGbOeRcSA:(Landroid/app/AlertDialog$Builder;)Landroid/app/AlertDialog;:989a0c  =>  android.app.AlertDialog$Builder/show:()Landroid/app/AlertDialog;:19e3bc
+	1:compareBackwardBranch: 1:2857 : <<BRANCH>> : com.lotte.b2b.MainActivity/onCreate:(Landroid/os/Bundle;)V:98e914  =>  com.lotte.b2b.MainActivity/onCreate:(Landroid/os/Bundle;)V:98e91c
+Entry: 98e65c
+com.lotte.b2b.MainActivity/onCreate:(Landroid/os/Bundle;)V: 98e914 -> 98e91c
+		com.lotte.b2b.MainActivity/onCreate:(Landroid/os/Bundle;)V: 2b8 -> 2c0
+addPatchReadme: java.lang.Class<com.lotte.b2b.MainActivity>onCreate(Landroid/os/Bundle;)V 2b8 t
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/obfuscated/devRoot_sample44@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Patch size: 1
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/obfuscated/sample44.apk@devRoot-D-R.apk.obfuscated_devRoot
+Wow!!!!!  --  com.lotte.b2b.MainActivity/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 2be
+branchTarget: 2c0
+label = sswitch_data_3
+GOTO -- 2be 	2c0
+axmlPath: /home/santapark/Extended3/DEEPerence/obfuscated/sample44.apk@devRoot-D-R.apk.obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/obfuscated/sample44.apk@devRoot-D-R.apk.obfuscated_devRoot/sample44.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/obfuscated/sample44.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample44.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: First address of Lcom/lotte/b2b/MainActivity;->onCreate(Landroid/os/Bundle;)V = 98e66c
+b29e6a69: Address - Lcom/lotte/b2b/MainActivity;->onCreate(Landroid/os/Bundle;)V@2b8	 lastOffset = 744
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/obfuscated/sample44.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample44.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/obfuscated/devRoot_sample44@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Running Application: com.lotte.b2b
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.lotte.b2b
+Tryging remove : uninstall com.lotte.b2b(com.lotte.b2b)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 26774
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 17
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+/home/santapark/Extended3/DEEPerence/obfuscated/sample44.apk@devRoot-D-R.apk.obfuscated.apk launch is failed on devRoot
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 98e690
+-- current localPatchFilter: 98e914
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.app.Dialog/show:()V:98a6ba		=(rels)=>		1
+[*] Unique action: 1:3064 : <<CALL>> : com.lotte.b2b.MainActivity/WVxXkehwlNGXmZmm:(Landroid/app/AlertDialog;)V:98a6ba  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:2854 : <<BRANCH>> : com.lotte.b2b.MainActivity/onCreate:(Landroid/os/Bundle;)V:98e942  =>  com.lotte.b2b.MainActivity/onCreate:(Landroid/os/Bundle;)V:98e924
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:98ab34		=(rels)=>		1
+[*] Unique action: 1:3033 : <<CALL>> : com.lotte.b2b.MainActivity/aOpNQfFKuKdpzbaP:(Landroid/widget/Button;Landroid/view/View$OnClickListener;)V:98ab34  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:2854 : <<BRANCH>> : com.lotte.b2b.MainActivity/onCreate:(Landroid/os/Bundle;)V:98e942  =>  com.lotte.b2b.MainActivity/onCreate:(Landroid/os/Bundle;)V:98e924
+android.app.AlertDialog$Builder/show:()Landroid/app/AlertDialog;:989a0c		=(rels)=>		1
+[*] Unique action: 1:2582 : <<CALL>> : com.lotte.b2b.MainActivity/NajiExBjGbOeRcSA:(Landroid/app/AlertDialog$Builder;)Landroid/app/AlertDialog;:989a0c  =>  android.app.AlertDialog$Builder/show:()Landroid/app/AlertDialog;:19e3bc
+	1:compareBackwardBranch: 1:2854 : <<BRANCH>> : com.lotte.b2b.MainActivity/onCreate:(Landroid/os/Bundle;)V:98e942  =>  com.lotte.b2b.MainActivity/onCreate:(Landroid/os/Bundle;)V:98e924
+Entry: 98e65c
+com.lotte.b2b.MainActivity/onCreate:(Landroid/os/Bundle;)V: 98e942 -> 98e924
+		com.lotte.b2b.MainActivity/onCreate:(Landroid/os/Bundle;)V: 2e6 -> 2c8
+addPatchReadme: java.lang.Class<com.lotte.b2b.MainActivity>onCreate(Landroid/os/Bundle;)V 2e6 t
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/obfuscated/devRoot_sample44@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Patch size: 1
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/obfuscated/sample44.apk@devRoot-D-R.apk.obfuscated_devRoot
+Wow!!!!!  --  com.lotte.b2b.MainActivity/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 2ec
+branchTarget: 2c8
+label = sswitch_data_4
+GOTO -- 2ec 	2c8
+axmlPath: /home/santapark/Extended3/DEEPerence/obfuscated/sample44.apk@devRoot-D-R.apk.obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/obfuscated/sample44.apk@devRoot-D-R.apk.obfuscated_devRoot/sample44.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/obfuscated/sample44.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample44.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: First address of Lcom/lotte/b2b/MainActivity;->onCreate(Landroid/os/Bundle;)V = 98e66c
+b29e6a69: Address - Lcom/lotte/b2b/MainActivity;->onCreate(Landroid/os/Bundle;)V@2e6	 lastOffset = 744
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/obfuscated/sample44.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample44.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/obfuscated/devRoot_sample44@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Running Application: com.lotte.b2b
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.lotte.b2b
+Tryging remove : uninstall com.lotte.b2b(com.lotte.b2b)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 21510
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 16
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+/home/santapark/Extended3/DEEPerence/obfuscated/sample44.apk@devRoot-D-R.apk.obfuscated.apk launch is failed on devRoot
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 98e690
+-- current localPatchFilter: 98e942
+-- current localPatchFilter: 98e914
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.app.Dialog/show:()V:98a6ba		=(rels)=>		1
+[*] Unique action: 1:3064 : <<CALL>> : com.lotte.b2b.MainActivity/WVxXkehwlNGXmZmm:(Landroid/app/AlertDialog;)V:98a6ba  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:2851 : <<BRANCH>> : com.lotte.b2b.MainActivity/onCreate:(Landroid/os/Bundle;)V:98e962  =>  com.lotte.b2b.MainActivity/onCreate:(Landroid/os/Bundle;)V:98e952
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:98ab34		=(rels)=>		1
+[*] Unique action: 1:3033 : <<CALL>> : com.lotte.b2b.MainActivity/aOpNQfFKuKdpzbaP:(Landroid/widget/Button;Landroid/view/View$OnClickListener;)V:98ab34  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:2851 : <<BRANCH>> : com.lotte.b2b.MainActivity/onCreate:(Landroid/os/Bundle;)V:98e962  =>  com.lotte.b2b.MainActivity/onCreate:(Landroid/os/Bundle;)V:98e952
+android.app.AlertDialog$Builder/show:()Landroid/app/AlertDialog;:989a0c		=(rels)=>		1
+[*] Unique action: 1:2582 : <<CALL>> : com.lotte.b2b.MainActivity/NajiExBjGbOeRcSA:(Landroid/app/AlertDialog$Builder;)Landroid/app/AlertDialog;:989a0c  =>  android.app.AlertDialog$Builder/show:()Landroid/app/AlertDialog;:19e3bc
+	1:compareBackwardBranch: 1:2851 : <<BRANCH>> : com.lotte.b2b.MainActivity/onCreate:(Landroid/os/Bundle;)V:98e962  =>  com.lotte.b2b.MainActivity/onCreate:(Landroid/os/Bundle;)V:98e952
+Entry: 98e65c
+com.lotte.b2b.MainActivity/onCreate:(Landroid/os/Bundle;)V: 98e962 -> 98e952
+		com.lotte.b2b.MainActivity/onCreate:(Landroid/os/Bundle;)V: 306 -> 2f6
+addPatchReadme: java.lang.Class<com.lotte.b2b.MainActivity>onCreate(Landroid/os/Bundle;)V 306 t
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/obfuscated/devRoot_sample44@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Patch size: 1
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/obfuscated/sample44.apk@devRoot-D-R.apk.obfuscated_devRoot
+Wow!!!!!  --  com.lotte.b2b.MainActivity/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 30a
+branchTarget: 2f6
+label = cond_1
+GOTO -- 30a 	2f6
+axmlPath: /home/santapark/Extended3/DEEPerence/obfuscated/sample44.apk@devRoot-D-R.apk.obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/obfuscated/sample44.apk@devRoot-D-R.apk.obfuscated_devRoot/sample44.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/obfuscated/sample44.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample44.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: First address of Lcom/lotte/b2b/MainActivity;->onCreate(Landroid/os/Bundle;)V = 98e66c
+b29e6a69: Address - Lcom/lotte/b2b/MainActivity;->onCreate(Landroid/os/Bundle;)V@306	 lastOffset = 744
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/obfuscated/sample44.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample44.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/obfuscated/devRoot_sample44@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Running Application: com.lotte.b2b
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.lotte.b2b/.MainActivity
+PIDs--------------------------------------------------------------------------
+u0_a3441       9562    428 14524380 182940 0                  0 S com.lotte.b2b
+PIDs--------------------------------------------------------------------------
+u0_a3441       9562    428 14524380 182940 0                  0 S com.lotte.b2b
+Stopping app: com.lotte.b2b
+Tryging remove : uninstall com.lotte.b2b(com.lotte.b2b)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 838469
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 15
+b29e6a69: isFailedToLaunch: com.lotte.b2b/.MainActivity
+b29e6a69: 	--result: Good :)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/obfuscated/devRef_sample44@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/obfuscated/devRoot_sample44@devRoot-D-R.obfuscated.ilog)
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 98e962
+Action is completely same :)
+Action is completely same :)
+b29e6a69: There is no difference. (tryAgain=false)
+-- HPFinder will be done in this iteration :)
+hasAntiAnalysis? - devTamper: false on com.lotte.b2b.MainActivity
+hasAntiAnalysis? - devRoot: true on com.lotte.b2b.MainActivity
+	isRemovedThem? - devRoot: true on com.lotte.b2b.MainActivity	-	tryCount: 4
+hasAntiAnalysis? - devDebug: false on com.lotte.b2b.MainActivity
+*****REPORT: com.lotte.b2b
+* Package name: com.lotte.b2b
+* Running time: 199
+* FileSize: 6639849
+devTamper : 908435
+devRef : 908213
+devRoot : 838469
+devDebug : 908435
+hasAntiAnalysis? - devTamper: false on com.lotte.b2b.MainActivity
+hasAntiAnalysis? - devRoot: true on com.lotte.b2b.MainActivity
+	isRemovedThem? - devRoot: true on com.lotte.b2b.MainActivity	-	tryCount: 4
+hasAntiAnalysis? - devDebug: false on com.lotte.b2b.MainActivity
+46604b9f: trying remove : com.lotte.b2b
+3601a6ff: trying remove : com.lotte.b2b
+b29e6a69: trying remove : com.lotte.b2b
+159ceeed: trying remove : com.lotte.b2b
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+3601a6ff: result = true
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+46604b9f: result = true
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+159ceeed: result = true
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+b29e6a69: result = true
+3601a6ff: isFailedToLaunch: com.lotte.b2b/.MainActivity
+3601a6ff: 	--result: Good :)

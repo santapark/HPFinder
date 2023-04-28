@@ -1,0 +1,428 @@
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample72.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH/AndroidManifest.xml
+launchable-activity: name='com.ubcswipe.pharmpay.inicis.MainActivity'  label='PAYPOP+' icon=''
+{ACTIVITY, com.ubcswipe.pharmpay.inicis.MainActivity, android.intent.action.MAIN}
+{ACTIVITY, com.ubcswipe.pharmpay.inicis.IntroActivity, android.intent.action.VIEW}
+{ACTIVITY, com.ubcswipe.pharmpay.inicis.payment.PaymentCardMain}
+{ACTIVITY, com.ubcswipe.pharmpay.inicis.payment.PaymentInputCardMain}
+{ACTIVITY, com.ubcswipe.pharmpay.inicis.payment.PaymentCardReadyActivity}
+{ACTIVITY, com.ubcswipe.pharmpay.inicis.payment.SwipeTimeOutActivity}
+{ACTIVITY, com.ubcswipe.pharmpay.inicis.payment.SwipeUnplugActivity}
+{ACTIVITY, com.ubcswipe.pharmpay.inicis.payment.ReceiptPrintActivity}
+{ACTIVITY, com.ubcswipe.pharmpay.inicis.payment.PaymentSignAcitvity}
+{ACTIVITY, com.ubcswipe.pharmpay.inicis.receipt.ReceiptMain}
+{ACTIVITY, com.ubcswipe.pharmpay.inicis.receipt.ReceiptMainMMS}
+{ACTIVITY, com.ubcswipe.pharmpay.inicis.setting.SettingSwipeManagerActivity}
+{ACTIVITY, com.ubcswipe.pharmpay.inicis.MainActivity, android.intent.action.MAIN}
+{ACTIVITY, com.ubcswipe.pharmpay.inicis.IntroActivity, android.intent.action.VIEW}
+{ACTIVITY, com.ubcswipe.pharmpay.inicis.payment.PaymentCardMain}
+{ACTIVITY, com.ubcswipe.pharmpay.inicis.payment.PaymentInputCardMain}
+{ACTIVITY, com.ubcswipe.pharmpay.inicis.payment.PaymentCardReadyActivity}
+{ACTIVITY, com.ubcswipe.pharmpay.inicis.payment.SwipeTimeOutActivity}
+{ACTIVITY, com.ubcswipe.pharmpay.inicis.payment.SwipeUnplugActivity}
+{ACTIVITY, com.ubcswipe.pharmpay.inicis.payment.ReceiptPrintActivity}
+{ACTIVITY, com.ubcswipe.pharmpay.inicis.payment.PaymentSignAcitvity}
+{ACTIVITY, com.ubcswipe.pharmpay.inicis.receipt.ReceiptMain}
+{ACTIVITY, com.ubcswipe.pharmpay.inicis.receipt.ReceiptMainMMS}
+{ACTIVITY, com.ubcswipe.pharmpay.inicis.setting.SettingSwipeManagerActivity}
+_getAllDexFiles: /home/santapark/Extended3/DEEPerence/reEx/sample72.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH/classes.dex
+----------------/home/santapark/Extended3/DEEPerence/reEx/sample72.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH.apk
+dexFile = org.jf.dexlib2.dexbacked.DexBackedDexFile@4e096385
+com.ubcswipe.pharmpay.inicis
+com.ubcswipe.pharmpay.inicis.MainActivity
+debuggable: true
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample72.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample72.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH.apk
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample72.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample72.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH/sample72.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH.apk
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample72.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH_46604b9f/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample72.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH_46604b9f/sample72.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH.apk
+3601a6ff: Installation Success
+b29e6a69: Installation Success
+159ceeed: Installing debuggable .apk file: 
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample72.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH/signed_sample72.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH.apk
+46604b9f: Installing repackaged apk File: 
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample72.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH_46604b9f/signed_sample72.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH.apk
+159ceeed: Installation Success
+46604b9f: Installation Success
+46604b9f: startApplication called! - devTamper
+3601a6ff: startApplication called! - devRef
+b29e6a69: startApplication called! - devRoot
+159ceeed: startApplication called! - devDebug
+46604b9f: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devTamper_sample72@devRoot-D-R.obfuscated@FAILED_LAUNCH.ilog)
+3601a6ff: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample72@devRoot-D-R.obfuscated@FAILED_LAUNCH.ilog)
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample72@devRoot-D-R.obfuscated@FAILED_LAUNCH.ilog)
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample72@devRoot-D-R.obfuscated@FAILED_LAUNCH.ilog)
+46604b9f: Running Application: com.ubcswipe.pharmpay.inicis
+b29e6a69: Running Application: com.ubcswipe.pharmpay.inicis
+3601a6ff: Running Application: com.ubcswipe.pharmpay.inicis
+PIDs--------------------------------------------------------------------------
+u0_a845       11097    429 1039548 115296 0                   0 S com.ubcswipe.pharmpay.inicis
+forward tcp:5005 jdwp:11097
+[*]Found JDWP Target: 11097
+159ceeed: Running Application: com.ubcswipe.pharmpay.inicis
+3601a6ff: Running is done - starting comparing... : 5001
+3601a6ff: Terminated logcat thread...by itself
+159ceeed: Running is done - starting comparing... : 5001
+159ceeed: Terminated logcat thread...by itself
+46604b9f: Running is done - starting comparing... : 5001
+46604b9f: Terminated logcat thread...by itself
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+3601a6ff: Top-activity: com.ubcswipe.pharmpay.inicis/.IntroActivity
+PIDs--------------------------------------------------------------------------
+u0_a213       32654    408 1040520 114252 0                   0 S com.ubcswipe.pharmpay.inicis
+46604b9f: Top-activity: com.ubcswipe.pharmpay.inicis/.IntroActivity
+PIDs--------------------------------------------------------------------------
+u0_a213       32654    408 1040520 114252 0                   0 S com.ubcswipe.pharmpay.inicis
+Stopping app: com.ubcswipe.pharmpay.inicis
+PIDs--------------------------------------------------------------------------
+u0_a903       17182    426 1040384 114192 0                   0 S com.ubcswipe.pharmpay.inicis
+PIDs--------------------------------------------------------------------------
+u0_a903       17182    426 1040384 114192 0                   0 S com.ubcswipe.pharmpay.inicis
+Stopping app: com.ubcswipe.pharmpay.inicis
+159ceeed: Top-activity: com.ubcswipe.pharmpay.inicis/.IntroActivity
+PIDs--------------------------------------------------------------------------
+u0_a845       11097    429 1040128 114920 0                   0 S com.ubcswipe.pharmpay.inicis
+PIDs--------------------------------------------------------------------------
+u0_a845       11097    429 1040128 114920 0                   0 S com.ubcswipe.pharmpay.inicis
+Stopping app: com.ubcswipe.pharmpay.inicis
+b29e6a69: Top-activity: com.ubcswipe.pharmpay.inicis/.MainActivity
+PIDs--------------------------------------------------------------------------
+u0_a3478      15098    432 1041204 113956 0                   0 S com.ubcswipe.pharmpay.inicis
+PIDs--------------------------------------------------------------------------
+u0_a3478      15098    432 1041204 113956 0                   0 S com.ubcswipe.pharmpay.inicis
+Stopping app: com.ubcswipe.pharmpay.inicis
+Tryging remove : uninstall com.ubcswipe.pharmpay.inicis(com.ubcswipe.pharmpay.inicis)
+3601a6ff: Remove Success
+3601a6ff: ilog file size: 1236678
+3601a6ff: End of collecting logcat...
+Tryging remove : uninstall com.ubcswipe.pharmpay.inicis(com.ubcswipe.pharmpay.inicis)
+46604b9f: Remove Success
+46604b9f: ilog file size: 1237144
+46604b9f: End of collecting logcat...
+Tryging remove : uninstall com.ubcswipe.pharmpay.inicis(com.ubcswipe.pharmpay.inicis)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 177914
+b29e6a69: End of collecting logcat...
+Tryging remove : uninstall com.ubcswipe.pharmpay.inicis(com.ubcswipe.pharmpay.inicis)
+159ceeed: Remove Success
+159ceeed: ilog file size: 1236678
+159ceeed: End of collecting logcat...
+HPFinder's try count remains: 19
+46604b9f: isFailedToLaunch: com.ubcswipe.pharmpay.inicis/.IntroActivity
+46604b9f: 	--result: Good :)
+b29e6a69: isFailedToLaunch: com.ubcswipe.pharmpay.inicis/.MainActivity
+b29e6a69: 	--result: Good :)
+159ceeed: isFailedToLaunch: com.ubcswipe.pharmpay.inicis/.IntroActivity
+159ceeed: 	--result: Good :)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample72@devRoot-D-R.obfuscated@FAILED_LAUNCH.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample72@devRoot-D-R.obfuscated@FAILED_LAUNCH.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample72@devRoot-D-R.obfuscated@FAILED_LAUNCH.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample72@devRoot-D-R.obfuscated@FAILED_LAUNCH.ilog)
+[*] FlowManager: adjust finished.
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:641294		=(rels)=>		1
+[*] Unique action: 1:4075 : <<CALL>> : com.apireflectionmanager.AdvancedApiReflection/obfuscate:(ILjava/lang/Object;[Ljava/lang/Object;)Ljava/lang/Object;:641294  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:851 : <<BRANCH>> : com.ubcswipe.pharmpay.inicis.MainActivity/onCreate:(Landroid/os/Bundle;)V:6fd668  =>  com.ubcswipe.pharmpay.inicis.MainActivity/onCreate:(Landroid/os/Bundle;)V:6fd7b0
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:6f48f6		=(rels)=>		1
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample72@devRoot-D-R.obfuscated@FAILED_LAUNCH.ilog)
+[*] Unique action: 1:4202 : <<CALL>> : com.ubcswipe.pharmpay.inicis.IntroActivity/URhTIwsXuXfluaMc:(Landroid/widget/Button;Landroid/view/View$OnClickListener;)V:6f48f6  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devTamper_sample72@devRoot-D-R.obfuscated@FAILED_LAUNCH.ilog)
+	1:compareBackwardBranch: 1:851 : <<BRANCH>> : com.ubcswipe.pharmpay.inicis.MainActivity/onCreate:(Landroid/os/Bundle;)V:6fd668  =>  com.ubcswipe.pharmpay.inicis.MainActivity/onCreate:(Landroid/os/Bundle;)V:6fd7b0
+android.app.Activity/startActivity:(Landroid/content/Intent;)V:6fd382		=(rels)=>		1
+[*] Unique action: 1:833 : <<CALL>> : com.ubcswipe.pharmpay.inicis.MainActivity/StznYNTlylsxiPAe:(Lcom/ubcswipe/pharmpay/inicis/MainActivity;Landroid/content/Intent;)V:6fd382  =>  android.app.Activity/startActivity:(Landroid/content/Intent;)V:19cda0
+[*] FlowManager: adjust finished.
+Action is completely same :)
+Action is completely same :)
+159ceeed: There is no difference. (tryAgain=false)
+[*] FlowManager: adjust finished.
+Action is completely same :)
+Action is completely same :)
+46604b9f: There is no difference. (tryAgain=false)
+	1:compareBackwardBranch: 1:822 : <<BRANCH>> : com.ubcswipe.pharmpay.inicis.MainActivity/onCreate:(Landroid/os/Bundle;)V:6fd668  =>  com.ubcswipe.pharmpay.inicis.MainActivity/onCreate:(Landroid/os/Bundle;)V:6fd794
+android.app.Dialog/show:()V:6f81c2		=(rels)=>		1
+[*] Unique action: 1:4216 : <<CALL>> : com.ubcswipe.pharmpay.inicis.IntroActivity/jNTOVxQfOMVhBhOh:(Landroid/app/Dialog;)V:6f81c2  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:851 : <<BRANCH>> : com.ubcswipe.pharmpay.inicis.MainActivity/onCreate:(Landroid/os/Bundle;)V:6fd668  =>  com.ubcswipe.pharmpay.inicis.MainActivity/onCreate:(Landroid/os/Bundle;)V:6fd7b0
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:6f2e00		=(rels)=>		1
+[*] Unique action: 1:4171 : <<CALL>> : com.ubcswipe.pharmpay.inicis.IntroActivity/GfcGtCcxbtOegKkY:(Landroid/widget/Button;Landroid/view/View$OnClickListener;)V:6f2e00  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:851 : <<BRANCH>> : com.ubcswipe.pharmpay.inicis.MainActivity/onCreate:(Landroid/os/Bundle;)V:6fd668  =>  com.ubcswipe.pharmpay.inicis.MainActivity/onCreate:(Landroid/os/Bundle;)V:6fd7b0
+android.app.Dialog/show:()V:7037aa		=(rels)=>		1
+[*] Unique action: 1:688 : <<CALL>> : com.ubcswipe.pharmpay.inicis.b.d/lFqhDPCoVFtIGPiB:(Landroid/app/AlertDialog;)V:7037aa  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:819 : <<BRANCH>> : com.ubcswipe.pharmpay.inicis.MainActivity/onCreate:(Landroid/os/Bundle;)V:6fd668  =>  com.ubcswipe.pharmpay.inicis.MainActivity/onCreate:(Landroid/os/Bundle;)V:6fd784
+Entry: 6fd644
+com.ubcswipe.pharmpay.inicis.MainActivity/onCreate:(Landroid/os/Bundle;)V: 6fd668 -> 6fd784
+		com.ubcswipe.pharmpay.inicis.MainActivity/onCreate:(Landroid/os/Bundle;)V: 24 -> 140
+addPatchReadme: java.lang.Class<com.ubcswipe.pharmpay.inicis.MainActivity>onCreate(Landroid/os/Bundle;)V 24 t
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample72@devRoot-D-R.obfuscated@FAILED_LAUNCH.ilog)
+b29e6a69: Patch size: 1
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample72.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH_devRoot
+Wow!!!!!  --  com.ubcswipe.pharmpay.inicis.MainActivity/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 2a
+branchTarget: 140
+label = sswitch_data_0
+GOTO -- 2a 	140
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample72.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample72.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH_devRoot/sample72.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample72.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH_devRoot/signed_sample72.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH.apk
+b29e6a69: First address of Lcom/ubcswipe/pharmpay/inicis/MainActivity;->onCreate(Landroid/os/Bundle;)V = 6fd654
+b29e6a69: Address - Lcom/ubcswipe/pharmpay/inicis/MainActivity;->onCreate(Landroid/os/Bundle;)V@24	 lastOffset = 220
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample72.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH_devRoot/signed_sample72.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample72@devRoot-D-R.obfuscated@FAILED_LAUNCH.ilog)
+b29e6a69: Running Application: com.ubcswipe.pharmpay.inicis
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.ubcswipe.pharmpay.inicis
+Tryging remove : uninstall com.ubcswipe.pharmpay.inicis(com.ubcswipe.pharmpay.inicis)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 17736
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 18
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+/home/santapark/Extended3/DEEPerence/reEx/sample72.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH.apk launch is failed on devRoot
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 6fd668
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:641294		=(rels)=>		1
+[*] Unique action: 1:4075 : <<CALL>> : com.apireflectionmanager.AdvancedApiReflection/obfuscate:(ILjava/lang/Object;[Ljava/lang/Object;)Ljava/lang/Object;:641294  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:816 : <<BRANCH>> : com.ubcswipe.pharmpay.inicis.MainActivity/onCreate:(Landroid/os/Bundle;)V:6fd6ec  =>  com.ubcswipe.pharmpay.inicis.MainActivity/onCreate:(Landroid/os/Bundle;)V:6fd7be
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:6f48f6		=(rels)=>		1
+[*] Unique action: 1:4202 : <<CALL>> : com.ubcswipe.pharmpay.inicis.IntroActivity/URhTIwsXuXfluaMc:(Landroid/widget/Button;Landroid/view/View$OnClickListener;)V:6f48f6  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:816 : <<BRANCH>> : com.ubcswipe.pharmpay.inicis.MainActivity/onCreate:(Landroid/os/Bundle;)V:6fd6ec  =>  com.ubcswipe.pharmpay.inicis.MainActivity/onCreate:(Landroid/os/Bundle;)V:6fd7be
+android.app.Activity/startActivity:(Landroid/content/Intent;)V:6fd382		=(rels)=>		1
+[*] Unique action: 1:833 : <<CALL>> : com.ubcswipe.pharmpay.inicis.MainActivity/StznYNTlylsxiPAe:(Lcom/ubcswipe/pharmpay/inicis/MainActivity;Landroid/content/Intent;)V:6fd382  =>  android.app.Activity/startActivity:(Landroid/content/Intent;)V:19cda0
+	1:compareBackwardBranch: 1:816 : <<BRANCH>> : com.ubcswipe.pharmpay.inicis.MainActivity/onCreate:(Landroid/os/Bundle;)V:6fd6ec  =>  com.ubcswipe.pharmpay.inicis.MainActivity/onCreate:(Landroid/os/Bundle;)V:6fd7be
+android.app.Dialog/show:()V:6f81c2		=(rels)=>		1
+[*] Unique action: 1:4216 : <<CALL>> : com.ubcswipe.pharmpay.inicis.IntroActivity/jNTOVxQfOMVhBhOh:(Landroid/app/Dialog;)V:6f81c2  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:816 : <<BRANCH>> : com.ubcswipe.pharmpay.inicis.MainActivity/onCreate:(Landroid/os/Bundle;)V:6fd6ec  =>  com.ubcswipe.pharmpay.inicis.MainActivity/onCreate:(Landroid/os/Bundle;)V:6fd7be
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:6f2e00		=(rels)=>		1
+[*] Unique action: 1:4171 : <<CALL>> : com.ubcswipe.pharmpay.inicis.IntroActivity/GfcGtCcxbtOegKkY:(Landroid/widget/Button;Landroid/view/View$OnClickListener;)V:6f2e00  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:816 : <<BRANCH>> : com.ubcswipe.pharmpay.inicis.MainActivity/onCreate:(Landroid/os/Bundle;)V:6fd6ec  =>  com.ubcswipe.pharmpay.inicis.MainActivity/onCreate:(Landroid/os/Bundle;)V:6fd7be
+android.app.Dialog/show:()V:7037aa		=(rels)=>		1
+[*] Unique action: 1:688 : <<CALL>> : com.ubcswipe.pharmpay.inicis.b.d/lFqhDPCoVFtIGPiB:(Landroid/app/AlertDialog;)V:7037aa  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:816 : <<BRANCH>> : com.ubcswipe.pharmpay.inicis.MainActivity/onCreate:(Landroid/os/Bundle;)V:6fd6ec  =>  com.ubcswipe.pharmpay.inicis.MainActivity/onCreate:(Landroid/os/Bundle;)V:6fd7be
+Entry: 6fd644
+com.ubcswipe.pharmpay.inicis.MainActivity/onCreate:(Landroid/os/Bundle;)V: 6fd6ec -> 6fd7be
+		com.ubcswipe.pharmpay.inicis.MainActivity/onCreate:(Landroid/os/Bundle;)V: a8 -> 17a
+addPatchReadme: java.lang.Class<com.ubcswipe.pharmpay.inicis.MainActivity>onCreate(Landroid/os/Bundle;)V a8 t
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample72@devRoot-D-R.obfuscated@FAILED_LAUNCH.ilog)
+b29e6a69: Patch size: 1
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample72.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH_devRoot
+Wow!!!!!  --  com.ubcswipe.pharmpay.inicis.MainActivity/onCreate:(Landroid/os/Bundle;)V
+fallthrough: ae
+branchTarget: 17a
+label = sswitch_data_1
+GOTO -- ae 	17a
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample72.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample72.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH_devRoot/sample72.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample72.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH_devRoot/signed_sample72.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH.apk
+b29e6a69: First address of Lcom/ubcswipe/pharmpay/inicis/MainActivity;->onCreate(Landroid/os/Bundle;)V = 6fd654
+b29e6a69: Address - Lcom/ubcswipe/pharmpay/inicis/MainActivity;->onCreate(Landroid/os/Bundle;)V@a8	 lastOffset = 220
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample72.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH_devRoot/signed_sample72.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample72@devRoot-D-R.obfuscated@FAILED_LAUNCH.ilog)
+b29e6a69: Running Application: com.ubcswipe.pharmpay.inicis
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.ubcswipe.pharmpay.inicis
+Tryging remove : uninstall com.ubcswipe.pharmpay.inicis(com.ubcswipe.pharmpay.inicis)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 17523
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 17
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+/home/santapark/Extended3/DEEPerence/reEx/sample72.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH.apk launch is failed on devRoot
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 6fd6ec
+-- current localPatchFilter: 6fd668
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:641294		=(rels)=>		1
+[*] Unique action: 1:4075 : <<CALL>> : com.apireflectionmanager.AdvancedApiReflection/obfuscate:(ILjava/lang/Object;[Ljava/lang/Object;)Ljava/lang/Object;:641294  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:813 : <<BRANCH>> : com.ubcswipe.pharmpay.inicis.MainActivity/onCreate:(Landroid/os/Bundle;)V:6fd716  =>  com.ubcswipe.pharmpay.inicis.MainActivity/onCreate:(Landroid/os/Bundle;)V:6fd6fa
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:6f48f6		=(rels)=>		1
+[*] Unique action: 1:4202 : <<CALL>> : com.ubcswipe.pharmpay.inicis.IntroActivity/URhTIwsXuXfluaMc:(Landroid/widget/Button;Landroid/view/View$OnClickListener;)V:6f48f6  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:813 : <<BRANCH>> : com.ubcswipe.pharmpay.inicis.MainActivity/onCreate:(Landroid/os/Bundle;)V:6fd716  =>  com.ubcswipe.pharmpay.inicis.MainActivity/onCreate:(Landroid/os/Bundle;)V:6fd6fa
+android.app.Activity/startActivity:(Landroid/content/Intent;)V:6fd382		=(rels)=>		1
+[*] Unique action: 1:833 : <<CALL>> : com.ubcswipe.pharmpay.inicis.MainActivity/StznYNTlylsxiPAe:(Lcom/ubcswipe/pharmpay/inicis/MainActivity;Landroid/content/Intent;)V:6fd382  =>  android.app.Activity/startActivity:(Landroid/content/Intent;)V:19cda0
+	1:compareBackwardBranch: 1:813 : <<BRANCH>> : com.ubcswipe.pharmpay.inicis.MainActivity/onCreate:(Landroid/os/Bundle;)V:6fd716  =>  com.ubcswipe.pharmpay.inicis.MainActivity/onCreate:(Landroid/os/Bundle;)V:6fd6fa
+android.app.Dialog/show:()V:6f81c2		=(rels)=>		1
+[*] Unique action: 1:4216 : <<CALL>> : com.ubcswipe.pharmpay.inicis.IntroActivity/jNTOVxQfOMVhBhOh:(Landroid/app/Dialog;)V:6f81c2  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:813 : <<BRANCH>> : com.ubcswipe.pharmpay.inicis.MainActivity/onCreate:(Landroid/os/Bundle;)V:6fd716  =>  com.ubcswipe.pharmpay.inicis.MainActivity/onCreate:(Landroid/os/Bundle;)V:6fd6fa
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:6f2e00		=(rels)=>		1
+[*] Unique action: 1:4171 : <<CALL>> : com.ubcswipe.pharmpay.inicis.IntroActivity/GfcGtCcxbtOegKkY:(Landroid/widget/Button;Landroid/view/View$OnClickListener;)V:6f2e00  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:813 : <<BRANCH>> : com.ubcswipe.pharmpay.inicis.MainActivity/onCreate:(Landroid/os/Bundle;)V:6fd716  =>  com.ubcswipe.pharmpay.inicis.MainActivity/onCreate:(Landroid/os/Bundle;)V:6fd6fa
+android.app.Dialog/show:()V:7037aa		=(rels)=>		1
+[*] Unique action: 1:688 : <<CALL>> : com.ubcswipe.pharmpay.inicis.b.d/lFqhDPCoVFtIGPiB:(Landroid/app/AlertDialog;)V:7037aa  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:813 : <<BRANCH>> : com.ubcswipe.pharmpay.inicis.MainActivity/onCreate:(Landroid/os/Bundle;)V:6fd716  =>  com.ubcswipe.pharmpay.inicis.MainActivity/onCreate:(Landroid/os/Bundle;)V:6fd6fa
+Entry: 6fd644
+com.ubcswipe.pharmpay.inicis.MainActivity/onCreate:(Landroid/os/Bundle;)V: 6fd716 -> 6fd6fa
+		com.ubcswipe.pharmpay.inicis.MainActivity/onCreate:(Landroid/os/Bundle;)V: d2 -> b6
+addPatchReadme: java.lang.Class<com.ubcswipe.pharmpay.inicis.MainActivity>onCreate(Landroid/os/Bundle;)V d2 t
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample72@devRoot-D-R.obfuscated@FAILED_LAUNCH.ilog)
+b29e6a69: Patch size: 1
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample72.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH_devRoot
+Wow!!!!!  --  com.ubcswipe.pharmpay.inicis.MainActivity/onCreate:(Landroid/os/Bundle;)V
+fallthrough: d8
+branchTarget: b6
+label = sswitch_data_2
+GOTO -- d8 	b6
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample72.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample72.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH_devRoot/sample72.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample72.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH_devRoot/signed_sample72.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH.apk
+b29e6a69: First address of Lcom/ubcswipe/pharmpay/inicis/MainActivity;->onCreate(Landroid/os/Bundle;)V = 6fd654
+b29e6a69: Address - Lcom/ubcswipe/pharmpay/inicis/MainActivity;->onCreate(Landroid/os/Bundle;)V@d2	 lastOffset = 220
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample72.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH_devRoot/signed_sample72.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample72@devRoot-D-R.obfuscated@FAILED_LAUNCH.ilog)
+b29e6a69: Running Application: com.ubcswipe.pharmpay.inicis
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.ubcswipe.pharmpay.inicis
+Tryging remove : uninstall com.ubcswipe.pharmpay.inicis(com.ubcswipe.pharmpay.inicis)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 17736
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 16
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+/home/santapark/Extended3/DEEPerence/reEx/sample72.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH.apk launch is failed on devRoot
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 6fd6ec
+-- current localPatchFilter: 6fd668
+-- current localPatchFilter: 6fd716
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:641294		=(rels)=>		1
+[*] Unique action: 1:4075 : <<CALL>> : com.apireflectionmanager.AdvancedApiReflection/obfuscate:(ILjava/lang/Object;[Ljava/lang/Object;)Ljava/lang/Object;:641294  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:810 : <<BRANCH>> : com.ubcswipe.pharmpay.inicis.MainActivity/onCreate:(Landroid/os/Bundle;)V:6fd72a  =>  com.ubcswipe.pharmpay.inicis.MainActivity/onCreate:(Landroid/os/Bundle;)V:6fd734
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:6f48f6		=(rels)=>		1
+[*] Unique action: 1:4202 : <<CALL>> : com.ubcswipe.pharmpay.inicis.IntroActivity/URhTIwsXuXfluaMc:(Landroid/widget/Button;Landroid/view/View$OnClickListener;)V:6f48f6  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:810 : <<BRANCH>> : com.ubcswipe.pharmpay.inicis.MainActivity/onCreate:(Landroid/os/Bundle;)V:6fd72a  =>  com.ubcswipe.pharmpay.inicis.MainActivity/onCreate:(Landroid/os/Bundle;)V:6fd734
+android.app.Activity/startActivity:(Landroid/content/Intent;)V:6fd382		=(rels)=>		1
+[*] Unique action: 1:833 : <<CALL>> : com.ubcswipe.pharmpay.inicis.MainActivity/StznYNTlylsxiPAe:(Lcom/ubcswipe/pharmpay/inicis/MainActivity;Landroid/content/Intent;)V:6fd382  =>  android.app.Activity/startActivity:(Landroid/content/Intent;)V:19cda0
+	1:compareBackwardBranch: 1:810 : <<BRANCH>> : com.ubcswipe.pharmpay.inicis.MainActivity/onCreate:(Landroid/os/Bundle;)V:6fd72a  =>  com.ubcswipe.pharmpay.inicis.MainActivity/onCreate:(Landroid/os/Bundle;)V:6fd734
+android.app.Dialog/show:()V:6f81c2		=(rels)=>		1
+[*] Unique action: 1:4216 : <<CALL>> : com.ubcswipe.pharmpay.inicis.IntroActivity/jNTOVxQfOMVhBhOh:(Landroid/app/Dialog;)V:6f81c2  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:810 : <<BRANCH>> : com.ubcswipe.pharmpay.inicis.MainActivity/onCreate:(Landroid/os/Bundle;)V:6fd72a  =>  com.ubcswipe.pharmpay.inicis.MainActivity/onCreate:(Landroid/os/Bundle;)V:6fd734
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:6f2e00		=(rels)=>		1
+[*] Unique action: 1:4171 : <<CALL>> : com.ubcswipe.pharmpay.inicis.IntroActivity/GfcGtCcxbtOegKkY:(Landroid/widget/Button;Landroid/view/View$OnClickListener;)V:6f2e00  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:810 : <<BRANCH>> : com.ubcswipe.pharmpay.inicis.MainActivity/onCreate:(Landroid/os/Bundle;)V:6fd72a  =>  com.ubcswipe.pharmpay.inicis.MainActivity/onCreate:(Landroid/os/Bundle;)V:6fd734
+android.app.Dialog/show:()V:7037aa		=(rels)=>		1
+[*] Unique action: 1:688 : <<CALL>> : com.ubcswipe.pharmpay.inicis.b.d/lFqhDPCoVFtIGPiB:(Landroid/app/AlertDialog;)V:7037aa  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:810 : <<BRANCH>> : com.ubcswipe.pharmpay.inicis.MainActivity/onCreate:(Landroid/os/Bundle;)V:6fd72a  =>  com.ubcswipe.pharmpay.inicis.MainActivity/onCreate:(Landroid/os/Bundle;)V:6fd734
+Entry: 6fd644
+com.ubcswipe.pharmpay.inicis.MainActivity/onCreate:(Landroid/os/Bundle;)V: 6fd72a -> 6fd734
+		com.ubcswipe.pharmpay.inicis.MainActivity/onCreate:(Landroid/os/Bundle;)V: e6 -> f0
+addPatchReadme: java.lang.Class<com.ubcswipe.pharmpay.inicis.MainActivity>onCreate(Landroid/os/Bundle;)V e6 t
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample72@devRoot-D-R.obfuscated@FAILED_LAUNCH.ilog)
+b29e6a69: Patch size: 1
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample72.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH_devRoot
+Wow!!!!!  --  com.ubcswipe.pharmpay.inicis.MainActivity/onCreate:(Landroid/os/Bundle;)V
+fallthrough: ea
+branchTarget: f0
+label = cond_0
+GOTO -- ea 	f0
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample72.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample72.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH_devRoot/sample72.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample72.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH_devRoot/signed_sample72.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH.apk
+b29e6a69: First address of Lcom/ubcswipe/pharmpay/inicis/MainActivity;->onCreate(Landroid/os/Bundle;)V = 6fd654
+b29e6a69: Address - Lcom/ubcswipe/pharmpay/inicis/MainActivity;->onCreate(Landroid/os/Bundle;)V@e6	 lastOffset = 220
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample72.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH_devRoot/signed_sample72.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample72@devRoot-D-R.obfuscated@FAILED_LAUNCH.ilog)
+b29e6a69: Running Application: com.ubcswipe.pharmpay.inicis
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.ubcswipe.pharmpay.inicis/.IntroActivity
+PIDs--------------------------------------------------------------------------
+u0_a3482      15554    432 1041524 114896 0                   0 S com.ubcswipe.pharmpay.inicis
+PIDs--------------------------------------------------------------------------
+u0_a3482      15554    432 1041524 114896 0                   0 S com.ubcswipe.pharmpay.inicis
+Stopping app: com.ubcswipe.pharmpay.inicis
+Tryging remove : uninstall com.ubcswipe.pharmpay.inicis(com.ubcswipe.pharmpay.inicis)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 1174533
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 15
+b29e6a69: isFailedToLaunch: com.ubcswipe.pharmpay.inicis/.IntroActivity
+b29e6a69: 	--result: Good :)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample72@devRoot-D-R.obfuscated@FAILED_LAUNCH.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample72@devRoot-D-R.obfuscated@FAILED_LAUNCH.ilog)
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 6fd72a
+Action is completely same :)
+Action is completely same :)
+b29e6a69: There is no difference. (tryAgain=false)
+-- HPFinder will be done in this iteration :)
+hasAntiAnalysis? - devTamper: false on com.ubcswipe.pharmpay.inicis.MainActivity
+hasAntiAnalysis? - devRoot: true on com.ubcswipe.pharmpay.inicis.MainActivity
+	isRemovedThem? - devRoot: true on com.ubcswipe.pharmpay.inicis.MainActivity	-	tryCount: 4
+hasAntiAnalysis? - devDebug: false on com.ubcswipe.pharmpay.inicis.MainActivity
+*****REPORT: com.ubcswipe.pharmpay.inicis
+* Package name: com.ubcswipe.pharmpay.inicis
+* Running time: 195
+* FileSize: 4431736
+devTamper : 1237144
+devRef : 1236678
+devRoot : 1174533
+devDebug : 1236678
+hasAntiAnalysis? - devTamper: false on com.ubcswipe.pharmpay.inicis.MainActivity
+hasAntiAnalysis? - devRoot: true on com.ubcswipe.pharmpay.inicis.MainActivity
+	isRemovedThem? - devRoot: true on com.ubcswipe.pharmpay.inicis.MainActivity	-	tryCount: 4
+hasAntiAnalysis? - devDebug: false on com.ubcswipe.pharmpay.inicis.MainActivity
+46604b9f: trying remove : com.ubcswipe.pharmpay.inicis
+3601a6ff: trying remove : com.ubcswipe.pharmpay.inicis
+b29e6a69: trying remove : com.ubcswipe.pharmpay.inicis
+159ceeed: trying remove : com.ubcswipe.pharmpay.inicis
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+3601a6ff: result = true
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+159ceeed: result = true
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+b29e6a69: result = true
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+46604b9f: result = true
+3601a6ff: isFailedToLaunch: com.ubcswipe.pharmpay.inicis/.IntroActivity
+3601a6ff: 	--result: Good :)

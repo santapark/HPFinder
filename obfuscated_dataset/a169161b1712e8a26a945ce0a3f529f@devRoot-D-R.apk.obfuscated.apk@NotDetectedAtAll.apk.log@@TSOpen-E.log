@@ -1,0 +1,167 @@
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/4fb6bcac98872b0ee94d3ca258069b6b02cafcb0980c5a44482a950b2ab62b45.apk@devRoot-D-R.apk.obfuscated/AndroidManifest.xml
+launchable-activity: name='com.z4mod.z4root.z4root'  label='z4root' icon=''
+{ACTIVITY, z4root, android.intent.action.MAIN}
+{ACTIVITY, Phase1}
+{ACTIVITY, Phase2}
+{ACTIVITY, PhaseRemove}
+{ACTIVITY, com.admob.android.ads.AdMobActivity}
+{ACTIVITY, z4root, android.intent.action.MAIN}
+{ACTIVITY, Phase1}
+{ACTIVITY, Phase2}
+{ACTIVITY, PhaseRemove}
+{ACTIVITY, com.admob.android.ads.AdMobActivity}
+_getAllDexFiles: /home/santapark/Extended3/DEEPerence/reEx/4fb6bcac98872b0ee94d3ca258069b6b02cafcb0980c5a44482a950b2ab62b45.apk@devRoot-D-R.apk.obfuscated/classes.dex
+----------------/home/santapark/Extended3/DEEPerence/reEx/4fb6bcac98872b0ee94d3ca258069b6b02cafcb0980c5a44482a950b2ab62b45.apk@devRoot-D-R.apk.obfuscated.apk
+dexFile = org.jf.dexlib2.dexbacked.DexBackedDexFile@887af79
+com.z4mod.z4root
+com.z4mod.z4root.z4root
+debuggable: false
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/4fb6bcac98872b0ee94d3ca258069b6b02cafcb0980c5a44482a950b2ab62b45.apk@devRoot-D-R.apk.obfuscated.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/4fb6bcac98872b0ee94d3ca258069b6b02cafcb0980c5a44482a950b2ab62b45.apk@devRoot-D-R.apk.obfuscated.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/4fb6bcac98872b0ee94d3ca258069b6b02cafcb0980c5a44482a950b2ab62b45.apk@devRoot-D-R.apk.obfuscated.apk
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/4fb6bcac98872b0ee94d3ca258069b6b02cafcb0980c5a44482a950b2ab62b45.apk@devRoot-D-R.apk.obfuscated_46604b9f/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/4fb6bcac98872b0ee94d3ca258069b6b02cafcb0980c5a44482a950b2ab62b45.apk@devRoot-D-R.apk.obfuscated_46604b9f/4fb6bcac98872b0ee94d3ca258069b6b02cafcb0980c5a44482a950b2ab62b45.apk@devRoot-D-R.apk.obfuscated.apk
+46604b9f: Installing repackaged apk File: 
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/4fb6bcac98872b0ee94d3ca258069b6b02cafcb0980c5a44482a950b2ab62b45.apk@devRoot-D-R.apk.obfuscated_46604b9f/signed_4fb6bcac98872b0ee94d3ca258069b6b02cafcb0980c5a44482a950b2ab62b45.apk@devRoot-D-R.apk.obfuscated.apk
+159ceeed: Installation Success
+3601a6ff: Installation Success
+b29e6a69: Installation Success
+46604b9f: Installation Success
+46604b9f: startApplication called! - devTamper
+3601a6ff: startApplication called! - devRef
+b29e6a69: startApplication called! - devRoot
+159ceeed: startApplication called! - devDebug
+3601a6ff: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRef_4fb6bcac98872b0ee94d3ca258069b6b02cafcb0980c5a44482a950b2ab62b45@devRoot-D-R.obfuscated.ilog)
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_4fb6bcac98872b0ee94d3ca258069b6b02cafcb0980c5a44482a950b2ab62b45@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_4fb6bcac98872b0ee94d3ca258069b6b02cafcb0980c5a44482a950b2ab62b45@devRoot-D-R.obfuscated.ilog)
+46604b9f: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devTamper_4fb6bcac98872b0ee94d3ca258069b6b02cafcb0980c5a44482a950b2ab62b45@devRoot-D-R.obfuscated.ilog)
+3601a6ff: Running Application: com.z4mod.z4root
+b29e6a69: Running Application: com.z4mod.z4root
+46604b9f: Running Application: com.z4mod.z4root
+PIDs--------------------------------------------------------------------------
+u0_a842        4079    424 1037180 104696 0                   0 S com.z4mod.z4root:three
+forward tcp:35535 jdwp:4079
+[*]Found JDWP Target: 4079
+159ceeed: Running Application: com.z4mod.z4root
+3601a6ff: Running is done - starting comparing... : 10001
+3601a6ff: Terminated logcat thread...by itself
+159ceeed: Running is done - starting comparing... : 10001
+159ceeed: Terminated logcat thread...by itself
+b29e6a69: Running is done - starting comparing... : 10001
+b29e6a69: Terminated logcat thread...by itself
+46604b9f: Running is done - starting comparing... : 10001
+46604b9f: Terminated logcat thread...by itself
+46604b9f: Top-activity: com.z4mod.z4root/.z4root
+3601a6ff: Top-activity: com.z4mod.z4root/.z4root
+PIDs--------------------------------------------------------------------------
+u0_a376        1461    426 1035172 101308 0                   0 S com.z4mod.z4root:three
+46604b9f: savedPid = 1461
+159ceeed: Top-activity: com.z4mod.z4root/.z4root
+PIDs--------------------------------------------------------------------------
+u0_a421        2654    415 1034884 100404 0                   0 S com.z4mod.z4root:three
+3601a6ff: savedPid = 2654
+PIDs--------------------------------------------------------------------------
+u0_a376        1461    426 1035172 101308 0                   0 S com.z4mod.z4root:three
+46604b9f: savedPid2 = 1461
+Stopping app: com.z4mod.z4root
+PIDs--------------------------------------------------------------------------
+u0_a842        4079    424 1037200 103612 0                   0 S com.z4mod.z4root:three
+159ceeed: savedPid = 4079
+PIDs--------------------------------------------------------------------------
+u0_a421        2654    415 1034884 100404 0                   0 S com.z4mod.z4root:three
+3601a6ff: savedPid2 = 2654
+Stopping app: com.z4mod.z4root
+PIDs--------------------------------------------------------------------------
+u0_a842        4079    424 1037200 103612 0                   0 S com.z4mod.z4root:three
+159ceeed: savedPid2 = 4079
+Stopping app: com.z4mod.z4root
+b29e6a69: Top-activity: com.z4mod.z4root/.z4root
+PIDs--------------------------------------------------------------------------
+u0_a513         844    431 1038176 101612 0                   0 S com.z4mod.z4root:three
+b29e6a69: savedPid = 844
+PIDs--------------------------------------------------------------------------
+u0_a513         844    431 1038176 101612 0                   0 S com.z4mod.z4root:three
+b29e6a69: savedPid2 = 844
+Stopping app: com.z4mod.z4root
+Tryging remove : uninstall com.z4mod.z4root(com.z4mod.z4root)
+3601a6ff: Remove Success
+3601a6ff: ilog file size: 2515492
+3601a6ff: End of collecting logcat...
+Tryging remove : uninstall com.z4mod.z4root(com.z4mod.z4root)
+159ceeed: Remove Success
+159ceeed: ilog file size: 2515233
+159ceeed: End of collecting logcat...
+Tryging remove : uninstall com.z4mod.z4root(com.z4mod.z4root)
+46604b9f: Remove Success
+46604b9f: ilog file size: 2515233
+46604b9f: End of collecting logcat...
+Tryging remove : uninstall com.z4mod.z4root(com.z4mod.z4root)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 2535050
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 29
+Target PID : 2654
+Target PID : 2654
+Target PID : 2654
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_4fb6bcac98872b0ee94d3ca258069b6b02cafcb0980c5a44482a950b2ab62b45@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_4fb6bcac98872b0ee94d3ca258069b6b02cafcb0980c5a44482a950b2ab62b45@devRoot-D-R.obfuscated.ilog)
+Target PID : 4079
+Target PID : 1461
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_4fb6bcac98872b0ee94d3ca258069b6b02cafcb0980c5a44482a950b2ab62b45@devRoot-D-R.obfuscated.ilog)
+Target PID : 844
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devTamper_4fb6bcac98872b0ee94d3ca258069b6b02cafcb0980c5a44482a950b2ab62b45@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_4fb6bcac98872b0ee94d3ca258069b6b02cafcb0980c5a44482a950b2ab62b45@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_4fb6bcac98872b0ee94d3ca258069b6b02cafcb0980c5a44482a950b2ab62b45@devRoot-D-R.obfuscated.ilog)
+[*] FlowManager: adjust finished.
+Action is completely same :)
+Action is completely same :)
+46604b9f: There is no difference. (tryAgain=false)
+[*] FlowManager: adjust finished.
+[*] FlowManager: adjust finished.
+Action is completely same :)
+Action is completely same :)
+159ceeed: There is no difference. (tryAgain=false)
+Action is completely same :)
+Action is completely same :)
+b29e6a69: There is no difference. (tryAgain=false)
+-- HPFinder will be done in this iteration :)
+hasAntiAnalysis? - devTamper: false on com.z4mod.z4root.z4root
+hasAntiAnalysis? - devRoot: false on com.z4mod.z4root.z4root
+hasAntiAnalysis? - devDebug: false on com.z4mod.z4root.z4root
+*****REPORT: com.z4mod.z4root
+* Package name: com.z4mod.z4root
+* Running time: 29
+* FileSize: 1127302
+devTamper : 2515233
+devRef : 2515492
+devRoot : 2535050
+devDebug : 2515233
+hasAntiAnalysis? - devTamper: false on com.z4mod.z4root.z4root
+hasAntiAnalysis? - devRoot: false on com.z4mod.z4root.z4root
+hasAntiAnalysis? - devDebug: false on com.z4mod.z4root.z4root
+46604b9f: trying remove : com.z4mod.z4root
+3601a6ff: trying remove : com.z4mod.z4root
+b29e6a69: trying remove : com.z4mod.z4root
+159ceeed: trying remove : com.z4mod.z4root
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+159ceeed: result = true
+b29e6a69: (Not Installed) Trying remove : true
+46604b9f: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+46604b9f: -- Success
+b29e6a69: result = true
+46604b9f: result = true
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+3601a6ff: result = true
+3601a6ff: isFailedToLaunch: com.z4mod.z4root/.z4root
+3601a6ff: 	--result: Good :)

@@ -1,0 +1,401 @@
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated/AndroidManifest.xml
+launchable-activity: name='com.lcode.ucopay.SplashActivity'  label='UCOPAY+' icon=''
+{ACTIVITY, com.lcode.ucopay.SplashActivity, android.intent.action.MAIN}
+{ACTIVITY, com.lcode.ucopay.imagecrop.ProfilePicCapture}
+{ACTIVITY, com.lcode.ucopay.WalletMobile}
+{ACTIVITY, com.lcode.ucopay.WalletOtp}
+{ACTIVITY, com.lcode.ucopay.WalletOtpForgot}
+{ACTIVITY, com.lcode.ucopay.WalletSetPin}
+{ACTIVITY, com.lcode.ucopay.WalletChangePin}
+{ACTIVITY, com.lcode.ucopay.WalletRegister}
+{ACTIVITY, com.lcode.ucopay.WalletOtpMpin}
+{ACTIVITY, com.lcode.ucopay.WalletDebitcardRequest}
+{ACTIVITY, com.lcode.ucopay.WalletHomePage}
+{ACTIVITY, com.lcode.ucopay.WalletAddMoneyInet}
+{ACTIVITY, com.lcode.ucopay.BillDeskService}
+{ACTIVITY, com.lcode.ucopay.billdesk.BillpayRecharge}
+{ACTIVITY, com.lcode.ucopay.billdesk.BillpayRechargeConfirm}
+{ACTIVITY, com.lcode.ucopay.billdesk.BillpayManager}
+{ACTIVITY, com.lcode.ucopay.billdesk.BillpayAdd}
+{ACTIVITY, com.lcode.ucopay.billdesk.BillpayDetails}
+{ACTIVITY, com.lcode.ucopay.billdesk.BillPaytrf}
+{ACTIVITY, com.lcode.ucopay.billdesk.BillPaytrfConfirm}
+{ACTIVITY, com.lcode.ucopay.billdesk.BillpayViewBills}
+{ACTIVITY, com.lcode.ucopay.billdesk.BillPayQuciktrf}
+{ACTIVITY, com.lcode.ucopay.billdesk.BillPayQuciktrfConfirm}
+{ACTIVITY, com.lcode.ucopay.WalletGetMoney}
+{ACTIVITY, com.lcode.ucopay.Wallet2Wallet}
+{ACTIVITY, com.lcode.ucopay.Wallet2UCOBank}
+{ACTIVITY, com.lcode.ucopay.Wallet2OtherBank}
+{ACTIVITY, com.lcode.ucopay.WalletFavPalAdd}
+{ACTIVITY, com.lcode.ucopay.WalletRequestView}
+{ACTIVITY, com.lcode.ucopay.WalletAcStmt}
+{ACTIVITY, com.lcode.ucopay.WalletSettings}
+{ACTIVITY, com.lcode.ucopay.WalletNotification}
+{ACTIVITY, com.lcode.ucopay.Wallet2WFavPal}
+{ACTIVITY, com.lcode.ucopay.Wallet2UFavPal}
+{ACTIVITY, com.lcode.ucopay.Wallet2OFavPal}
+{ACTIVITY, com.lcode.ucopay.WalletRecentActv}
+{ACTIVITY, com.lcode.ucopay.WalletManageFavPal}
+{ACTIVITY, com.lcode.ucopay.WalletManageMyFavPal}
+{ACTIVITY, com.lcode.ucopay.WalletUserProfile}
+{ACTIVITY, com.lcode.ucopay.WalletClose}
+{ACTIVITY, com.lcode.ucopay.WalletTapAndPay}
+{ACTIVITY, com.lcode.ucopay.gcm.NotificationRedirect}
+{ACTIVITY, com.lcode.ucopay.WebViewScreen}
+{ACTIVITY, com.lcode.ucopay.qrCode.QrCodeGenerator}
+{ACTIVITY, com.lcode.ucopay.qrCode.QrCodeView}
+{ACTIVITY, com.lcode.ucopay.qrCode.QrCodeScanner}
+{ACTIVITY, com.lcode.ucopay.UcopMain}
+{ACTIVITY, com.lcode.ucopay.UcopImageUpload}
+{ACTIVITY, com.lcode.ucopay.UcopTrf2Withinbnk}
+{ACTIVITY, com.lcode.ucopay.UcopTrf2Other}
+{ACTIVITY, com.lcode.ucopay.UcopTrf2WalletID}
+{ACTIVITY, com.lcode.ucopay.UcopTrfFromWalletID}
+{ACTIVITY, com.lcode.ucopay.UcopDebitReq}
+{ACTIVITY, com.lcode.ucopay.UcopVirtualCardReq}
+{ACTIVITY, com.lcode.ucopay.UcopVirtuaID}
+{ACTIVITY, com.lcode.ucopay.UcopSelfInterest}
+{ACTIVITY, com.lcode.ucopay.UcopReferFriend}
+{ACTIVITY, com.lcode.ucopay.WalletResetPin}
+{ACTIVITY, com.lcode.ucopay.WalletLoginNew}
+{ACTIVITY, com.lcode.ucopay.UcopAccountDetails}
+{ACTIVITY, com.lcode.ucopay.UcopAccountMiniStmt}
+{ACTIVITY, com.lcode.ucopay.BranchcodeList}
+{ACTIVITY, com.lcode.ucopay.Feedback}
+{SERVICE, com.lcode.ucopay.DeviceLocatorService}
+{ACTIVITY, com.lcode.ucopay.GoogleMapService}
+{ACTIVITY, com.lcode.ucopay.WalletBBPSWeb}
+{ACTIVITY, com.lcode.ucopay.ProofPics}
+{SERVICE, com.lcode.ucopay.gcm.MyFcmListenerService, com.google.firebase.MESSAGING_EVENT}
+{SERVICE, com.lcode.ucopay.gcm.MyInstanceIDListenerService, com.google.firebase.INSTANCE_ID_EVENT}
+{ACTIVITY, com.github.dhaval2404.imagepicker.ImagePickerActivity}
+{ACTIVITY, com.yalantis.ucrop.UCropActivity}
+{SERVICE, com.google.firebase.messaging.FirebaseMessagingService, com.google.firebase.MESSAGING_EVENT}
+{RECEIVER, com.google.firebase.iid.FirebaseInstanceIdReceiver, com.google.android.c2dm.intent.RECEIVE}
+{RECEIVER, com.google.firebase.iid.FirebaseInstanceIdInternalReceiver}
+{SERVICE, com.google.firebase.iid.FirebaseInstanceIdService, com.google.firebase.INSTANCE_ID_EVENT}
+{ACTIVITY, com.lcode.ucopay.SplashActivity, android.intent.action.MAIN}
+{ACTIVITY, com.lcode.ucopay.imagecrop.ProfilePicCapture}
+{ACTIVITY, com.lcode.ucopay.WalletMobile}
+{ACTIVITY, com.lcode.ucopay.WalletOtp}
+{ACTIVITY, com.lcode.ucopay.WalletOtpForgot}
+{ACTIVITY, com.lcode.ucopay.WalletSetPin}
+{ACTIVITY, com.lcode.ucopay.WalletChangePin}
+{ACTIVITY, com.lcode.ucopay.WalletRegister}
+{ACTIVITY, com.lcode.ucopay.WalletOtpMpin}
+{ACTIVITY, com.lcode.ucopay.WalletDebitcardRequest}
+{ACTIVITY, com.lcode.ucopay.WalletHomePage}
+{ACTIVITY, com.lcode.ucopay.WalletAddMoneyInet}
+{ACTIVITY, com.lcode.ucopay.BillDeskService}
+{ACTIVITY, com.lcode.ucopay.billdesk.BillpayRecharge}
+{ACTIVITY, com.lcode.ucopay.billdesk.BillpayRechargeConfirm}
+{ACTIVITY, com.lcode.ucopay.billdesk.BillpayManager}
+{ACTIVITY, com.lcode.ucopay.billdesk.BillpayAdd}
+{ACTIVITY, com.lcode.ucopay.billdesk.BillpayDetails}
+{ACTIVITY, com.lcode.ucopay.billdesk.BillPaytrf}
+{ACTIVITY, com.lcode.ucopay.billdesk.BillPaytrfConfirm}
+{ACTIVITY, com.lcode.ucopay.billdesk.BillpayViewBills}
+{ACTIVITY, com.lcode.ucopay.billdesk.BillPayQuciktrf}
+{ACTIVITY, com.lcode.ucopay.billdesk.BillPayQuciktrfConfirm}
+{ACTIVITY, com.lcode.ucopay.WalletGetMoney}
+{ACTIVITY, com.lcode.ucopay.Wallet2Wallet}
+{ACTIVITY, com.lcode.ucopay.Wallet2UCOBank}
+{ACTIVITY, com.lcode.ucopay.Wallet2OtherBank}
+{ACTIVITY, com.lcode.ucopay.WalletFavPalAdd}
+{ACTIVITY, com.lcode.ucopay.WalletRequestView}
+{ACTIVITY, com.lcode.ucopay.WalletAcStmt}
+{ACTIVITY, com.lcode.ucopay.WalletSettings}
+{ACTIVITY, com.lcode.ucopay.WalletNotification}
+{ACTIVITY, com.lcode.ucopay.Wallet2WFavPal}
+{ACTIVITY, com.lcode.ucopay.Wallet2UFavPal}
+{ACTIVITY, com.lcode.ucopay.Wallet2OFavPal}
+{ACTIVITY, com.lcode.ucopay.WalletRecentActv}
+{ACTIVITY, com.lcode.ucopay.WalletManageFavPal}
+{ACTIVITY, com.lcode.ucopay.WalletManageMyFavPal}
+{ACTIVITY, com.lcode.ucopay.WalletUserProfile}
+{ACTIVITY, com.lcode.ucopay.WalletClose}
+{ACTIVITY, com.lcode.ucopay.WalletTapAndPay}
+{ACTIVITY, com.lcode.ucopay.gcm.NotificationRedirect}
+{ACTIVITY, com.lcode.ucopay.WebViewScreen}
+{ACTIVITY, com.lcode.ucopay.qrCode.QrCodeGenerator}
+{ACTIVITY, com.lcode.ucopay.qrCode.QrCodeView}
+{ACTIVITY, com.lcode.ucopay.qrCode.QrCodeScanner}
+{ACTIVITY, com.lcode.ucopay.UcopMain}
+{ACTIVITY, com.lcode.ucopay.UcopImageUpload}
+{ACTIVITY, com.lcode.ucopay.UcopTrf2Withinbnk}
+{ACTIVITY, com.lcode.ucopay.UcopTrf2Other}
+{ACTIVITY, com.lcode.ucopay.UcopTrf2WalletID}
+{ACTIVITY, com.lcode.ucopay.UcopTrfFromWalletID}
+{ACTIVITY, com.lcode.ucopay.UcopDebitReq}
+{ACTIVITY, com.lcode.ucopay.UcopVirtualCardReq}
+{ACTIVITY, com.lcode.ucopay.UcopVirtuaID}
+{ACTIVITY, com.lcode.ucopay.UcopSelfInterest}
+{ACTIVITY, com.lcode.ucopay.UcopReferFriend}
+{ACTIVITY, com.lcode.ucopay.WalletResetPin}
+{ACTIVITY, com.lcode.ucopay.WalletLoginNew}
+{ACTIVITY, com.lcode.ucopay.UcopAccountDetails}
+{ACTIVITY, com.lcode.ucopay.UcopAccountMiniStmt}
+{ACTIVITY, com.lcode.ucopay.BranchcodeList}
+{ACTIVITY, com.lcode.ucopay.Feedback}
+{SERVICE, com.lcode.ucopay.DeviceLocatorService}
+{ACTIVITY, com.lcode.ucopay.GoogleMapService}
+{ACTIVITY, com.lcode.ucopay.WalletBBPSWeb}
+{ACTIVITY, com.lcode.ucopay.ProofPics}
+{SERVICE, com.lcode.ucopay.gcm.MyFcmListenerService, com.google.firebase.MESSAGING_EVENT}
+{SERVICE, com.lcode.ucopay.gcm.MyInstanceIDListenerService, com.google.firebase.INSTANCE_ID_EVENT}
+{ACTIVITY, com.github.dhaval2404.imagepicker.ImagePickerActivity}
+{ACTIVITY, com.yalantis.ucrop.UCropActivity}
+{SERVICE, com.google.firebase.messaging.FirebaseMessagingService, com.google.firebase.MESSAGING_EVENT}
+{RECEIVER, com.google.firebase.iid.FirebaseInstanceIdReceiver, com.google.android.c2dm.intent.RECEIVE}
+{RECEIVER, com.google.firebase.iid.FirebaseInstanceIdInternalReceiver}
+{SERVICE, com.google.firebase.iid.FirebaseInstanceIdService, com.google.firebase.INSTANCE_ID_EVENT}
+_getAllDexFiles: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated/classes.dex
+----------------/home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated.apk
+dexFile = org.jf.dexlib2.dexbacked.DexBackedDexFile@50fe837a
+com.lcode.ucopay
+com.lcode.ucopay.SplashActivity
+debuggable: true
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated.apk
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated.apk
+outDir: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_46604b9f/signed_obfuscated.apk
+3601a6ff: Installation Success
+159ceeed: Installation Success
+46604b9f: Installing repackaged apk File: 
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_46604b9f/signed_signed_obfuscated.apk
+b29e6a69: Installation Success
+46604b9f: Installation Success
+46604b9f: startApplication called! - devTamper
+3601a6ff: startApplication called! - devRef
+b29e6a69: startApplication called! - devRoot
+159ceeed: startApplication called! - devDebug
+3601a6ff: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRef_signed_obfuscated.ilog)
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_signed_obfuscated.ilog)
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_signed_obfuscated.ilog)
+46604b9f: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devTamper_signed_obfuscated.ilog)
+3601a6ff: Running Application: com.lcode.ucopay
+b29e6a69: Running Application: com.lcode.ucopay
+46604b9f: Running Application: com.lcode.ucopay
+PIDs--------------------------------------------------------------------------
+u0_a329       20380    423 14457624 108540 0                  0 R com.lcode.ucopay
+forward tcp:35535 jdwp:20380
+[*]Found JDWP Target: 20380
+159ceeed: Running Application: com.lcode.ucopay
+b29e6a69: Running is done - starting comparing... : 10001
+b29e6a69: Terminated logcat thread...by itself
+PIDs--------------------------------------------------------------------------
+u0_a329       20380    423 14532736 138688 0                  0 S com.lcode.ucopay
+159ceeed: Tryging attach jdb to 20380
+jdb -connect com.sun.jdi.SocketAttach:hostname=localhost,port=35535
+b29e6a69: Top-activity: com.lcode.ucopay/.SplashActivity
+PIDs--------------------------------------------------------------------------
+u0_a3987      25799    425 14681400 135956 0                  0 S com.lcode.ucopay
+b29e6a69: savedPid = 25799
+PIDs--------------------------------------------------------------------------
+u0_a3987      25799    425 14681400 135956 0                  0 S com.lcode.ucopay
+b29e6a69: savedPid2 = 25799
+Stopping app: com.lcode.ucopay
+3601a6ff: Running is done - starting comparing... : 10001
+3601a6ff: Terminated logcat thread...by itself
+3601a6ff: Top-activity: com.lcode.ucopay/.SplashActivity
+159ceeed: Running is done - starting comparing... : 10001
+159ceeed: Terminated logcat thread...by itself
+PIDs--------------------------------------------------------------------------
+u0_a309        3126    405 14880884 137120 0                  0 S com.lcode.ucopay
+3601a6ff: savedPid = 3126
+PIDs--------------------------------------------------------------------------
+u0_a309        3126    405 14880884 137120 0                  0 S com.lcode.ucopay
+3601a6ff: savedPid2 = 3126
+Stopping app: com.lcode.ucopay
+46604b9f: Running is done - starting comparing... : 10001
+46604b9f: Terminated logcat thread...by itself
+46604b9f: Top-activity: com.lcode.ucopay/.SplashActivity
+PIDs--------------------------------------------------------------------------
+u0_a953        2992    427 14826724 137404 0                  0 S com.lcode.ucopay
+46604b9f: savedPid = 2992
+PIDs--------------------------------------------------------------------------
+u0_a953        2992    427 14826724 137404 0                  0 S com.lcode.ucopay
+46604b9f: savedPid2 = 2992
+Stopping app: com.lcode.ucopay
+Tryging remove : uninstall com.lcode.ucopay(com.lcode.ucopay)
+3601a6ff: Remove Success
+3601a6ff: ilog file size: 25868022
+3601a6ff: End of collecting logcat...
+Tryging remove : uninstall com.lcode.ucopay(com.lcode.ucopay)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 11200291
+b29e6a69: End of collecting logcat...
+Tryging remove : uninstall com.lcode.ucopay(com.lcode.ucopay)
+46604b9f: Remove Success
+46604b9f: ilog file size: 26296893
+46604b9f: End of collecting logcat...
+159ceeed: Top-activity: com.lcode.ucopay/.SplashActivity
+PIDs--------------------------------------------------------------------------
+u0_a329       20380    423 14682976 150948 0                  0 S com.lcode.ucopay
+159ceeed: savedPid = 20380
+PIDs--------------------------------------------------------------------------
+u0_a329       20380    423 14682976 150948 0                  0 S com.lcode.ucopay
+159ceeed: savedPid2 = 20380
+Stopping app: com.lcode.ucopay
+Tryging remove : uninstall com.lcode.ucopay(com.lcode.ucopay)
+159ceeed: Remove Success
+159ceeed: ilog file size: 26270430
+159ceeed: End of collecting logcat...
+HPFinder's try count remains: 29
+46604b9f: isFailedToLaunch: com.lcode.ucopay/.SplashActivity
+46604b9f: 	--result: Good :)
+46604b9f: isFailedToLaunch: com.lcode.ucopay/.SplashActivity
+46604b9f: 	--result: Good :)
+b29e6a69: isFailedToLaunch: com.lcode.ucopay/.SplashActivity
+159ceeed: isFailedToLaunch: com.lcode.ucopay/.SplashActivity
+b29e6a69: 	--result: Good :)
+159ceeed: 	--result: Good :)
+159ceeed: isFailedToLaunch: com.lcode.ucopay/.SplashActivity
+b29e6a69: isFailedToLaunch: com.lcode.ucopay/.SplashActivity
+b29e6a69: 	--result: Good :)
+159ceeed: 	--result: Good :)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_signed_obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_signed_obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_signed_obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_signed_obfuscated.ilog)
+[*] FlowManager: adjust finished.
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.app.Dialog/show:()V:4ffe62		=(rels)=>		1
+[*] Unique action: 1:122657 : <<CALL>> : com.lcode.ucopay.SplashActivity/k0:()V:4ffe62  =>  android.app.Dialog/show:()V:1b4adc
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devTamper_signed_obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_signed_obfuscated.ilog)
+[*] FlowManager: adjust finished.
+Action is completely same :)
+Action is completely same :)
+46604b9f: There is no difference. (tryAgain=false)
+[*] FlowManager: adjust finished.
+Action is completely same :)
+Action is completely same :)
+159ceeed: There is no difference. (tryAgain=false)
+	1:compareBackwardBranch: 1:115118 : <<BRANCH>> : com.lcode.ucopay.SplashActivity/onCreate:(Landroid/os/Bundle;)V:4fffa0  =>  com.lcode.ucopay.SplashActivity/onCreate:(Landroid/os/Bundle;)V:4fffce
+android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:36a7a4		=(rels)=>		1
+[*] Unique action: 1:25889 : <<CALL>> : androidx.core.widget.NestedScrollView/qlweoVKWNdLUgCYR:(Landroid/widget/FrameLayout;Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:36a7a4  =>  android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:1959fc
+	1:compareBackwardBranch2: 1:17327 : <<BRANCH>> : com.scottyab.rootbeer.b/b:(Ljava/lang/String;)Z:56ead0  =>  com.scottyab.rootbeer.b/b:(Ljava/lang/String;)Z:56ead4
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:3686c4		=(rels)=>		1
+[*] Unique action: 1:25883 : <<CALL>> : androidx.core.widget.NestedScrollView/PmdkNzSnzzgJmJaP:(Landroid/widget/FrameLayout;Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:3686c4  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+	1:compareBackwardBranch2: 1:17327 : <<BRANCH>> : com.scottyab.rootbeer.b/b:(Ljava/lang/String;)Z:56ead0  =>  com.scottyab.rootbeer.b/b:(Ljava/lang/String;)Z:56ead4
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:2e3938		=(rels)=>		1
+[*] Unique action: 1:30454 : <<CALL>> : androidx.appcompat.app.AlertController/hjkwrIwouQbXviJR:(Landroid/widget/Button;Landroid/view/View$OnClickListener;)V:2e3938  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch2: 1:17327 : <<BRANCH>> : com.scottyab.rootbeer.b/b:(Ljava/lang/String;)Z:56ead0  =>  com.scottyab.rootbeer.b/b:(Ljava/lang/String;)Z:56ead4
+android.app.Dialog/show:()V:53bf74		=(rels)=>		1
+[*] Unique action: 1:21054 : <<CALL>> : com.lcode.ucopay.y.a$d/run:()V:53bf74  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch2: 1:17327 : <<BRANCH>> : com.scottyab.rootbeer.b/b:(Ljava/lang/String;)Z:56ead0  =>  com.scottyab.rootbeer.b/b:(Ljava/lang/String;)Z:56ead4
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:2e3424		=(rels)=>		1
+[*] Unique action: 1:30423 : <<CALL>> : androidx.appcompat.app.AlertController/TgvRcHdfCZkFaRSq:(Landroid/widget/Button;Ljava/lang/CharSequence;)V:2e3424  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch2: 1:17327 : <<BRANCH>> : com.scottyab.rootbeer.b/b:(Ljava/lang/String;)Z:56ead0  =>  com.scottyab.rootbeer.b/b:(Ljava/lang/String;)Z:56ead4
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:2e2ee4		=(rels)=>		1
+[*] Unique action: 1:30416 : <<CALL>> : androidx.appcompat.app.AlertController/DwsbtyILlDZWtjMa:(Landroid/widget/Button;Landroid/view/View$OnClickListener;)V:2e2ee4  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch2: 1:17327 : <<BRANCH>> : com.scottyab.rootbeer.b/b:(Ljava/lang/String;)Z:56ead0  =>  com.scottyab.rootbeer.b/b:(Ljava/lang/String;)Z:56ead4
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:2e42f4		=(rels)=>		1
+[*] Unique action: 1:30439 : <<CALL>> : androidx.appcompat.app.AlertController/xGRbRuBkKsQPkKAR:(Landroid/widget/Button;Landroid/view/View$OnClickListener;)V:2e42f4  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch2: 1:17327 : <<BRANCH>> : com.scottyab.rootbeer.b/b:(Ljava/lang/String;)Z:56ead0  =>  com.scottyab.rootbeer.b/b:(Ljava/lang/String;)Z:56ead4
+Entry: 56e9bc
+com.scottyab.rootbeer.b/b:(Ljava/lang/String;)Z: 56ead0 -> 56ead4
+		com.scottyab.rootbeer.b/b:(Ljava/lang/String;)Z: 114 -> 118
+addPatchReadme: java.lang.Class<com.scottyab.rootbeer.b>b(Ljava/lang/String;)Z 114 f
+Entry: 4ffec4
+com.lcode.ucopay.SplashActivity/onCreate:(Landroid/os/Bundle;)V: 4fffa0 -> 4fffce
+		com.lcode.ucopay.SplashActivity/onCreate:(Landroid/os/Bundle;)V: dc -> 10a
+addPatchReadme: java.lang.Class<com.lcode.ucopay.SplashActivity>onCreate(Landroid/os/Bundle;)V dc t
+b29e6a69: [+] Patches found in this round: 2
+b29e6a69: [*] Found Patch size: 1
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_signed_obfuscated.ilog)
+b29e6a69: 	@@@Found patch addr: 4fffb0
+b29e6a69: Querying offset: 4fffa0
+b29e6a69: 	--Add method name to patch = com.lcode.ucopay.SplashActivity/onCreate:(Landroid/os/Bundle;)V 	4fffa0
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: patching method: com.lcode.ucopay.SplashActivity/onCreate:(Landroid/os/Bundle;)V
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devRoot
+Wow!!!!!  --  com.lcode.ucopay.SplashActivity/onCreate:(Landroid/os/Bundle;)V
+fallthrough: e0
+branchTarget: 10a
+label = cond_1
+GOTO -- e0 	10a
+outDir: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devRoot/signed_obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devRoot/signed_signed_obfuscated.apk
+b29e6a69: First address of Lcom/lcode/ucopay/SplashActivity;->onCreate(Landroid/os/Bundle;)V = 4ffed4
+b29e6a69: Address - Lcom/lcode/ucopay/SplashActivity;->onCreate(Landroid/os/Bundle;)V@dc	 lastOffset = 150
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devRoot/signed_signed_obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_signed_obfuscated.ilog)
+b29e6a69: Running Application: com.lcode.ucopay
+b29e6a69: Running is done - starting comparing... : 10001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.lcode.ucopay/.SplashActivity
+PIDs--------------------------------------------------------------------------
+u0_a3988      25879    425 14650800 136396 0                  0 S com.lcode.ucopay
+b29e6a69: savedPid = 25879
+PIDs--------------------------------------------------------------------------
+u0_a3988      25879    425 14650800 136396 0                  0 S com.lcode.ucopay
+b29e6a69: savedPid2 = 25879
+Stopping app: com.lcode.ucopay
+Tryging remove : uninstall com.lcode.ucopay(com.lcode.ucopay)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 8206452
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 28
+b29e6a69: isFailedToLaunch: com.lcode.ucopay/.SplashActivity
+b29e6a69: 	--result: Good :)
+b29e6a69: isFailedToLaunch: com.lcode.ucopay/.SplashActivity
+b29e6a69: 	--result: Good :)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_signed_obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_signed_obfuscated.ilog)
+b29e6a69: adding filter -- 4fffa0
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 4fffa0
+Action is completely same :)
+Action is completely same :)
+b29e6a69: There is no difference. (tryAgain=false)
+-- HPFinder will be done in this iteration :)
+hasAntiAnalysis? - devTamper: false on com.lcode.ucopay.SplashActivity
+hasAntiAnalysis? - devRoot: true on com.lcode.ucopay.SplashActivity
+	isRemovedThem? - devRoot: true on com.lcode.ucopay.SplashActivity	-	tryCount: 1
+hasAntiAnalysis? - devDebug: false on com.lcode.ucopay.SplashActivity
+*****REPORT: com.lcode.ucopay
+* Package name: com.lcode.ucopay
+* Running time: 127
+* FileSize: 10873383
+devTamper : 26296893
+devRef : 25868022
+devRoot : 8206452
+devDebug : 26270430
+hasAntiAnalysis? - devTamper: false on com.lcode.ucopay.SplashActivity
+hasAntiAnalysis? - devRoot: true on com.lcode.ucopay.SplashActivity
+	isRemovedThem? - devRoot: true on com.lcode.ucopay.SplashActivity	-	tryCount: 1
+hasAntiAnalysis? - devDebug: false on com.lcode.ucopay.SplashActivity
+46604b9f: trying remove : com.lcode.ucopay
+3601a6ff: trying remove : com.lcode.ucopay
+b29e6a69: trying remove : com.lcode.ucopay
+159ceeed: trying remove : com.lcode.ucopay
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+159ceeed: result = true
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+3601a6ff: result = true
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+46604b9f: result = true
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+b29e6a69: result = true
+3601a6ff: isFailedToLaunch: com.lcode.ucopay/.SplashActivity
+3601a6ff: 	--result: Good :)

@@ -1,0 +1,1356 @@
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated/AndroidManifest.xml
+launchable-activity: name='crc641458e4fcfb44cea0.SplashActivity'  label='' icon=''
+{ACTIVITY, crc641458e4fcfb44cea0.MainActivity}
+{ACTIVITY, crc641458e4fcfb44cea0.SplashActivity, android.intent.action.MAIN}
+{ACTIVITY, crc642a71341351d724ed.CropImage}
+{RECEIVER, crc64f649a97b273db4b0.SMSSentReceiver, SMS_DELIVERED}
+{RECEIVER, crc64f649a97b273db4b0.SmsSend}
+{RECEIVER, crc64cea48322b3427ae9.ConnectivityChangeBroadcastReceiver}
+{ACTIVITY, crc646957603ea1820544.MediaPickerActivity}
+{ACTIVITY, crc641458e4fcfb44cea0.MainActivity}
+{ACTIVITY, crc641458e4fcfb44cea0.SplashActivity, android.intent.action.MAIN}
+{ACTIVITY, crc642a71341351d724ed.CropImage}
+{RECEIVER, crc64f649a97b273db4b0.SMSSentReceiver, SMS_DELIVERED}
+{RECEIVER, crc64f649a97b273db4b0.SmsSend}
+{RECEIVER, crc64cea48322b3427ae9.ConnectivityChangeBroadcastReceiver}
+{ACTIVITY, crc646957603ea1820544.MediaPickerActivity}
+_getAllDexFiles: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated/classes.dex
+----------------/home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated.apk
+dexFile = org.jf.dexlib2.dexbacked.DexBackedDexFile@74d1dc36
+com.finacus.pjsbimps
+crc641458e4fcfb44cea0.SplashActivity
+debuggable: true
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated.apk
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated.apk
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_46604b9f/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_46604b9f/signed_obfuscated.apk
+3601a6ff: Installation Success
+b29e6a69: Installation Success
+159ceeed: Installation Success
+46604b9f: Installing repackaged apk File: 
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_46604b9f/signed_signed_obfuscated.apk
+46604b9f: Installation Success
+46604b9f: startApplication called! - devTamper
+3601a6ff: startApplication called! - devRef
+b29e6a69: startApplication called! - devRoot
+159ceeed: startApplication called! - devDebug
+3601a6ff: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRef_signed_obfuscated.ilog)
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_signed_obfuscated.ilog)
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_signed_obfuscated.ilog)
+46604b9f: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devTamper_signed_obfuscated.ilog)
+3601a6ff: Running Application: com.finacus.pjsbimps
+46604b9f: Running Application: com.finacus.pjsbimps
+b29e6a69: Running Application: com.finacus.pjsbimps
+PIDs--------------------------------------------------------------------------
+u0_a291       17577    430 1766120 137628 0                   0 S com.finacus.pjsbimps
+forward tcp:5005 jdwp:17577
+[*]Found JDWP Target: 17577
+159ceeed: Running Application: com.finacus.pjsbimps
+46604b9f: Running is done - starting comparing... : 5001
+46604b9f: Terminated logcat thread...by itself
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.finacus.pjsbimps
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: Remove Success
+46604b9f: ilog file size: 13176379
+46604b9f: End of collecting logcat...
+b29e6a69: Top-activity: com.finacus.pjsbimps/crc641458e4fcfb44cea0.MainActivity
+PIDs--------------------------------------------------------------------------
+u0_a3464      24348    430 1811468 212544 0                   0 S com.finacus.pjsbimps
+PIDs--------------------------------------------------------------------------
+u0_a3464      24348    430 1811468 212544 0                   0 S com.finacus.pjsbimps
+Stopping app: com.finacus.pjsbimps
+159ceeed: Running is done - starting comparing... : 5001
+159ceeed: Terminated logcat thread...by itself
+159ceeed: Top-activity: com.finacus.pjsbimps/crc641458e4fcfb44cea0.MainActivity
+PIDs--------------------------------------------------------------------------
+u0_a291       17577    430 1809456 197996 0                   0 S com.finacus.pjsbimps
+PIDs--------------------------------------------------------------------------
+u0_a291       17577    430 1809456 198260 0                   0 S com.finacus.pjsbimps
+Stopping app: com.finacus.pjsbimps
+3601a6ff: Running is done - starting comparing... : 5001
+3601a6ff: Terminated logcat thread...by itself
+Tryging remove : uninstall com.finacus.pjsbimps(com.finacus.pjsbimps)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 7348049
+b29e6a69: End of collecting logcat...
+3601a6ff: Top-activity: com.finacus.pjsbimps/crc641458e4fcfb44cea0.MainActivity
+PIDs--------------------------------------------------------------------------
+u0_a181        6636    422 1811712 197324 0                   0 S com.finacus.pjsbimps
+PIDs--------------------------------------------------------------------------
+u0_a181        6636    422 1811712 197324 0                   0 S com.finacus.pjsbimps
+Stopping app: com.finacus.pjsbimps
+Tryging remove : uninstall com.finacus.pjsbimps(com.finacus.pjsbimps)
+159ceeed: Remove Success
+159ceeed: ilog file size: 22821816
+159ceeed: End of collecting logcat...
+Tryging remove : uninstall com.finacus.pjsbimps(com.finacus.pjsbimps)
+3601a6ff: Remove Success
+3601a6ff: ilog file size: 33557454
+3601a6ff: End of collecting logcat...
+HPFinder's try count remains: 29
+46604b9f: Error: Activity not found(2)  --  skip signed_obfuscated.apk
+b29e6a69: isFailedToLaunch: com.finacus.pjsbimps/crc641458e4fcfb44cea0.MainActivity
+b29e6a69: 	--result: Good :)
+159ceeed: isFailedToLaunch: com.finacus.pjsbimps/crc641458e4fcfb44cea0.MainActivity
+159ceeed: 	--result: Good :)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_signed_obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_signed_obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_signed_obfuscated.ilog)
+[*] FlowManager: adjust finished.
+Action is completely same :)
+mono.android.TypeManager/Activate:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/Object;[Ljava/lang/Object;)V:50ee64		=(rels)=>		1
+[*] Unique action: 1:16411 : <<CALL>> : mono.android.content.DialogInterface_OnClickListenerImplementor/<init>:()V:50ee64  =>  mono.android.TypeManager/Activate:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/Object;[Ljava/lang/Object;)V:50d4e8
+	1:compareBackwardBranch: 1:16476 : <<BRANCH>> : com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z:4fcbe6  =>  com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z:4fceea
+Entry: 4fcb34
+com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z: 4fcbe6 -> 4fceea
+		com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z: b2 -> 3b6
+addPatchReadme: java.lang.Class<com.scottyab.rootbeer.RootBeer>isRootedWithoutBusyBoxCheck()Z b2 t
+b29e6a69: [+] Patches found in this round: 1
+b29e6a69: [*] Found Patch size: 1
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_signed_obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_signed_obfuscated.ilog)
+b29e6a69: Querying offset: 4fcbe6
+b29e6a69: 	--Add method name to patch = com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z 	4fcbe6
+[*] FlowManager: adjust finished.
+Action is completely same :)
+mono.android.TypeManager/Activate:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/Object;[Ljava/lang/Object;)V:50ee64		=(rels)=>		1
+[*] Unique action: 1:90417 : <<CALL>> : mono.android.content.DialogInterface_OnClickListenerImplementor/<init>:()V:50ee64  =>  mono.android.TypeManager/Activate:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/Object;[Ljava/lang/Object;)V:50d4e8
+	1:compareBackwardBranch: 1:90031 : <<BRANCH>> : com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z:4fcbe6  =>  com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z:4fcfe4
+Entry: 4fcb34
+com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z: 4fcbe6 -> 4fcfe4
+		com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z: b2 -> 4b0
+addPatchReadme: java.lang.Class<com.scottyab.rootbeer.RootBeer>isRootedWithoutBusyBoxCheck()Z b2 t
+159ceeed: [+] Patches found in this round: 1
+159ceeed: [*] Found Patch size: 1
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_signed_obfuscated.ilog)
+159ceeed: Querying offset: 4fcbe6
+159ceeed: 	--Add method name to patch = com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z 	4fcbe6
+Devices presenting anti-analysis: 
+	devRoot
+	devDebug
+b29e6a69: patching method: com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devRoot
+Wow!!!!!  --  com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z
+fallthrough: b8
+branchTarget: 3b6
+label = sswitch_data_0
+GOTO -- b8 	3b6
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devRoot/signed_obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devRoot/signed_signed_obfuscated.apk
+b29e6a69: First address of Lcom/scottyab/rootbeer/RootBeer;->isRootedWithoutBusyBoxCheck()Z = 4fcb44
+b29e6a69: Address - Lcom/scottyab/rootbeer/RootBeer;->isRootedWithoutBusyBoxCheck()Z@b2	 lastOffset = ed0
+b29e6a69: Instruction@@: SPARSE_SWITCH
+159ceeed: patching method: com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z
+159ceeed: outDir - /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devDebug
+Wow!!!!!  --  com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z
+fallthrough: b8
+branchTarget: 4b0
+label = sswitch_data_0
+GOTO -- b8 	4b0
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devDebug/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devDebug/signed_obfuscated.apk
+159ceeed: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devDebug/signed_signed_obfuscated.apk
+159ceeed: First address of Lcom/scottyab/rootbeer/RootBeer;->isRootedWithoutBusyBoxCheck()Z = 4fcb44
+159ceeed: Address - Lcom/scottyab/rootbeer/RootBeer;->isRootedWithoutBusyBoxCheck()Z@b2	 lastOffset = ed0
+159ceeed: Instruction@@: SPARSE_SWITCH
+159ceeed: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devDebug/signed_signed_obfuscated.apk
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devRoot/signed_signed_obfuscated.apk
+b29e6a69: Installation Success
+159ceeed: Installation Success
+b29e6a69: startApplication called! - devRoot
+159ceeed: startApplication called! - devDebug
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_signed_obfuscated.ilog)
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_signed_obfuscated.ilog)
+b29e6a69: Running Application: com.finacus.pjsbimps
+PIDs--------------------------------------------------------------------------
+u0_a292       17795    430 1766120 138208 0                   0 S com.finacus.pjsbimps
+forward tcp:5005 jdwp:17795
+[*]Found JDWP Target: 17795
+159ceeed: Running Application: com.finacus.pjsbimps
+159ceeed: Running is done - starting comparing... : 5001
+159ceeed: Terminated logcat thread...by itself
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+159ceeed: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.finacus.pjsbimps
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.finacus.pjsbimps
+Tryging remove : uninstall com.finacus.pjsbimps(com.finacus.pjsbimps)
+159ceeed: Remove Success
+159ceeed: ilog file size: 7656227
+159ceeed: End of collecting logcat...
+Tryging remove : uninstall com.finacus.pjsbimps(com.finacus.pjsbimps)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 7356853
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 28
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+b29e6a69: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated.apk launch is failed on devRoot
+159ceeed: isFailedToLaunch: com.android.launcher3/.Launcher
+159ceeed: 	--result: Failed :( (1)
+159ceeed: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated.apk launch is failed on devDebug
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 4fcbe6
+Action is completely same :)
+mono.android.TypeManager/Activate:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/Object;[Ljava/lang/Object;)V:50ee64		=(rels)=>		1
+[*] Unique action: 1:16411 : <<CALL>> : mono.android.content.DialogInterface_OnClickListenerImplementor/<init>:()V:50ee64  =>  mono.android.TypeManager/Activate:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/Object;[Ljava/lang/Object;)V:50d4e8
+	1:compareBackwardBranch: 1:16470 : <<BRANCH>> : com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z:4fcdf8  =>  com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z:4fcedc
+Entry: 4fcb34
+com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z: 4fcdf8 -> 4fcedc
+		com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z: 2c4 -> 3a8
+addPatchReadme: java.lang.Class<com.scottyab.rootbeer.RootBeer>isRootedWithoutBusyBoxCheck()Z 2c4 t
+b29e6a69: [+] Patches found in this round: 1
+b29e6a69: [*] Found Patch size: 1
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 4fcbe6
+Action is completely same :)
+mono.android.TypeManager/Activate:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/Object;[Ljava/lang/Object;)V:50ee64		=(rels)=>		1
+ExitReason-Code: 4 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_signed_obfuscated.ilog)
+	System.exit called in native code!
+b29e6a69: Querying offset: 4fcdf8
+b29e6a69: 	--Add method name to patch = com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z 	4fcdf8
+[*] Unique action: 1:90417 : <<CALL>> : mono.android.content.DialogInterface_OnClickListenerImplementor/<init>:()V:50ee64  =>  mono.android.TypeManager/Activate:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/Object;[Ljava/lang/Object;)V:50d4e8
+	1:compareBackwardBranch: 1:90025 : <<BRANCH>> : com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z:4fcefe  =>  com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z:4fcfd6
+Entry: 4fcb34
+com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z: 4fcefe -> 4fcfd6
+		com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z: 3ca -> 4a2
+addPatchReadme: java.lang.Class<com.scottyab.rootbeer.RootBeer>isRootedWithoutBusyBoxCheck()Z 3ca t
+159ceeed: [+] Patches found in this round: 1
+159ceeed: [*] Found Patch size: 1
+ExitReason-Code: 4 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_signed_obfuscated.ilog)
+	System.exit called in native code!
+159ceeed: Querying offset: 4fcefe
+159ceeed: 	--Add method name to patch = com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z 	4fcefe
+Devices presenting anti-analysis: 
+	devRoot
+	devDebug
+b29e6a69: patching method: com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devRoot
+Wow!!!!!  --  com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z
+fallthrough: 2ca
+branchTarget: 3a8
+label = sswitch_data_11
+GOTO -- 2ca 	3a8
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devRoot/signed_obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devRoot/signed_signed_obfuscated.apk
+b29e6a69: First address of Lcom/scottyab/rootbeer/RootBeer;->isRootedWithoutBusyBoxCheck()Z = 4fcb44
+b29e6a69: Address - Lcom/scottyab/rootbeer/RootBeer;->isRootedWithoutBusyBoxCheck()Z@2c4	 lastOffset = ed0
+b29e6a69: Instruction@@: SPARSE_SWITCH
+159ceeed: patching method: com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z
+159ceeed: outDir - /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devDebug
+Wow!!!!!  --  com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z
+fallthrough: 3d0
+branchTarget: 4a2
+label = sswitch_data_16
+GOTO -- 3d0 	4a2
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devDebug/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devDebug/signed_obfuscated.apk
+159ceeed: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devDebug/signed_signed_obfuscated.apk
+159ceeed: First address of Lcom/scottyab/rootbeer/RootBeer;->isRootedWithoutBusyBoxCheck()Z = 4fcb44
+159ceeed: Address - Lcom/scottyab/rootbeer/RootBeer;->isRootedWithoutBusyBoxCheck()Z@3ca	 lastOffset = ed0
+159ceeed: Instruction@@: SPARSE_SWITCH
+159ceeed: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devDebug/signed_signed_obfuscated.apk
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devRoot/signed_signed_obfuscated.apk
+b29e6a69: Installation Success
+159ceeed: Installation Success
+b29e6a69: startApplication called! - devRoot
+159ceeed: startApplication called! - devDebug
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_signed_obfuscated.ilog)
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_signed_obfuscated.ilog)
+b29e6a69: Running Application: com.finacus.pjsbimps
+PIDs--------------------------------------------------------------------------
+u0_a293       17989    430 1765864 137660 0                   0 S com.finacus.pjsbimps
+forward tcp:5005 jdwp:17989
+[*]Found JDWP Target: 17989
+159ceeed: Running Application: com.finacus.pjsbimps
+159ceeed: Running is done - starting comparing... : 5001
+159ceeed: Terminated logcat thread...by itself
+159ceeed: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.finacus.pjsbimps
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.finacus.pjsbimps
+Tryging remove : uninstall com.finacus.pjsbimps(com.finacus.pjsbimps)
+159ceeed: Remove Success
+159ceeed: ilog file size: 7658107
+159ceeed: End of collecting logcat...
+Tryging remove : uninstall com.finacus.pjsbimps(com.finacus.pjsbimps)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 7318375
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 27
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+b29e6a69: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated.apk launch is failed on devRoot
+159ceeed: isFailedToLaunch: com.android.launcher3/.Launcher
+159ceeed: 	--result: Failed :( (1)
+159ceeed: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated.apk launch is failed on devDebug
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 4fcdf8
+-- current localPatchFilter: 4fcbe6
+Action is completely same :)
+mono.android.TypeManager/Activate:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/Object;[Ljava/lang/Object;)V:50ee64		=(rels)=>		1
+[*] Unique action: 1:16411 : <<CALL>> : mono.android.content.DialogInterface_OnClickListenerImplementor/<init>:()V:50ee64  =>  mono.android.TypeManager/Activate:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/Object;[Ljava/lang/Object;)V:50d4e8
+	1:compareBackwardBranch: 1:16464 : <<BRANCH>> : com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z:4fce22  =>  com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z:4fced6
+Entry: 4fcb34
+com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z: 4fce22 -> 4fced6
+		com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z: 2ee -> 3a2
+addPatchReadme: java.lang.Class<com.scottyab.rootbeer.RootBeer>isRootedWithoutBusyBoxCheck()Z 2ee t
+b29e6a69: [+] Patches found in this round: 1
+b29e6a69: [*] Found Patch size: 1
+ExitReason-Code: 4 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_signed_obfuscated.ilog)
+	System.exit called in native code!
+b29e6a69: Querying offset: 4fce22
+b29e6a69: 	--Add method name to patch = com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z 	4fce22
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 4fcefe
+-- current localPatchFilter: 4fcbe6
+Action is completely same :)
+mono.android.TypeManager/Activate:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/Object;[Ljava/lang/Object;)V:50ee64		=(rels)=>		1
+[*] Unique action: 1:90417 : <<CALL>> : mono.android.content.DialogInterface_OnClickListenerImplementor/<init>:()V:50ee64  =>  mono.android.TypeManager/Activate:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/Object;[Ljava/lang/Object;)V:50d4e8
+	1:compareBackwardBranch: 1:90019 : <<BRANCH>> : com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z:4fcf1a  =>  com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z:4fcf22
+Entry: 4fcb34
+com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z: 4fcf1a -> 4fcf22
+		com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z: 3e6 -> 3ee
+addPatchReadme: java.lang.Class<com.scottyab.rootbeer.RootBeer>isRootedWithoutBusyBoxCheck()Z 3e6 t
+159ceeed: [+] Patches found in this round: 1
+159ceeed: [*] Found Patch size: 1
+ExitReason-Code: 4 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_signed_obfuscated.ilog)
+	System.exit called in native code!
+159ceeed: Querying offset: 4fcf1a
+159ceeed: 	--Add method name to patch = com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z 	4fcf1a
+Devices presenting anti-analysis: 
+	devRoot
+	devDebug
+b29e6a69: patching method: com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devRoot
+Wow!!!!!  --  com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z
+fallthrough: 2f4
+branchTarget: 3a2
+label = sswitch_data_12
+GOTO -- 2f4 	3a2
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devRoot/signed_obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devRoot/signed_signed_obfuscated.apk
+b29e6a69: First address of Lcom/scottyab/rootbeer/RootBeer;->isRootedWithoutBusyBoxCheck()Z = 4fcb44
+b29e6a69: Address - Lcom/scottyab/rootbeer/RootBeer;->isRootedWithoutBusyBoxCheck()Z@2ee	 lastOffset = ed0
+b29e6a69: Instruction@@: SPARSE_SWITCH
+159ceeed: patching method: com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z
+159ceeed: outDir - /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devDebug
+Wow!!!!!  --  com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z
+fallthrough: 3ec
+branchTarget: 3ee
+label = sswitch_data_17
+GOTO -- 3ec 	3ee
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devDebug/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devDebug/signed_obfuscated.apk
+159ceeed: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devDebug/signed_signed_obfuscated.apk
+159ceeed: First address of Lcom/scottyab/rootbeer/RootBeer;->isRootedWithoutBusyBoxCheck()Z = 4fcb44
+159ceeed: Address - Lcom/scottyab/rootbeer/RootBeer;->isRootedWithoutBusyBoxCheck()Z@3e6	 lastOffset = ed0
+159ceeed: Instruction@@: SPARSE_SWITCH
+159ceeed: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devDebug/signed_signed_obfuscated.apk
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devRoot/signed_signed_obfuscated.apk
+b29e6a69: Installation Success
+159ceeed: Installation Success
+b29e6a69: startApplication called! - devRoot
+159ceeed: startApplication called! - devDebug
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_signed_obfuscated.ilog)
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_signed_obfuscated.ilog)
+b29e6a69: Running Application: com.finacus.pjsbimps
+PIDs--------------------------------------------------------------------------
+u0_a294       18181    430 1766376 138256 0                   0 S com.finacus.pjsbimps
+forward tcp:5005 jdwp:18181
+[*]Found JDWP Target: 18181
+159ceeed: Running Application: com.finacus.pjsbimps
+159ceeed: Running is done - starting comparing... : 5001
+159ceeed: Terminated logcat thread...by itself
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+159ceeed: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.finacus.pjsbimps
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.finacus.pjsbimps
+Tryging remove : uninstall com.finacus.pjsbimps(com.finacus.pjsbimps)
+159ceeed: Remove Success
+159ceeed: ilog file size: 7324720
+159ceeed: End of collecting logcat...
+Tryging remove : uninstall com.finacus.pjsbimps(com.finacus.pjsbimps)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 7432911
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 26
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+b29e6a69: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated.apk launch is failed on devRoot
+159ceeed: isFailedToLaunch: com.android.launcher3/.Launcher
+159ceeed: 	--result: Failed :( (1)
+159ceeed: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated.apk launch is failed on devDebug
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 4fcdf8
+-- current localPatchFilter: 4fcbe6
+-- current localPatchFilter: 4fce22
+Action is completely same :)
+mono.android.TypeManager/Activate:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/Object;[Ljava/lang/Object;)V:50ee64		=(rels)=>		1
+[*] Unique action: 1:16411 : <<CALL>> : mono.android.content.DialogInterface_OnClickListenerImplementor/<init>:()V:50ee64  =>  mono.android.TypeManager/Activate:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/Object;[Ljava/lang/Object;)V:50d4e8
+	1:compareBackwardBranch: 1:16458 : <<BRANCH>> : com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z:4fce4a  =>  com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z:4fceca
+Entry: 4fcb34
+com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z: 4fce4a -> 4fceca
+		com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z: 316 -> 396
+addPatchReadme: java.lang.Class<com.scottyab.rootbeer.RootBeer>isRootedWithoutBusyBoxCheck()Z 316 t
+b29e6a69: [+] Patches found in this round: 1
+b29e6a69: [*] Found Patch size: 1
+ExitReason-Code: 4 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_signed_obfuscated.ilog)
+	System.exit called in native code!
+b29e6a69: Querying offset: 4fce4a
+b29e6a69: 	--Add method name to patch = com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z 	4fce4a
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 4fcefe
+-- current localPatchFilter: 4fcf1a
+-- current localPatchFilter: 4fcbe6
+Action is completely same :)
+mono.android.TypeManager/Activate:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/Object;[Ljava/lang/Object;)V:50ee64		=(rels)=>		1
+[*] Unique action: 1:90417 : <<CALL>> : mono.android.content.DialogInterface_OnClickListenerImplementor/<init>:()V:50ee64  =>  mono.android.TypeManager/Activate:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/Object;[Ljava/lang/Object;)V:50d4e8
+	1:compareBackwardBranch: 1:90013 : <<BRANCH>> : com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z:4fcf48  =>  com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z:4fcf50
+Entry: 4fcb34
+com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z: 4fcf48 -> 4fcf50
+		com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z: 414 -> 41c
+addPatchReadme: java.lang.Class<com.scottyab.rootbeer.RootBeer>isRootedWithoutBusyBoxCheck()Z 414 t
+159ceeed: [+] Patches found in this round: 1
+159ceeed: [*] Found Patch size: 1
+ExitReason-Code: 4 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_signed_obfuscated.ilog)
+	System.exit called in native code!
+159ceeed: Querying offset: 4fcf48
+159ceeed: 	--Add method name to patch = com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z 	4fcf48
+Devices presenting anti-analysis: 
+	devRoot
+	devDebug
+b29e6a69: patching method: com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devRoot
+Wow!!!!!  --  com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z
+fallthrough: 31c
+branchTarget: 396
+label = sswitch_data_13
+GOTO -- 31c 	396
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devRoot/signed_obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devRoot/signed_signed_obfuscated.apk
+b29e6a69: First address of Lcom/scottyab/rootbeer/RootBeer;->isRootedWithoutBusyBoxCheck()Z = 4fcb44
+b29e6a69: Address - Lcom/scottyab/rootbeer/RootBeer;->isRootedWithoutBusyBoxCheck()Z@316	 lastOffset = ed0
+b29e6a69: Instruction@@: SPARSE_SWITCH
+159ceeed: patching method: com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z
+159ceeed: outDir - /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devDebug
+Wow!!!!!  --  com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z
+fallthrough: 41a
+branchTarget: 41c
+label = sswitch_data_18
+GOTO -- 41a 	41c
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devDebug/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devDebug/signed_obfuscated.apk
+159ceeed: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devDebug/signed_signed_obfuscated.apk
+159ceeed: First address of Lcom/scottyab/rootbeer/RootBeer;->isRootedWithoutBusyBoxCheck()Z = 4fcb44
+159ceeed: Address - Lcom/scottyab/rootbeer/RootBeer;->isRootedWithoutBusyBoxCheck()Z@414	 lastOffset = ed0
+159ceeed: Instruction@@: SPARSE_SWITCH
+159ceeed: (Not Installed) Trying remove : true
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devDebug/signed_signed_obfuscated.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devRoot/signed_signed_obfuscated.apk
+b29e6a69: Installation Success
+159ceeed: Installation Success
+b29e6a69: startApplication called! - devRoot
+159ceeed: startApplication called! - devDebug
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_signed_obfuscated.ilog)
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_signed_obfuscated.ilog)
+b29e6a69: Running Application: com.finacus.pjsbimps
+PIDs--------------------------------------------------------------------------
+u0_a295       18368    430 1766232 137712 0                   0 S com.finacus.pjsbimps
+forward tcp:5005 jdwp:18368
+[*]Found JDWP Target: 18368
+159ceeed: Running Application: com.finacus.pjsbimps
+159ceeed: Running is done - starting comparing... : 5001
+159ceeed: Terminated logcat thread...by itself
+159ceeed: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.finacus.pjsbimps
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+Tryging remove : uninstall com.finacus.pjsbimps(com.finacus.pjsbimps)
+159ceeed: Remove Success
+159ceeed: ilog file size: 7475802
+159ceeed: End of collecting logcat...
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.finacus.pjsbimps
+Tryging remove : uninstall com.finacus.pjsbimps(com.finacus.pjsbimps)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 7515659
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 25
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+b29e6a69: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated.apk launch is failed on devRoot
+159ceeed: isFailedToLaunch: com.android.launcher3/.Launcher
+159ceeed: 	--result: Failed :( (1)
+159ceeed: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated.apk launch is failed on devDebug
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 4fce4a
+-- current localPatchFilter: 4fcdf8
+-- current localPatchFilter: 4fcbe6
+-- current localPatchFilter: 4fce22
+Action is completely same :)
+mono.android.TypeManager/Activate:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/Object;[Ljava/lang/Object;)V:50ee64		=(rels)=>		1
+[*] Unique action: 1:16411 : <<CALL>> : mono.android.content.DialogInterface_OnClickListenerImplementor/<init>:()V:50ee64  =>  mono.android.TypeManager/Activate:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/Object;[Ljava/lang/Object;)V:50d4e8
+	1:compareBackwardBranch: 1:16452 : <<BRANCH>> : com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z:4fce66  =>  com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z:4fcec4
+Entry: 4fcb34
+com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z: 4fce66 -> 4fcec4
+		com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z: 332 -> 390
+addPatchReadme: java.lang.Class<com.scottyab.rootbeer.RootBeer>isRootedWithoutBusyBoxCheck()Z 332 t
+b29e6a69: [+] Patches found in this round: 1
+b29e6a69: [*] Found Patch size: 1
+ExitReason-Code: 4 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_signed_obfuscated.ilog)
+	System.exit called in native code!
+b29e6a69: Querying offset: 4fce66
+b29e6a69: 	--Add method name to patch = com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z 	4fce66
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 4fcefe
+-- current localPatchFilter: 4fcf1a
+-- current localPatchFilter: 4fcf48
+-- current localPatchFilter: 4fcbe6
+Action is completely same :)
+mono.android.TypeManager/Activate:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/Object;[Ljava/lang/Object;)V:50ee64		=(rels)=>		1
+[*] Unique action: 1:90417 : <<CALL>> : mono.android.content.DialogInterface_OnClickListenerImplementor/<init>:()V:50ee64  =>  mono.android.TypeManager/Activate:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/Object;[Ljava/lang/Object;)V:50d4e8
+	1:compareBackwardBranch: 1:90007 : <<BRANCH>> : com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z:4fcf70  =>  com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z:4fcf78
+Entry: 4fcb34
+com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z: 4fcf70 -> 4fcf78
+		com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z: 43c -> 444
+addPatchReadme: java.lang.Class<com.scottyab.rootbeer.RootBeer>isRootedWithoutBusyBoxCheck()Z 43c t
+159ceeed: [+] Patches found in this round: 1
+159ceeed: [*] Found Patch size: 1
+ExitReason-Code: 4 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_signed_obfuscated.ilog)
+	System.exit called in native code!
+159ceeed: Querying offset: 4fcf70
+159ceeed: 	--Add method name to patch = com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z 	4fcf70
+Devices presenting anti-analysis: 
+	devRoot
+	devDebug
+b29e6a69: patching method: com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devRoot
+Wow!!!!!  --  com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z
+fallthrough: 338
+branchTarget: 390
+label = sswitch_data_14
+GOTO -- 338 	390
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devRoot/signed_obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devRoot/signed_signed_obfuscated.apk
+b29e6a69: First address of Lcom/scottyab/rootbeer/RootBeer;->isRootedWithoutBusyBoxCheck()Z = 4fcb44
+b29e6a69: Address - Lcom/scottyab/rootbeer/RootBeer;->isRootedWithoutBusyBoxCheck()Z@332	 lastOffset = ed0
+b29e6a69: Instruction@@: SPARSE_SWITCH
+159ceeed: patching method: com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z
+159ceeed: outDir - /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devDebug
+Wow!!!!!  --  com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z
+fallthrough: 442
+branchTarget: 444
+label = sswitch_data_19
+GOTO -- 442 	444
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devDebug/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devDebug/signed_obfuscated.apk
+159ceeed: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devDebug/signed_signed_obfuscated.apk
+159ceeed: First address of Lcom/scottyab/rootbeer/RootBeer;->isRootedWithoutBusyBoxCheck()Z = 4fcb44
+159ceeed: Address - Lcom/scottyab/rootbeer/RootBeer;->isRootedWithoutBusyBoxCheck()Z@43c	 lastOffset = ed0
+159ceeed: Instruction@@: SPARSE_SWITCH
+159ceeed: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devDebug/signed_signed_obfuscated.apk
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devRoot/signed_signed_obfuscated.apk
+b29e6a69: Installation Success
+159ceeed: Installation Success
+b29e6a69: startApplication called! - devRoot
+159ceeed: startApplication called! - devDebug
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_signed_obfuscated.ilog)
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_signed_obfuscated.ilog)
+b29e6a69: Running Application: com.finacus.pjsbimps
+PIDs--------------------------------------------------------------------------
+u0_a296       18559    430 1765980 137904 0                   0 S com.finacus.pjsbimps
+forward tcp:5005 jdwp:18559
+[*]Found JDWP Target: 18559
+159ceeed: Running Application: com.finacus.pjsbimps
+159ceeed: Running is done - starting comparing... : 5001
+159ceeed: Terminated logcat thread...by itself
+159ceeed: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.finacus.pjsbimps
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+Tryging remove : uninstall com.finacus.pjsbimps(com.finacus.pjsbimps)
+159ceeed: Remove Success
+159ceeed: ilog file size: 7254911
+159ceeed: End of collecting logcat...
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.finacus.pjsbimps
+Tryging remove : uninstall com.finacus.pjsbimps(com.finacus.pjsbimps)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 7437090
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 24
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+b29e6a69: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated.apk launch is failed on devRoot
+159ceeed: isFailedToLaunch: com.android.launcher3/.Launcher
+159ceeed: 	--result: Failed :( (1)
+159ceeed: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated.apk launch is failed on devDebug
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 4fce4a
+-- current localPatchFilter: 4fcdf8
+-- current localPatchFilter: 4fcbe6
+-- current localPatchFilter: 4fce66
+-- current localPatchFilter: 4fce22
+Action is completely same :)
+mono.android.TypeManager/Activate:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/Object;[Ljava/lang/Object;)V:50ee64		=(rels)=>		1
+[*] Unique action: 1:16411 : <<CALL>> : mono.android.content.DialogInterface_OnClickListenerImplementor/<init>:()V:50ee64  =>  mono.android.TypeManager/Activate:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/Object;[Ljava/lang/Object;)V:50d4e8
+	1:compareBackwardBranch: 1:16446 : <<BRANCH>> : com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z:4fce94  =>  com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z:4fceb8
+Entry: 4fcb34
+com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z: 4fce94 -> 4fceb8
+		com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z: 360 -> 384
+addPatchReadme: java.lang.Class<com.scottyab.rootbeer.RootBeer>isRootedWithoutBusyBoxCheck()Z 360 t
+b29e6a69: [+] Patches found in this round: 1
+b29e6a69: [*] Found Patch size: 1
+ExitReason-Code: 4 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_signed_obfuscated.ilog)
+	System.exit called in native code!
+b29e6a69: Querying offset: 4fce94
+b29e6a69: 	--Add method name to patch = com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z 	4fce94
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 4fcefe
+-- current localPatchFilter: 4fcf1a
+-- current localPatchFilter: 4fcf48
+-- current localPatchFilter: 4fcbe6
+-- current localPatchFilter: 4fcf70
+Action is completely same :)
+mono.android.TypeManager/Activate:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/Object;[Ljava/lang/Object;)V:50ee64		=(rels)=>		1
+[*] Unique action: 1:90417 : <<CALL>> : mono.android.content.DialogInterface_OnClickListenerImplementor/<init>:()V:50ee64  =>  mono.android.TypeManager/Activate:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/Object;[Ljava/lang/Object;)V:50d4e8
+	1:compareBackwardBranch: 1:90001 : <<BRANCH>> : com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z:4fcf98  =>  com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z:4fcfa0
+Entry: 4fcb34
+com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z: 4fcf98 -> 4fcfa0
+		com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z: 464 -> 46c
+addPatchReadme: java.lang.Class<com.scottyab.rootbeer.RootBeer>isRootedWithoutBusyBoxCheck()Z 464 t
+159ceeed: [+] Patches found in this round: 1
+159ceeed: [*] Found Patch size: 1
+ExitReason-Code: 4 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_signed_obfuscated.ilog)
+	System.exit called in native code!
+159ceeed: Querying offset: 4fcf98
+159ceeed: 	--Add method name to patch = com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z 	4fcf98
+Devices presenting anti-analysis: 
+	devRoot
+	devDebug
+b29e6a69: patching method: com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devRoot
+Wow!!!!!  --  com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z
+fallthrough: 366
+branchTarget: 384
+label = sswitch_data_15
+GOTO -- 366 	384
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devRoot/signed_obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devRoot/signed_signed_obfuscated.apk
+b29e6a69: First address of Lcom/scottyab/rootbeer/RootBeer;->isRootedWithoutBusyBoxCheck()Z = 4fcb44
+b29e6a69: Address - Lcom/scottyab/rootbeer/RootBeer;->isRootedWithoutBusyBoxCheck()Z@360	 lastOffset = ed0
+b29e6a69: Instruction@@: SPARSE_SWITCH
+159ceeed: patching method: com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z
+159ceeed: outDir - /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devDebug
+Wow!!!!!  --  com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z
+fallthrough: 46a
+branchTarget: 46c
+label = sswitch_data_20
+GOTO -- 46a 	46c
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devDebug/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devDebug/signed_obfuscated.apk
+159ceeed: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devDebug/signed_signed_obfuscated.apk
+159ceeed: First address of Lcom/scottyab/rootbeer/RootBeer;->isRootedWithoutBusyBoxCheck()Z = 4fcb44
+159ceeed: Address - Lcom/scottyab/rootbeer/RootBeer;->isRootedWithoutBusyBoxCheck()Z@464	 lastOffset = ed0
+159ceeed: Instruction@@: SPARSE_SWITCH
+159ceeed: (Not Installed) Trying remove : true
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devDebug/signed_signed_obfuscated.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devRoot/signed_signed_obfuscated.apk
+b29e6a69: Installation Success
+159ceeed: Installation Success
+b29e6a69: startApplication called! - devRoot
+159ceeed: startApplication called! - devDebug
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_signed_obfuscated.ilog)
+b29e6a69: Running Application: com.finacus.pjsbimps
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_signed_obfuscated.ilog)
+PIDs--------------------------------------------------------------------------
+u0_a297       18750    430 1765976 137704 0                   0 S com.finacus.pjsbimps
+forward tcp:5005 jdwp:18750
+[*]Found JDWP Target: 18750
+159ceeed: Running Application: com.finacus.pjsbimps
+159ceeed: Running is done - starting comparing... : 5001
+159ceeed: Terminated logcat thread...by itself
+159ceeed: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.finacus.pjsbimps
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.finacus.pjsbimps
+Tryging remove : uninstall com.finacus.pjsbimps(com.finacus.pjsbimps)
+159ceeed: Remove Success
+159ceeed: ilog file size: 7298341
+159ceeed: End of collecting logcat...
+Tryging remove : uninstall com.finacus.pjsbimps(com.finacus.pjsbimps)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 7524045
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 23
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+b29e6a69: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated.apk launch is failed on devRoot
+159ceeed: isFailedToLaunch: com.android.launcher3/.Launcher
+159ceeed: 	--result: Failed :( (1)
+159ceeed: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated.apk launch is failed on devDebug
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 4fce4a
+-- current localPatchFilter: 4fcdf8
+-- current localPatchFilter: 4fcbe6
+-- current localPatchFilter: 4fce66
+-- current localPatchFilter: 4fce94
+-- current localPatchFilter: 4fce22
+Action is completely same :)
+mono.android.TypeManager/Activate:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/Object;[Ljava/lang/Object;)V:50ee64		=(rels)=>		1
+[*] Unique action: 1:16411 : <<CALL>> : mono.android.content.DialogInterface_OnClickListenerImplementor/<init>:()V:50ee64  =>  mono.android.TypeManager/Activate:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/Object;[Ljava/lang/Object;)V:50d4e8
+	1:compareBackwardBranch: 1:16443 : <<BRANCH>> : com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z:4fcea8  =>  com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z:4fceac
+Entry: 4fcb34
+com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z: 4fcea8 -> 4fceac
+		com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z: 374 -> 378
+addPatchReadme: java.lang.Class<com.scottyab.rootbeer.RootBeer>isRootedWithoutBusyBoxCheck()Z 374 f
+b29e6a69: [+] Patches found in this round: 1
+b29e6a69: [*] Found Patch size: 1
+ExitReason-Code: 4 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_signed_obfuscated.ilog)
+	System.exit called in native code!
+b29e6a69: Querying offset: 4fcea8
+b29e6a69: 	--Add method name to patch = com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z 	4fcea8
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 4fcefe
+-- current localPatchFilter: 4fcf1a
+-- current localPatchFilter: 4fcf48
+-- current localPatchFilter: 4fcf98
+-- current localPatchFilter: 4fcbe6
+-- current localPatchFilter: 4fcf70
+Action is completely same :)
+mono.android.TypeManager/Activate:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/Object;[Ljava/lang/Object;)V:50ee64		=(rels)=>		1
+[*] Unique action: 1:90417 : <<CALL>> : mono.android.content.DialogInterface_OnClickListenerImplementor/<init>:()V:50ee64  =>  mono.android.TypeManager/Activate:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/Object;[Ljava/lang/Object;)V:50d4e8
+	1:compareBackwardBranch: 1:89998 : <<BRANCH>> : com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z:4fcfb4  =>  com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z:4fcfb8
+Entry: 4fcb34
+com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z: 4fcfb4 -> 4fcfb8
+		com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z: 480 -> 484
+addPatchReadme: java.lang.Class<com.scottyab.rootbeer.RootBeer>isRootedWithoutBusyBoxCheck()Z 480 f
+159ceeed: [+] Patches found in this round: 1
+159ceeed: [*] Found Patch size: 1
+ExitReason-Code: 4 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_signed_obfuscated.ilog)
+	System.exit called in native code!
+159ceeed: Querying offset: 4fcfb4
+159ceeed: 	--Add method name to patch = com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z 	4fcfb4
+Devices presenting anti-analysis: 
+	devRoot
+	devDebug
+b29e6a69: patching method: com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devRoot
+Wow!!!!!  --  com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z
+fallthrough: 378
+branchTarget: 378
+NOP!
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devRoot/signed_obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devRoot/signed_signed_obfuscated.apk
+b29e6a69: First address of Lcom/scottyab/rootbeer/RootBeer;->isRootedWithoutBusyBoxCheck()Z = 4fcb44
+b29e6a69: Address - Lcom/scottyab/rootbeer/RootBeer;->isRootedWithoutBusyBoxCheck()Z@374	 lastOffset = ed0
+b29e6a69: Instruction@@: IF_NEZ
+159ceeed: patching method: com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z
+159ceeed: outDir - /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devDebug
+Wow!!!!!  --  com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z
+fallthrough: 484
+branchTarget: 484
+NOP!
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devDebug/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devDebug/signed_obfuscated.apk
+159ceeed: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devDebug/signed_signed_obfuscated.apk
+159ceeed: First address of Lcom/scottyab/rootbeer/RootBeer;->isRootedWithoutBusyBoxCheck()Z = 4fcb44
+159ceeed: Address - Lcom/scottyab/rootbeer/RootBeer;->isRootedWithoutBusyBoxCheck()Z@480	 lastOffset = ed0
+159ceeed: Instruction@@: IF_NEZ
+159ceeed: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devDebug/signed_signed_obfuscated.apk
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devRoot/signed_signed_obfuscated.apk
+b29e6a69: Installation Success
+159ceeed: Installation Success
+b29e6a69: startApplication called! - devRoot
+159ceeed: startApplication called! - devDebug
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_signed_obfuscated.ilog)
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_signed_obfuscated.ilog)
+b29e6a69: Running Application: com.finacus.pjsbimps
+PIDs--------------------------------------------------------------------------
+u0_a298       18943    430 1766120 138136 0                   0 S com.finacus.pjsbimps
+forward tcp:5005 jdwp:18943
+[*]Found JDWP Target: 18943
+159ceeed: Running Application: com.finacus.pjsbimps
+159ceeed: Running is done - starting comparing... : 5001
+159ceeed: Terminated logcat thread...by itself
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+159ceeed: Top-activity: com.finacus.pjsbimps/crc641458e4fcfb44cea0.MainActivity
+PIDs--------------------------------------------------------------------------
+u0_a298       18943    430 1809640 197500 0                   0 S com.finacus.pjsbimps
+PIDs--------------------------------------------------------------------------
+u0_a298       18943    430 1809640 197500 0                   0 S com.finacus.pjsbimps
+Stopping app: com.finacus.pjsbimps
+b29e6a69: Top-activity: com.finacus.pjsbimps/crc641458e4fcfb44cea0.MainActivity
+PIDs--------------------------------------------------------------------------
+u0_a3471      25709    430 1811176 197376 0                   0 S com.finacus.pjsbimps
+PIDs--------------------------------------------------------------------------
+u0_a3471      25709    430 1811176 197376 0                   0 S com.finacus.pjsbimps
+Stopping app: com.finacus.pjsbimps
+Tryging remove : uninstall com.finacus.pjsbimps(com.finacus.pjsbimps)
+159ceeed: Remove Success
+159ceeed: ilog file size: 34306723
+159ceeed: End of collecting logcat...
+Tryging remove : uninstall com.finacus.pjsbimps(com.finacus.pjsbimps)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 34511552
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 22
+b29e6a69: isFailedToLaunch: com.finacus.pjsbimps/crc641458e4fcfb44cea0.MainActivity
+b29e6a69: 	--result: Good :)
+159ceeed: isFailedToLaunch: com.finacus.pjsbimps/crc641458e4fcfb44cea0.MainActivity
+159ceeed: 	--result: Good :)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_signed_obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_signed_obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_signed_obfuscated.ilog)
+b29e6a69: adding filter -- 4fcea8
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_signed_obfuscated.ilog)
+159ceeed: adding filter -- 4fcfb4
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 4fcea8
+Action is completely same :)
+mono.android.TypeManager/Activate:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/Object;[Ljava/lang/Object;)V:50ee64		=(rels)=>		1
+[*] Unique action: 1:145799 : <<CALL>> : mono.android.content.DialogInterface_OnClickListenerImplementor/<init>:()V:50ee64  =>  mono.android.TypeManager/Activate:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/Object;[Ljava/lang/Object;)V:50d4e8
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 4fcfb4
+Action is completely same :)
+Action is completely same :)
+159ceeed: There is no difference. (tryAgain=false)
+	1:compareBackwardBranch: 1:90031 : <<BRANCH>> : com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z:4fcbe6  =>  com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z:4fcfe4
+Entry: 4fcb34
+com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z: 4fcbe6 -> 4fcfe4
+		com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z: b2 -> 4b0
+addPatchReadme: java.lang.Class<com.scottyab.rootbeer.RootBeer>isRootedWithoutBusyBoxCheck()Z b2 t
+b29e6a69: [+] Patches found in this round: 1
+b29e6a69: [*] Found Patch size: 1
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_signed_obfuscated.ilog)
+b29e6a69: Querying offset: 4fcbe6
+b29e6a69: 	--Add method name to patch = com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z 	4fcbe6
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: patching method: com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devRoot
+Wow!!!!!  --  com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z
+fallthrough: b8
+branchTarget: 4b0
+label = sswitch_data_0
+GOTO -- b8 	4b0
+Wow!!!!!  --  com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z
+fallthrough: 378
+branchTarget: 378
+NOP!
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devRoot/signed_obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devRoot/signed_signed_obfuscated.apk
+b29e6a69: First address of Lcom/scottyab/rootbeer/RootBeer;->isRootedWithoutBusyBoxCheck()Z = 4fcb44
+b29e6a69: Address - Lcom/scottyab/rootbeer/RootBeer;->isRootedWithoutBusyBoxCheck()Z@374	 lastOffset = ed0
+b29e6a69: Instruction@@: IF_NEZ
+b29e6a69: First address of Lcom/scottyab/rootbeer/RootBeer;->isRootedWithoutBusyBoxCheck()Z = 4fcb44
+b29e6a69: Address - Lcom/scottyab/rootbeer/RootBeer;->isRootedWithoutBusyBoxCheck()Z@b2	 lastOffset = ed0
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devRoot/signed_signed_obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_signed_obfuscated.ilog)
+b29e6a69: Running Application: com.finacus.pjsbimps
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.finacus.pjsbimps
+Tryging remove : uninstall com.finacus.pjsbimps(com.finacus.pjsbimps)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 7682220
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 21
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+b29e6a69: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated.apk launch is failed on devRoot
+b29e6a69: adding filter -- 4fcea8
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 4fcea8
+-- current localPatchFilter: 4fcbe6
+Action is completely same :)
+mono.android.TypeManager/Activate:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/Object;[Ljava/lang/Object;)V:50ee64		=(rels)=>		1
+[*] Unique action: 1:145799 : <<CALL>> : mono.android.content.DialogInterface_OnClickListenerImplementor/<init>:()V:50ee64  =>  mono.android.TypeManager/Activate:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/Object;[Ljava/lang/Object;)V:50d4e8
+	1:compareBackwardBranch: 1:90025 : <<BRANCH>> : com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z:4fcefe  =>  com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z:4fcfd6
+Entry: 4fcb34
+com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z: 4fcefe -> 4fcfd6
+		com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z: 3ca -> 4a2
+addPatchReadme: java.lang.Class<com.scottyab.rootbeer.RootBeer>isRootedWithoutBusyBoxCheck()Z 3ca t
+b29e6a69: [+] Patches found in this round: 1
+b29e6a69: [*] Found Patch size: 1
+ExitReason-Code: 4 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_signed_obfuscated.ilog)
+	System.exit called in native code!
+b29e6a69: Querying offset: 4fcefe
+b29e6a69: 	--Add method name to patch = com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z 	4fcefe
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: patching method: com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devRoot
+Wow!!!!!  --  com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z
+fallthrough: 378
+branchTarget: 378
+NOP!
+Wow!!!!!  --  com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z
+fallthrough: 3d0
+branchTarget: 4a2
+label = sswitch_data_16
+GOTO -- 3d0 	4a2
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devRoot/signed_obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devRoot/signed_signed_obfuscated.apk
+b29e6a69: First address of Lcom/scottyab/rootbeer/RootBeer;->isRootedWithoutBusyBoxCheck()Z = 4fcb44
+b29e6a69: Address - Lcom/scottyab/rootbeer/RootBeer;->isRootedWithoutBusyBoxCheck()Z@3ca	 lastOffset = ed0
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: First address of Lcom/scottyab/rootbeer/RootBeer;->isRootedWithoutBusyBoxCheck()Z = 4fcb44
+b29e6a69: Address - Lcom/scottyab/rootbeer/RootBeer;->isRootedWithoutBusyBoxCheck()Z@374	 lastOffset = ed0
+b29e6a69: Instruction@@: IF_NEZ
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devRoot/signed_signed_obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_signed_obfuscated.ilog)
+b29e6a69: Running Application: com.finacus.pjsbimps
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.finacus.pjsbimps
+Tryging remove : uninstall com.finacus.pjsbimps(com.finacus.pjsbimps)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 7508515
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 20
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+b29e6a69: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated.apk launch is failed on devRoot
+b29e6a69: adding filter -- 4fcea8
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 4fcefe
+-- current localPatchFilter: 4fcea8
+-- current localPatchFilter: 4fcbe6
+Action is completely same :)
+mono.android.TypeManager/Activate:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/Object;[Ljava/lang/Object;)V:50ee64		=(rels)=>		1
+[*] Unique action: 1:145799 : <<CALL>> : mono.android.content.DialogInterface_OnClickListenerImplementor/<init>:()V:50ee64  =>  mono.android.TypeManager/Activate:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/Object;[Ljava/lang/Object;)V:50d4e8
+	1:compareBackwardBranch: 1:90019 : <<BRANCH>> : com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z:4fcf1a  =>  com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z:4fcf22
+Entry: 4fcb34
+com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z: 4fcf1a -> 4fcf22
+		com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z: 3e6 -> 3ee
+addPatchReadme: java.lang.Class<com.scottyab.rootbeer.RootBeer>isRootedWithoutBusyBoxCheck()Z 3e6 t
+b29e6a69: [+] Patches found in this round: 1
+b29e6a69: [*] Found Patch size: 1
+ExitReason-Code: 4 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_signed_obfuscated.ilog)
+	System.exit called in native code!
+b29e6a69: Querying offset: 4fcf1a
+b29e6a69: 	--Add method name to patch = com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z 	4fcf1a
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: patching method: com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devRoot
+Wow!!!!!  --  com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z
+fallthrough: 378
+branchTarget: 378
+NOP!
+Wow!!!!!  --  com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z
+fallthrough: 3ec
+branchTarget: 3ee
+label = sswitch_data_17
+GOTO -- 3ec 	3ee
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devRoot/signed_obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devRoot/signed_signed_obfuscated.apk
+b29e6a69: First address of Lcom/scottyab/rootbeer/RootBeer;->isRootedWithoutBusyBoxCheck()Z = 4fcb44
+b29e6a69: Address - Lcom/scottyab/rootbeer/RootBeer;->isRootedWithoutBusyBoxCheck()Z@3e6	 lastOffset = ed0
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: First address of Lcom/scottyab/rootbeer/RootBeer;->isRootedWithoutBusyBoxCheck()Z = 4fcb44
+b29e6a69: Address - Lcom/scottyab/rootbeer/RootBeer;->isRootedWithoutBusyBoxCheck()Z@374	 lastOffset = ed0
+b29e6a69: Instruction@@: IF_NEZ
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devRoot/signed_signed_obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_signed_obfuscated.ilog)
+b29e6a69: Running Application: com.finacus.pjsbimps
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.finacus.pjsbimps
+Tryging remove : uninstall com.finacus.pjsbimps(com.finacus.pjsbimps)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 7493683
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 19
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+b29e6a69: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated.apk launch is failed on devRoot
+b29e6a69: adding filter -- 4fcea8
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 4fcefe
+-- current localPatchFilter: 4fcf1a
+-- current localPatchFilter: 4fcea8
+-- current localPatchFilter: 4fcbe6
+Action is completely same :)
+mono.android.TypeManager/Activate:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/Object;[Ljava/lang/Object;)V:50ee64		=(rels)=>		1
+[*] Unique action: 1:145799 : <<CALL>> : mono.android.content.DialogInterface_OnClickListenerImplementor/<init>:()V:50ee64  =>  mono.android.TypeManager/Activate:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/Object;[Ljava/lang/Object;)V:50d4e8
+	1:compareBackwardBranch: 1:90013 : <<BRANCH>> : com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z:4fcf48  =>  com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z:4fcf50
+Entry: 4fcb34
+com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z: 4fcf48 -> 4fcf50
+		com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z: 414 -> 41c
+addPatchReadme: java.lang.Class<com.scottyab.rootbeer.RootBeer>isRootedWithoutBusyBoxCheck()Z 414 t
+b29e6a69: [+] Patches found in this round: 1
+b29e6a69: [*] Found Patch size: 1
+ExitReason-Code: 4 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_signed_obfuscated.ilog)
+	System.exit called in native code!
+b29e6a69: Querying offset: 4fcf48
+b29e6a69: 	--Add method name to patch = com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z 	4fcf48
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: patching method: com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devRoot
+Wow!!!!!  --  com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z
+fallthrough: 378
+branchTarget: 378
+NOP!
+Wow!!!!!  --  com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z
+fallthrough: 41a
+branchTarget: 41c
+label = sswitch_data_18
+GOTO -- 41a 	41c
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devRoot/signed_obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devRoot/signed_signed_obfuscated.apk
+b29e6a69: First address of Lcom/scottyab/rootbeer/RootBeer;->isRootedWithoutBusyBoxCheck()Z = 4fcb44
+b29e6a69: Address - Lcom/scottyab/rootbeer/RootBeer;->isRootedWithoutBusyBoxCheck()Z@374	 lastOffset = ed0
+b29e6a69: Instruction@@: IF_NEZ
+b29e6a69: First address of Lcom/scottyab/rootbeer/RootBeer;->isRootedWithoutBusyBoxCheck()Z = 4fcb44
+b29e6a69: Address - Lcom/scottyab/rootbeer/RootBeer;->isRootedWithoutBusyBoxCheck()Z@414	 lastOffset = ed0
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devRoot/signed_signed_obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_signed_obfuscated.ilog)
+b29e6a69: Running Application: com.finacus.pjsbimps
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.finacus.pjsbimps
+Tryging remove : uninstall com.finacus.pjsbimps(com.finacus.pjsbimps)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 7342218
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 18
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+b29e6a69: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated.apk launch is failed on devRoot
+b29e6a69: adding filter -- 4fcea8
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 4fcefe
+-- current localPatchFilter: 4fcf1a
+-- current localPatchFilter: 4fcea8
+-- current localPatchFilter: 4fcf48
+-- current localPatchFilter: 4fcbe6
+Action is completely same :)
+mono.android.TypeManager/Activate:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/Object;[Ljava/lang/Object;)V:50ee64		=(rels)=>		1
+[*] Unique action: 1:145799 : <<CALL>> : mono.android.content.DialogInterface_OnClickListenerImplementor/<init>:()V:50ee64  =>  mono.android.TypeManager/Activate:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/Object;[Ljava/lang/Object;)V:50d4e8
+	1:compareBackwardBranch: 1:90007 : <<BRANCH>> : com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z:4fcf70  =>  com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z:4fcf78
+Entry: 4fcb34
+com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z: 4fcf70 -> 4fcf78
+		com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z: 43c -> 444
+addPatchReadme: java.lang.Class<com.scottyab.rootbeer.RootBeer>isRootedWithoutBusyBoxCheck()Z 43c t
+b29e6a69: [+] Patches found in this round: 1
+b29e6a69: [*] Found Patch size: 1
+ExitReason-Code: 4 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_signed_obfuscated.ilog)
+	System.exit called in native code!
+b29e6a69: Querying offset: 4fcf70
+b29e6a69: 	--Add method name to patch = com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z 	4fcf70
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: patching method: com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devRoot
+Wow!!!!!  --  com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z
+fallthrough: 378
+branchTarget: 378
+NOP!
+Wow!!!!!  --  com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z
+fallthrough: 442
+branchTarget: 444
+label = sswitch_data_19
+GOTO -- 442 	444
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devRoot/signed_obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devRoot/signed_signed_obfuscated.apk
+b29e6a69: First address of Lcom/scottyab/rootbeer/RootBeer;->isRootedWithoutBusyBoxCheck()Z = 4fcb44
+b29e6a69: Address - Lcom/scottyab/rootbeer/RootBeer;->isRootedWithoutBusyBoxCheck()Z@374	 lastOffset = ed0
+b29e6a69: Instruction@@: IF_NEZ
+b29e6a69: First address of Lcom/scottyab/rootbeer/RootBeer;->isRootedWithoutBusyBoxCheck()Z = 4fcb44
+b29e6a69: Address - Lcom/scottyab/rootbeer/RootBeer;->isRootedWithoutBusyBoxCheck()Z@43c	 lastOffset = ed0
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devRoot/signed_signed_obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_signed_obfuscated.ilog)
+b29e6a69: Running Application: com.finacus.pjsbimps
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.finacus.pjsbimps
+Tryging remove : uninstall com.finacus.pjsbimps(com.finacus.pjsbimps)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 7639189
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 17
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+b29e6a69: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated.apk launch is failed on devRoot
+b29e6a69: adding filter -- 4fcea8
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 4fcefe
+-- current localPatchFilter: 4fcf1a
+-- current localPatchFilter: 4fcea8
+-- current localPatchFilter: 4fcf48
+-- current localPatchFilter: 4fcbe6
+-- current localPatchFilter: 4fcf70
+Action is completely same :)
+mono.android.TypeManager/Activate:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/Object;[Ljava/lang/Object;)V:50ee64		=(rels)=>		1
+[*] Unique action: 1:145799 : <<CALL>> : mono.android.content.DialogInterface_OnClickListenerImplementor/<init>:()V:50ee64  =>  mono.android.TypeManager/Activate:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/Object;[Ljava/lang/Object;)V:50d4e8
+	1:compareBackwardBranch: 1:90001 : <<BRANCH>> : com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z:4fcf98  =>  com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z:4fcfa0
+Entry: 4fcb34
+com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z: 4fcf98 -> 4fcfa0
+		com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z: 464 -> 46c
+addPatchReadme: java.lang.Class<com.scottyab.rootbeer.RootBeer>isRootedWithoutBusyBoxCheck()Z 464 t
+b29e6a69: [+] Patches found in this round: 1
+b29e6a69: [*] Found Patch size: 1
+ExitReason-Code: 4 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_signed_obfuscated.ilog)
+	System.exit called in native code!
+b29e6a69: Querying offset: 4fcf98
+b29e6a69: 	--Add method name to patch = com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z 	4fcf98
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: patching method: com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devRoot
+Wow!!!!!  --  com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z
+fallthrough: 378
+branchTarget: 378
+NOP!
+Wow!!!!!  --  com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z
+fallthrough: 46a
+branchTarget: 46c
+label = sswitch_data_20
+GOTO -- 46a 	46c
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devRoot/signed_obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devRoot/signed_signed_obfuscated.apk
+b29e6a69: First address of Lcom/scottyab/rootbeer/RootBeer;->isRootedWithoutBusyBoxCheck()Z = 4fcb44
+b29e6a69: Address - Lcom/scottyab/rootbeer/RootBeer;->isRootedWithoutBusyBoxCheck()Z@374	 lastOffset = ed0
+b29e6a69: Instruction@@: IF_NEZ
+b29e6a69: First address of Lcom/scottyab/rootbeer/RootBeer;->isRootedWithoutBusyBoxCheck()Z = 4fcb44
+b29e6a69: Address - Lcom/scottyab/rootbeer/RootBeer;->isRootedWithoutBusyBoxCheck()Z@464	 lastOffset = ed0
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devRoot/signed_signed_obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_signed_obfuscated.ilog)
+b29e6a69: Running Application: com.finacus.pjsbimps
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.finacus.pjsbimps
+Tryging remove : uninstall com.finacus.pjsbimps(com.finacus.pjsbimps)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 7506501
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 16
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+b29e6a69: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated.apk launch is failed on devRoot
+b29e6a69: adding filter -- 4fcea8
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 4fcefe
+-- current localPatchFilter: 4fcf1a
+-- current localPatchFilter: 4fcea8
+-- current localPatchFilter: 4fcf48
+-- current localPatchFilter: 4fcf98
+-- current localPatchFilter: 4fcbe6
+-- current localPatchFilter: 4fcf70
+Action is completely same :)
+mono.android.TypeManager/Activate:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/Object;[Ljava/lang/Object;)V:50ee64		=(rels)=>		1
+[*] Unique action: 1:145799 : <<CALL>> : mono.android.content.DialogInterface_OnClickListenerImplementor/<init>:()V:50ee64  =>  mono.android.TypeManager/Activate:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/Object;[Ljava/lang/Object;)V:50d4e8
+	1:compareBackwardBranch: 1:89998 : <<BRANCH>> : com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z:4fcfb4  =>  com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z:4fcfb8
+Entry: 4fcb34
+com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z: 4fcfb4 -> 4fcfb8
+		com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z: 480 -> 484
+addPatchReadme: java.lang.Class<com.scottyab.rootbeer.RootBeer>isRootedWithoutBusyBoxCheck()Z 480 f
+b29e6a69: [+] Patches found in this round: 1
+b29e6a69: [*] Found Patch size: 1
+ExitReason-Code: 4 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_signed_obfuscated.ilog)
+	System.exit called in native code!
+b29e6a69: Querying offset: 4fcfb4
+b29e6a69: 	--Add method name to patch = com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z 	4fcfb4
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: patching method: com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devRoot
+Wow!!!!!  --  com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z
+fallthrough: 378
+branchTarget: 378
+NOP!
+Wow!!!!!  --  com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z
+fallthrough: 484
+branchTarget: 484
+NOP!
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devRoot/signed_obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devRoot/signed_signed_obfuscated.apk
+b29e6a69: First address of Lcom/scottyab/rootbeer/RootBeer;->isRootedWithoutBusyBoxCheck()Z = 4fcb44
+b29e6a69: Address - Lcom/scottyab/rootbeer/RootBeer;->isRootedWithoutBusyBoxCheck()Z@374	 lastOffset = ed0
+b29e6a69: Instruction@@: IF_NEZ
+b29e6a69: First address of Lcom/scottyab/rootbeer/RootBeer;->isRootedWithoutBusyBoxCheck()Z = 4fcb44
+b29e6a69: Address - Lcom/scottyab/rootbeer/RootBeer;->isRootedWithoutBusyBoxCheck()Z@480	 lastOffset = ed0
+b29e6a69: Instruction@@: IF_NEZ
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devRoot/signed_signed_obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_signed_obfuscated.ilog)
+b29e6a69: Running Application: com.finacus.pjsbimps
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.finacus.pjsbimps/crc641458e4fcfb44cea0.MainActivity
+PIDs--------------------------------------------------------------------------
+u0_a3478      27022    430 1810764 196476 0                   0 S com.finacus.pjsbimps
+PIDs--------------------------------------------------------------------------
+u0_a3478      27022    430 1810764 196476 0                   0 S com.finacus.pjsbimps
+Stopping app: com.finacus.pjsbimps
+Tryging remove : uninstall com.finacus.pjsbimps(com.finacus.pjsbimps)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 45818169
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 15
+b29e6a69: isFailedToLaunch: com.finacus.pjsbimps/crc641458e4fcfb44cea0.MainActivity
+b29e6a69: 	--result: Good :)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_signed_obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_signed_obfuscated.ilog)
+b29e6a69: adding filter -- 4fcea8
+b29e6a69: adding filter -- 4fcfb4
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 4fcea8
+-- current localPatchFilter: 4fcfb4
+Action is completely same :)
+Action is completely same :)
+b29e6a69: There is no difference. (tryAgain=false)
+-- HPFinder will be done in this iteration :)
+hasAntiAnalysis? - devTamper: false on crc641458e4fcfb44cea0.SplashActivity
+hasAntiAnalysis? - devRoot: true on crc641458e4fcfb44cea0.SplashActivity
+	isRemovedThem? - devRoot: true on crc641458e4fcfb44cea0.SplashActivity	-	tryCount: 14
+hasAntiAnalysis? - devDebug: true on crc641458e4fcfb44cea0.SplashActivity
+	isRemovedThem? - devDebug: true on crc641458e4fcfb44cea0.SplashActivity	-	tryCount: 7
+*****REPORT: com.finacus.pjsbimps
+* Package name: com.finacus.pjsbimps
+* Running time: 858
+* FileSize: 13786530
+devTamper : 13176379
+devRef : 33557454
+devRoot : 45818169
+devDebug : 34306723
+hasAntiAnalysis? - devTamper: false on crc641458e4fcfb44cea0.SplashActivity
+hasAntiAnalysis? - devRoot: true on crc641458e4fcfb44cea0.SplashActivity
+	isRemovedThem? - devRoot: true on crc641458e4fcfb44cea0.SplashActivity	-	tryCount: 14
+hasAntiAnalysis? - devDebug: true on crc641458e4fcfb44cea0.SplashActivity
+	isRemovedThem? - devDebug: true on crc641458e4fcfb44cea0.SplashActivity	-	tryCount: 7
+46604b9f: trying remove : com.finacus.pjsbimps
+3601a6ff: trying remove : com.finacus.pjsbimps
+b29e6a69: trying remove : com.finacus.pjsbimps
+159ceeed: trying remove : com.finacus.pjsbimps
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+159ceeed: result = true
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+3601a6ff: result = true
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+b29e6a69: result = true
+Tryging remove : uninstall com.finacus.pjsbimps(com.finacus.pjsbimps)
+46604b9f: -- Success
+46604b9f: result = true
+3601a6ff: isFailedToLaunch: com.finacus.pjsbimps/crc641458e4fcfb44cea0.MainActivity
+3601a6ff: 	--result: Good :)

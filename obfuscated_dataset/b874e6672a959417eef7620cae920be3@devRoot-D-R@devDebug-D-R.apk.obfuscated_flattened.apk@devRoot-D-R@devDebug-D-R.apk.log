@@ -1,0 +1,354 @@
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/signed_a/AndroidManifest.xml
+launchable-activity: name='kr.co.e1.orangecard.InterceptorActivity'  label='' icon=''
+{ACTIVITY, kr.co.e1.orangecard.InterceptorActivity, android.intent.action.VIEW, android.intent.action.VIEW, android.intent.action.VIEW, android.intent.action.VIEW, android.intent.action.VIEW, android.intent.action.VIEW, android.intent.action.VIEW, android.intent.action.VIEW, android.intent.action.VIEW, android.intent.action.VIEW, android.intent.action.VIEW, android.intent.action.VIEW, android.intent.action.VIEW, android.intent.action.VIEW, android.intent.action.VIEW, android.intent.action.VIEW, android.intent.action.VIEW, android.intent.action.VIEW, android.intent.action.MAIN}
+{ACTIVITY, kr.co.e1.orangecard.intro.IntroActivity}
+{ACTIVITY, kr.co.e1.orangecard.main.MainActivity}
+{ACTIVITY, kr.co.e1.orangecard.auth.login.LoginActivity}
+{ACTIVITY, kr.co.e1.orangecard.auth.find_id_pwd.FindIdPwdActivity}
+{ACTIVITY, kr.co.e1.orangecard.auth.join.MemberJoinActivity}
+{ACTIVITY, kr.co.e1.orangecard.auth.user_info.UserInfoActivity}
+{ACTIVITY, kr.co.e1.orangecard.web.WebViewActivity}
+{ACTIVITY, kr.co.e1.orangecard.web.DetailWebViewActivity}
+{ACTIVITY, kr.co.e1.orangecard.notification_list.NotificationListActivity}
+{ACTIVITY, kr.co.e1.orangecard.orangecard.OrangeCardActivity}
+{ACTIVITY, kr.co.e1.orangecard.station.FindStationActivity}
+{ACTIVITY, kr.co.e1.orangecard.station.StationDetailActivity}
+{ACTIVITY, kr.co.e1.orangecard.event_benefit.EventBenefitActivity}
+{ACTIVITY, kr.co.e1.orangecard.mymenu.MyMenuActivity}
+{ACTIVITY, kr.co.e1.orangecard.event_benefit.orange_coupon.MyExpiredCouponListActivity}
+{ACTIVITY, kr.co.e1.orangecard.event_benefit.orange_coupon.MyCouponDetailActivity}
+{ACTIVITY, kr.co.e1.orangecard.event_benefit.orange_coupon.FullScreenBarcodeActivity}
+{ACTIVITY, kr.co.e1.orangecard.settings.SettingsActivity}
+{ACTIVITY, kr.co.e1.orangecard.qpid.ui.QpidNotificationActivity}
+{SERVICE, kr.co.e1.orangecard.firebase.QpidFirebaseMessagingService, com.google.firebase.MESSAGING_EVENT}
+{RECEIVER, kr.co.e1.orangecard.widget.WidgetBarcodeProvider, android.appwidget.action.APPWIDGET_UPDATE, kr.co.e1.orangecard.widget.barcode.refresh_layout, kr.co.e1.orangecard.widget.barcode.update_point_info}
+{RECEIVER, kr.co.e1.orangecard.widget.WidgetPointProvider, android.appwidget.action.APPWIDGET_UPDATE, kr.co.e1.orangecard.widget.point.refresh_layout, kr.co.e1.orangecard.widget.point.update_point_info}
+{ACTIVITY, kr.co.e1.orangecard.smartpay.SmartPayActivity}
+{ACTIVITY, kr.co.e1.orangecard.smartpay.SmartPayWebViewActivity}
+{SERVICE, com.google.firebase.messaging.FirebaseMessagingService, com.google.firebase.MESSAGING_EVENT}
+{SERVICE, com.google.firebase.components.ComponentDiscoveryService}
+{ACTIVITY, com.journeyapps.barcodescanner.CaptureActivity}
+{SERVICE, org.eclipse.paho.android.service.MqttService}
+{SERVICE, com.polared.qpid.service.QpidMainService}
+{SERVICE, com.polared.qpid.service.QpidMessengerService}
+{SERVICE, com.polared.qpid.service.QpidMessageOperationService}
+{RECEIVER, com.google.firebase.iid.FirebaseInstanceIdReceiver, com.google.android.c2dm.intent.RECEIVE}
+{ACTIVITY, com.google.android.gms.common.api.GoogleApiActivity}
+{RECEIVER, com.google.android.gms.measurement.AppMeasurementReceiver}
+{SERVICE, com.google.android.gms.measurement.AppMeasurementService}
+{SERVICE, com.google.android.gms.measurement.AppMeasurementJobService}
+{SERVICE, com.google.android.datatransport.runtime.backends.TransportBackendDiscovery}
+{SERVICE, com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService}
+{ACTIVITY, kr.co.e1.orangecard.InterceptorActivity, android.intent.action.VIEW, android.intent.action.VIEW, android.intent.action.VIEW, android.intent.action.VIEW, android.intent.action.VIEW, android.intent.action.VIEW, android.intent.action.VIEW, android.intent.action.VIEW, android.intent.action.VIEW, android.intent.action.VIEW, android.intent.action.VIEW, android.intent.action.VIEW, android.intent.action.VIEW, android.intent.action.VIEW, android.intent.action.VIEW, android.intent.action.VIEW, android.intent.action.VIEW, android.intent.action.VIEW, android.intent.action.MAIN}
+{ACTIVITY, kr.co.e1.orangecard.intro.IntroActivity}
+{ACTIVITY, kr.co.e1.orangecard.main.MainActivity}
+{ACTIVITY, kr.co.e1.orangecard.auth.login.LoginActivity}
+{ACTIVITY, kr.co.e1.orangecard.auth.find_id_pwd.FindIdPwdActivity}
+{ACTIVITY, kr.co.e1.orangecard.auth.join.MemberJoinActivity}
+{ACTIVITY, kr.co.e1.orangecard.auth.user_info.UserInfoActivity}
+{ACTIVITY, kr.co.e1.orangecard.web.WebViewActivity}
+{ACTIVITY, kr.co.e1.orangecard.web.DetailWebViewActivity}
+{ACTIVITY, kr.co.e1.orangecard.notification_list.NotificationListActivity}
+{ACTIVITY, kr.co.e1.orangecard.orangecard.OrangeCardActivity}
+{ACTIVITY, kr.co.e1.orangecard.station.FindStationActivity}
+{ACTIVITY, kr.co.e1.orangecard.station.StationDetailActivity}
+{ACTIVITY, kr.co.e1.orangecard.event_benefit.EventBenefitActivity}
+{ACTIVITY, kr.co.e1.orangecard.mymenu.MyMenuActivity}
+{ACTIVITY, kr.co.e1.orangecard.event_benefit.orange_coupon.MyExpiredCouponListActivity}
+{ACTIVITY, kr.co.e1.orangecard.event_benefit.orange_coupon.MyCouponDetailActivity}
+{ACTIVITY, kr.co.e1.orangecard.event_benefit.orange_coupon.FullScreenBarcodeActivity}
+{ACTIVITY, kr.co.e1.orangecard.settings.SettingsActivity}
+{ACTIVITY, kr.co.e1.orangecard.qpid.ui.QpidNotificationActivity}
+{SERVICE, kr.co.e1.orangecard.firebase.QpidFirebaseMessagingService, com.google.firebase.MESSAGING_EVENT}
+{RECEIVER, kr.co.e1.orangecard.widget.WidgetBarcodeProvider, android.appwidget.action.APPWIDGET_UPDATE, kr.co.e1.orangecard.widget.barcode.refresh_layout, kr.co.e1.orangecard.widget.barcode.update_point_info}
+{RECEIVER, kr.co.e1.orangecard.widget.WidgetPointProvider, android.appwidget.action.APPWIDGET_UPDATE, kr.co.e1.orangecard.widget.point.refresh_layout, kr.co.e1.orangecard.widget.point.update_point_info}
+{ACTIVITY, kr.co.e1.orangecard.smartpay.SmartPayActivity}
+{ACTIVITY, kr.co.e1.orangecard.smartpay.SmartPayWebViewActivity}
+{SERVICE, com.google.firebase.messaging.FirebaseMessagingService, com.google.firebase.MESSAGING_EVENT}
+{SERVICE, com.google.firebase.components.ComponentDiscoveryService}
+{ACTIVITY, com.journeyapps.barcodescanner.CaptureActivity}
+{SERVICE, org.eclipse.paho.android.service.MqttService}
+{SERVICE, com.polared.qpid.service.QpidMainService}
+{SERVICE, com.polared.qpid.service.QpidMessengerService}
+{SERVICE, com.polared.qpid.service.QpidMessageOperationService}
+{RECEIVER, com.google.firebase.iid.FirebaseInstanceIdReceiver, com.google.android.c2dm.intent.RECEIVE}
+{ACTIVITY, com.google.android.gms.common.api.GoogleApiActivity}
+{RECEIVER, com.google.android.gms.measurement.AppMeasurementReceiver}
+{SERVICE, com.google.android.gms.measurement.AppMeasurementService}
+{SERVICE, com.google.android.gms.measurement.AppMeasurementJobService}
+{SERVICE, com.google.android.datatransport.runtime.backends.TransportBackendDiscovery}
+{SERVICE, com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService}
+_getAllDexFiles: /home/santapark/Extended3/DEEPerence/reEx/signed_a/classes2.dex
+_getAllDexFiles: /home/santapark/Extended3/DEEPerence/reEx/signed_a/classes.dex
+----------------/home/santapark/Extended3/DEEPerence/reEx/signed_a.apk
+dexFile = org.jf.dexlib2.dexbacked.DexBackedDexFile@62e6a3ec
+kr.co.e1.orangecard
+kr.co.e1.orangecard.InterceptorActivity
+debuggable: true
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/signed_a.apk
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/signed_a.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/signed_a.apk
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/signed_a_46604b9f/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/signed_a_46604b9f/signed_a.apk
+3601a6ff: Installation Success
+159ceeed: Installation Success
+b29e6a69: Installation Success
+46604b9f: Installing repackaged apk File: 
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/signed_a_46604b9f/signed_signed_a.apk
+46604b9f: Installation Success
+46604b9f: startApplication called! - devTamper
+3601a6ff: startApplication called! - devRef
+b29e6a69: startApplication called! - devRoot
+159ceeed: startApplication called! - devDebug
+46604b9f: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devTamper_signed_a.ilog)
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_signed_a.ilog)
+46604b9f: Running Application: kr.co.e1.orangecard
+b29e6a69: Running Application: kr.co.e1.orangecard
+3601a6ff: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRef_signed_a.ilog)
+3601a6ff: Running Application: kr.co.e1.orangecard
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_signed_a.ilog)
+PIDs--------------------------------------------------------------------------
+u0_a333         913    425 14924612 122536 0                  0 S kr.co.e1.orangecard
+forward tcp:5005 jdwp:913
+[*]Found JDWP Target: 913
+159ceeed: Running Application: kr.co.e1.orangecard
+159ceeed: Running is done - starting comparing... : 10001
+159ceeed: Terminated logcat thread...by itself
+159ceeed: Top-activity: kr.co.e1.orangecard/.intro.IntroActivity
+PIDs--------------------------------------------------------------------------
+u0_a333         913    425 15046632 164116 0                  0 S kr.co.e1.orangecard
+PIDs--------------------------------------------------------------------------
+u0_a333         913    425 15046632 164116 0                  0 S kr.co.e1.orangecard
+Stopping app: kr.co.e1.orangecard
+Tryging remove : uninstall kr.co.e1.orangecard(kr.co.e1.orangecard)
+159ceeed: Remove Success
+159ceeed: ilog file size: 231564849
+159ceeed: End of collecting logcat...
+46604b9f: Top-activity: kr.co.e1.orangecard/.intro.IntroActivity
+PIDs--------------------------------------------------------------------------
+u0_a1078       3022    429 15171076 203856 0                  0 S kr.co.e1.orangecard
+46604b9f: Terminated logcat thread...by itself
+PIDs--------------------------------------------------------------------------
+u0_a1078       3022    429 15171076 203856 0                  0 S kr.co.e1.orangecard
+Stopping app: kr.co.e1.orangecard
+3601a6ff: Top-activity: kr.co.e1.orangecard/.intro.IntroActivity
+PIDs--------------------------------------------------------------------------
+u0_a205       20046    421 15324492 202796 0                  0 S kr.co.e1.orangecard
+3601a6ff: Terminated logcat thread...by itself
+PIDs--------------------------------------------------------------------------
+u0_a205       20046    421 15324492 202796 0                  0 S kr.co.e1.orangecard
+Stopping app: kr.co.e1.orangecard
+b29e6a69: Running is done - starting comparing... : 10001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: kr.co.e1.orangecard/.intro.IntroActivity
+PIDs--------------------------------------------------------------------------
+u0_a3542      14327    429 14877144 165016 0                  0 S kr.co.e1.orangecard
+PIDs--------------------------------------------------------------------------
+u0_a3542      14327    429 14877144 165016 0                  0 S kr.co.e1.orangecard
+Stopping app: kr.co.e1.orangecard
+Tryging remove : uninstall kr.co.e1.orangecard(kr.co.e1.orangecard)
+3601a6ff: Remove Success
+3601a6ff: ilog file size: 236789086
+3601a6ff: End of collecting logcat...
+Tryging remove : uninstall kr.co.e1.orangecard(kr.co.e1.orangecard)
+46604b9f: Remove Success
+46604b9f: ilog file size: 237502824
+46604b9f: End of collecting logcat...
+Tryging remove : uninstall kr.co.e1.orangecard(kr.co.e1.orangecard)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 231265507
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 29
+46604b9f: isFailedToLaunch: kr.co.e1.orangecard/.intro.IntroActivity
+46604b9f: 	--result: Good :)
+b29e6a69: isFailedToLaunch: kr.co.e1.orangecard/.intro.IntroActivity
+b29e6a69: 	--result: Good :)
+159ceeed: isFailedToLaunch: kr.co.e1.orangecard/.intro.IntroActivity
+159ceeed: 	--result: Good :)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_signed_a.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_signed_a.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_signed_a.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_signed_a.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_signed_a.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devTamper_signed_a.ilog)
+[*] FlowManager: adjust finished.
+[*] FlowManager: adjust finished.
+[GOOD]: Anti-analysis is identified! :) -- 1 --devDebug
+android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:15f299c		=(rels)=>		1
+[*] Unique action: 1:138228 : <<CALL>> : kr.co.e1.orangecard.i.p.b/k2:()V:15f299c  =>  android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:30ca84
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:15f299c		=(rels)=>		1
+[*] Unique action: 1:138228 : <<CALL>> : kr.co.e1.orangecard.i.p.b/k2:()V:15f299c  =>  android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:30ca84
+	1:compareBackwardBranch: 1:97429 : <<BRANCH>> : kr.co.e1.orangecard.intro.b/onActivityCreated:(Landroid/os/Bundle;)V:15ff784  =>  kr.co.e1.orangecard.intro.b/onActivityCreated:(Landroid/os/Bundle;)V:15ff7ce
+android.widget.Toast/show:()V:15fe15a		=(rels)=>		1
+[*] Unique action: 1:124332 : <<CALL>> : kr.co.e1.orangecard.intro.b$g/run:()V:15fe15a  =>  android.widget.Toast/show:()V:2a3e70
+	1:compareBackwardBranch: 1:97429 : <<BRANCH>> : kr.co.e1.orangecard.intro.b/onActivityCreated:(Landroid/os/Bundle;)V:15ff784  =>  kr.co.e1.orangecard.intro.b/onActivityCreated:(Landroid/os/Bundle;)V:15ff7ce
+android.widget.Toast/show:()V:15fe15a		=(rels)=>		1
+[*] Unique action: 1:124332 : <<CALL>> : kr.co.e1.orangecard.intro.b$g/run:()V:15fe15a  =>  android.widget.Toast/show:()V:2a3e70
+	1:compareBackwardBranch: 1:97429 : <<BRANCH>> : kr.co.e1.orangecard.intro.b/onActivityCreated:(Landroid/os/Bundle;)V:15ff784  =>  kr.co.e1.orangecard.intro.b/onActivityCreated:(Landroid/os/Bundle;)V:15ff7ce
+java.net.URL/openConnection:()Ljava/net/URLConnection;:1260ef0		=(rels)=>		0
+android.os.AsyncTask/execute:([Ljava/lang/Object;)Landroid/os/AsyncTask;:15f4e68		=(rels)=>		1
+[*] Unique action: 1:137801 : <<CALL>> : kr.co.e1.orangecard.i.p.b/l2:()V:15f4e68  =>  android.os.AsyncTask/execute:([Ljava/lang/Object;)Landroid/os/AsyncTask;:2ed1e4
+	1:compareBackwardBranch: 1:97429 : <<BRANCH>> : kr.co.e1.orangecard.intro.b/onActivityCreated:(Landroid/os/Bundle;)V:15ff784  =>  kr.co.e1.orangecard.intro.b/onActivityCreated:(Landroid/os/Bundle;)V:15ff7ce
+java.net.URL/openConnection:()Ljava/net/URLConnection;:1260ef0		=(rels)=>		0
+android.os.AsyncTask/execute:([Ljava/lang/Object;)Landroid/os/AsyncTask;:15f4e68		=(rels)=>		1
+[*] Unique action: 1:137801 : <<CALL>> : kr.co.e1.orangecard.i.p.b/l2:()V:15f4e68  =>  android.os.AsyncTask/execute:([Ljava/lang/Object;)Landroid/os/AsyncTask;:2ed1e4
+[*] FlowManager: adjust finished.
+Action is completely same :)
+Action is completely same :)
+46604b9f: There is no difference. (tryAgain=false)
+	1:compareBackwardBranch: 1:97429 : <<BRANCH>> : kr.co.e1.orangecard.intro.b/onActivityCreated:(Landroid/os/Bundle;)V:15ff784  =>  kr.co.e1.orangecard.intro.b/onActivityCreated:(Landroid/os/Bundle;)V:15ff7ce
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:15d2de2		=(rels)=>		1
+[*] Unique action: 1:77841 : <<CALL>> : kr.co.e1.orangecard.i.l.c/onCreateView:(Landroid/view/LayoutInflater;Landroid/view/ViewGroup;Landroid/os/Bundle;)Landroid/view/View;:15d2de2  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:97429 : <<BRANCH>> : kr.co.e1.orangecard.intro.b/onActivityCreated:(Landroid/os/Bundle;)V:15ff784  =>  kr.co.e1.orangecard.intro.b/onActivityCreated:(Landroid/os/Bundle;)V:15ff7ce
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:15d2de2		=(rels)=>		1
+[*] Unique action: 1:95227 : <<CALL>> : kr.co.e1.orangecard.i.l.c/onCreateView:(Landroid/view/LayoutInflater;Landroid/view/ViewGroup;Landroid/os/Bundle;)Landroid/view/View;:15d2de2  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:166021 : <<BRANCH>> : kr.co.e1.orangecard.i.l.c/onCreateView:(Landroid/view/LayoutInflater;Landroid/view/ViewGroup;Landroid/os/Bundle;)Landroid/view/View;:15d2dcc  =>  kr.co.e1.orangecard.i.l.c/onCreateView:(Landroid/view/LayoutInflater;Landroid/view/ViewGroup;Landroid/os/Bundle;)Landroid/view/View;:15d2dea
+Entry: 15d2cf0
+kr.co.e1.orangecard.i.l.c/onCreateView:(Landroid/view/LayoutInflater;Landroid/view/ViewGroup;Landroid/os/Bundle;)Landroid/view/View;: 15d2dcc -> 15d2dea
+		kr.co.e1.orangecard.i.l.c/onCreateView:(Landroid/view/LayoutInflater;Landroid/view/ViewGroup;Landroid/os/Bundle;)Landroid/view/View;: dc -> fa
+addPatchReadme: java.lang.Class<kr.co.e1.orangecard.i.l.c>onCreateView(Landroid/view/LayoutInflater;Landroid/view/ViewGroup;Landroid/os/Bundle;)Landroid/view/View; dc t
+Entry: 15ff744
+kr.co.e1.orangecard.intro.b/onActivityCreated:(Landroid/os/Bundle;)V: 15ff784 -> 15ff7ce
+		kr.co.e1.orangecard.intro.b/onActivityCreated:(Landroid/os/Bundle;)V: 40 -> 8a
+addPatchReadme: java.lang.Class<kr.co.e1.orangecard.intro.b>onActivityCreated(Landroid/os/Bundle;)V 40 t
+b29e6a69: [+] Patches found in this round: 2
+b29e6a69: [*] Found Patch size: 1
+	1:compareBackwardBranch: 1:166021 : <<BRANCH>> : kr.co.e1.orangecard.i.l.c/onCreateView:(Landroid/view/LayoutInflater;Landroid/view/ViewGroup;Landroid/os/Bundle;)Landroid/view/View;:15d2dcc  =>  kr.co.e1.orangecard.i.l.c/onCreateView:(Landroid/view/LayoutInflater;Landroid/view/ViewGroup;Landroid/os/Bundle;)Landroid/view/View;:15d2dea
+Entry: 15d2cf0
+kr.co.e1.orangecard.i.l.c/onCreateView:(Landroid/view/LayoutInflater;Landroid/view/ViewGroup;Landroid/os/Bundle;)Landroid/view/View;: 15d2dcc -> 15d2dea
+		kr.co.e1.orangecard.i.l.c/onCreateView:(Landroid/view/LayoutInflater;Landroid/view/ViewGroup;Landroid/os/Bundle;)Landroid/view/View;: dc -> fa
+addPatchReadme: java.lang.Class<kr.co.e1.orangecard.i.l.c>onCreateView(Landroid/view/LayoutInflater;Landroid/view/ViewGroup;Landroid/os/Bundle;)Landroid/view/View; dc t
+Entry: 15ff744
+kr.co.e1.orangecard.intro.b/onActivityCreated:(Landroid/os/Bundle;)V: 15ff784 -> 15ff7ce
+		kr.co.e1.orangecard.intro.b/onActivityCreated:(Landroid/os/Bundle;)V: 40 -> 8a
+addPatchReadme: java.lang.Class<kr.co.e1.orangecard.intro.b>onActivityCreated(Landroid/os/Bundle;)V 40 t
+159ceeed: [+] Patches found in this round: 2
+159ceeed: [*] Found Patch size: 1
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_signed_a.ilog)
+b29e6a69: Querying offset: 15ff784
+b29e6a69: 	--Add method name to patch = kr.co.e1.orangecard.intro.b/onActivityCreated:(Landroid/os/Bundle;)V 	15ff784
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_signed_a.ilog)
+159ceeed: Querying offset: 15ff784
+159ceeed: 	--Add method name to patch = kr.co.e1.orangecard.intro.b/onActivityCreated:(Landroid/os/Bundle;)V 	15ff784
+Devices presenting anti-analysis: 
+	devRoot
+	devDebug
+b29e6a69: patching method: kr.co.e1.orangecard.intro.b/onActivityCreated:(Landroid/os/Bundle;)V
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/signed_a_devRoot
+Wow!!!!!  --  kr.co.e1.orangecard.intro.b/onActivityCreated:(Landroid/os/Bundle;)V
+fallthrough: 44
+branchTarget: 8a
+label = cond_0
+GOTO -- 44 	8a
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/signed_a_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/signed_a_devRoot/signed_a.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/signed_a_devRoot/signed_signed_a.apk
+b29e6a69: First address of Lkr/co/e1/orangecard/intro/b;->onActivityCreated(Landroid/os/Bundle;)V = 15ff754
+b29e6a69: Address - Lkr/co/e1/orangecard/intro/b;->onActivityCreated(Landroid/os/Bundle;)V@40	 lastOffset = 98
+b29e6a69: Instruction@@: IF_EQZ
+159ceeed: patching method: kr.co.e1.orangecard.intro.b/onActivityCreated:(Landroid/os/Bundle;)V
+159ceeed: outDir - /home/santapark/Extended3/DEEPerence/reEx/signed_a_devDebug
+Wow!!!!!  --  kr.co.e1.orangecard.intro.b/onActivityCreated:(Landroid/os/Bundle;)V
+fallthrough: 44
+branchTarget: 8a
+label = cond_0
+GOTO -- 44 	8a
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/signed_a_devDebug/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/signed_a_devDebug/signed_a.apk
+159ceeed: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/signed_a_devDebug/signed_signed_a.apk
+159ceeed: First address of Lkr/co/e1/orangecard/intro/b;->onActivityCreated(Landroid/os/Bundle;)V = 15ff754
+159ceeed: Address - Lkr/co/e1/orangecard/intro/b;->onActivityCreated(Landroid/os/Bundle;)V@40	 lastOffset = 98
+159ceeed: Instruction@@: IF_EQZ
+159ceeed: (Not Installed) Trying remove : true
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/signed_a_devDebug/signed_signed_a.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/signed_a_devRoot/signed_signed_a.apk
+159ceeed: Installation Success
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+159ceeed: startApplication called! - devDebug
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_signed_a.ilog)
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_signed_a.ilog)
+b29e6a69: Running Application: kr.co.e1.orangecard
+PIDs--------------------------------------------------------------------------
+u0_a334        1476    425 14854640 122556 0                  0 S kr.co.e1.orangecard
+forward tcp:5005 jdwp:1476
+[*]Found JDWP Target: 1476
+159ceeed: Running Application: kr.co.e1.orangecard
+PIDs--------------------------------------------------------------------------
+b29e6a69: Terminated logcat thread...by itself
+PIDs--------------------------------------------------------------------------
+Stopping app: kr.co.e1.orangecard
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 234639404
+b29e6a69: End of collecting logcat...
+159ceeed: Top-activity: kr.co.e1.orangecard/.intro.IntroActivity
+PIDs--------------------------------------------------------------------------
+u0_a334        1476    425 15273780 201784 0                  0 S kr.co.e1.orangecard
+159ceeed: Terminated logcat thread...by itself
+PIDs--------------------------------------------------------------------------
+u0_a334        1476    425 15273780 201784 0                  0 S kr.co.e1.orangecard
+Stopping app: kr.co.e1.orangecard
+Tryging remove : uninstall kr.co.e1.orangecard(kr.co.e1.orangecard)
+159ceeed: Remove Success
+159ceeed: ilog file size: 236913682
+159ceeed: End of collecting logcat...
+HPFinder's try count remains: 28
+b29e6a69: Error: Activity not found(2)  --  skip signed_a.apk
+159ceeed: isFailedToLaunch: kr.co.e1.orangecard/.intro.IntroActivity
+159ceeed: 	--result: Good :)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_signed_a.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_signed_a.ilog)
+159ceeed: adding filter -- 15ff784
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 15ff784
+Action is completely same :)
+Action is completely same :)
+159ceeed: There is no difference. (tryAgain=false)
+-- HPFinder will be done in this iteration :)
+hasAntiAnalysis? - devTamper: false on kr.co.e1.orangecard.InterceptorActivity
+hasAntiAnalysis? - devRoot: true on kr.co.e1.orangecard.InterceptorActivity
+	isRemovedThem? - devRoot: true on kr.co.e1.orangecard.InterceptorActivity	-	tryCount: 1
+hasAntiAnalysis? - devDebug: true on kr.co.e1.orangecard.InterceptorActivity
+	isRemovedThem? - devDebug: true on kr.co.e1.orangecard.InterceptorActivity	-	tryCount: 1
+*****REPORT: kr.co.e1.orangecard
+* Package name: kr.co.e1.orangecard
+* Running time: 469
+* FileSize: 24458511
+devTamper : 237502824
+devRef : 236789086
+devRoot : 234639404
+devDebug : 236913682
+hasAntiAnalysis? - devTamper: false on kr.co.e1.orangecard.InterceptorActivity
+hasAntiAnalysis? - devRoot: true on kr.co.e1.orangecard.InterceptorActivity
+	isRemovedThem? - devRoot: true on kr.co.e1.orangecard.InterceptorActivity	-	tryCount: 1
+hasAntiAnalysis? - devDebug: true on kr.co.e1.orangecard.InterceptorActivity
+	isRemovedThem? - devDebug: true on kr.co.e1.orangecard.InterceptorActivity	-	tryCount: 1
+46604b9f: trying remove : kr.co.e1.orangecard
+3601a6ff: trying remove : kr.co.e1.orangecard
+b29e6a69: trying remove : kr.co.e1.orangecard
+159ceeed: trying remove : kr.co.e1.orangecard
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+b29e6a69: result = true
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+159ceeed: result = true
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+3601a6ff: result = true
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+46604b9f: result = true
+3601a6ff: isFailedToLaunch: kr.co.e1.orangecard/.intro.IntroActivity
+3601a6ff: 	--result: Good :)

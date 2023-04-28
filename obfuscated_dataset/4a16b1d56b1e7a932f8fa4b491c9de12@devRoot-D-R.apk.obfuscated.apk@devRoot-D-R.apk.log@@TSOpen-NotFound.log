@@ -1,0 +1,386 @@
+axmlPath: /home/santapark/Extended3/DEEPerence/obfuscated/com.aastocks.pusl_1.8.apk@devRoot-D-R.apk.obfuscated/AndroidManifest.xml
+launchable-activity: name='com.aastocks.enterprise.EnterpriseLoginActivity'  label='PublicSecLtd' icon=''
+{ACTIVITY, com.aastocks.enterprise.EnterpriseLoginActivity, android.intent.action.MAIN}
+{SERVICE, com.aastocks.enterprise.TradingService, android.intent.action.MAIN}
+{ACTIVITY, com.aastocks.enterprise.EnterpriseTradeActivity}
+{ACTIVITY, com.aastocks.enterprise.EnterpriseTradingActivity}
+{ACTIVITY, com.aastocks.enterprise.EnterpriseDisclaimerActivity}
+{ACTIVITY, com.aastocks.enterprise.EnterpriseInfoActivity}
+{ACTIVITY, com.aastocks.enterprise.EnterpriseOrderStatusActivity}
+{ACTIVITY, com.aastocks.enterprise.EnterpriseOrderStatusDetailsActivity}
+{ACTIVITY, com.aastocks.enterprise.EnterpriseOrderStatusEditActivity}
+{ACTIVITY, com.aastocks.enterprise.EnterprisePortfolioActivity}
+{ACTIVITY, com.aastocks.enterprise.EnterpriseDepositActivity}
+{ACTIVITY, com.aastocks.enterprise.EnterpriseWithdrawActivity}
+{ACTIVITY, com.aastocks.enterprise.EnterpriseFundHistoryActivity}
+{ACTIVITY, com.aastocks.dzh.SwitchActivity}
+{ACTIVITY, com.aastocks.dzh.IndicesBarDemoActivity}
+{ACTIVITY, com.aastocks.dzh.BasicFundamentalsActivity}
+{ACTIVITY, com.aastocks.dzh.CompanyNewsListActivity}
+{ACTIVITY, com.aastocks.dzh.CompanyNewsContentActivity}
+{ACTIVITY, com.aastocks.dzh.HomeActivity}
+{ACTIVITY, com.aastocks.dzh.QuoteActivity}
+{ACTIVITY, com.aastocks.dzh.TeletextActivity}
+{ACTIVITY, com.aastocks.dzh.TeletextDemoActivity}
+{ACTIVITY, com.aastocks.dzh.NewsActivity}
+{ACTIVITY, com.aastocks.dzh.DividendHistoryActivity}
+{ACTIVITY, com.aastocks.dzh.DividendHistoryContentActivity}
+{ACTIVITY, com.aastocks.dzh.NewsHeadlineActivity}
+{ACTIVITY, com.aastocks.dzh.NewsContentActivity}
+{ACTIVITY, com.aastocks.dzh.LatestSearchActivity}
+{ACTIVITY, com.aastocks.dzh.MyPortfolioActivity}
+{ACTIVITY, com.aastocks.dzh.MyPortfolioEditActivity}
+{ACTIVITY, com.aastocks.dzh.AHActivity}
+{ACTIVITY, com.aastocks.dzh.ForexActivity}
+{ACTIVITY, com.aastocks.dzh.StocksFinderActivity}
+{ACTIVITY, com.aastocks.dzh.ConstituentsActivity}
+{ACTIVITY, com.aastocks.dzh.IndustryTopTenActivity}
+{ACTIVITY, com.aastocks.dzh.DisclaimerActivity}
+{ACTIVITY, com.aastocks.dzh.HKTopActivity}
+{ACTIVITY, com.aastocks.dzh.IndicesActivity}
+{ACTIVITY, com.aastocks.dzh.StockChartActivity}
+{ACTIVITY, com.aastocks.dzh.WeekHighLowActivity}
+{ACTIVITY, com.aastocks.dzh.USQuote2Activity}
+{ACTIVITY, com.aastocks.dzh.USStockChartActivity}
+{ACTIVITY, com.aastocks.dzh.AQuoteActivity}
+{ACTIVITY, com.aastocks.dzh.AStockChartActivity}
+{ACTIVITY, com.aastocks.dzh.LandingActivity}
+{ACTIVITY, com.aastocks.enterprise.EnterpriseLoginActivity, android.intent.action.MAIN}
+{SERVICE, com.aastocks.enterprise.TradingService, android.intent.action.MAIN}
+{ACTIVITY, com.aastocks.enterprise.EnterpriseTradeActivity}
+{ACTIVITY, com.aastocks.enterprise.EnterpriseTradingActivity}
+{ACTIVITY, com.aastocks.enterprise.EnterpriseDisclaimerActivity}
+{ACTIVITY, com.aastocks.enterprise.EnterpriseInfoActivity}
+{ACTIVITY, com.aastocks.enterprise.EnterpriseOrderStatusActivity}
+{ACTIVITY, com.aastocks.enterprise.EnterpriseOrderStatusDetailsActivity}
+{ACTIVITY, com.aastocks.enterprise.EnterpriseOrderStatusEditActivity}
+{ACTIVITY, com.aastocks.enterprise.EnterprisePortfolioActivity}
+{ACTIVITY, com.aastocks.enterprise.EnterpriseDepositActivity}
+{ACTIVITY, com.aastocks.enterprise.EnterpriseWithdrawActivity}
+{ACTIVITY, com.aastocks.enterprise.EnterpriseFundHistoryActivity}
+{ACTIVITY, com.aastocks.dzh.SwitchActivity}
+{ACTIVITY, com.aastocks.dzh.IndicesBarDemoActivity}
+{ACTIVITY, com.aastocks.dzh.BasicFundamentalsActivity}
+{ACTIVITY, com.aastocks.dzh.CompanyNewsListActivity}
+{ACTIVITY, com.aastocks.dzh.CompanyNewsContentActivity}
+{ACTIVITY, com.aastocks.dzh.HomeActivity}
+{ACTIVITY, com.aastocks.dzh.QuoteActivity}
+{ACTIVITY, com.aastocks.dzh.TeletextActivity}
+{ACTIVITY, com.aastocks.dzh.TeletextDemoActivity}
+{ACTIVITY, com.aastocks.dzh.NewsActivity}
+{ACTIVITY, com.aastocks.dzh.DividendHistoryActivity}
+{ACTIVITY, com.aastocks.dzh.DividendHistoryContentActivity}
+{ACTIVITY, com.aastocks.dzh.NewsHeadlineActivity}
+{ACTIVITY, com.aastocks.dzh.NewsContentActivity}
+{ACTIVITY, com.aastocks.dzh.LatestSearchActivity}
+{ACTIVITY, com.aastocks.dzh.MyPortfolioActivity}
+{ACTIVITY, com.aastocks.dzh.MyPortfolioEditActivity}
+{ACTIVITY, com.aastocks.dzh.AHActivity}
+{ACTIVITY, com.aastocks.dzh.ForexActivity}
+{ACTIVITY, com.aastocks.dzh.StocksFinderActivity}
+{ACTIVITY, com.aastocks.dzh.ConstituentsActivity}
+{ACTIVITY, com.aastocks.dzh.IndustryTopTenActivity}
+{ACTIVITY, com.aastocks.dzh.DisclaimerActivity}
+{ACTIVITY, com.aastocks.dzh.HKTopActivity}
+{ACTIVITY, com.aastocks.dzh.IndicesActivity}
+{ACTIVITY, com.aastocks.dzh.StockChartActivity}
+{ACTIVITY, com.aastocks.dzh.WeekHighLowActivity}
+{ACTIVITY, com.aastocks.dzh.USQuote2Activity}
+{ACTIVITY, com.aastocks.dzh.USStockChartActivity}
+{ACTIVITY, com.aastocks.dzh.AQuoteActivity}
+{ACTIVITY, com.aastocks.dzh.AStockChartActivity}
+{ACTIVITY, com.aastocks.dzh.LandingActivity}
+_getAllDexFiles: /home/santapark/Extended3/DEEPerence/obfuscated/com.aastocks.pusl_1.8.apk@devRoot-D-R.apk.obfuscated/classes.dex
+----------------/home/santapark/Extended3/DEEPerence/obfuscated/com.aastocks.pusl_1.8.apk@devRoot-D-R.apk.obfuscated.apk
+dexFile = org.jf.dexlib2.dexbacked.DexBackedDexFile@ee21292
+com.aastocks.pusl
+com.aastocks.enterprise.EnterpriseLoginActivity
+debuggable: true
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+Installing apk: /home/santapark/Extended3/DEEPerence/obfuscated/com.aastocks.pusl_1.8.apk@devRoot-D-R.apk.obfuscated.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/obfuscated/com.aastocks.pusl_1.8.apk@devRoot-D-R.apk.obfuscated.apk
+axmlPath: /home/santapark/Extended3/DEEPerence/obfuscated/com.aastocks.pusl_1.8.apk@devRoot-D-R.apk.obfuscated_46604b9f/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/obfuscated/com.aastocks.pusl_1.8.apk@devRoot-D-R.apk.obfuscated_46604b9f/com.aastocks.pusl_1.8.apk@devRoot-D-R.apk.obfuscated.apk
+axmlPath: /home/santapark/Extended3/DEEPerence/obfuscated/com.aastocks.pusl_1.8.apk@devRoot-D-R.apk.obfuscated/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/obfuscated/com.aastocks.pusl_1.8.apk@devRoot-D-R.apk.obfuscated/com.aastocks.pusl_1.8.apk@devRoot-D-R.apk.obfuscated.apk
+159ceeed: Installing debuggable .apk file: 
+Installing apk: /home/santapark/Extended3/DEEPerence/obfuscated/com.aastocks.pusl_1.8.apk@devRoot-D-R.apk.obfuscated/signed_com.aastocks.pusl_1.8.apk@devRoot-D-R.apk.obfuscated.apk
+46604b9f: Installing repackaged apk File: 
+Installing apk: /home/santapark/Extended3/DEEPerence/obfuscated/com.aastocks.pusl_1.8.apk@devRoot-D-R.apk.obfuscated_46604b9f/signed_com.aastocks.pusl_1.8.apk@devRoot-D-R.apk.obfuscated.apk
+3601a6ff: Installation Success
+b29e6a69: Installation Success
+159ceeed: Installation Success
+46604b9f: Installation Success
+46604b9f: startApplication called! - devTamper
+3601a6ff: startApplication called! - devRef
+b29e6a69: startApplication called! - devRoot
+159ceeed: startApplication called! - devDebug
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/obfuscated/devRoot_com.aastocks.pusl_1.8@devRoot-D-R.obfuscated.ilog)
+46604b9f: Collecting logcat... (/home/santapark/Extended3/DEEPerence/obfuscated/devTamper_com.aastocks.pusl_1.8@devRoot-D-R.obfuscated.ilog)
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/obfuscated/devDebug_com.aastocks.pusl_1.8@devRoot-D-R.obfuscated.ilog)
+3601a6ff: Collecting logcat... (/home/santapark/Extended3/DEEPerence/obfuscated/devRef_com.aastocks.pusl_1.8@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Running Application: com.aastocks.pusl
+46604b9f: Running Application: com.aastocks.pusl
+3601a6ff: Running Application: com.aastocks.pusl
+PIDs--------------------------------------------------------------------------
+u0_a780       22365    428 14094076 107292 0                  0 R com.aastocks.pusl
+forward tcp:5005 jdwp:22365
+[*]Found JDWP Target: 22365
+159ceeed: Running Application: com.aastocks.pusl
+3601a6ff: Running is done - starting comparing... : 5001
+3601a6ff: Terminated logcat thread...by itself
+159ceeed: Running is done - starting comparing... : 5001
+159ceeed: Terminated logcat thread...by itself
+46604b9f: Running is done - starting comparing... : 5001
+46604b9f: Terminated logcat thread...by itself
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+3601a6ff: Top-activity: com.aastocks.pusl/com.aastocks.enterprise.EnterpriseLoginActivity
+PIDs--------------------------------------------------------------------------
+u0_a172       14372    407 14146584 149996 0                  0 S com.aastocks.pusl
+PIDs--------------------------------------------------------------------------
+u0_a172       14372    407 14146584 149996 0                  0 S com.aastocks.pusl
+Stopping app: com.aastocks.pusl
+46604b9f: Top-activity: com.aastocks.pusl/com.aastocks.enterprise.EnterpriseLoginActivity
+PIDs--------------------------------------------------------------------------
+u0_a848       14467    427 14208552 149768 0                  0 S com.aastocks.pusl
+PIDs--------------------------------------------------------------------------
+u0_a848       14467    427 14208552 149768 0                  0 S com.aastocks.pusl
+Stopping app: com.aastocks.pusl
+159ceeed: Top-activity: com.aastocks.pusl/com.aastocks.enterprise.EnterpriseLoginActivity
+PIDs--------------------------------------------------------------------------
+u0_a780       22365    428 14252688 150348 0                  0 S com.aastocks.pusl
+PIDs--------------------------------------------------------------------------
+u0_a780       22365    428 14252688 150348 0                  0 S com.aastocks.pusl
+Stopping app: com.aastocks.pusl
+b29e6a69: Top-activity: com.aastocks.pusl/com.aastocks.enterprise.EnterpriseLoginActivity
+PIDs--------------------------------------------------------------------------
+u0_a3421       6088    428 14277140 151488 0                  0 S com.aastocks.pusl
+PIDs--------------------------------------------------------------------------
+u0_a3421       6088    428 14277140 151488 0                  0 S com.aastocks.pusl
+Stopping app: com.aastocks.pusl
+Tryging remove : uninstall com.aastocks.pusl(com.aastocks.pusl)
+3601a6ff: Remove Success
+3601a6ff: ilog file size: 7540875
+3601a6ff: End of collecting logcat...
+Tryging remove : uninstall com.aastocks.pusl(com.aastocks.pusl)
+159ceeed: Remove Success
+159ceeed: ilog file size: 7540875
+159ceeed: End of collecting logcat...
+Tryging remove : uninstall com.aastocks.pusl(com.aastocks.pusl)
+46604b9f: Remove Success
+46604b9f: ilog file size: 7540875
+46604b9f: End of collecting logcat...
+Tryging remove : uninstall com.aastocks.pusl(com.aastocks.pusl)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 7443022
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 19
+46604b9f: isFailedToLaunch: com.aastocks.pusl/com.aastocks.enterprise.EnterpriseLoginActivity
+46604b9f: 	--result: Good :)
+b29e6a69: isFailedToLaunch: com.aastocks.pusl/com.aastocks.enterprise.EnterpriseLoginActivity
+b29e6a69: 	--result: Good :)
+159ceeed: isFailedToLaunch: com.aastocks.pusl/com.aastocks.enterprise.EnterpriseLoginActivity
+159ceeed: 	--result: Good :)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/obfuscated/devRef_com.aastocks.pusl_1.8@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/obfuscated/devRef_com.aastocks.pusl_1.8@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/obfuscated/devRef_com.aastocks.pusl_1.8@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/obfuscated/devRoot_com.aastocks.pusl_1.8@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/obfuscated/devTamper_com.aastocks.pusl_1.8@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/obfuscated/devDebug_com.aastocks.pusl_1.8@devRoot-D-R.obfuscated.ilog)
+[*] FlowManager: adjust finished.
+Action is completely same :)
+android.app.Dialog/show:()V:4628a6		=(rels)=>		1
+[*] Unique action: 1:1821 : <<CALL>> : com.aastocks.enterprise.EnterpriseLoginActivity/bfMfEoLpkQPFOQzo:(Landroid/app/Dialog;)V:4628a6  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:2288 : <<BRANCH>> : com.aastocks.enterprise.EnterpriseLoginActivity/onCreate:(Landroid/os/Bundle;)V:46a874  =>  com.aastocks.enterprise.EnterpriseLoginActivity/onCreate:(Landroid/os/Bundle;)V:46a904
+Entry: 46a83c
+com.aastocks.enterprise.EnterpriseLoginActivity/onCreate:(Landroid/os/Bundle;)V: 46a874 -> 46a904
+		com.aastocks.enterprise.EnterpriseLoginActivity/onCreate:(Landroid/os/Bundle;)V: 38 -> c8
+addPatchReadme: java.lang.Class<com.aastocks.enterprise.EnterpriseLoginActivity>onCreate(Landroid/os/Bundle;)V 38 t
+[*] FlowManager: adjust finished.
+[*] FlowManager: adjust finished.
+Action is completely same :)
+Action is completely same :)
+46604b9f: There is no difference. (tryAgain=false)
+Action is completely same :)
+Action is completely same :)
+159ceeed: There is no difference. (tryAgain=false)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/obfuscated/devRoot_com.aastocks.pusl_1.8@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Patch size: 1
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/obfuscated/com.aastocks.pusl_1.8.apk@devRoot-D-R.apk.obfuscated_devRoot
+Wow!!!!!  --  com.aastocks.enterprise.EnterpriseLoginActivity/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 3e
+branchTarget: c8
+label = sswitch_data_0
+GOTO -- 3e 	c8
+axmlPath: /home/santapark/Extended3/DEEPerence/obfuscated/com.aastocks.pusl_1.8.apk@devRoot-D-R.apk.obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/obfuscated/com.aastocks.pusl_1.8.apk@devRoot-D-R.apk.obfuscated_devRoot/com.aastocks.pusl_1.8.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/obfuscated/com.aastocks.pusl_1.8.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_com.aastocks.pusl_1.8.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: First address of Lcom/aastocks/enterprise/EnterpriseLoginActivity;->onCreate(Landroid/os/Bundle;)V = 46a84c
+b29e6a69: Address - Lcom/aastocks/enterprise/EnterpriseLoginActivity;->onCreate(Landroid/os/Bundle;)V@38	 lastOffset = 185c
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/obfuscated/com.aastocks.pusl_1.8.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_com.aastocks.pusl_1.8.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/obfuscated/devRoot_com.aastocks.pusl_1.8@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Running Application: com.aastocks.pusl
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.aastocks.pusl
+Tryging remove : uninstall com.aastocks.pusl(com.aastocks.pusl)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 40829
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 18
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+/home/santapark/Extended3/DEEPerence/obfuscated/com.aastocks.pusl_1.8.apk@devRoot-D-R.apk.obfuscated.apk launch is failed on devRoot
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 46a874
+Action is completely same :)
+android.app.Dialog/show:()V:4628a6		=(rels)=>		1
+[*] Unique action: 1:1821 : <<CALL>> : com.aastocks.enterprise.EnterpriseLoginActivity/bfMfEoLpkQPFOQzo:(Landroid/app/Dialog;)V:4628a6  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:2285 : <<BRANCH>> : com.aastocks.enterprise.EnterpriseLoginActivity/onCreate:(Landroid/os/Bundle;)V:46a890  =>  com.aastocks.enterprise.EnterpriseLoginActivity/onCreate:(Landroid/os/Bundle;)V:46a8aa
+Entry: 46a83c
+com.aastocks.enterprise.EnterpriseLoginActivity/onCreate:(Landroid/os/Bundle;)V: 46a890 -> 46a8aa
+		com.aastocks.enterprise.EnterpriseLoginActivity/onCreate:(Landroid/os/Bundle;)V: 54 -> 6e
+addPatchReadme: java.lang.Class<com.aastocks.enterprise.EnterpriseLoginActivity>onCreate(Landroid/os/Bundle;)V 54 t
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/obfuscated/devRoot_com.aastocks.pusl_1.8@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Patch size: 1
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/obfuscated/com.aastocks.pusl_1.8.apk@devRoot-D-R.apk.obfuscated_devRoot
+Wow!!!!!  --  com.aastocks.enterprise.EnterpriseLoginActivity/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 5a
+branchTarget: 6e
+label = sswitch_data_1
+GOTO -- 5a 	6e
+axmlPath: /home/santapark/Extended3/DEEPerence/obfuscated/com.aastocks.pusl_1.8.apk@devRoot-D-R.apk.obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/obfuscated/com.aastocks.pusl_1.8.apk@devRoot-D-R.apk.obfuscated_devRoot/com.aastocks.pusl_1.8.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/obfuscated/com.aastocks.pusl_1.8.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_com.aastocks.pusl_1.8.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: First address of Lcom/aastocks/enterprise/EnterpriseLoginActivity;->onCreate(Landroid/os/Bundle;)V = 46a84c
+b29e6a69: Address - Lcom/aastocks/enterprise/EnterpriseLoginActivity;->onCreate(Landroid/os/Bundle;)V@54	 lastOffset = 185c
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/obfuscated/com.aastocks.pusl_1.8.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_com.aastocks.pusl_1.8.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/obfuscated/devRoot_com.aastocks.pusl_1.8@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Running Application: com.aastocks.pusl
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.aastocks.pusl
+Tryging remove : uninstall com.aastocks.pusl(com.aastocks.pusl)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 40619
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 17
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+/home/santapark/Extended3/DEEPerence/obfuscated/com.aastocks.pusl_1.8.apk@devRoot-D-R.apk.obfuscated.apk launch is failed on devRoot
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 46a874
+-- current localPatchFilter: 46a890
+Action is completely same :)
+android.app.Dialog/show:()V:4628a6		=(rels)=>		1
+[*] Unique action: 1:1821 : <<CALL>> : com.aastocks.enterprise.EnterpriseLoginActivity/bfMfEoLpkQPFOQzo:(Landroid/app/Dialog;)V:4628a6  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:2282 : <<BRANCH>> : com.aastocks.enterprise.EnterpriseLoginActivity/onCreate:(Landroid/os/Bundle;)V:46a8a0  =>  com.aastocks.enterprise.EnterpriseLoginActivity/onCreate:(Landroid/os/Bundle;)V:46a8b0
+Entry: 46a83c
+com.aastocks.enterprise.EnterpriseLoginActivity/onCreate:(Landroid/os/Bundle;)V: 46a8a0 -> 46a8b0
+		com.aastocks.enterprise.EnterpriseLoginActivity/onCreate:(Landroid/os/Bundle;)V: 64 -> 74
+addPatchReadme: java.lang.Class<com.aastocks.enterprise.EnterpriseLoginActivity>onCreate(Landroid/os/Bundle;)V 64 t
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/obfuscated/devRoot_com.aastocks.pusl_1.8@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Patch size: 1
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/obfuscated/com.aastocks.pusl_1.8.apk@devRoot-D-R.apk.obfuscated_devRoot
+Wow!!!!!  --  com.aastocks.enterprise.EnterpriseLoginActivity/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 68
+branchTarget: 74
+label = cond_0
+GOTO -- 68 	74
+axmlPath: /home/santapark/Extended3/DEEPerence/obfuscated/com.aastocks.pusl_1.8.apk@devRoot-D-R.apk.obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/obfuscated/com.aastocks.pusl_1.8.apk@devRoot-D-R.apk.obfuscated_devRoot/com.aastocks.pusl_1.8.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/obfuscated/com.aastocks.pusl_1.8.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_com.aastocks.pusl_1.8.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: First address of Lcom/aastocks/enterprise/EnterpriseLoginActivity;->onCreate(Landroid/os/Bundle;)V = 46a84c
+b29e6a69: Address - Lcom/aastocks/enterprise/EnterpriseLoginActivity;->onCreate(Landroid/os/Bundle;)V@64	 lastOffset = 185c
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/obfuscated/com.aastocks.pusl_1.8.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_com.aastocks.pusl_1.8.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/obfuscated/devRoot_com.aastocks.pusl_1.8@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Running Application: com.aastocks.pusl
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.aastocks.pusl/com.aastocks.enterprise.EnterpriseLoginActivity
+PIDs--------------------------------------------------------------------------
+u0_a3424       6485    428 14286188 150292 0                  0 S com.aastocks.pusl
+PIDs--------------------------------------------------------------------------
+u0_a3424       6485    428 14286188 150292 0                  0 S com.aastocks.pusl
+Stopping app: com.aastocks.pusl
+Tryging remove : uninstall com.aastocks.pusl(com.aastocks.pusl)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 7417034
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 16
+b29e6a69: isFailedToLaunch: com.aastocks.pusl/com.aastocks.enterprise.EnterpriseLoginActivity
+b29e6a69: 	--result: Good :)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/obfuscated/devRef_com.aastocks.pusl_1.8@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/obfuscated/devRoot_com.aastocks.pusl_1.8@devRoot-D-R.obfuscated.ilog)
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 46a8a0
+Action is completely same :)
+Action is completely same :)
+b29e6a69: There is no difference. (tryAgain=false)
+-- HPFinder will be done in this iteration :)
+hasAntiAnalysis? - devTamper: false on com.aastocks.enterprise.EnterpriseLoginActivity
+hasAntiAnalysis? - devRoot: true on com.aastocks.enterprise.EnterpriseLoginActivity
+	isRemovedThem? - devRoot: true on com.aastocks.enterprise.EnterpriseLoginActivity	-	tryCount: 3
+hasAntiAnalysis? - devDebug: false on com.aastocks.enterprise.EnterpriseLoginActivity
+*****REPORT: com.aastocks.pusl
+* Package name: com.aastocks.pusl
+* Running time: 181
+* FileSize: 9905234
+devTamper : 7540875
+devRef : 7540875
+devRoot : 7417034
+devDebug : 7540875
+hasAntiAnalysis? - devTamper: false on com.aastocks.enterprise.EnterpriseLoginActivity
+hasAntiAnalysis? - devRoot: true on com.aastocks.enterprise.EnterpriseLoginActivity
+	isRemovedThem? - devRoot: true on com.aastocks.enterprise.EnterpriseLoginActivity	-	tryCount: 3
+hasAntiAnalysis? - devDebug: false on com.aastocks.enterprise.EnterpriseLoginActivity
+46604b9f: trying remove : com.aastocks.pusl
+3601a6ff: trying remove : com.aastocks.pusl
+b29e6a69: trying remove : com.aastocks.pusl
+159ceeed: trying remove : com.aastocks.pusl
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+3601a6ff: result = true
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+46604b9f: result = true
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+159ceeed: result = true
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+b29e6a69: result = true
+3601a6ff: isFailedToLaunch: com.aastocks.pusl/com.aastocks.enterprise.EnterpriseLoginActivity
+3601a6ff: 	--result: Good :)

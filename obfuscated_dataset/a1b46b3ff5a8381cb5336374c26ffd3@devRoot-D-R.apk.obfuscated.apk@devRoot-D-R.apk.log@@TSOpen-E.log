@@ -1,0 +1,329 @@
+axmlPath: /home/santapark/Extended3/DEEPerence/obfuscated/1e8cb3b4ac9166ccc772d6621dd1447cca579cf9c5048fd5ca27c42b2dcea4a6.apk@devRoot-D-R.apk.obfuscated/AndroidManifest.xml
+launchable-activity: name='com.teamx.android.optimizerads.SplashScreen'  label='AnDroid All-In-One Optimizer FREE' icon=''
+{ACTIVITY, .SplashScreen, android.intent.action.MAIN}
+{ACTIVITY, .SuperChargeActivity, android.intent.action.MAIN, android.intent.action.BATTERY_CHANGED, android.intent.action.SYNC, android.intent.action.CONFIGURATION_CHANGED}
+{ACTIVITY, .MemoryActivity}
+{ACTIVITY, .SmartCpu}
+{RECEIVER, .BootReceiver}
+{SERVICE, com.senddroid.AdService, com.senddroid.AdServicecom.teamx.android.optimizerads}
+{RECEIVER, com.teamx.android.optimizerads.BootReceiver, android.intent.action.BOOT_COMPLETED}
+{ACTIVITY, com.airpush.android.PushAds}
+{RECEIVER, com.airpush.android.UserDetailsReceiver}
+{RECEIVER, com.airpush.android.MessageReceiver}
+{RECEIVER, com.airpush.android.DeliveryReceiver}
+{RECEIVER, com.teamx.android.optimizerads.BootReceiver, android.intent.action.BOOT_COMPLETED}
+{ACTIVITY, .SplashScreen, android.intent.action.MAIN}
+{ACTIVITY, .SuperChargeActivity, android.intent.action.MAIN, android.intent.action.BATTERY_CHANGED, android.intent.action.SYNC, android.intent.action.CONFIGURATION_CHANGED}
+{ACTIVITY, .MemoryActivity}
+{ACTIVITY, .SmartCpu}
+{RECEIVER, .BootReceiver}
+{SERVICE, com.senddroid.AdService, com.senddroid.AdServicecom.teamx.android.optimizerads}
+{RECEIVER, com.teamx.android.optimizerads.BootReceiver, android.intent.action.BOOT_COMPLETED}
+{ACTIVITY, com.airpush.android.PushAds}
+{RECEIVER, com.airpush.android.UserDetailsReceiver}
+{RECEIVER, com.airpush.android.MessageReceiver}
+{RECEIVER, com.airpush.android.DeliveryReceiver}
+{RECEIVER, com.teamx.android.optimizerads.BootReceiver, android.intent.action.BOOT_COMPLETED}
+_getAllDexFiles: /home/santapark/Extended3/DEEPerence/obfuscated/1e8cb3b4ac9166ccc772d6621dd1447cca579cf9c5048fd5ca27c42b2dcea4a6.apk@devRoot-D-R.apk.obfuscated/classes.dex
+----------------/home/santapark/Extended3/DEEPerence/obfuscated/1e8cb3b4ac9166ccc772d6621dd1447cca579cf9c5048fd5ca27c42b2dcea4a6.apk@devRoot-D-R.apk.obfuscated.apk
+dexFile = org.jf.dexlib2.dexbacked.DexBackedDexFile@27462a88
+com.teamx.android.optimizerads
+com.teamx.android.optimizerads.SplashScreen
+debuggable: true
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+Installing apk: /home/santapark/Extended3/DEEPerence/obfuscated/1e8cb3b4ac9166ccc772d6621dd1447cca579cf9c5048fd5ca27c42b2dcea4a6.apk@devRoot-D-R.apk.obfuscated.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/obfuscated/1e8cb3b4ac9166ccc772d6621dd1447cca579cf9c5048fd5ca27c42b2dcea4a6.apk@devRoot-D-R.apk.obfuscated.apk
+axmlPath: /home/santapark/Extended3/DEEPerence/obfuscated/1e8cb3b4ac9166ccc772d6621dd1447cca579cf9c5048fd5ca27c42b2dcea4a6.apk@devRoot-D-R.apk.obfuscated/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/obfuscated/1e8cb3b4ac9166ccc772d6621dd1447cca579cf9c5048fd5ca27c42b2dcea4a6.apk@devRoot-D-R.apk.obfuscated/1e8cb3b4ac9166ccc772d6621dd1447cca579cf9c5048fd5ca27c42b2dcea4a6.apk@devRoot-D-R.apk.obfuscated.apk
+axmlPath: /home/santapark/Extended3/DEEPerence/obfuscated/1e8cb3b4ac9166ccc772d6621dd1447cca579cf9c5048fd5ca27c42b2dcea4a6.apk@devRoot-D-R.apk.obfuscated_46604b9f/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/obfuscated/1e8cb3b4ac9166ccc772d6621dd1447cca579cf9c5048fd5ca27c42b2dcea4a6.apk@devRoot-D-R.apk.obfuscated_46604b9f/1e8cb3b4ac9166ccc772d6621dd1447cca579cf9c5048fd5ca27c42b2dcea4a6.apk@devRoot-D-R.apk.obfuscated.apk
+46604b9f: Installing repackaged apk File: 
+Installing apk: /home/santapark/Extended3/DEEPerence/obfuscated/1e8cb3b4ac9166ccc772d6621dd1447cca579cf9c5048fd5ca27c42b2dcea4a6.apk@devRoot-D-R.apk.obfuscated_46604b9f/signed_1e8cb3b4ac9166ccc772d6621dd1447cca579cf9c5048fd5ca27c42b2dcea4a6.apk@devRoot-D-R.apk.obfuscated.apk
+159ceeed: Installing debuggable .apk file: 
+Installing apk: /home/santapark/Extended3/DEEPerence/obfuscated/1e8cb3b4ac9166ccc772d6621dd1447cca579cf9c5048fd5ca27c42b2dcea4a6.apk@devRoot-D-R.apk.obfuscated/signed_1e8cb3b4ac9166ccc772d6621dd1447cca579cf9c5048fd5ca27c42b2dcea4a6.apk@devRoot-D-R.apk.obfuscated.apk
+3601a6ff: Installation Success
+b29e6a69: Installation Success
+46604b9f: Installation Success
+159ceeed: Installation Success
+46604b9f: startApplication called! - devTamper
+3601a6ff: startApplication called! - devRef
+b29e6a69: startApplication called! - devRoot
+159ceeed: startApplication called! - devDebug
+46604b9f: Collecting logcat... (/home/santapark/Extended3/DEEPerence/obfuscated/devTamper_1e8cb3b4ac9166ccc772d6621dd1447cca579cf9c5048fd5ca27c42b2dcea4a6@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/obfuscated/devRoot_1e8cb3b4ac9166ccc772d6621dd1447cca579cf9c5048fd5ca27c42b2dcea4a6@devRoot-D-R.obfuscated.ilog)
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/obfuscated/devDebug_1e8cb3b4ac9166ccc772d6621dd1447cca579cf9c5048fd5ca27c42b2dcea4a6@devRoot-D-R.obfuscated.ilog)
+3601a6ff: Collecting logcat... (/home/santapark/Extended3/DEEPerence/obfuscated/devRef_1e8cb3b4ac9166ccc772d6621dd1447cca579cf9c5048fd5ca27c42b2dcea4a6@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Running Application: com.teamx.android.optimizerads
+46604b9f: Running Application: com.teamx.android.optimizerads
+3601a6ff: Running Application: com.teamx.android.optimizerads
+PIDs--------------------------------------------------------------------------
+u0_a776       21405    428 14094780 110480 0                  0 S com.teamx.android.optimizerads
+forward tcp:5005 jdwp:21405
+[*]Found JDWP Target: 21405
+159ceeed: Running Application: com.teamx.android.optimizerads
+3601a6ff: Running is done - starting comparing... : 5001
+3601a6ff: Terminated logcat thread...by itself
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+159ceeed: Running is done - starting comparing... : 5001
+159ceeed: Terminated logcat thread...by itself
+46604b9f: Running is done - starting comparing... : 5001
+46604b9f: Terminated logcat thread...by itself
+3601a6ff: Top-activity: com.teamx.android.optimizerads/.SplashScreen
+PIDs--------------------------------------------------------------------------
+u0_a168       13412    407 13996208 107352 0                  0 S com.teamx.android.optimizerads
+46604b9f: Top-activity: com.teamx.android.optimizerads/.SplashScreen
+PIDs--------------------------------------------------------------------------
+u0_a844       13511    427 13972816 107164 0                  0 S com.teamx.android.optimizerads
+PIDs--------------------------------------------------------------------------
+u0_a168       13412    407 13996208 107352 0                  0 S com.teamx.android.optimizerads
+Stopping app: com.teamx.android.optimizerads
+PIDs--------------------------------------------------------------------------
+u0_a844       13511    427 13972816 107164 0                  0 S com.teamx.android.optimizerads
+Stopping app: com.teamx.android.optimizerads
+159ceeed: Top-activity: com.teamx.android.optimizerads/.SplashScreen
+PIDs--------------------------------------------------------------------------
+u0_a776       21405    428 14094636 107136 0                  0 S com.teamx.android.optimizerads
+PIDs--------------------------------------------------------------------------
+u0_a776       21405    428 14094636 107136 0                  0 S com.teamx.android.optimizerads
+Stopping app: com.teamx.android.optimizerads
+b29e6a69: Top-activity: com.teamx.android.optimizerads/.SplashScreen
+PIDs--------------------------------------------------------------------------
+u0_a3406       4170    428 14164656 108188 0                  0 S com.teamx.android.optimizerads
+PIDs--------------------------------------------------------------------------
+u0_a3406       4170    428 14164656 108188 0                  0 S com.teamx.android.optimizerads
+Stopping app: com.teamx.android.optimizerads
+Tryging remove : uninstall com.teamx.android.optimizerads(com.teamx.android.optimizerads)
+46604b9f: Remove Success
+46604b9f: ilog file size: 1484382
+46604b9f: End of collecting logcat...
+Tryging remove : uninstall com.teamx.android.optimizerads(com.teamx.android.optimizerads)
+3601a6ff: Remove Success
+3601a6ff: ilog file size: 1484382
+3601a6ff: End of collecting logcat...
+Tryging remove : uninstall com.teamx.android.optimizerads(com.teamx.android.optimizerads)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 1528038
+b29e6a69: End of collecting logcat...
+Tryging remove : uninstall com.teamx.android.optimizerads(com.teamx.android.optimizerads)
+159ceeed: Remove Success
+159ceeed: ilog file size: 1484382
+159ceeed: End of collecting logcat...
+HPFinder's try count remains: 19
+46604b9f: isFailedToLaunch: com.teamx.android.optimizerads/.SplashScreen
+46604b9f: 	--result: Good :)
+b29e6a69: isFailedToLaunch: com.teamx.android.optimizerads/.SplashScreen
+b29e6a69: 	--result: Good :)
+159ceeed: isFailedToLaunch: com.teamx.android.optimizerads/.SplashScreen
+159ceeed: 	--result: Good :)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/obfuscated/devRef_1e8cb3b4ac9166ccc772d6621dd1447cca579cf9c5048fd5ca27c42b2dcea4a6@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/obfuscated/devRef_1e8cb3b4ac9166ccc772d6621dd1447cca579cf9c5048fd5ca27c42b2dcea4a6@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/obfuscated/devRef_1e8cb3b4ac9166ccc772d6621dd1447cca579cf9c5048fd5ca27c42b2dcea4a6@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/obfuscated/devRoot_1e8cb3b4ac9166ccc772d6621dd1447cca579cf9c5048fd5ca27c42b2dcea4a6@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/obfuscated/devTamper_1e8cb3b4ac9166ccc772d6621dd1447cca579cf9c5048fd5ca27c42b2dcea4a6@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/obfuscated/devDebug_1e8cb3b4ac9166ccc772d6621dd1447cca579cf9c5048fd5ca27c42b2dcea4a6@devRoot-D-R.obfuscated.ilog)
+[*] FlowManager: adjust finished.
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.widget.Toast/show:()V:72e5e		=(rels)=>		1
+[*] Unique action: 1:5155 : <<CALL>> : com.teamx.android.optimizerads.SplashScreen/QZrIhibqLsQmNUXZ:(Landroid/widget/Toast;)V:72e5e  =>  android.widget.Toast/show:()V:2a3e70
+[*] FlowManager: adjust finished.
+[*] FlowManager: adjust finished.
+Action is completely same :)
+Action is completely same :)
+Action is completely same :)
+46604b9f: There is no difference. (tryAgain=false)
+Action is completely same :)
+159ceeed: There is no difference. (tryAgain=false)
+	1:compareBackwardBranch: 1:5124 : <<BRANCH>> : com.teamx.android.optimizerads.SplashScreen/onCreate:(Landroid/os/Bundle;)V:74c54  =>  com.teamx.android.optimizerads.SplashScreen/onCreate:(Landroid/os/Bundle;)V:74e3c
+android.widget.Toast/show:()V:73dca		=(rels)=>		1
+[*] Unique action: 1:5318 : <<CALL>> : com.teamx.android.optimizerads.SplashScreen/gMctOSuRokJaHYMY:(Landroid/widget/Toast;)V:73dca  =>  android.widget.Toast/show:()V:2a3e70
+	1:compareBackwardBranch: 1:5124 : <<BRANCH>> : com.teamx.android.optimizerads.SplashScreen/onCreate:(Landroid/os/Bundle;)V:74c54  =>  com.teamx.android.optimizerads.SplashScreen/onCreate:(Landroid/os/Bundle;)V:74e3c
+Entry: 74a68
+com.teamx.android.optimizerads.SplashScreen/onCreate:(Landroid/os/Bundle;)V: 74c54 -> 74e3c
+		com.teamx.android.optimizerads.SplashScreen/onCreate:(Landroid/os/Bundle;)V: 1ec -> 3d4
+addPatchReadme: java.lang.Class<com.teamx.android.optimizerads.SplashScreen>onCreate(Landroid/os/Bundle;)V 1ec t
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/obfuscated/devRoot_1e8cb3b4ac9166ccc772d6621dd1447cca579cf9c5048fd5ca27c42b2dcea4a6@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Patch size: 1
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/obfuscated/1e8cb3b4ac9166ccc772d6621dd1447cca579cf9c5048fd5ca27c42b2dcea4a6.apk@devRoot-D-R.apk.obfuscated_devRoot
+Wow!!!!!  --  com.teamx.android.optimizerads.SplashScreen/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 1f2
+branchTarget: 3d4
+label = sswitch_data_0
+GOTO -- 1f2 	3d4
+axmlPath: /home/santapark/Extended3/DEEPerence/obfuscated/1e8cb3b4ac9166ccc772d6621dd1447cca579cf9c5048fd5ca27c42b2dcea4a6.apk@devRoot-D-R.apk.obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/obfuscated/1e8cb3b4ac9166ccc772d6621dd1447cca579cf9c5048fd5ca27c42b2dcea4a6.apk@devRoot-D-R.apk.obfuscated_devRoot/1e8cb3b4ac9166ccc772d6621dd1447cca579cf9c5048fd5ca27c42b2dcea4a6.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/obfuscated/1e8cb3b4ac9166ccc772d6621dd1447cca579cf9c5048fd5ca27c42b2dcea4a6.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_1e8cb3b4ac9166ccc772d6621dd1447cca579cf9c5048fd5ca27c42b2dcea4a6.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: First address of Lcom/teamx/android/optimizerads/SplashScreen;->onCreate(Landroid/os/Bundle;)V = 74a78
+b29e6a69: Address - Lcom/teamx/android/optimizerads/SplashScreen;->onCreate(Landroid/os/Bundle;)V@1ec	 lastOffset = 4dc
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/obfuscated/1e8cb3b4ac9166ccc772d6621dd1447cca579cf9c5048fd5ca27c42b2dcea4a6.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_1e8cb3b4ac9166ccc772d6621dd1447cca579cf9c5048fd5ca27c42b2dcea4a6.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/obfuscated/devRoot_1e8cb3b4ac9166ccc772d6621dd1447cca579cf9c5048fd5ca27c42b2dcea4a6@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Running Application: com.teamx.android.optimizerads
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.teamx.android.optimizerads
+Tryging remove : uninstall com.teamx.android.optimizerads(com.teamx.android.optimizerads)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 5498
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 18
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+/home/santapark/Extended3/DEEPerence/obfuscated/1e8cb3b4ac9166ccc772d6621dd1447cca579cf9c5048fd5ca27c42b2dcea4a6.apk@devRoot-D-R.apk.obfuscated.apk launch is failed on devRoot
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 74c54
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.widget.Toast/show:()V:72e5e		=(rels)=>		1
+[*] Unique action: 1:5155 : <<CALL>> : com.teamx.android.optimizerads.SplashScreen/QZrIhibqLsQmNUXZ:(Landroid/widget/Toast;)V:72e5e  =>  android.widget.Toast/show:()V:2a3e70
+	1:compareBackwardBranch: 1:5121 : <<BRANCH>> : com.teamx.android.optimizerads.SplashScreen/onCreate:(Landroid/os/Bundle;)V:74c70  =>  com.teamx.android.optimizerads.SplashScreen/onCreate:(Landroid/os/Bundle;)V:74c9e
+android.widget.Toast/show:()V:73dca		=(rels)=>		1
+[*] Unique action: 1:5318 : <<CALL>> : com.teamx.android.optimizerads.SplashScreen/gMctOSuRokJaHYMY:(Landroid/widget/Toast;)V:73dca  =>  android.widget.Toast/show:()V:2a3e70
+	1:compareBackwardBranch: 1:5121 : <<BRANCH>> : com.teamx.android.optimizerads.SplashScreen/onCreate:(Landroid/os/Bundle;)V:74c70  =>  com.teamx.android.optimizerads.SplashScreen/onCreate:(Landroid/os/Bundle;)V:74c9e
+Entry: 74a68
+com.teamx.android.optimizerads.SplashScreen/onCreate:(Landroid/os/Bundle;)V: 74c70 -> 74c9e
+		com.teamx.android.optimizerads.SplashScreen/onCreate:(Landroid/os/Bundle;)V: 208 -> 236
+addPatchReadme: java.lang.Class<com.teamx.android.optimizerads.SplashScreen>onCreate(Landroid/os/Bundle;)V 208 t
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/obfuscated/devRoot_1e8cb3b4ac9166ccc772d6621dd1447cca579cf9c5048fd5ca27c42b2dcea4a6@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Patch size: 1
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/obfuscated/1e8cb3b4ac9166ccc772d6621dd1447cca579cf9c5048fd5ca27c42b2dcea4a6.apk@devRoot-D-R.apk.obfuscated_devRoot
+Wow!!!!!  --  com.teamx.android.optimizerads.SplashScreen/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 20e
+branchTarget: 236
+label = sswitch_data_1
+GOTO -- 20e 	236
+axmlPath: /home/santapark/Extended3/DEEPerence/obfuscated/1e8cb3b4ac9166ccc772d6621dd1447cca579cf9c5048fd5ca27c42b2dcea4a6.apk@devRoot-D-R.apk.obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/obfuscated/1e8cb3b4ac9166ccc772d6621dd1447cca579cf9c5048fd5ca27c42b2dcea4a6.apk@devRoot-D-R.apk.obfuscated_devRoot/1e8cb3b4ac9166ccc772d6621dd1447cca579cf9c5048fd5ca27c42b2dcea4a6.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/obfuscated/1e8cb3b4ac9166ccc772d6621dd1447cca579cf9c5048fd5ca27c42b2dcea4a6.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_1e8cb3b4ac9166ccc772d6621dd1447cca579cf9c5048fd5ca27c42b2dcea4a6.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: First address of Lcom/teamx/android/optimizerads/SplashScreen;->onCreate(Landroid/os/Bundle;)V = 74a78
+b29e6a69: Address - Lcom/teamx/android/optimizerads/SplashScreen;->onCreate(Landroid/os/Bundle;)V@208	 lastOffset = 4dc
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/obfuscated/1e8cb3b4ac9166ccc772d6621dd1447cca579cf9c5048fd5ca27c42b2dcea4a6.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_1e8cb3b4ac9166ccc772d6621dd1447cca579cf9c5048fd5ca27c42b2dcea4a6.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/obfuscated/devRoot_1e8cb3b4ac9166ccc772d6621dd1447cca579cf9c5048fd5ca27c42b2dcea4a6@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Running Application: com.teamx.android.optimizerads
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.teamx.android.optimizerads
+Tryging remove : uninstall com.teamx.android.optimizerads(com.teamx.android.optimizerads)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 5498
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 17
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+/home/santapark/Extended3/DEEPerence/obfuscated/1e8cb3b4ac9166ccc772d6621dd1447cca579cf9c5048fd5ca27c42b2dcea4a6.apk@devRoot-D-R.apk.obfuscated.apk launch is failed on devRoot
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 74c54
+-- current localPatchFilter: 74c70
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.widget.Toast/show:()V:72e5e		=(rels)=>		1
+[*] Unique action: 1:5155 : <<CALL>> : com.teamx.android.optimizerads.SplashScreen/QZrIhibqLsQmNUXZ:(Landroid/widget/Toast;)V:72e5e  =>  android.widget.Toast/show:()V:2a3e70
+	1:compareBackwardBranch: 1:5118 : <<BRANCH>> : com.teamx.android.optimizerads.SplashScreen/onCreate:(Landroid/os/Bundle;)V:74c94  =>  com.teamx.android.optimizerads.SplashScreen/onCreate:(Landroid/os/Bundle;)V:74ca4
+android.widget.Toast/show:()V:73dca		=(rels)=>		1
+[*] Unique action: 1:5318 : <<CALL>> : com.teamx.android.optimizerads.SplashScreen/gMctOSuRokJaHYMY:(Landroid/widget/Toast;)V:73dca  =>  android.widget.Toast/show:()V:2a3e70
+	1:compareBackwardBranch: 1:5118 : <<BRANCH>> : com.teamx.android.optimizerads.SplashScreen/onCreate:(Landroid/os/Bundle;)V:74c94  =>  com.teamx.android.optimizerads.SplashScreen/onCreate:(Landroid/os/Bundle;)V:74ca4
+Entry: 74a68
+com.teamx.android.optimizerads.SplashScreen/onCreate:(Landroid/os/Bundle;)V: 74c94 -> 74ca4
+		com.teamx.android.optimizerads.SplashScreen/onCreate:(Landroid/os/Bundle;)V: 22c -> 23c
+addPatchReadme: java.lang.Class<com.teamx.android.optimizerads.SplashScreen>onCreate(Landroid/os/Bundle;)V 22c t
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/obfuscated/devRoot_1e8cb3b4ac9166ccc772d6621dd1447cca579cf9c5048fd5ca27c42b2dcea4a6@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Patch size: 1
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/obfuscated/1e8cb3b4ac9166ccc772d6621dd1447cca579cf9c5048fd5ca27c42b2dcea4a6.apk@devRoot-D-R.apk.obfuscated_devRoot
+Wow!!!!!  --  com.teamx.android.optimizerads.SplashScreen/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 230
+branchTarget: 23c
+label = cond_0
+GOTO -- 230 	23c
+axmlPath: /home/santapark/Extended3/DEEPerence/obfuscated/1e8cb3b4ac9166ccc772d6621dd1447cca579cf9c5048fd5ca27c42b2dcea4a6.apk@devRoot-D-R.apk.obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/obfuscated/1e8cb3b4ac9166ccc772d6621dd1447cca579cf9c5048fd5ca27c42b2dcea4a6.apk@devRoot-D-R.apk.obfuscated_devRoot/1e8cb3b4ac9166ccc772d6621dd1447cca579cf9c5048fd5ca27c42b2dcea4a6.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/obfuscated/1e8cb3b4ac9166ccc772d6621dd1447cca579cf9c5048fd5ca27c42b2dcea4a6.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_1e8cb3b4ac9166ccc772d6621dd1447cca579cf9c5048fd5ca27c42b2dcea4a6.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: First address of Lcom/teamx/android/optimizerads/SplashScreen;->onCreate(Landroid/os/Bundle;)V = 74a78
+b29e6a69: Address - Lcom/teamx/android/optimizerads/SplashScreen;->onCreate(Landroid/os/Bundle;)V@22c	 lastOffset = 4dc
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/obfuscated/1e8cb3b4ac9166ccc772d6621dd1447cca579cf9c5048fd5ca27c42b2dcea4a6.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_1e8cb3b4ac9166ccc772d6621dd1447cca579cf9c5048fd5ca27c42b2dcea4a6.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/obfuscated/devRoot_1e8cb3b4ac9166ccc772d6621dd1447cca579cf9c5048fd5ca27c42b2dcea4a6@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Running Application: com.teamx.android.optimizerads
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.teamx.android.optimizerads/.SplashScreen
+PIDs--------------------------------------------------------------------------
+u0_a3409       4460    428 14100108 108364 0                  0 S com.teamx.android.optimizerads
+PIDs--------------------------------------------------------------------------
+u0_a3409       4460    428 14100108 108364 0                  0 S com.teamx.android.optimizerads
+Stopping app: com.teamx.android.optimizerads
+Tryging remove : uninstall com.teamx.android.optimizerads(com.teamx.android.optimizerads)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 1483203
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 16
+b29e6a69: isFailedToLaunch: com.teamx.android.optimizerads/.SplashScreen
+b29e6a69: 	--result: Good :)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/obfuscated/devRef_1e8cb3b4ac9166ccc772d6621dd1447cca579cf9c5048fd5ca27c42b2dcea4a6@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/obfuscated/devRoot_1e8cb3b4ac9166ccc772d6621dd1447cca579cf9c5048fd5ca27c42b2dcea4a6@devRoot-D-R.obfuscated.ilog)
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 74c94
+Action is completely same :)
+Action is completely same :)
+b29e6a69: There is no difference. (tryAgain=false)
+-- HPFinder will be done in this iteration :)
+hasAntiAnalysis? - devTamper: false on com.teamx.android.optimizerads.SplashScreen
+hasAntiAnalysis? - devRoot: true on com.teamx.android.optimizerads.SplashScreen
+	isRemovedThem? - devRoot: true on com.teamx.android.optimizerads.SplashScreen	-	tryCount: 3
+hasAntiAnalysis? - devDebug: false on com.teamx.android.optimizerads.SplashScreen
+*****REPORT: com.teamx.android.optimizerads
+* Package name: com.teamx.android.optimizerads
+* Running time: 90
+* FileSize: 1453562
+devTamper : 1484382
+devRef : 1484382
+devRoot : 1483203
+devDebug : 1484382
+hasAntiAnalysis? - devTamper: false on com.teamx.android.optimizerads.SplashScreen
+hasAntiAnalysis? - devRoot: true on com.teamx.android.optimizerads.SplashScreen
+	isRemovedThem? - devRoot: true on com.teamx.android.optimizerads.SplashScreen	-	tryCount: 3
+hasAntiAnalysis? - devDebug: false on com.teamx.android.optimizerads.SplashScreen
+46604b9f: trying remove : com.teamx.android.optimizerads
+3601a6ff: trying remove : com.teamx.android.optimizerads
+b29e6a69: trying remove : com.teamx.android.optimizerads
+159ceeed: trying remove : com.teamx.android.optimizerads
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+3601a6ff: result = true
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+159ceeed: result = true
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+b29e6a69: result = true
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+46604b9f: result = true
+3601a6ff: isFailedToLaunch: com.teamx.android.optimizerads/.SplashScreen
+3601a6ff: 	--result: Good :)

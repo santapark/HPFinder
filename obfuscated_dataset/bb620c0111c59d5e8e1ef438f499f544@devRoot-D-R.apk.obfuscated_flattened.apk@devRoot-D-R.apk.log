@@ -1,0 +1,269 @@
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample66.apk@devRoot-D-R.apk.obfuscated_flattened/AndroidManifest.xml
+launchable-activity: name='com.wedigitek.appclientesprotege.MainActivity'  label='Protege Follow Me' icon=''
+{ACTIVITY, com.wedigitek.appclientesprotege.MainActivity, android.intent.action.MAIN}
+{ACTIVITY, com.facebook.react.devsupport.DevSettingsActivity}
+{SERVICE, com.google.firebase.components.ComponentDiscoveryService}
+{RECEIVER, com.onesignal.GcmBroadcastReceiver, com.google.android.c2dm.intent.RECEIVE}
+{RECEIVER, com.onesignal.NotificationOpenedReceiver}
+{SERVICE, com.onesignal.GcmIntentService}
+{SERVICE, com.onesignal.GcmIntentJobService}
+{SERVICE, com.onesignal.RestoreJobService}
+{SERVICE, com.onesignal.RestoreKickoffJobService}
+{SERVICE, com.onesignal.SyncService}
+{SERVICE, com.onesignal.SyncJobService}
+{ACTIVITY, com.onesignal.PermissionsActivity}
+{SERVICE, com.onesignal.NotificationRestoreService}
+{RECEIVER, com.onesignal.BootUpReceiver, android.intent.action.BOOT_COMPLETED, android.intent.action.QUICKBOOT_POWERON}
+{RECEIVER, com.onesignal.UpgradeReceiver, android.intent.action.MY_PACKAGE_REPLACED}
+{ACTIVITY, com.google.firebase.auth.internal.FederatedSignInActivity}
+{SERVICE, com.google.firebase.messaging.FirebaseMessagingService, com.google.firebase.MESSAGING_EVENT}
+{RECEIVER, com.google.firebase.iid.FirebaseInstanceIdReceiver, com.google.android.c2dm.intent.RECEIVE}
+{SERVICE, com.google.firebase.iid.FirebaseInstanceIdService, com.google.firebase.INSTANCE_ID_EVENT}
+{ACTIVITY, com.google.android.gms.common.api.GoogleApiActivity}
+{RECEIVER, com.google.android.gms.measurement.AppMeasurementReceiver}
+{RECEIVER, com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver, com.android.vending.INSTALL_REFERRER}
+{SERVICE, com.google.android.gms.measurement.AppMeasurementService}
+{ACTIVITY, com.wedigitek.appclientesprotege.MainActivity, android.intent.action.MAIN}
+{ACTIVITY, com.facebook.react.devsupport.DevSettingsActivity}
+{SERVICE, com.google.firebase.components.ComponentDiscoveryService}
+{RECEIVER, com.onesignal.GcmBroadcastReceiver, com.google.android.c2dm.intent.RECEIVE}
+{RECEIVER, com.onesignal.NotificationOpenedReceiver}
+{SERVICE, com.onesignal.GcmIntentService}
+{SERVICE, com.onesignal.GcmIntentJobService}
+{SERVICE, com.onesignal.RestoreJobService}
+{SERVICE, com.onesignal.RestoreKickoffJobService}
+{SERVICE, com.onesignal.SyncService}
+{SERVICE, com.onesignal.SyncJobService}
+{ACTIVITY, com.onesignal.PermissionsActivity}
+{SERVICE, com.onesignal.NotificationRestoreService}
+{RECEIVER, com.onesignal.BootUpReceiver, android.intent.action.BOOT_COMPLETED, android.intent.action.QUICKBOOT_POWERON}
+{RECEIVER, com.onesignal.UpgradeReceiver, android.intent.action.MY_PACKAGE_REPLACED}
+{ACTIVITY, com.google.firebase.auth.internal.FederatedSignInActivity}
+{SERVICE, com.google.firebase.messaging.FirebaseMessagingService, com.google.firebase.MESSAGING_EVENT}
+{RECEIVER, com.google.firebase.iid.FirebaseInstanceIdReceiver, com.google.android.c2dm.intent.RECEIVE}
+{SERVICE, com.google.firebase.iid.FirebaseInstanceIdService, com.google.firebase.INSTANCE_ID_EVENT}
+{ACTIVITY, com.google.android.gms.common.api.GoogleApiActivity}
+{RECEIVER, com.google.android.gms.measurement.AppMeasurementReceiver}
+{RECEIVER, com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver, com.android.vending.INSTALL_REFERRER}
+{SERVICE, com.google.android.gms.measurement.AppMeasurementService}
+_getAllDexFiles: /home/santapark/Extended3/DEEPerence/reEx/sample66.apk@devRoot-D-R.apk.obfuscated_flattened/classes.dex
+----------------/home/santapark/Extended3/DEEPerence/reEx/sample66.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+dexFile = org.jf.dexlib2.dexbacked.DexBackedDexFile@4c60d6e9
+com.wedigitek.appclientesprotege
+com.wedigitek.appclientesprotege.MainActivity
+debuggable: true
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample66.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample66.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample66.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample66.apk@devRoot-D-R.apk.obfuscated_flattened_46604b9f/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample66.apk@devRoot-D-R.apk.obfuscated_flattened_46604b9f/sample66.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+3601a6ff: Installation Success
+159ceeed: Installation Success
+b29e6a69: Installation Success
+46604b9f: Installing repackaged apk File: 
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample66.apk@devRoot-D-R.apk.obfuscated_flattened_46604b9f/signed_sample66.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+46604b9f: Installation Success
+46604b9f: startApplication called! - devTamper
+3601a6ff: startApplication called! - devRef
+b29e6a69: startApplication called! - devRoot
+159ceeed: startApplication called! - devDebug
+46604b9f: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devTamper_sample66@devRoot-D-R.obfuscated_flattened.ilog)
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample66@devRoot-D-R.obfuscated_flattened.ilog)
+3601a6ff: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample66@devRoot-D-R.obfuscated_flattened.ilog)
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample66@devRoot-D-R.obfuscated_flattened.ilog)
+46604b9f: Running Application: com.wedigitek.appclientesprotege
+b29e6a69: Running Application: com.wedigitek.appclientesprotege
+3601a6ff: Running Application: com.wedigitek.appclientesprotege
+PIDs--------------------------------------------------------------------------
+u0_a297       16296    423 13873252 105832 0                  0 R com.wedigitek.appclientesprotege
+forward tcp:35535 jdwp:16296
+[*]Found JDWP Target: 16296
+159ceeed: Running Application: com.wedigitek.appclientesprotege
+PIDs--------------------------------------------------------------------------
+u0_a297       16296    423 14078160 150412 0                  0 S com.wedigitek.appclientesprotege
+159ceeed: Tryging attach jdb to 16296
+jdb -connect com.sun.jdi.SocketAttach:hostname=localhost,port=35535
+3601a6ff: Terminated logcat thread...by itself
+46604b9f: Terminated logcat thread...by itself
+b29e6a69: Terminated logcat thread...by itself
+3601a6ff: Top-activity: com.wedigitek.appclientesprotege/.MainActivity
+46604b9f: Top-activity: com.wedigitek.appclientesprotege/.MainActivity
+PIDs--------------------------------------------------------------------------
+u0_a287        8318    417 14541360 188444 0                  0 S com.wedigitek.appclientesprotege
+3601a6ff: savedPid = 8318
+PIDs--------------------------------------------------------------------------
+u0_a931        9475    427 14704416 187220 0                  0 S com.wedigitek.appclientesprotege
+46604b9f: savedPid = 9475
+PIDs--------------------------------------------------------------------------
+u0_a287        8318    417 14541360 188444 0                  0 S com.wedigitek.appclientesprotege
+3601a6ff: savedPid2 = 8318
+Stopping app: com.wedigitek.appclientesprotege
+PIDs--------------------------------------------------------------------------
+u0_a931        9475    427 14704416 187220 0                  0 R com.wedigitek.appclientesprotege
+46604b9f: savedPid2 = 9475
+Stopping app: com.wedigitek.appclientesprotege
+b29e6a69: Top-activity: com.wedigitek.appclientesprotege/.MainActivity
+PIDs--------------------------------------------------------------------------
+u0_a3885      13488    425 14406636 189304 0                  0 S com.wedigitek.appclientesprotege
+b29e6a69: savedPid = 13488
+PIDs--------------------------------------------------------------------------
+u0_a3885      13488    425 14406636 189304 0                  0 S com.wedigitek.appclientesprotege
+b29e6a69: savedPid2 = 13488
+Stopping app: com.wedigitek.appclientesprotege
+Tryging remove : uninstall com.wedigitek.appclientesprotege(com.wedigitek.appclientesprotege)
+3601a6ff: Remove Success
+3601a6ff: ilog file size: 374556258
+3601a6ff: End of collecting logcat...
+Tryging remove : uninstall com.wedigitek.appclientesprotege(com.wedigitek.appclientesprotege)
+46604b9f: Remove Success
+46604b9f: ilog file size: 291949493
+46604b9f: End of collecting logcat...
+Tryging remove : uninstall com.wedigitek.appclientesprotege(com.wedigitek.appclientesprotege)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 259943580
+b29e6a69: End of collecting logcat...
+159ceeed: Terminated logcat thread...by itself
+159ceeed: Top-activity: com.wedigitek.appclientesprotege/.MainActivity
+PIDs--------------------------------------------------------------------------
+u0_a297       16296    423 14419496 199792 0                  0 S com.wedigitek.appclientesprotege
+159ceeed: savedPid = 16296
+PIDs--------------------------------------------------------------------------
+u0_a297       16296    423 14419496 199792 0                  0 S com.wedigitek.appclientesprotege
+159ceeed: savedPid2 = 16296
+Stopping app: com.wedigitek.appclientesprotege
+Tryging remove : uninstall com.wedigitek.appclientesprotege(com.wedigitek.appclientesprotege)
+159ceeed: Remove Success
+159ceeed: ilog file size: 403430299
+159ceeed: End of collecting logcat...
+HPFinder's try count remains: 29
+46604b9f: isFailedToLaunch: com.wedigitek.appclientesprotege/.MainActivity
+46604b9f: 	--result: Good :)
+b29e6a69: isFailedToLaunch: com.wedigitek.appclientesprotege/.MainActivity
+46604b9f: isFailedToLaunch: com.wedigitek.appclientesprotege/.MainActivity
+b29e6a69: 	--result: Good :)
+46604b9f: 	--result: Good :)
+b29e6a69: isFailedToLaunch: com.wedigitek.appclientesprotege/.MainActivity
+b29e6a69: 	--result: Good :)
+159ceeed: isFailedToLaunch: com.wedigitek.appclientesprotege/.MainActivity
+159ceeed: 	--result: Good :)
+159ceeed: isFailedToLaunch: com.wedigitek.appclientesprotege/.MainActivity
+159ceeed: 	--result: Good :)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample66@devRoot-D-R.obfuscated_flattened.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample66@devRoot-D-R.obfuscated_flattened.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample66@devRoot-D-R.obfuscated_flattened.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample66@devRoot-D-R.obfuscated_flattened.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devTamper_sample66@devRoot-D-R.obfuscated_flattened.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample66@devRoot-D-R.obfuscated_flattened.ilog)
+[*] FlowManager: adjust finished.
+Action is completely same :)
+android.app.Dialog/show:()V:49d2e8		=(rels)=>		1
+[*] Unique action: 1:662713 : <<CALL>> : b.j.a.c/onStart:()V:49d2e8  =>  android.app.Dialog/show:()V:1b4adc
+[*] FlowManager: adjust finished.
+	1:compareBackwardBranch2: 1:35926 : <<BRANCH>> : b.j.a.j/a:(IZ)V:4b3554  =>  b.j.a.j/a:(IZ)V:4b3546
+Entry: 4b31c0
+b.j.a.j/a:(IZ)V: 4b3554 -> 4b3546
+		b.j.a.j/a:(IZ)V: 394 -> 386
+addPatchReadme: java.lang.Class<b.j.a.j>a(IZ)V 394 t
+b29e6a69: [+] Patches found in this round: 1
+b29e6a69: [*] Found Patch size: 1
+Action is completely same :)
+Action is completely same :)
+46604b9f: There is no difference. (tryAgain=false)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample66@devRoot-D-R.obfuscated_flattened.ilog)
+b29e6a69: 	@@@Found patch addr: 4b3564
+b29e6a69: Querying offset: 4b3554
+b29e6a69: 	--Add method name to patch = b.j.a.j/a:(IZ)V 	4b3554
+[*] FlowManager: adjust finished.
+Action is completely same :)
+Action is completely same :)
+159ceeed: There is no difference. (tryAgain=false)
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: patching method: b.j.a.j/a:(IZ)V
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample66.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot
+Wow!!!!!  --  b.j.a.j/a:(IZ)V
+fallthrough: 398
+branchTarget: 386
+label = cond_4
+GOTO -- 398 	386
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample66.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample66.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/sample66.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample66.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/signed_sample66.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+b29e6a69: First address of Lb/j/a/j;->a(IZ)V = 4b31d0
+b29e6a69: Address - Lb/j/a/j;->a(IZ)V@394	 lastOffset = 11ec
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample66.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/signed_sample66.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample66@devRoot-D-R.obfuscated_flattened.ilog)
+b29e6a69: Running Application: com.wedigitek.appclientesprotege
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.wedigitek.appclientesprotege/.MainActivity
+PIDs--------------------------------------------------------------------------
+u0_a3886      13608    425 14453256 187328 0                  0 R com.wedigitek.appclientesprotege
+b29e6a69: savedPid = 13608
+PIDs--------------------------------------------------------------------------
+u0_a3886      13608    425 14453256 187328 0                  0 R com.wedigitek.appclientesprotege
+b29e6a69: savedPid2 = 13608
+Stopping app: com.wedigitek.appclientesprotege
+Tryging remove : uninstall com.wedigitek.appclientesprotege(com.wedigitek.appclientesprotege)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 260135474
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 28
+b29e6a69: isFailedToLaunch: com.wedigitek.appclientesprotege/.MainActivity
+b29e6a69: 	--result: Good :)
+b29e6a69: isFailedToLaunch: com.wedigitek.appclientesprotege/.MainActivity
+b29e6a69: 	--result: Good :)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample66@devRoot-D-R.obfuscated_flattened.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample66@devRoot-D-R.obfuscated_flattened.ilog)
+b29e6a69: adding filter -- 4b3554
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 4b3554
+Action is completely same :)
+Action is completely same :)
+b29e6a69: There is no difference. (tryAgain=false)
+-- HPFinder will be done in this iteration :)
+hasAntiAnalysis? - devTamper: false on com.wedigitek.appclientesprotege.MainActivity
+hasAntiAnalysis? - devRoot: true on com.wedigitek.appclientesprotege.MainActivity
+	isRemovedThem? - devRoot: true on com.wedigitek.appclientesprotege.MainActivity	-	tryCount: 1
+hasAntiAnalysis? - devDebug: false on com.wedigitek.appclientesprotege.MainActivity
+*****REPORT: com.wedigitek.appclientesprotege
+* Package name: com.wedigitek.appclientesprotege
+* Running time: 419
+* FileSize: 20834379
+devTamper : 291949493
+devRef : 374556258
+devRoot : 260135474
+devDebug : 403430299
+hasAntiAnalysis? - devTamper: false on com.wedigitek.appclientesprotege.MainActivity
+hasAntiAnalysis? - devRoot: true on com.wedigitek.appclientesprotege.MainActivity
+	isRemovedThem? - devRoot: true on com.wedigitek.appclientesprotege.MainActivity	-	tryCount: 1
+hasAntiAnalysis? - devDebug: false on com.wedigitek.appclientesprotege.MainActivity
+46604b9f: trying remove : com.wedigitek.appclientesprotege
+3601a6ff: trying remove : com.wedigitek.appclientesprotege
+b29e6a69: trying remove : com.wedigitek.appclientesprotege
+159ceeed: trying remove : com.wedigitek.appclientesprotege
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+159ceeed: result = true
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+3601a6ff: result = true
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+b29e6a69: result = true
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+46604b9f: result = true
+3601a6ff: isFailedToLaunch: com.wedigitek.appclientesprotege/.MainActivity
+3601a6ff: 	--result: Good :)

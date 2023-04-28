@@ -1,0 +1,320 @@
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample47.apk@devRoot-D-R.apk.obfuscated_flattened/AndroidManifest.xml
+launchable-activity: name='com.jinsit.safepass.activity.SplashActivity'  label='' icon=''
+{ACTIVITY, com.jinsit.safepass.activity.SplashActivity, android.intent.action.MAIN}
+{ACTIVITY, com.jinsit.safepass.activity.LoginActivity}
+{ACTIVITY, com.jinsit.safepass.activity.TermsActivity}
+{ACTIVITY, com.jinsit.safepass.activity.RegistStoreActivity}
+{ACTIVITY, com.jinsit.safepass.activity.EditStoreActivity}
+{ACTIVITY, com.jinsit.safepass.activity.HomeActivity}
+{ACTIVITY, com.jinsit.safepass.activity.ScanActivity}
+{ACTIVITY, com.jinsit.safepass.activity.ContinuousCaptureActivity}
+{ACTIVITY, com.jinsit.safepass.activity.ScannerCaptureActivity}
+{ACTIVITY, com.jinsit.safepass.activity.JoinMemberActivity}
+{ACTIVITY, com.jinsit.safepass.activity.CompleteJoinMemberActivity}
+{ACTIVITY, com.jinsit.safepass.activity.AddressWebViewActivity}
+{ACTIVITY, com.jinsit.safepass.activity.PassWebViewActivity}
+{ACTIVITY, com.jinsit.safepass.activity.CertificationActivity}
+{ACTIVITY, com.jinsit.safepass.activity.DailyVisitorActivity}
+{ACTIVITY, com.jinsit.safepass.activity.EmployeeActivity}
+{ACTIVITY, com.jinsit.safepass.activity.RegistEmployeeActivity}
+{ACTIVITY, com.jinsit.safepass.activity.FindIdPwActivity}
+{ACTIVITY, com.jinsit.safepass.activity.FindIdActivity}
+{ACTIVITY, com.jinsit.safepass.activity.ChangePasswordActivity}
+{ACTIVITY, com.jinsit.safepass.activity.TermsWebViewActivity}
+{ACTIVITY, com.jinsit.safepass.activity.IndustryListActivity}
+{ACTIVITY, com.jinsit.safepass.activity.SettingActivity}
+{ACTIVITY, com.jinsit.safepass.activity.StoreTypeActivity}
+{ACTIVITY, com.jinsit.safepass.activity.StoreTypeMsgWebViewActivity}
+{ACTIVITY, com.jinsit.safepass.activity.WebMsgWebViewActivity}
+{RECEIVER, com.google.android.gms.cast.framework.media.MediaIntentReceiver}
+{SERVICE, com.google.android.gms.cast.framework.media.MediaNotificationService}
+{SERVICE, com.google.android.gms.cast.framework.ReconnectionService}
+{ACTIVITY, com.journeyapps.barcodescanner.CaptureActivity}
+{ACTIVITY, com.google.android.gms.auth.api.signin.internal.SignInHubActivity}
+{SERVICE, com.google.android.gms.auth.api.signin.RevocationBoundService}
+{ACTIVITY, com.google.android.gms.ads.AdActivity}
+{ACTIVITY, com.google.android.gms.ads.purchase.InAppPurchaseActivity}
+{ACTIVITY, com.google.android.gms.appinvite.PreviewActivity, com.google.android.gms.appinvite.ACTION_PREVIEW}
+{SERVICE, com.google.firebase.crash.internal.service.FirebaseCrashReceiverService}
+{SERVICE, com.google.firebase.crash.internal.service.FirebaseCrashSenderService}
+{ACTIVITY, com.google.android.gms.common.api.GoogleApiActivity}
+{SERVICE, com.google.firebase.messaging.FirebaseMessagingService, com.google.firebase.MESSAGING_EVENT}
+{SERVICE, com.google.android.gms.tagmanager.TagManagerService}
+{ACTIVITY, com.google.android.gms.tagmanager.TagManagerPreviewActivity, android.intent.action.VIEW}
+{RECEIVER, com.google.android.gms.measurement.AppMeasurementReceiver, com.google.android.gms.measurement.UPLOAD}
+{SERVICE, com.google.android.gms.measurement.AppMeasurementService}
+{RECEIVER, com.google.firebase.iid.FirebaseInstanceIdReceiver, com.google.android.c2dm.intent.RECEIVE, com.google.android.c2dm.intent.REGISTRATION}
+{RECEIVER, com.google.firebase.iid.FirebaseInstanceIdInternalReceiver}
+{ACTIVITY, com.jinsit.safepass.activity.SplashActivity, android.intent.action.MAIN}
+{ACTIVITY, com.jinsit.safepass.activity.LoginActivity}
+{ACTIVITY, com.jinsit.safepass.activity.TermsActivity}
+{ACTIVITY, com.jinsit.safepass.activity.RegistStoreActivity}
+{ACTIVITY, com.jinsit.safepass.activity.EditStoreActivity}
+{ACTIVITY, com.jinsit.safepass.activity.HomeActivity}
+{ACTIVITY, com.jinsit.safepass.activity.ScanActivity}
+{ACTIVITY, com.jinsit.safepass.activity.ContinuousCaptureActivity}
+{ACTIVITY, com.jinsit.safepass.activity.ScannerCaptureActivity}
+{ACTIVITY, com.jinsit.safepass.activity.JoinMemberActivity}
+{ACTIVITY, com.jinsit.safepass.activity.CompleteJoinMemberActivity}
+{ACTIVITY, com.jinsit.safepass.activity.AddressWebViewActivity}
+{ACTIVITY, com.jinsit.safepass.activity.PassWebViewActivity}
+{ACTIVITY, com.jinsit.safepass.activity.CertificationActivity}
+{ACTIVITY, com.jinsit.safepass.activity.DailyVisitorActivity}
+{ACTIVITY, com.jinsit.safepass.activity.EmployeeActivity}
+{ACTIVITY, com.jinsit.safepass.activity.RegistEmployeeActivity}
+{ACTIVITY, com.jinsit.safepass.activity.FindIdPwActivity}
+{ACTIVITY, com.jinsit.safepass.activity.FindIdActivity}
+{ACTIVITY, com.jinsit.safepass.activity.ChangePasswordActivity}
+{ACTIVITY, com.jinsit.safepass.activity.TermsWebViewActivity}
+{ACTIVITY, com.jinsit.safepass.activity.IndustryListActivity}
+{ACTIVITY, com.jinsit.safepass.activity.SettingActivity}
+{ACTIVITY, com.jinsit.safepass.activity.StoreTypeActivity}
+{ACTIVITY, com.jinsit.safepass.activity.StoreTypeMsgWebViewActivity}
+{ACTIVITY, com.jinsit.safepass.activity.WebMsgWebViewActivity}
+{RECEIVER, com.google.android.gms.cast.framework.media.MediaIntentReceiver}
+{SERVICE, com.google.android.gms.cast.framework.media.MediaNotificationService}
+{SERVICE, com.google.android.gms.cast.framework.ReconnectionService}
+{ACTIVITY, com.journeyapps.barcodescanner.CaptureActivity}
+{ACTIVITY, com.google.android.gms.auth.api.signin.internal.SignInHubActivity}
+{SERVICE, com.google.android.gms.auth.api.signin.RevocationBoundService}
+{ACTIVITY, com.google.android.gms.ads.AdActivity}
+{ACTIVITY, com.google.android.gms.ads.purchase.InAppPurchaseActivity}
+{ACTIVITY, com.google.android.gms.appinvite.PreviewActivity, com.google.android.gms.appinvite.ACTION_PREVIEW}
+{SERVICE, com.google.firebase.crash.internal.service.FirebaseCrashReceiverService}
+{SERVICE, com.google.firebase.crash.internal.service.FirebaseCrashSenderService}
+{ACTIVITY, com.google.android.gms.common.api.GoogleApiActivity}
+{SERVICE, com.google.firebase.messaging.FirebaseMessagingService, com.google.firebase.MESSAGING_EVENT}
+{SERVICE, com.google.android.gms.tagmanager.TagManagerService}
+{ACTIVITY, com.google.android.gms.tagmanager.TagManagerPreviewActivity, android.intent.action.VIEW}
+{RECEIVER, com.google.android.gms.measurement.AppMeasurementReceiver, com.google.android.gms.measurement.UPLOAD}
+{SERVICE, com.google.android.gms.measurement.AppMeasurementService}
+{RECEIVER, com.google.firebase.iid.FirebaseInstanceIdReceiver, com.google.android.c2dm.intent.RECEIVE, com.google.android.c2dm.intent.REGISTRATION}
+{RECEIVER, com.google.firebase.iid.FirebaseInstanceIdInternalReceiver}
+_getAllDexFiles: /home/santapark/Extended3/DEEPerence/reEx/sample47.apk@devRoot-D-R.apk.obfuscated_flattened/classes2.dex
+_getAllDexFiles: /home/santapark/Extended3/DEEPerence/reEx/sample47.apk@devRoot-D-R.apk.obfuscated_flattened/classes.dex
+----------------/home/santapark/Extended3/DEEPerence/reEx/sample47.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+dexFile = org.jf.dexlib2.dexbacked.DexBackedDexFile@19e7a160
+com.jinsit.safepass
+com.jinsit.safepass.activity.SplashActivity
+debuggable: true
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample47.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample47.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample47.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample47.apk@devRoot-D-R.apk.obfuscated_flattened_46604b9f/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample47.apk@devRoot-D-R.apk.obfuscated_flattened_46604b9f/sample47.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+3601a6ff: Installation Success
+159ceeed: Installation Success
+b29e6a69: Installation Success
+46604b9f: Installing repackaged apk File: 
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample47.apk@devRoot-D-R.apk.obfuscated_flattened_46604b9f/signed_sample47.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+46604b9f: Installation Success
+46604b9f: startApplication called! - devTamper
+3601a6ff: startApplication called! - devRef
+b29e6a69: startApplication called! - devRoot
+159ceeed: startApplication called! - devDebug
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample47@devRoot-D-R.obfuscated_flattened.ilog)
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample47@devRoot-D-R.obfuscated_flattened.ilog)
+3601a6ff: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample47@devRoot-D-R.obfuscated_flattened.ilog)
+46604b9f: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devTamper_sample47@devRoot-D-R.obfuscated_flattened.ilog)
+b29e6a69: Running Application: com.jinsit.safepass
+46604b9f: Running Application: com.jinsit.safepass
+3601a6ff: Running Application: com.jinsit.safepass
+PIDs--------------------------------------------------------------------------
+u0_a208        7287    423 13774248 114268 0                  0 R com.jinsit.safepass
+forward tcp:35535 jdwp:7287
+[*]Found JDWP Target: 7287
+159ceeed: Running Application: com.jinsit.safepass
+PIDs--------------------------------------------------------------------------
+u0_a208        7287    423 13956836 150064 0                  0 S com.jinsit.safepass
+159ceeed: Tryging attach jdb to 7287
+jdb -connect com.sun.jdi.SocketAttach:hostname=localhost,port=35535
+b29e6a69: Running is done - starting comparing... : 10001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.jinsit.safepass/.activity.LoginActivity
+PIDs--------------------------------------------------------------------------
+u0_a3721      29095    425 14025408 145408 0                  0 S com.jinsit.safepass
+b29e6a69: savedPid = 29095
+PIDs--------------------------------------------------------------------------
+u0_a3721      29095    425 14025408 145408 0                  0 S com.jinsit.safepass
+b29e6a69: savedPid2 = 29095
+Stopping app: com.jinsit.safepass
+3601a6ff: Running is done - starting comparing... : 10001
+3601a6ff: Terminated logcat thread...by itself
+159ceeed: Running is done - starting comparing... : 10001
+159ceeed: Terminated logcat thread...by itself
+3601a6ff: Top-activity: com.jinsit.safepass/.activity.LoginActivity
+PIDs--------------------------------------------------------------------------
+u0_a229       30706    417 14208044 148468 0                  0 S com.jinsit.safepass
+3601a6ff: savedPid = 30706
+PIDs--------------------------------------------------------------------------
+u0_a229       30706    417 14208044 148468 0                  0 S com.jinsit.safepass
+3601a6ff: savedPid2 = 30706
+Stopping app: com.jinsit.safepass
+Tryging remove : uninstall com.jinsit.safepass(com.jinsit.safepass)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 12503115
+b29e6a69: End of collecting logcat...
+46604b9f: Running is done - starting comparing... : 10001
+46604b9f: Terminated logcat thread...by itself
+46604b9f: Top-activity: com.jinsit.safepass/.activity.LoginActivity
+PIDs--------------------------------------------------------------------------
+u0_a756       25242    427 14232368 148204 0                  0 S com.jinsit.safepass
+46604b9f: savedPid = 25242
+PIDs--------------------------------------------------------------------------
+u0_a756       25242    427 14232368 148204 0                  0 S com.jinsit.safepass
+46604b9f: savedPid2 = 25242
+Stopping app: com.jinsit.safepass
+Tryging remove : uninstall com.jinsit.safepass(com.jinsit.safepass)
+3601a6ff: Remove Success
+3601a6ff: ilog file size: 37150580
+3601a6ff: End of collecting logcat...
+159ceeed: Top-activity: com.jinsit.safepass/.activity.LoginActivity
+PIDs--------------------------------------------------------------------------
+u0_a208        7287    423 14036668 162336 0                  0 S com.jinsit.safepass
+159ceeed: savedPid = 7287
+PIDs--------------------------------------------------------------------------
+u0_a208        7287    423 14036668 162336 0                  0 S com.jinsit.safepass
+159ceeed: savedPid2 = 7287
+Stopping app: com.jinsit.safepass
+Tryging remove : uninstall com.jinsit.safepass(com.jinsit.safepass)
+46604b9f: Remove Success
+46604b9f: ilog file size: 36867814
+46604b9f: End of collecting logcat...
+Tryging remove : uninstall com.jinsit.safepass(com.jinsit.safepass)
+159ceeed: Remove Success
+159ceeed: ilog file size: 37113335
+159ceeed: End of collecting logcat...
+HPFinder's try count remains: 29
+46604b9f: isFailedToLaunch: com.jinsit.safepass/.activity.LoginActivity
+46604b9f: 	--result: Good :)
+46604b9f: isFailedToLaunch: com.jinsit.safepass/.activity.LoginActivity
+46604b9f: 	--result: Good :)
+b29e6a69: isFailedToLaunch: com.jinsit.safepass/.activity.LoginActivity
+b29e6a69: 	--result: Good :)
+b29e6a69: isFailedToLaunch: com.jinsit.safepass/.activity.LoginActivity
+b29e6a69: 	--result: Good :)
+159ceeed: isFailedToLaunch: com.jinsit.safepass/.activity.LoginActivity
+159ceeed: 	--result: Good :)
+159ceeed: isFailedToLaunch: com.jinsit.safepass/.activity.LoginActivity
+159ceeed: 	--result: Good :)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample47@devRoot-D-R.obfuscated_flattened.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample47@devRoot-D-R.obfuscated_flattened.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample47@devRoot-D-R.obfuscated_flattened.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample47@devRoot-D-R.obfuscated_flattened.ilog)
+[*] FlowManager: adjust finished.
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.app.Dialog/show:()V:41051a		=(rels)=>		1
+[*] Unique action: 1:47343 : <<CALL>> : com.jinsit.safepass.activity.a/r:()V:41051a  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:44056 : <<BRANCH>> : com.jinsit.safepass.activity.LoginActivity/onCreate:(Landroid/os/Bundle;)V:3f2800  =>  com.jinsit.safepass.activity.LoginActivity/onCreate:(Landroid/os/Bundle;)V:3f27f2
+Action is completely same :)
+Entry: 3f24e4
+com.jinsit.safepass.activity.LoginActivity/onCreate:(Landroid/os/Bundle;)V: 3f2800 -> 3f27f2
+		com.jinsit.safepass.activity.LoginActivity/onCreate:(Landroid/os/Bundle;)V: 31c -> 30e
+addPatchReadme: java.lang.Class<com.jinsit.safepass.activity.LoginActivity>onCreate(Landroid/os/Bundle;)V 31c t
+b29e6a69: [+] Patches found in this round: 1
+b29e6a69: [*] Found Patch size: 1
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample47@devRoot-D-R.obfuscated_flattened.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devTamper_sample47@devRoot-D-R.obfuscated_flattened.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample47@devRoot-D-R.obfuscated_flattened.ilog)
+b29e6a69: 	@@@Found patch addr: 3f2810
+b29e6a69: Querying offset: 3f2800
+b29e6a69: 	--Add method name to patch = com.jinsit.safepass.activity.LoginActivity/onCreate:(Landroid/os/Bundle;)V 	3f2800
+[*] FlowManager: adjust finished.
+Action is completely same :)
+Action is completely same :)
+159ceeed: There is no difference. (tryAgain=false)
+[*] FlowManager: adjust finished.
+Action is completely same :)
+Action is completely same :)
+46604b9f: There is no difference. (tryAgain=false)
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: patching method: com.jinsit.safepass.activity.LoginActivity/onCreate:(Landroid/os/Bundle;)V
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample47.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot
+Wow!!!!!  --  com.jinsit.safepass.activity.LoginActivity/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 320
+branchTarget: 30e
+label = cond_3
+GOTO -- 320 	30e
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample47.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample47.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/sample47.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample47.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/signed_sample47.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+b29e6a69: First address of Lcom/jinsit/safepass/activity/LoginActivity;->onCreate(Landroid/os/Bundle;)V = 3f24f4
+b29e6a69: Address - Lcom/jinsit/safepass/activity/LoginActivity;->onCreate(Landroid/os/Bundle;)V@31c	 lastOffset = 964
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample47.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/signed_sample47.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample47@devRoot-D-R.obfuscated_flattened.ilog)
+b29e6a69: Running Application: com.jinsit.safepass
+b29e6a69: Running is done - starting comparing... : 10001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.jinsit.safepass/.activity.LoginActivity
+PIDs--------------------------------------------------------------------------
+u0_a3722      29182    425 14080516 150532 0                  0 S com.jinsit.safepass
+b29e6a69: savedPid = 29182
+PIDs--------------------------------------------------------------------------
+u0_a3722      29182    425 14080516 150532 0                  0 S com.jinsit.safepass
+b29e6a69: savedPid2 = 29182
+Stopping app: com.jinsit.safepass
+Tryging remove : uninstall com.jinsit.safepass(com.jinsit.safepass)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 36835199
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 28
+b29e6a69: isFailedToLaunch: com.jinsit.safepass/.activity.LoginActivity
+b29e6a69: 	--result: Good :)
+b29e6a69: isFailedToLaunch: com.jinsit.safepass/.activity.LoginActivity
+b29e6a69: 	--result: Good :)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample47@devRoot-D-R.obfuscated_flattened.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample47@devRoot-D-R.obfuscated_flattened.ilog)
+b29e6a69: adding filter -- 3f2800
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 3f2800
+Action is completely same :)
+Action is completely same :)
+b29e6a69: There is no difference. (tryAgain=false)
+-- HPFinder will be done in this iteration :)
+hasAntiAnalysis? - devTamper: false on com.jinsit.safepass.activity.SplashActivity
+hasAntiAnalysis? - devRoot: true on com.jinsit.safepass.activity.SplashActivity
+	isRemovedThem? - devRoot: true on com.jinsit.safepass.activity.SplashActivity	-	tryCount: 1
+hasAntiAnalysis? - devDebug: false on com.jinsit.safepass.activity.SplashActivity
+*****REPORT: com.jinsit.safepass
+* Package name: com.jinsit.safepass
+* Running time: 159
+* FileSize: 7500632
+devTamper : 36867814
+devRef : 37150580
+devRoot : 36835199
+devDebug : 37113335
+hasAntiAnalysis? - devTamper: false on com.jinsit.safepass.activity.SplashActivity
+hasAntiAnalysis? - devRoot: true on com.jinsit.safepass.activity.SplashActivity
+	isRemovedThem? - devRoot: true on com.jinsit.safepass.activity.SplashActivity	-	tryCount: 1
+hasAntiAnalysis? - devDebug: false on com.jinsit.safepass.activity.SplashActivity
+46604b9f: trying remove : com.jinsit.safepass
+3601a6ff: trying remove : com.jinsit.safepass
+b29e6a69: trying remove : com.jinsit.safepass
+159ceeed: trying remove : com.jinsit.safepass
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+159ceeed: result = true
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+3601a6ff: result = true
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+46604b9f: result = true
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+b29e6a69: result = true
+3601a6ff: isFailedToLaunch: com.jinsit.safepass/.activity.LoginActivity
+3601a6ff: 	--result: Good :)

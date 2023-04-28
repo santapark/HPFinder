@@ -1,0 +1,413 @@
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated/AndroidManifest.xml
+launchable-activity: name='org.wso2.iot.agent.activities.SplashActivity'  label='Entgra Device Management Agent' icon=''
+leanback-launchable-activity: name='org.wso2.iot.agent.activities.SplashActivity'  label='Entgra Device Management Agent' icon='' banner=''
+{ACTIVITY, org.wso2.iot.agent.activities.RingActivity}
+{ACTIVITY, org.wso2.iot.agent.activities.EnrollmentSelectionActivity}
+{ACTIVITY, org.wso2.iot.agent.activities.EnrollmentInstructions}
+{ACTIVITY, org.wso2.iot.agent.activities.KioskVideoActivity}
+{ACTIVITY, org.wso2.iot.agent.activities.QRScanActivity}
+{ACTIVITY, org.wso2.iot.agent.activities.RegistrationActivity}
+{ACTIVITY, org.wso2.iot.agent.activities.DeviceOwnerEnableInfoActivity}
+{ACTIVITY, org.wso2.iot.agent.activities.Dialog}
+{ACTIVITY, com.journeyapps.barcodescanner.CaptureActivity}
+{ACTIVITY, org.wso2.iot.agent.activities.DisplayDeviceInfoActivity}
+{ACTIVITY, org.wso2.iot.agent.activities.ChatActivity}
+{ACTIVITY, org.wso2.iot.agent.activities.EnableDeviceAdminActivity}
+{RECEIVER, org.wso2.iot.agent.services.AgentDeviceAdminReceiver, android.app.action.DEVICE_ADMIN_ENABLED, android.app.action.PROFILE_PROVISIONING_COMPLETE}
+{RECEIVER, org.wso2.iot.agent.services.FirewallStatusReciever, eu.faircode.netguard.Restart}
+{RECEIVER, org.wso2.iot.agent.services.AlarmReceiver}
+{RECEIVER, org.wso2.iot.agent.events.EventAlarmReceiver}
+{RECEIVER, org.wso2.iot.agent.utils.FileUploadReceiver}
+{RECEIVER, org.wso2.iot.agent.utils.FileUploadCancelReceiver}
+{RECEIVER, org.wso2.iot.agent.services.AgentStartupReceiver, android.intent.action.BOOT_COMPLETED, android.intent.action.QUICKBOOT_POWERON, android.intent.action.ACTION_POWER_CONNECTED, android.intent.action.MY_PACKAGE_REPLACED, org.wso2.iot.agent.APPLICATION_UPDATED, org.wso2.iot.agent.APPLICATION_CRASHED}
+{RECEIVER, org.wso2.iot.agent.services.NetworkConnectedReceiver, android.net.wifi.STATE_CHANGE}
+{RECEIVER, org.wso2.iot.agent.services.NotificationReceiver}
+{RECEIVER, org.wso2.iot.agent.services.SystemServiceResponseReceiver}
+{RECEIVER, org.wso2.iot.agent.events.listeners.ApplicationStateReceiver, android.intent.action.PACKAGE_ADDED, android.intent.action.PACKAGE_REMOVED, android.intent.action.PACKAGE_REPLACED, android.intent.action.PACKAGE_DATA_CLEARED}
+{SERVICE, org.wso2.iot.agent.services.FileUploadService}
+{SERVICE, org.wso2.iot.agent.services.FileDownloadService}
+{SERVICE, org.wso2.iot.agent.services.ApplicationManagementService, org.wso2.iot.agent.START_SERVICE}
+{SERVICE, org.wso2.iot.agent.services.EnrollmentService, io.entgra.iot.agent.enrollment.START_SERVICE}
+{SERVICE, org.wso2.iot.agent.services.FCMMessagingService, com.google.firebase.MESSAGING_EVENT}
+{SERVICE, org.wso2.iot.agent.services.location.LocationService}
+{SERVICE, org.wso2.iot.agent.services.NetworkInfoService}
+{SERVICE, org.wso2.iot.agent.services.NetworkSateInfoService}
+{SERVICE, org.wso2.iot.agent.services.kiosk.KioskLockDownService}
+{SERVICE, org.wso2.iot.agent.services.kiosk.KioskUnlockService}
+{ACTIVITY, org.wso2.iot.agent.activities.DisplayAppInfoActivity}
+{ACTIVITY, org.wso2.iot.agent.activities.AlreadyRegisteredActivity}
+{ACTIVITY, org.wso2.iot.agent.activities.FirewallStatusActivity}
+{ACTIVITY, org.wso2.iot.agent.activities.AuthenticationActivity}
+{ACTIVITY, org.wso2.iot.agent.activities.AuthenticationErrorActivity}
+{ACTIVITY, org.wso2.iot.agent.activities.ServerConfigsActivity}
+{ACTIVITY, org.wso2.iot.agent.activities.DisclaimerActivity}
+{ACTIVITY, org.wso2.iot.agent.activities.PinCodeActivity}
+{ACTIVITY, org.wso2.iot.agent.activities.ScreenShareActivity}
+{ACTIVITY, org.wso2.iot.agent.activities.LockActivity}
+{ACTIVITY, org.wso2.iot.agent.activities.EnableProfileActivity}
+{ACTIVITY, org.wso2.iot.agent.WorkProfileManager}
+{ACTIVITY, org.wso2.iot.agent.activities.WorkProfileSelectionActivity}
+{ACTIVITY, org.wso2.iot.agent.activities.AppLockActivity}
+{SERVICE, org.wso2.iot.agent.services.AppLockService}
+{SERVICE, org.wso2.iot.agent.services.AppUsageTimeAlarmService}
+{SERVICE, org.wso2.iot.agent.services.AppUsageAlarmService}
+{SERVICE, org.wso2.iot.agent.services.screenshare.ScreenSharingService}
+{ACTIVITY, org.wso2.iot.agent.activities.KioskActivity}
+{ACTIVITY, org.wso2.iot.agent.activities.KioskMultipleUserAuthenticationActivity}
+{ACTIVITY, org.wso2.iot.agent.activities.KioskMultipleUserProfileActivity}
+{ACTIVITY, org.wso2.iot.agent.activities.SplashActivity, android.intent.action.MAIN}
+{ACTIVITY, org.wso2.iot.agent.activities.KioskRestrictionActivity}
+{ACTIVITY, org.wso2.iot.agent.activities.SecureBrowserActivity}
+{ACTIVITY, org.wso2.iot.agent.activities.VideoActivity}
+{ACTIVITY, org.wso2.iot.agent.file.browser.FileBrowserActivity}
+{ACTIVITY, org.wso2.iot.agent.activities.OpenVPNPermissionActivity}
+{ACTIVITY, org.wso2.iot.agent.activities.BackgroundActivity}
+{ACTIVITY, io.entgra.iot.agent.sample.SampleBackgroundEnrollment, android.intent.action.MAIN}
+{ACTIVITY, io.entgra.iot.agent.CLIProvisioningActivity}
+{ACTIVITY, org.wso2.iot.agent.activities.GoogleActivationActivity}
+{RECEIVER, org.wso2.iot.agent.services.LocationUpdateReceiver, org.wso2.iot.agent.LOCATION_UPDATE, android.location.PROVIDERS_CHANGED}
+{RECEIVER, org.wso2.iot.agent.services.AirplaneModeChangeReceiver, android.intent.action.AIRPLANE_MODE}
+{RECEIVER, org.wso2.iot.agent.services.kiosk.KioskAlarmReceiver}
+{SERVICE, org.wso2.iot.agent.services.ApplicationStateListenerService}
+{SERVICE, org.wso2.iot.agent.services.OpenVPNConnectService}
+{SERVICE, org.wso2.iot.agent.services.AgentForegroundService}
+{SERVICE, org.wso2.iot.agent.services.MessageSyncService}
+{SERVICE, org.wso2.iot.agent.services.CheckRestriction}
+{SERVICE, org.wso2.iot.agent.services.OptimizedLocationService}
+{SERVICE, org.wso2.iot.agent.services.GestureDispatchService, android.accessibilityservice.AccessibilityService}
+{SERVICE, org.wso2.iot.agent.services.InputMethodEditor, android.view.InputMethod}
+{SERVICE, com.google.android.apps.work.dpcsupport.ManagedConfigurationsProxy, com.android.vending.dpc.APPLICATION_RESTRICTIONS_PROXY}
+{RECEIVER, com.google.android.apps.work.dpcsupport.AccountManagementWhitelistEnforcer$ContinuousEnforcer, android.intent.action.PACKAGE_ADDED, android.intent.action.PACKAGE_CHANGED}
+{ACTIVITY, com.google.android.gms.auth.api.signin.internal.SignInHubActivity}
+{SERVICE, com.google.android.gms.auth.api.signin.RevocationBoundService}
+{SERVICE, com.google.firebase.messaging.FirebaseMessagingService, com.google.firebase.MESSAGING_EVENT}
+{SERVICE, com.google.firebase.components.ComponentDiscoveryService}
+{RECEIVER, com.google.firebase.iid.FirebaseInstanceIdReceiver, com.google.android.c2dm.intent.RECEIVE}
+{ACTIVITY, com.google.android.gms.common.api.GoogleApiActivity}
+{SERVICE, com.google.android.datatransport.runtime.backends.TransportBackendDiscovery}
+{SERVICE, com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService}
+{ACTIVITY, org.wso2.iot.agent.activities.RingActivity}
+{ACTIVITY, org.wso2.iot.agent.activities.EnrollmentSelectionActivity}
+{ACTIVITY, org.wso2.iot.agent.activities.EnrollmentInstructions}
+{ACTIVITY, org.wso2.iot.agent.activities.KioskVideoActivity}
+{ACTIVITY, org.wso2.iot.agent.activities.QRScanActivity}
+{ACTIVITY, org.wso2.iot.agent.activities.RegistrationActivity}
+{ACTIVITY, org.wso2.iot.agent.activities.DeviceOwnerEnableInfoActivity}
+{ACTIVITY, org.wso2.iot.agent.activities.Dialog}
+{ACTIVITY, com.journeyapps.barcodescanner.CaptureActivity}
+{ACTIVITY, org.wso2.iot.agent.activities.DisplayDeviceInfoActivity}
+{ACTIVITY, org.wso2.iot.agent.activities.ChatActivity}
+{ACTIVITY, org.wso2.iot.agent.activities.EnableDeviceAdminActivity}
+{RECEIVER, org.wso2.iot.agent.services.AgentDeviceAdminReceiver, android.app.action.DEVICE_ADMIN_ENABLED, android.app.action.PROFILE_PROVISIONING_COMPLETE}
+{RECEIVER, org.wso2.iot.agent.services.FirewallStatusReciever, eu.faircode.netguard.Restart}
+{RECEIVER, org.wso2.iot.agent.services.AlarmReceiver}
+{RECEIVER, org.wso2.iot.agent.events.EventAlarmReceiver}
+{RECEIVER, org.wso2.iot.agent.utils.FileUploadReceiver}
+{RECEIVER, org.wso2.iot.agent.utils.FileUploadCancelReceiver}
+{RECEIVER, org.wso2.iot.agent.services.AgentStartupReceiver, android.intent.action.BOOT_COMPLETED, android.intent.action.QUICKBOOT_POWERON, android.intent.action.ACTION_POWER_CONNECTED, android.intent.action.MY_PACKAGE_REPLACED, org.wso2.iot.agent.APPLICATION_UPDATED, org.wso2.iot.agent.APPLICATION_CRASHED}
+{RECEIVER, org.wso2.iot.agent.services.NetworkConnectedReceiver, android.net.wifi.STATE_CHANGE}
+{RECEIVER, org.wso2.iot.agent.services.NotificationReceiver}
+{RECEIVER, org.wso2.iot.agent.services.SystemServiceResponseReceiver}
+{RECEIVER, org.wso2.iot.agent.events.listeners.ApplicationStateReceiver, android.intent.action.PACKAGE_ADDED, android.intent.action.PACKAGE_REMOVED, android.intent.action.PACKAGE_REPLACED, android.intent.action.PACKAGE_DATA_CLEARED}
+{SERVICE, org.wso2.iot.agent.services.FileUploadService}
+{SERVICE, org.wso2.iot.agent.services.FileDownloadService}
+{SERVICE, org.wso2.iot.agent.services.ApplicationManagementService, org.wso2.iot.agent.START_SERVICE}
+{SERVICE, org.wso2.iot.agent.services.EnrollmentService, io.entgra.iot.agent.enrollment.START_SERVICE}
+{SERVICE, org.wso2.iot.agent.services.FCMMessagingService, com.google.firebase.MESSAGING_EVENT}
+{SERVICE, org.wso2.iot.agent.services.location.LocationService}
+{SERVICE, org.wso2.iot.agent.services.NetworkInfoService}
+{SERVICE, org.wso2.iot.agent.services.NetworkSateInfoService}
+{SERVICE, org.wso2.iot.agent.services.kiosk.KioskLockDownService}
+{SERVICE, org.wso2.iot.agent.services.kiosk.KioskUnlockService}
+{ACTIVITY, org.wso2.iot.agent.activities.DisplayAppInfoActivity}
+{ACTIVITY, org.wso2.iot.agent.activities.AlreadyRegisteredActivity}
+{ACTIVITY, org.wso2.iot.agent.activities.FirewallStatusActivity}
+{ACTIVITY, org.wso2.iot.agent.activities.AuthenticationActivity}
+{ACTIVITY, org.wso2.iot.agent.activities.AuthenticationErrorActivity}
+{ACTIVITY, org.wso2.iot.agent.activities.ServerConfigsActivity}
+{ACTIVITY, org.wso2.iot.agent.activities.DisclaimerActivity}
+{ACTIVITY, org.wso2.iot.agent.activities.PinCodeActivity}
+{ACTIVITY, org.wso2.iot.agent.activities.ScreenShareActivity}
+{ACTIVITY, org.wso2.iot.agent.activities.LockActivity}
+{ACTIVITY, org.wso2.iot.agent.activities.EnableProfileActivity}
+{ACTIVITY, org.wso2.iot.agent.WorkProfileManager}
+{ACTIVITY, org.wso2.iot.agent.activities.WorkProfileSelectionActivity}
+{ACTIVITY, org.wso2.iot.agent.activities.AppLockActivity}
+{SERVICE, org.wso2.iot.agent.services.AppLockService}
+{SERVICE, org.wso2.iot.agent.services.AppUsageTimeAlarmService}
+{SERVICE, org.wso2.iot.agent.services.AppUsageAlarmService}
+{SERVICE, org.wso2.iot.agent.services.screenshare.ScreenSharingService}
+{ACTIVITY, org.wso2.iot.agent.activities.KioskActivity}
+{ACTIVITY, org.wso2.iot.agent.activities.KioskMultipleUserAuthenticationActivity}
+{ACTIVITY, org.wso2.iot.agent.activities.KioskMultipleUserProfileActivity}
+{ACTIVITY, org.wso2.iot.agent.activities.SplashActivity, android.intent.action.MAIN}
+{ACTIVITY, org.wso2.iot.agent.activities.KioskRestrictionActivity}
+{ACTIVITY, org.wso2.iot.agent.activities.SecureBrowserActivity}
+{ACTIVITY, org.wso2.iot.agent.activities.VideoActivity}
+{ACTIVITY, org.wso2.iot.agent.file.browser.FileBrowserActivity}
+{ACTIVITY, org.wso2.iot.agent.activities.OpenVPNPermissionActivity}
+{ACTIVITY, org.wso2.iot.agent.activities.BackgroundActivity}
+{ACTIVITY, io.entgra.iot.agent.sample.SampleBackgroundEnrollment, android.intent.action.MAIN}
+{ACTIVITY, io.entgra.iot.agent.CLIProvisioningActivity}
+{ACTIVITY, org.wso2.iot.agent.activities.GoogleActivationActivity}
+{RECEIVER, org.wso2.iot.agent.services.LocationUpdateReceiver, org.wso2.iot.agent.LOCATION_UPDATE, android.location.PROVIDERS_CHANGED}
+{RECEIVER, org.wso2.iot.agent.services.AirplaneModeChangeReceiver, android.intent.action.AIRPLANE_MODE}
+{RECEIVER, org.wso2.iot.agent.services.kiosk.KioskAlarmReceiver}
+{SERVICE, org.wso2.iot.agent.services.ApplicationStateListenerService}
+{SERVICE, org.wso2.iot.agent.services.OpenVPNConnectService}
+{SERVICE, org.wso2.iot.agent.services.AgentForegroundService}
+{SERVICE, org.wso2.iot.agent.services.MessageSyncService}
+{SERVICE, org.wso2.iot.agent.services.CheckRestriction}
+{SERVICE, org.wso2.iot.agent.services.OptimizedLocationService}
+{SERVICE, org.wso2.iot.agent.services.GestureDispatchService, android.accessibilityservice.AccessibilityService}
+{SERVICE, org.wso2.iot.agent.services.InputMethodEditor, android.view.InputMethod}
+{SERVICE, com.google.android.apps.work.dpcsupport.ManagedConfigurationsProxy, com.android.vending.dpc.APPLICATION_RESTRICTIONS_PROXY}
+{RECEIVER, com.google.android.apps.work.dpcsupport.AccountManagementWhitelistEnforcer$ContinuousEnforcer, android.intent.action.PACKAGE_ADDED, android.intent.action.PACKAGE_CHANGED}
+{ACTIVITY, com.google.android.gms.auth.api.signin.internal.SignInHubActivity}
+{SERVICE, com.google.android.gms.auth.api.signin.RevocationBoundService}
+{SERVICE, com.google.firebase.messaging.FirebaseMessagingService, com.google.firebase.MESSAGING_EVENT}
+{SERVICE, com.google.firebase.components.ComponentDiscoveryService}
+{RECEIVER, com.google.firebase.iid.FirebaseInstanceIdReceiver, com.google.android.c2dm.intent.RECEIVE}
+{ACTIVITY, com.google.android.gms.common.api.GoogleApiActivity}
+{SERVICE, com.google.android.datatransport.runtime.backends.TransportBackendDiscovery}
+{SERVICE, com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService}
+_getAllDexFiles: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated/classes2.dex
+_getAllDexFiles: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated/classes.dex
+----------------/home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated.apk
+dexFile = org.jf.dexlib2.dexbacked.DexBackedDexFile@19e7a160
+io.entgra.iot.agent
+org.wso2.iot.agent.activities.SplashActivity
+debuggable: true
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated.apk
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated.apk
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_46604b9f/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_46604b9f/signed_obfuscated.apk
+3601a6ff: Installation Success
+159ceeed: Installation Success
+b29e6a69: Installation Success
+46604b9f: Installing repackaged apk File: 
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_46604b9f/signed_signed_obfuscated.apk
+46604b9f: Installation Success
+46604b9f: startApplication called! - devTamper
+3601a6ff: startApplication called! - devRef
+b29e6a69: startApplication called! - devRoot
+159ceeed: startApplication called! - devDebug
+3601a6ff: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRef_signed_obfuscated.ilog)
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_signed_obfuscated.ilog)
+3601a6ff: Running Application: io.entgra.iot.agent
+b29e6a69: Running Application: io.entgra.iot.agent
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_signed_obfuscated.ilog)
+46604b9f: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devTamper_signed_obfuscated.ilog)
+46604b9f: Running Application: io.entgra.iot.agent
+PIDs--------------------------------------------------------------------------
+u0_a189        3644    423 14483472 116872 0                  0 S io.entgra.iot.agent
+forward tcp:35535 jdwp:3644
+[*]Found JDWP Target: 3644
+159ceeed: Running Application: io.entgra.iot.agent
+b29e6a69: Running is done - starting comparing... : 10001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: io.entgra.iot.agent/org.wso2.iot.agent.activities.SplashActivity
+PIDs--------------------------------------------------------------------------
+u0_a3627      15754    425 14754572 144248 0                  0 S io.entgra.iot.agent
+b29e6a69: savedPid = 15754
+PIDs--------------------------------------------------------------------------
+u0_a3627      15754    425 14754572 144248 0                  0 S io.entgra.iot.agent
+b29e6a69: savedPid2 = 15754
+Stopping app: io.entgra.iot.agent
+PIDs--------------------------------------------------------------------------
+u0_a189        3644    423 14708548 146120 0                  0 S io.entgra.iot.agent
+159ceeed: Tryging attach jdb to 3644
+jdb -connect com.sun.jdi.SocketAttach:hostname=localhost,port=35535
+Tryging remove : uninstall io.entgra.iot.agent(io.entgra.iot.agent)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 6032159
+b29e6a69: End of collecting logcat...
+3601a6ff: Running is done - starting comparing... : 10001
+3601a6ff: Terminated logcat thread...by itself
+159ceeed: Running is done - starting comparing... : 10001
+159ceeed: Terminated logcat thread...by itself
+3601a6ff: Top-activity: io.entgra.iot.agent/org.wso2.iot.agent.activities.DisclaimerActivity
+PIDs--------------------------------------------------------------------------
+u0_a215       27848    417 14881528 143944 0                  0 S io.entgra.iot.agent
+3601a6ff: savedPid = 27848
+PIDs--------------------------------------------------------------------------
+u0_a215       27848    417 14881528 143944 0                  0 S io.entgra.iot.agent
+3601a6ff: savedPid2 = 27848
+Stopping app: io.entgra.iot.agent
+46604b9f: Running is done - starting comparing... : 10001
+46604b9f: Terminated logcat thread...by itself
+46604b9f: Top-activity: io.entgra.iot.agent/org.wso2.iot.agent.activities.DisclaimerActivity
+PIDs--------------------------------------------------------------------------
+u0_a734       21035    427 14935572 145088 0                  0 S io.entgra.iot.agent
+46604b9f: savedPid = 21035
+PIDs--------------------------------------------------------------------------
+u0_a734       21035    427 14935572 145088 0                  0 S io.entgra.iot.agent
+46604b9f: savedPid2 = 21035
+Stopping app: io.entgra.iot.agent
+Tryging remove : uninstall io.entgra.iot.agent(io.entgra.iot.agent)
+3601a6ff: Remove Success
+3601a6ff: ilog file size: 26472338
+3601a6ff: End of collecting logcat...
+Tryging remove : uninstall io.entgra.iot.agent(io.entgra.iot.agent)
+46604b9f: Remove Success
+46604b9f: ilog file size: 26952372
+46604b9f: End of collecting logcat...
+159ceeed: Top-activity: io.entgra.iot.agent/org.wso2.iot.agent.activities.DisclaimerActivity
+PIDs--------------------------------------------------------------------------
+u0_a189        3644    423 14762448 158500 0                  0 S io.entgra.iot.agent
+159ceeed: savedPid = 3644
+PIDs--------------------------------------------------------------------------
+u0_a189        3644    423 14762448 158500 0                  0 S io.entgra.iot.agent
+159ceeed: savedPid2 = 3644
+Stopping app: io.entgra.iot.agent
+Tryging remove : uninstall io.entgra.iot.agent(io.entgra.iot.agent)
+159ceeed: Remove Success
+159ceeed: ilog file size: 26912275
+159ceeed: End of collecting logcat...
+HPFinder's try count remains: 29
+46604b9f: isFailedToLaunch: io.entgra.iot.agent/org.wso2.iot.agent.activities.DisclaimerActivity
+46604b9f: 	--result: Good :)
+46604b9f: isFailedToLaunch: io.entgra.iot.agent/org.wso2.iot.agent.activities.DisclaimerActivity
+46604b9f: 	--result: Good :)
+b29e6a69: isFailedToLaunch: io.entgra.iot.agent/org.wso2.iot.agent.activities.SplashActivity
+b29e6a69: 	--result: Good :)
+b29e6a69: isFailedToLaunch: io.entgra.iot.agent/org.wso2.iot.agent.activities.SplashActivity
+b29e6a69: 	--result: Good :)
+159ceeed: isFailedToLaunch: io.entgra.iot.agent/org.wso2.iot.agent.activities.DisclaimerActivity
+159ceeed: 	--result: Good :)
+159ceeed: isFailedToLaunch: io.entgra.iot.agent/org.wso2.iot.agent.activities.DisclaimerActivity
+159ceeed: 	--result: Good :)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_signed_obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_signed_obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_signed_obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_signed_obfuscated.ilog)
+[*] FlowManager: adjust finished.
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:76ced2		=(rels)=>		1
+[*] Unique action: 1:120045 : <<CALL>> : org.wso2.iot.agent.activities.DisclaimerActivity/onCreate:(Landroid/os/Bundle;)V:76ced2  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_signed_obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devTamper_signed_obfuscated.ilog)
+[*] FlowManager: adjust finished.
+Action is completely same :)
+Action is completely same :)
+159ceeed: There is no difference. (tryAgain=false)
+[*] FlowManager: adjust finished.
+Action is completely same :)
+Action is completely same :)
+46604b9f: There is no difference. (tryAgain=false)
+	1:compareBackwardBranch: 1:119795 : <<BRANCH>> : org.wso2.iot.agent.activities.SplashActivity/onCreate:(Landroid/os/Bundle;)V:801622  =>  org.wso2.iot.agent.activities.SplashActivity/onCreate:(Landroid/os/Bundle;)V:801614
+android.app.Activity/startActivity:(Landroid/content/Intent;)V:800dec		=(rels)=>		1
+[*] Unique action: 1:119974 : <<CALL>> : org.wso2.iot.agent.activities.SplashActivity/startActivity:()V:800dec  =>  android.app.Activity/startActivity:(Landroid/content/Intent;)V:19cda0
+	1:compareBackwardBranch: 1:119795 : <<BRANCH>> : org.wso2.iot.agent.activities.SplashActivity/onCreate:(Landroid/os/Bundle;)V:801622  =>  org.wso2.iot.agent.activities.SplashActivity/onCreate:(Landroid/os/Bundle;)V:801614
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:76cea8		=(rels)=>		1
+[*] Unique action: 1:120037 : <<CALL>> : org.wso2.iot.agent.activities.DisclaimerActivity/onCreate:(Landroid/os/Bundle;)V:76cea8  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:119795 : <<BRANCH>> : org.wso2.iot.agent.activities.SplashActivity/onCreate:(Landroid/os/Bundle;)V:801622  =>  org.wso2.iot.agent.activities.SplashActivity/onCreate:(Landroid/os/Bundle;)V:801614
+android.app.Dialog/show:()V:801786		=(rels)=>		1
+[*] Unique action: 1:21769 : <<CALL>> : org.wso2.iot.agent.activities.SplashActivity/onCreate:(Landroid/os/Bundle;)V:801786  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:119788 : <<BRANCH>> : org.wso2.iot.agent.activities.SplashActivity/onCreate:(Landroid/os/Bundle;)V:8015b8  =>  org.wso2.iot.agent.activities.SplashActivity/onCreate:(Landroid/os/Bundle;)V:8015d0
+Entry: 801478
+org.wso2.iot.agent.activities.SplashActivity/onCreate:(Landroid/os/Bundle;)V: 8015b8 -> 8015d0
+		org.wso2.iot.agent.activities.SplashActivity/onCreate:(Landroid/os/Bundle;)V: 140 -> 158
+addPatchReadme: java.lang.Class<org.wso2.iot.agent.activities.SplashActivity>onCreate(Landroid/os/Bundle;)V 140 t
+Entry: 801478
+org.wso2.iot.agent.activities.SplashActivity/onCreate:(Landroid/os/Bundle;)V: 801622 -> 801614
+		org.wso2.iot.agent.activities.SplashActivity/onCreate:(Landroid/os/Bundle;)V: 1aa -> 19c
+addPatchReadme: java.lang.Class<org.wso2.iot.agent.activities.SplashActivity>onCreate(Landroid/os/Bundle;)V 1aa t
+b29e6a69: [+] Patches found in this round: 2
+b29e6a69: [*] Found Patch size: 1
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_signed_obfuscated.ilog)
+b29e6a69: 	@@@Found patch addr: 801632
+b29e6a69: Querying offset: 801622
+b29e6a69: 	--Add method name to patch = org.wso2.iot.agent.activities.SplashActivity/onCreate:(Landroid/os/Bundle;)V 	801622
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: patching method: org.wso2.iot.agent.activities.SplashActivity/onCreate:(Landroid/os/Bundle;)V
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devRoot
+Wow!!!!!  --  org.wso2.iot.agent.activities.SplashActivity/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 1ae
+branchTarget: 19c
+label = cond_0
+GOTO -- 1ae 	19c
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devRoot/signed_obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devRoot/signed_signed_obfuscated.apk
+b29e6a69: First address of Lorg/wso2/iot/agent/activities/SplashActivity;->onCreate(Landroid/os/Bundle;)V = 801488
+b29e6a69: Address - Lorg/wso2/iot/agent/activities/SplashActivity;->onCreate(Landroid/os/Bundle;)V@1aa	 lastOffset = 610
+b29e6a69: Instruction@@: IF_NEZ
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devRoot/signed_signed_obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_signed_obfuscated.ilog)
+b29e6a69: Running Application: io.entgra.iot.agent
+b29e6a69: Running is done - starting comparing... : 10001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: io.entgra.iot.agent/org.wso2.iot.agent.activities.DisclaimerActivity
+PIDs--------------------------------------------------------------------------
+u0_a3628      15846    425 14785276 146032 0                  0 S io.entgra.iot.agent
+b29e6a69: savedPid = 15846
+PIDs--------------------------------------------------------------------------
+u0_a3628      15846    425 14785276 146032 0                  0 S io.entgra.iot.agent
+b29e6a69: savedPid2 = 15846
+Stopping app: io.entgra.iot.agent
+Tryging remove : uninstall io.entgra.iot.agent(io.entgra.iot.agent)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 6069333
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 28
+b29e6a69: isFailedToLaunch: io.entgra.iot.agent/org.wso2.iot.agent.activities.DisclaimerActivity
+b29e6a69: 	--result: Good :)
+b29e6a69: isFailedToLaunch: io.entgra.iot.agent/org.wso2.iot.agent.activities.DisclaimerActivity
+b29e6a69: 	--result: Good :)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_signed_obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_signed_obfuscated.ilog)
+b29e6a69: adding filter -- 801622
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 801622
+Action is completely same :)
+Action is completely same :)
+b29e6a69: There is no difference. (tryAgain=false)
+-- HPFinder will be done in this iteration :)
+hasAntiAnalysis? - devTamper: false on org.wso2.iot.agent.activities.SplashActivity
+hasAntiAnalysis? - devRoot: true on org.wso2.iot.agent.activities.SplashActivity
+	isRemovedThem? - devRoot: true on org.wso2.iot.agent.activities.SplashActivity	-	tryCount: 1
+hasAntiAnalysis? - devDebug: false on org.wso2.iot.agent.activities.SplashActivity
+*****REPORT: io.entgra.iot.agent
+* Package name: io.entgra.iot.agent
+* Running time: 156
+* FileSize: 11984717
+devTamper : 26952372
+devRef : 26472338
+devRoot : 6069333
+devDebug : 26912275
+hasAntiAnalysis? - devTamper: false on org.wso2.iot.agent.activities.SplashActivity
+hasAntiAnalysis? - devRoot: true on org.wso2.iot.agent.activities.SplashActivity
+	isRemovedThem? - devRoot: true on org.wso2.iot.agent.activities.SplashActivity	-	tryCount: 1
+hasAntiAnalysis? - devDebug: false on org.wso2.iot.agent.activities.SplashActivity
+46604b9f: trying remove : io.entgra.iot.agent
+3601a6ff: trying remove : io.entgra.iot.agent
+b29e6a69: trying remove : io.entgra.iot.agent
+159ceeed: trying remove : io.entgra.iot.agent
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+159ceeed: result = true
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+3601a6ff: result = true
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+46604b9f: result = true
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+b29e6a69: result = true
+3601a6ff: isFailedToLaunch: io.entgra.iot.agent/org.wso2.iot.agent.activities.DisclaimerActivity
+3601a6ff: 	--result: Good :)

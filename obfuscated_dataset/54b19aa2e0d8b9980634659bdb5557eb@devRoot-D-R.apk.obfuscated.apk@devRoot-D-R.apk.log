@@ -1,0 +1,534 @@
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample5.apk@devRoot-D-R.apk.obfuscated/AndroidManifest.xml
+launchable-activity: name='de.buhl.steuerapp2016.activities.LauncherActivity'  label='steuer:App' icon=''
+{RECEIVER, com.amazon.device.iap.ResponseReceiver, com.amazon.inapp.purchasing.NOTIFY}
+{ACTIVITY, de.buhl.steuerapp2016.activities.LauncherActivity, android.intent.action.MAIN, android.intent.action.VIEW, android.intent.action.VIEW, android.intent.action.VIEW}
+{ACTIVITY, de.buhl.steuerapp2016.activities.LoginActivity}
+{ACTIVITY, de.buhl.steuerapp2016.activities.IntroActivity}
+{ACTIVITY, de.buhl.steuerapp2016.activities.RegistrationActivity}
+{ACTIVITY, de.buhl.steuerapp2016.activities.LegalAgreementActivity}
+{ACTIVITY, de.buhl.steuerapp2016.activities.WebViewActivity}
+{ACTIVITY, de.buhl.steuerapp2016.activities.TaxDeclarationsOverviewActivity}
+{ACTIVITY, de.buhl.steuerapp2016.activities.TaxDeclarationDetailActivity}
+{ACTIVITY, de.buhl.steuerapp2016.activities.SettingsActivity}
+{ACTIVITY, de.buhl.steuerapp2016.activities.BookmarksActivity}
+{ACTIVITY, de.buhl.steuerapp2016.activities.SearchActivity}
+{ACTIVITY, de.buhl.steuerapp2016.activities.HelpImportActivity}
+{ACTIVITY, de.buhl.steuerapp2016.activities.VideoChooserActivity}
+{ACTIVITY, de.buhl.steuerapp2016.activities.VideoActivity}
+{ACTIVITY, de.buhl.steuerapp2016.mvvm.pdf.PdfReaderActivity}
+{ACTIVITY, de.buhl.steuerapp2016.activities.CalculatorActivity}
+{ACTIVITY, de.buhl.steuerapp2016.activities.AstConnectionActivity}
+{ACTIVITY, de.buhl.steuerapp2016.activities.DistanceCalculationActivity}
+{ACTIVITY, de.buhl.steuerapp2016.activities.PrefilledTaxDeclarationSelectionActivity}
+{ACTIVITY, de.buhl.steuerapp2016.activities.VASTAssistentActivity}
+{ACTIVITY, de.buhl.steuerapp2016.activities.ModalDialogActivity}
+{ACTIVITY, de.buhl.steuerapp2016.activities.AdditionalIncomeTypesActivity}
+{ACTIVITY, de.buhl.steuerapp2016.activities.AstOverviewActivity}
+{ACTIVITY, de.buhl.steuerapp2016.mvvm.settings.view.SettingsPasswordActivity}
+{ACTIVITY, de.buhl.steuerapp2016.mvvm.settings.view.SettingsSelectionActivity}
+{ACTIVITY, de.buhl.steuerapp2016.mvvm.taxtips.TaxChangesActivity}
+{RECEIVER, com.amazon.device.iap.ResponseReceiver, com.amazon.inapp.purchasing.NOTIFY}
+{ACTIVITY, de.buhl.steuerapp2016.activities.LauncherActivity, android.intent.action.MAIN, android.intent.action.VIEW, android.intent.action.VIEW, android.intent.action.VIEW}
+{ACTIVITY, de.buhl.steuerapp2016.activities.LoginActivity}
+{ACTIVITY, de.buhl.steuerapp2016.activities.IntroActivity}
+{ACTIVITY, de.buhl.steuerapp2016.activities.RegistrationActivity}
+{ACTIVITY, de.buhl.steuerapp2016.activities.LegalAgreementActivity}
+{ACTIVITY, de.buhl.steuerapp2016.activities.WebViewActivity}
+{ACTIVITY, de.buhl.steuerapp2016.activities.TaxDeclarationsOverviewActivity}
+{ACTIVITY, de.buhl.steuerapp2016.activities.TaxDeclarationDetailActivity}
+{ACTIVITY, de.buhl.steuerapp2016.activities.SettingsActivity}
+{ACTIVITY, de.buhl.steuerapp2016.activities.BookmarksActivity}
+{ACTIVITY, de.buhl.steuerapp2016.activities.SearchActivity}
+{ACTIVITY, de.buhl.steuerapp2016.activities.HelpImportActivity}
+{ACTIVITY, de.buhl.steuerapp2016.activities.VideoChooserActivity}
+{ACTIVITY, de.buhl.steuerapp2016.activities.VideoActivity}
+{ACTIVITY, de.buhl.steuerapp2016.mvvm.pdf.PdfReaderActivity}
+{ACTIVITY, de.buhl.steuerapp2016.activities.CalculatorActivity}
+{ACTIVITY, de.buhl.steuerapp2016.activities.AstConnectionActivity}
+{ACTIVITY, de.buhl.steuerapp2016.activities.DistanceCalculationActivity}
+{ACTIVITY, de.buhl.steuerapp2016.activities.PrefilledTaxDeclarationSelectionActivity}
+{ACTIVITY, de.buhl.steuerapp2016.activities.VASTAssistentActivity}
+{ACTIVITY, de.buhl.steuerapp2016.activities.ModalDialogActivity}
+{ACTIVITY, de.buhl.steuerapp2016.activities.AdditionalIncomeTypesActivity}
+{ACTIVITY, de.buhl.steuerapp2016.activities.AstOverviewActivity}
+{ACTIVITY, de.buhl.steuerapp2016.mvvm.settings.view.SettingsPasswordActivity}
+{ACTIVITY, de.buhl.steuerapp2016.mvvm.settings.view.SettingsSelectionActivity}
+{ACTIVITY, de.buhl.steuerapp2016.mvvm.taxtips.TaxChangesActivity}
+_getAllDexFiles: /home/santapark/Extended3/DEEPerence/reEx/sample5.apk@devRoot-D-R.apk.obfuscated/classes2.dex
+_getAllDexFiles: /home/santapark/Extended3/DEEPerence/reEx/sample5.apk@devRoot-D-R.apk.obfuscated/classes.dex
+----------------/home/santapark/Extended3/DEEPerence/reEx/sample5.apk@devRoot-D-R.apk.obfuscated.apk
+dexFile = org.jf.dexlib2.dexbacked.DexBackedDexFile@79f227a9
+de.buhl.steuerapp2020
+de.buhl.steuerapp2016.activities.LauncherActivity
+debuggable: true
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample5.apk@devRoot-D-R.apk.obfuscated.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample5.apk@devRoot-D-R.apk.obfuscated.apk
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample5.apk@devRoot-D-R.apk.obfuscated_46604b9f/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample5.apk@devRoot-D-R.apk.obfuscated_46604b9f/sample5.apk@devRoot-D-R.apk.obfuscated.apk
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample5.apk@devRoot-D-R.apk.obfuscated/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample5.apk@devRoot-D-R.apk.obfuscated/sample5.apk@devRoot-D-R.apk.obfuscated.apk
+3601a6ff: Installation Success
+b29e6a69: Installation Success
+159ceeed: Installing debuggable .apk file: 
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample5.apk@devRoot-D-R.apk.obfuscated/signed_sample5.apk@devRoot-D-R.apk.obfuscated.apk
+46604b9f: Installing repackaged apk File: 
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample5.apk@devRoot-D-R.apk.obfuscated_46604b9f/signed_sample5.apk@devRoot-D-R.apk.obfuscated.apk
+159ceeed: Installation Success
+46604b9f: Installation Success
+46604b9f: startApplication called! - devTamper
+3601a6ff: startApplication called! - devRef
+b29e6a69: startApplication called! - devRoot
+159ceeed: startApplication called! - devDebug
+46604b9f: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devTamper_sample5@devRoot-D-R.obfuscated.ilog)
+3601a6ff: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample5@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample5@devRoot-D-R.obfuscated.ilog)
+46604b9f: Running Application: de.buhl.steuerapp2020
+b29e6a69: Running Application: de.buhl.steuerapp2020
+3601a6ff: Running Application: de.buhl.steuerapp2020
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample5@devRoot-D-R.obfuscated.ilog)
+PIDs--------------------------------------------------------------------------
+u0_a848       12716    428 14839120 180736 0                  0 R de.buhl.steuerapp2020
+forward tcp:5005 jdwp:12716
+[*]Found JDWP Target: 12716
+159ceeed: Running Application: de.buhl.steuerapp2020
+3601a6ff: Running is done - starting comparing... : 5001
+3601a6ff: Terminated logcat thread...by itself
+3601a6ff: Top-activity: de.buhl.steuerapp2020/de.buhl.steuerapp2016.activities.IntroActivity
+PIDs--------------------------------------------------------------------------
+u0_a216        2384    407 14849388 267364 0                  0 S de.buhl.steuerapp2020
+PIDs--------------------------------------------------------------------------
+u0_a216        2384    407 14849388 267364 0                  0 S de.buhl.steuerapp2020
+Stopping app: de.buhl.steuerapp2020
+46604b9f: Running is done - starting comparing... : 5001
+46604b9f: Terminated logcat thread...by itself
+159ceeed: Running is done - starting comparing... : 5001
+159ceeed: Terminated logcat thread...by itself
+46604b9f: Top-activity: de.buhl.steuerapp2020/de.buhl.steuerapp2016.activities.IntroActivity
+PIDs--------------------------------------------------------------------------
+u0_a906       18798    425 14867944 267656 0                  0 S de.buhl.steuerapp2020
+PIDs--------------------------------------------------------------------------
+u0_a906       18798    425 14867944 267656 0                  0 S de.buhl.steuerapp2020
+Stopping app: de.buhl.steuerapp2020
+159ceeed: Top-activity: de.buhl.steuerapp2020/de.buhl.steuerapp2016.activities.IntroActivity
+PIDs--------------------------------------------------------------------------
+u0_a848       12716    428 14917096 268084 0                  0 S de.buhl.steuerapp2020
+PIDs--------------------------------------------------------------------------
+u0_a848       12716    428 14917096 268084 0                  0 S de.buhl.steuerapp2020
+Stopping app: de.buhl.steuerapp2020
+Tryging remove : uninstall de.buhl.steuerapp2020(de.buhl.steuerapp2020)
+3601a6ff: Remove Success
+3601a6ff: ilog file size: 23507263
+3601a6ff: End of collecting logcat...
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+Tryging remove : uninstall de.buhl.steuerapp2020(de.buhl.steuerapp2020)
+46604b9f: Remove Success
+46604b9f: ilog file size: 23510965
+46604b9f: End of collecting logcat...
+b29e6a69: Top-activity: de.buhl.steuerapp2020/de.buhl.steuerapp2016.activities.IntroActivity
+PIDs--------------------------------------------------------------------------
+u0_a3492      17557    428 14903088 268252 0                  0 R de.buhl.steuerapp2020
+PIDs--------------------------------------------------------------------------
+u0_a3492      17557    428 14903088 268252 0                  0 S de.buhl.steuerapp2020
+Stopping app: de.buhl.steuerapp2020
+Tryging remove : uninstall de.buhl.steuerapp2020(de.buhl.steuerapp2020)
+159ceeed: Remove Success
+159ceeed: ilog file size: 23511356
+159ceeed: End of collecting logcat...
+Tryging remove : uninstall de.buhl.steuerapp2020(de.buhl.steuerapp2020)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 24535657
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 19
+46604b9f: isFailedToLaunch: de.buhl.steuerapp2020/de.buhl.steuerapp2016.activities.IntroActivity
+46604b9f: 	--result: Good :)
+b29e6a69: isFailedToLaunch: de.buhl.steuerapp2020/de.buhl.steuerapp2016.activities.IntroActivity
+b29e6a69: 	--result: Good :)
+159ceeed: isFailedToLaunch: de.buhl.steuerapp2020/de.buhl.steuerapp2016.activities.IntroActivity
+159ceeed: 	--result: Good :)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample5@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample5@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample5@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample5@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample5@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devTamper_sample5@devRoot-D-R.obfuscated.ilog)
+[*] FlowManager: adjust finished.
+[*] FlowManager: adjust finished.
+[*] FlowManager: adjust finished.
+Action is completely same :)
+Action is completely same :)
+Action is completely same :)
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:27fd8fc		=(rels)=>		1
+Action is completely same :)
+159ceeed: There is no difference. (tryAgain=false)
+Action is completely same :)
+46604b9f: There is no difference. (tryAgain=false)
+[*] Unique action: 1:83153 : <<CALL>> : de.buhl.steuerapp2016.core.Popup/setNegativeButton:(Ljava/lang/String;Landroid/view/View$OnClickListener;)Lde/buhl/steuerapp2016/core/Popup;:27fd8fc  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:79969 : <<BRANCH>> : de.buhl.steuerapp2016.utils.RootWarningHandler/performCheck:(Landroid/content/Context;)V:500356a  =>  de.buhl.steuerapp2016.utils.RootWarningHandler/performCheck:(Landroid/content/Context;)V:500370c
+android.app.Dialog/show:()V:5001eb8		=(rels)=>		1
+[*] Unique action: 1:83196 : <<CALL>> : de.buhl.steuerapp2016.utils.RootWarningHandler/CULEhYyTwnfVBdcJ:(Lde/buhl/steuerapp2016/core/Popup;)V:5001eb8  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:79969 : <<BRANCH>> : de.buhl.steuerapp2016.utils.RootWarningHandler/performCheck:(Landroid/content/Context;)V:500356a  =>  de.buhl.steuerapp2016.utils.RootWarningHandler/performCheck:(Landroid/content/Context;)V:500370c
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:27fd8e0		=(rels)=>		1
+[*] Unique action: 1:83142 : <<CALL>> : de.buhl.steuerapp2016.core.Popup/setNegativeButton:(Ljava/lang/String;Landroid/view/View$OnClickListener;)Lde/buhl/steuerapp2016/core/Popup;:27fd8e0  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:79969 : <<BRANCH>> : de.buhl.steuerapp2016.utils.RootWarningHandler/performCheck:(Landroid/content/Context;)V:500356a  =>  de.buhl.steuerapp2016.utils.RootWarningHandler/performCheck:(Landroid/content/Context;)V:500370c
+Entry: 5003354
+de.buhl.steuerapp2016.utils.RootWarningHandler/performCheck:(Landroid/content/Context;)V: 500356a -> 500370c
+		de.buhl.steuerapp2016.utils.RootWarningHandler/performCheck:(Landroid/content/Context;)V: 216 -> 3b8
+addPatchReadme: java.lang.Class<de.buhl.steuerapp2016.utils.RootWarningHandler>performCheck(Landroid/content/Context;)V 216 t
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample5@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Patch size: 1
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample5.apk@devRoot-D-R.apk.obfuscated_devRoot
+Wow!!!!!  --  de.buhl.steuerapp2016.utils.RootWarningHandler/performCheck:(Landroid/content/Context;)V
+fallthrough: 21c
+branchTarget: 3b8
+label = sswitch_data_6
+GOTO -- 21c 	3b8
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample5.apk@devRoot-D-R.apk.obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample5.apk@devRoot-D-R.apk.obfuscated_devRoot/sample5.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample5.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample5.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: First address of Lde/buhl/steuerapp2016/utils/RootWarningHandler;->performCheck(Landroid/content/Context;)V = 5003364
+b29e6a69: Address - Lde/buhl/steuerapp2016/utils/RootWarningHandler;->performCheck(Landroid/content/Context;)V@216	 lastOffset = 554
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample5.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample5.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample5@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Running Application: de.buhl.steuerapp2020
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: de.buhl.steuerapp2020
+Tryging remove : uninstall de.buhl.steuerapp2020(de.buhl.steuerapp2020)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 31911137
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 18
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+/home/santapark/Extended3/DEEPerence/reEx/sample5.apk@devRoot-D-R.apk.obfuscated.apk launch is failed on devRoot
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 500356a
+Action is completely same :)
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:27fd8fc		=(rels)=>		1
+[*] Unique action: 1:83153 : <<CALL>> : de.buhl.steuerapp2016.core.Popup/setNegativeButton:(Ljava/lang/String;Landroid/view/View$OnClickListener;)Lde/buhl/steuerapp2016/core/Popup;:27fd8fc  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:79966 : <<BRANCH>> : de.buhl.steuerapp2016.utils.RootWarningHandler/performCheck:(Landroid/content/Context;)V:5003598  =>  de.buhl.steuerapp2016.utils.RootWarningHandler/performCheck:(Landroid/content/Context;)V:500357c
+android.app.Dialog/show:()V:5001eb8		=(rels)=>		1
+[*] Unique action: 1:83196 : <<CALL>> : de.buhl.steuerapp2016.utils.RootWarningHandler/CULEhYyTwnfVBdcJ:(Lde/buhl/steuerapp2016/core/Popup;)V:5001eb8  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:79966 : <<BRANCH>> : de.buhl.steuerapp2016.utils.RootWarningHandler/performCheck:(Landroid/content/Context;)V:5003598  =>  de.buhl.steuerapp2016.utils.RootWarningHandler/performCheck:(Landroid/content/Context;)V:500357c
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:27fd8e0		=(rels)=>		1
+[*] Unique action: 1:83142 : <<CALL>> : de.buhl.steuerapp2016.core.Popup/setNegativeButton:(Ljava/lang/String;Landroid/view/View$OnClickListener;)Lde/buhl/steuerapp2016/core/Popup;:27fd8e0  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:79966 : <<BRANCH>> : de.buhl.steuerapp2016.utils.RootWarningHandler/performCheck:(Landroid/content/Context;)V:5003598  =>  de.buhl.steuerapp2016.utils.RootWarningHandler/performCheck:(Landroid/content/Context;)V:500357c
+Entry: 5003354
+de.buhl.steuerapp2016.utils.RootWarningHandler/performCheck:(Landroid/content/Context;)V: 5003598 -> 500357c
+		de.buhl.steuerapp2016.utils.RootWarningHandler/performCheck:(Landroid/content/Context;)V: 244 -> 228
+addPatchReadme: java.lang.Class<de.buhl.steuerapp2016.utils.RootWarningHandler>performCheck(Landroid/content/Context;)V 244 t
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample5@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Patch size: 1
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample5.apk@devRoot-D-R.apk.obfuscated_devRoot
+Wow!!!!!  --  de.buhl.steuerapp2016.utils.RootWarningHandler/performCheck:(Landroid/content/Context;)V
+fallthrough: 24a
+branchTarget: 228
+label = sswitch_data_7
+GOTO -- 24a 	228
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample5.apk@devRoot-D-R.apk.obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample5.apk@devRoot-D-R.apk.obfuscated_devRoot/sample5.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample5.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample5.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: First address of Lde/buhl/steuerapp2016/utils/RootWarningHandler;->performCheck(Landroid/content/Context;)V = 5003364
+b29e6a69: Address - Lde/buhl/steuerapp2016/utils/RootWarningHandler;->performCheck(Landroid/content/Context;)V@244	 lastOffset = 554
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample5.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample5.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample5@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Running Application: de.buhl.steuerapp2020
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: de.buhl.steuerapp2020
+Tryging remove : uninstall de.buhl.steuerapp2020(de.buhl.steuerapp2020)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 31914453
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 17
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+/home/santapark/Extended3/DEEPerence/reEx/sample5.apk@devRoot-D-R.apk.obfuscated.apk launch is failed on devRoot
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 5003598
+-- current localPatchFilter: 500356a
+Action is completely same :)
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:27fd8fc		=(rels)=>		1
+[*] Unique action: 1:83153 : <<CALL>> : de.buhl.steuerapp2016.core.Popup/setNegativeButton:(Ljava/lang/String;Landroid/view/View$OnClickListener;)Lde/buhl/steuerapp2016/core/Popup;:27fd8fc  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:79963 : <<BRANCH>> : de.buhl.steuerapp2016.utils.RootWarningHandler/performCheck:(Landroid/content/Context;)V:50035b6  =>  de.buhl.steuerapp2016.utils.RootWarningHandler/performCheck:(Landroid/content/Context;)V:50035be
+android.app.Dialog/show:()V:5001eb8		=(rels)=>		1
+[*] Unique action: 1:83196 : <<CALL>> : de.buhl.steuerapp2016.utils.RootWarningHandler/CULEhYyTwnfVBdcJ:(Lde/buhl/steuerapp2016/core/Popup;)V:5001eb8  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:79963 : <<BRANCH>> : de.buhl.steuerapp2016.utils.RootWarningHandler/performCheck:(Landroid/content/Context;)V:50035b6  =>  de.buhl.steuerapp2016.utils.RootWarningHandler/performCheck:(Landroid/content/Context;)V:50035be
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:27fd8e0		=(rels)=>		1
+[*] Unique action: 1:83142 : <<CALL>> : de.buhl.steuerapp2016.core.Popup/setNegativeButton:(Ljava/lang/String;Landroid/view/View$OnClickListener;)Lde/buhl/steuerapp2016/core/Popup;:27fd8e0  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:79963 : <<BRANCH>> : de.buhl.steuerapp2016.utils.RootWarningHandler/performCheck:(Landroid/content/Context;)V:50035b6  =>  de.buhl.steuerapp2016.utils.RootWarningHandler/performCheck:(Landroid/content/Context;)V:50035be
+Entry: 5003354
+de.buhl.steuerapp2016.utils.RootWarningHandler/performCheck:(Landroid/content/Context;)V: 50035b6 -> 50035be
+		de.buhl.steuerapp2016.utils.RootWarningHandler/performCheck:(Landroid/content/Context;)V: 262 -> 26a
+addPatchReadme: java.lang.Class<de.buhl.steuerapp2016.utils.RootWarningHandler>performCheck(Landroid/content/Context;)V 262 t
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample5@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Patch size: 1
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample5.apk@devRoot-D-R.apk.obfuscated_devRoot
+Wow!!!!!  --  de.buhl.steuerapp2016.utils.RootWarningHandler/performCheck:(Landroid/content/Context;)V
+fallthrough: 268
+branchTarget: 26a
+label = sswitch_data_8
+GOTO -- 268 	26a
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample5.apk@devRoot-D-R.apk.obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample5.apk@devRoot-D-R.apk.obfuscated_devRoot/sample5.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample5.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample5.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: First address of Lde/buhl/steuerapp2016/utils/RootWarningHandler;->performCheck(Landroid/content/Context;)V = 5003364
+b29e6a69: Address - Lde/buhl/steuerapp2016/utils/RootWarningHandler;->performCheck(Landroid/content/Context;)V@262	 lastOffset = 554
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample5.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample5.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample5@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Running Application: de.buhl.steuerapp2020
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: de.buhl.steuerapp2020
+Tryging remove : uninstall de.buhl.steuerapp2020(de.buhl.steuerapp2020)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 31912817
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 16
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+/home/santapark/Extended3/DEEPerence/reEx/sample5.apk@devRoot-D-R.apk.obfuscated.apk launch is failed on devRoot
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 50035b6
+-- current localPatchFilter: 5003598
+-- current localPatchFilter: 500356a
+Action is completely same :)
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:27fd8fc		=(rels)=>		1
+[*] Unique action: 1:83153 : <<CALL>> : de.buhl.steuerapp2016.core.Popup/setNegativeButton:(Ljava/lang/String;Landroid/view/View$OnClickListener;)Lde/buhl/steuerapp2016/core/Popup;:27fd8fc  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:79960 : <<BRANCH>> : de.buhl.steuerapp2016.utils.RootWarningHandler/performCheck:(Landroid/content/Context;)V:50035e4  =>  de.buhl.steuerapp2016.utils.RootWarningHandler/performCheck:(Landroid/content/Context;)V:50035c6
+android.app.Dialog/show:()V:5001eb8		=(rels)=>		1
+[*] Unique action: 1:83196 : <<CALL>> : de.buhl.steuerapp2016.utils.RootWarningHandler/CULEhYyTwnfVBdcJ:(Lde/buhl/steuerapp2016/core/Popup;)V:5001eb8  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:79960 : <<BRANCH>> : de.buhl.steuerapp2016.utils.RootWarningHandler/performCheck:(Landroid/content/Context;)V:50035e4  =>  de.buhl.steuerapp2016.utils.RootWarningHandler/performCheck:(Landroid/content/Context;)V:50035c6
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:27fd8e0		=(rels)=>		1
+[*] Unique action: 1:83142 : <<CALL>> : de.buhl.steuerapp2016.core.Popup/setNegativeButton:(Ljava/lang/String;Landroid/view/View$OnClickListener;)Lde/buhl/steuerapp2016/core/Popup;:27fd8e0  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:79960 : <<BRANCH>> : de.buhl.steuerapp2016.utils.RootWarningHandler/performCheck:(Landroid/content/Context;)V:50035e4  =>  de.buhl.steuerapp2016.utils.RootWarningHandler/performCheck:(Landroid/content/Context;)V:50035c6
+Entry: 5003354
+de.buhl.steuerapp2016.utils.RootWarningHandler/performCheck:(Landroid/content/Context;)V: 50035e4 -> 50035c6
+		de.buhl.steuerapp2016.utils.RootWarningHandler/performCheck:(Landroid/content/Context;)V: 290 -> 272
+addPatchReadme: java.lang.Class<de.buhl.steuerapp2016.utils.RootWarningHandler>performCheck(Landroid/content/Context;)V 290 t
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample5@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Patch size: 1
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample5.apk@devRoot-D-R.apk.obfuscated_devRoot
+Wow!!!!!  --  de.buhl.steuerapp2016.utils.RootWarningHandler/performCheck:(Landroid/content/Context;)V
+fallthrough: 296
+branchTarget: 272
+label = sswitch_data_9
+GOTO -- 296 	272
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample5.apk@devRoot-D-R.apk.obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample5.apk@devRoot-D-R.apk.obfuscated_devRoot/sample5.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample5.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample5.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: First address of Lde/buhl/steuerapp2016/utils/RootWarningHandler;->performCheck(Landroid/content/Context;)V = 5003364
+b29e6a69: Address - Lde/buhl/steuerapp2016/utils/RootWarningHandler;->performCheck(Landroid/content/Context;)V@290	 lastOffset = 554
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample5.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample5.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample5@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Running Application: de.buhl.steuerapp2020
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: de.buhl.steuerapp2020
+Tryging remove : uninstall de.buhl.steuerapp2020(de.buhl.steuerapp2020)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 31915236
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 15
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+/home/santapark/Extended3/DEEPerence/reEx/sample5.apk@devRoot-D-R.apk.obfuscated.apk launch is failed on devRoot
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 50035e4
+-- current localPatchFilter: 50035b6
+-- current localPatchFilter: 5003598
+-- current localPatchFilter: 500356a
+Action is completely same :)
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:27fd8fc		=(rels)=>		1
+[*] Unique action: 1:83153 : <<CALL>> : de.buhl.steuerapp2016.core.Popup/setNegativeButton:(Ljava/lang/String;Landroid/view/View$OnClickListener;)Lde/buhl/steuerapp2016/core/Popup;:27fd8fc  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:79957 : <<BRANCH>> : de.buhl.steuerapp2016.utils.RootWarningHandler/performCheck:(Landroid/content/Context;)V:5003602  =>  de.buhl.steuerapp2016.utils.RootWarningHandler/performCheck:(Landroid/content/Context;)V:500360a
+android.app.Dialog/show:()V:5001eb8		=(rels)=>		1
+[*] Unique action: 1:83196 : <<CALL>> : de.buhl.steuerapp2016.utils.RootWarningHandler/CULEhYyTwnfVBdcJ:(Lde/buhl/steuerapp2016/core/Popup;)V:5001eb8  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:79957 : <<BRANCH>> : de.buhl.steuerapp2016.utils.RootWarningHandler/performCheck:(Landroid/content/Context;)V:5003602  =>  de.buhl.steuerapp2016.utils.RootWarningHandler/performCheck:(Landroid/content/Context;)V:500360a
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:27fd8e0		=(rels)=>		1
+[*] Unique action: 1:83142 : <<CALL>> : de.buhl.steuerapp2016.core.Popup/setNegativeButton:(Ljava/lang/String;Landroid/view/View$OnClickListener;)Lde/buhl/steuerapp2016/core/Popup;:27fd8e0  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:79957 : <<BRANCH>> : de.buhl.steuerapp2016.utils.RootWarningHandler/performCheck:(Landroid/content/Context;)V:5003602  =>  de.buhl.steuerapp2016.utils.RootWarningHandler/performCheck:(Landroid/content/Context;)V:500360a
+Entry: 5003354
+de.buhl.steuerapp2016.utils.RootWarningHandler/performCheck:(Landroid/content/Context;)V: 5003602 -> 500360a
+		de.buhl.steuerapp2016.utils.RootWarningHandler/performCheck:(Landroid/content/Context;)V: 2ae -> 2b6
+addPatchReadme: java.lang.Class<de.buhl.steuerapp2016.utils.RootWarningHandler>performCheck(Landroid/content/Context;)V 2ae t
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample5@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Patch size: 1
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample5.apk@devRoot-D-R.apk.obfuscated_devRoot
+Wow!!!!!  --  de.buhl.steuerapp2016.utils.RootWarningHandler/performCheck:(Landroid/content/Context;)V
+fallthrough: 2b4
+branchTarget: 2b6
+label = sswitch_data_10
+GOTO -- 2b4 	2b6
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample5.apk@devRoot-D-R.apk.obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample5.apk@devRoot-D-R.apk.obfuscated_devRoot/sample5.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample5.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample5.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: First address of Lde/buhl/steuerapp2016/utils/RootWarningHandler;->performCheck(Landroid/content/Context;)V = 5003364
+b29e6a69: Address - Lde/buhl/steuerapp2016/utils/RootWarningHandler;->performCheck(Landroid/content/Context;)V@2ae	 lastOffset = 554
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample5.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample5.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample5@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Running Application: de.buhl.steuerapp2020
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: de.buhl.steuerapp2020
+Tryging remove : uninstall de.buhl.steuerapp2020(de.buhl.steuerapp2020)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 31672359
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 14
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+/home/santapark/Extended3/DEEPerence/reEx/sample5.apk@devRoot-D-R.apk.obfuscated.apk launch is failed on devRoot
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 5003602
+-- current localPatchFilter: 50035e4
+-- current localPatchFilter: 50035b6
+-- current localPatchFilter: 5003598
+-- current localPatchFilter: 500356a
+Action is completely same :)
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:27fd8fc		=(rels)=>		1
+[*] Unique action: 1:83153 : <<CALL>> : de.buhl.steuerapp2016.core.Popup/setNegativeButton:(Ljava/lang/String;Landroid/view/View$OnClickListener;)Lde/buhl/steuerapp2016/core/Popup;:27fd8fc  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:79954 : <<BRANCH>> : de.buhl.steuerapp2016.utils.RootWarningHandler/performCheck:(Landroid/content/Context;)V:5003626  =>  de.buhl.steuerapp2016.utils.RootWarningHandler/performCheck:(Landroid/content/Context;)V:5003612
+android.app.Dialog/show:()V:5001eb8		=(rels)=>		1
+[*] Unique action: 1:83196 : <<CALL>> : de.buhl.steuerapp2016.utils.RootWarningHandler/CULEhYyTwnfVBdcJ:(Lde/buhl/steuerapp2016/core/Popup;)V:5001eb8  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:79954 : <<BRANCH>> : de.buhl.steuerapp2016.utils.RootWarningHandler/performCheck:(Landroid/content/Context;)V:5003626  =>  de.buhl.steuerapp2016.utils.RootWarningHandler/performCheck:(Landroid/content/Context;)V:5003612
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:27fd8e0		=(rels)=>		1
+[*] Unique action: 1:83142 : <<CALL>> : de.buhl.steuerapp2016.core.Popup/setNegativeButton:(Ljava/lang/String;Landroid/view/View$OnClickListener;)Lde/buhl/steuerapp2016/core/Popup;:27fd8e0  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:79954 : <<BRANCH>> : de.buhl.steuerapp2016.utils.RootWarningHandler/performCheck:(Landroid/content/Context;)V:5003626  =>  de.buhl.steuerapp2016.utils.RootWarningHandler/performCheck:(Landroid/content/Context;)V:5003612
+Entry: 5003354
+de.buhl.steuerapp2016.utils.RootWarningHandler/performCheck:(Landroid/content/Context;)V: 5003626 -> 5003612
+		de.buhl.steuerapp2016.utils.RootWarningHandler/performCheck:(Landroid/content/Context;)V: 2d2 -> 2be
+addPatchReadme: java.lang.Class<de.buhl.steuerapp2016.utils.RootWarningHandler>performCheck(Landroid/content/Context;)V 2d2 t
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample5@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Patch size: 1
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample5.apk@devRoot-D-R.apk.obfuscated_devRoot
+Wow!!!!!  --  de.buhl.steuerapp2016.utils.RootWarningHandler/performCheck:(Landroid/content/Context;)V
+fallthrough: 2d6
+branchTarget: 2be
+label = cond_1
+GOTO -- 2d6 	2be
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample5.apk@devRoot-D-R.apk.obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample5.apk@devRoot-D-R.apk.obfuscated_devRoot/sample5.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample5.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample5.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: First address of Lde/buhl/steuerapp2016/utils/RootWarningHandler;->performCheck(Landroid/content/Context;)V = 5003364
+b29e6a69: Address - Lde/buhl/steuerapp2016/utils/RootWarningHandler;->performCheck(Landroid/content/Context;)V@2d2	 lastOffset = 554
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample5.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample5.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample5@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Running Application: de.buhl.steuerapp2020
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: de.buhl.steuerapp2020/de.buhl.steuerapp2016.activities.IntroActivity
+PIDs--------------------------------------------------------------------------
+u0_a3498      19375    428 14939940 267688 0                  0 S de.buhl.steuerapp2020
+PIDs--------------------------------------------------------------------------
+u0_a3498      19375    428 14939940 267688 0                  0 S de.buhl.steuerapp2020
+Stopping app: de.buhl.steuerapp2020
+Tryging remove : uninstall de.buhl.steuerapp2020(de.buhl.steuerapp2020)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 23373338
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 13
+b29e6a69: isFailedToLaunch: de.buhl.steuerapp2020/de.buhl.steuerapp2016.activities.IntroActivity
+b29e6a69: 	--result: Good :)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample5@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample5@devRoot-D-R.obfuscated.ilog)
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 5003626
+Action is completely same :)
+Action is completely same :)
+b29e6a69: There is no difference. (tryAgain=false)
+-- HPFinder will be done in this iteration :)
+hasAntiAnalysis? - devTamper: false on de.buhl.steuerapp2016.activities.LauncherActivity
+hasAntiAnalysis? - devRoot: true on de.buhl.steuerapp2016.activities.LauncherActivity
+	isRemovedThem? - devRoot: true on de.buhl.steuerapp2016.activities.LauncherActivity	-	tryCount: 6
+hasAntiAnalysis? - devDebug: false on de.buhl.steuerapp2016.activities.LauncherActivity
+*****REPORT: de.buhl.steuerapp2020
+* Package name: de.buhl.steuerapp2020
+* Running time: 1617
+* FileSize: 109591693
+devTamper : 23510965
+devRef : 23507263
+devRoot : 23373338
+devDebug : 23511356
+hasAntiAnalysis? - devTamper: false on de.buhl.steuerapp2016.activities.LauncherActivity
+hasAntiAnalysis? - devRoot: true on de.buhl.steuerapp2016.activities.LauncherActivity
+	isRemovedThem? - devRoot: true on de.buhl.steuerapp2016.activities.LauncherActivity	-	tryCount: 6
+hasAntiAnalysis? - devDebug: false on de.buhl.steuerapp2016.activities.LauncherActivity
+46604b9f: trying remove : de.buhl.steuerapp2020
+3601a6ff: trying remove : de.buhl.steuerapp2020
+b29e6a69: trying remove : de.buhl.steuerapp2020
+159ceeed: trying remove : de.buhl.steuerapp2020
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+3601a6ff: result = true
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+b29e6a69: result = true
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+159ceeed: result = true
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+46604b9f: result = true
+3601a6ff: isFailedToLaunch: de.buhl.steuerapp2020/de.buhl.steuerapp2016.activities.IntroActivity
+3601a6ff: 	--result: Good :)

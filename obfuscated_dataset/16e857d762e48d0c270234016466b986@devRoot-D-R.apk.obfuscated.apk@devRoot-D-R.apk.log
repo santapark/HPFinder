@@ -1,0 +1,290 @@
+axmlPath: /home/santapark/Extended3/DEEPerence/obfuscated/sample22.apk@devRoot-D-R.apk.obfuscated/AndroidManifest.xml
+launchable-activity: name='com.lcode.indelmoney.UserSplashActivity'  label='Indel Money' icon=''
+{ACTIVITY, com.lcode.indelmoney.UserSplashActivity, android.intent.action.MAIN}
+{ACTIVITY, com.lcode.indelmoney.UserRegisterActivity}
+{ACTIVITY, com.lcode.indelmoney.UserLoginActivity}
+{ACTIVITY, com.lcode.indelmoney.UserBankDetails}
+{ACTIVITY, com.lcode.indelmoney.UserDoorStep}
+{ACTIVITY, com.lcode.indelmoney.UserEMICalc}
+{ACTIVITY, com.lcode.indelmoney.UserProducts}
+{ACTIVITY, com.lcode.indelmoney.UserSetPin}
+{ACTIVITY, com.lcode.indelmoney.UserLoanAcList}
+{ACTIVITY, com.lcode.indelmoney.UserLoanAcListNew}
+{ACTIVITY, com.lcode.indelmoney.UserLoanAcDetailList}
+{ACTIVITY, com.lcode.indelmoney.UserLandingActivity}
+{ACTIVITY, com.lcode.indelmoney.UserPayment}
+{ACTIVITY, com.lcode.indelmoney.UserQrPayment}
+{ACTIVITY, com.lcode.indelmoney.UserWebview}
+{ACTIVITY, com.lcode.indelmoney.RaiseComplaint}
+{ACTIVITY, com.lcode.indelmoney.LanguageSetting}
+{ACTIVITY, com.lcode.indelmoney.ViewComplaint}
+{ACTIVITY, com.lcode.indelmoney.FaqWebViewJsp}
+{ACTIVITY, com.lcode.indelmoney.map.BranchAtmLocator}
+{ACTIVITY, com.lcode.indelmoney.FaqList}
+{ACTIVITY, com.lcode.indelmoney.TermsList}
+{ACTIVITY, com.lcode.indelmoney.ChangeLoginMpin}
+{ACTIVITY, com.lcode.indelmoney.OnlinePayment}
+{ACTIVITY, com.lcode.indelmoney.SchemeList}
+{ACTIVITY, com.lcode.indelmoney.SchemeExpList}
+{ACTIVITY, com.lcode.indelmoney.SchemeDetails}
+{ACTIVITY, com.lcode.indelmoney.ScanAndPay}
+{ACTIVITY, com.lcode.indelmoney.FingerprintDisclaimer}
+{ACTIVITY, com.lcode.indelmoney.common.ProfilePicCapture}
+{SERVICE, com.lcode.indelmoney.common.DeviceLocatorService}
+{RECEIVER, com.lcode.indelmoney.IncomingSms, com.google.android.gms.auth.api.phone.SMS_RETRIEVED}
+{SERVICE, com.lcode.indelmoney.firebase.MyFcmListenerService, com.google.firebase.MESSAGING_EVENT}
+{RECEIVER, com.lcode.indelmoney.sms.NetworkChangeReceiver, android.net.conn.CONNECTIVITY_CHANGE}
+{ACTIVITY, com.google.android.gms.auth.api.signin.internal.SignInHubActivity}
+{SERVICE, com.google.android.gms.auth.api.signin.RevocationBoundService}
+{SERVICE, com.google.firebase.messaging.FirebaseMessagingService, com.google.firebase.MESSAGING_EVENT}
+{SERVICE, com.google.firebase.components.ComponentDiscoveryService}
+{RECEIVER, com.google.firebase.iid.FirebaseInstanceIdReceiver, com.google.android.c2dm.intent.RECEIVE}
+{SERVICE, com.google.firebase.iid.FirebaseInstanceIdService, com.google.firebase.INSTANCE_ID_EVENT}
+{ACTIVITY, com.lcode.indelmoney.UserSplashActivity, android.intent.action.MAIN}
+{ACTIVITY, com.lcode.indelmoney.UserRegisterActivity}
+{ACTIVITY, com.lcode.indelmoney.UserLoginActivity}
+{ACTIVITY, com.lcode.indelmoney.UserBankDetails}
+{ACTIVITY, com.lcode.indelmoney.UserDoorStep}
+{ACTIVITY, com.lcode.indelmoney.UserEMICalc}
+{ACTIVITY, com.lcode.indelmoney.UserProducts}
+{ACTIVITY, com.lcode.indelmoney.UserSetPin}
+{ACTIVITY, com.lcode.indelmoney.UserLoanAcList}
+{ACTIVITY, com.lcode.indelmoney.UserLoanAcListNew}
+{ACTIVITY, com.lcode.indelmoney.UserLoanAcDetailList}
+{ACTIVITY, com.lcode.indelmoney.UserLandingActivity}
+{ACTIVITY, com.lcode.indelmoney.UserPayment}
+{ACTIVITY, com.lcode.indelmoney.UserQrPayment}
+{ACTIVITY, com.lcode.indelmoney.UserWebview}
+{ACTIVITY, com.lcode.indelmoney.RaiseComplaint}
+{ACTIVITY, com.lcode.indelmoney.LanguageSetting}
+{ACTIVITY, com.lcode.indelmoney.ViewComplaint}
+{ACTIVITY, com.lcode.indelmoney.FaqWebViewJsp}
+{ACTIVITY, com.lcode.indelmoney.map.BranchAtmLocator}
+{ACTIVITY, com.lcode.indelmoney.FaqList}
+{ACTIVITY, com.lcode.indelmoney.TermsList}
+{ACTIVITY, com.lcode.indelmoney.ChangeLoginMpin}
+{ACTIVITY, com.lcode.indelmoney.OnlinePayment}
+{ACTIVITY, com.lcode.indelmoney.SchemeList}
+{ACTIVITY, com.lcode.indelmoney.SchemeExpList}
+{ACTIVITY, com.lcode.indelmoney.SchemeDetails}
+{ACTIVITY, com.lcode.indelmoney.ScanAndPay}
+{ACTIVITY, com.lcode.indelmoney.FingerprintDisclaimer}
+{ACTIVITY, com.lcode.indelmoney.common.ProfilePicCapture}
+{SERVICE, com.lcode.indelmoney.common.DeviceLocatorService}
+{RECEIVER, com.lcode.indelmoney.IncomingSms, com.google.android.gms.auth.api.phone.SMS_RETRIEVED}
+{SERVICE, com.lcode.indelmoney.firebase.MyFcmListenerService, com.google.firebase.MESSAGING_EVENT}
+{RECEIVER, com.lcode.indelmoney.sms.NetworkChangeReceiver, android.net.conn.CONNECTIVITY_CHANGE}
+{ACTIVITY, com.google.android.gms.auth.api.signin.internal.SignInHubActivity}
+{SERVICE, com.google.android.gms.auth.api.signin.RevocationBoundService}
+{SERVICE, com.google.firebase.messaging.FirebaseMessagingService, com.google.firebase.MESSAGING_EVENT}
+{SERVICE, com.google.firebase.components.ComponentDiscoveryService}
+{RECEIVER, com.google.firebase.iid.FirebaseInstanceIdReceiver, com.google.android.c2dm.intent.RECEIVE}
+{SERVICE, com.google.firebase.iid.FirebaseInstanceIdService, com.google.firebase.INSTANCE_ID_EVENT}
+_getAllDexFiles: /home/santapark/Extended3/DEEPerence/obfuscated/sample22.apk@devRoot-D-R.apk.obfuscated/classes.dex
+----------------/home/santapark/Extended3/DEEPerence/obfuscated/sample22.apk@devRoot-D-R.apk.obfuscated.apk
+dexFile = org.jf.dexlib2.dexbacked.DexBackedDexFile@106abb78
+com.lcode.indelmoney
+com.lcode.indelmoney.UserSplashActivity
+debuggable: true
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+Installing apk: /home/santapark/Extended3/DEEPerence/obfuscated/sample22.apk@devRoot-D-R.apk.obfuscated.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/obfuscated/sample22.apk@devRoot-D-R.apk.obfuscated.apk
+axmlPath: /home/santapark/Extended3/DEEPerence/obfuscated/sample22.apk@devRoot-D-R.apk.obfuscated_46604b9f/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/obfuscated/sample22.apk@devRoot-D-R.apk.obfuscated_46604b9f/sample22.apk@devRoot-D-R.apk.obfuscated.apk
+axmlPath: /home/santapark/Extended3/DEEPerence/obfuscated/sample22.apk@devRoot-D-R.apk.obfuscated/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/obfuscated/sample22.apk@devRoot-D-R.apk.obfuscated/sample22.apk@devRoot-D-R.apk.obfuscated.apk
+46604b9f: Installing repackaged apk File: 
+Installing apk: /home/santapark/Extended3/DEEPerence/obfuscated/sample22.apk@devRoot-D-R.apk.obfuscated_46604b9f/signed_sample22.apk@devRoot-D-R.apk.obfuscated.apk
+159ceeed: Installing debuggable .apk file: 
+Installing apk: /home/santapark/Extended3/DEEPerence/obfuscated/sample22.apk@devRoot-D-R.apk.obfuscated/signed_sample22.apk@devRoot-D-R.apk.obfuscated.apk
+3601a6ff: Installation Success
+b29e6a69: Installation Success
+46604b9f: Installation Success
+159ceeed: Installation Success
+46604b9f: startApplication called! - devTamper
+3601a6ff: startApplication called! - devRef
+b29e6a69: startApplication called! - devRoot
+159ceeed: startApplication called! - devDebug
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/obfuscated/devRoot_sample22@devRoot-D-R.obfuscated.ilog)
+46604b9f: Collecting logcat... (/home/santapark/Extended3/DEEPerence/obfuscated/devTamper_sample22@devRoot-D-R.obfuscated.ilog)
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/obfuscated/devDebug_sample22@devRoot-D-R.obfuscated.ilog)
+3601a6ff: Collecting logcat... (/home/santapark/Extended3/DEEPerence/obfuscated/devRef_sample22@devRoot-D-R.obfuscated.ilog)
+46604b9f: Running Application: com.lcode.indelmoney
+b29e6a69: Running Application: com.lcode.indelmoney
+3601a6ff: Running Application: com.lcode.indelmoney
+PIDs--------------------------------------------------------------------------
+u0_a782       23123    428 14081012 110536 0                  0 R com.lcode.indelmoney
+forward tcp:5005 jdwp:23123
+[*]Found JDWP Target: 23123
+159ceeed: Running Application: com.lcode.indelmoney
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.lcode.indelmoney/.UserSplashActivity
+PIDs--------------------------------------------------------------------------
+u0_a3427       7250    428 14220644 135816 0                  0 S com.lcode.indelmoney
+PIDs--------------------------------------------------------------------------
+u0_a3427       7250    428 14220644 135816 0                  0 S com.lcode.indelmoney
+Stopping app: com.lcode.indelmoney
+3601a6ff: Running is done - starting comparing... : 5001
+3601a6ff: Terminated logcat thread...by itself
+3601a6ff: Top-activity: com.lcode.indelmoney/.UserSplashActivity
+PIDs--------------------------------------------------------------------------
+u0_a174       15125    407 14152916 136688 0                  0 S com.lcode.indelmoney
+PIDs--------------------------------------------------------------------------
+u0_a174       15125    407 14152916 136688 0                  0 S com.lcode.indelmoney
+Stopping app: com.lcode.indelmoney
+159ceeed: Running is done - starting comparing... : 5001
+159ceeed: Terminated logcat thread...by itself
+46604b9f: Running is done - starting comparing... : 5001
+46604b9f: Terminated logcat thread...by itself
+Tryging remove : uninstall com.lcode.indelmoney(com.lcode.indelmoney)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 6916820
+b29e6a69: End of collecting logcat...
+46604b9f: Top-activity: com.lcode.indelmoney/.UserSplashActivity
+PIDs--------------------------------------------------------------------------
+u0_a850       15220    427 14129448 135832 0                  0 S com.lcode.indelmoney
+PIDs--------------------------------------------------------------------------
+u0_a850       15220    427 14129448 135832 0                  0 S com.lcode.indelmoney
+Stopping app: com.lcode.indelmoney
+159ceeed: Top-activity: com.lcode.indelmoney/.UserSplashActivity
+PIDs--------------------------------------------------------------------------
+u0_a782       23123    428 14254376 136932 0                  0 S com.lcode.indelmoney
+PIDs--------------------------------------------------------------------------
+u0_a782       23123    428 14254376 136932 0                  0 S com.lcode.indelmoney
+Stopping app: com.lcode.indelmoney
+Tryging remove : uninstall com.lcode.indelmoney(com.lcode.indelmoney)
+3601a6ff: Remove Success
+3601a6ff: ilog file size: 23278881
+3601a6ff: End of collecting logcat...
+Tryging remove : uninstall com.lcode.indelmoney(com.lcode.indelmoney)
+159ceeed: Remove Success
+159ceeed: ilog file size: 23657713
+159ceeed: End of collecting logcat...
+Tryging remove : uninstall com.lcode.indelmoney(com.lcode.indelmoney)
+46604b9f: Remove Success
+46604b9f: ilog file size: 23657975
+46604b9f: End of collecting logcat...
+HPFinder's try count remains: 19
+46604b9f: isFailedToLaunch: com.lcode.indelmoney/.UserSplashActivity
+46604b9f: 	--result: Good :)
+b29e6a69: isFailedToLaunch: com.lcode.indelmoney/.UserSplashActivity
+b29e6a69: 	--result: Good :)
+159ceeed: isFailedToLaunch: com.lcode.indelmoney/.UserSplashActivity
+159ceeed: 	--result: Good :)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/obfuscated/devRef_sample22@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/obfuscated/devRef_sample22@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/obfuscated/devRef_sample22@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/obfuscated/devRoot_sample22@devRoot-D-R.obfuscated.ilog)
+[*] FlowManager: adjust finished.
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.app.Dialog/show:()V:6924fe		=(rels)=>		1
+[*] Unique action: 1:90644 : <<CALL>> : com.kaopiz.kprogresshud.KProgressHUD/show:()Lcom/kaopiz/kprogresshud/KProgressHUD;:6924fe  =>  android.app.Dialog/show:()V:1b4adc
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/obfuscated/devDebug_sample22@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/obfuscated/devTamper_sample22@devRoot-D-R.obfuscated.ilog)
+	1:compareBackwardBranch: 1:89843 : <<BRANCH>> : com.lcode.indelmoney.UserSplashActivity/onCreate:(Landroid/os/Bundle;)V:6b2366  =>  com.lcode.indelmoney.UserSplashActivity/onCreate:(Landroid/os/Bundle;)V:6b23dc
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:691b0e		=(rels)=>		1
+[*] Unique action: 1:92297 : <<CALL>> : com.kaopiz.kprogresshud.KProgressHUD$ProgressDialog/addViewToFrame:(Landroid/view/View;)V:691b0e  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+[*] FlowManager: adjust finished.
+Action is completely same :)
+Action is completely same :)
+159ceeed: There is no difference. (tryAgain=false)
+[*] FlowManager: adjust finished.
+Action is completely same :)
+Action is completely same :)
+46604b9f: There is no difference. (tryAgain=false)
+	1:compareBackwardBranch: 1:89843 : <<BRANCH>> : com.lcode.indelmoney.UserSplashActivity/onCreate:(Landroid/os/Bundle;)V:6b2366  =>  com.lcode.indelmoney.UserSplashActivity/onCreate:(Landroid/os/Bundle;)V:6b23dc
+android.os.AsyncTask/execute:([Ljava/lang/Object;)Landroid/os/AsyncTask;:6b8a4c		=(rels)=>		1
+[*] Unique action: 1:92346 : <<CALL>> : com.lcode.indelmoney.common.CommonActivity/submitForm:(Ljava/lang/String;Ljava/lang/String;)V:6b8a4c  =>  android.os.AsyncTask/execute:([Ljava/lang/Object;)Landroid/os/AsyncTask;:2ed1e4
+	1:compareBackwardBranch: 1:89843 : <<BRANCH>> : com.lcode.indelmoney.UserSplashActivity/onCreate:(Landroid/os/Bundle;)V:6b2366  =>  com.lcode.indelmoney.UserSplashActivity/onCreate:(Landroid/os/Bundle;)V:6b23dc
+Action is completely same :)
+Entry: 6b224c
+com.lcode.indelmoney.UserSplashActivity/onCreate:(Landroid/os/Bundle;)V: 6b2366 -> 6b23dc
+		com.lcode.indelmoney.UserSplashActivity/onCreate:(Landroid/os/Bundle;)V: 11a -> 190
+addPatchReadme: java.lang.Class<com.lcode.indelmoney.UserSplashActivity>onCreate(Landroid/os/Bundle;)V 11a t
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/obfuscated/devRoot_sample22@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Patch size: 1
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/obfuscated/sample22.apk@devRoot-D-R.apk.obfuscated_devRoot
+Wow!!!!!  --  com.lcode.indelmoney.UserSplashActivity/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 11e
+branchTarget: 190
+label = cond_3
+GOTO -- 11e 	190
+axmlPath: /home/santapark/Extended3/DEEPerence/obfuscated/sample22.apk@devRoot-D-R.apk.obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/obfuscated/sample22.apk@devRoot-D-R.apk.obfuscated_devRoot/sample22.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/obfuscated/sample22.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample22.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: First address of Lcom/lcode/indelmoney/UserSplashActivity;->onCreate(Landroid/os/Bundle;)V = 6b225c
+b29e6a69: Address - Lcom/lcode/indelmoney/UserSplashActivity;->onCreate(Landroid/os/Bundle;)V@11a	 lastOffset = 21a
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/obfuscated/sample22.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample22.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/obfuscated/devRoot_sample22@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Running Application: com.lcode.indelmoney
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.lcode.indelmoney/.UserSplashActivity
+PIDs--------------------------------------------------------------------------
+u0_a3428       7397    428 14228844 137940 0                  0 S com.lcode.indelmoney
+PIDs--------------------------------------------------------------------------
+u0_a3428       7397    428 14228844 137940 0                  0 S com.lcode.indelmoney
+Stopping app: com.lcode.indelmoney
+Tryging remove : uninstall com.lcode.indelmoney(com.lcode.indelmoney)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 7497168
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 18
+b29e6a69: isFailedToLaunch: com.lcode.indelmoney/.UserSplashActivity
+b29e6a69: 	--result: Good :)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/obfuscated/devRef_sample22@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/obfuscated/devRoot_sample22@devRoot-D-R.obfuscated.ilog)
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 6b2366
+Action is completely same :)
+Action is completely same :)
+b29e6a69: There is no difference. (tryAgain=false)
+-- HPFinder will be done in this iteration :)
+hasAntiAnalysis? - devTamper: false on com.lcode.indelmoney.UserSplashActivity
+hasAntiAnalysis? - devRoot: true on com.lcode.indelmoney.UserSplashActivity
+	isRemovedThem? - devRoot: true on com.lcode.indelmoney.UserSplashActivity	-	tryCount: 1
+hasAntiAnalysis? - devDebug: false on com.lcode.indelmoney.UserSplashActivity
+*****REPORT: com.lcode.indelmoney
+* Package name: com.lcode.indelmoney
+* Running time: 118
+* FileSize: 11927131
+devTamper : 23657975
+devRef : 23278881
+devRoot : 7497168
+devDebug : 23657713
+hasAntiAnalysis? - devTamper: false on com.lcode.indelmoney.UserSplashActivity
+hasAntiAnalysis? - devRoot: true on com.lcode.indelmoney.UserSplashActivity
+	isRemovedThem? - devRoot: true on com.lcode.indelmoney.UserSplashActivity	-	tryCount: 1
+hasAntiAnalysis? - devDebug: false on com.lcode.indelmoney.UserSplashActivity
+46604b9f: trying remove : com.lcode.indelmoney
+3601a6ff: trying remove : com.lcode.indelmoney
+b29e6a69: trying remove : com.lcode.indelmoney
+159ceeed: trying remove : com.lcode.indelmoney
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+3601a6ff: result = true
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+46604b9f: result = true
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+b29e6a69: result = true
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+159ceeed: result = true
+3601a6ff: isFailedToLaunch: com.lcode.indelmoney/.UserSplashActivity
+3601a6ff: 	--result: Good :)

@@ -1,0 +1,757 @@
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/ch.droida.nomedia_1.2.3.apk@devRoot-D.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated/AndroidManifest.xml
+launchable-activity: name='ch.droida.nomedia.NomediaActivity'  label='Nomedia' icon=''
+{ACTIVITY, .NomediaActivity, android.intent.action.MAIN}
+{ACTIVITY, .ScanActivity}
+{ACTIVITY, .NomediaActivity, android.intent.action.MAIN}
+{ACTIVITY, .ScanActivity}
+_getAllDexFiles: /home/santapark/Extended3/DEEPerence/reEx/ch.droida.nomedia_1.2.3.apk@devRoot-D.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated/classes.dex
+----------------/home/santapark/Extended3/DEEPerence/reEx/ch.droida.nomedia_1.2.3.apk@devRoot-D.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+dexFile = org.jf.dexlib2.dexbacked.DexBackedDexFile@3108bc
+ch.droida.nomedia
+ch.droida.nomedia.NomediaActivity
+debuggable: true
+b29e6a69: (Not Installed) Trying remove : true
+159ceeed: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+159ceeed: -- Success
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/ch.droida.nomedia_1.2.3.apk@devRoot-D.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/ch.droida.nomedia_1.2.3.apk@devRoot-D.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/ch.droida.nomedia_1.2.3.apk@devRoot-D.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+outDir: /home/santapark/Extended3/DEEPerence/reEx/ch.droida.nomedia_1.2.3.apk@devRoot-D.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_46604b9f/ch.droida.nomedia_1.2.3.apk@devRoot-D.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+46604b9f: Installing repackaged apk File: 
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/ch.droida.nomedia_1.2.3.apk@devRoot-D.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_46604b9f/signed_ch.droida.nomedia_1.2.3.apk@devRoot-D.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+3601a6ff: Installation Success
+159ceeed: Installation Success
+b29e6a69: Installation Success
+46604b9f: Installation Success
+46604b9f: startApplication called! - devTamper
+3601a6ff: startApplication called! - devRef
+b29e6a69: startApplication called! - devRoot
+159ceeed: startApplication called! - devDebug
+3601a6ff: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRef_ch.droida.nomedia_1.2.3@devRoot-D@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_ch.droida.nomedia_1.2.3@devRoot-D@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+46604b9f: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devTamper_ch.droida.nomedia_1.2.3@devRoot-D@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_ch.droida.nomedia_1.2.3@devRoot-D@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+b29e6a69: Running Application: ch.droida.nomedia
+3601a6ff: Running Application: ch.droida.nomedia
+46604b9f: Running Application: ch.droida.nomedia
+PIDs--------------------------------------------------------------------------
+u0_a454        4475    423 13740312 100420 0                  0 S ch.droida.nomedia
+forward tcp:35535 jdwp:4475
+[*]Found JDWP Target: 4475
+159ceeed: Running Application: ch.droida.nomedia
+3601a6ff: Running is done - starting comparing... : 10001
+3601a6ff: Terminated logcat thread...by itself
+3601a6ff: Top-activity: ch.droida.nomedia/.NomediaActivity
+PIDs--------------------------------------------------------------------------
+u0_a225        6317    414 13893400 107392 0                  0 S ch.droida.nomedia
+3601a6ff: savedPid = 6317
+PIDs--------------------------------------------------------------------------
+u0_a225        6317    414 13893400 107392 0                  0 S ch.droida.nomedia
+3601a6ff: savedPid2 = 6317
+Stopping app: ch.droida.nomedia
+Tryging remove : uninstall ch.droida.nomedia(ch.droida.nomedia)
+3601a6ff: Remove Success
+3601a6ff: ilog file size: 633716
+3601a6ff: End of collecting logcat...
+PIDs--------------------------------------------------------------------------
+u0_a454        4475    423 13781760 108764 0                  0 S ch.droida.nomedia
+159ceeed: Tryging attach jdb to 4475
+jdb -connect com.sun.jdi.SocketAttach:hostname=localhost,port=35535
+46604b9f: Running is done - starting comparing... : 10001
+46604b9f: Terminated logcat thread...by itself
+159ceeed: Running is done - starting comparing... : 10001
+159ceeed: Terminated logcat thread...by itself
+46604b9f: Top-activity: ch.droida.nomedia/.NomediaActivity
+PIDs--------------------------------------------------------------------------
+u0_a176       13796    425 14009092 107184 0                  0 S ch.droida.nomedia
+46604b9f: savedPid = 13796
+PIDs--------------------------------------------------------------------------
+u0_a176       13796    425 14009092 107184 0                  0 S ch.droida.nomedia
+46604b9f: savedPid2 = 13796
+Stopping app: ch.droida.nomedia
+b29e6a69: Running is done - starting comparing... : 10001
+b29e6a69: Terminated logcat thread...by itself
+Tryging remove : uninstall ch.droida.nomedia(ch.droida.nomedia)
+46604b9f: Remove Success
+46604b9f: ilog file size: 26630752
+46604b9f: End of collecting logcat...
+b29e6a69: Top-activity: ch.droida.nomedia/.NomediaActivity
+PIDs--------------------------------------------------------------------------
+u0_a148       10574    430 13955240 107308 0                  0 S ch.droida.nomedia
+b29e6a69: savedPid = 10574
+PIDs--------------------------------------------------------------------------
+u0_a148       10574    430 13955240 107308 0                  0 S ch.droida.nomedia
+b29e6a69: savedPid2 = 10574
+Stopping app: ch.droida.nomedia
+Tryging remove : uninstall ch.droida.nomedia(ch.droida.nomedia)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 39353560
+b29e6a69: End of collecting logcat...
+159ceeed: Top-activity: ch.droida.nomedia/.NomediaActivity
+PIDs--------------------------------------------------------------------------
+u0_a454        4475    423 13944096 121332 0                  0 S ch.droida.nomedia
+159ceeed: savedPid = 4475
+PIDs--------------------------------------------------------------------------
+u0_a454        4475    423 13944096 121332 0                  0 S ch.droida.nomedia
+159ceeed: savedPid2 = 4475
+Stopping app: ch.droida.nomedia
+Tryging remove : uninstall ch.droida.nomedia(ch.droida.nomedia)
+159ceeed: Remove Success
+159ceeed: ilog file size: 26694014
+159ceeed: End of collecting logcat...
+HPFinder's try count remains: 29
+Target PID : 6317
+Target PID : 6317
+Target PID : 6317
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_ch.droida.nomedia_1.2.3@devRoot-D@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+Target PID : 4475
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_ch.droida.nomedia_1.2.3@devRoot-D@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+Target PID : 13796
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_ch.droida.nomedia_1.2.3@devRoot-D@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+Target PID : 10574
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_ch.droida.nomedia_1.2.3@devRoot-D@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devTamper_ch.droida.nomedia_1.2.3@devRoot-D@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_ch.droida.nomedia_1.2.3@devRoot-D@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+[*] FlowManager: adjust finished.
+Action is completely same :)
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:36ee2		=(rels)=>		1
+[*] Unique action: 1:29022 : <<CALL>> : ch.droida.widget.TreeAdapter/getView:(ILandroid/view/View;Landroid/view/ViewGroup;)Landroid/view/View;:36ee2  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+[*] FlowManager: adjust finished.
+Action is completely same :)
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:36ee2		=(rels)=>		1
+[*] Unique action: 1:28775 : <<CALL>> : ch.droida.widget.TreeAdapter/getView:(ILandroid/view/View;Landroid/view/ViewGroup;)Landroid/view/View;:36ee2  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+[*] FlowManager: adjust finished.
+Action is completely same :)
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:36ee2		=(rels)=>		1
+[*] Unique action: 1:31659 : <<CALL>> : ch.droida.widget.TreeAdapter/getView:(ILandroid/view/View;Landroid/view/ViewGroup;)Landroid/view/View;:36ee2  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch2: 1:1255 : <<BRANCH>> : ch.droida.widget.TreeItem/getVisibilityParams:()Lch/droida/widget/TreeView$VisibilityParams;:39fc8  =>  ch.droida.widget.TreeItem/getVisibilityParams:()Lch/droida/widget/TreeView$VisibilityParams;:39fd6
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:36e1c		=(rels)=>		1
+[*] Unique action: 1:28976 : <<CALL>> : ch.droida.widget.TreeAdapter/getView:(ILandroid/view/View;Landroid/view/ViewGroup;)Landroid/view/View;:36e1c  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch2: 1:1255 : <<BRANCH>> : ch.droida.widget.TreeItem/getVisibilityParams:()Lch/droida/widget/TreeView$VisibilityParams;:39fc8  =>  ch.droida.widget.TreeItem/getVisibilityParams:()Lch/droida/widget/TreeView$VisibilityParams;:39fd6
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:36e1c		=(rels)=>		1
+[*] Unique action: 1:28729 : <<CALL>> : ch.droida.widget.TreeAdapter/getView:(ILandroid/view/View;Landroid/view/ViewGroup;)Landroid/view/View;:36e1c  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch2: 1:1255 : <<BRANCH>> : ch.droida.widget.TreeItem/getVisibilityParams:()Lch/droida/widget/TreeView$VisibilityParams;:39fc8  =>  ch.droida.widget.TreeItem/getVisibilityParams:()Lch/droida/widget/TreeView$VisibilityParams;:39fd6
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:36e1c		=(rels)=>		1
+[*] Unique action: 1:31613 : <<CALL>> : ch.droida.widget.TreeAdapter/getView:(ILandroid/view/View;Landroid/view/ViewGroup;)Landroid/view/View;:36e1c  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch2: 1:1255 : <<BRANCH>> : ch.droida.widget.TreeItem/getVisibilityParams:()Lch/droida/widget/TreeView$VisibilityParams;:39fc8  =>  ch.droida.widget.TreeItem/getVisibilityParams:()Lch/droida/widget/TreeView$VisibilityParams;:39fd6
+Entry: 39f90
+ch.droida.widget.TreeItem/getVisibilityParams:()Lch/droida/widget/TreeView$VisibilityParams;: 39fc8 -> 39fd6
+		ch.droida.widget.TreeItem/getVisibilityParams:()Lch/droida/widget/TreeView$VisibilityParams;: 38 -> 46
+addPatchReadme: java.lang.Class<ch.droida.widget.TreeItem>getVisibilityParams()Lch/droida/widget/TreeView$VisibilityParams; 38 t
+159ceeed: [+] Patches found in this round: 1
+159ceeed: [*] Found Patch size: 1
+Target PID : 
+	1:compareBackwardBranch2: 1:1255 : <<BRANCH>> : ch.droida.widget.TreeItem/getVisibilityParams:()Lch/droida/widget/TreeView$VisibilityParams;:39fc8  =>  ch.droida.widget.TreeItem/getVisibilityParams:()Lch/droida/widget/TreeView$VisibilityParams;:39fd6
+Entry: 39f90
+ch.droida.widget.TreeItem/getVisibilityParams:()Lch/droida/widget/TreeView$VisibilityParams;: 39fc8 -> 39fd6
+		ch.droida.widget.TreeItem/getVisibilityParams:()Lch/droida/widget/TreeView$VisibilityParams;: 38 -> 46
+addPatchReadme: java.lang.Class<ch.droida.widget.TreeItem>getVisibilityParams()Lch/droida/widget/TreeView$VisibilityParams; 38 t
+46604b9f: [+] Patches found in this round: 1
+46604b9f: [*] Found Patch size: 1
+Target PID : 
+	1:compareBackwardBranch2: 1:1255 : <<BRANCH>> : ch.droida.widget.TreeItem/getVisibilityParams:()Lch/droida/widget/TreeView$VisibilityParams;:39fc8  =>  ch.droida.widget.TreeItem/getVisibilityParams:()Lch/droida/widget/TreeView$VisibilityParams;:39fd6
+Entry: 39f90
+ch.droida.widget.TreeItem/getVisibilityParams:()Lch/droida/widget/TreeView$VisibilityParams;: 39fc8 -> 39fd6
+		ch.droida.widget.TreeItem/getVisibilityParams:()Lch/droida/widget/TreeView$VisibilityParams;: 38 -> 46
+addPatchReadme: java.lang.Class<ch.droida.widget.TreeItem>getVisibilityParams()Lch/droida/widget/TreeView$VisibilityParams; 38 t
+b29e6a69: [+] Patches found in this round: 1
+b29e6a69: [*] Found Patch size: 1
+Target PID : 
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_ch.droida.nomedia_1.2.3@devRoot-D@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+159ceeed: 	@@@Found patch addr: 39fd8
+159ceeed: Querying offset: 39fc8
+159ceeed: 	--Add method name to patch = ch.droida.widget.TreeItem/getVisibilityParams:()Lch/droida/widget/TreeView$VisibilityParams; 	39fc8
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devTamper_ch.droida.nomedia_1.2.3@devRoot-D@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+46604b9f: 	@@@Found patch addr: 39fd8
+46604b9f: Querying offset: 39fc8
+46604b9f: 	--Add method name to patch = ch.droida.widget.TreeItem/getVisibilityParams:()Lch/droida/widget/TreeView$VisibilityParams; 	39fc8
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_ch.droida.nomedia_1.2.3@devRoot-D@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+b29e6a69: 	@@@Found patch addr: 39fd8
+b29e6a69: Querying offset: 39fc8
+b29e6a69: 	--Add method name to patch = ch.droida.widget.TreeItem/getVisibilityParams:()Lch/droida/widget/TreeView$VisibilityParams; 	39fc8
+Devices presenting anti-analysis: 
+	devTamper
+	devRoot
+	devDebug
+46604b9f: patching method: ch.droida.widget.TreeItem/getVisibilityParams:()Lch/droida/widget/TreeView$VisibilityParams;
+46604b9f: outDir - /home/santapark/Extended3/DEEPerence/reEx/ch.droida.nomedia_1.2.3.apk@devRoot-D.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devTamper
+Wow!!!!!  --  ch.droida.widget.TreeItem/getVisibilityParams:()Lch/droida/widget/TreeView$VisibilityParams;
+fallthrough: 3e
+branchTarget: 46
+label = sswitch_data_0
+GOTO -- 3e 	46
+outDir: /home/santapark/Extended3/DEEPerence/reEx/ch.droida.nomedia_1.2.3.apk@devRoot-D.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devTamper/ch.droida.nomedia_1.2.3.apk@devRoot-D.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+46604b9f: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/ch.droida.nomedia_1.2.3.apk@devRoot-D.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devTamper/signed_ch.droida.nomedia_1.2.3.apk@devRoot-D.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+46604b9f: First address of Lch/droida/widget/TreeItem;->getVisibilityParams()Lch/droida/widget/TreeView$VisibilityParams; = 39fa0
+46604b9f: Address - Lch/droida/widget/TreeItem;->getVisibilityParams()Lch/droida/widget/TreeView$VisibilityParams;@38	 lastOffset = 4c
+46604b9f: Instruction@@: SPARSE_SWITCH
+b29e6a69: patching method: ch.droida.widget.TreeItem/getVisibilityParams:()Lch/droida/widget/TreeView$VisibilityParams;
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/ch.droida.nomedia_1.2.3.apk@devRoot-D.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devRoot
+Wow!!!!!  --  ch.droida.widget.TreeItem/getVisibilityParams:()Lch/droida/widget/TreeView$VisibilityParams;
+fallthrough: 3e
+branchTarget: 46
+label = sswitch_data_0
+GOTO -- 3e 	46
+outDir: /home/santapark/Extended3/DEEPerence/reEx/ch.droida.nomedia_1.2.3.apk@devRoot-D.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devRoot/ch.droida.nomedia_1.2.3.apk@devRoot-D.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/ch.droida.nomedia_1.2.3.apk@devRoot-D.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devRoot/signed_ch.droida.nomedia_1.2.3.apk@devRoot-D.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+b29e6a69: First address of Lch/droida/widget/TreeItem;->getVisibilityParams()Lch/droida/widget/TreeView$VisibilityParams; = 39fa0
+b29e6a69: Address - Lch/droida/widget/TreeItem;->getVisibilityParams()Lch/droida/widget/TreeView$VisibilityParams;@38	 lastOffset = 4c
+b29e6a69: Instruction@@: SPARSE_SWITCH
+159ceeed: patching method: ch.droida.widget.TreeItem/getVisibilityParams:()Lch/droida/widget/TreeView$VisibilityParams;
+159ceeed: outDir - /home/santapark/Extended3/DEEPerence/reEx/ch.droida.nomedia_1.2.3.apk@devRoot-D.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devDebug
+Wow!!!!!  --  ch.droida.widget.TreeItem/getVisibilityParams:()Lch/droida/widget/TreeView$VisibilityParams;
+fallthrough: 3e
+branchTarget: 46
+label = sswitch_data_0
+GOTO -- 3e 	46
+outDir: /home/santapark/Extended3/DEEPerence/reEx/ch.droida.nomedia_1.2.3.apk@devRoot-D.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devDebug/ch.droida.nomedia_1.2.3.apk@devRoot-D.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+159ceeed: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/ch.droida.nomedia_1.2.3.apk@devRoot-D.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devDebug/signed_ch.droida.nomedia_1.2.3.apk@devRoot-D.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+159ceeed: First address of Lch/droida/widget/TreeItem;->getVisibilityParams()Lch/droida/widget/TreeView$VisibilityParams; = 39fa0
+159ceeed: Address - Lch/droida/widget/TreeItem;->getVisibilityParams()Lch/droida/widget/TreeView$VisibilityParams;@38	 lastOffset = 4c
+159ceeed: Instruction@@: SPARSE_SWITCH
+b29e6a69: (Not Installed) Trying remove : true
+159ceeed: (Not Installed) Trying remove : true
+46604b9f: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/ch.droida.nomedia_1.2.3.apk@devRoot-D.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devRoot/signed_ch.droida.nomedia_1.2.3.apk@devRoot-D.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/ch.droida.nomedia_1.2.3.apk@devRoot-D.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devTamper/signed_ch.droida.nomedia_1.2.3.apk@devRoot-D.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/ch.droida.nomedia_1.2.3.apk@devRoot-D.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devDebug/signed_ch.droida.nomedia_1.2.3.apk@devRoot-D.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+159ceeed: Installation Success
+b29e6a69: Installation Success
+46604b9f: Installation Success
+46604b9f: startApplication called! - devTamper
+b29e6a69: startApplication called! - devRoot
+159ceeed: startApplication called! - devDebug
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_ch.droida.nomedia_1.2.3@devRoot-D@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_ch.droida.nomedia_1.2.3@devRoot-D@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+46604b9f: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devTamper_ch.droida.nomedia_1.2.3@devRoot-D@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+b29e6a69: Running Application: ch.droida.nomedia
+46604b9f: Running Application: ch.droida.nomedia
+PIDs--------------------------------------------------------------------------
+forward tcp:35535 jdwp:null
+[*]Found JDWP Target: null
+159ceeed: Running Application: ch.droida.nomedia
+159ceeed: Running is done - starting comparing... : 10001
+159ceeed: Terminated logcat thread...by itself
+b29e6a69: Running is done - starting comparing... : 10001
+b29e6a69: Terminated logcat thread...by itself
+46604b9f: Running is done - starting comparing... : 10001
+46604b9f: Terminated logcat thread...by itself
+159ceeed: Top-activity: com.android.launcher3/.Launcher
+46604b9f: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+159ceeed: savedPid = null
+PIDs--------------------------------------------------------------------------
+46604b9f: savedPid = null
+PIDs--------------------------------------------------------------------------
+159ceeed: savedPid2 = null
+Stopping app: ch.droida.nomedia
+PIDs--------------------------------------------------------------------------
+46604b9f: savedPid2 = null
+Stopping app: ch.droida.nomedia
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+b29e6a69: savedPid = null
+PIDs--------------------------------------------------------------------------
+b29e6a69: savedPid2 = null
+Stopping app: ch.droida.nomedia
+Tryging remove : uninstall ch.droida.nomedia(ch.droida.nomedia)
+159ceeed: Remove Success
+159ceeed: ilog file size: 60742
+159ceeed: End of collecting logcat...
+Tryging remove : uninstall ch.droida.nomedia(ch.droida.nomedia)
+46604b9f: Remove Success
+46604b9f: ilog file size: 60743
+46604b9f: End of collecting logcat...
+Tryging remove : uninstall ch.droida.nomedia(ch.droida.nomedia)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 135529
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 28
+Target PID : 6317
+Target PID : 6317
+Target PID : 6317
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_ch.droida.nomedia_1.2.3@devRoot-D@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+Target PID : 
+ExitReason-Code: 5 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_ch.droida.nomedia_1.2.3@devRoot-D@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+b29e6a69: /home/santapark/Extended3/DEEPerence/reEx/ch.droida.nomedia_1.2.3.apk@devRoot-D.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk launch is failed on devRoot
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_ch.droida.nomedia_1.2.3@devRoot-D@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+b29e6a69: Failed Patch: 39fd8
+Target PID : 
+ExitReason-Code: 5 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_ch.droida.nomedia_1.2.3@devRoot-D@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+159ceeed: /home/santapark/Extended3/DEEPerence/reEx/ch.droida.nomedia_1.2.3.apk@devRoot-D.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk launch is failed on devDebug
+159ceeed: Failed Patch: 39fd8
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_ch.droida.nomedia_1.2.3@devRoot-D@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+Target PID : 
+ExitReason-Code: 5 (/home/santapark/Extended3/DEEPerence/reEx/devTamper_ch.droida.nomedia_1.2.3@devRoot-D@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+46604b9f: /home/santapark/Extended3/DEEPerence/reEx/ch.droida.nomedia_1.2.3.apk@devRoot-D.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk launch is failed on devTamper
+46604b9f: Failed Patch: 39fd8
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 39fc8
+Action is completely same :)
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:36ee2		=(rels)=>		1
+[*] Unique action: 1:29022 : <<CALL>> : ch.droida.widget.TreeAdapter/getView:(ILandroid/view/View;Landroid/view/ViewGroup;)Landroid/view/View;:36ee2  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 39fc8
+Action is completely same :)
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:36ee2		=(rels)=>		1
+[*] Unique action: 1:28775 : <<CALL>> : ch.droida.widget.TreeAdapter/getView:(ILandroid/view/View;Landroid/view/ViewGroup;)Landroid/view/View;:36ee2  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 39fc8
+Action is completely same :)
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:36ee2		=(rels)=>		1
+[*] Unique action: 1:31659 : <<CALL>> : ch.droida.widget.TreeAdapter/getView:(ILandroid/view/View;Landroid/view/ViewGroup;)Landroid/view/View;:36ee2  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch2: 1:1188 : <<BRANCH>> : ch.droida.widget.TreeItem/getUsedPositions:()I:39b60  =>  ch.droida.widget.TreeItem/getUsedPositions:()I:39b64
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:36e1c		=(rels)=>		1
+[*] Unique action: 1:28976 : <<CALL>> : ch.droida.widget.TreeAdapter/getView:(ILandroid/view/View;Landroid/view/ViewGroup;)Landroid/view/View;:36e1c  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch2: 1:1188 : <<BRANCH>> : ch.droida.widget.TreeItem/getUsedPositions:()I:39b60  =>  ch.droida.widget.TreeItem/getUsedPositions:()I:39b64
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:36e1c		=(rels)=>		1
+[*] Unique action: 1:28729 : <<CALL>> : ch.droida.widget.TreeAdapter/getView:(ILandroid/view/View;Landroid/view/ViewGroup;)Landroid/view/View;:36e1c  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch2: 1:1188 : <<BRANCH>> : ch.droida.widget.TreeItem/getUsedPositions:()I:39b60  =>  ch.droida.widget.TreeItem/getUsedPositions:()I:39b64
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:36e1c		=(rels)=>		1
+[*] Unique action: 1:31613 : <<CALL>> : ch.droida.widget.TreeAdapter/getView:(ILandroid/view/View;Landroid/view/ViewGroup;)Landroid/view/View;:36e1c  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch2: 1:1188 : <<BRANCH>> : ch.droida.widget.TreeItem/getUsedPositions:()I:39b60  =>  ch.droida.widget.TreeItem/getUsedPositions:()I:39b64
+Entry: 39950
+ch.droida.widget.TreeItem/getUsedPositions:()I: 39b60 -> 39b64
+		ch.droida.widget.TreeItem/getUsedPositions:()I: 210 -> 214
+addPatchReadme: java.lang.Class<ch.droida.widget.TreeItem>getUsedPositions()I 210 f
+159ceeed: [+] Patches found in this round: 1
+159ceeed: [*] Found Patch size: 1
+Target PID : 
+ExitReason-Code: 5 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_ch.droida.nomedia_1.2.3@devRoot-D@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+159ceeed: @@localPatchFilter -- 39fd8
+159ceeed: 	@@@Found patch addr: 39b70
+159ceeed: Querying offset: 39b60
+159ceeed: 	--Add method name to patch = ch.droida.widget.TreeItem/getUsedPositions:()I 	39b60
+	1:compareBackwardBranch2: 1:1188 : <<BRANCH>> : ch.droida.widget.TreeItem/getUsedPositions:()I:39b60  =>  ch.droida.widget.TreeItem/getUsedPositions:()I:39b64
+Entry: 39950
+ch.droida.widget.TreeItem/getUsedPositions:()I: 39b60 -> 39b64
+		ch.droida.widget.TreeItem/getUsedPositions:()I: 210 -> 214
+addPatchReadme: java.lang.Class<ch.droida.widget.TreeItem>getUsedPositions()I 210 f
+46604b9f: [+] Patches found in this round: 1
+46604b9f: [*] Found Patch size: 1
+Target PID : 
+ExitReason-Code: 5 (/home/santapark/Extended3/DEEPerence/reEx/devTamper_ch.droida.nomedia_1.2.3@devRoot-D@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+46604b9f: @@localPatchFilter -- 39fd8
+46604b9f: 	@@@Found patch addr: 39b70
+46604b9f: Querying offset: 39b60
+46604b9f: 	--Add method name to patch = ch.droida.widget.TreeItem/getUsedPositions:()I 	39b60
+	1:compareBackwardBranch2: 1:1188 : <<BRANCH>> : ch.droida.widget.TreeItem/getUsedPositions:()I:39b60  =>  ch.droida.widget.TreeItem/getUsedPositions:()I:39b64
+Entry: 39950
+ch.droida.widget.TreeItem/getUsedPositions:()I: 39b60 -> 39b64
+		ch.droida.widget.TreeItem/getUsedPositions:()I: 210 -> 214
+addPatchReadme: java.lang.Class<ch.droida.widget.TreeItem>getUsedPositions()I 210 f
+b29e6a69: [+] Patches found in this round: 1
+b29e6a69: [*] Found Patch size: 1
+Target PID : 
+ExitReason-Code: 5 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_ch.droida.nomedia_1.2.3@devRoot-D@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+b29e6a69: @@localPatchFilter -- 39fd8
+b29e6a69: 	@@@Found patch addr: 39b70
+b29e6a69: Querying offset: 39b60
+b29e6a69: 	--Add method name to patch = ch.droida.widget.TreeItem/getUsedPositions:()I 	39b60
+Devices presenting anti-analysis: 
+	devTamper
+	devRoot
+	devDebug
+46604b9f: patching method: ch.droida.widget.TreeItem/getVisibilityParams:()Lch/droida/widget/TreeView$VisibilityParams;
+46604b9f: patching method: ch.droida.widget.TreeItem/getUsedPositions:()I
+46604b9f: outDir - /home/santapark/Extended3/DEEPerence/reEx/ch.droida.nomedia_1.2.3.apk@devRoot-D.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devTamper
+Wow!!!!!  --  ch.droida.widget.TreeItem/getUsedPositions:()I
+fallthrough: 214
+branchTarget: 214
+NOP!
+outDir: /home/santapark/Extended3/DEEPerence/reEx/ch.droida.nomedia_1.2.3.apk@devRoot-D.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devTamper/ch.droida.nomedia_1.2.3.apk@devRoot-D.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+46604b9f: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/ch.droida.nomedia_1.2.3.apk@devRoot-D.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devTamper/signed_ch.droida.nomedia_1.2.3.apk@devRoot-D.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+46604b9f: First address of Lch/droida/widget/TreeItem;->getUsedPositions()I = 39960
+46604b9f: Address - Lch/droida/widget/TreeItem;->getUsedPositions()I@210	 lastOffset = 59c
+46604b9f: Instruction@@: IF_EQZ
+b29e6a69: patching method: ch.droida.widget.TreeItem/getVisibilityParams:()Lch/droida/widget/TreeView$VisibilityParams;
+b29e6a69: patching method: ch.droida.widget.TreeItem/getUsedPositions:()I
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/ch.droida.nomedia_1.2.3.apk@devRoot-D.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devRoot
+Wow!!!!!  --  ch.droida.widget.TreeItem/getUsedPositions:()I
+fallthrough: 214
+branchTarget: 214
+NOP!
+outDir: /home/santapark/Extended3/DEEPerence/reEx/ch.droida.nomedia_1.2.3.apk@devRoot-D.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devRoot/ch.droida.nomedia_1.2.3.apk@devRoot-D.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/ch.droida.nomedia_1.2.3.apk@devRoot-D.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devRoot/signed_ch.droida.nomedia_1.2.3.apk@devRoot-D.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+b29e6a69: First address of Lch/droida/widget/TreeItem;->getUsedPositions()I = 39960
+b29e6a69: Address - Lch/droida/widget/TreeItem;->getUsedPositions()I@210	 lastOffset = 59c
+b29e6a69: Instruction@@: IF_EQZ
+159ceeed: patching method: ch.droida.widget.TreeItem/getVisibilityParams:()Lch/droida/widget/TreeView$VisibilityParams;
+159ceeed: patching method: ch.droida.widget.TreeItem/getUsedPositions:()I
+159ceeed: outDir - /home/santapark/Extended3/DEEPerence/reEx/ch.droida.nomedia_1.2.3.apk@devRoot-D.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devDebug
+Wow!!!!!  --  ch.droida.widget.TreeItem/getUsedPositions:()I
+fallthrough: 214
+branchTarget: 214
+NOP!
+outDir: /home/santapark/Extended3/DEEPerence/reEx/ch.droida.nomedia_1.2.3.apk@devRoot-D.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devDebug/ch.droida.nomedia_1.2.3.apk@devRoot-D.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+159ceeed: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/ch.droida.nomedia_1.2.3.apk@devRoot-D.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devDebug/signed_ch.droida.nomedia_1.2.3.apk@devRoot-D.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+159ceeed: First address of Lch/droida/widget/TreeItem;->getUsedPositions()I = 39960
+159ceeed: Address - Lch/droida/widget/TreeItem;->getUsedPositions()I@210	 lastOffset = 59c
+159ceeed: Instruction@@: IF_EQZ
+b29e6a69: (Not Installed) Trying remove : true
+159ceeed: (Not Installed) Trying remove : true
+46604b9f: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/ch.droida.nomedia_1.2.3.apk@devRoot-D.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devRoot/signed_ch.droida.nomedia_1.2.3.apk@devRoot-D.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/ch.droida.nomedia_1.2.3.apk@devRoot-D.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devTamper/signed_ch.droida.nomedia_1.2.3.apk@devRoot-D.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/ch.droida.nomedia_1.2.3.apk@devRoot-D.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devDebug/signed_ch.droida.nomedia_1.2.3.apk@devRoot-D.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+b29e6a69: Installation Success
+159ceeed: Installation Success
+46604b9f: Installation Success
+46604b9f: startApplication called! - devTamper
+b29e6a69: startApplication called! - devRoot
+159ceeed: startApplication called! - devDebug
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_ch.droida.nomedia_1.2.3@devRoot-D@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+46604b9f: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devTamper_ch.droida.nomedia_1.2.3@devRoot-D@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_ch.droida.nomedia_1.2.3@devRoot-D@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+b29e6a69: Running Application: ch.droida.nomedia
+46604b9f: Running Application: ch.droida.nomedia
+PIDs--------------------------------------------------------------------------
+u0_a456        4637    423 13740312 93472 0                   0 R ch.droida.nomedia
+forward tcp:35535 jdwp:4637
+[*]Found JDWP Target: 4637
+159ceeed: Running Application: ch.droida.nomedia
+PIDs--------------------------------------------------------------------------
+u0_a456        4637    423 13816576 109232 0                  0 S ch.droida.nomedia
+159ceeed: Tryging attach jdb to 4637
+jdb -connect com.sun.jdi.SocketAttach:hostname=localhost,port=35535
+46604b9f: Running is done - starting comparing... : 10001
+46604b9f: Terminated logcat thread...by itself
+159ceeed: Running is done - starting comparing... : 10001
+159ceeed: Terminated logcat thread...by itself
+46604b9f: Top-activity: ch.droida.nomedia/.NomediaActivity
+PIDs--------------------------------------------------------------------------
+u0_a178       13950    425 13973288 107164 0                  0 S ch.droida.nomedia
+46604b9f: savedPid = 13950
+PIDs--------------------------------------------------------------------------
+u0_a178       13950    425 13973288 107164 0                  0 S ch.droida.nomedia
+46604b9f: savedPid2 = 13950
+Stopping app: ch.droida.nomedia
+b29e6a69: Running is done - starting comparing... : 10001
+b29e6a69: Terminated logcat thread...by itself
+Tryging remove : uninstall ch.droida.nomedia(ch.droida.nomedia)
+46604b9f: Remove Success
+46604b9f: ilog file size: 29805509
+46604b9f: End of collecting logcat...
+b29e6a69: Top-activity: ch.droida.nomedia/.NomediaActivity
+PIDs--------------------------------------------------------------------------
+u0_a150       10728    430 13922400 107336 0                  0 S ch.droida.nomedia
+b29e6a69: savedPid = 10728
+PIDs--------------------------------------------------------------------------
+u0_a150       10728    430 13922400 107336 0                  0 S ch.droida.nomedia
+b29e6a69: savedPid2 = 10728
+Stopping app: ch.droida.nomedia
+Tryging remove : uninstall ch.droida.nomedia(ch.droida.nomedia)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 43301612
+b29e6a69: End of collecting logcat...
+159ceeed: Top-activity: ch.droida.nomedia/.NomediaActivity
+PIDs--------------------------------------------------------------------------
+u0_a456        4637    423 13950240 121800 0                  0 S ch.droida.nomedia
+159ceeed: savedPid = 4637
+PIDs--------------------------------------------------------------------------
+u0_a456        4637    423 13950240 121800 0                  0 S ch.droida.nomedia
+159ceeed: savedPid2 = 4637
+Stopping app: ch.droida.nomedia
+Tryging remove : uninstall ch.droida.nomedia(ch.droida.nomedia)
+159ceeed: Remove Success
+159ceeed: ilog file size: 29867666
+159ceeed: End of collecting logcat...
+HPFinder's try count remains: 27
+Target PID : 6317
+Target PID : 6317
+Target PID : 6317
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_ch.droida.nomedia_1.2.3@devRoot-D@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_ch.droida.nomedia_1.2.3@devRoot-D@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_ch.droida.nomedia_1.2.3@devRoot-D@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+Target PID : 10728
+Target PID : 13950
+Target PID : 4637
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_ch.droida.nomedia_1.2.3@devRoot-D@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+159ceeed: adding filter -- 39b60
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devTamper_ch.droida.nomedia_1.2.3@devRoot-D@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+46604b9f: adding filter -- 39b60
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_ch.droida.nomedia_1.2.3@devRoot-D@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+b29e6a69: adding filter -- 39b60
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 39b60
+-- current localPatchFilter: 39fc8
+Action is completely same :)
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:36ee2		=(rels)=>		1
+[*] Unique action: 1:43308 : <<CALL>> : ch.droida.widget.TreeAdapter/getView:(ILandroid/view/View;Landroid/view/ViewGroup;)Landroid/view/View;:36ee2  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 39b60
+-- current localPatchFilter: 39fc8
+Action is completely same :)
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:36ee2		=(rels)=>		1
+[*] Unique action: 1:43068 : <<CALL>> : ch.droida.widget.TreeAdapter/getView:(ILandroid/view/View;Landroid/view/ViewGroup;)Landroid/view/View;:36ee2  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 39b60
+-- current localPatchFilter: 39fc8
+Action is completely same :)
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:36ee2		=(rels)=>		1
+[*] Unique action: 1:48640 : <<CALL>> : ch.droida.widget.TreeAdapter/getView:(ILandroid/view/View;Landroid/view/ViewGroup;)Landroid/view/View;:36ee2  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch2: 1:1126 : <<BRANCH>> : ch.droida.widget.TreeItem/getUsedPositions:()I:39a1e  =>  ch.droida.widget.TreeItem/getUsedPositions:()I:39a10
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:36e1c		=(rels)=>		1
+[*] Unique action: 1:43262 : <<CALL>> : ch.droida.widget.TreeAdapter/getView:(ILandroid/view/View;Landroid/view/ViewGroup;)Landroid/view/View;:36e1c  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch2: 1:1126 : <<BRANCH>> : ch.droida.widget.TreeItem/getUsedPositions:()I:39a1e  =>  ch.droida.widget.TreeItem/getUsedPositions:()I:39a10
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:36e1c		=(rels)=>		1
+[*] Unique action: 1:43022 : <<CALL>> : ch.droida.widget.TreeAdapter/getView:(ILandroid/view/View;Landroid/view/ViewGroup;)Landroid/view/View;:36e1c  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch2: 1:1126 : <<BRANCH>> : ch.droida.widget.TreeItem/getUsedPositions:()I:39a1e  =>  ch.droida.widget.TreeItem/getUsedPositions:()I:39a10
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:36e1c		=(rels)=>		1
+[*] Unique action: 1:48594 : <<CALL>> : ch.droida.widget.TreeAdapter/getView:(ILandroid/view/View;Landroid/view/ViewGroup;)Landroid/view/View;:36e1c  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch2: 1:1126 : <<BRANCH>> : ch.droida.widget.TreeItem/getUsedPositions:()I:39a1e  =>  ch.droida.widget.TreeItem/getUsedPositions:()I:39a10
+Entry: 39950
+ch.droida.widget.TreeItem/getUsedPositions:()I: 39a1e -> 39a10
+		ch.droida.widget.TreeItem/getUsedPositions:()I: ce -> c0
+addPatchReadme: java.lang.Class<ch.droida.widget.TreeItem>getUsedPositions()I ce t
+159ceeed: [+] Patches found in this round: 1
+159ceeed: [*] Found Patch size: 1
+Target PID : 
+	1:compareBackwardBranch2: 1:1126 : <<BRANCH>> : ch.droida.widget.TreeItem/getUsedPositions:()I:39a1e  =>  ch.droida.widget.TreeItem/getUsedPositions:()I:39a10
+Entry: 39950
+ch.droida.widget.TreeItem/getUsedPositions:()I: 39a1e -> 39a10
+		ch.droida.widget.TreeItem/getUsedPositions:()I: ce -> c0
+addPatchReadme: java.lang.Class<ch.droida.widget.TreeItem>getUsedPositions()I ce t
+46604b9f: [+] Patches found in this round: 1
+46604b9f: [*] Found Patch size: 1
+Target PID : 
+	1:compareBackwardBranch2: 1:1126 : <<BRANCH>> : ch.droida.widget.TreeItem/getUsedPositions:()I:39a1e  =>  ch.droida.widget.TreeItem/getUsedPositions:()I:39a10
+Entry: 39950
+ch.droida.widget.TreeItem/getUsedPositions:()I: 39a1e -> 39a10
+		ch.droida.widget.TreeItem/getUsedPositions:()I: ce -> c0
+addPatchReadme: java.lang.Class<ch.droida.widget.TreeItem>getUsedPositions()I ce t
+b29e6a69: [+] Patches found in this round: 1
+b29e6a69: [*] Found Patch size: 1
+Target PID : 
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_ch.droida.nomedia_1.2.3@devRoot-D@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+159ceeed: @@localPatchFilter -- 39b70
+159ceeed: @@localPatchFilter -- 39fd8
+159ceeed: 	@@@Found patch addr: 39a2e
+159ceeed: Querying offset: 39a1e
+159ceeed: 	--Add method name to patch = ch.droida.widget.TreeItem/getUsedPositions:()I 	39a1e
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devTamper_ch.droida.nomedia_1.2.3@devRoot-D@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+46604b9f: @@localPatchFilter -- 39b70
+46604b9f: @@localPatchFilter -- 39fd8
+46604b9f: 	@@@Found patch addr: 39a2e
+46604b9f: Querying offset: 39a1e
+46604b9f: 	--Add method name to patch = ch.droida.widget.TreeItem/getUsedPositions:()I 	39a1e
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_ch.droida.nomedia_1.2.3@devRoot-D@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+b29e6a69: @@localPatchFilter -- 39b70
+b29e6a69: @@localPatchFilter -- 39fd8
+b29e6a69: 	@@@Found patch addr: 39a2e
+b29e6a69: Querying offset: 39a1e
+b29e6a69: 	--Add method name to patch = ch.droida.widget.TreeItem/getUsedPositions:()I 	39a1e
+Devices presenting anti-analysis: 
+	devTamper
+	devRoot
+	devDebug
+46604b9f: patching method: ch.droida.widget.TreeItem/getVisibilityParams:()Lch/droida/widget/TreeView$VisibilityParams;
+46604b9f: patching method: ch.droida.widget.TreeItem/getUsedPositions:()I
+46604b9f: outDir - /home/santapark/Extended3/DEEPerence/reEx/ch.droida.nomedia_1.2.3.apk@devRoot-D.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devTamper
+Wow!!!!!  --  ch.droida.widget.TreeItem/getUsedPositions:()I
+fallthrough: d2
+branchTarget: c0
+label = cond_0
+GOTO -- d2 	c0
+Wow!!!!!  --  ch.droida.widget.TreeItem/getUsedPositions:()I
+fallthrough: 214
+branchTarget: 214
+NOP!
+outDir: /home/santapark/Extended3/DEEPerence/reEx/ch.droida.nomedia_1.2.3.apk@devRoot-D.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devTamper/ch.droida.nomedia_1.2.3.apk@devRoot-D.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+46604b9f: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/ch.droida.nomedia_1.2.3.apk@devRoot-D.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devTamper/signed_ch.droida.nomedia_1.2.3.apk@devRoot-D.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+46604b9f: First address of Lch/droida/widget/TreeItem;->getUsedPositions()I = 39960
+46604b9f: Address - Lch/droida/widget/TreeItem;->getUsedPositions()I@210	 lastOffset = 59c
+46604b9f: Instruction@@: IF_EQZ
+46604b9f: First address of Lch/droida/widget/TreeItem;->getUsedPositions()I = 39960
+46604b9f: Address - Lch/droida/widget/TreeItem;->getUsedPositions()I@ce	 lastOffset = 59c
+46604b9f: Instruction@@: IF_EQZ
+b29e6a69: patching method: ch.droida.widget.TreeItem/getVisibilityParams:()Lch/droida/widget/TreeView$VisibilityParams;
+b29e6a69: patching method: ch.droida.widget.TreeItem/getUsedPositions:()I
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/ch.droida.nomedia_1.2.3.apk@devRoot-D.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devRoot
+Wow!!!!!  --  ch.droida.widget.TreeItem/getUsedPositions:()I
+fallthrough: d2
+branchTarget: c0
+label = cond_0
+GOTO -- d2 	c0
+Wow!!!!!  --  ch.droida.widget.TreeItem/getUsedPositions:()I
+fallthrough: 214
+branchTarget: 214
+NOP!
+outDir: /home/santapark/Extended3/DEEPerence/reEx/ch.droida.nomedia_1.2.3.apk@devRoot-D.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devRoot/ch.droida.nomedia_1.2.3.apk@devRoot-D.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/ch.droida.nomedia_1.2.3.apk@devRoot-D.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devRoot/signed_ch.droida.nomedia_1.2.3.apk@devRoot-D.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+b29e6a69: First address of Lch/droida/widget/TreeItem;->getUsedPositions()I = 39960
+b29e6a69: Address - Lch/droida/widget/TreeItem;->getUsedPositions()I@210	 lastOffset = 59c
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Lch/droida/widget/TreeItem;->getUsedPositions()I = 39960
+b29e6a69: Address - Lch/droida/widget/TreeItem;->getUsedPositions()I@ce	 lastOffset = 59c
+b29e6a69: Instruction@@: IF_EQZ
+159ceeed: patching method: ch.droida.widget.TreeItem/getVisibilityParams:()Lch/droida/widget/TreeView$VisibilityParams;
+159ceeed: patching method: ch.droida.widget.TreeItem/getUsedPositions:()I
+159ceeed: outDir - /home/santapark/Extended3/DEEPerence/reEx/ch.droida.nomedia_1.2.3.apk@devRoot-D.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devDebug
+Wow!!!!!  --  ch.droida.widget.TreeItem/getUsedPositions:()I
+fallthrough: d2
+branchTarget: c0
+label = cond_0
+GOTO -- d2 	c0
+Wow!!!!!  --  ch.droida.widget.TreeItem/getUsedPositions:()I
+fallthrough: 214
+branchTarget: 214
+NOP!
+outDir: /home/santapark/Extended3/DEEPerence/reEx/ch.droida.nomedia_1.2.3.apk@devRoot-D.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devDebug/ch.droida.nomedia_1.2.3.apk@devRoot-D.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+159ceeed: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/ch.droida.nomedia_1.2.3.apk@devRoot-D.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devDebug/signed_ch.droida.nomedia_1.2.3.apk@devRoot-D.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+159ceeed: First address of Lch/droida/widget/TreeItem;->getUsedPositions()I = 39960
+159ceeed: Address - Lch/droida/widget/TreeItem;->getUsedPositions()I@210	 lastOffset = 59c
+159ceeed: Instruction@@: IF_EQZ
+159ceeed: First address of Lch/droida/widget/TreeItem;->getUsedPositions()I = 39960
+159ceeed: Address - Lch/droida/widget/TreeItem;->getUsedPositions()I@ce	 lastOffset = 59c
+159ceeed: Instruction@@: IF_EQZ
+46604b9f: (Not Installed) Trying remove : true
+b29e6a69: (Not Installed) Trying remove : true
+159ceeed: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/ch.droida.nomedia_1.2.3.apk@devRoot-D.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devTamper/signed_ch.droida.nomedia_1.2.3.apk@devRoot-D.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/ch.droida.nomedia_1.2.3.apk@devRoot-D.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devRoot/signed_ch.droida.nomedia_1.2.3.apk@devRoot-D.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/ch.droida.nomedia_1.2.3.apk@devRoot-D.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devDebug/signed_ch.droida.nomedia_1.2.3.apk@devRoot-D.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+159ceeed: Installation Success
+b29e6a69: Installation Success
+46604b9f: Installation Success
+46604b9f: startApplication called! - devTamper
+159ceeed: startApplication called! - devDebug
+b29e6a69: startApplication called! - devRoot
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_ch.droida.nomedia_1.2.3@devRoot-D@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+46604b9f: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devTamper_ch.droida.nomedia_1.2.3@devRoot-D@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_ch.droida.nomedia_1.2.3@devRoot-D@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+b29e6a69: Running Application: ch.droida.nomedia
+46604b9f: Running Application: ch.droida.nomedia
+PIDs--------------------------------------------------------------------------
+u0_a457        4719    423 13757756 93500 0                   0 R ch.droida.nomedia
+forward tcp:35535 jdwp:4719
+[*]Found JDWP Target: 4719
+159ceeed: Running Application: ch.droida.nomedia
+159ceeed: Running is done - starting comparing... : 10001
+159ceeed: Terminated logcat thread...by itself
+46604b9f: Running is done - starting comparing... : 10001
+46604b9f: Terminated logcat thread...by itself
+b29e6a69: Running is done - starting comparing... : 10001
+b29e6a69: Terminated logcat thread...by itself
+159ceeed: Top-activity: ch.droida.nomedia/.NomediaActivity
+46604b9f: Top-activity: ch.droida.nomedia/.NomediaActivity
+PIDs--------------------------------------------------------------------------
+u0_a457        4719    423 13821732 108684 0                  0 S ch.droida.nomedia
+159ceeed: savedPid = 4719
+PIDs--------------------------------------------------------------------------
+u0_a179       14026    425 13980420 106228 0                  0 S ch.droida.nomedia
+46604b9f: savedPid = 14026
+PIDs--------------------------------------------------------------------------
+u0_a457        4719    423 13821732 108684 0                  0 S ch.droida.nomedia
+159ceeed: savedPid2 = 4719
+Stopping app: ch.droida.nomedia
+PIDs--------------------------------------------------------------------------
+u0_a179       14026    425 13980420 106228 0                  0 S ch.droida.nomedia
+46604b9f: savedPid2 = 14026
+Stopping app: ch.droida.nomedia
+b29e6a69: Top-activity: ch.droida.nomedia/.NomediaActivity
+PIDs--------------------------------------------------------------------------
+u0_a151       10802    430 13908064 106536 0                  0 S ch.droida.nomedia
+b29e6a69: savedPid = 10802
+PIDs--------------------------------------------------------------------------
+u0_a151       10802    430 13908064 106536 0                  0 S ch.droida.nomedia
+b29e6a69: savedPid2 = 10802
+Stopping app: ch.droida.nomedia
+Tryging remove : uninstall ch.droida.nomedia(ch.droida.nomedia)
+159ceeed: Remove Success
+159ceeed: ilog file size: 9270507
+159ceeed: End of collecting logcat...
+Tryging remove : uninstall ch.droida.nomedia(ch.droida.nomedia)
+46604b9f: Remove Success
+46604b9f: ilog file size: 9207741
+46604b9f: End of collecting logcat...
+Tryging remove : uninstall ch.droida.nomedia(ch.droida.nomedia)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 10397827
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 26
+Target PID : 6317
+Target PID : 6317
+Target PID : 6317
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_ch.droida.nomedia_1.2.3@devRoot-D@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+Target PID : 14026
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_ch.droida.nomedia_1.2.3@devRoot-D@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+Target PID : 10802
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_ch.droida.nomedia_1.2.3@devRoot-D@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+Target PID : 4719
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devTamper_ch.droida.nomedia_1.2.3@devRoot-D@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+46604b9f: adding filter -- 39a1e
+46604b9f: adding filter -- 39b60
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_ch.droida.nomedia_1.2.3@devRoot-D@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+159ceeed: adding filter -- 39a1e
+159ceeed: adding filter -- 39b60
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_ch.droida.nomedia_1.2.3@devRoot-D@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+b29e6a69: adding filter -- 39a1e
+b29e6a69: adding filter -- 39b60
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 39b60
+-- current localPatchFilter: 39fc8
+-- current localPatchFilter: 39a1e
+Action is completely same :)
+Action is completely same :)
+46604b9f: There is no difference. (tryAgain=false)
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 39b60
+-- current localPatchFilter: 39fc8
+-- current localPatchFilter: 39a1e
+Action is completely same :)
+Action is completely same :)
+159ceeed: There is no difference. (tryAgain=false)
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 39b60
+-- current localPatchFilter: 39fc8
+-- current localPatchFilter: 39a1e
+Action is completely same :)
+Action is completely same :)
+b29e6a69: There is no difference. (tryAgain=false)
+-- HPFinder will be done in this iteration :)
+hasAntiAnalysis? - devTamper: true on ch.droida.nomedia.NomediaActivity
+	isRemovedThem? - devTamper: true on ch.droida.nomedia.NomediaActivity	-	tryCount: 3
+hasAntiAnalysis? - devRoot: true on ch.droida.nomedia.NomediaActivity
+	isRemovedThem? - devRoot: true on ch.droida.nomedia.NomediaActivity	-	tryCount: 3
+hasAntiAnalysis? - devDebug: true on ch.droida.nomedia.NomediaActivity
+	isRemovedThem? - devDebug: true on ch.droida.nomedia.NomediaActivity	-	tryCount: 3
+3601a6ff: isFailedToLaunch: ch.droida.nomedia/.NomediaActivity
+3601a6ff: 	--result: Good :)
+*****REPORT: ch.droida.nomedia
+* Package name: ch.droida.nomedia
+* Running time: 151
+* FileSize: 138091
+devTamper : 9207741
+devRef : 633716
+devRoot : 10397827
+devDebug : 9270507
+hasAntiAnalysis? - devTamper: true on ch.droida.nomedia.NomediaActivity
+	isRemovedThem? - devTamper: true on ch.droida.nomedia.NomediaActivity	-	tryCount: 3
+hasAntiAnalysis? - devRoot: true on ch.droida.nomedia.NomediaActivity
+	isRemovedThem? - devRoot: true on ch.droida.nomedia.NomediaActivity	-	tryCount: 3
+hasAntiAnalysis? - devDebug: true on ch.droida.nomedia.NomediaActivity
+	isRemovedThem? - devDebug: true on ch.droida.nomedia.NomediaActivity	-	tryCount: 3
+46604b9f: trying remove : ch.droida.nomedia
+3601a6ff: trying remove : ch.droida.nomedia
+b29e6a69: trying remove : ch.droida.nomedia
+159ceeed: trying remove : ch.droida.nomedia
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+159ceeed: result = true
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+b29e6a69: result = true
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+46604b9f: result = true
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+3601a6ff: result = true
+3601a6ff: isFailedToLaunch: ch.droida.nomedia/.NomediaActivity
+3601a6ff: 	--result: Good :)

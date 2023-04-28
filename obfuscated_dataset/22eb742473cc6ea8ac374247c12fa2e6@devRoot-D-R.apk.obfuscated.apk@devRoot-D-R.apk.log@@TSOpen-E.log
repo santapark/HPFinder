@@ -1,0 +1,474 @@
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/6dd8311c19b8d0f892cb33a89ce2f4ebef607899b93ff73505aca2cfe2ca8711.apk@devRoot-D-R.apk.obfuscated/AndroidManifest.xml
+launchable-activity: name='com.safesys.superexplorer.RootExplorer'  label='超级管理器' icon=''
+{ACTIVITY, .RootExplorer, android.intent.action.MAIN}
+{ACTIVITY, .PermissionsActivity}
+{ACTIVITY, .ScriptActivity}
+{ACTIVITY, .DisplayText}
+{ACTIVITY, .BookmarkList}
+{ACTIVITY, .SearchCriteria}
+{ACTIVITY, .Preferences}
+{ACTIVITY, .ViewDatabase}
+{ACTIVITY, .ViewTable}
+{ACTIVITY, .SQLiteEditorAdvert}
+{ACTIVITY, .CreateZip}
+{ACTIVITY, .ShowTips}
+{SERVICE, .UpdateService}
+{ACTIVITY, .RootExplorer, android.intent.action.MAIN}
+{ACTIVITY, .PermissionsActivity}
+{ACTIVITY, .ScriptActivity}
+{ACTIVITY, .DisplayText}
+{ACTIVITY, .BookmarkList}
+{ACTIVITY, .SearchCriteria}
+{ACTIVITY, .Preferences}
+{ACTIVITY, .ViewDatabase}
+{ACTIVITY, .ViewTable}
+{ACTIVITY, .SQLiteEditorAdvert}
+{ACTIVITY, .CreateZip}
+{ACTIVITY, .ShowTips}
+{SERVICE, .UpdateService}
+_getAllDexFiles: /home/santapark/Extended3/DEEPerence/reEx/6dd8311c19b8d0f892cb33a89ce2f4ebef607899b93ff73505aca2cfe2ca8711.apk@devRoot-D-R.apk.obfuscated/classes.dex
+----------------/home/santapark/Extended3/DEEPerence/reEx/6dd8311c19b8d0f892cb33a89ce2f4ebef607899b93ff73505aca2cfe2ca8711.apk@devRoot-D-R.apk.obfuscated.apk
+dexFile = org.jf.dexlib2.dexbacked.DexBackedDexFile@74650e52
+com.safesys.superexplorer
+com.safesys.superexplorer.RootExplorer
+debuggable: true
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/6dd8311c19b8d0f892cb33a89ce2f4ebef607899b93ff73505aca2cfe2ca8711.apk@devRoot-D-R.apk.obfuscated.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/6dd8311c19b8d0f892cb33a89ce2f4ebef607899b93ff73505aca2cfe2ca8711.apk@devRoot-D-R.apk.obfuscated.apk
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/6dd8311c19b8d0f892cb33a89ce2f4ebef607899b93ff73505aca2cfe2ca8711.apk@devRoot-D-R.apk.obfuscated/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/6dd8311c19b8d0f892cb33a89ce2f4ebef607899b93ff73505aca2cfe2ca8711.apk@devRoot-D-R.apk.obfuscated/6dd8311c19b8d0f892cb33a89ce2f4ebef607899b93ff73505aca2cfe2ca8711.apk@devRoot-D-R.apk.obfuscated.apk
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/6dd8311c19b8d0f892cb33a89ce2f4ebef607899b93ff73505aca2cfe2ca8711.apk@devRoot-D-R.apk.obfuscated_46604b9f/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/6dd8311c19b8d0f892cb33a89ce2f4ebef607899b93ff73505aca2cfe2ca8711.apk@devRoot-D-R.apk.obfuscated_46604b9f/6dd8311c19b8d0f892cb33a89ce2f4ebef607899b93ff73505aca2cfe2ca8711.apk@devRoot-D-R.apk.obfuscated.apk
+159ceeed: Installing debuggable .apk file: 
+46604b9f: Installing repackaged apk File: 
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/6dd8311c19b8d0f892cb33a89ce2f4ebef607899b93ff73505aca2cfe2ca8711.apk@devRoot-D-R.apk.obfuscated/signed_6dd8311c19b8d0f892cb33a89ce2f4ebef607899b93ff73505aca2cfe2ca8711.apk@devRoot-D-R.apk.obfuscated.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/6dd8311c19b8d0f892cb33a89ce2f4ebef607899b93ff73505aca2cfe2ca8711.apk@devRoot-D-R.apk.obfuscated_46604b9f/signed_6dd8311c19b8d0f892cb33a89ce2f4ebef607899b93ff73505aca2cfe2ca8711.apk@devRoot-D-R.apk.obfuscated.apk
+3601a6ff: Installation Success
+b29e6a69: Installation Success
+46604b9f: Installation Success
+159ceeed: Installation Success
+46604b9f: startApplication called! - devTamper
+3601a6ff: startApplication called! - devRef
+b29e6a69: startApplication called! - devRoot
+159ceeed: startApplication called! - devDebug
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_6dd8311c19b8d0f892cb33a89ce2f4ebef607899b93ff73505aca2cfe2ca8711@devRoot-D-R.obfuscated.ilog)
+3601a6ff: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRef_6dd8311c19b8d0f892cb33a89ce2f4ebef607899b93ff73505aca2cfe2ca8711@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_6dd8311c19b8d0f892cb33a89ce2f4ebef607899b93ff73505aca2cfe2ca8711@devRoot-D-R.obfuscated.ilog)
+46604b9f: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devTamper_6dd8311c19b8d0f892cb33a89ce2f4ebef607899b93ff73505aca2cfe2ca8711@devRoot-D-R.obfuscated.ilog)
+3601a6ff: Running Application: com.safesys.superexplorer
+b29e6a69: Running Application: com.safesys.superexplorer
+46604b9f: Running Application: com.safesys.superexplorer
+PIDs--------------------------------------------------------------------------
+u0_a736       21017    430 1013324  87044 0                   0 R com.safesys.superexplorer
+forward tcp:5005 jdwp:21017
+[*]Found JDWP Target: 21017
+159ceeed: Running Application: com.safesys.superexplorer
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.safesys.superexplorer
+3601a6ff: Running is done - starting comparing... : 5001
+3601a6ff: Terminated logcat thread...by itself
+46604b9f: Running is done - starting comparing... : 5001
+46604b9f: Terminated logcat thread...by itself
+159ceeed: Running is done - starting comparing... : 5001
+159ceeed: Terminated logcat thread...by itself
+3601a6ff: Top-activity: com.safesys.superexplorer/.RootExplorer
+PIDs--------------------------------------------------------------------------
+u0_a240       11036    408 1028280 105884 0                   0 S com.safesys.superexplorer
+PIDs--------------------------------------------------------------------------
+u0_a240       11036    408 1028280 105884 0                   0 S com.safesys.superexplorer
+Stopping app: com.safesys.superexplorer
+46604b9f: Top-activity: com.safesys.superexplorer/.RootExplorer
+PIDs--------------------------------------------------------------------------
+u0_a925       28178    426 1028908 106084 0                   0 S com.safesys.superexplorer
+PIDs--------------------------------------------------------------------------
+u0_a925       28178    426 1028908 106084 0                   0 S com.safesys.superexplorer
+Stopping app: com.safesys.superexplorer
+159ceeed: Top-activity: com.safesys.superexplorer/.RootExplorer
+PIDs--------------------------------------------------------------------------
+u0_a736       21017    430 1028904 106256 0                   0 S com.safesys.superexplorer
+PIDs--------------------------------------------------------------------------
+u0_a736       21017    430 1028904 106256 0                   0 S com.safesys.superexplorer
+Stopping app: com.safesys.superexplorer
+Tryging remove : uninstall com.safesys.superexplorer(com.safesys.superexplorer)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 1791575
+b29e6a69: End of collecting logcat...
+Tryging remove : uninstall com.safesys.superexplorer(com.safesys.superexplorer)
+3601a6ff: Remove Success
+3601a6ff: ilog file size: 2270703
+3601a6ff: End of collecting logcat...
+Tryging remove : uninstall com.safesys.superexplorer(com.safesys.superexplorer)
+46604b9f: Remove Success
+46604b9f: ilog file size: 2270703
+46604b9f: End of collecting logcat...
+Tryging remove : uninstall com.safesys.superexplorer(com.safesys.superexplorer)
+159ceeed: Remove Success
+159ceeed: ilog file size: 2270703
+159ceeed: End of collecting logcat...
+HPFinder's try count remains: 19
+46604b9f: isFailedToLaunch: com.safesys.superexplorer/.RootExplorer
+46604b9f: 	--result: Good :)
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+159ceeed: isFailedToLaunch: com.safesys.superexplorer/.RootExplorer
+/home/santapark/Extended3/DEEPerence/reEx/6dd8311c19b8d0f892cb33a89ce2f4ebef607899b93ff73505aca2cfe2ca8711.apk@devRoot-D-R.apk.obfuscated.apk launch is failed on devRoot
+159ceeed: 	--result: Good :)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_6dd8311c19b8d0f892cb33a89ce2f4ebef607899b93ff73505aca2cfe2ca8711@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_6dd8311c19b8d0f892cb33a89ce2f4ebef607899b93ff73505aca2cfe2ca8711@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_6dd8311c19b8d0f892cb33a89ce2f4ebef607899b93ff73505aca2cfe2ca8711@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_6dd8311c19b8d0f892cb33a89ce2f4ebef607899b93ff73505aca2cfe2ca8711@devRoot-D-R.obfuscated.ilog)
+[*] FlowManager: adjust finished.
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.app.Dialog/show:()V:c49a0		=(rels)=>		1
+[*] Unique action: 1:8095 : <<CALL>> : com.safesys.superexplorer.RootExplorer$2/soXNBuajsmfwRqfn:(Landroid/app/AlertDialog;)V:c49a0  =>  android.app.Dialog/show:()V:1b4adc
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_6dd8311c19b8d0f892cb33a89ce2f4ebef607899b93ff73505aca2cfe2ca8711@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devTamper_6dd8311c19b8d0f892cb33a89ce2f4ebef607899b93ff73505aca2cfe2ca8711@devRoot-D-R.obfuscated.ilog)
+[*] FlowManager: adjust finished.
+[*] FlowManager: adjust finished.
+Action is completely same :)
+Action is completely same :)
+Action is completely same :)
+Action is completely same :)
+46604b9f: There is no difference. (tryAgain=false)
+159ceeed: There is no difference. (tryAgain=false)
+	1:compareBackwardBranch: 1:6214 : <<BRANCH>> : com.safesys.superexplorer.CommandShell/<init>:()V:9a9ca  =>  com.safesys.superexplorer.CommandShell/<init>:()V:9aae4
+Action is completely same :)
+Entry: 9a824
+com.safesys.superexplorer.CommandShell/<init>:()V: 9a9ca -> 9aae4
+		com.safesys.superexplorer.CommandShell/<init>:()V: 1a6 -> 2c0
+addPatchReadme: java.lang.Class<com.safesys.superexplorer.CommandShell><init>()V 1a6 t
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_6dd8311c19b8d0f892cb33a89ce2f4ebef607899b93ff73505aca2cfe2ca8711@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Patch size: 1
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/6dd8311c19b8d0f892cb33a89ce2f4ebef607899b93ff73505aca2cfe2ca8711.apk@devRoot-D-R.apk.obfuscated_devRoot
+Wow!!!!!  --  com.safesys.superexplorer.CommandShell/<init>:()V
+fallthrough: 1ac
+branchTarget: 2c0
+label = sswitch_data_5
+GOTO -- 1ac 	2c0
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/6dd8311c19b8d0f892cb33a89ce2f4ebef607899b93ff73505aca2cfe2ca8711.apk@devRoot-D-R.apk.obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/6dd8311c19b8d0f892cb33a89ce2f4ebef607899b93ff73505aca2cfe2ca8711.apk@devRoot-D-R.apk.obfuscated_devRoot/6dd8311c19b8d0f892cb33a89ce2f4ebef607899b93ff73505aca2cfe2ca8711.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/6dd8311c19b8d0f892cb33a89ce2f4ebef607899b93ff73505aca2cfe2ca8711.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_6dd8311c19b8d0f892cb33a89ce2f4ebef607899b93ff73505aca2cfe2ca8711.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: First address of Lcom/safesys/superexplorer/CommandShell;-><init>()V = 9a834
+b29e6a69: Address - Lcom/safesys/superexplorer/CommandShell;-><init>()V@1a6	 lastOffset = 5e8
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/6dd8311c19b8d0f892cb33a89ce2f4ebef607899b93ff73505aca2cfe2ca8711.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_6dd8311c19b8d0f892cb33a89ce2f4ebef607899b93ff73505aca2cfe2ca8711.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_6dd8311c19b8d0f892cb33a89ce2f4ebef607899b93ff73505aca2cfe2ca8711@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Running Application: com.safesys.superexplorer
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.safesys.superexplorer
+Tryging remove : uninstall com.safesys.superexplorer(com.safesys.superexplorer)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 1757674
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 18
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+/home/santapark/Extended3/DEEPerence/reEx/6dd8311c19b8d0f892cb33a89ce2f4ebef607899b93ff73505aca2cfe2ca8711.apk@devRoot-D-R.apk.obfuscated.apk launch is failed on devRoot
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 9a9ca
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.app.Dialog/show:()V:c49a0		=(rels)=>		1
+[*] Unique action: 1:8095 : <<CALL>> : com.safesys.superexplorer.RootExplorer$2/soXNBuajsmfwRqfn:(Landroid/app/AlertDialog;)V:c49a0  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:6211 : <<BRANCH>> : com.safesys.superexplorer.CommandShell/<init>:()V:9a9e6  =>  com.safesys.superexplorer.CommandShell/<init>:()V:9a9f4
+Action is completely same :)
+Entry: 9a824
+com.safesys.superexplorer.CommandShell/<init>:()V: 9a9e6 -> 9a9f4
+		com.safesys.superexplorer.CommandShell/<init>:()V: 1c2 -> 1d0
+addPatchReadme: java.lang.Class<com.safesys.superexplorer.CommandShell><init>()V 1c2 t
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_6dd8311c19b8d0f892cb33a89ce2f4ebef607899b93ff73505aca2cfe2ca8711@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Patch size: 1
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/6dd8311c19b8d0f892cb33a89ce2f4ebef607899b93ff73505aca2cfe2ca8711.apk@devRoot-D-R.apk.obfuscated_devRoot
+Wow!!!!!  --  com.safesys.superexplorer.CommandShell/<init>:()V
+fallthrough: 1c8
+branchTarget: 1d0
+label = sswitch_data_6
+GOTO -- 1c8 	1d0
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/6dd8311c19b8d0f892cb33a89ce2f4ebef607899b93ff73505aca2cfe2ca8711.apk@devRoot-D-R.apk.obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/6dd8311c19b8d0f892cb33a89ce2f4ebef607899b93ff73505aca2cfe2ca8711.apk@devRoot-D-R.apk.obfuscated_devRoot/6dd8311c19b8d0f892cb33a89ce2f4ebef607899b93ff73505aca2cfe2ca8711.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/6dd8311c19b8d0f892cb33a89ce2f4ebef607899b93ff73505aca2cfe2ca8711.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_6dd8311c19b8d0f892cb33a89ce2f4ebef607899b93ff73505aca2cfe2ca8711.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: First address of Lcom/safesys/superexplorer/CommandShell;-><init>()V = 9a834
+b29e6a69: Address - Lcom/safesys/superexplorer/CommandShell;-><init>()V@1c2	 lastOffset = 5e8
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/6dd8311c19b8d0f892cb33a89ce2f4ebef607899b93ff73505aca2cfe2ca8711.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_6dd8311c19b8d0f892cb33a89ce2f4ebef607899b93ff73505aca2cfe2ca8711.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_6dd8311c19b8d0f892cb33a89ce2f4ebef607899b93ff73505aca2cfe2ca8711@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Running Application: com.safesys.superexplorer
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.safesys.superexplorer
+Tryging remove : uninstall com.safesys.superexplorer(com.safesys.superexplorer)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 1757674
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 17
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+/home/santapark/Extended3/DEEPerence/reEx/6dd8311c19b8d0f892cb33a89ce2f4ebef607899b93ff73505aca2cfe2ca8711.apk@devRoot-D-R.apk.obfuscated.apk launch is failed on devRoot
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 9a9ca
+-- current localPatchFilter: 9a9e6
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.app.Dialog/show:()V:c49a0		=(rels)=>		1
+[*] Unique action: 1:8095 : <<CALL>> : com.safesys.superexplorer.RootExplorer$2/soXNBuajsmfwRqfn:(Landroid/app/AlertDialog;)V:c49a0  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:6208 : <<BRANCH>> : com.safesys.superexplorer.CommandShell/<init>:()V:9aa14  =>  com.safesys.superexplorer.CommandShell/<init>:()V:9a9fa
+Action is completely same :)
+Entry: 9a824
+com.safesys.superexplorer.CommandShell/<init>:()V: 9aa14 -> 9a9fa
+		com.safesys.superexplorer.CommandShell/<init>:()V: 1f0 -> 1d6
+addPatchReadme: java.lang.Class<com.safesys.superexplorer.CommandShell><init>()V 1f0 t
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_6dd8311c19b8d0f892cb33a89ce2f4ebef607899b93ff73505aca2cfe2ca8711@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Patch size: 1
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/6dd8311c19b8d0f892cb33a89ce2f4ebef607899b93ff73505aca2cfe2ca8711.apk@devRoot-D-R.apk.obfuscated_devRoot
+Wow!!!!!  --  com.safesys.superexplorer.CommandShell/<init>:()V
+fallthrough: 1f6
+branchTarget: 1d6
+label = sswitch_data_7
+GOTO -- 1f6 	1d6
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/6dd8311c19b8d0f892cb33a89ce2f4ebef607899b93ff73505aca2cfe2ca8711.apk@devRoot-D-R.apk.obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/6dd8311c19b8d0f892cb33a89ce2f4ebef607899b93ff73505aca2cfe2ca8711.apk@devRoot-D-R.apk.obfuscated_devRoot/6dd8311c19b8d0f892cb33a89ce2f4ebef607899b93ff73505aca2cfe2ca8711.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/6dd8311c19b8d0f892cb33a89ce2f4ebef607899b93ff73505aca2cfe2ca8711.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_6dd8311c19b8d0f892cb33a89ce2f4ebef607899b93ff73505aca2cfe2ca8711.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: First address of Lcom/safesys/superexplorer/CommandShell;-><init>()V = 9a834
+b29e6a69: Address - Lcom/safesys/superexplorer/CommandShell;-><init>()V@1f0	 lastOffset = 5e8
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/6dd8311c19b8d0f892cb33a89ce2f4ebef607899b93ff73505aca2cfe2ca8711.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_6dd8311c19b8d0f892cb33a89ce2f4ebef607899b93ff73505aca2cfe2ca8711.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_6dd8311c19b8d0f892cb33a89ce2f4ebef607899b93ff73505aca2cfe2ca8711@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Running Application: com.safesys.superexplorer
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.safesys.superexplorer
+Tryging remove : uninstall com.safesys.superexplorer(com.safesys.superexplorer)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 1757674
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 16
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+/home/santapark/Extended3/DEEPerence/reEx/6dd8311c19b8d0f892cb33a89ce2f4ebef607899b93ff73505aca2cfe2ca8711.apk@devRoot-D-R.apk.obfuscated.apk launch is failed on devRoot
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 9a9ca
+-- current localPatchFilter: 9aa14
+-- current localPatchFilter: 9a9e6
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.app.Dialog/show:()V:c49a0		=(rels)=>		1
+[*] Unique action: 1:8095 : <<CALL>> : com.safesys.superexplorer.RootExplorer$2/soXNBuajsmfwRqfn:(Landroid/app/AlertDialog;)V:c49a0  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:6205 : <<BRANCH>> : com.safesys.superexplorer.CommandShell/<init>:()V:9aa30  =>  com.safesys.superexplorer.CommandShell/<init>:()V:9aa5a
+Action is completely same :)
+Entry: 9a824
+com.safesys.superexplorer.CommandShell/<init>:()V: 9aa30 -> 9aa5a
+		com.safesys.superexplorer.CommandShell/<init>:()V: 20c -> 236
+addPatchReadme: java.lang.Class<com.safesys.superexplorer.CommandShell><init>()V 20c t
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_6dd8311c19b8d0f892cb33a89ce2f4ebef607899b93ff73505aca2cfe2ca8711@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Patch size: 1
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/6dd8311c19b8d0f892cb33a89ce2f4ebef607899b93ff73505aca2cfe2ca8711.apk@devRoot-D-R.apk.obfuscated_devRoot
+Wow!!!!!  --  com.safesys.superexplorer.CommandShell/<init>:()V
+fallthrough: 212
+branchTarget: 236
+label = sswitch_data_8
+GOTO -- 212 	236
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/6dd8311c19b8d0f892cb33a89ce2f4ebef607899b93ff73505aca2cfe2ca8711.apk@devRoot-D-R.apk.obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/6dd8311c19b8d0f892cb33a89ce2f4ebef607899b93ff73505aca2cfe2ca8711.apk@devRoot-D-R.apk.obfuscated_devRoot/6dd8311c19b8d0f892cb33a89ce2f4ebef607899b93ff73505aca2cfe2ca8711.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/6dd8311c19b8d0f892cb33a89ce2f4ebef607899b93ff73505aca2cfe2ca8711.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_6dd8311c19b8d0f892cb33a89ce2f4ebef607899b93ff73505aca2cfe2ca8711.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: First address of Lcom/safesys/superexplorer/CommandShell;-><init>()V = 9a834
+b29e6a69: Address - Lcom/safesys/superexplorer/CommandShell;-><init>()V@20c	 lastOffset = 5e8
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/6dd8311c19b8d0f892cb33a89ce2f4ebef607899b93ff73505aca2cfe2ca8711.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_6dd8311c19b8d0f892cb33a89ce2f4ebef607899b93ff73505aca2cfe2ca8711.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_6dd8311c19b8d0f892cb33a89ce2f4ebef607899b93ff73505aca2cfe2ca8711@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Running Application: com.safesys.superexplorer
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.safesys.superexplorer
+Tryging remove : uninstall com.safesys.superexplorer(com.safesys.superexplorer)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 1757674
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 15
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+/home/santapark/Extended3/DEEPerence/reEx/6dd8311c19b8d0f892cb33a89ce2f4ebef607899b93ff73505aca2cfe2ca8711.apk@devRoot-D-R.apk.obfuscated.apk launch is failed on devRoot
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 9a9ca
+-- current localPatchFilter: 9aa30
+-- current localPatchFilter: 9aa14
+-- current localPatchFilter: 9a9e6
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.app.Dialog/show:()V:c49a0		=(rels)=>		1
+[*] Unique action: 1:8095 : <<CALL>> : com.safesys.superexplorer.RootExplorer$2/soXNBuajsmfwRqfn:(Landroid/app/AlertDialog;)V:c49a0  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:6202 : <<BRANCH>> : com.safesys.superexplorer.CommandShell/<init>:()V:9aa4c  =>  com.safesys.superexplorer.CommandShell/<init>:()V:9aa54
+Action is completely same :)
+Entry: 9a824
+com.safesys.superexplorer.CommandShell/<init>:()V: 9aa4c -> 9aa54
+		com.safesys.superexplorer.CommandShell/<init>:()V: 228 -> 230
+addPatchReadme: java.lang.Class<com.safesys.superexplorer.CommandShell><init>()V 228 t
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_6dd8311c19b8d0f892cb33a89ce2f4ebef607899b93ff73505aca2cfe2ca8711@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Patch size: 1
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/6dd8311c19b8d0f892cb33a89ce2f4ebef607899b93ff73505aca2cfe2ca8711.apk@devRoot-D-R.apk.obfuscated_devRoot
+Wow!!!!!  --  com.safesys.superexplorer.CommandShell/<init>:()V
+fallthrough: 22e
+branchTarget: 230
+label = sswitch_data_9
+GOTO -- 22e 	230
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/6dd8311c19b8d0f892cb33a89ce2f4ebef607899b93ff73505aca2cfe2ca8711.apk@devRoot-D-R.apk.obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/6dd8311c19b8d0f892cb33a89ce2f4ebef607899b93ff73505aca2cfe2ca8711.apk@devRoot-D-R.apk.obfuscated_devRoot/6dd8311c19b8d0f892cb33a89ce2f4ebef607899b93ff73505aca2cfe2ca8711.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/6dd8311c19b8d0f892cb33a89ce2f4ebef607899b93ff73505aca2cfe2ca8711.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_6dd8311c19b8d0f892cb33a89ce2f4ebef607899b93ff73505aca2cfe2ca8711.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: First address of Lcom/safesys/superexplorer/CommandShell;-><init>()V = 9a834
+b29e6a69: Address - Lcom/safesys/superexplorer/CommandShell;-><init>()V@228	 lastOffset = 5e8
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/6dd8311c19b8d0f892cb33a89ce2f4ebef607899b93ff73505aca2cfe2ca8711.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_6dd8311c19b8d0f892cb33a89ce2f4ebef607899b93ff73505aca2cfe2ca8711.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_6dd8311c19b8d0f892cb33a89ce2f4ebef607899b93ff73505aca2cfe2ca8711@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Running Application: com.safesys.superexplorer
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.safesys.superexplorer
+Tryging remove : uninstall com.safesys.superexplorer(com.safesys.superexplorer)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 1757674
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 14
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+/home/santapark/Extended3/DEEPerence/reEx/6dd8311c19b8d0f892cb33a89ce2f4ebef607899b93ff73505aca2cfe2ca8711.apk@devRoot-D-R.apk.obfuscated.apk launch is failed on devRoot
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 9a9ca
+-- current localPatchFilter: 9aa4c
+-- current localPatchFilter: 9aa30
+-- current localPatchFilter: 9aa14
+-- current localPatchFilter: 9a9e6
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.app.Dialog/show:()V:c49a0		=(rels)=>		1
+[*] Unique action: 1:8095 : <<CALL>> : com.safesys.superexplorer.RootExplorer$2/soXNBuajsmfwRqfn:(Landroid/app/AlertDialog;)V:c49a0  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:6199 : <<BRANCH>> : com.safesys.superexplorer.CommandShell/<init>:()V:9aa94  =>  com.safesys.superexplorer.CommandShell/<init>:()V:9aa60
+Action is completely same :)
+Entry: 9a824
+com.safesys.superexplorer.CommandShell/<init>:()V: 9aa94 -> 9aa60
+		com.safesys.superexplorer.CommandShell/<init>:()V: 270 -> 23c
+addPatchReadme: java.lang.Class<com.safesys.superexplorer.CommandShell><init>()V 270 t
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_6dd8311c19b8d0f892cb33a89ce2f4ebef607899b93ff73505aca2cfe2ca8711@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Patch size: 1
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/6dd8311c19b8d0f892cb33a89ce2f4ebef607899b93ff73505aca2cfe2ca8711.apk@devRoot-D-R.apk.obfuscated_devRoot
+Wow!!!!!  --  com.safesys.superexplorer.CommandShell/<init>:()V
+fallthrough: 274
+branchTarget: 23c
+label = cond_1
+GOTO -- 274 	23c
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/6dd8311c19b8d0f892cb33a89ce2f4ebef607899b93ff73505aca2cfe2ca8711.apk@devRoot-D-R.apk.obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/6dd8311c19b8d0f892cb33a89ce2f4ebef607899b93ff73505aca2cfe2ca8711.apk@devRoot-D-R.apk.obfuscated_devRoot/6dd8311c19b8d0f892cb33a89ce2f4ebef607899b93ff73505aca2cfe2ca8711.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/6dd8311c19b8d0f892cb33a89ce2f4ebef607899b93ff73505aca2cfe2ca8711.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_6dd8311c19b8d0f892cb33a89ce2f4ebef607899b93ff73505aca2cfe2ca8711.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: First address of Lcom/safesys/superexplorer/CommandShell;-><init>()V = 9a834
+b29e6a69: Address - Lcom/safesys/superexplorer/CommandShell;-><init>()V@270	 lastOffset = 5e8
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/6dd8311c19b8d0f892cb33a89ce2f4ebef607899b93ff73505aca2cfe2ca8711.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_6dd8311c19b8d0f892cb33a89ce2f4ebef607899b93ff73505aca2cfe2ca8711.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_6dd8311c19b8d0f892cb33a89ce2f4ebef607899b93ff73505aca2cfe2ca8711@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Running Application: com.safesys.superexplorer
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.safesys.superexplorer/.RootExplorer
+PIDs--------------------------------------------------------------------------
+u0_a3154      31518    430 1030052 106388 0                   0 S com.safesys.superexplorer
+PIDs--------------------------------------------------------------------------
+u0_a3154      31518    430 1030052 106388 0                   0 S com.safesys.superexplorer
+Stopping app: com.safesys.superexplorer
+Tryging remove : uninstall com.safesys.superexplorer(com.safesys.superexplorer)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 2270701
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 13
+b29e6a69: isFailedToLaunch: com.safesys.superexplorer/.RootExplorer
+b29e6a69: 	--result: Good :)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_6dd8311c19b8d0f892cb33a89ce2f4ebef607899b93ff73505aca2cfe2ca8711@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_6dd8311c19b8d0f892cb33a89ce2f4ebef607899b93ff73505aca2cfe2ca8711@devRoot-D-R.obfuscated.ilog)
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 9aa94
+Action is completely same :)
+Action is completely same :)
+b29e6a69: There is no difference. (tryAgain=false)
+-- HPFinder will be done in this iteration :)
+hasAntiAnalysis? - devTamper: false on com.safesys.superexplorer.RootExplorer
+hasAntiAnalysis? - devRoot: true on com.safesys.superexplorer.RootExplorer
+	isRemovedThem? - devRoot: true on com.safesys.superexplorer.RootExplorer	-	tryCount: 6
+hasAntiAnalysis? - devDebug: false on com.safesys.superexplorer.RootExplorer
+*****REPORT: com.safesys.superexplorer
+* Package name: com.safesys.superexplorer
+* Running time: 188
+* FileSize: 506969
+devTamper : 2270703
+devRef : 2270703
+devRoot : 2270701
+devDebug : 2270703
+hasAntiAnalysis? - devTamper: false on com.safesys.superexplorer.RootExplorer
+hasAntiAnalysis? - devRoot: true on com.safesys.superexplorer.RootExplorer
+	isRemovedThem? - devRoot: true on com.safesys.superexplorer.RootExplorer	-	tryCount: 6
+hasAntiAnalysis? - devDebug: false on com.safesys.superexplorer.RootExplorer
+46604b9f: trying remove : com.safesys.superexplorer
+3601a6ff: trying remove : com.safesys.superexplorer
+b29e6a69: trying remove : com.safesys.superexplorer
+159ceeed: trying remove : com.safesys.superexplorer
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+3601a6ff: result = true
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+46604b9f: result = true
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+159ceeed: result = true
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+b29e6a69: result = true
+3601a6ff: isFailedToLaunch: com.safesys.superexplorer/.RootExplorer
+3601a6ff: 	--result: Good :)

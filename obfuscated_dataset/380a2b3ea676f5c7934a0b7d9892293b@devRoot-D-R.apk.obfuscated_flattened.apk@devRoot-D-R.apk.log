@@ -1,0 +1,874 @@
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample93.apk@devRoot-D-R.apk.obfuscated_flattened.apk@devRoot-D-R/AndroidManifest.xml
+launchable-activity: name='com.frankly.ui.base.StartActivity'  label='' icon=''
+{ACTIVITY, com.frankly.ui.lib_licences.LicencesActivity}
+{ACTIVITY, com.frankly.ui.base.StartActivity, android.intent.action.MAIN, android.intent.action.VIEW}
+{ACTIVITY, com.frankly.ui.auth.AuthActivity}
+{ACTIVITY, com.frankly.ui.MainTabActivity}
+{ACTIVITY, com.frankly.ui.location.MapLocationActivity}
+{ACTIVITY, com.frankly.ui.questions.QuestionActivity}
+{ACTIVITY, com.frankly.ui.settings.activity.CropActivity}
+{ACTIVITY, com.frankly.ui.settings.activity.ChangeProfileActivity}
+{ACTIVITY, com.frankly.ui.base.ArticleActivity}
+{ACTIVITY, com.frankly.ui.tutorials.newuser.NewUserActivity}
+{ACTIVITY, com.frankly.ui.actions.details.ActionDetailActivity}
+{ACTIVITY, com.frankly.ui.conclusions.ConclusionsActivity}
+{ACTIVITY, com.frankly.ui.actions.create_edit.ActionEditorActivity}
+{RECEIVER, com.frankly.receivers.TimeZoneChangedReceiver, android.intent.action.TIMEZONE_CHANGED}
+{RECEIVER, com.andfrankly.app.services.fences.LocationFenceReceiver, com.frankly.LocationFenceReceiver.FENCE_RECEIVER_ACTION}
+{ACTIVITY, com.frankly.ui.component.drawer.VideoPlayerActivity}
+{SERVICE, com.andfrankly.app.services.notifications.NotificationExtenderOneSignalService, com.onesignal.NotificationExtender}
+{ACTIVITY, com.frankly.text_editor.activities.Are_VideoPlayerActivity}
+{ACTIVITY, com.frankly.text_editor.activities.Are_AtPickerActivity}
+{ACTIVITY, com.frankly.text_editor.strategies.defaults.DefaultProfileActivity}
+{ACTIVITY, com.frankly.text_editor.strategies.defaults.DefaultImagePreviewActivity}
+{RECEIVER, com.onesignal.GcmBroadcastReceiver, com.google.android.c2dm.intent.RECEIVE}
+{RECEIVER, com.onesignal.NotificationOpenedReceiver}
+{SERVICE, com.onesignal.HmsMessageServiceOneSignal, com.huawei.push.action.MESSAGING_EVENT}
+{ACTIVITY, com.onesignal.NotificationOpenedActivityHMS, android.intent.action.VIEW}
+{SERVICE, com.onesignal.GcmIntentService}
+{SERVICE, com.onesignal.GcmIntentJobService}
+{SERVICE, com.onesignal.RestoreJobService}
+{SERVICE, com.onesignal.RestoreKickoffJobService}
+{SERVICE, com.onesignal.SyncService}
+{SERVICE, com.onesignal.SyncJobService}
+{ACTIVITY, com.onesignal.PermissionsActivity}
+{SERVICE, com.onesignal.NotificationRestoreService}
+{RECEIVER, com.onesignal.BootUpReceiver, android.intent.action.BOOT_COMPLETED, android.intent.action.QUICKBOOT_POWERON}
+{RECEIVER, com.onesignal.UpgradeReceiver, android.intent.action.MY_PACKAGE_REPLACED}
+{SERVICE, com.google.firebase.components.ComponentDiscoveryService}
+{SERVICE, com.google.firebase.messaging.FirebaseMessagingService, com.google.firebase.MESSAGING_EVENT}
+{RECEIVER, com.google.firebase.iid.FirebaseInstanceIdReceiver, com.google.android.c2dm.intent.RECEIVE}
+{ACTIVITY, com.google.android.gms.common.api.GoogleApiActivity}
+{RECEIVER, com.google.android.gms.measurement.AppMeasurementReceiver}
+{SERVICE, com.google.android.gms.measurement.AppMeasurementService}
+{SERVICE, com.google.android.gms.measurement.AppMeasurementJobService}
+{SERVICE, com.google.android.datatransport.runtime.backends.TransportBackendDiscovery}
+{SERVICE, com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService}
+{ACTIVITY, com.frankly.ui.lib_licences.LicencesActivity}
+{ACTIVITY, com.frankly.ui.base.StartActivity, android.intent.action.MAIN, android.intent.action.VIEW}
+{ACTIVITY, com.frankly.ui.auth.AuthActivity}
+{ACTIVITY, com.frankly.ui.MainTabActivity}
+{ACTIVITY, com.frankly.ui.location.MapLocationActivity}
+{ACTIVITY, com.frankly.ui.questions.QuestionActivity}
+{ACTIVITY, com.frankly.ui.settings.activity.CropActivity}
+{ACTIVITY, com.frankly.ui.settings.activity.ChangeProfileActivity}
+{ACTIVITY, com.frankly.ui.base.ArticleActivity}
+{ACTIVITY, com.frankly.ui.tutorials.newuser.NewUserActivity}
+{ACTIVITY, com.frankly.ui.actions.details.ActionDetailActivity}
+{ACTIVITY, com.frankly.ui.conclusions.ConclusionsActivity}
+{ACTIVITY, com.frankly.ui.actions.create_edit.ActionEditorActivity}
+{RECEIVER, com.frankly.receivers.TimeZoneChangedReceiver, android.intent.action.TIMEZONE_CHANGED}
+{RECEIVER, com.andfrankly.app.services.fences.LocationFenceReceiver, com.frankly.LocationFenceReceiver.FENCE_RECEIVER_ACTION}
+{ACTIVITY, com.frankly.ui.component.drawer.VideoPlayerActivity}
+{SERVICE, com.andfrankly.app.services.notifications.NotificationExtenderOneSignalService, com.onesignal.NotificationExtender}
+{ACTIVITY, com.frankly.text_editor.activities.Are_VideoPlayerActivity}
+{ACTIVITY, com.frankly.text_editor.activities.Are_AtPickerActivity}
+{ACTIVITY, com.frankly.text_editor.strategies.defaults.DefaultProfileActivity}
+{ACTIVITY, com.frankly.text_editor.strategies.defaults.DefaultImagePreviewActivity}
+{RECEIVER, com.onesignal.GcmBroadcastReceiver, com.google.android.c2dm.intent.RECEIVE}
+{RECEIVER, com.onesignal.NotificationOpenedReceiver}
+{SERVICE, com.onesignal.HmsMessageServiceOneSignal, com.huawei.push.action.MESSAGING_EVENT}
+{ACTIVITY, com.onesignal.NotificationOpenedActivityHMS, android.intent.action.VIEW}
+{SERVICE, com.onesignal.GcmIntentService}
+{SERVICE, com.onesignal.GcmIntentJobService}
+{SERVICE, com.onesignal.RestoreJobService}
+{SERVICE, com.onesignal.RestoreKickoffJobService}
+{SERVICE, com.onesignal.SyncService}
+{SERVICE, com.onesignal.SyncJobService}
+{ACTIVITY, com.onesignal.PermissionsActivity}
+{SERVICE, com.onesignal.NotificationRestoreService}
+{RECEIVER, com.onesignal.BootUpReceiver, android.intent.action.BOOT_COMPLETED, android.intent.action.QUICKBOOT_POWERON}
+{RECEIVER, com.onesignal.UpgradeReceiver, android.intent.action.MY_PACKAGE_REPLACED}
+{SERVICE, com.google.firebase.components.ComponentDiscoveryService}
+{SERVICE, com.google.firebase.messaging.FirebaseMessagingService, com.google.firebase.MESSAGING_EVENT}
+{RECEIVER, com.google.firebase.iid.FirebaseInstanceIdReceiver, com.google.android.c2dm.intent.RECEIVE}
+{ACTIVITY, com.google.android.gms.common.api.GoogleApiActivity}
+{RECEIVER, com.google.android.gms.measurement.AppMeasurementReceiver}
+{SERVICE, com.google.android.gms.measurement.AppMeasurementService}
+{SERVICE, com.google.android.gms.measurement.AppMeasurementJobService}
+{SERVICE, com.google.android.datatransport.runtime.backends.TransportBackendDiscovery}
+{SERVICE, com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService}
+_getAllDexFiles: /home/santapark/Extended3/DEEPerence/reEx/sample93.apk@devRoot-D-R.apk.obfuscated_flattened.apk@devRoot-D-R/classes2.dex
+_getAllDexFiles: /home/santapark/Extended3/DEEPerence/reEx/sample93.apk@devRoot-D-R.apk.obfuscated_flattened.apk@devRoot-D-R/classes.dex
+----------------/home/santapark/Extended3/DEEPerence/reEx/sample93.apk@devRoot-D-R.apk.obfuscated_flattened.apk@devRoot-D-R.apk
+dexFile = org.jf.dexlib2.dexbacked.DexBackedDexFile@54da32dc
+com.andfrankly.app
+com.frankly.ui.base.StartActivity
+debuggable: false
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample93.apk@devRoot-D-R.apk.obfuscated_flattened.apk@devRoot-D-R.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample93.apk@devRoot-D-R.apk.obfuscated_flattened.apk@devRoot-D-R.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample93.apk@devRoot-D-R.apk.obfuscated_flattened.apk@devRoot-D-R.apk
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample93.apk@devRoot-D-R.apk.obfuscated_flattened.apk@devRoot-D-R_46604b9f/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample93.apk@devRoot-D-R.apk.obfuscated_flattened.apk@devRoot-D-R_46604b9f/sample93.apk@devRoot-D-R.apk.obfuscated_flattened.apk@devRoot-D-R.apk
+159ceeed: Installation Success
+3601a6ff: Installation Success
+b29e6a69: Installation Success
+46604b9f: Installing repackaged apk File: 
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample93.apk@devRoot-D-R.apk.obfuscated_flattened.apk@devRoot-D-R_46604b9f/signed_sample93.apk@devRoot-D-R.apk.obfuscated_flattened.apk@devRoot-D-R.apk
+46604b9f: Installation Success
+46604b9f: startApplication called! - devTamper
+3601a6ff: startApplication called! - devRef
+b29e6a69: startApplication called! - devRoot
+159ceeed: startApplication called! - devDebug
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample93@devRoot-D-R.obfuscated_flattened@devRoot-D-R.ilog)
+3601a6ff: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample93@devRoot-D-R.obfuscated_flattened@devRoot-D-R.ilog)
+46604b9f: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devTamper_sample93@devRoot-D-R.obfuscated_flattened@devRoot-D-R.ilog)
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample93@devRoot-D-R.obfuscated_flattened@devRoot-D-R.ilog)
+b29e6a69: Running Application: com.andfrankly.app
+46604b9f: Running Application: com.andfrankly.app
+3601a6ff: Running Application: com.andfrankly.app
+PIDs--------------------------------------------------------------------------
+u0_a1584      14565    423 13833036 121160 0                  0 R com.andfrankly.app
+forward tcp:35535 jdwp:14565
+[*]Found JDWP Target: 14565
+159ceeed: Running Application: com.andfrankly.app
+PIDs--------------------------------------------------------------------------
+u0_a1584      14565    423 14133452 132400 0                  0 R com.andfrankly.app
+159ceeed: Tryging attach jdb to 14565
+jdb -connect com.sun.jdi.SocketAttach:hostname=localhost,port=35535
+46604b9f: Terminated logcat thread...by itself
+b29e6a69: Terminated logcat thread...by itself
+3601a6ff: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.andfrankly.app/com.frankly.ui.base.StartActivity
+PIDs--------------------------------------------------------------------------
+u0_a1044       6946    428 14454980 149964 0                  0 S com.andfrankly.app
+b29e6a69: savedPid = 6946
+PIDs--------------------------------------------------------------------------
+u0_a1044       6946    428 14454980 149964 0                  0 S com.andfrankly.app
+b29e6a69: savedPid2 = 6946
+Stopping app: com.andfrankly.app
+3601a6ff: Top-activity: com.andfrankly.app/com.frankly.ui.auth.AuthActivity
+46604b9f: Top-activity: com.andfrankly.app/com.frankly.ui.auth.AuthActivity
+PIDs--------------------------------------------------------------------------
+u0_a976       20913    414 14178632 139672 0                  0 S com.andfrankly.app
+3601a6ff: savedPid = 20913
+PIDs--------------------------------------------------------------------------
+u0_a1077       6201    425 14237060 140692 0                  0 R com.andfrankly.app
+46604b9f: savedPid = 6201
+PIDs--------------------------------------------------------------------------
+u0_a976       20913    414 14178632 139672 0                  0 S com.andfrankly.app
+3601a6ff: savedPid2 = 20913
+Stopping app: com.andfrankly.app
+PIDs--------------------------------------------------------------------------
+u0_a1077       6201    425 14237060 140692 0                  0 S com.andfrankly.app
+46604b9f: savedPid2 = 6201
+Stopping app: com.andfrankly.app
+Tryging remove : uninstall com.andfrankly.app(com.andfrankly.app)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 294559474
+b29e6a69: End of collecting logcat...
+Tryging remove : uninstall com.andfrankly.app(com.andfrankly.app)
+3601a6ff: Remove Success
+3601a6ff: ilog file size: 367832756
+3601a6ff: End of collecting logcat...
+Tryging remove : uninstall com.andfrankly.app(com.andfrankly.app)
+46604b9f: Remove Success
+46604b9f: ilog file size: 366365592
+46604b9f: End of collecting logcat...
+159ceeed: Terminated logcat thread...by itself
+159ceeed: Top-activity: com.andfrankly.app/com.frankly.ui.auth.AuthActivity
+PIDs--------------------------------------------------------------------------
+u0_a1584      14565    423 14308636 159620 0                  0 S com.andfrankly.app
+159ceeed: savedPid = 14565
+PIDs--------------------------------------------------------------------------
+u0_a1584      14565    423 14308636 159620 0                  0 R com.andfrankly.app
+159ceeed: savedPid2 = 14565
+Stopping app: com.andfrankly.app
+Tryging remove : uninstall com.andfrankly.app(com.andfrankly.app)
+159ceeed: Remove Success
+159ceeed: ilog file size: 407022002
+159ceeed: End of collecting logcat...
+HPFinder's try count remains: 29
+Target PID : 20913
+Target PID : 20913
+Target PID : 20913
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample93@devRoot-D-R.obfuscated_flattened@devRoot-D-R.ilog)
+Target PID : 6201
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample93@devRoot-D-R.obfuscated_flattened@devRoot-D-R.ilog)
+Target PID : 14565
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample93@devRoot-D-R.obfuscated_flattened@devRoot-D-R.ilog)
+Target PID : 6946
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample93@devRoot-D-R.obfuscated_flattened@devRoot-D-R.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devTamper_sample93@devRoot-D-R.obfuscated_flattened@devRoot-D-R.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample93@devRoot-D-R.obfuscated_flattened@devRoot-D-R.ilog)
+[*] FlowManager: adjust finished.
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.widget.EditText/getText:()Landroid/text/Editable;:5fc96c		=(rels)=>		1
+[*] Unique action: 1:326140 : <<CALL>> : androidx.appcompat.widget.AppCompatEditText/getText:()Landroid/text/Editable;:5fc96c  =>  android.widget.EditText/getText:()Landroid/text/Editable;:2330f8
+	1:compareBackwardBranch: 1:309703 : <<BRANCH>> : h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:9178e0  =>  h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:9178e4
+android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:781cfc		=(rels)=>		1
+[*] Unique action: 1:328780 : <<CALL>> : com.frankly.ui.auth.AuthEditView/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:781cfc  =>  android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:1959fc
+	1:compareBackwardBranch: 1:309703 : <<BRANCH>> : h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:9178e0  =>  h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:9178e4
+android.view.ViewGroup/addView:(Landroid/view/View;)V:917cd4		=(rels)=>		1
+[*] Unique action: 1:370703 : <<CALL>> : h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:917cd4  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:370684 : <<BRANCH>> : h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:917ca2  =>  h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:917ca6
+android.app.Activity/startActivity:(Landroid/content/Intent;)V:791eec		=(rels)=>		1
+[*] Unique action: 1:255076 : <<CALL>> : com.frankly.ui.base.StartActivity/d:()V:791eec  =>  android.app.Activity/startActivity:(Landroid/content/Intent;)V:19cda0
+	1:compareBackwardBranch: 1:255031 : <<BRANCH>> : com.frankly.ui.base.StartActivity/b:()V:791e1a  =>  com.frankly.ui.base.StartActivity/b:()V:791e26
+android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:64f5ec		=(rels)=>		1
+[*] Unique action: 1:318611 : <<CALL>> : androidx.constraintlayout.widget.ConstraintLayout/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:64f5ec  =>  android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:1959fc
+	1:compareBackwardBranch: 1:309703 : <<BRANCH>> : h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:9178e0  =>  h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:9178e4
+android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:781d04		=(rels)=>		1
+[*] Unique action: 1:324936 : <<CALL>> : com.frankly.ui.auth.AuthEditView/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:781d04  =>  android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:1959fc
+	1:compareBackwardBranch: 1:309703 : <<BRANCH>> : h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:9178e0  =>  h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:9178e4
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:781ca4		=(rels)=>		1
+[*] Unique action: 1:325100 : <<CALL>> : com.frankly.ui.auth.AuthEditView/a:()V:781ca4  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:309703 : <<BRANCH>> : h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:9178e0  =>  h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:9178e4
+android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:3cb632		=(rels)=>		1
+[*] Unique action: 1:407587 : <<CALL>> : dn0$d/a:(Ldn0$c;)V:3cb632  =>  android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:30ca84
+	1:compareBackwardBranch: 1:401537 : <<BRANCH>> : h2/g:(Landroidx/fragment/app/Fragment;)Landroidx/fragment/app/Fragment;:933cde  =>  h2/g:(Landroidx/fragment/app/Fragment;)Landroidx/fragment/app/Fragment;:933ce2
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:7954dc		=(rels)=>		1
+[*] Unique action: 1:89653 : <<CALL>> : com.frankly.ui.base.dialog.RootedDeviceDialog/init:(Landroid/view/LayoutInflater;Landroid/view/ViewGroup;)V:7954dc  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch2: 1:309703 : <<BRANCH>> : h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:9178e0  =>  h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:9178e4
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:792bac		=(rels)=>		1
+[*] Unique action: 1:90011 : <<CALL>> : com.frankly.ui.base.dialog.BaseDialog/onViewCreated:(Landroid/view/View;Landroid/os/Bundle;)V:792bac  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch2: 1:370684 : <<BRANCH>> : h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:917ca2  =>  h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:917ca6
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:792bdc		=(rels)=>		1
+[*] Unique action: 1:90022 : <<CALL>> : com.frankly.ui.base.dialog.BaseDialog/onViewCreated:(Landroid/view/View;Landroid/os/Bundle;)V:792bdc  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch2: 1:370684 : <<BRANCH>> : h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:917ca2  =>  h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:917ca6
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:792bc4		=(rels)=>		1
+[*] Unique action: 1:90015 : <<CALL>> : com.frankly.ui.base.dialog.BaseDialog/onViewCreated:(Landroid/view/View;Landroid/os/Bundle;)V:792bc4  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch2: 1:370684 : <<BRANCH>> : h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:917ca2  =>  h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:917ca6
+android.app.Dialog/show:()V:6aa4b4		=(rels)=>		1
+[*] Unique action: 1:99684 : <<CALL>> : androidx.fragment.app.DialogFragment/onStart:()V:6aa4b4  =>  android.app.Dialog/show:()V:1b4adc
+[*] FlowManager: adjust finished.
+Action is completely same :)
+Action is completely same :)
+46604b9f: There is no difference. (tryAgain=false)
+[*] FlowManager: adjust finished.
+Action is completely same :)
+Action is completely same :)
+159ceeed: There is no difference. (tryAgain=false)
+	1:compareBackwardBranch2: 1:374329 : <<BRANCH>> : h2/g:(Landroidx/fragment/app/Fragment;)Landroidx/fragment/app/Fragment;:933cde  =>  h2/g:(Landroidx/fragment/app/Fragment;)Landroidx/fragment/app/Fragment;:933ce2
+Entry: 915d5c
+h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V: 9178e0 -> 9178e4
+		h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V: 1b84 -> 1b88
+addPatchReadme: java.lang.Class<h2>a(Landroidx/fragment/app/Fragment;IIIZ)V 1b84 f
+Entry: 915d5c
+h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V: 917ca2 -> 917ca6
+		h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V: 1f46 -> 1f4a
+addPatchReadme: java.lang.Class<h2>a(Landroidx/fragment/app/Fragment;IIIZ)V 1f46 f
+Entry: 791e08
+com.frankly.ui.base.StartActivity/b:()V: 791e1a -> 791e26
+		com.frankly.ui.base.StartActivity/b:()V: 12 -> 1e
+addPatchReadme: java.lang.Class<com.frankly.ui.base.StartActivity>b()V 12 t
+Entry: 933c00
+h2/g:(Landroidx/fragment/app/Fragment;)Landroidx/fragment/app/Fragment;: 933cde -> 933ce2
+		h2/g:(Landroidx/fragment/app/Fragment;)Landroidx/fragment/app/Fragment;: de -> e2
+addPatchReadme: java.lang.Class<h2>g(Landroidx/fragment/app/Fragment;)Landroidx/fragment/app/Fragment; de f
+b29e6a69: [+] Patches found in this round: 4
+b29e6a69: [*] Found Patch size: 1
+Target PID : 
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample93@devRoot-D-R.obfuscated_flattened@devRoot-D-R.ilog)
+b29e6a69: 	@@@Found patch addr: 933cee
+b29e6a69: Querying offset: 933cde
+b29e6a69: 	--Add method name to patch = h2/g:(Landroidx/fragment/app/Fragment;)Landroidx/fragment/app/Fragment; 	933cde
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: patching method: h2/g:(Landroidx/fragment/app/Fragment;)Landroidx/fragment/app/Fragment;
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample93.apk@devRoot-D-R.apk.obfuscated_flattened.apk@devRoot-D-R_devRoot
+Wow!!!!!  --  h2/g:(Landroidx/fragment/app/Fragment;)Landroidx/fragment/app/Fragment;
+fallthrough: e2
+branchTarget: e2
+NOP!
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample93.apk@devRoot-D-R.apk.obfuscated_flattened.apk@devRoot-D-R_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample93.apk@devRoot-D-R.apk.obfuscated_flattened.apk@devRoot-D-R_devRoot/sample93.apk@devRoot-D-R.apk.obfuscated_flattened.apk@devRoot-D-R.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample93.apk@devRoot-D-R.apk.obfuscated_flattened.apk@devRoot-D-R_devRoot/signed_sample93.apk@devRoot-D-R.apk.obfuscated_flattened.apk@devRoot-D-R.apk
+b29e6a69: First address of Lh2;->g(Landroidx/fragment/app/Fragment;)Landroidx/fragment/app/Fragment; = 933c10
+b29e6a69: Address - Lh2;->g(Landroidx/fragment/app/Fragment;)Landroidx/fragment/app/Fragment;@de	 lastOffset = 690
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample93.apk@devRoot-D-R.apk.obfuscated_flattened.apk@devRoot-D-R_devRoot/signed_sample93.apk@devRoot-D-R.apk.obfuscated_flattened.apk@devRoot-D-R.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample93@devRoot-D-R.obfuscated_flattened@devRoot-D-R.ilog)
+b29e6a69: Running Application: com.andfrankly.app
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.andfrankly.app/com.frankly.ui.base.StartActivity
+PIDs--------------------------------------------------------------------------
+u0_a1045       7103    428 14415816 147148 0                  0 S com.andfrankly.app
+b29e6a69: savedPid = 7103
+PIDs--------------------------------------------------------------------------
+u0_a1045       7103    428 14415816 147148 0                  0 S com.andfrankly.app
+b29e6a69: savedPid2 = 7103
+Stopping app: com.andfrankly.app
+Tryging remove : uninstall com.andfrankly.app(com.andfrankly.app)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 294584806
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 28
+Target PID : 20913
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample93@devRoot-D-R.obfuscated_flattened@devRoot-D-R.ilog)
+Target PID : 7103
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample93@devRoot-D-R.obfuscated_flattened@devRoot-D-R.ilog)
+b29e6a69: adding filter -- 933cde
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 933cde
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.widget.EditText/getText:()Landroid/text/Editable;:5fc96c		=(rels)=>		1
+[*] Unique action: 1:326140 : <<CALL>> : androidx.appcompat.widget.AppCompatEditText/getText:()Landroid/text/Editable;:5fc96c  =>  android.widget.EditText/getText:()Landroid/text/Editable;:2330f8
+	1:compareBackwardBranch: 1:309703 : <<BRANCH>> : h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:9178e0  =>  h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:9178e4
+android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:781cfc		=(rels)=>		1
+[*] Unique action: 1:328780 : <<CALL>> : com.frankly.ui.auth.AuthEditView/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:781cfc  =>  android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:1959fc
+	1:compareBackwardBranch: 1:309703 : <<BRANCH>> : h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:9178e0  =>  h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:9178e4
+android.view.ViewGroup/addView:(Landroid/view/View;)V:917cd4		=(rels)=>		1
+[*] Unique action: 1:370703 : <<CALL>> : h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:917cd4  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:370684 : <<BRANCH>> : h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:917ca2  =>  h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:917ca6
+android.app.Activity/startActivity:(Landroid/content/Intent;)V:791eec		=(rels)=>		1
+[*] Unique action: 1:255076 : <<CALL>> : com.frankly.ui.base.StartActivity/d:()V:791eec  =>  android.app.Activity/startActivity:(Landroid/content/Intent;)V:19cda0
+	1:compareBackwardBranch: 1:255031 : <<BRANCH>> : com.frankly.ui.base.StartActivity/b:()V:791e1a  =>  com.frankly.ui.base.StartActivity/b:()V:791e26
+android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:64f5ec		=(rels)=>		1
+[*] Unique action: 1:318611 : <<CALL>> : androidx.constraintlayout.widget.ConstraintLayout/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:64f5ec  =>  android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:1959fc
+	1:compareBackwardBranch: 1:309703 : <<BRANCH>> : h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:9178e0  =>  h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:9178e4
+android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:781d04		=(rels)=>		1
+[*] Unique action: 1:324936 : <<CALL>> : com.frankly.ui.auth.AuthEditView/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:781d04  =>  android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:1959fc
+	1:compareBackwardBranch: 1:309703 : <<BRANCH>> : h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:9178e0  =>  h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:9178e4
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:781ca4		=(rels)=>		1
+[*] Unique action: 1:325100 : <<CALL>> : com.frankly.ui.auth.AuthEditView/a:()V:781ca4  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:309703 : <<BRANCH>> : h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:9178e0  =>  h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:9178e4
+android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:3cb632		=(rels)=>		1
+[*] Unique action: 1:407587 : <<CALL>> : dn0$d/a:(Ldn0$c;)V:3cb632  =>  android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:30ca84
+	1:compareBackwardBranch: 1:371761 : <<BRANCH>> : h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:917ea6  =>  h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:917eaa
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:7954dc		=(rels)=>		1
+[*] Unique action: 1:87691 : <<CALL>> : com.frankly.ui.base.dialog.RootedDeviceDialog/init:(Landroid/view/LayoutInflater;Landroid/view/ViewGroup;)V:7954dc  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch2: 1:309703 : <<BRANCH>> : h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:9178e0  =>  h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:9178e4
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:792bac		=(rels)=>		1
+[*] Unique action: 1:88063 : <<CALL>> : com.frankly.ui.base.dialog.BaseDialog/onViewCreated:(Landroid/view/View;Landroid/os/Bundle;)V:792bac  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch2: 1:370684 : <<BRANCH>> : h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:917ca2  =>  h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:917ca6
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:792bdc		=(rels)=>		1
+[*] Unique action: 1:88076 : <<CALL>> : com.frankly.ui.base.dialog.BaseDialog/onViewCreated:(Landroid/view/View;Landroid/os/Bundle;)V:792bdc  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch2: 1:370684 : <<BRANCH>> : h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:917ca2  =>  h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:917ca6
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:792bc4		=(rels)=>		1
+[*] Unique action: 1:88068 : <<CALL>> : com.frankly.ui.base.dialog.BaseDialog/onViewCreated:(Landroid/view/View;Landroid/os/Bundle;)V:792bc4  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch2: 1:370684 : <<BRANCH>> : h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:917ca2  =>  h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:917ca6
+android.app.Dialog/show:()V:6aa4b4		=(rels)=>		1
+[*] Unique action: 1:97602 : <<CALL>> : androidx.fragment.app.DialogFragment/onStart:()V:6aa4b4  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch2: 1:371761 : <<BRANCH>> : h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:917ea6  =>  h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:917eaa
+Entry: 915d5c
+h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V: 9178e0 -> 9178e4
+		h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V: 1b84 -> 1b88
+addPatchReadme: java.lang.Class<h2>a(Landroidx/fragment/app/Fragment;IIIZ)V 1b84 f
+Entry: 915d5c
+h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V: 917ca2 -> 917ca6
+		h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V: 1f46 -> 1f4a
+addPatchReadme: java.lang.Class<h2>a(Landroidx/fragment/app/Fragment;IIIZ)V 1f46 f
+Entry: 791e08
+com.frankly.ui.base.StartActivity/b:()V: 791e1a -> 791e26
+		com.frankly.ui.base.StartActivity/b:()V: 12 -> 1e
+addPatchReadme: java.lang.Class<com.frankly.ui.base.StartActivity>b()V 12 t
+Entry: 915d5c
+h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V: 917ea6 -> 917eaa
+		h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V: 214a -> 214e
+addPatchReadme: java.lang.Class<h2>a(Landroidx/fragment/app/Fragment;IIIZ)V 214a f
+b29e6a69: [+] Patches found in this round: 4
+b29e6a69: [*] Found Patch size: 1
+Target PID : 
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample93@devRoot-D-R.obfuscated_flattened@devRoot-D-R.ilog)
+b29e6a69: @@localPatchFilter -- 933cee
+b29e6a69: 	@@@Found patch addr: 917eb6
+b29e6a69: Querying offset: 917ea6
+b29e6a69: 	--Add method name to patch = h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V 	917ea6
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: patching method: h2/g:(Landroidx/fragment/app/Fragment;)Landroidx/fragment/app/Fragment;
+b29e6a69: patching method: h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V
+b29e6a69: patching method: com.frankly.ui.base.StartActivity/b:()V
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample93.apk@devRoot-D-R.apk.obfuscated_flattened.apk@devRoot-D-R_devRoot
+Wow!!!!!  --  h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V
+fallthrough: 214e
+branchTarget: 214e
+NOP!
+Wow!!!!!  --  h2/g:(Landroidx/fragment/app/Fragment;)Landroidx/fragment/app/Fragment;
+fallthrough: e2
+branchTarget: e2
+NOP!
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample93.apk@devRoot-D-R.apk.obfuscated_flattened.apk@devRoot-D-R_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample93.apk@devRoot-D-R.apk.obfuscated_flattened.apk@devRoot-D-R_devRoot/sample93.apk@devRoot-D-R.apk.obfuscated_flattened.apk@devRoot-D-R.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample93.apk@devRoot-D-R.apk.obfuscated_flattened.apk@devRoot-D-R_devRoot/signed_sample93.apk@devRoot-D-R.apk.obfuscated_flattened.apk@devRoot-D-R.apk
+b29e6a69: First address of Lh2;->g(Landroidx/fragment/app/Fragment;)Landroidx/fragment/app/Fragment; = 933c10
+b29e6a69: Address - Lh2;->g(Landroidx/fragment/app/Fragment;)Landroidx/fragment/app/Fragment;@de	 lastOffset = 690
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Lh2;->a(Landroidx/fragment/app/Fragment;IIIZ)V = 915d6c
+b29e6a69: Address - Lh2;->a(Landroidx/fragment/app/Fragment;IIIZ)V@214a	 lastOffset = 6b74
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample93.apk@devRoot-D-R.apk.obfuscated_flattened.apk@devRoot-D-R_devRoot/signed_sample93.apk@devRoot-D-R.apk.obfuscated_flattened.apk@devRoot-D-R.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample93@devRoot-D-R.obfuscated_flattened@devRoot-D-R.ilog)
+b29e6a69: Running Application: com.andfrankly.app
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.andfrankly.app/com.frankly.ui.base.StartActivity
+PIDs--------------------------------------------------------------------------
+u0_a1046       7261    428 14473412 150120 0                  0 S com.andfrankly.app
+b29e6a69: savedPid = 7261
+PIDs--------------------------------------------------------------------------
+u0_a1046       7261    428 14473412 150120 0                  0 S com.andfrankly.app
+b29e6a69: savedPid2 = 7261
+Stopping app: com.andfrankly.app
+Tryging remove : uninstall com.andfrankly.app(com.andfrankly.app)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 294606826
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 27
+Target PID : 20913
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample93@devRoot-D-R.obfuscated_flattened@devRoot-D-R.ilog)
+Target PID : 7261
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample93@devRoot-D-R.obfuscated_flattened@devRoot-D-R.ilog)
+b29e6a69: adding filter -- 933cde
+b29e6a69: adding filter -- 917ea6
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 917ea6
+-- current localPatchFilter: 933cde
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.widget.EditText/getText:()Landroid/text/Editable;:5fc96c		=(rels)=>		1
+[*] Unique action: 1:326140 : <<CALL>> : androidx.appcompat.widget.AppCompatEditText/getText:()Landroid/text/Editable;:5fc96c  =>  android.widget.EditText/getText:()Landroid/text/Editable;:2330f8
+	1:compareBackwardBranch: 1:309703 : <<BRANCH>> : h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:9178e0  =>  h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:9178e4
+android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:781cfc		=(rels)=>		1
+[*] Unique action: 1:328780 : <<CALL>> : com.frankly.ui.auth.AuthEditView/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:781cfc  =>  android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:1959fc
+	1:compareBackwardBranch: 1:309703 : <<BRANCH>> : h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:9178e0  =>  h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:9178e4
+android.view.ViewGroup/addView:(Landroid/view/View;)V:917cd4		=(rels)=>		1
+[*] Unique action: 1:370703 : <<CALL>> : h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:917cd4  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:370684 : <<BRANCH>> : h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:917ca2  =>  h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:917ca6
+android.app.Activity/startActivity:(Landroid/content/Intent;)V:791eec		=(rels)=>		1
+[*] Unique action: 1:255076 : <<CALL>> : com.frankly.ui.base.StartActivity/d:()V:791eec  =>  android.app.Activity/startActivity:(Landroid/content/Intent;)V:19cda0
+	1:compareBackwardBranch: 1:255031 : <<BRANCH>> : com.frankly.ui.base.StartActivity/b:()V:791e1a  =>  com.frankly.ui.base.StartActivity/b:()V:791e26
+android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:64f5ec		=(rels)=>		1
+[*] Unique action: 1:318611 : <<CALL>> : androidx.constraintlayout.widget.ConstraintLayout/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:64f5ec  =>  android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:1959fc
+	1:compareBackwardBranch: 1:309703 : <<BRANCH>> : h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:9178e0  =>  h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:9178e4
+android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:781d04		=(rels)=>		1
+[*] Unique action: 1:324936 : <<CALL>> : com.frankly.ui.auth.AuthEditView/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:781d04  =>  android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:1959fc
+	1:compareBackwardBranch: 1:309703 : <<BRANCH>> : h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:9178e0  =>  h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:9178e4
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:781ca4		=(rels)=>		1
+[*] Unique action: 1:325100 : <<CALL>> : com.frankly.ui.auth.AuthEditView/a:()V:781ca4  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:309703 : <<BRANCH>> : h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:9178e0  =>  h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:9178e4
+android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:3cb632		=(rels)=>		1
+[*] Unique action: 1:407587 : <<CALL>> : dn0$d/a:(Ldn0$c;)V:3cb632  =>  android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:30ca84
+	1:compareBackwardBranch: 1:374673 : <<BRANCH>> : h2/o:(Landroidx/fragment/app/Fragment;)V:938c7c  =>  h2/o:(Landroidx/fragment/app/Fragment;)V:938c80
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:7954dc		=(rels)=>		1
+[*] Unique action: 1:88870 : <<CALL>> : com.frankly.ui.base.dialog.RootedDeviceDialog/init:(Landroid/view/LayoutInflater;Landroid/view/ViewGroup;)V:7954dc  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch2: 1:309703 : <<BRANCH>> : h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:9178e0  =>  h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:9178e4
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:792bac		=(rels)=>		1
+[*] Unique action: 1:89115 : <<CALL>> : com.frankly.ui.base.dialog.BaseDialog/onViewCreated:(Landroid/view/View;Landroid/os/Bundle;)V:792bac  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch2: 1:370684 : <<BRANCH>> : h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:917ca2  =>  h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:917ca6
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:792bdc		=(rels)=>		1
+[*] Unique action: 1:89128 : <<CALL>> : com.frankly.ui.base.dialog.BaseDialog/onViewCreated:(Landroid/view/View;Landroid/os/Bundle;)V:792bdc  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch2: 1:370684 : <<BRANCH>> : h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:917ca2  =>  h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:917ca6
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:792bc4		=(rels)=>		1
+[*] Unique action: 1:89120 : <<CALL>> : com.frankly.ui.base.dialog.BaseDialog/onViewCreated:(Landroid/view/View;Landroid/os/Bundle;)V:792bc4  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch2: 1:370684 : <<BRANCH>> : h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:917ca2  =>  h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:917ca6
+android.app.Dialog/show:()V:6aa4b4		=(rels)=>		1
+[*] Unique action: 1:98803 : <<CALL>> : androidx.fragment.app.DialogFragment/onStart:()V:6aa4b4  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch2: 1:374673 : <<BRANCH>> : h2/o:(Landroidx/fragment/app/Fragment;)V:938c7c  =>  h2/o:(Landroidx/fragment/app/Fragment;)V:938c80
+Entry: 915d5c
+h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V: 9178e0 -> 9178e4
+		h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V: 1b84 -> 1b88
+addPatchReadme: java.lang.Class<h2>a(Landroidx/fragment/app/Fragment;IIIZ)V 1b84 f
+Entry: 915d5c
+h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V: 917ca2 -> 917ca6
+		h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V: 1f46 -> 1f4a
+addPatchReadme: java.lang.Class<h2>a(Landroidx/fragment/app/Fragment;IIIZ)V 1f46 f
+Entry: 791e08
+com.frankly.ui.base.StartActivity/b:()V: 791e1a -> 791e26
+		com.frankly.ui.base.StartActivity/b:()V: 12 -> 1e
+addPatchReadme: java.lang.Class<com.frankly.ui.base.StartActivity>b()V 12 t
+Entry: 938430
+h2/o:(Landroidx/fragment/app/Fragment;)V: 938c7c -> 938c80
+		h2/o:(Landroidx/fragment/app/Fragment;)V: 84c -> 850
+addPatchReadme: java.lang.Class<h2>o(Landroidx/fragment/app/Fragment;)V 84c f
+b29e6a69: [+] Patches found in this round: 4
+b29e6a69: [*] Found Patch size: 1
+Target PID : 
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample93@devRoot-D-R.obfuscated_flattened@devRoot-D-R.ilog)
+b29e6a69: @@localPatchFilter -- 917eb6
+b29e6a69: @@localPatchFilter -- 933cee
+b29e6a69: 	@@@Found patch addr: 938c8c
+b29e6a69: Querying offset: 938c7c
+b29e6a69: 	--Add method name to patch = h2/o:(Landroidx/fragment/app/Fragment;)V 	938c7c
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: patching method: h2/o:(Landroidx/fragment/app/Fragment;)V
+b29e6a69: patching method: h2/g:(Landroidx/fragment/app/Fragment;)Landroidx/fragment/app/Fragment;
+b29e6a69: patching method: h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V
+b29e6a69: patching method: com.frankly.ui.base.StartActivity/b:()V
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample93.apk@devRoot-D-R.apk.obfuscated_flattened.apk@devRoot-D-R_devRoot
+Wow!!!!!  --  h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V
+fallthrough: 214e
+branchTarget: 214e
+NOP!
+Wow!!!!!  --  h2/g:(Landroidx/fragment/app/Fragment;)Landroidx/fragment/app/Fragment;
+fallthrough: e2
+branchTarget: e2
+NOP!
+Wow!!!!!  --  h2/o:(Landroidx/fragment/app/Fragment;)V
+fallthrough: 850
+branchTarget: 850
+NOP!
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample93.apk@devRoot-D-R.apk.obfuscated_flattened.apk@devRoot-D-R_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample93.apk@devRoot-D-R.apk.obfuscated_flattened.apk@devRoot-D-R_devRoot/sample93.apk@devRoot-D-R.apk.obfuscated_flattened.apk@devRoot-D-R.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample93.apk@devRoot-D-R.apk.obfuscated_flattened.apk@devRoot-D-R_devRoot/signed_sample93.apk@devRoot-D-R.apk.obfuscated_flattened.apk@devRoot-D-R.apk
+b29e6a69: First address of Lh2;->o(Landroidx/fragment/app/Fragment;)V = 938440
+b29e6a69: Address - Lh2;->o(Landroidx/fragment/app/Fragment;)V@84c	 lastOffset = 1358
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Lh2;->g(Landroidx/fragment/app/Fragment;)Landroidx/fragment/app/Fragment; = 933c10
+b29e6a69: Address - Lh2;->g(Landroidx/fragment/app/Fragment;)Landroidx/fragment/app/Fragment;@de	 lastOffset = 690
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Lh2;->a(Landroidx/fragment/app/Fragment;IIIZ)V = 915d6c
+b29e6a69: Address - Lh2;->a(Landroidx/fragment/app/Fragment;IIIZ)V@214a	 lastOffset = 6b74
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample93.apk@devRoot-D-R.apk.obfuscated_flattened.apk@devRoot-D-R_devRoot/signed_sample93.apk@devRoot-D-R.apk.obfuscated_flattened.apk@devRoot-D-R.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample93@devRoot-D-R.obfuscated_flattened@devRoot-D-R.ilog)
+b29e6a69: Running Application: com.andfrankly.app
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.andfrankly.app/com.frankly.ui.base.StartActivity
+PIDs--------------------------------------------------------------------------
+u0_a1047       7417    428 14479304 148376 0                  0 S com.andfrankly.app
+b29e6a69: savedPid = 7417
+PIDs--------------------------------------------------------------------------
+u0_a1047       7417    428 14479304 148376 0                  0 S com.andfrankly.app
+b29e6a69: savedPid2 = 7417
+Stopping app: com.andfrankly.app
+Tryging remove : uninstall com.andfrankly.app(com.andfrankly.app)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 294639216
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 26
+Target PID : 20913
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample93@devRoot-D-R.obfuscated_flattened@devRoot-D-R.ilog)
+Target PID : 7417
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample93@devRoot-D-R.obfuscated_flattened@devRoot-D-R.ilog)
+b29e6a69: adding filter -- 933cde
+b29e6a69: adding filter -- 917ea6
+b29e6a69: adding filter -- 938c7c
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 917ea6
+-- current localPatchFilter: 933cde
+-- current localPatchFilter: 938c7c
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.widget.EditText/getText:()Landroid/text/Editable;:5fc96c		=(rels)=>		1
+[*] Unique action: 1:326140 : <<CALL>> : androidx.appcompat.widget.AppCompatEditText/getText:()Landroid/text/Editable;:5fc96c  =>  android.widget.EditText/getText:()Landroid/text/Editable;:2330f8
+	1:compareBackwardBranch: 1:309703 : <<BRANCH>> : h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:9178e0  =>  h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:9178e4
+android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:781cfc		=(rels)=>		1
+[*] Unique action: 1:328780 : <<CALL>> : com.frankly.ui.auth.AuthEditView/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:781cfc  =>  android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:1959fc
+	1:compareBackwardBranch: 1:309703 : <<BRANCH>> : h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:9178e0  =>  h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:9178e4
+android.view.ViewGroup/addView:(Landroid/view/View;)V:917cd4		=(rels)=>		1
+[*] Unique action: 1:370703 : <<CALL>> : h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:917cd4  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:370684 : <<BRANCH>> : h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:917ca2  =>  h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:917ca6
+android.app.Activity/startActivity:(Landroid/content/Intent;)V:791eec		=(rels)=>		1
+[*] Unique action: 1:255076 : <<CALL>> : com.frankly.ui.base.StartActivity/d:()V:791eec  =>  android.app.Activity/startActivity:(Landroid/content/Intent;)V:19cda0
+	1:compareBackwardBranch: 1:255031 : <<BRANCH>> : com.frankly.ui.base.StartActivity/b:()V:791e1a  =>  com.frankly.ui.base.StartActivity/b:()V:791e26
+android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:64f5ec		=(rels)=>		1
+[*] Unique action: 1:318611 : <<CALL>> : androidx.constraintlayout.widget.ConstraintLayout/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:64f5ec  =>  android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:1959fc
+	1:compareBackwardBranch: 1:309703 : <<BRANCH>> : h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:9178e0  =>  h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:9178e4
+android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:781d04		=(rels)=>		1
+[*] Unique action: 1:324936 : <<CALL>> : com.frankly.ui.auth.AuthEditView/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:781d04  =>  android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:1959fc
+	1:compareBackwardBranch: 1:309703 : <<BRANCH>> : h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:9178e0  =>  h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:9178e4
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:781ca4		=(rels)=>		1
+[*] Unique action: 1:325100 : <<CALL>> : com.frankly.ui.auth.AuthEditView/a:()V:781ca4  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:309703 : <<BRANCH>> : h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:9178e0  =>  h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:9178e4
+android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:3cb632		=(rels)=>		1
+[*] Unique action: 1:407587 : <<CALL>> : dn0$d/a:(Ldn0$c;)V:3cb632  =>  android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:30ca84
+	1:compareBackwardBranch: 1:376051 : <<BRANCH>> : h2/o:(Landroidx/fragment/app/Fragment;)V:938e20  =>  h2/o:(Landroidx/fragment/app/Fragment;)V:938e24
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:7954dc		=(rels)=>		1
+[*] Unique action: 1:87431 : <<CALL>> : com.frankly.ui.base.dialog.RootedDeviceDialog/init:(Landroid/view/LayoutInflater;Landroid/view/ViewGroup;)V:7954dc  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch2: 1:309703 : <<BRANCH>> : h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:9178e0  =>  h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:9178e4
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:792bac		=(rels)=>		1
+[*] Unique action: 1:87806 : <<CALL>> : com.frankly.ui.base.dialog.BaseDialog/onViewCreated:(Landroid/view/View;Landroid/os/Bundle;)V:792bac  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch2: 1:370684 : <<BRANCH>> : h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:917ca2  =>  h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:917ca6
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:792bdc		=(rels)=>		1
+[*] Unique action: 1:87820 : <<CALL>> : com.frankly.ui.base.dialog.BaseDialog/onViewCreated:(Landroid/view/View;Landroid/os/Bundle;)V:792bdc  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch2: 1:370684 : <<BRANCH>> : h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:917ca2  =>  h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:917ca6
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:792bc4		=(rels)=>		1
+[*] Unique action: 1:87811 : <<CALL>> : com.frankly.ui.base.dialog.BaseDialog/onViewCreated:(Landroid/view/View;Landroid/os/Bundle;)V:792bc4  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch2: 1:370684 : <<BRANCH>> : h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:917ca2  =>  h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:917ca6
+android.app.Dialog/show:()V:6aa4b4		=(rels)=>		1
+[*] Unique action: 1:98900 : <<CALL>> : androidx.fragment.app.DialogFragment/onStart:()V:6aa4b4  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch2: 1:376051 : <<BRANCH>> : h2/o:(Landroidx/fragment/app/Fragment;)V:938e20  =>  h2/o:(Landroidx/fragment/app/Fragment;)V:938e24
+Entry: 915d5c
+h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V: 9178e0 -> 9178e4
+		h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V: 1b84 -> 1b88
+addPatchReadme: java.lang.Class<h2>a(Landroidx/fragment/app/Fragment;IIIZ)V 1b84 f
+Entry: 915d5c
+h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V: 917ca2 -> 917ca6
+		h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V: 1f46 -> 1f4a
+addPatchReadme: java.lang.Class<h2>a(Landroidx/fragment/app/Fragment;IIIZ)V 1f46 f
+Entry: 791e08
+com.frankly.ui.base.StartActivity/b:()V: 791e1a -> 791e26
+		com.frankly.ui.base.StartActivity/b:()V: 12 -> 1e
+addPatchReadme: java.lang.Class<com.frankly.ui.base.StartActivity>b()V 12 t
+Entry: 938430
+h2/o:(Landroidx/fragment/app/Fragment;)V: 938e20 -> 938e24
+		h2/o:(Landroidx/fragment/app/Fragment;)V: 9f0 -> 9f4
+addPatchReadme: java.lang.Class<h2>o(Landroidx/fragment/app/Fragment;)V 9f0 f
+b29e6a69: [+] Patches found in this round: 4
+b29e6a69: [*] Found Patch size: 1
+Target PID : 
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample93@devRoot-D-R.obfuscated_flattened@devRoot-D-R.ilog)
+b29e6a69: @@localPatchFilter -- 917eb6
+b29e6a69: @@localPatchFilter -- 933cee
+b29e6a69: @@localPatchFilter -- 938c8c
+b29e6a69: 	@@@Found patch addr: 938e30
+b29e6a69: Querying offset: 938e20
+b29e6a69: 	--Add method name to patch = h2/o:(Landroidx/fragment/app/Fragment;)V 	938e20
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: patching method: h2/o:(Landroidx/fragment/app/Fragment;)V
+b29e6a69: patching method: h2/g:(Landroidx/fragment/app/Fragment;)Landroidx/fragment/app/Fragment;
+b29e6a69: patching method: h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V
+b29e6a69: patching method: com.frankly.ui.base.StartActivity/b:()V
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample93.apk@devRoot-D-R.apk.obfuscated_flattened.apk@devRoot-D-R_devRoot
+Wow!!!!!  --  h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V
+fallthrough: 214e
+branchTarget: 214e
+NOP!
+Wow!!!!!  --  h2/g:(Landroidx/fragment/app/Fragment;)Landroidx/fragment/app/Fragment;
+fallthrough: e2
+branchTarget: e2
+NOP!
+Wow!!!!!  --  h2/o:(Landroidx/fragment/app/Fragment;)V
+fallthrough: 850
+branchTarget: 850
+NOP!
+Wow!!!!!  --  h2/o:(Landroidx/fragment/app/Fragment;)V
+fallthrough: 9f4
+branchTarget: 9f4
+NOP!
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample93.apk@devRoot-D-R.apk.obfuscated_flattened.apk@devRoot-D-R_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample93.apk@devRoot-D-R.apk.obfuscated_flattened.apk@devRoot-D-R_devRoot/sample93.apk@devRoot-D-R.apk.obfuscated_flattened.apk@devRoot-D-R.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample93.apk@devRoot-D-R.apk.obfuscated_flattened.apk@devRoot-D-R_devRoot/signed_sample93.apk@devRoot-D-R.apk.obfuscated_flattened.apk@devRoot-D-R.apk
+b29e6a69: First address of Lh2;->o(Landroidx/fragment/app/Fragment;)V = 938440
+b29e6a69: Address - Lh2;->o(Landroidx/fragment/app/Fragment;)V@9f0	 lastOffset = 1358
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Lh2;->o(Landroidx/fragment/app/Fragment;)V = 938440
+b29e6a69: Address - Lh2;->o(Landroidx/fragment/app/Fragment;)V@84c	 lastOffset = 1358
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Lh2;->g(Landroidx/fragment/app/Fragment;)Landroidx/fragment/app/Fragment; = 933c10
+b29e6a69: Address - Lh2;->g(Landroidx/fragment/app/Fragment;)Landroidx/fragment/app/Fragment;@de	 lastOffset = 690
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Lh2;->a(Landroidx/fragment/app/Fragment;IIIZ)V = 915d6c
+b29e6a69: Address - Lh2;->a(Landroidx/fragment/app/Fragment;IIIZ)V@214a	 lastOffset = 6b74
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample93.apk@devRoot-D-R.apk.obfuscated_flattened.apk@devRoot-D-R_devRoot/signed_sample93.apk@devRoot-D-R.apk.obfuscated_flattened.apk@devRoot-D-R.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample93@devRoot-D-R.obfuscated_flattened@devRoot-D-R.ilog)
+b29e6a69: Running Application: com.andfrankly.app
+b29e6a69: Running is done - starting comparing... : 15001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+b29e6a69: savedPid = null
+PIDs--------------------------------------------------------------------------
+b29e6a69: savedPid2 = null
+Stopping app: com.andfrankly.app
+Tryging remove : uninstall com.andfrankly.app(com.andfrankly.app)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 35479210
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 25
+Target PID : 20913
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample93@devRoot-D-R.obfuscated_flattened@devRoot-D-R.ilog)
+Target PID : 
+ExitReason-Code: 5 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample93@devRoot-D-R.obfuscated_flattened@devRoot-D-R.ilog)
+b29e6a69: /home/santapark/Extended3/DEEPerence/reEx/sample93.apk@devRoot-D-R.apk.obfuscated_flattened.apk@devRoot-D-R.apk launch is failed on devRoot
+b29e6a69: Failed Patch: 938e30
+b29e6a69: adding filter -- 933cde
+b29e6a69: adding filter -- 917ea6
+b29e6a69: adding filter -- 938c7c
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 938e20
+-- current localPatchFilter: 917ea6
+-- current localPatchFilter: 933cde
+-- current localPatchFilter: 938c7c
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.widget.EditText/getText:()Landroid/text/Editable;:5fc96c		=(rels)=>		1
+[*] Unique action: 1:326140 : <<CALL>> : androidx.appcompat.widget.AppCompatEditText/getText:()Landroid/text/Editable;:5fc96c  =>  android.widget.EditText/getText:()Landroid/text/Editable;:2330f8
+	1:compareBackwardBranch: 1:309703 : <<BRANCH>> : h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:9178e0  =>  h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:9178e4
+android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:781cfc		=(rels)=>		1
+[*] Unique action: 1:328780 : <<CALL>> : com.frankly.ui.auth.AuthEditView/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:781cfc  =>  android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:1959fc
+	1:compareBackwardBranch: 1:309703 : <<BRANCH>> : h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:9178e0  =>  h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:9178e4
+android.view.ViewGroup/addView:(Landroid/view/View;)V:917cd4		=(rels)=>		1
+[*] Unique action: 1:370703 : <<CALL>> : h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:917cd4  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:370684 : <<BRANCH>> : h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:917ca2  =>  h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:917ca6
+android.app.Activity/startActivity:(Landroid/content/Intent;)V:791eec		=(rels)=>		1
+[*] Unique action: 1:255076 : <<CALL>> : com.frankly.ui.base.StartActivity/d:()V:791eec  =>  android.app.Activity/startActivity:(Landroid/content/Intent;)V:19cda0
+	1:compareBackwardBranch: 1:255031 : <<BRANCH>> : com.frankly.ui.base.StartActivity/b:()V:791e1a  =>  com.frankly.ui.base.StartActivity/b:()V:791e26
+android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:64f5ec		=(rels)=>		1
+[*] Unique action: 1:318611 : <<CALL>> : androidx.constraintlayout.widget.ConstraintLayout/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:64f5ec  =>  android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:1959fc
+	1:compareBackwardBranch: 1:309703 : <<BRANCH>> : h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:9178e0  =>  h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:9178e4
+android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:781d04		=(rels)=>		1
+[*] Unique action: 1:324936 : <<CALL>> : com.frankly.ui.auth.AuthEditView/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:781d04  =>  android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:1959fc
+	1:compareBackwardBranch: 1:309703 : <<BRANCH>> : h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:9178e0  =>  h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:9178e4
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:781ca4		=(rels)=>		1
+[*] Unique action: 1:325100 : <<CALL>> : com.frankly.ui.auth.AuthEditView/a:()V:781ca4  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:309703 : <<BRANCH>> : h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:9178e0  =>  h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:9178e4
+android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:3cb632		=(rels)=>		1
+[*] Unique action: 1:407587 : <<CALL>> : dn0$d/a:(Ldn0$c;)V:3cb632  =>  android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:30ca84
+	1:compareBackwardBranch: 1:375156 : <<BRANCH>> : h2/a:(Landroidx/fragment/app/Fragment;IZI)Lh2$g;:9102c8  =>  h2/a:(Landroidx/fragment/app/Fragment;IZI)Lh2$g;:9102cc
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:7954dc		=(rels)=>		1
+[*] Unique action: 1:87431 : <<CALL>> : com.frankly.ui.base.dialog.RootedDeviceDialog/init:(Landroid/view/LayoutInflater;Landroid/view/ViewGroup;)V:7954dc  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch2: 1:309703 : <<BRANCH>> : h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:9178e0  =>  h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:9178e4
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:792bac		=(rels)=>		1
+[*] Unique action: 1:87806 : <<CALL>> : com.frankly.ui.base.dialog.BaseDialog/onViewCreated:(Landroid/view/View;Landroid/os/Bundle;)V:792bac  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch2: 1:370684 : <<BRANCH>> : h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:917ca2  =>  h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:917ca6
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:792bdc		=(rels)=>		1
+[*] Unique action: 1:87820 : <<CALL>> : com.frankly.ui.base.dialog.BaseDialog/onViewCreated:(Landroid/view/View;Landroid/os/Bundle;)V:792bdc  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch2: 1:370684 : <<BRANCH>> : h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:917ca2  =>  h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:917ca6
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:792bc4		=(rels)=>		1
+[*] Unique action: 1:87811 : <<CALL>> : com.frankly.ui.base.dialog.BaseDialog/onViewCreated:(Landroid/view/View;Landroid/os/Bundle;)V:792bc4  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch2: 1:370684 : <<BRANCH>> : h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:917ca2  =>  h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V:917ca6
+android.app.Dialog/show:()V:6aa4b4		=(rels)=>		1
+[*] Unique action: 1:98900 : <<CALL>> : androidx.fragment.app.DialogFragment/onStart:()V:6aa4b4  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch2: 1:375156 : <<BRANCH>> : h2/a:(Landroidx/fragment/app/Fragment;IZI)Lh2$g;:9102c8  =>  h2/a:(Landroidx/fragment/app/Fragment;IZI)Lh2$g;:9102cc
+Entry: 915d5c
+h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V: 9178e0 -> 9178e4
+		h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V: 1b84 -> 1b88
+addPatchReadme: java.lang.Class<h2>a(Landroidx/fragment/app/Fragment;IIIZ)V 1b84 f
+Entry: 90ffec
+h2/a:(Landroidx/fragment/app/Fragment;IZI)Lh2$g;: 9102c8 -> 9102cc
+		h2/a:(Landroidx/fragment/app/Fragment;IZI)Lh2$g;: 2dc -> 2e0
+addPatchReadme: java.lang.Class<h2>a(Landroidx/fragment/app/Fragment;IZI)Lh2$g; 2dc f
+Entry: 915d5c
+h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V: 917ca2 -> 917ca6
+		h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V: 1f46 -> 1f4a
+addPatchReadme: java.lang.Class<h2>a(Landroidx/fragment/app/Fragment;IIIZ)V 1f46 f
+Entry: 791e08
+com.frankly.ui.base.StartActivity/b:()V: 791e1a -> 791e26
+		com.frankly.ui.base.StartActivity/b:()V: 12 -> 1e
+addPatchReadme: java.lang.Class<com.frankly.ui.base.StartActivity>b()V 12 t
+b29e6a69: [+] Patches found in this round: 4
+b29e6a69: [*] Found Patch size: 1
+Target PID : 
+ExitReason-Code: 5 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample93@devRoot-D-R.obfuscated_flattened@devRoot-D-R.ilog)
+b29e6a69: @@localPatchFilter -- 938e30
+b29e6a69: @@localPatchFilter -- 917eb6
+b29e6a69: @@localPatchFilter -- 933cee
+b29e6a69: @@localPatchFilter -- 938c8c
+b29e6a69: 	@@@Found patch addr: 791e2a
+b29e6a69: Querying offset: 791e1a
+b29e6a69: 	--Add method name to patch = com.frankly.ui.base.StartActivity/b:()V 	791e1a
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: patching method: h2/o:(Landroidx/fragment/app/Fragment;)V
+b29e6a69: patching method: h2/a:(Landroidx/fragment/app/Fragment;IZI)Lh2$g;
+b29e6a69: patching method: h2/g:(Landroidx/fragment/app/Fragment;)Landroidx/fragment/app/Fragment;
+b29e6a69: patching method: h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V
+b29e6a69: patching method: com.frankly.ui.base.StartActivity/b:()V
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample93.apk@devRoot-D-R.apk.obfuscated_flattened.apk@devRoot-D-R_devRoot
+Wow!!!!!  --  com.frankly.ui.base.StartActivity/b:()V
+fallthrough: 16
+branchTarget: 1e
+label = cond_0
+GOTO -- 16 	1e
+Wow!!!!!  --  h2/a:(Landroidx/fragment/app/Fragment;IIIZ)V
+fallthrough: 214e
+branchTarget: 214e
+NOP!
+Wow!!!!!  --  h2/g:(Landroidx/fragment/app/Fragment;)Landroidx/fragment/app/Fragment;
+fallthrough: e2
+branchTarget: e2
+NOP!
+Wow!!!!!  --  h2/o:(Landroidx/fragment/app/Fragment;)V
+fallthrough: 850
+branchTarget: 850
+NOP!
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample93.apk@devRoot-D-R.apk.obfuscated_flattened.apk@devRoot-D-R_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample93.apk@devRoot-D-R.apk.obfuscated_flattened.apk@devRoot-D-R_devRoot/sample93.apk@devRoot-D-R.apk.obfuscated_flattened.apk@devRoot-D-R.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample93.apk@devRoot-D-R.apk.obfuscated_flattened.apk@devRoot-D-R_devRoot/signed_sample93.apk@devRoot-D-R.apk.obfuscated_flattened.apk@devRoot-D-R.apk
+b29e6a69: First address of Lh2;->o(Landroidx/fragment/app/Fragment;)V = 938440
+b29e6a69: Address - Lh2;->o(Landroidx/fragment/app/Fragment;)V@84c	 lastOffset = 1358
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Lh2;->g(Landroidx/fragment/app/Fragment;)Landroidx/fragment/app/Fragment; = 933c10
+b29e6a69: Address - Lh2;->g(Landroidx/fragment/app/Fragment;)Landroidx/fragment/app/Fragment;@de	 lastOffset = 690
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Lh2;->a(Landroidx/fragment/app/Fragment;IIIZ)V = 915d6c
+b29e6a69: Address - Lh2;->a(Landroidx/fragment/app/Fragment;IIIZ)V@214a	 lastOffset = 6b74
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Lcom/frankly/ui/base/StartActivity;->b()V = 791e18
+b29e6a69: Address - Lcom/frankly/ui/base/StartActivity;->b()V@12	 lastOffset = 24
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample93.apk@devRoot-D-R.apk.obfuscated_flattened.apk@devRoot-D-R_devRoot/signed_sample93.apk@devRoot-D-R.apk.obfuscated_flattened.apk@devRoot-D-R.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample93@devRoot-D-R.obfuscated_flattened@devRoot-D-R.ilog)
+b29e6a69: Running Application: com.andfrankly.app
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.andfrankly.app/com.frankly.ui.auth.AuthActivity
+PIDs--------------------------------------------------------------------------
+u0_a1049       7713    428 14489184 138952 0                  0 S com.andfrankly.app
+b29e6a69: savedPid = 7713
+PIDs--------------------------------------------------------------------------
+u0_a1049       7713    428 14489184 138952 0                  0 S com.andfrankly.app
+b29e6a69: savedPid2 = 7713
+Stopping app: com.andfrankly.app
+Tryging remove : uninstall com.andfrankly.app(com.andfrankly.app)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 337561798
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 24
+Target PID : 20913
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample93@devRoot-D-R.obfuscated_flattened@devRoot-D-R.ilog)
+Target PID : 7713
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample93@devRoot-D-R.obfuscated_flattened@devRoot-D-R.ilog)
+b29e6a69: adding filter -- 791e1a
+b29e6a69: adding filter -- 933cde
+b29e6a69: adding filter -- 917ea6
+b29e6a69: adding filter -- 938c7c
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 791e1a
+-- current localPatchFilter: 938e20
+-- current localPatchFilter: 917ea6
+-- current localPatchFilter: 933cde
+-- current localPatchFilter: 938c7c
+Action is completely same :)
+android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:992f4c		=(rels)=>		0
+Action is completely same :)
+b29e6a69: There is no difference. (tryAgain=false)
+-- HPFinder will be done in this iteration :)
+hasAntiAnalysis? - devTamper: false on com.frankly.ui.base.StartActivity
+hasAntiAnalysis? - devRoot: true on com.frankly.ui.base.StartActivity
+	isRemovedThem? - devRoot: true on com.frankly.ui.base.StartActivity	-	tryCount: 5
+hasAntiAnalysis? - devDebug: false on com.frankly.ui.base.StartActivity
+*****REPORT: com.andfrankly.app
+* Package name: com.andfrankly.app
+* Running time: 1527
+* FileSize: 24673911
+devTamper : 366365592
+devRef : 367832756
+devRoot : 337561798
+devDebug : 407022002
+hasAntiAnalysis? - devTamper: false on com.frankly.ui.base.StartActivity
+hasAntiAnalysis? - devRoot: true on com.frankly.ui.base.StartActivity
+	isRemovedThem? - devRoot: true on com.frankly.ui.base.StartActivity	-	tryCount: 5
+hasAntiAnalysis? - devDebug: false on com.frankly.ui.base.StartActivity
+46604b9f: trying remove : com.andfrankly.app
+3601a6ff: trying remove : com.andfrankly.app
+b29e6a69: trying remove : com.andfrankly.app
+159ceeed: trying remove : com.andfrankly.app
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+b29e6a69: result = true
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+159ceeed: result = true
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+46604b9f: result = true
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+3601a6ff: result = true
+3601a6ff: isFailedToLaunch: com.andfrankly.app/com.frankly.ui.auth.AuthActivity
+3601a6ff: 	--result: Good :)

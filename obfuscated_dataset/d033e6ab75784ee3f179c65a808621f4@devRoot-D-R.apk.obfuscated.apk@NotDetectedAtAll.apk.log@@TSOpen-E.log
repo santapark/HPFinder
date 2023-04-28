@@ -1,0 +1,195 @@
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/8f7480dc3b63b424c544fa24d77c4d1e669e9a0df061c0506a514be7d871523c.apk@devRoot-D-R.apk.obfuscated/AndroidManifest.xml
+launchable-activity: name='com.rootdddsddds1832k.z4root.z4root'  label='z4root' icon=''
+{ACTIVITY, z4root, android.intent.action.MAIN}
+{ACTIVITY, com.babaozhou.IIA}
+{ACTIVITY, com.babaozhou.IRLA}
+{ACTIVITY, com.babaozhou.IRSA}
+{RECEIVER, com.babaozhou.IRE, android.intent.action.PACKAGE_ADDED, android.intent.action.PACKAGE_REMOVED, android.net.conn.CONNECTIVITY_CHANGE, android.intent.action.USER_PRESENT, com.lseiei.downloadManager, com.cdib.b}
+{SERVICE, com.babaozhou.INS}
+{SERVICE, com.babaozhou.IBS}
+{ACTIVITY, com.babaozhou.ChildActivityA}
+{SERVICE, com.babaozhou.ChildServiceB}
+{SERVICE, com.babaozhou.ChildServiceC}
+{RECEIVER, com.babaozhou.ChildReciverD, android.intent.action.PACKAGE_ADDED, android.intent.action.USER_PRESENT}
+{ACTIVITY, Phase1}
+{ACTIVITY, Phase2}
+{ACTIVITY, PhaseRemove}
+{ACTIVITY, com.adm2.android.ads.AdMobActivity}
+{ACTIVITY, z4root, android.intent.action.MAIN}
+{ACTIVITY, com.babaozhou.IIA}
+{ACTIVITY, com.babaozhou.IRLA}
+{ACTIVITY, com.babaozhou.IRSA}
+{RECEIVER, com.babaozhou.IRE, android.intent.action.PACKAGE_ADDED, android.intent.action.PACKAGE_REMOVED, android.net.conn.CONNECTIVITY_CHANGE, android.intent.action.USER_PRESENT, com.lseiei.downloadManager, com.cdib.b}
+{SERVICE, com.babaozhou.INS}
+{SERVICE, com.babaozhou.IBS}
+{ACTIVITY, com.babaozhou.ChildActivityA}
+{SERVICE, com.babaozhou.ChildServiceB}
+{SERVICE, com.babaozhou.ChildServiceC}
+{RECEIVER, com.babaozhou.ChildReciverD, android.intent.action.PACKAGE_ADDED, android.intent.action.USER_PRESENT}
+{ACTIVITY, Phase1}
+{ACTIVITY, Phase2}
+{ACTIVITY, PhaseRemove}
+{ACTIVITY, com.adm2.android.ads.AdMobActivity}
+_getAllDexFiles: /home/santapark/Extended3/DEEPerence/reEx/8f7480dc3b63b424c544fa24d77c4d1e669e9a0df061c0506a514be7d871523c.apk@devRoot-D-R.apk.obfuscated/classes.dex
+----------------/home/santapark/Extended3/DEEPerence/reEx/8f7480dc3b63b424c544fa24d77c4d1e669e9a0df061c0506a514be7d871523c.apk@devRoot-D-R.apk.obfuscated.apk
+dexFile = org.jf.dexlib2.dexbacked.DexBackedDexFile@a74868d
+com.rootdddsddds1832k.z4root
+com.rootdddsddds1832k.z4root.z4root
+debuggable: false
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+159ceeed: (Not Installed) Trying remove : true
+46604b9f: (Not Installed) Trying remove : true
+159ceeed: -- Success
+46604b9f: -- Success
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/8f7480dc3b63b424c544fa24d77c4d1e669e9a0df061c0506a514be7d871523c.apk@devRoot-D-R.apk.obfuscated.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/8f7480dc3b63b424c544fa24d77c4d1e669e9a0df061c0506a514be7d871523c.apk@devRoot-D-R.apk.obfuscated.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/8f7480dc3b63b424c544fa24d77c4d1e669e9a0df061c0506a514be7d871523c.apk@devRoot-D-R.apk.obfuscated.apk
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/8f7480dc3b63b424c544fa24d77c4d1e669e9a0df061c0506a514be7d871523c.apk@devRoot-D-R.apk.obfuscated_46604b9f/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/8f7480dc3b63b424c544fa24d77c4d1e669e9a0df061c0506a514be7d871523c.apk@devRoot-D-R.apk.obfuscated_46604b9f/8f7480dc3b63b424c544fa24d77c4d1e669e9a0df061c0506a514be7d871523c.apk@devRoot-D-R.apk.obfuscated.apk
+46604b9f: Installing repackaged apk File: 
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/8f7480dc3b63b424c544fa24d77c4d1e669e9a0df061c0506a514be7d871523c.apk@devRoot-D-R.apk.obfuscated_46604b9f/signed_8f7480dc3b63b424c544fa24d77c4d1e669e9a0df061c0506a514be7d871523c.apk@devRoot-D-R.apk.obfuscated.apk
+159ceeed: Installation Success
+3601a6ff: Installation Success
+b29e6a69: Installation Success
+46604b9f: Installation Success
+46604b9f: startApplication called! - devTamper
+b29e6a69: startApplication called! - devRoot
+3601a6ff: startApplication called! - devRef
+159ceeed: startApplication called! - devDebug
+46604b9f: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devTamper_8f7480dc3b63b424c544fa24d77c4d1e669e9a0df061c0506a514be7d871523c@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_8f7480dc3b63b424c544fa24d77c4d1e669e9a0df061c0506a514be7d871523c@devRoot-D-R.obfuscated.ilog)
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_8f7480dc3b63b424c544fa24d77c4d1e669e9a0df061c0506a514be7d871523c@devRoot-D-R.obfuscated.ilog)
+3601a6ff: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRef_8f7480dc3b63b424c544fa24d77c4d1e669e9a0df061c0506a514be7d871523c@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Running Application: com.rootdddsddds1832k.z4root
+46604b9f: Running Application: com.rootdddsddds1832k.z4root
+3601a6ff: Running Application: com.rootdddsddds1832k.z4root
+PIDs--------------------------------------------------------------------------
+u0_a914       14512    424 1014708  88156 0                   0 R com.rootdddsddds1832k.z4root:three
+forward tcp:35535 jdwp:14512
+[*]Found JDWP Target: 14512
+159ceeed: Running Application: com.rootdddsddds1832k.z4root
+3601a6ff: Running is done - starting comparing... : 10001
+3601a6ff: Terminated logcat thread...by itself
+b29e6a69: Running is done - starting comparing... : 10001
+b29e6a69: Terminated logcat thread...by itself
+159ceeed: Running is done - starting comparing... : 10001
+159ceeed: Terminated logcat thread...by itself
+46604b9f: Running is done - starting comparing... : 10001
+46604b9f: Terminated logcat thread...by itself
+3601a6ff: Top-activity: com.rootdddsddds1832k.z4root/.z4root
+159ceeed: Top-activity: com.rootdddsddds1832k.z4root/.z4root
+PIDs--------------------------------------------------------------------------
+u0_a481       10962    415 1031148 101044 0                   0 S com.rootdddsddds1832k.z4root:three
+u0_a481       10982    415 1012520  79392 0                   0 S com.rootdddsddds1832k.z4root
+3601a6ff: savedPid = 10982
+PIDs--------------------------------------------------------------------------
+u0_a914       14512    424 1032512 104216 0                   0 S com.rootdddsddds1832k.z4root:three
+u0_a914       14534    424 1014940  82520 0                   0 S com.rootdddsddds1832k.z4root
+159ceeed: savedPid = 14534
+PIDs--------------------------------------------------------------------------
+u0_a481       10962    415 1031148 101044 0                   0 S com.rootdddsddds1832k.z4root:three
+u0_a481       10982    415 1012520  79392 0                   0 S com.rootdddsddds1832k.z4root
+3601a6ff: savedPid2 = 10982
+Stopping app: com.rootdddsddds1832k.z4root
+PIDs--------------------------------------------------------------------------
+u0_a914       14512    424 1032512 104216 0                   0 S com.rootdddsddds1832k.z4root:three
+u0_a914       14534    424 1014940  82520 0                   0 S com.rootdddsddds1832k.z4root
+159ceeed: savedPid2 = 14534
+Stopping app: com.rootdddsddds1832k.z4root
+b29e6a69: Top-activity: com.rootdddsddds1832k.z4root/.z4root
+PIDs--------------------------------------------------------------------------
+u0_a610       15198    431 1032072 102628 0                   0 S com.rootdddsddds1832k.z4root:three
+u0_a610       15219    431 1015556  79604 0                   0 S com.rootdddsddds1832k.z4root
+b29e6a69: savedPid = 15219
+PIDs--------------------------------------------------------------------------
+u0_a610       15198    431 1032072 102628 0                   0 S com.rootdddsddds1832k.z4root:three
+u0_a610       15219    431 1015556  79604 0                   0 S com.rootdddsddds1832k.z4root
+b29e6a69: savedPid2 = 15219
+Stopping app: com.rootdddsddds1832k.z4root
+46604b9f: Top-activity: com.rootdddsddds1832k.z4root/.z4root
+PIDs--------------------------------------------------------------------------
+u0_a454       12793    426 1029580 102000 0                   0 S com.rootdddsddds1832k.z4root:three
+u0_a454       12812    426 1013064  79528 0                   0 S com.rootdddsddds1832k.z4root
+46604b9f: savedPid = 12812
+PIDs--------------------------------------------------------------------------
+u0_a454       12793    426 1029580 102000 0                   0 S com.rootdddsddds1832k.z4root:three
+u0_a454       12812    426 1013064  79528 0                   0 S com.rootdddsddds1832k.z4root
+46604b9f: savedPid2 = 12812
+Stopping app: com.rootdddsddds1832k.z4root
+Tryging remove : uninstall com.rootdddsddds1832k.z4root(com.rootdddsddds1832k.z4root)
+3601a6ff: Remove Success
+3601a6ff: ilog file size: 3907425
+3601a6ff: End of collecting logcat...
+Tryging remove : uninstall com.rootdddsddds1832k.z4root(com.rootdddsddds1832k.z4root)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 3934323
+b29e6a69: End of collecting logcat...
+Tryging remove : uninstall com.rootdddsddds1832k.z4root(com.rootdddsddds1832k.z4root)
+159ceeed: Remove Success
+159ceeed: ilog file size: 3906959
+159ceeed: End of collecting logcat...
+Tryging remove : uninstall com.rootdddsddds1832k.z4root(com.rootdddsddds1832k.z4root)
+46604b9f: Remove Success
+46604b9f: ilog file size: 3906958
+46604b9f: End of collecting logcat...
+HPFinder's try count remains: 29
+Target PID : 10982
+Target PID : 10982
+Target PID : 10982
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_8f7480dc3b63b424c544fa24d77c4d1e669e9a0df061c0506a514be7d871523c@devRoot-D-R.obfuscated.ilog)
+Target PID : 15219
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_8f7480dc3b63b424c544fa24d77c4d1e669e9a0df061c0506a514be7d871523c@devRoot-D-R.obfuscated.ilog)
+Target PID : 12812
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_8f7480dc3b63b424c544fa24d77c4d1e669e9a0df061c0506a514be7d871523c@devRoot-D-R.obfuscated.ilog)
+Target PID : 14534
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_8f7480dc3b63b424c544fa24d77c4d1e669e9a0df061c0506a514be7d871523c@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devTamper_8f7480dc3b63b424c544fa24d77c4d1e669e9a0df061c0506a514be7d871523c@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_8f7480dc3b63b424c544fa24d77c4d1e669e9a0df061c0506a514be7d871523c@devRoot-D-R.obfuscated.ilog)
+[*] FlowManager: adjust finished.
+[*] FlowManager: adjust finished.
+[*] FlowManager: adjust finished.
+Action is completely same :)
+Action is completely same :)
+Action is completely same :)
+159ceeed: There is no difference. (tryAgain=false)
+Action is completely same :)
+46604b9f: There is no difference. (tryAgain=false)
+Action is completely same :)
+Action is completely same :)
+b29e6a69: There is no difference. (tryAgain=false)
+-- HPFinder will be done in this iteration :)
+hasAntiAnalysis? - devTamper: false on com.rootdddsddds1832k.z4root.z4root
+hasAntiAnalysis? - devRoot: false on com.rootdddsddds1832k.z4root.z4root
+hasAntiAnalysis? - devDebug: false on com.rootdddsddds1832k.z4root.z4root
+*****REPORT: com.rootdddsddds1832k.z4root
+* Package name: com.rootdddsddds1832k.z4root
+* Running time: 31
+* FileSize: 2295167
+devTamper : 3906958
+devRef : 3907425
+devRoot : 3934323
+devDebug : 3906959
+hasAntiAnalysis? - devTamper: false on com.rootdddsddds1832k.z4root.z4root
+hasAntiAnalysis? - devRoot: false on com.rootdddsddds1832k.z4root.z4root
+hasAntiAnalysis? - devDebug: false on com.rootdddsddds1832k.z4root.z4root
+46604b9f: trying remove : com.rootdddsddds1832k.z4root
+3601a6ff: trying remove : com.rootdddsddds1832k.z4root
+b29e6a69: trying remove : com.rootdddsddds1832k.z4root
+159ceeed: trying remove : com.rootdddsddds1832k.z4root
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+b29e6a69: result = true
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+159ceeed: result = true
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+46604b9f: result = true
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+3601a6ff: result = true
+3601a6ff: isFailedToLaunch: com.rootdddsddds1832k.z4root/.z4root
+3601a6ff: 	--result: Good :)

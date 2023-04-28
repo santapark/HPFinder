@@ -1,0 +1,2143 @@
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated/AndroidManifest.xml
+launchable-activity: name='com.mrck.nomedia.act.MainActivity'  label='Nomedia' icon=''
+{ACTIVITY, com.mrck.nomedia.act.MainActivity, android.intent.action.MAIN, android.intent.action.VIEW}
+{ACTIVITY, com.mrck.nomedia.act.MediaUpdateDialog}
+{ACTIVITY, com.mrck.nomedia.act.MissingMediaFoundActivity}
+{ACTIVITY, com.mrck.nomedia.act.DeleteMediaActivity}
+{ACTIVITY, com.mrck.nomedia.act.PlayVideoActivity}
+{ACTIVITY, com.mrck.nomedia.act.PlayImageActivity}
+{SERVICE, com.mrck.nomedia.service.MediaSystemUpdateService}
+{ACTIVITY, com.google.android.gms.ads.AdActivity}
+{RECEIVER, com.google.android.gms.measurement.AppMeasurementReceiver}
+{RECEIVER, com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver, com.android.vending.INSTALL_REFERRER}
+{SERVICE, com.google.android.gms.measurement.AppMeasurementService}
+{SERVICE, com.google.android.gms.measurement.AppMeasurementJobService}
+{SERVICE, com.google.firebase.components.ComponentDiscoveryService}
+{RECEIVER, com.google.firebase.iid.FirebaseInstanceIdReceiver, com.google.android.c2dm.intent.RECEIVE}
+{ACTIVITY, com.mrck.nomedia.act.MainActivity, android.intent.action.MAIN, android.intent.action.VIEW}
+{ACTIVITY, com.mrck.nomedia.act.MediaUpdateDialog}
+{ACTIVITY, com.mrck.nomedia.act.MissingMediaFoundActivity}
+{ACTIVITY, com.mrck.nomedia.act.DeleteMediaActivity}
+{ACTIVITY, com.mrck.nomedia.act.PlayVideoActivity}
+{ACTIVITY, com.mrck.nomedia.act.PlayImageActivity}
+{SERVICE, com.mrck.nomedia.service.MediaSystemUpdateService}
+{ACTIVITY, com.google.android.gms.ads.AdActivity}
+{RECEIVER, com.google.android.gms.measurement.AppMeasurementReceiver}
+{RECEIVER, com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver, com.android.vending.INSTALL_REFERRER}
+{SERVICE, com.google.android.gms.measurement.AppMeasurementService}
+{SERVICE, com.google.android.gms.measurement.AppMeasurementJobService}
+{SERVICE, com.google.firebase.components.ComponentDiscoveryService}
+{RECEIVER, com.google.firebase.iid.FirebaseInstanceIdReceiver, com.google.android.c2dm.intent.RECEIVE}
+_getAllDexFiles: /home/santapark/Extended3/DEEPerence/reEx/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated/classes.dex
+----------------/home/santapark/Extended3/DEEPerence/reEx/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+dexFile = org.jf.dexlib2.dexbacked.DexBackedDexFile@31add175
+com.mrck.nomedia
+com.mrck.nomedia.act.MainActivity
+debuggable: true
+46604b9f: (Not Installed) Trying remove : true
+b29e6a69: (Not Installed) Trying remove : true
+46604b9f: -- Success
+b29e6a69: -- Success
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+outDir: /home/santapark/Extended3/DEEPerence/reEx/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_46604b9f/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+3601a6ff: Installation Success
+159ceeed: Installation Success
+b29e6a69: Installation Success
+46604b9f: Installing repackaged apk File: 
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_46604b9f/signed_com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+46604b9f: Installation Success
+46604b9f: startApplication called! - devTamper
+3601a6ff: startApplication called! - devRef
+b29e6a69: startApplication called! - devRoot
+159ceeed: startApplication called! - devDebug
+3601a6ff: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRef_com.mrck.nomedia_4.3.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+46604b9f: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devTamper_com.mrck.nomedia_4.3.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_com.mrck.nomedia_4.3.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_com.mrck.nomedia_4.3.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+46604b9f: Running Application: com.mrck.nomedia
+b29e6a69: Running Application: com.mrck.nomedia
+3601a6ff: Running Application: com.mrck.nomedia
+PIDs--------------------------------------------------------------------------
+u0_a441        2566    423 13766784 101748 0                  0 S com.mrck.nomedia
+forward tcp:35535 jdwp:2566
+[*]Found JDWP Target: 2566
+159ceeed: Running Application: com.mrck.nomedia
+PIDs--------------------------------------------------------------------------
+u0_a441        2566    423 15046096 164188 0                  0 R com.mrck.nomedia
+159ceeed: Tryging attach jdb to 2566
+jdb -connect com.sun.jdi.SocketAttach:hostname=localhost,port=35535
+3601a6ff: Running is done - starting comparing... : 10001
+3601a6ff: Terminated logcat thread...by itself
+3601a6ff: Top-activity: com.mrck.nomedia/.act.MainActivity
+PIDs--------------------------------------------------------------------------
+u0_a221        5760    414 14478052 183560 0                  0 S com.mrck.nomedia
+3601a6ff: savedPid = 5760
+PIDs--------------------------------------------------------------------------
+u0_a221        5760    414 14478052 183560 0                  0 S com.mrck.nomedia
+3601a6ff: savedPid2 = 5760
+Stopping app: com.mrck.nomedia
+Tryging remove : uninstall com.mrck.nomedia(com.mrck.nomedia)
+3601a6ff: Remove Success
+3601a6ff: ilog file size: 277443537
+3601a6ff: End of collecting logcat...
+46604b9f: Running is done - starting comparing... : 10001
+46604b9f: Terminated logcat thread...by itself
+b29e6a69: Terminated logcat thread...by itself
+46604b9f: Top-activity: com.mrck.nomedia/.act.MainActivity
+PIDs--------------------------------------------------------------------------
+u0_a163       11981    425 14712124 187764 0                  0 S com.mrck.nomedia
+46604b9f: savedPid = 11981
+PIDs--------------------------------------------------------------------------
+u0_a163       11981    425 14712124 187764 0                  0 S com.mrck.nomedia
+46604b9f: savedPid2 = 11981
+Stopping app: com.mrck.nomedia
+b29e6a69: Top-activity: com.mrck.nomedia/.act.MainActivity
+PIDs--------------------------------------------------------------------------
+u0_a135        8742    430 14710744 189020 0                  0 S com.mrck.nomedia
+b29e6a69: savedPid = 8742
+PIDs--------------------------------------------------------------------------
+u0_a135        8742    430 14710744 189020 0                  0 S com.mrck.nomedia
+b29e6a69: savedPid2 = 8742
+Stopping app: com.mrck.nomedia
+159ceeed: Running is done - starting comparing... : 10001
+159ceeed: Terminated logcat thread...by itself
+159ceeed: Top-activity: com.mrck.nomedia/.act.MainActivity
+PIDs--------------------------------------------------------------------------
+u0_a441        2566    423 14678400 199484 0                  0 S com.mrck.nomedia
+159ceeed: savedPid = 2566
+PIDs--------------------------------------------------------------------------
+u0_a441        2566    423 14678400 199484 0                  0 S com.mrck.nomedia
+159ceeed: savedPid2 = 2566
+Stopping app: com.mrck.nomedia
+Tryging remove : uninstall com.mrck.nomedia(com.mrck.nomedia)
+46604b9f: Remove Success
+46604b9f: ilog file size: 311663222
+46604b9f: End of collecting logcat...
+Tryging remove : uninstall com.mrck.nomedia(com.mrck.nomedia)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 311201395
+b29e6a69: End of collecting logcat...
+Tryging remove : uninstall com.mrck.nomedia(com.mrck.nomedia)
+159ceeed: Remove Success
+159ceeed: ilog file size: 311883621
+159ceeed: End of collecting logcat...
+HPFinder's try count remains: 29
+Target PID : 5760
+Target PID : 5760
+Target PID : 5760
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_com.mrck.nomedia_4.3.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+Target PID : 8742
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_com.mrck.nomedia_4.3.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+Target PID : 11981
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_com.mrck.nomedia_4.3.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+Target PID : 2566
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_com.mrck.nomedia_4.3.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devTamper_com.mrck.nomedia_4.3.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_com.mrck.nomedia_4.3.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+[*] FlowManager: adjust finished.
+[*] FlowManager: adjust finished.
+[GOOD]: Anti-analysis is identified! :) -- 1 --devDebug
+android.widget.TextView/setText:(I)V:44ee36		=(rels)=>		1
+[*] Unique action: 1:89658 : <<CALL>> : b.c.c.f.h/f:(I)V:44ee36  =>  android.widget.TextView/setText:(I)V:29edbc
+	1:compareBackwardBranch: 1:89586 : <<BRANCH>> : b.c.c.f.h/f:(I)V:44ed20  =>  b.c.c.f.h/f:(I)V:44ed24
+android.widget.Toast/show:()V:63237a		=(rels)=>		1
+[*] Unique action: 1:375266 : <<CALL>> : com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V:63237a  =>  android.widget.Toast/show:()V:2a3e70
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.widget.TextView/setText:(I)V:44ee36		=(rels)=>		1
+[*] Unique action: 1:89658 : <<CALL>> : b.c.c.f.h/f:(I)V:44ee36  =>  android.widget.TextView/setText:(I)V:29edbc
+[*] FlowManager: adjust finished.
+	1:compareBackwardBranch: 1:89586 : <<BRANCH>> : b.c.c.f.h/f:(I)V:44ed20  =>  b.c.c.f.h/f:(I)V:44ed24
+android.widget.Toast/show:()V:63237a		=(rels)=>		1
+[*] Unique action: 1:375266 : <<CALL>> : com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V:63237a  =>  android.widget.Toast/show:()V:2a3e70
+[GOOD]: Anti-analysis is identified! :) -- 1 --devTamper
+android.widget.TextView/setText:(I)V:44ee36		=(rels)=>		1
+[*] Unique action: 1:89658 : <<CALL>> : b.c.c.f.h/f:(I)V:44ee36  =>  android.widget.TextView/setText:(I)V:29edbc
+	1:compareBackwardBranch: 1:89586 : <<BRANCH>> : b.c.c.f.h/f:(I)V:44ed20  =>  b.c.c.f.h/f:(I)V:44ed24
+android.widget.Toast/show:()V:63237a		=(rels)=>		1
+[*] Unique action: 1:375266 : <<CALL>> : com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V:63237a  =>  android.widget.Toast/show:()V:2a3e70
+	1:compareBackwardBranch: 1:350175 : <<BRANCH>> : a.e.g/e:(I)V:34c6d2  =>  a.e.g/e:(I)V:34c6d6
+android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:5725e8		=(rels)=>		1
+[*] Unique action: 1:364395 : <<CALL>> : com.google.android.gms.internal.ads.s12/onActivityPaused:(Landroid/app/Activity;)V:5725e8  =>  android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:30ca84
+	1:compareBackwardBranch: 1:350175 : <<BRANCH>> : a.e.g/e:(I)V:34c6d2  =>  a.e.g/e:(I)V:34c6d6
+android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:5725e8		=(rels)=>		1
+[*] Unique action: 1:364395 : <<CALL>> : com.google.android.gms.internal.ads.s12/onActivityPaused:(Landroid/app/Activity;)V:5725e8  =>  android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:30ca84
+	1:compareBackwardBranch: 1:350175 : <<BRANCH>> : a.e.g/e:(I)V:34c6d2  =>  a.e.g/e:(I)V:34c6d6
+android.view.ViewGroup/addView:(Landroid/view/View;)V:55df80		=(rels)=>		1
+[*] Unique action: 1:174287 : <<CALL>> : com.google.android.gms.internal.ads.q82/a:(Lcom/google/android/gms/internal/ads/n82;)V:55df80  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:350175 : <<BRANCH>> : a.e.g/e:(I)V:34c6d2  =>  a.e.g/e:(I)V:34c6d6
+android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:5725e8		=(rels)=>		1
+	1:compareBackwardBranch2: 1:123640 : <<BRANCH>> : com.mrck.nomedia.act.MainActivity/onResume:()V:63270e  =>  com.mrck.nomedia.act.MainActivity/onResume:()V:632700
+android.widget.TextView/setText:(I)V:44c4ae		=(rels)=>		1
+[*] Unique action: 1:364395 : <<CALL>> : com.google.android.gms.internal.ads.s12/onActivityPaused:(Landroid/app/Activity;)V:5725e8  =>  android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:30ca84
+[*] Unique action: 1:89556 : <<CALL>> : b.c.c.f.h/K0:()V:44c4ae  =>  android.widget.TextView/setText:(I)V:29edbc
+	1:compareBackwardBranch2: 1:89477 : <<BRANCH>> : b.c.c.f.h/K0:()V:44c472  =>  b.c.c.f.h/K0:()V:44c47c
+android.os.AsyncTask/execute:([Ljava/lang/Object;)Landroid/os/AsyncTask;:43e84e		=(rels)=>		1
+[*] Unique action: 1:89732 : <<CALL>> : b.c.c.b.s/d:()V:43e84e  =>  android.os.AsyncTask/execute:([Ljava/lang/Object;)Landroid/os/AsyncTask;:2ed1e4
+	1:compareBackwardBranch2: 1:89581 : <<BRANCH>> : b.c.c.f.h/f:(I)V:44ecc6  =>  b.c.c.f.h/f:(I)V:44ecce
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:452f18		=(rels)=>		1
+[*] Unique action: 1:320913 : <<CALL>> : b.c.c.f.i$f/a:(Ljava/lang/CharSequence;)V:452f18  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch2: 1:83363 : <<BRANCH>> : com.google.android.material.textview.MaterialTextView/a:(Landroid/content/Context;Landroid/content/res/TypedArray;[I)I:6237a0  =>  com.google.android.material.textview.MaterialTextView/a:(Landroid/content/Context;Landroid/content/res/TypedArray;[I)I:6237ba
+Entry: 44ea84
+b.c.c.f.h/f:(I)V: 44ecc6 -> 44ecce
+		b.c.c.f.h/f:(I)V: 242 -> 24a
+addPatchReadme: java.lang.Class<b.c.c.f.h>f(I)V 242 t
+Entry: 623798
+com.google.android.material.textview.MaterialTextView/a:(Landroid/content/Context;Landroid/content/res/TypedArray;[I)I: 6237a0 -> 6237ba
+		com.google.android.material.textview.MaterialTextView/a:(Landroid/content/Context;Landroid/content/res/TypedArray;[I)I: 8 -> 22
+addPatchReadme: java.lang.Class<com.google.android.material.textview.MaterialTextView>a(Landroid/content/Context;Landroid/content/res/TypedArray;[I)I 8 t
+Entry: 44ea84
+b.c.c.f.h/f:(I)V: 44ed20 -> 44ed24
+		b.c.c.f.h/f:(I)V: 29c -> 2a0
+addPatchReadme: java.lang.Class<b.c.c.f.h>f(I)V 29c f
+Entry: 63261c
+com.mrck.nomedia.act.MainActivity/onResume:()V: 63270e -> 632700
+		com.mrck.nomedia.act.MainActivity/onResume:()V: f2 -> e4
+addPatchReadme: java.lang.Class<com.mrck.nomedia.act.MainActivity>onResume()V f2 t
+Entry: 34c674
+a.e.g/e:(I)V: 34c6d2 -> 34c6d6
+		a.e.g/e:(I)V: 5e -> 62
+addPatchReadme: java.lang.Class<a.e.g>e(I)V 5e f
+Entry: 44c3b0
+b.c.c.f.h/K0:()V: 44c472 -> 44c47c
+		b.c.c.f.h/K0:()V: c2 -> cc
+addPatchReadme: java.lang.Class<b.c.c.f.h>K0()V c2 t
+159ceeed: [+] Patches found in this round: 6
+159ceeed: [*] Found Patch size: 1
+Target PID : 
+	1:compareBackwardBranch: 1:350175 : <<BRANCH>> : a.e.g/e:(I)V:34c6d2  =>  a.e.g/e:(I)V:34c6d6
+android.view.ViewGroup/addView:(Landroid/view/View;)V:55df80		=(rels)=>		1
+[*] Unique action: 1:162837 : <<CALL>> : com.google.android.gms.internal.ads.q82/a:(Lcom/google/android/gms/internal/ads/n82;)V:55df80  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch2: 1:123640 : <<BRANCH>> : com.mrck.nomedia.act.MainActivity/onResume:()V:63270e  =>  com.mrck.nomedia.act.MainActivity/onResume:()V:632700
+android.widget.TextView/setText:(I)V:44c4ae		=(rels)=>		1
+[*] Unique action: 1:89520 : <<CALL>> : b.c.c.f.h/K0:()V:44c4ae  =>  android.widget.TextView/setText:(I)V:29edbc
+	1:compareBackwardBranch2: 1:89477 : <<BRANCH>> : b.c.c.f.h/K0:()V:44c472  =>  b.c.c.f.h/K0:()V:44c47c
+android.os.AsyncTask/execute:([Ljava/lang/Object;)Landroid/os/AsyncTask;:43e84e		=(rels)=>		1
+[*] Unique action: 1:89696 : <<CALL>> : b.c.c.b.s/d:()V:43e84e  =>  android.os.AsyncTask/execute:([Ljava/lang/Object;)Landroid/os/AsyncTask;:2ed1e4
+	1:compareBackwardBranch2: 1:89581 : <<BRANCH>> : b.c.c.f.h/f:(I)V:44ecc6  =>  b.c.c.f.h/f:(I)V:44ecce
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:452f18		=(rels)=>		1
+[*] Unique action: 1:281895 : <<CALL>> : b.c.c.f.i$f/a:(Ljava/lang/CharSequence;)V:452f18  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch2: 1:83363 : <<BRANCH>> : com.google.android.material.textview.MaterialTextView/a:(Landroid/content/Context;Landroid/content/res/TypedArray;[I)I:6237a0  =>  com.google.android.material.textview.MaterialTextView/a:(Landroid/content/Context;Landroid/content/res/TypedArray;[I)I:6237ba
+Entry: 44ea84
+b.c.c.f.h/f:(I)V: 44ecc6 -> 44ecce
+		b.c.c.f.h/f:(I)V: 242 -> 24a
+addPatchReadme: java.lang.Class<b.c.c.f.h>f(I)V 242 t
+Entry: 623798
+com.google.android.material.textview.MaterialTextView/a:(Landroid/content/Context;Landroid/content/res/TypedArray;[I)I: 6237a0 -> 6237ba
+		com.google.android.material.textview.MaterialTextView/a:(Landroid/content/Context;Landroid/content/res/TypedArray;[I)I: 8 -> 22
+addPatchReadme: java.lang.Class<com.google.android.material.textview.MaterialTextView>a(Landroid/content/Context;Landroid/content/res/TypedArray;[I)I 8 t
+Entry: 44ea84
+b.c.c.f.h/f:(I)V: 44ed20 -> 44ed24
+		b.c.c.f.h/f:(I)V: 29c -> 2a0
+addPatchReadme: java.lang.Class<b.c.c.f.h>f(I)V 29c f
+Entry: 63261c
+com.mrck.nomedia.act.MainActivity/onResume:()V: 63270e -> 632700
+		com.mrck.nomedia.act.MainActivity/onResume:()V: f2 -> e4
+addPatchReadme: java.lang.Class<com.mrck.nomedia.act.MainActivity>onResume()V f2 t
+Entry: 34c674
+a.e.g/e:(I)V: 34c6d2 -> 34c6d6
+		a.e.g/e:(I)V: 5e -> 62
+addPatchReadme: java.lang.Class<a.e.g>e(I)V 5e f
+Entry: 44c3b0
+b.c.c.f.h/K0:()V: 44c472 -> 44c47c
+		b.c.c.f.h/K0:()V: c2 -> cc
+addPatchReadme: java.lang.Class<b.c.c.f.h>K0()V c2 t
+b29e6a69: [+] Patches found in this round: 6
+b29e6a69: [*] Found Patch size: 1
+Target PID : 
+	1:compareBackwardBranch: 1:350175 : <<BRANCH>> : a.e.g/e:(I)V:34c6d2  =>  a.e.g/e:(I)V:34c6d6
+android.view.ViewGroup/addView:(Landroid/view/View;)V:55df80		=(rels)=>		1
+[*] Unique action: 1:176002 : <<CALL>> : com.google.android.gms.internal.ads.q82/a:(Lcom/google/android/gms/internal/ads/n82;)V:55df80  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch2: 1:123640 : <<BRANCH>> : com.mrck.nomedia.act.MainActivity/onResume:()V:63270e  =>  com.mrck.nomedia.act.MainActivity/onResume:()V:632700
+android.widget.TextView/setText:(I)V:44c4ae		=(rels)=>		1
+[*] Unique action: 1:89493 : <<CALL>> : b.c.c.f.h/K0:()V:44c4ae  =>  android.widget.TextView/setText:(I)V:29edbc
+	1:compareBackwardBranch2: 1:89477 : <<BRANCH>> : b.c.c.f.h/K0:()V:44c472  =>  b.c.c.f.h/K0:()V:44c47c
+android.os.AsyncTask/execute:([Ljava/lang/Object;)Landroid/os/AsyncTask;:43e84e		=(rels)=>		1
+[*] Unique action: 1:89669 : <<CALL>> : b.c.c.b.s/d:()V:43e84e  =>  android.os.AsyncTask/execute:([Ljava/lang/Object;)Landroid/os/AsyncTask;:2ed1e4
+	1:compareBackwardBranch2: 1:89581 : <<BRANCH>> : b.c.c.f.h/f:(I)V:44ecc6  =>  b.c.c.f.h/f:(I)V:44ecce
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:452f18		=(rels)=>		1
+[*] Unique action: 1:287448 : <<CALL>> : b.c.c.f.i$f/a:(Ljava/lang/CharSequence;)V:452f18  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch2: 1:83363 : <<BRANCH>> : com.google.android.material.textview.MaterialTextView/a:(Landroid/content/Context;Landroid/content/res/TypedArray;[I)I:6237a0  =>  com.google.android.material.textview.MaterialTextView/a:(Landroid/content/Context;Landroid/content/res/TypedArray;[I)I:6237ba
+Entry: 44ea84
+b.c.c.f.h/f:(I)V: 44ecc6 -> 44ecce
+		b.c.c.f.h/f:(I)V: 242 -> 24a
+addPatchReadme: java.lang.Class<b.c.c.f.h>f(I)V 242 t
+Entry: 623798
+com.google.android.material.textview.MaterialTextView/a:(Landroid/content/Context;Landroid/content/res/TypedArray;[I)I: 6237a0 -> 6237ba
+		com.google.android.material.textview.MaterialTextView/a:(Landroid/content/Context;Landroid/content/res/TypedArray;[I)I: 8 -> 22
+addPatchReadme: java.lang.Class<com.google.android.material.textview.MaterialTextView>a(Landroid/content/Context;Landroid/content/res/TypedArray;[I)I 8 t
+Entry: 44ea84
+b.c.c.f.h/f:(I)V: 44ed20 -> 44ed24
+		b.c.c.f.h/f:(I)V: 29c -> 2a0
+addPatchReadme: java.lang.Class<b.c.c.f.h>f(I)V 29c f
+Entry: 63261c
+com.mrck.nomedia.act.MainActivity/onResume:()V: 63270e -> 632700
+		com.mrck.nomedia.act.MainActivity/onResume:()V: f2 -> e4
+addPatchReadme: java.lang.Class<com.mrck.nomedia.act.MainActivity>onResume()V f2 t
+Entry: 34c674
+a.e.g/e:(I)V: 34c6d2 -> 34c6d6
+		a.e.g/e:(I)V: 5e -> 62
+addPatchReadme: java.lang.Class<a.e.g>e(I)V 5e f
+Entry: 44c3b0
+b.c.c.f.h/K0:()V: 44c472 -> 44c47c
+		b.c.c.f.h/K0:()V: c2 -> cc
+addPatchReadme: java.lang.Class<b.c.c.f.h>K0()V c2 t
+46604b9f: [+] Patches found in this round: 6
+46604b9f: [*] Found Patch size: 1
+Target PID : 
+ExitReason-Code: 4 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_com.mrck.nomedia_4.3.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+	System.exit called
+159ceeed: 	@@@Found patch addr: 44c482
+159ceeed: Querying offset: 44c472
+159ceeed: 	--Add method name to patch = b.c.c.f.h/K0:()V 	44c472
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_com.mrck.nomedia_4.3.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+b29e6a69: 	@@@Found patch addr: 44c482
+b29e6a69: Querying offset: 44c472
+b29e6a69: 	--Add method name to patch = b.c.c.f.h/K0:()V 	44c472
+ExitReason-Code: 4 (/home/santapark/Extended3/DEEPerence/reEx/devTamper_com.mrck.nomedia_4.3.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+	System.exit called
+46604b9f: 	@@@Found patch addr: 44c482
+46604b9f: Querying offset: 44c472
+46604b9f: 	--Add method name to patch = b.c.c.f.h/K0:()V 	44c472
+Devices presenting anti-analysis: 
+	devTamper
+	devRoot
+	devDebug
+46604b9f: patching method: b.c.c.f.h/K0:()V
+46604b9f: outDir - /home/santapark/Extended3/DEEPerence/reEx/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devTamper
+Wow!!!!!  --  b.c.c.f.h/K0:()V
+fallthrough: c6
+branchTarget: cc
+label = cond_0
+GOTO -- c6 	cc
+outDir: /home/santapark/Extended3/DEEPerence/reEx/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devTamper/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+46604b9f: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devTamper/signed_com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+46604b9f: First address of Lb/c/c/f/h;->K0()V = 44c3c0
+46604b9f: Address - Lb/c/c/f/h;->K0()V@c2	 lastOffset = 234
+46604b9f: Instruction@@: IF_EQZ
+b29e6a69: patching method: b.c.c.f.h/K0:()V
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devRoot
+Wow!!!!!  --  b.c.c.f.h/K0:()V
+fallthrough: c6
+branchTarget: cc
+label = cond_0
+GOTO -- c6 	cc
+outDir: /home/santapark/Extended3/DEEPerence/reEx/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devRoot/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devRoot/signed_com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+b29e6a69: First address of Lb/c/c/f/h;->K0()V = 44c3c0
+b29e6a69: Address - Lb/c/c/f/h;->K0()V@c2	 lastOffset = 234
+b29e6a69: Instruction@@: IF_EQZ
+159ceeed: patching method: b.c.c.f.h/K0:()V
+159ceeed: outDir - /home/santapark/Extended3/DEEPerence/reEx/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devDebug
+Wow!!!!!  --  b.c.c.f.h/K0:()V
+fallthrough: c6
+branchTarget: cc
+label = cond_0
+GOTO -- c6 	cc
+outDir: /home/santapark/Extended3/DEEPerence/reEx/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devDebug/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+159ceeed: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devDebug/signed_com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+159ceeed: First address of Lb/c/c/f/h;->K0()V = 44c3c0
+159ceeed: Address - Lb/c/c/f/h;->K0()V@c2	 lastOffset = 234
+159ceeed: Instruction@@: IF_EQZ
+159ceeed: (Not Installed) Trying remove : true
+b29e6a69: (Not Installed) Trying remove : true
+46604b9f: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devDebug/signed_com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devRoot/signed_com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devTamper/signed_com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+159ceeed: Installation Success
+b29e6a69: Installation Success
+46604b9f: Installation Success
+46604b9f: startApplication called! - devTamper
+b29e6a69: startApplication called! - devRoot
+159ceeed: startApplication called! - devDebug
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_com.mrck.nomedia_4.3.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+46604b9f: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devTamper_com.mrck.nomedia_4.3.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_com.mrck.nomedia_4.3.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+b29e6a69: Running Application: com.mrck.nomedia
+46604b9f: Running Application: com.mrck.nomedia
+PIDs--------------------------------------------------------------------------
+u0_a442        2791    423 13978004 106320 0                  0 R com.mrck.nomedia
+forward tcp:35535 jdwp:2791
+[*]Found JDWP Target: 2791
+159ceeed: Running Application: com.mrck.nomedia
+PIDs--------------------------------------------------------------------------
+u0_a442        2791    423 14846008 174056 0                  0 S com.mrck.nomedia
+159ceeed: Tryging attach jdb to 2791
+jdb -connect com.sun.jdi.SocketAttach:hostname=localhost,port=35535
+46604b9f: Running is done - starting comparing... : 10001
+46604b9f: Terminated logcat thread...by itself
+46604b9f: Top-activity: com.mrck.nomedia/.act.MainActivity
+PIDs--------------------------------------------------------------------------
+u0_a164       12198    425 14607812 188020 0                  0 S com.mrck.nomedia
+46604b9f: savedPid = 12198
+PIDs--------------------------------------------------------------------------
+u0_a164       12198    425 14607812 188020 0                  0 S com.mrck.nomedia
+46604b9f: savedPid2 = 12198
+Stopping app: com.mrck.nomedia
+Tryging remove : uninstall com.mrck.nomedia(com.mrck.nomedia)
+46604b9f: Remove Success
+46604b9f: ilog file size: 251941273
+46604b9f: End of collecting logcat...
+b29e6a69: Running is done - starting comparing... : 10001
+b29e6a69: Terminated logcat thread...by itself
+159ceeed: Running is done - starting comparing... : 10001
+159ceeed: Terminated logcat thread...by itself
+159ceeed: Top-activity: com.mrck.nomedia/.act.MainActivity
+PIDs--------------------------------------------------------------------------
+u0_a442        2791    423 14565896 200128 0                  0 S com.mrck.nomedia
+159ceeed: savedPid = 2791
+b29e6a69: Top-activity: com.mrck.nomedia/.act.MainActivity
+PIDs--------------------------------------------------------------------------
+u0_a442        2791    423 14565896 200128 0                  0 S com.mrck.nomedia
+159ceeed: savedPid2 = 2791
+Stopping app: com.mrck.nomedia
+PIDs--------------------------------------------------------------------------
+u0_a136        8962    430 14559012 188980 0                  0 S com.mrck.nomedia
+b29e6a69: savedPid = 8962
+PIDs--------------------------------------------------------------------------
+u0_a136        8962    430 14559012 188980 0                  0 S com.mrck.nomedia
+b29e6a69: savedPid2 = 8962
+Stopping app: com.mrck.nomedia
+Tryging remove : uninstall com.mrck.nomedia(com.mrck.nomedia)
+159ceeed: Remove Success
+159ceeed: ilog file size: 251954776
+159ceeed: End of collecting logcat...
+Tryging remove : uninstall com.mrck.nomedia(com.mrck.nomedia)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 251838527
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 28
+Target PID : 5760
+Target PID : 5760
+Target PID : 5760
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_com.mrck.nomedia_4.3.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+Target PID : 12198
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_com.mrck.nomedia_4.3.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+Target PID : 8962
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_com.mrck.nomedia_4.3.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+Target PID : 2791
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devTamper_com.mrck.nomedia_4.3.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+46604b9f: adding filter -- 44c472
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_com.mrck.nomedia_4.3.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+b29e6a69: adding filter -- 44c472
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_com.mrck.nomedia_4.3.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+159ceeed: adding filter -- 44c472
+[*] FlowManager: adjust finished.
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 44c472
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.widget.Toast/show:()V:63237a		=(rels)=>		1
+[*] Unique action: 1:375266 : <<CALL>> : com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V:63237a  =>  android.widget.Toast/show:()V:2a3e70
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 44c472
+[GOOD]: Anti-analysis is identified! :) -- 1 --devTamper
+android.widget.Toast/show:()V:63237a		=(rels)=>		1
+[*] Unique action: 1:375266 : <<CALL>> : com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V:63237a  =>  android.widget.Toast/show:()V:2a3e70
+-- current localPatchFilter: 44c472
+[GOOD]: Anti-analysis is identified! :) -- 1 --devDebug
+android.widget.Toast/show:()V:63237a		=(rels)=>		1
+[*] Unique action: 1:375266 : <<CALL>> : com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V:63237a  =>  android.widget.Toast/show:()V:2a3e70
+	1:compareBackwardBranch: 1:347861 : <<BRANCH>> : com.mrck.nomedia.act.MainActivity$b/a:(Lb/c/b/a/c;)V:62f44e  =>  com.mrck.nomedia.act.MainActivity$b/a:(Lb/c/b/a/c;)V:62f452
+android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:5725e8		=(rels)=>		1
+[*] Unique action: 1:364395 : <<CALL>> : com.google.android.gms.internal.ads.s12/onActivityPaused:(Landroid/app/Activity;)V:5725e8  =>  android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:30ca84
+	1:compareBackwardBranch: 1:347861 : <<BRANCH>> : com.mrck.nomedia.act.MainActivity$b/a:(Lb/c/b/a/c;)V:62f44e  =>  com.mrck.nomedia.act.MainActivity$b/a:(Lb/c/b/a/c;)V:62f452
+android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:5725e8		=(rels)=>		1
+[*] Unique action: 1:364395 : <<CALL>> : com.google.android.gms.internal.ads.s12/onActivityPaused:(Landroid/app/Activity;)V:5725e8  =>  android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:30ca84
+	1:compareBackwardBranch: 1:347861 : <<BRANCH>> : com.mrck.nomedia.act.MainActivity$b/a:(Lb/c/b/a/c;)V:62f44e  =>  com.mrck.nomedia.act.MainActivity$b/a:(Lb/c/b/a/c;)V:62f452
+android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:5725e8		=(rels)=>		1
+[*] Unique action: 1:364395 : <<CALL>> : com.google.android.gms.internal.ads.s12/onActivityPaused:(Landroid/app/Activity;)V:5725e8  =>  android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:30ca84
+	1:compareBackwardBranch: 1:347861 : <<BRANCH>> : com.mrck.nomedia.act.MainActivity$b/a:(Lb/c/b/a/c;)V:62f44e  =>  com.mrck.nomedia.act.MainActivity$b/a:(Lb/c/b/a/c;)V:62f452
+android.view.ViewGroup/addView:(Landroid/view/View;)V:55df80		=(rels)=>		1
+[*] Unique action: 1:115933 : <<CALL>> : com.google.android.gms.internal.ads.q82/a:(Lcom/google/android/gms/internal/ads/n82;)V:55df80  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch2: 1:123640 : <<BRANCH>> : com.mrck.nomedia.act.MainActivity/onResume:()V:63270e  =>  com.mrck.nomedia.act.MainActivity/onResume:()V:632700
+Entry: 62f060
+com.mrck.nomedia.act.MainActivity$b/a:(Lb/c/b/a/c;)V: 62f44e -> 62f452
+		com.mrck.nomedia.act.MainActivity$b/a:(Lb/c/b/a/c;)V: 3ee -> 3f2
+addPatchReadme: java.lang.Class<com.mrck.nomedia.act.MainActivity$b>a(Lb/c/b/a/c;)V 3ee f
+Entry: 63261c
+com.mrck.nomedia.act.MainActivity/onResume:()V: 63270e -> 632700
+		com.mrck.nomedia.act.MainActivity/onResume:()V: f2 -> e4
+addPatchReadme: java.lang.Class<com.mrck.nomedia.act.MainActivity>onResume()V f2 t
+b29e6a69: [+] Patches found in this round: 2
+b29e6a69: [*] Found Patch size: 1
+Target PID : 
+	1:compareBackwardBranch: 1:347861 : <<BRANCH>> : com.mrck.nomedia.act.MainActivity$b/a:(Lb/c/b/a/c;)V:62f44e  =>  com.mrck.nomedia.act.MainActivity$b/a:(Lb/c/b/a/c;)V:62f452
+android.view.ViewGroup/addView:(Landroid/view/View;)V:55df80		=(rels)=>		1
+[*] Unique action: 1:121248 : <<CALL>> : com.google.android.gms.internal.ads.q82/a:(Lcom/google/android/gms/internal/ads/n82;)V:55df80  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch2: 1:123640 : <<BRANCH>> : com.mrck.nomedia.act.MainActivity/onResume:()V:63270e  =>  com.mrck.nomedia.act.MainActivity/onResume:()V:632700
+Entry: 62f060
+com.mrck.nomedia.act.MainActivity$b/a:(Lb/c/b/a/c;)V: 62f44e -> 62f452
+		com.mrck.nomedia.act.MainActivity$b/a:(Lb/c/b/a/c;)V: 3ee -> 3f2
+addPatchReadme: java.lang.Class<com.mrck.nomedia.act.MainActivity$b>a(Lb/c/b/a/c;)V 3ee f
+Entry: 63261c
+com.mrck.nomedia.act.MainActivity/onResume:()V: 63270e -> 632700
+		com.mrck.nomedia.act.MainActivity/onResume:()V: f2 -> e4
+addPatchReadme: java.lang.Class<com.mrck.nomedia.act.MainActivity>onResume()V f2 t
+46604b9f: [+] Patches found in this round: 2
+46604b9f: [*] Found Patch size: 1
+Target PID : 
+	1:compareBackwardBranch: 1:347861 : <<BRANCH>> : com.mrck.nomedia.act.MainActivity$b/a:(Lb/c/b/a/c;)V:62f44e  =>  com.mrck.nomedia.act.MainActivity$b/a:(Lb/c/b/a/c;)V:62f452
+android.view.ViewGroup/addView:(Landroid/view/View;)V:55df80		=(rels)=>		1
+[*] Unique action: 1:123089 : <<CALL>> : com.google.android.gms.internal.ads.q82/a:(Lcom/google/android/gms/internal/ads/n82;)V:55df80  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch2: 1:123640 : <<BRANCH>> : com.mrck.nomedia.act.MainActivity/onResume:()V:63270e  =>  com.mrck.nomedia.act.MainActivity/onResume:()V:632700
+Entry: 62f060
+com.mrck.nomedia.act.MainActivity$b/a:(Lb/c/b/a/c;)V: 62f44e -> 62f452
+		com.mrck.nomedia.act.MainActivity$b/a:(Lb/c/b/a/c;)V: 3ee -> 3f2
+addPatchReadme: java.lang.Class<com.mrck.nomedia.act.MainActivity$b>a(Lb/c/b/a/c;)V 3ee f
+Entry: 63261c
+com.mrck.nomedia.act.MainActivity/onResume:()V: 63270e -> 632700
+		com.mrck.nomedia.act.MainActivity/onResume:()V: f2 -> e4
+addPatchReadme: java.lang.Class<com.mrck.nomedia.act.MainActivity>onResume()V f2 t
+159ceeed: [+] Patches found in this round: 2
+159ceeed: [*] Found Patch size: 1
+Target PID : 
+ExitReason-Code: 4 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_com.mrck.nomedia_4.3.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+	System.exit called
+b29e6a69: @@localPatchFilter -- 44c482
+b29e6a69: 	@@@Found patch addr: 63271e
+b29e6a69: Querying offset: 63270e
+b29e6a69: 	--Add method name to patch = com.mrck.nomedia.act.MainActivity/onResume:()V 	63270e
+ExitReason-Code: 4 (/home/santapark/Extended3/DEEPerence/reEx/devTamper_com.mrck.nomedia_4.3.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+	System.exit called
+46604b9f: @@localPatchFilter -- 44c482
+46604b9f: 	@@@Found patch addr: 63271e
+46604b9f: Querying offset: 63270e
+46604b9f: 	--Add method name to patch = com.mrck.nomedia.act.MainActivity/onResume:()V 	63270e
+ExitReason-Code: 4 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_com.mrck.nomedia_4.3.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+	System.exit called
+159ceeed: @@localPatchFilter -- 44c482
+159ceeed: 	@@@Found patch addr: 63271e
+159ceeed: Querying offset: 63270e
+159ceeed: 	--Add method name to patch = com.mrck.nomedia.act.MainActivity/onResume:()V 	63270e
+Devices presenting anti-analysis: 
+	devTamper
+	devRoot
+	devDebug
+46604b9f: patching method: b.c.c.f.h/K0:()V
+46604b9f: patching method: com.mrck.nomedia.act.MainActivity/onResume:()V
+46604b9f: outDir - /home/santapark/Extended3/DEEPerence/reEx/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devTamper
+Wow!!!!!  --  b.c.c.f.h/K0:()V
+fallthrough: c6
+branchTarget: cc
+label = cond_0
+GOTO -- c6 	cc
+Wow!!!!!  --  com.mrck.nomedia.act.MainActivity/onResume:()V
+fallthrough: f6
+branchTarget: e4
+label = cond_0
+GOTO -- f6 	e4
+outDir: /home/santapark/Extended3/DEEPerence/reEx/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devTamper/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+46604b9f: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devTamper/signed_com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+46604b9f: First address of Lb/c/c/f/h;->K0()V = 44c3c0
+46604b9f: Address - Lb/c/c/f/h;->K0()V@c2	 lastOffset = 234
+46604b9f: Instruction@@: IF_EQZ
+46604b9f: First address of Lcom/mrck/nomedia/act/MainActivity;->onResume()V = 63262c
+46604b9f: Address - Lcom/mrck/nomedia/act/MainActivity;->onResume()V@f2	 lastOffset = 1ac
+46604b9f: Instruction@@: IF_EQZ
+b29e6a69: patching method: b.c.c.f.h/K0:()V
+b29e6a69: patching method: com.mrck.nomedia.act.MainActivity/onResume:()V
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devRoot
+Wow!!!!!  --  b.c.c.f.h/K0:()V
+fallthrough: c6
+branchTarget: cc
+label = cond_0
+GOTO -- c6 	cc
+Wow!!!!!  --  com.mrck.nomedia.act.MainActivity/onResume:()V
+fallthrough: f6
+branchTarget: e4
+label = cond_0
+GOTO -- f6 	e4
+outDir: /home/santapark/Extended3/DEEPerence/reEx/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devRoot/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devRoot/signed_com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+b29e6a69: First address of Lb/c/c/f/h;->K0()V = 44c3c0
+b29e6a69: Address - Lb/c/c/f/h;->K0()V@c2	 lastOffset = 234
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Lcom/mrck/nomedia/act/MainActivity;->onResume()V = 63262c
+b29e6a69: Address - Lcom/mrck/nomedia/act/MainActivity;->onResume()V@f2	 lastOffset = 1ac
+b29e6a69: Instruction@@: IF_EQZ
+159ceeed: patching method: b.c.c.f.h/K0:()V
+159ceeed: patching method: com.mrck.nomedia.act.MainActivity$b/a:(Lb/c/b/a/c;)V
+159ceeed: patching method: com.mrck.nomedia.act.MainActivity/onResume:()V
+159ceeed: outDir - /home/santapark/Extended3/DEEPerence/reEx/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devDebug
+Wow!!!!!  --  b.c.c.f.h/K0:()V
+fallthrough: c6
+branchTarget: cc
+label = cond_0
+GOTO -- c6 	cc
+Wow!!!!!  --  com.mrck.nomedia.act.MainActivity/onResume:()V
+fallthrough: f6
+branchTarget: e4
+label = cond_0
+GOTO -- f6 	e4
+outDir: /home/santapark/Extended3/DEEPerence/reEx/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devDebug/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+159ceeed: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devDebug/signed_com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+159ceeed: First address of Lb/c/c/f/h;->K0()V = 44c3c0
+159ceeed: Address - Lb/c/c/f/h;->K0()V@c2	 lastOffset = 234
+159ceeed: Instruction@@: IF_EQZ
+159ceeed: First address of Lcom/mrck/nomedia/act/MainActivity;->onResume()V = 63262c
+159ceeed: Address - Lcom/mrck/nomedia/act/MainActivity;->onResume()V@f2	 lastOffset = 1ac
+159ceeed: Instruction@@: IF_EQZ
+159ceeed: (Not Installed) Trying remove : true
+b29e6a69: (Not Installed) Trying remove : true
+46604b9f: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devDebug/signed_com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devTamper/signed_com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devRoot/signed_com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+159ceeed: Installation Success
+b29e6a69: Installation Success
+46604b9f: Installation Success
+46604b9f: startApplication called! - devTamper
+b29e6a69: startApplication called! - devRoot
+159ceeed: startApplication called! - devDebug
+46604b9f: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devTamper_com.mrck.nomedia_4.3.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+46604b9f: Running Application: com.mrck.nomedia
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_com.mrck.nomedia_4.3.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_com.mrck.nomedia_4.3.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+b29e6a69: Running Application: com.mrck.nomedia
+PIDs--------------------------------------------------------------------------
+u0_a443        2999    423 13995396 106472 0                  0 R com.mrck.nomedia
+forward tcp:35535 jdwp:2999
+[*]Found JDWP Target: 2999
+159ceeed: Running Application: com.mrck.nomedia
+PIDs--------------------------------------------------------------------------
+u0_a443        2999    423 14484072 172352 0                  0 R com.mrck.nomedia
+159ceeed: Tryging attach jdb to 2999
+jdb -connect com.sun.jdi.SocketAttach:hostname=localhost,port=35535
+46604b9f: Running is done - starting comparing... : 10001
+46604b9f: Terminated logcat thread...by itself
+46604b9f: Top-activity: com.mrck.nomedia/.act.MainActivity
+PIDs--------------------------------------------------------------------------
+u0_a165       12393    425 14594816 185252 0                  0 S com.mrck.nomedia
+46604b9f: savedPid = 12393
+PIDs--------------------------------------------------------------------------
+u0_a165       12393    425 14594816 185252 0                  0 S com.mrck.nomedia
+46604b9f: savedPid2 = 12393
+Stopping app: com.mrck.nomedia
+159ceeed: Running is done - starting comparing... : 10001
+159ceeed: Terminated logcat thread...by itself
+159ceeed: Top-activity: com.mrck.nomedia/.act.MainActivity
+PIDs--------------------------------------------------------------------------
+u0_a443        2999    423 14627584 197712 0                  0 S com.mrck.nomedia
+159ceeed: savedPid = 2999
+PIDs--------------------------------------------------------------------------
+u0_a443        2999    423 14627584 197712 0                  0 S com.mrck.nomedia
+159ceeed: savedPid2 = 2999
+Stopping app: com.mrck.nomedia
+Tryging remove : uninstall com.mrck.nomedia(com.mrck.nomedia)
+46604b9f: Remove Success
+46604b9f: ilog file size: 237482221
+46604b9f: End of collecting logcat...
+Tryging remove : uninstall com.mrck.nomedia(com.mrck.nomedia)
+159ceeed: Remove Success
+159ceeed: ilog file size: 237294733
+159ceeed: End of collecting logcat...
+b29e6a69: Running is done - starting comparing... : 10001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.mrck.nomedia/.act.MainActivity
+PIDs--------------------------------------------------------------------------
+u0_a137        9162    430 14570348 186748 0                  0 S com.mrck.nomedia
+b29e6a69: savedPid = 9162
+PIDs--------------------------------------------------------------------------
+u0_a137        9162    430 14570348 186748 0                  0 S com.mrck.nomedia
+b29e6a69: savedPid2 = 9162
+Stopping app: com.mrck.nomedia
+Tryging remove : uninstall com.mrck.nomedia(com.mrck.nomedia)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 250927070
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 27
+Target PID : 5760
+Target PID : 5760
+Target PID : 5760
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_com.mrck.nomedia_4.3.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+Target PID : 12393
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_com.mrck.nomedia_4.3.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+Target PID : 9162
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_com.mrck.nomedia_4.3.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+Target PID : 2999
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devTamper_com.mrck.nomedia_4.3.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+46604b9f: adding filter -- 63270e
+46604b9f: adding filter -- 44c472
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_com.mrck.nomedia_4.3.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+159ceeed: adding filter -- 63270e
+159ceeed: adding filter -- 44c472
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_com.mrck.nomedia_4.3.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+b29e6a69: adding filter -- 63270e
+b29e6a69: adding filter -- 44c472
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 44c472
+-- current localPatchFilter: 63270e
+[GOOD]: Anti-analysis is identified! :) -- 1 --devTamper
+android.widget.Toast/show:()V:63237a		=(rels)=>		1
+[*] Unique action: 1:375266 : <<CALL>> : com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V:63237a  =>  android.widget.Toast/show:()V:2a3e70
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 44c472
+-- current localPatchFilter: 63270e
+[GOOD]: Anti-analysis is identified! :) -- 1 --devDebug
+android.widget.Toast/show:()V:63237a		=(rels)=>		1
+[*] Unique action: 1:375266 : <<CALL>> : com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V:63237a  =>  android.widget.Toast/show:()V:2a3e70
+	1:compareBackwardBranch: 1:347861 : <<BRANCH>> : com.mrck.nomedia.act.MainActivity$b/a:(Lb/c/b/a/c;)V:62f44e  =>  com.mrck.nomedia.act.MainActivity$b/a:(Lb/c/b/a/c;)V:62f452
+android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:5725e8		=(rels)=>		1
+[*] Unique action: 1:364395 : <<CALL>> : com.google.android.gms.internal.ads.s12/onActivityPaused:(Landroid/app/Activity;)V:5725e8  =>  android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:30ca84
+	1:compareBackwardBranch: 1:347861 : <<BRANCH>> : com.mrck.nomedia.act.MainActivity$b/a:(Lb/c/b/a/c;)V:62f44e  =>  com.mrck.nomedia.act.MainActivity$b/a:(Lb/c/b/a/c;)V:62f452
+android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:5725e8		=(rels)=>		1
+[*] Unique action: 1:364395 : <<CALL>> : com.google.android.gms.internal.ads.s12/onActivityPaused:(Landroid/app/Activity;)V:5725e8  =>  android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:30ca84
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 44c472
+-- current localPatchFilter: 63270e
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.widget.Toast/show:()V:63237a		=(rels)=>		1
+[*] Unique action: 1:375266 : <<CALL>> : com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V:63237a  =>  android.widget.Toast/show:()V:2a3e70
+	1:compareBackwardBranch: 1:347861 : <<BRANCH>> : com.mrck.nomedia.act.MainActivity$b/a:(Lb/c/b/a/c;)V:62f44e  =>  com.mrck.nomedia.act.MainActivity$b/a:(Lb/c/b/a/c;)V:62f452
+android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:5725e8		=(rels)=>		1
+	1:compareBackwardBranch: 1:347861 : <<BRANCH>> : com.mrck.nomedia.act.MainActivity$b/a:(Lb/c/b/a/c;)V:62f44e  =>  com.mrck.nomedia.act.MainActivity$b/a:(Lb/c/b/a/c;)V:62f452
+[*] Unique action: 1:364395 : <<CALL>> : com.google.android.gms.internal.ads.s12/onActivityPaused:(Landroid/app/Activity;)V:5725e8  =>  android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:30ca84
+Action is completely same :)
+Entry: 62f060
+com.mrck.nomedia.act.MainActivity$b/a:(Lb/c/b/a/c;)V: 62f44e -> 62f452
+		com.mrck.nomedia.act.MainActivity$b/a:(Lb/c/b/a/c;)V: 3ee -> 3f2
+addPatchReadme: java.lang.Class<com.mrck.nomedia.act.MainActivity$b>a(Lb/c/b/a/c;)V 3ee f
+46604b9f: [+] Patches found in this round: 1
+46604b9f: [*] Found Patch size: 1
+Target PID : 
+	1:compareBackwardBranch: 1:347861 : <<BRANCH>> : com.mrck.nomedia.act.MainActivity$b/a:(Lb/c/b/a/c;)V:62f44e  =>  com.mrck.nomedia.act.MainActivity$b/a:(Lb/c/b/a/c;)V:62f452
+Action is completely same :)
+Entry: 62f060
+com.mrck.nomedia.act.MainActivity$b/a:(Lb/c/b/a/c;)V: 62f44e -> 62f452
+		com.mrck.nomedia.act.MainActivity$b/a:(Lb/c/b/a/c;)V: 3ee -> 3f2
+addPatchReadme: java.lang.Class<com.mrck.nomedia.act.MainActivity$b>a(Lb/c/b/a/c;)V 3ee f
+159ceeed: [+] Patches found in this round: 1
+159ceeed: [*] Found Patch size: 1
+Target PID : 
+	1:compareBackwardBranch: 1:347861 : <<BRANCH>> : com.mrck.nomedia.act.MainActivity$b/a:(Lb/c/b/a/c;)V:62f44e  =>  com.mrck.nomedia.act.MainActivity$b/a:(Lb/c/b/a/c;)V:62f452
+Action is completely same :)
+Entry: 62f060
+com.mrck.nomedia.act.MainActivity$b/a:(Lb/c/b/a/c;)V: 62f44e -> 62f452
+		com.mrck.nomedia.act.MainActivity$b/a:(Lb/c/b/a/c;)V: 3ee -> 3f2
+addPatchReadme: java.lang.Class<com.mrck.nomedia.act.MainActivity$b>a(Lb/c/b/a/c;)V 3ee f
+b29e6a69: [+] Patches found in this round: 1
+b29e6a69: [*] Found Patch size: 1
+Target PID : 
+ExitReason-Code: 4 (/home/santapark/Extended3/DEEPerence/reEx/devTamper_com.mrck.nomedia_4.3.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+	System.exit called
+46604b9f: @@localPatchFilter -- 44c482
+46604b9f: @@localPatchFilter -- 63271e
+46604b9f: 	@@@Found patch addr: 62f45e
+46604b9f: Querying offset: 62f44e
+46604b9f: 	--Add method name to patch = com.mrck.nomedia.act.MainActivity$b/a:(Lb/c/b/a/c;)V 	62f44e
+ExitReason-Code: 4 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_com.mrck.nomedia_4.3.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+	System.exit called
+159ceeed: @@localPatchFilter -- 44c482
+159ceeed: @@localPatchFilter -- 63271e
+159ceeed: 	@@@Found patch addr: 62f45e
+159ceeed: Querying offset: 62f44e
+159ceeed: 	--Add method name to patch = com.mrck.nomedia.act.MainActivity$b/a:(Lb/c/b/a/c;)V 	62f44e
+ExitReason-Code: 4 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_com.mrck.nomedia_4.3.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+	System.exit called
+b29e6a69: @@localPatchFilter -- 44c482
+b29e6a69: @@localPatchFilter -- 63271e
+b29e6a69: 	@@@Found patch addr: 62f45e
+b29e6a69: Querying offset: 62f44e
+b29e6a69: 	--Add method name to patch = com.mrck.nomedia.act.MainActivity$b/a:(Lb/c/b/a/c;)V 	62f44e
+Devices presenting anti-analysis: 
+	devTamper
+	devRoot
+	devDebug
+46604b9f: patching method: b.c.c.f.h/K0:()V
+46604b9f: patching method: com.mrck.nomedia.act.MainActivity$b/a:(Lb/c/b/a/c;)V
+46604b9f: patching method: com.mrck.nomedia.act.MainActivity/onResume:()V
+46604b9f: outDir - /home/santapark/Extended3/DEEPerence/reEx/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devTamper
+Wow!!!!!  --  b.c.c.f.h/K0:()V
+fallthrough: c6
+branchTarget: cc
+label = cond_0
+GOTO -- c6 	cc
+Wow!!!!!  --  com.mrck.nomedia.act.MainActivity$b/a:(Lb/c/b/a/c;)V
+fallthrough: 3f2
+branchTarget: 3f2
+NOP!
+Wow!!!!!  --  com.mrck.nomedia.act.MainActivity/onResume:()V
+fallthrough: f6
+branchTarget: e4
+label = cond_0
+GOTO -- f6 	e4
+outDir: /home/santapark/Extended3/DEEPerence/reEx/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devTamper/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+46604b9f: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devTamper/signed_com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+46604b9f: First address of Lb/c/c/f/h;->K0()V = 44c3c0
+46604b9f: Address - Lb/c/c/f/h;->K0()V@c2	 lastOffset = 234
+46604b9f: Instruction@@: IF_EQZ
+46604b9f: First address of Lcom/mrck/nomedia/act/MainActivity$b;->a(Lb/c/b/a/c;)V = 62f070
+46604b9f: Address - Lcom/mrck/nomedia/act/MainActivity$b;->a(Lb/c/b/a/c;)V@3ee	 lastOffset = 6c0
+46604b9f: Instruction@@: IF_NEZ
+46604b9f: First address of Lcom/mrck/nomedia/act/MainActivity;->onResume()V = 63262c
+46604b9f: Address - Lcom/mrck/nomedia/act/MainActivity;->onResume()V@f2	 lastOffset = 1ac
+46604b9f: Instruction@@: IF_EQZ
+b29e6a69: patching method: b.c.c.f.h/K0:()V
+b29e6a69: patching method: com.mrck.nomedia.act.MainActivity$b/a:(Lb/c/b/a/c;)V
+b29e6a69: patching method: com.mrck.nomedia.act.MainActivity/onResume:()V
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devRoot
+Wow!!!!!  --  b.c.c.f.h/K0:()V
+fallthrough: c6
+branchTarget: cc
+label = cond_0
+GOTO -- c6 	cc
+Wow!!!!!  --  com.mrck.nomedia.act.MainActivity$b/a:(Lb/c/b/a/c;)V
+fallthrough: 3f2
+branchTarget: 3f2
+NOP!
+Wow!!!!!  --  com.mrck.nomedia.act.MainActivity/onResume:()V
+fallthrough: f6
+branchTarget: e4
+label = cond_0
+GOTO -- f6 	e4
+outDir: /home/santapark/Extended3/DEEPerence/reEx/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devRoot/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devRoot/signed_com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+b29e6a69: First address of Lb/c/c/f/h;->K0()V = 44c3c0
+b29e6a69: Address - Lb/c/c/f/h;->K0()V@c2	 lastOffset = 234
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Lcom/mrck/nomedia/act/MainActivity$b;->a(Lb/c/b/a/c;)V = 62f070
+b29e6a69: Address - Lcom/mrck/nomedia/act/MainActivity$b;->a(Lb/c/b/a/c;)V@3ee	 lastOffset = 6c0
+b29e6a69: Instruction@@: IF_NEZ
+b29e6a69: First address of Lcom/mrck/nomedia/act/MainActivity;->onResume()V = 63262c
+b29e6a69: Address - Lcom/mrck/nomedia/act/MainActivity;->onResume()V@f2	 lastOffset = 1ac
+b29e6a69: Instruction@@: IF_EQZ
+159ceeed: patching method: b.c.c.f.h/K0:()V
+159ceeed: patching method: com.mrck.nomedia.act.MainActivity$b/a:(Lb/c/b/a/c;)V
+159ceeed: patching method: com.mrck.nomedia.act.MainActivity/onResume:()V
+159ceeed: outDir - /home/santapark/Extended3/DEEPerence/reEx/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devDebug
+Wow!!!!!  --  b.c.c.f.h/K0:()V
+fallthrough: c6
+branchTarget: cc
+label = cond_0
+GOTO -- c6 	cc
+Wow!!!!!  --  com.mrck.nomedia.act.MainActivity$b/a:(Lb/c/b/a/c;)V
+fallthrough: 3f2
+branchTarget: 3f2
+NOP!
+Wow!!!!!  --  com.mrck.nomedia.act.MainActivity/onResume:()V
+fallthrough: f6
+branchTarget: e4
+label = cond_0
+GOTO -- f6 	e4
+outDir: /home/santapark/Extended3/DEEPerence/reEx/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devDebug/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+159ceeed: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devDebug/signed_com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+159ceeed: First address of Lb/c/c/f/h;->K0()V = 44c3c0
+159ceeed: Address - Lb/c/c/f/h;->K0()V@c2	 lastOffset = 234
+159ceeed: Instruction@@: IF_EQZ
+159ceeed: First address of Lcom/mrck/nomedia/act/MainActivity$b;->a(Lb/c/b/a/c;)V = 62f070
+159ceeed: Address - Lcom/mrck/nomedia/act/MainActivity$b;->a(Lb/c/b/a/c;)V@3ee	 lastOffset = 6c0
+159ceeed: Instruction@@: IF_NEZ
+159ceeed: First address of Lcom/mrck/nomedia/act/MainActivity;->onResume()V = 63262c
+159ceeed: Address - Lcom/mrck/nomedia/act/MainActivity;->onResume()V@f2	 lastOffset = 1ac
+159ceeed: Instruction@@: IF_EQZ
+46604b9f: (Not Installed) Trying remove : true
+b29e6a69: (Not Installed) Trying remove : true
+159ceeed: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devTamper/signed_com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devRoot/signed_com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devDebug/signed_com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+159ceeed: Installation Success
+b29e6a69: Installation Success
+46604b9f: Installation Success
+46604b9f: startApplication called! - devTamper
+b29e6a69: startApplication called! - devRoot
+159ceeed: startApplication called! - devDebug
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_com.mrck.nomedia_4.3.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+46604b9f: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devTamper_com.mrck.nomedia_4.3.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_com.mrck.nomedia_4.3.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+46604b9f: Running Application: com.mrck.nomedia
+b29e6a69: Running Application: com.mrck.nomedia
+PIDs--------------------------------------------------------------------------
+u0_a444        3179    423 13995396 106440 0                  0 R com.mrck.nomedia
+forward tcp:35535 jdwp:3179
+[*]Found JDWP Target: 3179
+159ceeed: Running Application: com.mrck.nomedia
+PIDs--------------------------------------------------------------------------
+u0_a444        3179    423 14442984 172340 0                  0 R com.mrck.nomedia
+159ceeed: Tryging attach jdb to 3179
+jdb -connect com.sun.jdi.SocketAttach:hostname=localhost,port=35535
+46604b9f: Running is done - starting comparing... : 10001
+46604b9f: Terminated logcat thread...by itself
+46604b9f: Top-activity: com.mrck.nomedia/.act.MainActivity
+PIDs--------------------------------------------------------------------------
+u0_a166       12562    425 14615064 187748 0                  0 S com.mrck.nomedia
+46604b9f: savedPid = 12562
+PIDs--------------------------------------------------------------------------
+u0_a166       12562    425 14615064 187748 0                  0 S com.mrck.nomedia
+46604b9f: savedPid2 = 12562
+Stopping app: com.mrck.nomedia
+b29e6a69: Running is done - starting comparing... : 10001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.mrck.nomedia/.act.MainActivity
+PIDs--------------------------------------------------------------------------
+u0_a138        9363    430 14538756 185156 0                  0 S com.mrck.nomedia
+b29e6a69: savedPid = 9363
+PIDs--------------------------------------------------------------------------
+u0_a138        9363    430 14538756 185156 0                  0 S com.mrck.nomedia
+b29e6a69: savedPid2 = 9363
+Stopping app: com.mrck.nomedia
+159ceeed: Running is done - starting comparing... : 10001
+159ceeed: Terminated logcat thread...by itself
+Tryging remove : uninstall com.mrck.nomedia(com.mrck.nomedia)
+46604b9f: Remove Success
+46604b9f: ilog file size: 291739730
+46604b9f: End of collecting logcat...
+159ceeed: Top-activity: com.mrck.nomedia/.act.MainActivity
+PIDs--------------------------------------------------------------------------
+u0_a444        3179    423 14515672 200816 0                  0 S com.mrck.nomedia
+159ceeed: savedPid = 3179
+PIDs--------------------------------------------------------------------------
+u0_a444        3179    423 14515672 200816 0                  0 S com.mrck.nomedia
+159ceeed: savedPid2 = 3179
+Stopping app: com.mrck.nomedia
+Tryging remove : uninstall com.mrck.nomedia(com.mrck.nomedia)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 277157278
+b29e6a69: End of collecting logcat...
+Tryging remove : uninstall com.mrck.nomedia(com.mrck.nomedia)
+159ceeed: Remove Success
+159ceeed: ilog file size: 291608912
+159ceeed: End of collecting logcat...
+HPFinder's try count remains: 26
+Target PID : 5760
+Target PID : 5760
+Target PID : 5760
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_com.mrck.nomedia_4.3.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+Target PID : 9363
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_com.mrck.nomedia_4.3.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+Target PID : 12562
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_com.mrck.nomedia_4.3.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+Target PID : 3179
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_com.mrck.nomedia_4.3.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+b29e6a69: adding filter -- 62f44e
+b29e6a69: adding filter -- 63270e
+b29e6a69: adding filter -- 44c472
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devTamper_com.mrck.nomedia_4.3.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+46604b9f: adding filter -- 62f44e
+46604b9f: adding filter -- 63270e
+46604b9f: adding filter -- 44c472
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_com.mrck.nomedia_4.3.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+159ceeed: adding filter -- 62f44e
+159ceeed: adding filter -- 63270e
+159ceeed: adding filter -- 44c472
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 44c472
+-- current localPatchFilter: 62f44e
+-- current localPatchFilter: 63270e
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.widget.Toast/show:()V:63237a		=(rels)=>		1
+[*] Unique action: 1:375266 : <<CALL>> : com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V:63237a  =>  android.widget.Toast/show:()V:2a3e70
+	1:compareBackwardBranch: 1:373470 : <<BRANCH>> : com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V:6322c6  =>  com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V:632442
+Action is completely same :)
+Entry: 6321b0
+com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V: 6322c6 -> 632442
+		com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V: 116 -> 292
+addPatchReadme: java.lang.Class<com.mrck.nomedia.act.MainActivity>onRequestPermissionsResult(I[Ljava/lang/String;[I)V 116 t
+b29e6a69: [+] Patches found in this round: 1
+b29e6a69: [*] Found Patch size: 1
+Target PID : 
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 44c472
+-- current localPatchFilter: 62f44e
+-- current localPatchFilter: 63270e
+[GOOD]: Anti-analysis is identified! :) -- 1 --devTamper
+android.widget.Toast/show:()V:63237a		=(rels)=>		1
+[*] Unique action: 1:375266 : <<CALL>> : com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V:63237a  =>  android.widget.Toast/show:()V:2a3e70
+	1:compareBackwardBranch: 1:373470 : <<BRANCH>> : com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V:6322c6  =>  com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V:632442
+Action is completely same :)
+Entry: 6321b0
+com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V: 6322c6 -> 632442
+		com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V: 116 -> 292
+addPatchReadme: java.lang.Class<com.mrck.nomedia.act.MainActivity>onRequestPermissionsResult(I[Ljava/lang/String;[I)V 116 t
+46604b9f: [+] Patches found in this round: 1
+46604b9f: [*] Found Patch size: 1
+Target PID : 
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 44c472
+-- current localPatchFilter: 62f44e
+-- current localPatchFilter: 63270e
+[GOOD]: Anti-analysis is identified! :) -- 1 --devDebug
+android.widget.Toast/show:()V:63237a		=(rels)=>		1
+[*] Unique action: 1:375266 : <<CALL>> : com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V:63237a  =>  android.widget.Toast/show:()V:2a3e70
+	1:compareBackwardBranch: 1:373470 : <<BRANCH>> : com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V:6322c6  =>  com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V:632442
+Action is completely same :)
+Entry: 6321b0
+com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V: 6322c6 -> 632442
+		com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V: 116 -> 292
+addPatchReadme: java.lang.Class<com.mrck.nomedia.act.MainActivity>onRequestPermissionsResult(I[Ljava/lang/String;[I)V 116 t
+159ceeed: [+] Patches found in this round: 1
+159ceeed: [*] Found Patch size: 1
+Target PID : 
+ExitReason-Code: 4 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_com.mrck.nomedia_4.3.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+	System.exit called
+b29e6a69: @@localPatchFilter -- 44c482
+b29e6a69: @@localPatchFilter -- 62f45e
+b29e6a69: @@localPatchFilter -- 63271e
+b29e6a69: 	@@@Found patch addr: 6322d6
+b29e6a69: Querying offset: 6322c6
+b29e6a69: 	--Add method name to patch = com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V 	6322c6
+ExitReason-Code: 4 (/home/santapark/Extended3/DEEPerence/reEx/devTamper_com.mrck.nomedia_4.3.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+	System.exit called
+46604b9f: @@localPatchFilter -- 44c482
+46604b9f: @@localPatchFilter -- 62f45e
+46604b9f: @@localPatchFilter -- 63271e
+46604b9f: 	@@@Found patch addr: 6322d6
+46604b9f: Querying offset: 6322c6
+46604b9f: 	--Add method name to patch = com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V 	6322c6
+ExitReason-Code: 4 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_com.mrck.nomedia_4.3.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+	System.exit called
+159ceeed: @@localPatchFilter -- 44c482
+159ceeed: @@localPatchFilter -- 62f45e
+159ceeed: @@localPatchFilter -- 63271e
+159ceeed: 	@@@Found patch addr: 6322d6
+159ceeed: Querying offset: 6322c6
+159ceeed: 	--Add method name to patch = com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V 	6322c6
+Devices presenting anti-analysis: 
+	devTamper
+	devRoot
+	devDebug
+46604b9f: patching method: b.c.c.f.h/K0:()V
+46604b9f: patching method: com.mrck.nomedia.act.MainActivity$b/a:(Lb/c/b/a/c;)V
+46604b9f: patching method: com.mrck.nomedia.act.MainActivity/onResume:()V
+46604b9f: patching method: com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V
+46604b9f: outDir - /home/santapark/Extended3/DEEPerence/reEx/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devTamper
+Wow!!!!!  --  b.c.c.f.h/K0:()V
+fallthrough: c6
+branchTarget: cc
+label = cond_0
+GOTO -- c6 	cc
+Wow!!!!!  --  com.mrck.nomedia.act.MainActivity$b/a:(Lb/c/b/a/c;)V
+fallthrough: 3f2
+branchTarget: 3f2
+NOP!
+Wow!!!!!  --  com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V
+fallthrough: 11c
+branchTarget: 292
+label = sswitch_data_4
+GOTO -- 11c 	292
+Wow!!!!!  --  com.mrck.nomedia.act.MainActivity/onResume:()V
+fallthrough: f6
+branchTarget: e4
+label = cond_0
+GOTO -- f6 	e4
+outDir: /home/santapark/Extended3/DEEPerence/reEx/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devTamper/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+46604b9f: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devTamper/signed_com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+46604b9f: First address of Lb/c/c/f/h;->K0()V = 44c3c0
+46604b9f: Address - Lb/c/c/f/h;->K0()V@c2	 lastOffset = 234
+46604b9f: Instruction@@: IF_EQZ
+46604b9f: First address of Lcom/mrck/nomedia/act/MainActivity$b;->a(Lb/c/b/a/c;)V = 62f070
+46604b9f: Address - Lcom/mrck/nomedia/act/MainActivity$b;->a(Lb/c/b/a/c;)V@3ee	 lastOffset = 6c0
+46604b9f: Instruction@@: IF_NEZ
+46604b9f: First address of Lcom/mrck/nomedia/act/MainActivity;->onResume()V = 63262c
+46604b9f: Address - Lcom/mrck/nomedia/act/MainActivity;->onResume()V@f2	 lastOffset = 1ac
+46604b9f: Instruction@@: IF_EQZ
+46604b9f: First address of Lcom/mrck/nomedia/act/MainActivity;->onRequestPermissionsResult(I[Ljava/lang/String;[I)V = 6321c0
+46604b9f: Address - Lcom/mrck/nomedia/act/MainActivity;->onRequestPermissionsResult(I[Ljava/lang/String;[I)V@116	 lastOffset = 438
+46604b9f: Instruction@@: SPARSE_SWITCH
+b29e6a69: patching method: b.c.c.f.h/K0:()V
+b29e6a69: patching method: com.mrck.nomedia.act.MainActivity$b/a:(Lb/c/b/a/c;)V
+b29e6a69: patching method: com.mrck.nomedia.act.MainActivity/onResume:()V
+b29e6a69: patching method: com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devRoot
+Wow!!!!!  --  b.c.c.f.h/K0:()V
+fallthrough: c6
+branchTarget: cc
+label = cond_0
+GOTO -- c6 	cc
+Wow!!!!!  --  com.mrck.nomedia.act.MainActivity$b/a:(Lb/c/b/a/c;)V
+fallthrough: 3f2
+branchTarget: 3f2
+NOP!
+Wow!!!!!  --  com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V
+fallthrough: 11c
+branchTarget: 292
+label = sswitch_data_4
+GOTO -- 11c 	292
+Wow!!!!!  --  com.mrck.nomedia.act.MainActivity/onResume:()V
+fallthrough: f6
+branchTarget: e4
+label = cond_0
+GOTO -- f6 	e4
+outDir: /home/santapark/Extended3/DEEPerence/reEx/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devRoot/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devRoot/signed_com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+b29e6a69: First address of Lb/c/c/f/h;->K0()V = 44c3c0
+b29e6a69: Address - Lb/c/c/f/h;->K0()V@c2	 lastOffset = 234
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Lcom/mrck/nomedia/act/MainActivity$b;->a(Lb/c/b/a/c;)V = 62f070
+b29e6a69: Address - Lcom/mrck/nomedia/act/MainActivity$b;->a(Lb/c/b/a/c;)V@3ee	 lastOffset = 6c0
+b29e6a69: Instruction@@: IF_NEZ
+b29e6a69: First address of Lcom/mrck/nomedia/act/MainActivity;->onResume()V = 63262c
+b29e6a69: Address - Lcom/mrck/nomedia/act/MainActivity;->onResume()V@f2	 lastOffset = 1ac
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Lcom/mrck/nomedia/act/MainActivity;->onRequestPermissionsResult(I[Ljava/lang/String;[I)V = 6321c0
+b29e6a69: Address - Lcom/mrck/nomedia/act/MainActivity;->onRequestPermissionsResult(I[Ljava/lang/String;[I)V@116	 lastOffset = 438
+b29e6a69: Instruction@@: SPARSE_SWITCH
+159ceeed: patching method: b.c.c.f.h/K0:()V
+159ceeed: patching method: com.mrck.nomedia.act.MainActivity$b/a:(Lb/c/b/a/c;)V
+159ceeed: patching method: com.mrck.nomedia.act.MainActivity/onResume:()V
+159ceeed: patching method: com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V
+159ceeed: outDir - /home/santapark/Extended3/DEEPerence/reEx/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devDebug
+Wow!!!!!  --  b.c.c.f.h/K0:()V
+fallthrough: c6
+branchTarget: cc
+label = cond_0
+GOTO -- c6 	cc
+Wow!!!!!  --  com.mrck.nomedia.act.MainActivity$b/a:(Lb/c/b/a/c;)V
+fallthrough: 3f2
+branchTarget: 3f2
+NOP!
+Wow!!!!!  --  com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V
+fallthrough: 11c
+branchTarget: 292
+label = sswitch_data_4
+GOTO -- 11c 	292
+Wow!!!!!  --  com.mrck.nomedia.act.MainActivity/onResume:()V
+fallthrough: f6
+branchTarget: e4
+label = cond_0
+GOTO -- f6 	e4
+outDir: /home/santapark/Extended3/DEEPerence/reEx/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devDebug/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+159ceeed: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devDebug/signed_com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+159ceeed: First address of Lb/c/c/f/h;->K0()V = 44c3c0
+159ceeed: Address - Lb/c/c/f/h;->K0()V@c2	 lastOffset = 234
+159ceeed: Instruction@@: IF_EQZ
+159ceeed: First address of Lcom/mrck/nomedia/act/MainActivity$b;->a(Lb/c/b/a/c;)V = 62f070
+159ceeed: Address - Lcom/mrck/nomedia/act/MainActivity$b;->a(Lb/c/b/a/c;)V@3ee	 lastOffset = 6c0
+159ceeed: Instruction@@: IF_NEZ
+159ceeed: First address of Lcom/mrck/nomedia/act/MainActivity;->onResume()V = 63262c
+159ceeed: Address - Lcom/mrck/nomedia/act/MainActivity;->onResume()V@f2	 lastOffset = 1ac
+159ceeed: Instruction@@: IF_EQZ
+159ceeed: First address of Lcom/mrck/nomedia/act/MainActivity;->onRequestPermissionsResult(I[Ljava/lang/String;[I)V = 6321c0
+159ceeed: Address - Lcom/mrck/nomedia/act/MainActivity;->onRequestPermissionsResult(I[Ljava/lang/String;[I)V@116	 lastOffset = 438
+159ceeed: Instruction@@: SPARSE_SWITCH
+159ceeed: (Not Installed) Trying remove : true
+b29e6a69: (Not Installed) Trying remove : true
+46604b9f: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devDebug/signed_com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devTamper/signed_com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devRoot/signed_com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+159ceeed: Installation Success
+b29e6a69: Installation Success
+46604b9f: Installation Success
+46604b9f: startApplication called! - devTamper
+b29e6a69: startApplication called! - devRoot
+159ceeed: startApplication called! - devDebug
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_com.mrck.nomedia_4.3.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_com.mrck.nomedia_4.3.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+46604b9f: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devTamper_com.mrck.nomedia_4.3.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+b29e6a69: Running Application: com.mrck.nomedia
+46604b9f: Running Application: com.mrck.nomedia
+PIDs--------------------------------------------------------------------------
+u0_a445        3443    423 13960516 106396 0                  0 S com.mrck.nomedia
+forward tcp:35535 jdwp:3443
+[*]Found JDWP Target: 3443
+159ceeed: Running Application: com.mrck.nomedia
+46604b9f: Running is done - starting comparing... : 10001
+46604b9f: Terminated logcat thread...by itself
+159ceeed: Running is done - starting comparing... : 10001
+159ceeed: Terminated logcat thread...by itself
+PIDs--------------------------------------------------------------------------
+46604b9f: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+46604b9f: savedPid = null
+PIDs--------------------------------------------------------------------------
+46604b9f: savedPid2 = null
+Stopping app: com.mrck.nomedia
+159ceeed: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+159ceeed: savedPid = null
+PIDs--------------------------------------------------------------------------
+159ceeed: savedPid2 = null
+Stopping app: com.mrck.nomedia
+b29e6a69: Running is done - starting comparing... : 10001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+b29e6a69: savedPid = null
+PIDs--------------------------------------------------------------------------
+b29e6a69: savedPid2 = null
+Stopping app: com.mrck.nomedia
+Tryging remove : uninstall com.mrck.nomedia(com.mrck.nomedia)
+159ceeed: Remove Success
+159ceeed: ilog file size: 17685317
+159ceeed: End of collecting logcat...
+Tryging remove : uninstall com.mrck.nomedia(com.mrck.nomedia)
+46604b9f: Remove Success
+46604b9f: ilog file size: 17993466
+46604b9f: End of collecting logcat...
+Tryging remove : uninstall com.mrck.nomedia(com.mrck.nomedia)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 17462942
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 25
+Target PID : 5760
+Target PID : 5760
+Target PID : 5760
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_com.mrck.nomedia_4.3.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+Target PID : 
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_com.mrck.nomedia_4.3.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+Target PID : 
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_com.mrck.nomedia_4.3.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+Target PID : 
+ExitReason-Code: 5 (/home/santapark/Extended3/DEEPerence/reEx/devTamper_com.mrck.nomedia_4.3.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+46604b9f: /home/santapark/Extended3/DEEPerence/reEx/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk launch is failed on devTamper
+46604b9f: Failed Patch: 6322d6
+46604b9f: adding filter -- 62f44e
+46604b9f: adding filter -- 63270e
+46604b9f: adding filter -- 44c472
+ExitReason-Code: 5 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_com.mrck.nomedia_4.3.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+159ceeed: /home/santapark/Extended3/DEEPerence/reEx/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk launch is failed on devDebug
+159ceeed: Failed Patch: 6322d6
+159ceeed: adding filter -- 62f44e
+159ceeed: adding filter -- 63270e
+159ceeed: adding filter -- 44c472
+ExitReason-Code: 5 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_com.mrck.nomedia_4.3.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+b29e6a69: /home/santapark/Extended3/DEEPerence/reEx/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk launch is failed on devRoot
+b29e6a69: Failed Patch: 6322d6
+b29e6a69: adding filter -- 62f44e
+b29e6a69: adding filter -- 63270e
+b29e6a69: adding filter -- 44c472
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 6322c6
+-- current localPatchFilter: 44c472
+-- current localPatchFilter: 62f44e
+-- current localPatchFilter: 63270e
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.widget.Toast/show:()V:63237a		=(rels)=>		1
+[*] Unique action: 1:375266 : <<CALL>> : com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V:63237a  =>  android.widget.Toast/show:()V:2a3e70
+	1:compareBackwardBranch: 1:373464 : <<BRANCH>> : com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V:6322e2  =>  com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V:6322ea
+Action is completely same :)
+Entry: 6321b0
+com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V: 6322e2 -> 6322ea
+		com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V: 132 -> 13a
+addPatchReadme: java.lang.Class<com.mrck.nomedia.act.MainActivity>onRequestPermissionsResult(I[Ljava/lang/String;[I)V 132 t
+b29e6a69: [+] Patches found in this round: 1
+b29e6a69: [*] Found Patch size: 1
+Target PID : 
+ExitReason-Code: 5 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_com.mrck.nomedia_4.3.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+b29e6a69: @@localPatchFilter -- 6322d6
+b29e6a69: @@localPatchFilter -- 44c482
+b29e6a69: @@localPatchFilter -- 62f45e
+b29e6a69: @@localPatchFilter -- 63271e
+b29e6a69: 	@@@Found patch addr: 6322f2
+b29e6a69: Querying offset: 6322e2
+b29e6a69: 	--Add method name to patch = com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V 	6322e2
+[*] FlowManager: adjust finished.
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 6322c6
+-- current localPatchFilter: 44c472
+-- current localPatchFilter: 62f44e
+-- current localPatchFilter: 63270e
+[GOOD]: Anti-analysis is identified! :) -- 1 --devTamper
+android.widget.Toast/show:()V:63237a		=(rels)=>		1
+[*] Unique action: 1:375266 : <<CALL>> : com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V:63237a  =>  android.widget.Toast/show:()V:2a3e70
+-- current localPatchFilter: 6322c6
+-- current localPatchFilter: 44c472
+-- current localPatchFilter: 62f44e
+-- current localPatchFilter: 63270e
+[GOOD]: Anti-analysis is identified! :) -- 1 --devDebug
+android.widget.Toast/show:()V:63237a		=(rels)=>		1
+[*] Unique action: 1:375266 : <<CALL>> : com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V:63237a  =>  android.widget.Toast/show:()V:2a3e70
+	1:compareBackwardBranch: 1:373464 : <<BRANCH>> : com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V:6322e2  =>  com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V:6322ea
+Action is completely same :)
+Entry: 6321b0
+com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V: 6322e2 -> 6322ea
+		com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V: 132 -> 13a
+addPatchReadme: java.lang.Class<com.mrck.nomedia.act.MainActivity>onRequestPermissionsResult(I[Ljava/lang/String;[I)V 132 t
+46604b9f: [+] Patches found in this round: 1
+46604b9f: [*] Found Patch size: 1
+Target PID : 
+	1:compareBackwardBranch: 1:373464 : <<BRANCH>> : com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V:6322e2  =>  com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V:6322ea
+Action is completely same :)
+Entry: 6321b0
+com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V: 6322e2 -> 6322ea
+		com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V: 132 -> 13a
+addPatchReadme: java.lang.Class<com.mrck.nomedia.act.MainActivity>onRequestPermissionsResult(I[Ljava/lang/String;[I)V 132 t
+159ceeed: [+] Patches found in this round: 1
+159ceeed: [*] Found Patch size: 1
+Target PID : 
+ExitReason-Code: 5 (/home/santapark/Extended3/DEEPerence/reEx/devTamper_com.mrck.nomedia_4.3.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+46604b9f: @@localPatchFilter -- 6322d6
+46604b9f: @@localPatchFilter -- 44c482
+46604b9f: @@localPatchFilter -- 62f45e
+46604b9f: @@localPatchFilter -- 63271e
+46604b9f: 	@@@Found patch addr: 6322f2
+46604b9f: Querying offset: 6322e2
+46604b9f: 	--Add method name to patch = com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V 	6322e2
+ExitReason-Code: 5 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_com.mrck.nomedia_4.3.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+159ceeed: @@localPatchFilter -- 6322d6
+159ceeed: @@localPatchFilter -- 44c482
+159ceeed: @@localPatchFilter -- 62f45e
+159ceeed: @@localPatchFilter -- 63271e
+159ceeed: 	@@@Found patch addr: 6322f2
+159ceeed: Querying offset: 6322e2
+159ceeed: 	--Add method name to patch = com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V 	6322e2
+Devices presenting anti-analysis: 
+	devTamper
+	devRoot
+	devDebug
+46604b9f: patching method: b.c.c.f.h/K0:()V
+46604b9f: patching method: com.mrck.nomedia.act.MainActivity$b/a:(Lb/c/b/a/c;)V
+46604b9f: patching method: com.mrck.nomedia.act.MainActivity/onResume:()V
+46604b9f: patching method: com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V
+46604b9f: outDir - /home/santapark/Extended3/DEEPerence/reEx/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devTamper
+Wow!!!!!  --  b.c.c.f.h/K0:()V
+fallthrough: c6
+branchTarget: cc
+label = cond_0
+GOTO -- c6 	cc
+Wow!!!!!  --  com.mrck.nomedia.act.MainActivity$b/a:(Lb/c/b/a/c;)V
+fallthrough: 3f2
+branchTarget: 3f2
+NOP!
+Wow!!!!!  --  com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V
+fallthrough: 138
+branchTarget: 13a
+label = sswitch_data_5
+GOTO -- 138 	13a
+Wow!!!!!  --  com.mrck.nomedia.act.MainActivity/onResume:()V
+fallthrough: f6
+branchTarget: e4
+label = cond_0
+GOTO -- f6 	e4
+outDir: /home/santapark/Extended3/DEEPerence/reEx/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devTamper/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+46604b9f: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devTamper/signed_com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+46604b9f: First address of Lb/c/c/f/h;->K0()V = 44c3c0
+46604b9f: Address - Lb/c/c/f/h;->K0()V@c2	 lastOffset = 234
+46604b9f: Instruction@@: IF_EQZ
+46604b9f: First address of Lcom/mrck/nomedia/act/MainActivity$b;->a(Lb/c/b/a/c;)V = 62f070
+46604b9f: Address - Lcom/mrck/nomedia/act/MainActivity$b;->a(Lb/c/b/a/c;)V@3ee	 lastOffset = 6c0
+46604b9f: Instruction@@: IF_NEZ
+46604b9f: First address of Lcom/mrck/nomedia/act/MainActivity;->onResume()V = 63262c
+46604b9f: Address - Lcom/mrck/nomedia/act/MainActivity;->onResume()V@f2	 lastOffset = 1ac
+46604b9f: Instruction@@: IF_EQZ
+46604b9f: First address of Lcom/mrck/nomedia/act/MainActivity;->onRequestPermissionsResult(I[Ljava/lang/String;[I)V = 6321c0
+46604b9f: Address - Lcom/mrck/nomedia/act/MainActivity;->onRequestPermissionsResult(I[Ljava/lang/String;[I)V@132	 lastOffset = 438
+46604b9f: Instruction@@: SPARSE_SWITCH
+b29e6a69: patching method: b.c.c.f.h/K0:()V
+b29e6a69: patching method: com.mrck.nomedia.act.MainActivity$b/a:(Lb/c/b/a/c;)V
+b29e6a69: patching method: com.mrck.nomedia.act.MainActivity/onResume:()V
+b29e6a69: patching method: com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devRoot
+Wow!!!!!  --  b.c.c.f.h/K0:()V
+fallthrough: c6
+branchTarget: cc
+label = cond_0
+GOTO -- c6 	cc
+Wow!!!!!  --  com.mrck.nomedia.act.MainActivity$b/a:(Lb/c/b/a/c;)V
+fallthrough: 3f2
+branchTarget: 3f2
+NOP!
+Wow!!!!!  --  com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V
+fallthrough: 138
+branchTarget: 13a
+label = sswitch_data_5
+GOTO -- 138 	13a
+Wow!!!!!  --  com.mrck.nomedia.act.MainActivity/onResume:()V
+fallthrough: f6
+branchTarget: e4
+label = cond_0
+GOTO -- f6 	e4
+outDir: /home/santapark/Extended3/DEEPerence/reEx/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devRoot/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devRoot/signed_com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+b29e6a69: First address of Lb/c/c/f/h;->K0()V = 44c3c0
+b29e6a69: Address - Lb/c/c/f/h;->K0()V@c2	 lastOffset = 234
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Lcom/mrck/nomedia/act/MainActivity$b;->a(Lb/c/b/a/c;)V = 62f070
+b29e6a69: Address - Lcom/mrck/nomedia/act/MainActivity$b;->a(Lb/c/b/a/c;)V@3ee	 lastOffset = 6c0
+b29e6a69: Instruction@@: IF_NEZ
+b29e6a69: First address of Lcom/mrck/nomedia/act/MainActivity;->onResume()V = 63262c
+b29e6a69: Address - Lcom/mrck/nomedia/act/MainActivity;->onResume()V@f2	 lastOffset = 1ac
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Lcom/mrck/nomedia/act/MainActivity;->onRequestPermissionsResult(I[Ljava/lang/String;[I)V = 6321c0
+b29e6a69: Address - Lcom/mrck/nomedia/act/MainActivity;->onRequestPermissionsResult(I[Ljava/lang/String;[I)V@132	 lastOffset = 438
+b29e6a69: Instruction@@: SPARSE_SWITCH
+159ceeed: patching method: b.c.c.f.h/K0:()V
+159ceeed: patching method: com.mrck.nomedia.act.MainActivity$b/a:(Lb/c/b/a/c;)V
+159ceeed: patching method: com.mrck.nomedia.act.MainActivity/onResume:()V
+159ceeed: patching method: com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V
+159ceeed: outDir - /home/santapark/Extended3/DEEPerence/reEx/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devDebug
+Wow!!!!!  --  b.c.c.f.h/K0:()V
+fallthrough: c6
+branchTarget: cc
+label = cond_0
+GOTO -- c6 	cc
+Wow!!!!!  --  com.mrck.nomedia.act.MainActivity$b/a:(Lb/c/b/a/c;)V
+fallthrough: 3f2
+branchTarget: 3f2
+NOP!
+Wow!!!!!  --  com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V
+fallthrough: 138
+branchTarget: 13a
+label = sswitch_data_5
+GOTO -- 138 	13a
+Wow!!!!!  --  com.mrck.nomedia.act.MainActivity/onResume:()V
+fallthrough: f6
+branchTarget: e4
+label = cond_0
+GOTO -- f6 	e4
+outDir: /home/santapark/Extended3/DEEPerence/reEx/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devDebug/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+159ceeed: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devDebug/signed_com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+159ceeed: First address of Lb/c/c/f/h;->K0()V = 44c3c0
+159ceeed: Address - Lb/c/c/f/h;->K0()V@c2	 lastOffset = 234
+159ceeed: Instruction@@: IF_EQZ
+159ceeed: First address of Lcom/mrck/nomedia/act/MainActivity$b;->a(Lb/c/b/a/c;)V = 62f070
+159ceeed: Address - Lcom/mrck/nomedia/act/MainActivity$b;->a(Lb/c/b/a/c;)V@3ee	 lastOffset = 6c0
+159ceeed: Instruction@@: IF_NEZ
+159ceeed: First address of Lcom/mrck/nomedia/act/MainActivity;->onResume()V = 63262c
+159ceeed: Address - Lcom/mrck/nomedia/act/MainActivity;->onResume()V@f2	 lastOffset = 1ac
+159ceeed: Instruction@@: IF_EQZ
+159ceeed: First address of Lcom/mrck/nomedia/act/MainActivity;->onRequestPermissionsResult(I[Ljava/lang/String;[I)V = 6321c0
+159ceeed: Address - Lcom/mrck/nomedia/act/MainActivity;->onRequestPermissionsResult(I[Ljava/lang/String;[I)V@132	 lastOffset = 438
+159ceeed: Instruction@@: SPARSE_SWITCH
+159ceeed: (Not Installed) Trying remove : true
+46604b9f: (Not Installed) Trying remove : true
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devDebug/signed_com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devRoot/signed_com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devTamper/signed_com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+159ceeed: Installation Success
+b29e6a69: Installation Success
+46604b9f: Installation Success
+46604b9f: startApplication called! - devTamper
+b29e6a69: startApplication called! - devRoot
+159ceeed: startApplication called! - devDebug
+46604b9f: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devTamper_com.mrck.nomedia_4.3.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_com.mrck.nomedia_4.3.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_com.mrck.nomedia_4.3.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+46604b9f: Running Application: com.mrck.nomedia
+b29e6a69: Running Application: com.mrck.nomedia
+PIDs--------------------------------------------------------------------------
+u0_a446        3550    423 13960516 106192 0                  0 R com.mrck.nomedia
+forward tcp:35535 jdwp:3550
+[*]Found JDWP Target: 3550
+159ceeed: Running Application: com.mrck.nomedia
+46604b9f: Running is done - starting comparing... : 10001
+46604b9f: Terminated logcat thread...by itself
+159ceeed: Running is done - starting comparing... : 10001
+159ceeed: Terminated logcat thread...by itself
+PIDs--------------------------------------------------------------------------
+b29e6a69: Running is done - starting comparing... : 10001
+b29e6a69: Terminated logcat thread...by itself
+46604b9f: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+46604b9f: savedPid = null
+PIDs--------------------------------------------------------------------------
+46604b9f: savedPid2 = null
+Stopping app: com.mrck.nomedia
+159ceeed: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+159ceeed: savedPid = null
+PIDs--------------------------------------------------------------------------
+159ceeed: savedPid2 = null
+Stopping app: com.mrck.nomedia
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+b29e6a69: savedPid = null
+PIDs--------------------------------------------------------------------------
+b29e6a69: savedPid2 = null
+Stopping app: com.mrck.nomedia
+Tryging remove : uninstall com.mrck.nomedia(com.mrck.nomedia)
+159ceeed: Remove Success
+159ceeed: ilog file size: 17276360
+159ceeed: End of collecting logcat...
+Tryging remove : uninstall com.mrck.nomedia(com.mrck.nomedia)
+46604b9f: Remove Success
+46604b9f: ilog file size: 18193115
+46604b9f: End of collecting logcat...
+Tryging remove : uninstall com.mrck.nomedia(com.mrck.nomedia)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 16926611
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 24
+Target PID : 5760
+Target PID : 5760
+Target PID : 5760
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_com.mrck.nomedia_4.3.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+Target PID : 
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_com.mrck.nomedia_4.3.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+Target PID : 
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_com.mrck.nomedia_4.3.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+Target PID : 
+ExitReason-Code: 5 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_com.mrck.nomedia_4.3.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+159ceeed: /home/santapark/Extended3/DEEPerence/reEx/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk launch is failed on devDebug
+159ceeed: Failed Patch: 6322f2
+159ceeed: adding filter -- 62f44e
+159ceeed: adding filter -- 63270e
+159ceeed: adding filter -- 44c472
+ExitReason-Code: 5 (/home/santapark/Extended3/DEEPerence/reEx/devTamper_com.mrck.nomedia_4.3.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+46604b9f: /home/santapark/Extended3/DEEPerence/reEx/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk launch is failed on devTamper
+46604b9f: Failed Patch: 6322f2
+46604b9f: adding filter -- 62f44e
+46604b9f: adding filter -- 63270e
+46604b9f: adding filter -- 44c472
+ExitReason-Code: 5 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_com.mrck.nomedia_4.3.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+b29e6a69: /home/santapark/Extended3/DEEPerence/reEx/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk launch is failed on devRoot
+b29e6a69: Failed Patch: 6322f2
+b29e6a69: adding filter -- 62f44e
+b29e6a69: adding filter -- 63270e
+b29e6a69: adding filter -- 44c472
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 6322e2
+-- current localPatchFilter: 6322c6
+-- current localPatchFilter: 44c472
+-- current localPatchFilter: 62f44e
+-- current localPatchFilter: 63270e
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.widget.Toast/show:()V:63237a		=(rels)=>		1
+[*] Unique action: 1:375266 : <<CALL>> : com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V:63237a  =>  android.widget.Toast/show:()V:2a3e70
+	1:compareBackwardBranch: 1:373458 : <<BRANCH>> : com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V:63230a  =>  com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V:6322f0
+Action is completely same :)
+Entry: 6321b0
+com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V: 63230a -> 6322f0
+		com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V: 15a -> 140
+addPatchReadme: java.lang.Class<com.mrck.nomedia.act.MainActivity>onRequestPermissionsResult(I[Ljava/lang/String;[I)V 15a t
+b29e6a69: [+] Patches found in this round: 1
+b29e6a69: [*] Found Patch size: 1
+Target PID : 
+ExitReason-Code: 5 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_com.mrck.nomedia_4.3.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+b29e6a69: @@localPatchFilter -- 6322f2
+b29e6a69: @@localPatchFilter -- 6322d6
+b29e6a69: @@localPatchFilter -- 44c482
+b29e6a69: @@localPatchFilter -- 62f45e
+b29e6a69: @@localPatchFilter -- 63271e
+b29e6a69: 	@@@Found patch addr: 63231a
+b29e6a69: Querying offset: 63230a
+b29e6a69: 	--Add method name to patch = com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V 	63230a
+[*] FlowManager: adjust finished.
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 6322e2
+-- current localPatchFilter: 6322c6
+-- current localPatchFilter: 44c472
+-- current localPatchFilter: 62f44e
+-- current localPatchFilter: 63270e
+[GOOD]: Anti-analysis is identified! :) -- 1 --devDebug
+android.widget.Toast/show:()V:63237a		=(rels)=>		1
+[*] Unique action: 1:375266 : <<CALL>> : com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V:63237a  =>  android.widget.Toast/show:()V:2a3e70
+-- current localPatchFilter: 6322e2
+-- current localPatchFilter: 6322c6
+-- current localPatchFilter: 44c472
+-- current localPatchFilter: 62f44e
+-- current localPatchFilter: 63270e
+[GOOD]: Anti-analysis is identified! :) -- 1 --devTamper
+android.widget.Toast/show:()V:63237a		=(rels)=>		1
+[*] Unique action: 1:375266 : <<CALL>> : com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V:63237a  =>  android.widget.Toast/show:()V:2a3e70
+	1:compareBackwardBranch: 1:373458 : <<BRANCH>> : com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V:63230a  =>  com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V:6322f0
+Action is completely same :)
+Entry: 6321b0
+com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V: 63230a -> 6322f0
+		com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V: 15a -> 140
+addPatchReadme: java.lang.Class<com.mrck.nomedia.act.MainActivity>onRequestPermissionsResult(I[Ljava/lang/String;[I)V 15a t
+159ceeed: [+] Patches found in this round: 1
+159ceeed: [*] Found Patch size: 1
+Target PID : 
+	1:compareBackwardBranch: 1:373458 : <<BRANCH>> : com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V:63230a  =>  com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V:6322f0
+Action is completely same :)
+Entry: 6321b0
+com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V: 63230a -> 6322f0
+		com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V: 15a -> 140
+addPatchReadme: java.lang.Class<com.mrck.nomedia.act.MainActivity>onRequestPermissionsResult(I[Ljava/lang/String;[I)V 15a t
+46604b9f: [+] Patches found in this round: 1
+46604b9f: [*] Found Patch size: 1
+Target PID : 
+ExitReason-Code: 5 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_com.mrck.nomedia_4.3.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+159ceeed: @@localPatchFilter -- 6322f2
+159ceeed: @@localPatchFilter -- 6322d6
+159ceeed: @@localPatchFilter -- 44c482
+159ceeed: @@localPatchFilter -- 62f45e
+159ceeed: @@localPatchFilter -- 63271e
+159ceeed: 	@@@Found patch addr: 63231a
+159ceeed: Querying offset: 63230a
+159ceeed: 	--Add method name to patch = com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V 	63230a
+ExitReason-Code: 5 (/home/santapark/Extended3/DEEPerence/reEx/devTamper_com.mrck.nomedia_4.3.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+46604b9f: @@localPatchFilter -- 6322f2
+46604b9f: @@localPatchFilter -- 6322d6
+46604b9f: @@localPatchFilter -- 44c482
+46604b9f: @@localPatchFilter -- 62f45e
+46604b9f: @@localPatchFilter -- 63271e
+46604b9f: 	@@@Found patch addr: 63231a
+46604b9f: Querying offset: 63230a
+46604b9f: 	--Add method name to patch = com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V 	63230a
+Devices presenting anti-analysis: 
+	devTamper
+	devRoot
+	devDebug
+46604b9f: patching method: b.c.c.f.h/K0:()V
+46604b9f: patching method: com.mrck.nomedia.act.MainActivity$b/a:(Lb/c/b/a/c;)V
+46604b9f: patching method: com.mrck.nomedia.act.MainActivity/onResume:()V
+46604b9f: patching method: com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V
+46604b9f: outDir - /home/santapark/Extended3/DEEPerence/reEx/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devTamper
+Wow!!!!!  --  b.c.c.f.h/K0:()V
+fallthrough: c6
+branchTarget: cc
+label = cond_0
+GOTO -- c6 	cc
+Wow!!!!!  --  com.mrck.nomedia.act.MainActivity$b/a:(Lb/c/b/a/c;)V
+fallthrough: 3f2
+branchTarget: 3f2
+NOP!
+Wow!!!!!  --  com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V
+fallthrough: 160
+branchTarget: 140
+label = sswitch_data_6
+GOTO -- 160 	140
+Wow!!!!!  --  com.mrck.nomedia.act.MainActivity/onResume:()V
+fallthrough: f6
+branchTarget: e4
+label = cond_0
+GOTO -- f6 	e4
+outDir: /home/santapark/Extended3/DEEPerence/reEx/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devTamper/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+46604b9f: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devTamper/signed_com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+46604b9f: First address of Lb/c/c/f/h;->K0()V = 44c3c0
+46604b9f: Address - Lb/c/c/f/h;->K0()V@c2	 lastOffset = 234
+46604b9f: Instruction@@: IF_EQZ
+46604b9f: First address of Lcom/mrck/nomedia/act/MainActivity$b;->a(Lb/c/b/a/c;)V = 62f070
+46604b9f: Address - Lcom/mrck/nomedia/act/MainActivity$b;->a(Lb/c/b/a/c;)V@3ee	 lastOffset = 6c0
+46604b9f: Instruction@@: IF_NEZ
+46604b9f: First address of Lcom/mrck/nomedia/act/MainActivity;->onResume()V = 63262c
+46604b9f: Address - Lcom/mrck/nomedia/act/MainActivity;->onResume()V@f2	 lastOffset = 1ac
+46604b9f: Instruction@@: IF_EQZ
+46604b9f: First address of Lcom/mrck/nomedia/act/MainActivity;->onRequestPermissionsResult(I[Ljava/lang/String;[I)V = 6321c0
+46604b9f: Address - Lcom/mrck/nomedia/act/MainActivity;->onRequestPermissionsResult(I[Ljava/lang/String;[I)V@15a	 lastOffset = 438
+46604b9f: Instruction@@: SPARSE_SWITCH
+b29e6a69: patching method: b.c.c.f.h/K0:()V
+b29e6a69: patching method: com.mrck.nomedia.act.MainActivity$b/a:(Lb/c/b/a/c;)V
+b29e6a69: patching method: com.mrck.nomedia.act.MainActivity/onResume:()V
+b29e6a69: patching method: com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devRoot
+Wow!!!!!  --  b.c.c.f.h/K0:()V
+fallthrough: c6
+branchTarget: cc
+label = cond_0
+GOTO -- c6 	cc
+Wow!!!!!  --  com.mrck.nomedia.act.MainActivity$b/a:(Lb/c/b/a/c;)V
+fallthrough: 3f2
+branchTarget: 3f2
+NOP!
+Wow!!!!!  --  com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V
+fallthrough: 160
+branchTarget: 140
+label = sswitch_data_6
+GOTO -- 160 	140
+Wow!!!!!  --  com.mrck.nomedia.act.MainActivity/onResume:()V
+fallthrough: f6
+branchTarget: e4
+label = cond_0
+GOTO -- f6 	e4
+outDir: /home/santapark/Extended3/DEEPerence/reEx/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devRoot/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devRoot/signed_com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+b29e6a69: First address of Lb/c/c/f/h;->K0()V = 44c3c0
+b29e6a69: Address - Lb/c/c/f/h;->K0()V@c2	 lastOffset = 234
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Lcom/mrck/nomedia/act/MainActivity$b;->a(Lb/c/b/a/c;)V = 62f070
+b29e6a69: Address - Lcom/mrck/nomedia/act/MainActivity$b;->a(Lb/c/b/a/c;)V@3ee	 lastOffset = 6c0
+b29e6a69: Instruction@@: IF_NEZ
+b29e6a69: First address of Lcom/mrck/nomedia/act/MainActivity;->onResume()V = 63262c
+b29e6a69: Address - Lcom/mrck/nomedia/act/MainActivity;->onResume()V@f2	 lastOffset = 1ac
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Lcom/mrck/nomedia/act/MainActivity;->onRequestPermissionsResult(I[Ljava/lang/String;[I)V = 6321c0
+b29e6a69: Address - Lcom/mrck/nomedia/act/MainActivity;->onRequestPermissionsResult(I[Ljava/lang/String;[I)V@15a	 lastOffset = 438
+b29e6a69: Instruction@@: SPARSE_SWITCH
+159ceeed: patching method: b.c.c.f.h/K0:()V
+159ceeed: patching method: com.mrck.nomedia.act.MainActivity$b/a:(Lb/c/b/a/c;)V
+159ceeed: patching method: com.mrck.nomedia.act.MainActivity/onResume:()V
+159ceeed: patching method: com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V
+159ceeed: outDir - /home/santapark/Extended3/DEEPerence/reEx/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devDebug
+Wow!!!!!  --  b.c.c.f.h/K0:()V
+fallthrough: c6
+branchTarget: cc
+label = cond_0
+GOTO -- c6 	cc
+Wow!!!!!  --  com.mrck.nomedia.act.MainActivity$b/a:(Lb/c/b/a/c;)V
+fallthrough: 3f2
+branchTarget: 3f2
+NOP!
+Wow!!!!!  --  com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V
+fallthrough: 160
+branchTarget: 140
+label = sswitch_data_6
+GOTO -- 160 	140
+Wow!!!!!  --  com.mrck.nomedia.act.MainActivity/onResume:()V
+fallthrough: f6
+branchTarget: e4
+label = cond_0
+GOTO -- f6 	e4
+outDir: /home/santapark/Extended3/DEEPerence/reEx/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devDebug/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+159ceeed: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devDebug/signed_com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+159ceeed: First address of Lb/c/c/f/h;->K0()V = 44c3c0
+159ceeed: Address - Lb/c/c/f/h;->K0()V@c2	 lastOffset = 234
+159ceeed: Instruction@@: IF_EQZ
+159ceeed: First address of Lcom/mrck/nomedia/act/MainActivity$b;->a(Lb/c/b/a/c;)V = 62f070
+159ceeed: Address - Lcom/mrck/nomedia/act/MainActivity$b;->a(Lb/c/b/a/c;)V@3ee	 lastOffset = 6c0
+159ceeed: Instruction@@: IF_NEZ
+159ceeed: First address of Lcom/mrck/nomedia/act/MainActivity;->onResume()V = 63262c
+159ceeed: Address - Lcom/mrck/nomedia/act/MainActivity;->onResume()V@f2	 lastOffset = 1ac
+159ceeed: Instruction@@: IF_EQZ
+159ceeed: First address of Lcom/mrck/nomedia/act/MainActivity;->onRequestPermissionsResult(I[Ljava/lang/String;[I)V = 6321c0
+159ceeed: Address - Lcom/mrck/nomedia/act/MainActivity;->onRequestPermissionsResult(I[Ljava/lang/String;[I)V@15a	 lastOffset = 438
+159ceeed: Instruction@@: SPARSE_SWITCH
+159ceeed: (Not Installed) Trying remove : true
+b29e6a69: (Not Installed) Trying remove : true
+46604b9f: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devDebug/signed_com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devRoot/signed_com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devTamper/signed_com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+159ceeed: Installation Success
+b29e6a69: Installation Success
+46604b9f: Installation Success
+46604b9f: startApplication called! - devTamper
+b29e6a69: startApplication called! - devRoot
+159ceeed: startApplication called! - devDebug
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_com.mrck.nomedia_4.3.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+46604b9f: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devTamper_com.mrck.nomedia_4.3.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_com.mrck.nomedia_4.3.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+46604b9f: Running Application: com.mrck.nomedia
+b29e6a69: Running Application: com.mrck.nomedia
+PIDs--------------------------------------------------------------------------
+u0_a447        3657    423 13977952 106108 0                  0 S com.mrck.nomedia
+forward tcp:35535 jdwp:3657
+[*]Found JDWP Target: 3657
+159ceeed: Running Application: com.mrck.nomedia
+159ceeed: Running is done - starting comparing... : 10001
+159ceeed: Terminated logcat thread...by itself
+46604b9f: Running is done - starting comparing... : 10001
+46604b9f: Terminated logcat thread...by itself
+PIDs--------------------------------------------------------------------------
+46604b9f: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+46604b9f: savedPid = null
+PIDs--------------------------------------------------------------------------
+46604b9f: savedPid2 = null
+Stopping app: com.mrck.nomedia
+159ceeed: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+159ceeed: savedPid = null
+PIDs--------------------------------------------------------------------------
+159ceeed: savedPid2 = null
+Stopping app: com.mrck.nomedia
+b29e6a69: Running is done - starting comparing... : 10001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+b29e6a69: savedPid = null
+PIDs--------------------------------------------------------------------------
+b29e6a69: savedPid2 = null
+Stopping app: com.mrck.nomedia
+Tryging remove : uninstall com.mrck.nomedia(com.mrck.nomedia)
+159ceeed: Remove Success
+159ceeed: ilog file size: 17552834
+159ceeed: End of collecting logcat...
+Tryging remove : uninstall com.mrck.nomedia(com.mrck.nomedia)
+46604b9f: Remove Success
+46604b9f: ilog file size: 18099267
+46604b9f: End of collecting logcat...
+Tryging remove : uninstall com.mrck.nomedia(com.mrck.nomedia)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 17002042
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 23
+Target PID : 5760
+Target PID : 5760
+Target PID : 5760
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_com.mrck.nomedia_4.3.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+Target PID : 
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_com.mrck.nomedia_4.3.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+Target PID : 
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_com.mrck.nomedia_4.3.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+Target PID : 
+ExitReason-Code: 5 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_com.mrck.nomedia_4.3.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+b29e6a69: /home/santapark/Extended3/DEEPerence/reEx/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk launch is failed on devRoot
+b29e6a69: Failed Patch: 63231a
+b29e6a69: adding filter -- 62f44e
+b29e6a69: adding filter -- 63270e
+b29e6a69: adding filter -- 44c472
+ExitReason-Code: 5 (/home/santapark/Extended3/DEEPerence/reEx/devTamper_com.mrck.nomedia_4.3.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+46604b9f: /home/santapark/Extended3/DEEPerence/reEx/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk launch is failed on devTamper
+46604b9f: Failed Patch: 63231a
+46604b9f: adding filter -- 62f44e
+46604b9f: adding filter -- 63270e
+46604b9f: adding filter -- 44c472
+ExitReason-Code: 5 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_com.mrck.nomedia_4.3.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+159ceeed: /home/santapark/Extended3/DEEPerence/reEx/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk launch is failed on devDebug
+159ceeed: Failed Patch: 63231a
+159ceeed: adding filter -- 62f44e
+159ceeed: adding filter -- 63270e
+159ceeed: adding filter -- 44c472
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 6322e2
+-- current localPatchFilter: 6322c6
+-- current localPatchFilter: 44c472
+-- current localPatchFilter: 63230a
+-- current localPatchFilter: 62f44e
+-- current localPatchFilter: 63270e
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.widget.Toast/show:()V:63237a		=(rels)=>		1
+[*] Unique action: 1:375266 : <<CALL>> : com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V:63237a  =>  android.widget.Toast/show:()V:2a3e70
+	1:compareBackwardBranch: 1:373451 : <<BRANCH>> : com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V:63232e  =>  com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V:632318
+Action is completely same :)
+Entry: 6321b0
+com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V: 63232e -> 632318
+		com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V: 17e -> 168
+addPatchReadme: java.lang.Class<com.mrck.nomedia.act.MainActivity>onRequestPermissionsResult(I[Ljava/lang/String;[I)V 17e t
+b29e6a69: [+] Patches found in this round: 1
+b29e6a69: [*] Found Patch size: 1
+Target PID : 
+ExitReason-Code: 5 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_com.mrck.nomedia_4.3.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+b29e6a69: @@localPatchFilter -- 6322f2
+b29e6a69: @@localPatchFilter -- 6322d6
+b29e6a69: @@localPatchFilter -- 44c482
+b29e6a69: @@localPatchFilter -- 63231a
+b29e6a69: @@localPatchFilter -- 62f45e
+b29e6a69: @@localPatchFilter -- 63271e
+b29e6a69: 	@@@Found patch addr: 63233e
+b29e6a69: Querying offset: 63232e
+b29e6a69: 	--Add method name to patch = com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V 	63232e
+[*] FlowManager: adjust finished.
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 6322e2
+-- current localPatchFilter: 6322c6
+-- current localPatchFilter: 44c472
+-- current localPatchFilter: 63230a
+-- current localPatchFilter: 62f44e
+-- current localPatchFilter: 63270e
+[GOOD]: Anti-analysis is identified! :) -- 1 --devDebug
+android.widget.Toast/show:()V:63237a		=(rels)=>		1
+[*] Unique action: 1:375266 : <<CALL>> : com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V:63237a  =>  android.widget.Toast/show:()V:2a3e70
+-- current localPatchFilter: 6322e2
+-- current localPatchFilter: 6322c6
+-- current localPatchFilter: 44c472
+-- current localPatchFilter: 63230a
+-- current localPatchFilter: 62f44e
+-- current localPatchFilter: 63270e
+[GOOD]: Anti-analysis is identified! :) -- 1 --devTamper
+android.widget.Toast/show:()V:63237a		=(rels)=>		1
+[*] Unique action: 1:375266 : <<CALL>> : com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V:63237a  =>  android.widget.Toast/show:()V:2a3e70
+	1:compareBackwardBranch: 1:373451 : <<BRANCH>> : com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V:63232e  =>  com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V:632318
+Action is completely same :)
+Entry: 6321b0
+com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V: 63232e -> 632318
+		com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V: 17e -> 168
+addPatchReadme: java.lang.Class<com.mrck.nomedia.act.MainActivity>onRequestPermissionsResult(I[Ljava/lang/String;[I)V 17e t
+159ceeed: [+] Patches found in this round: 1
+159ceeed: [*] Found Patch size: 1
+Target PID : 
+	1:compareBackwardBranch: 1:373451 : <<BRANCH>> : com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V:63232e  =>  com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V:632318
+Action is completely same :)
+Entry: 6321b0
+com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V: 63232e -> 632318
+		com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V: 17e -> 168
+addPatchReadme: java.lang.Class<com.mrck.nomedia.act.MainActivity>onRequestPermissionsResult(I[Ljava/lang/String;[I)V 17e t
+46604b9f: [+] Patches found in this round: 1
+46604b9f: [*] Found Patch size: 1
+Target PID : 
+ExitReason-Code: 5 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_com.mrck.nomedia_4.3.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+159ceeed: @@localPatchFilter -- 6322f2
+159ceeed: @@localPatchFilter -- 6322d6
+159ceeed: @@localPatchFilter -- 44c482
+159ceeed: @@localPatchFilter -- 63231a
+159ceeed: @@localPatchFilter -- 62f45e
+159ceeed: @@localPatchFilter -- 63271e
+159ceeed: 	@@@Found patch addr: 63233e
+159ceeed: Querying offset: 63232e
+159ceeed: 	--Add method name to patch = com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V 	63232e
+ExitReason-Code: 5 (/home/santapark/Extended3/DEEPerence/reEx/devTamper_com.mrck.nomedia_4.3.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+46604b9f: @@localPatchFilter -- 6322f2
+46604b9f: @@localPatchFilter -- 6322d6
+46604b9f: @@localPatchFilter -- 44c482
+46604b9f: @@localPatchFilter -- 63231a
+46604b9f: @@localPatchFilter -- 62f45e
+46604b9f: @@localPatchFilter -- 63271e
+46604b9f: 	@@@Found patch addr: 63233e
+46604b9f: Querying offset: 63232e
+46604b9f: 	--Add method name to patch = com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V 	63232e
+Devices presenting anti-analysis: 
+	devTamper
+	devRoot
+	devDebug
+46604b9f: patching method: b.c.c.f.h/K0:()V
+46604b9f: patching method: com.mrck.nomedia.act.MainActivity$b/a:(Lb/c/b/a/c;)V
+46604b9f: patching method: com.mrck.nomedia.act.MainActivity/onResume:()V
+46604b9f: patching method: com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V
+46604b9f: outDir - /home/santapark/Extended3/DEEPerence/reEx/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devTamper
+Wow!!!!!  --  b.c.c.f.h/K0:()V
+fallthrough: c6
+branchTarget: cc
+label = cond_0
+GOTO -- c6 	cc
+Wow!!!!!  --  com.mrck.nomedia.act.MainActivity$b/a:(Lb/c/b/a/c;)V
+fallthrough: 3f2
+branchTarget: 3f2
+NOP!
+Wow!!!!!  --  com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V
+fallthrough: 182
+branchTarget: 168
+label = cond_1
+GOTO -- 182 	168
+Wow!!!!!  --  com.mrck.nomedia.act.MainActivity/onResume:()V
+fallthrough: f6
+branchTarget: e4
+label = cond_0
+GOTO -- f6 	e4
+outDir: /home/santapark/Extended3/DEEPerence/reEx/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devTamper/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+46604b9f: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devTamper/signed_com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+46604b9f: First address of Lb/c/c/f/h;->K0()V = 44c3c0
+46604b9f: Address - Lb/c/c/f/h;->K0()V@c2	 lastOffset = 234
+46604b9f: Instruction@@: IF_EQZ
+46604b9f: First address of Lcom/mrck/nomedia/act/MainActivity$b;->a(Lb/c/b/a/c;)V = 62f070
+46604b9f: Address - Lcom/mrck/nomedia/act/MainActivity$b;->a(Lb/c/b/a/c;)V@3ee	 lastOffset = 6c0
+46604b9f: Instruction@@: IF_NEZ
+46604b9f: First address of Lcom/mrck/nomedia/act/MainActivity;->onResume()V = 63262c
+46604b9f: Address - Lcom/mrck/nomedia/act/MainActivity;->onResume()V@f2	 lastOffset = 1ac
+46604b9f: Instruction@@: IF_EQZ
+46604b9f: First address of Lcom/mrck/nomedia/act/MainActivity;->onRequestPermissionsResult(I[Ljava/lang/String;[I)V = 6321c0
+46604b9f: Address - Lcom/mrck/nomedia/act/MainActivity;->onRequestPermissionsResult(I[Ljava/lang/String;[I)V@17e	 lastOffset = 438
+46604b9f: Instruction@@: IF_EQZ
+b29e6a69: patching method: b.c.c.f.h/K0:()V
+b29e6a69: patching method: com.mrck.nomedia.act.MainActivity$b/a:(Lb/c/b/a/c;)V
+b29e6a69: patching method: com.mrck.nomedia.act.MainActivity/onResume:()V
+b29e6a69: patching method: com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devRoot
+Wow!!!!!  --  b.c.c.f.h/K0:()V
+fallthrough: c6
+branchTarget: cc
+label = cond_0
+GOTO -- c6 	cc
+Wow!!!!!  --  com.mrck.nomedia.act.MainActivity$b/a:(Lb/c/b/a/c;)V
+fallthrough: 3f2
+branchTarget: 3f2
+NOP!
+Wow!!!!!  --  com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V
+fallthrough: 182
+branchTarget: 168
+label = cond_1
+GOTO -- 182 	168
+Wow!!!!!  --  com.mrck.nomedia.act.MainActivity/onResume:()V
+fallthrough: f6
+branchTarget: e4
+label = cond_0
+GOTO -- f6 	e4
+outDir: /home/santapark/Extended3/DEEPerence/reEx/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devRoot/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devRoot/signed_com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+b29e6a69: First address of Lb/c/c/f/h;->K0()V = 44c3c0
+b29e6a69: Address - Lb/c/c/f/h;->K0()V@c2	 lastOffset = 234
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Lcom/mrck/nomedia/act/MainActivity$b;->a(Lb/c/b/a/c;)V = 62f070
+b29e6a69: Address - Lcom/mrck/nomedia/act/MainActivity$b;->a(Lb/c/b/a/c;)V@3ee	 lastOffset = 6c0
+b29e6a69: Instruction@@: IF_NEZ
+b29e6a69: First address of Lcom/mrck/nomedia/act/MainActivity;->onResume()V = 63262c
+b29e6a69: Address - Lcom/mrck/nomedia/act/MainActivity;->onResume()V@f2	 lastOffset = 1ac
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Lcom/mrck/nomedia/act/MainActivity;->onRequestPermissionsResult(I[Ljava/lang/String;[I)V = 6321c0
+b29e6a69: Address - Lcom/mrck/nomedia/act/MainActivity;->onRequestPermissionsResult(I[Ljava/lang/String;[I)V@17e	 lastOffset = 438
+b29e6a69: Instruction@@: IF_EQZ
+159ceeed: patching method: b.c.c.f.h/K0:()V
+159ceeed: patching method: com.mrck.nomedia.act.MainActivity$b/a:(Lb/c/b/a/c;)V
+159ceeed: patching method: com.mrck.nomedia.act.MainActivity/onResume:()V
+159ceeed: patching method: com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V
+159ceeed: outDir - /home/santapark/Extended3/DEEPerence/reEx/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devDebug
+Wow!!!!!  --  b.c.c.f.h/K0:()V
+fallthrough: c6
+branchTarget: cc
+label = cond_0
+GOTO -- c6 	cc
+Wow!!!!!  --  com.mrck.nomedia.act.MainActivity$b/a:(Lb/c/b/a/c;)V
+fallthrough: 3f2
+branchTarget: 3f2
+NOP!
+Wow!!!!!  --  com.mrck.nomedia.act.MainActivity/onRequestPermissionsResult:(I[Ljava/lang/String;[I)V
+fallthrough: 182
+branchTarget: 168
+label = cond_1
+GOTO -- 182 	168
+Wow!!!!!  --  com.mrck.nomedia.act.MainActivity/onResume:()V
+fallthrough: f6
+branchTarget: e4
+label = cond_0
+GOTO -- f6 	e4
+outDir: /home/santapark/Extended3/DEEPerence/reEx/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devDebug/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+159ceeed: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devDebug/signed_com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+159ceeed: First address of Lb/c/c/f/h;->K0()V = 44c3c0
+159ceeed: Address - Lb/c/c/f/h;->K0()V@c2	 lastOffset = 234
+159ceeed: Instruction@@: IF_EQZ
+159ceeed: First address of Lcom/mrck/nomedia/act/MainActivity$b;->a(Lb/c/b/a/c;)V = 62f070
+159ceeed: Address - Lcom/mrck/nomedia/act/MainActivity$b;->a(Lb/c/b/a/c;)V@3ee	 lastOffset = 6c0
+159ceeed: Instruction@@: IF_NEZ
+159ceeed: First address of Lcom/mrck/nomedia/act/MainActivity;->onResume()V = 63262c
+159ceeed: Address - Lcom/mrck/nomedia/act/MainActivity;->onResume()V@f2	 lastOffset = 1ac
+159ceeed: Instruction@@: IF_EQZ
+159ceeed: First address of Lcom/mrck/nomedia/act/MainActivity;->onRequestPermissionsResult(I[Ljava/lang/String;[I)V = 6321c0
+159ceeed: Address - Lcom/mrck/nomedia/act/MainActivity;->onRequestPermissionsResult(I[Ljava/lang/String;[I)V@17e	 lastOffset = 438
+159ceeed: Instruction@@: IF_EQZ
+159ceeed: (Not Installed) Trying remove : true
+b29e6a69: (Not Installed) Trying remove : true
+46604b9f: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devDebug/signed_com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devTamper/signed_com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated_devRoot/signed_com.mrck.nomedia_4.3.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.obfuscated.apk
+159ceeed: Installation Success
+b29e6a69: Installation Success
+46604b9f: Installation Success
+46604b9f: startApplication called! - devTamper
+b29e6a69: startApplication called! - devRoot
+159ceeed: startApplication called! - devDebug
+46604b9f: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devTamper_com.mrck.nomedia_4.3.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_com.mrck.nomedia_4.3.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_com.mrck.nomedia_4.3.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+46604b9f: Running Application: com.mrck.nomedia
+b29e6a69: Running Application: com.mrck.nomedia
+PIDs--------------------------------------------------------------------------
+u0_a448        3765    423 13977952 106584 0                  0 S com.mrck.nomedia
+forward tcp:35535 jdwp:3765
+[*]Found JDWP Target: 3765
+159ceeed: Running Application: com.mrck.nomedia
+PIDs--------------------------------------------------------------------------
+u0_a448        3765    423 14446020 171948 0                  0 S com.mrck.nomedia
+159ceeed: Tryging attach jdb to 3765
+jdb -connect com.sun.jdi.SocketAttach:hostname=localhost,port=35535
+46604b9f: Running is done - starting comparing... : 10001
+46604b9f: Terminated logcat thread...by itself
+46604b9f: Top-activity: com.mrck.nomedia/.act.MainActivity
+PIDs--------------------------------------------------------------------------
+u0_a170       13079    425 14562920 185572 0                  0 S com.mrck.nomedia
+46604b9f: savedPid = 13079
+PIDs--------------------------------------------------------------------------
+u0_a170       13079    425 14562920 185572 0                  0 S com.mrck.nomedia
+46604b9f: savedPid2 = 13079
+Stopping app: com.mrck.nomedia
+159ceeed: Running is done - starting comparing... : 10001
+159ceeed: Terminated logcat thread...by itself
+159ceeed: Top-activity: com.mrck.nomedia/.act.MainActivity
+PIDs--------------------------------------------------------------------------
+u0_a448        3765    423 14574200 198452 0                  0 S com.mrck.nomedia
+159ceeed: savedPid = 3765
+PIDs--------------------------------------------------------------------------
+u0_a448        3765    423 14574200 198452 0                  0 S com.mrck.nomedia
+159ceeed: savedPid2 = 3765
+Stopping app: com.mrck.nomedia
+b29e6a69: Running is done - starting comparing... : 10001
+b29e6a69: Terminated logcat thread...by itself
+Tryging remove : uninstall com.mrck.nomedia(com.mrck.nomedia)
+46604b9f: Remove Success
+46604b9f: ilog file size: 277479604
+46604b9f: End of collecting logcat...
+b29e6a69: Top-activity: com.mrck.nomedia/.act.MainActivity
+PIDs--------------------------------------------------------------------------
+u0_a142        9850    430 14538692 184708 0                  0 S com.mrck.nomedia
+b29e6a69: savedPid = 9850
+PIDs--------------------------------------------------------------------------
+u0_a142        9850    430 14538692 184708 0                  0 S com.mrck.nomedia
+b29e6a69: savedPid2 = 9850
+Stopping app: com.mrck.nomedia
+Tryging remove : uninstall com.mrck.nomedia(com.mrck.nomedia)
+159ceeed: Remove Success
+159ceeed: ilog file size: 277457399
+159ceeed: End of collecting logcat...
+Tryging remove : uninstall com.mrck.nomedia(com.mrck.nomedia)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 277351436
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 22
+Target PID : 5760
+Target PID : 5760
+Target PID : 5760
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_com.mrck.nomedia_4.3.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+Target PID : 13079
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_com.mrck.nomedia_4.3.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+Target PID : 9850
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_com.mrck.nomedia_4.3.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+Target PID : 3765
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devTamper_com.mrck.nomedia_4.3.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+46604b9f: adding filter -- 62f44e
+46604b9f: adding filter -- 63270e
+46604b9f: adding filter -- 63232e
+46604b9f: adding filter -- 44c472
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_com.mrck.nomedia_4.3.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+159ceeed: adding filter -- 62f44e
+159ceeed: adding filter -- 63270e
+159ceeed: adding filter -- 63232e
+159ceeed: adding filter -- 44c472
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_com.mrck.nomedia_4.3.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.obfuscated.ilog)
+b29e6a69: adding filter -- 62f44e
+b29e6a69: adding filter -- 63270e
+b29e6a69: adding filter -- 63232e
+b29e6a69: adding filter -- 44c472
+[*] FlowManager: adjust finished.
+[*] FlowManager: adjust finished.
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 6322e2
+-- current localPatchFilter: 6322c6
+-- current localPatchFilter: 44c472
+-- current localPatchFilter: 63230a
+-- current localPatchFilter: 62f44e
+-- current localPatchFilter: 63270e
+-- current localPatchFilter: 63232e
+Action is completely same :)
+Action is completely same :)
+46604b9f: There is no difference. (tryAgain=false)
+-- current localPatchFilter: 6322e2
+-- current localPatchFilter: 6322c6
+-- current localPatchFilter: 44c472
+-- current localPatchFilter: 63230a
+-- current localPatchFilter: 62f44e
+-- current localPatchFilter: 63270e
+-- current localPatchFilter: 63232e
+Action is completely same :)
+Action is completely same :)
+159ceeed: There is no difference. (tryAgain=false)
+-- current localPatchFilter: 6322e2
+-- current localPatchFilter: 6322c6
+-- current localPatchFilter: 44c472
+-- current localPatchFilter: 63230a
+-- current localPatchFilter: 62f44e
+-- current localPatchFilter: 63270e
+-- current localPatchFilter: 63232e
+Action is completely same :)
+Action is completely same :)
+b29e6a69: There is no difference. (tryAgain=false)
+-- HPFinder will be done in this iteration :)
+hasAntiAnalysis? - devTamper: true on com.mrck.nomedia.act.MainActivity
+	isRemovedThem? - devTamper: true on com.mrck.nomedia.act.MainActivity	-	tryCount: 7
+hasAntiAnalysis? - devRoot: true on com.mrck.nomedia.act.MainActivity
+	isRemovedThem? - devRoot: true on com.mrck.nomedia.act.MainActivity	-	tryCount: 7
+hasAntiAnalysis? - devDebug: true on com.mrck.nomedia.act.MainActivity
+	isRemovedThem? - devDebug: true on com.mrck.nomedia.act.MainActivity	-	tryCount: 7
+3601a6ff: isFailedToLaunch: com.mrck.nomedia/.act.MainActivity
+3601a6ff: 	--result: Good :)
+*****REPORT: com.mrck.nomedia
+* Package name: com.mrck.nomedia
+* Running time: 1294
+* FileSize: 4537558
+devTamper : 277479604
+devRef : 277443537
+devRoot : 277351436
+devDebug : 277457399
+hasAntiAnalysis? - devTamper: true on com.mrck.nomedia.act.MainActivity
+	isRemovedThem? - devTamper: true on com.mrck.nomedia.act.MainActivity	-	tryCount: 7
+hasAntiAnalysis? - devRoot: true on com.mrck.nomedia.act.MainActivity
+	isRemovedThem? - devRoot: true on com.mrck.nomedia.act.MainActivity	-	tryCount: 7
+hasAntiAnalysis? - devDebug: true on com.mrck.nomedia.act.MainActivity
+	isRemovedThem? - devDebug: true on com.mrck.nomedia.act.MainActivity	-	tryCount: 7
+46604b9f: trying remove : com.mrck.nomedia
+3601a6ff: trying remove : com.mrck.nomedia
+159ceeed: trying remove : com.mrck.nomedia
+b29e6a69: trying remove : com.mrck.nomedia
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+b29e6a69: result = true
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+159ceeed: result = true
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+46604b9f: result = true
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+3601a6ff: result = true
+3601a6ff: isFailedToLaunch: com.mrck.nomedia/.act.MainActivity
+3601a6ff: 	--result: Good :)

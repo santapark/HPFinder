@@ -1,0 +1,1829 @@
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample83/AndroidManifest.xml
+launchable-activity: name='com.infrasofttech.CentralBank.CentMobile'  label='Cent Mobile' icon=''
+{ACTIVITY, com.infrasofttech.CentralBank.CentMobile, android.intent.action.MAIN, android.intent.action.SEARCH}
+{RECEIVER, com.infrasoft.otpreader.SmsReceiver, android.provider.Telephony.SMS_RECEIVED}
+{ACTIVITY, com.infrasoft.permissionchecker.PermissionChecker}
+{RECEIVER, com.konylabs.api.location.KonyGeofenceBroadcastReceiver}
+{SERVICE, com.konylabs.api.location.KonyGeoTransitionsJobIntentService}
+{ACTIVITY, com.journeyapps.barcodescanner.CaptureActivity}
+{ACTIVITY, example.zxing.DemoHomeActivity}
+{ACTIVITY, example.zxing.ContinuousCaptureActivity}
+{ACTIVITY, example.zxing.AnyOrientationCaptureActivity}
+{ACTIVITY, example.zxing.FragmentScannerActivity}
+{ACTIVITY, example.zxing.CustomScannerActivity}
+{ACTIVITY, example.zxing.SmallCaptureActivity}
+{SERVICE, com.kony.sdkcommons.Network.NetworkCore.KNYHttpJobIntentService}
+{SERVICE, com.kony.sdkcommons.Network.NetworkCore.KNYHttpService}
+{ACTIVITY, com.infra.imagecrop.CropImageActivity}
+{ACTIVITY, com.infra.imagecrop.ImageCropActivity}
+{ACTIVITY, com.infrasofttech.CentralBank.CentMobile, android.intent.action.MAIN, android.intent.action.SEARCH}
+{RECEIVER, com.infrasoft.otpreader.SmsReceiver, android.provider.Telephony.SMS_RECEIVED}
+{ACTIVITY, com.infrasoft.permissionchecker.PermissionChecker}
+{RECEIVER, com.konylabs.api.location.KonyGeofenceBroadcastReceiver}
+{SERVICE, com.konylabs.api.location.KonyGeoTransitionsJobIntentService}
+{ACTIVITY, com.journeyapps.barcodescanner.CaptureActivity}
+{ACTIVITY, example.zxing.DemoHomeActivity}
+{ACTIVITY, example.zxing.ContinuousCaptureActivity}
+{ACTIVITY, example.zxing.AnyOrientationCaptureActivity}
+{ACTIVITY, example.zxing.FragmentScannerActivity}
+{ACTIVITY, example.zxing.CustomScannerActivity}
+{ACTIVITY, example.zxing.SmallCaptureActivity}
+{SERVICE, com.kony.sdkcommons.Network.NetworkCore.KNYHttpJobIntentService}
+{SERVICE, com.kony.sdkcommons.Network.NetworkCore.KNYHttpService}
+{ACTIVITY, com.infra.imagecrop.CropImageActivity}
+{ACTIVITY, com.infra.imagecrop.ImageCropActivity}
+_getAllDexFiles: /home/santapark/Extended3/DEEPerence/reEx/sample83/classes2.dex
+_getAllDexFiles: /home/santapark/Extended3/DEEPerence/reEx/sample83/classes.dex
+----------------/home/santapark/Extended3/DEEPerence/reEx/sample83.apk
+dexFile = org.jf.dexlib2.dexbacked.DexBackedDexFile@4b40f651
+com.infrasofttech.CentralBank
+com.infrasofttech.CentralBank.CentMobile
+debuggable: false
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample83.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample83.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample83.apk
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample83_46604b9f/sample83.apk
+159ceeed: Installation Success
+3601a6ff: Installation Success
+b29e6a69: Installation Success
+46604b9f: Installing repackaged apk File: 
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample83_46604b9f/signed_sample83.apk
+46604b9f: Installation Success
+46604b9f: startApplication called! - devTamper
+3601a6ff: startApplication called! - devRef
+b29e6a69: startApplication called! - devRoot
+159ceeed: startApplication called! - devDebug
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample83.ilog)
+46604b9f: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devTamper_sample83.ilog)
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample83.ilog)
+3601a6ff: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample83.ilog)
+b29e6a69: Running Application: com.infrasofttech.CentralBank
+46604b9f: Running Application: com.infrasofttech.CentralBank
+3601a6ff: Running Application: com.infrasofttech.CentralBank
+PIDs--------------------------------------------------------------------------
+u0_a373       25710    424 1025172  96508 0                   0 S com.infrasofttech.CentralBank
+forward tcp:35535 jdwp:25710
+[*]Found JDWP Target: 25710
+159ceeed: Running Application: com.infrasofttech.CentralBank
+159ceeed: Running is done - starting comparing... : 10001
+159ceeed: Terminated logcat thread...by itself
+159ceeed: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+159ceeed: savedPid = null
+PIDs--------------------------------------------------------------------------
+159ceeed: savedPid2 = null
+Stopping app: com.infrasofttech.CentralBank
+Tryging remove : uninstall com.infrasofttech.CentralBank(com.infrasofttech.CentralBank)
+159ceeed: Remove Success
+159ceeed: ilog file size: 4995931
+159ceeed: End of collecting logcat...
+b29e6a69: Running is done - starting comparing... : 10001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.infrasofttech.CentralBank/.CentMobile
+PIDs--------------------------------------------------------------------------
+u0_a167        8747    432 1068564 134088 0                   0 S com.infrasofttech.CentralBank
+b29e6a69: savedPid = 8747
+PIDs--------------------------------------------------------------------------
+u0_a167        8747    432 1068564 134088 0                   0 S com.infrasofttech.CentralBank
+b29e6a69: savedPid2 = 8747
+Stopping app: com.infrasofttech.CentralBank
+Tryging remove : uninstall com.infrasofttech.CentralBank(com.infrasofttech.CentralBank)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 178600919
+b29e6a69: End of collecting logcat...
+46604b9f: Terminated logcat thread...by itself
+46604b9f: Top-activity: com.infrasofttech.CentralBank/.CentMobile
+PIDs--------------------------------------------------------------------------
+u0_a113        4726    426 1068276 132892 0                   0 S com.infrasofttech.CentralBank
+46604b9f: savedPid = 4726
+PIDs--------------------------------------------------------------------------
+u0_a113        4726    426 1068276 132892 0                   0 S com.infrasofttech.CentralBank
+46604b9f: savedPid2 = 4726
+Stopping app: com.infrasofttech.CentralBank
+3601a6ff: Terminated logcat thread...by itself
+3601a6ff: Top-activity: com.infrasofttech.CentralBank/.CentMobile
+PIDs--------------------------------------------------------------------------
+u0_a193        4582    412 1073024 131528 0                   0 S com.infrasofttech.CentralBank
+3601a6ff: savedPid = 4582
+PIDs--------------------------------------------------------------------------
+u0_a193        4582    412 1073024 131528 0                   0 S com.infrasofttech.CentralBank
+3601a6ff: savedPid2 = 4582
+Stopping app: com.infrasofttech.CentralBank
+Tryging remove : uninstall com.infrasofttech.CentralBank(com.infrasofttech.CentralBank)
+3601a6ff: Remove Success
+3601a6ff: ilog file size: 349280524
+3601a6ff: End of collecting logcat...
+Tryging remove : uninstall com.infrasofttech.CentralBank(com.infrasofttech.CentralBank)
+46604b9f: Remove Success
+46604b9f: ilog file size: 347852123
+46604b9f: End of collecting logcat...
+HPFinder's try count remains: 29
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample83.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample83.ilog)
+ExitReason-Code: 6 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample83.ilog)
+[*] FlowManager: adjust finished.
+[GOOD]: Anti-analysis is identified! :) -- 1 --devDebug
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:1aa29e		=(rels)=>		1
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample83.ilog)
+[*] Unique action: 1:208168 : <<CALL>> : androidx.appcompat.app.AppCompatDelegateImpl/setContentView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:1aa29e  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+	1:compareBackwardBranch: 1:22538 : <<BRANCH>> : bccccc.fuufuf/b041404140414ДДД04140414:()V:3121e6  =>  bccccc.fuufuf/b041404140414ДДД04140414:()V:312294
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:6293c8		=(rels)=>		1
+[*] Unique action: 1:200493 : <<CALL>> : com.konylabs.android.KonyMain/bхххххх0445х:()Landroid/widget/RelativeLayout;:6293c8  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+	1:compareBackwardBranch: 1:22538 : <<BRANCH>> : bccccc.fuufuf/b041404140414ДДД04140414:()V:3121e6  =>  bccccc.fuufuf/b041404140414ДДД04140414:()V:312294
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:6291d8		=(rels)=>		1
+[*] Unique action: 1:200356 : <<CALL>> : com.konylabs.android.KonyMain/bхххххх0445х:()Landroid/widget/RelativeLayout;:6291d8  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample83.ilog)
+	1:compareBackwardBranch: 1:22538 : <<BRANCH>> : bccccc.fuufuf/b041404140414ДДД04140414:()V:3121e6  =>  bccccc.fuufuf/b041404140414ДДД04140414:()V:312294
+java.lang.System/exit:(I)V:312268		=(rels)=>		1
+[*] Unique action: 1:24966 : <<CALL>> : bccccc.fuufuf/b041404140414ДДД04140414:()V:312268  =>  java.lang.System/exit:(I)V:ea908
+	1:compareBackwardBranch2: 1:97 : <<BRANCH>> : bccccc.reeeee/bЗ04170417ЗЗЗ04170417:()Z:3ea8ec  =>  bccccc.reeeee/bЗ04170417ЗЗЗ04170417:()Z:3ea8f0
+Entry: 3ea8e4
+bccccc.reeeee/bЗ04170417ЗЗЗ04170417:()Z: 3ea8ec -> 3ea8f0
+		bccccc.reeeee/bЗ04170417ЗЗЗ04170417:()Z: 8 -> c
+addPatchReadme: java.lang.Class<bccccc.reeeee>bЗ04170417ЗЗЗ04170417()Z 8 f
+Entry: 311ec0
+bccccc.fuufuf/b041404140414ДДД04140414:()V: 3121e6 -> 312294
+		bccccc.fuufuf/b041404140414ДДД04140414:()V: 326 -> 3d4
+addPatchReadme: java.lang.Class<bccccc.fuufuf>b041404140414ДДД04140414()V 326 t
+159ceeed: [+] Patches found in this round: 2
+159ceeed: [*] Found Patch size: 1
+ExitReason-Code: 6 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample83.ilog)
+159ceeed: 	@@@Found patch addr: 3121f6
+159ceeed: Querying offset: 3121e6
+159ceeed: 	--Add method name to patch = bccccc.fuufuf/b041404140414ДДД04140414:()V 	3121e6
+[*] FlowManager: adjust finished.
+Action is completely same :)
+android.app.Dialog/show:()V:48a45e		=(rels)=>		1
+[*] Unique action: 1:227734 : <<CALL>> : bccccc.tftttf/b04200420РР04200420Р0420:()V:48a45e  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch2: 1:97 : <<BRANCH>> : bccccc.reeeee/bЗ04170417ЗЗЗ04170417:()Z:3ea8ec  =>  bccccc.reeeee/bЗ04170417ЗЗЗ04170417:()Z:3ea8f0
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:48a544		=(rels)=>		1
+[*] Unique action: 1:227627 : <<CALL>> : bccccc.tftttf/bР042004200420Р0420Р0420:(Ljava/lang/String;I)V:48a544  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devTamper_sample83.ilog)
+	1:compareBackwardBranch2: 1:97 : <<BRANCH>> : bccccc.reeeee/bЗ04170417ЗЗЗ04170417:()Z:3ea8ec  =>  bccccc.reeeee/bЗ04170417ЗЗЗ04170417:()Z:3ea8f0
+Entry: 3ea8e4
+bccccc.reeeee/bЗ04170417ЗЗЗ04170417:()Z: 3ea8ec -> 3ea8f0
+		bccccc.reeeee/bЗ04170417ЗЗЗ04170417:()Z: 8 -> c
+addPatchReadme: java.lang.Class<bccccc.reeeee>bЗ04170417ЗЗЗ04170417()Z 8 f
+b29e6a69: [+] Patches found in this round: 1
+b29e6a69: [*] Found Patch size: 1
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample83.ilog)
+b29e6a69: 	@@@Found patch addr: 3ea8fc
+b29e6a69: Querying offset: 3ea8ec
+b29e6a69: 	--Add method name to patch = bccccc.reeeee/bЗ04170417ЗЗЗ04170417:()Z 	3ea8ec
+[*] FlowManager: adjust finished.
+Action is completely same :)
+Action is completely same :)
+46604b9f: There is no difference. (tryAgain=false)
+Devices presenting anti-analysis: 
+	devRoot
+	devDebug
+b29e6a69: patching method: bccccc.reeeee/bЗ04170417ЗЗЗ04170417:()Z
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample83_devRoot
+Wow!!!!!  --  bccccc.reeeee/bЗ04170417ЗЗЗ04170417:()Z
+fallthrough: c
+branchTarget: c
+NOP!
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample83_devRoot/sample83.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample83_devRoot/signed_sample83.apk
+b29e6a69: First address of Lbccccc/reeeee;->bЗ04170417ЗЗЗ04170417()Z = 3ea8f4
+b29e6a69: Address - Lbccccc/reeeee;->bЗ04170417ЗЗЗ04170417()Z@8	 lastOffset = 8a
+b29e6a69: Instruction@@: IF_GE
+159ceeed: patching method: bccccc.fuufuf/b041404140414ДДД04140414:()V
+159ceeed: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample83_devDebug
+Wow!!!!!  --  bccccc.fuufuf/b041404140414ДДД04140414:()V
+fallthrough: 32a
+branchTarget: 3d4
+label = cond_8
+GOTO -- 32a 	3d4
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample83_devDebug/sample83.apk
+159ceeed: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample83_devDebug/signed_sample83.apk
+159ceeed: First address of Lbccccc/fuufuf;->b041404140414ДДД04140414()V = 311ed0
+159ceeed: Address - Lbccccc/fuufuf;->b041404140414ДДД04140414()V@326	 lastOffset = 40c
+159ceeed: Instruction@@: IF_EQZ
+159ceeed: (Not Installed) Trying remove : true
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample83_devDebug/signed_sample83.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample83_devRoot/signed_sample83.apk
+159ceeed: Installation Success
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+159ceeed: startApplication called! - devDebug
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample83.ilog)
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample83.ilog)
+b29e6a69: Running Application: com.infrasofttech.CentralBank
+PIDs--------------------------------------------------------------------------
+u0_a374       25787    424 1026840  97708 0                   0 S com.infrasofttech.CentralBank
+forward tcp:35535 jdwp:25787
+[*]Found JDWP Target: 25787
+159ceeed: Running Application: com.infrasofttech.CentralBank
+b29e6a69: Running is done - starting comparing... : 10001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+b29e6a69: savedPid = null
+PIDs--------------------------------------------------------------------------
+b29e6a69: savedPid2 = null
+Stopping app: com.infrasofttech.CentralBank
+159ceeed: Running is done - starting comparing... : 10001
+159ceeed: Terminated logcat thread...by itself
+159ceeed: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+159ceeed: savedPid = null
+PIDs--------------------------------------------------------------------------
+159ceeed: savedPid2 = null
+Stopping app: com.infrasofttech.CentralBank
+Tryging remove : uninstall com.infrasofttech.CentralBank(com.infrasofttech.CentralBank)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 1553998
+b29e6a69: End of collecting logcat...
+Tryging remove : uninstall com.infrasofttech.CentralBank(com.infrasofttech.CentralBank)
+159ceeed: Remove Success
+159ceeed: ilog file size: 18428224
+159ceeed: End of collecting logcat...
+HPFinder's try count remains: 28
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample83.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample83.ilog)
+ExitReason-Code: 5 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample83.ilog)
+b29e6a69: /home/santapark/Extended3/DEEPerence/reEx/sample83.apk launch is failed on devRoot
+b29e6a69: Failed Patch: 3ea8fc
+ExitReason-Code: 4 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample83.ilog)
+	System.exit called
+159ceeed: adding filter -- 3121e6
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 3121e6
+[GOOD]: Anti-analysis is identified! :) -- 1 --devDebug
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:1aa29e		=(rels)=>		1
+[*] Unique action: 1:208168 : <<CALL>> : androidx.appcompat.app.AppCompatDelegateImpl/setContentView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:1aa29e  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 3ea8ec
+Action is completely same :)
+android.app.Dialog/show:()V:48a45e		=(rels)=>		1
+[*] Unique action: 1:227734 : <<CALL>> : bccccc.tftttf/b04200420РР04200420Р0420:()V:48a45e  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:65878 : <<BRANCH>> : com.kony.logger.LogPersisters.FileLogPersister/updateConfig:()V:615622  =>  com.kony.logger.LogPersisters.FileLogPersister/updateConfig:()V:615626
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:6293c8		=(rels)=>		1
+[*] Unique action: 1:200493 : <<CALL>> : com.konylabs.android.KonyMain/bхххххх0445х:()Landroid/widget/RelativeLayout;:6293c8  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+	1:compareBackwardBranch2: 1:801 : <<BRANCH>> : bccccc.eereee/b0417041704170417ЗЗ04170417:(I)I:2dc6be  =>  bccccc.eereee/b0417041704170417ЗЗ04170417:(I)I:2dc6c2
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:48a544		=(rels)=>		1
+[*] Unique action: 1:227627 : <<CALL>> : bccccc.tftttf/bР042004200420Р0420Р0420:(Ljava/lang/String;I)V:48a544  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:65878 : <<BRANCH>> : com.kony.logger.LogPersisters.FileLogPersister/updateConfig:()V:615622  =>  com.kony.logger.LogPersisters.FileLogPersister/updateConfig:()V:615626
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:6291d8		=(rels)=>		1
+[*] Unique action: 1:200356 : <<CALL>> : com.konylabs.android.KonyMain/bхххххх0445х:()Landroid/widget/RelativeLayout;:6291d8  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+	1:compareBackwardBranch2: 1:801 : <<BRANCH>> : bccccc.eereee/b0417041704170417ЗЗ04170417:(I)I:2dc6be  =>  bccccc.eereee/b0417041704170417ЗЗ04170417:(I)I:2dc6c2
+Entry: 2dc63c
+bccccc.eereee/b0417041704170417ЗЗ04170417:(I)I: 2dc6be -> 2dc6c2
+		bccccc.eereee/b0417041704170417ЗЗ04170417:(I)I: 82 -> 86
+addPatchReadme: java.lang.Class<bccccc.eereee>b0417041704170417ЗЗ04170417(I)I 82 f
+b29e6a69: [+] Patches found in this round: 1
+b29e6a69: [*] Found Patch size: 1
+ExitReason-Code: 5 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample83.ilog)
+b29e6a69: @@localPatchFilter -- 3ea8fc
+b29e6a69: 	@@@Found patch addr: 2dc6ce
+b29e6a69: Querying offset: 2dc6be
+b29e6a69: 	--Add method name to patch = bccccc.eereee/b0417041704170417ЗЗ04170417:(I)I 	2dc6be
+	1:compareBackwardBranch: 1:65878 : <<BRANCH>> : com.kony.logger.LogPersisters.FileLogPersister/updateConfig:()V:615622  =>  com.kony.logger.LogPersisters.FileLogPersister/updateConfig:()V:615626
+Action is completely same :)
+Entry: 615618
+com.kony.logger.LogPersisters.FileLogPersister/updateConfig:()V: 615622 -> 615626
+		com.kony.logger.LogPersisters.FileLogPersister/updateConfig:()V: a -> e
+addPatchReadme: java.lang.Class<com.kony.logger.LogPersisters.FileLogPersister>updateConfig()V a f
+159ceeed: [+] Patches found in this round: 1
+159ceeed: [*] Found Patch size: 1
+ExitReason-Code: 4 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample83.ilog)
+	System.exit called
+159ceeed: @@localPatchFilter -- 3121f6
+159ceeed: 	@@@Found patch addr: 615632
+159ceeed: Querying offset: 615622
+159ceeed: 	--Add method name to patch = com.kony.logger.LogPersisters.FileLogPersister/updateConfig:()V 	615622
+Devices presenting anti-analysis: 
+	devRoot
+	devDebug
+b29e6a69: patching method: bccccc.eereee/b0417041704170417ЗЗ04170417:(I)I
+b29e6a69: patching method: bccccc.reeeee/bЗ04170417ЗЗЗ04170417:()Z
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample83_devRoot
+Wow!!!!!  --  bccccc.eereee/b0417041704170417ЗЗ04170417:(I)I
+fallthrough: 86
+branchTarget: 86
+NOP!
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample83_devRoot/sample83.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample83_devRoot/signed_sample83.apk
+b29e6a69: First address of Lbccccc/eereee;->b0417041704170417ЗЗ04170417(I)I = 2dc64c
+b29e6a69: Address - Lbccccc/eereee;->b0417041704170417ЗЗ04170417(I)I@82	 lastOffset = fc
+b29e6a69: Instruction@@: IF_GEZ
+159ceeed: patching method: com.kony.logger.LogPersisters.FileLogPersister/updateConfig:()V
+159ceeed: patching method: bccccc.eereee/b0417041704170417ЗЗ04170417:(I)I
+159ceeed: patching method: bccccc.fuufuf/b041404140414ДДД04140414:()V
+159ceeed: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample83_devDebug
+Wow!!!!!  --  bccccc.fuufuf/b041404140414ДДД04140414:()V
+fallthrough: 32a
+branchTarget: 3d4
+label = cond_8
+GOTO -- 32a 	3d4
+Wow!!!!!  --  com.kony.logger.LogPersisters.FileLogPersister/updateConfig:()V
+fallthrough: e
+branchTarget: e
+NOP!
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample83_devDebug/sample83.apk
+159ceeed: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample83_devDebug/signed_sample83.apk
+159ceeed: First address of Lcom/kony/logger/LogPersisters/FileLogPersister;->updateConfig()V = 615628
+159ceeed: Address - Lcom/kony/logger/LogPersisters/FileLogPersister;->updateConfig()V@a	 lastOffset = 80
+159ceeed: Instruction@@: IF_NEZ
+159ceeed: First address of Lbccccc/fuufuf;->b041404140414ДДД04140414()V = 311ed0
+159ceeed: Address - Lbccccc/fuufuf;->b041404140414ДДД04140414()V@326	 lastOffset = 40c
+159ceeed: Instruction@@: IF_EQZ
+159ceeed: (Not Installed) Trying remove : true
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample83_devDebug/signed_sample83.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample83_devRoot/signed_sample83.apk
+159ceeed: Installation Success
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+159ceeed: startApplication called! - devDebug
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample83.ilog)
+b29e6a69: Running Application: com.infrasofttech.CentralBank
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample83.ilog)
+PIDs--------------------------------------------------------------------------
+u0_a375       25872    424 1026320  97148 0                   0 S com.infrasofttech.CentralBank
+forward tcp:35535 jdwp:25872
+[*]Found JDWP Target: 25872
+159ceeed: Running Application: com.infrasofttech.CentralBank
+b29e6a69: Running is done - starting comparing... : 10001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+b29e6a69: savedPid = null
+PIDs--------------------------------------------------------------------------
+b29e6a69: savedPid2 = null
+Stopping app: com.infrasofttech.CentralBank
+159ceeed: Running is done - starting comparing... : 10001
+159ceeed: Terminated logcat thread...by itself
+159ceeed: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+159ceeed: savedPid = null
+PIDs--------------------------------------------------------------------------
+159ceeed: savedPid2 = null
+Stopping app: com.infrasofttech.CentralBank
+Tryging remove : uninstall com.infrasofttech.CentralBank(com.infrasofttech.CentralBank)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 1543862
+b29e6a69: End of collecting logcat...
+Tryging remove : uninstall com.infrasofttech.CentralBank(com.infrasofttech.CentralBank)
+159ceeed: Remove Success
+159ceeed: ilog file size: 18758570
+159ceeed: End of collecting logcat...
+HPFinder's try count remains: 27
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample83.ilog)
+ExitReason-Code: 5 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample83.ilog)
+b29e6a69: /home/santapark/Extended3/DEEPerence/reEx/sample83.apk launch is failed on devRoot
+b29e6a69: Failed Patch: 2dc6ce
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample83.ilog)
+ExitReason-Code: 4 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample83.ilog)
+	System.exit called
+159ceeed: adding filter -- 3121e6
+159ceeed: adding filter -- 615622
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 615622
+-- current localPatchFilter: 3121e6
+[GOOD]: Anti-analysis is identified! :) -- 1 --devDebug
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:1aa29e		=(rels)=>		1
+[*] Unique action: 1:208168 : <<CALL>> : androidx.appcompat.app.AppCompatDelegateImpl/setContentView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:1aa29e  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 3ea8ec
+-- current localPatchFilter: 2dc6be
+Action is completely same :)
+android.app.Dialog/show:()V:48a45e		=(rels)=>		1
+[*] Unique action: 1:227734 : <<CALL>> : bccccc.tftttf/b04200420РР04200420Р0420:()V:48a45e  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:22534 : <<BRANCH>> : bccccc.fuufuf/b041404140414ДДД04140414:()V:3121be  =>  bccccc.fuufuf/b041404140414ДДД04140414:()V:3121c6
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:6293c8		=(rels)=>		1
+[*] Unique action: 1:200493 : <<CALL>> : com.konylabs.android.KonyMain/bхххххх0445х:()Landroid/widget/RelativeLayout;:6293c8  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+	1:compareBackwardBranch2: 1:14018 : <<BRANCH>> : bccccc.rreeee/b04170417З0417ЗЗ04170417:(Ljava/lang/String;CC)Ljava/lang/String;:44ba2a  =>  bccccc.rreeee/b04170417З0417ЗЗ04170417:(Ljava/lang/String;CC)Ljava/lang/String;:44bac6
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:48a544		=(rels)=>		1
+[*] Unique action: 1:227627 : <<CALL>> : bccccc.tftttf/bР042004200420Р0420Р0420:(Ljava/lang/String;I)V:48a544  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:22534 : <<BRANCH>> : bccccc.fuufuf/b041404140414ДДД04140414:()V:3121be  =>  bccccc.fuufuf/b041404140414ДДД04140414:()V:3121c6
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:6291d8		=(rels)=>		1
+[*] Unique action: 1:200356 : <<CALL>> : com.konylabs.android.KonyMain/bхххххх0445х:()Landroid/widget/RelativeLayout;:6291d8  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+	1:compareBackwardBranch2: 1:14018 : <<BRANCH>> : bccccc.rreeee/b04170417З0417ЗЗ04170417:(Ljava/lang/String;CC)Ljava/lang/String;:44ba2a  =>  bccccc.rreeee/b04170417З0417ЗЗ04170417:(Ljava/lang/String;CC)Ljava/lang/String;:44bac6
+Entry: 44ba08
+bccccc.rreeee/b04170417З0417ЗЗ04170417:(Ljava/lang/String;CC)Ljava/lang/String;: 44ba2a -> 44bac6
+		bccccc.rreeee/b04170417З0417ЗЗ04170417:(Ljava/lang/String;CC)Ljava/lang/String;: 22 -> be
+addPatchReadme: java.lang.Class<bccccc.rreeee>b04170417З0417ЗЗ04170417(Ljava/lang/String;CC)Ljava/lang/String; 22 t
+b29e6a69: [+] Patches found in this round: 1
+b29e6a69: [*] Found Patch size: 1
+ExitReason-Code: 5 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample83.ilog)
+b29e6a69: @@localPatchFilter -- 3ea8fc
+b29e6a69: @@localPatchFilter -- 2dc6ce
+b29e6a69: 	@@@Found patch addr: 44ba3a
+b29e6a69: Querying offset: 44ba2a
+b29e6a69: 	--Add method name to patch = bccccc.rreeee/b04170417З0417ЗЗ04170417:(Ljava/lang/String;CC)Ljava/lang/String; 	44ba2a
+	1:compareBackwardBranch: 1:22534 : <<BRANCH>> : bccccc.fuufuf/b041404140414ДДД04140414:()V:3121be  =>  bccccc.fuufuf/b041404140414ДДД04140414:()V:3121c6
+Action is completely same :)
+Entry: 311ec0
+bccccc.fuufuf/b041404140414ДДД04140414:()V: 3121be -> 3121c6
+		bccccc.fuufuf/b041404140414ДДД04140414:()V: 2fe -> 306
+addPatchReadme: java.lang.Class<bccccc.fuufuf>b041404140414ДДД04140414()V 2fe t
+159ceeed: [+] Patches found in this round: 1
+159ceeed: [*] Found Patch size: 1
+ExitReason-Code: 4 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample83.ilog)
+	System.exit called
+159ceeed: @@localPatchFilter -- 615632
+159ceeed: @@localPatchFilter -- 3121f6
+159ceeed: 	@@@Found patch addr: 3121ce
+159ceeed: Querying offset: 3121be
+159ceeed: 	--Add method name to patch = bccccc.fuufuf/b041404140414ДДД04140414:()V 	3121be
+Devices presenting anti-analysis: 
+	devRoot
+	devDebug
+b29e6a69: patching method: bccccc.eereee/b0417041704170417ЗЗ04170417:(I)I
+b29e6a69: patching method: bccccc.rreeee/b04170417З0417ЗЗ04170417:(Ljava/lang/String;CC)Ljava/lang/String;
+b29e6a69: patching method: bccccc.reeeee/bЗ04170417ЗЗЗ04170417:()Z
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample83_devRoot
+Wow!!!!!  --  bccccc.rreeee/b04170417З0417ЗЗ04170417:(Ljava/lang/String;CC)Ljava/lang/String;
+fallthrough: 26
+branchTarget: be
+label = cond_2
+GOTO -- 26 	be
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample83_devRoot/sample83.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample83_devRoot/signed_sample83.apk
+b29e6a69: First address of Lbccccc/rreeee;->b04170417З0417ЗЗ04170417(Ljava/lang/String;CC)Ljava/lang/String; = 44ba18
+b29e6a69: Address - Lbccccc/rreeee;->b04170417З0417ЗЗ04170417(Ljava/lang/String;CC)Ljava/lang/String;@22	 lastOffset = dc
+b29e6a69: Instruction@@: IF_EQZ
+159ceeed: patching method: com.kony.logger.LogPersisters.FileLogPersister/updateConfig:()V
+159ceeed: patching method: bccccc.eereee/b0417041704170417ЗЗ04170417:(I)I
+159ceeed: patching method: bccccc.fuufuf/b041404140414ДДД04140414:()V
+159ceeed: patching method: bccccc.rreeee/b04170417З0417ЗЗ04170417:(Ljava/lang/String;CC)Ljava/lang/String;
+159ceeed: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample83_devDebug
+Wow!!!!!  --  bccccc.fuufuf/b041404140414ДДД04140414:()V
+fallthrough: 302
+branchTarget: 306
+label = cond_4
+GOTO -- 302 	306
+Wow!!!!!  --  bccccc.fuufuf/b041404140414ДДД04140414:()V
+fallthrough: 32a
+branchTarget: 3d4
+label = cond_8
+GOTO -- 32a 	3d4
+Wow!!!!!  --  com.kony.logger.LogPersisters.FileLogPersister/updateConfig:()V
+fallthrough: e
+branchTarget: e
+NOP!
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample83_devDebug/sample83.apk
+159ceeed: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample83_devDebug/signed_sample83.apk
+159ceeed: First address of Lcom/kony/logger/LogPersisters/FileLogPersister;->updateConfig()V = 615628
+159ceeed: Address - Lcom/kony/logger/LogPersisters/FileLogPersister;->updateConfig()V@a	 lastOffset = 80
+159ceeed: Instruction@@: IF_NEZ
+159ceeed: First address of Lbccccc/fuufuf;->b041404140414ДДД04140414()V = 311ed0
+159ceeed: Address - Lbccccc/fuufuf;->b041404140414ДДД04140414()V@326	 lastOffset = 40c
+159ceeed: Instruction@@: IF_EQZ
+159ceeed: First address of Lbccccc/fuufuf;->b041404140414ДДД04140414()V = 311ed0
+159ceeed: Address - Lbccccc/fuufuf;->b041404140414ДДД04140414()V@2fe	 lastOffset = 40c
+159ceeed: Instruction@@: IF_EQZ
+b29e6a69: (Not Installed) Trying remove : true
+159ceeed: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample83_devRoot/signed_sample83.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample83_devDebug/signed_sample83.apk
+159ceeed: Installation Success
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+159ceeed: startApplication called! - devDebug
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample83.ilog)
+b29e6a69: Running Application: com.infrasofttech.CentralBank
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample83.ilog)
+PIDs--------------------------------------------------------------------------
+u0_a376       25959    424 1026840  97832 0                   0 S com.infrasofttech.CentralBank
+forward tcp:35535 jdwp:25959
+[*]Found JDWP Target: 25959
+159ceeed: Running Application: com.infrasofttech.CentralBank
+b29e6a69: Running is done - starting comparing... : 10001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+b29e6a69: savedPid = null
+PIDs--------------------------------------------------------------------------
+b29e6a69: savedPid2 = null
+Stopping app: com.infrasofttech.CentralBank
+159ceeed: Running is done - starting comparing... : 10001
+159ceeed: Terminated logcat thread...by itself
+PIDs--------------------------------------------------------------------------
+159ceeed: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+159ceeed: savedPid = null
+PIDs--------------------------------------------------------------------------
+159ceeed: savedPid2 = null
+Stopping app: com.infrasofttech.CentralBank
+Tryging remove : uninstall com.infrasofttech.CentralBank(com.infrasofttech.CentralBank)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 9992039
+b29e6a69: End of collecting logcat...
+Tryging remove : uninstall com.infrasofttech.CentralBank(com.infrasofttech.CentralBank)
+159ceeed: Remove Success
+159ceeed: ilog file size: 22479265
+159ceeed: End of collecting logcat...
+HPFinder's try count remains: 26
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample83.ilog)
+ExitReason-Code: 5 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample83.ilog)
+b29e6a69: /home/santapark/Extended3/DEEPerence/reEx/sample83.apk launch is failed on devRoot
+b29e6a69: Failed Patch: 44ba3a
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample83.ilog)
+ExitReason-Code: 4 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample83.ilog)
+	System.exit called
+159ceeed: adding filter -- 3121e6
+159ceeed: adding filter -- 615622
+159ceeed: adding filter -- 3121be
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 615622
+-- current localPatchFilter: 3121e6
+-- current localPatchFilter: 3121be
+[GOOD]: Anti-analysis is identified! :) -- 1 --devDebug
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:1aa29e		=(rels)=>		1
+[*] Unique action: 1:208168 : <<CALL>> : androidx.appcompat.app.AppCompatDelegateImpl/setContentView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:1aa29e  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 3ea8ec
+-- current localPatchFilter: 2dc6be
+-- current localPatchFilter: 44ba2a
+Action is completely same :)
+android.app.Dialog/show:()V:48a45e		=(rels)=>		1
+[*] Unique action: 1:227734 : <<CALL>> : bccccc.tftttf/b04200420РР04200420Р0420:()V:48a45e  =>  android.app.Dialog/show:()V:1b4adc
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:6293c8		=(rels)=>		1
+[*] Unique action: 1:200493 : <<CALL>> : com.konylabs.android.KonyMain/bхххххх0445х:()Landroid/widget/RelativeLayout;:6293c8  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+	1:compareBackwardBranch2: 1:16317 : <<BRANCH>> : bccccc.rreree/b0417ЗЗ0417ЗЗ04170417:(Ljava/lang/String;C)Ljava/lang/String;:44c07e  =>  bccccc.rreree/b0417ЗЗ0417ЗЗ04170417:(Ljava/lang/String;C)Ljava/lang/String;:44c0e8
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:48a544		=(rels)=>		1
+[*] Unique action: 1:227627 : <<CALL>> : bccccc.tftttf/bР042004200420Р0420Р0420:(Ljava/lang/String;I)V:48a544  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch2: 1:16317 : <<BRANCH>> : bccccc.rreree/b0417ЗЗ0417ЗЗ04170417:(Ljava/lang/String;C)Ljava/lang/String;:44c07e  =>  bccccc.rreree/b0417ЗЗ0417ЗЗ04170417:(Ljava/lang/String;C)Ljava/lang/String;:44c0e8
+Entry: 44c024
+bccccc.rreree/b0417ЗЗ0417ЗЗ04170417:(Ljava/lang/String;C)Ljava/lang/String;: 44c07e -> 44c0e8
+		bccccc.rreree/b0417ЗЗ0417ЗЗ04170417:(Ljava/lang/String;C)Ljava/lang/String;: 5a -> c4
+addPatchReadme: java.lang.Class<bccccc.rreree>b0417ЗЗ0417ЗЗ04170417(Ljava/lang/String;C)Ljava/lang/String; 5a t
+b29e6a69: [+] Patches found in this round: 1
+b29e6a69: [*] Found Patch size: 1
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:6291d8		=(rels)=>		1
+[*] Unique action: 1:200356 : <<CALL>> : com.konylabs.android.KonyMain/bхххххх0445х:()Landroid/widget/RelativeLayout;:6291d8  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+ExitReason-Code: 5 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample83.ilog)
+b29e6a69: @@localPatchFilter -- 3ea8fc
+b29e6a69: @@localPatchFilter -- 2dc6ce
+b29e6a69: @@localPatchFilter -- 44ba3a
+b29e6a69: 	@@@Found patch addr: 44c08e
+b29e6a69: Querying offset: 44c07e
+b29e6a69: 	--Add method name to patch = bccccc.rreree/b0417ЗЗ0417ЗЗ04170417:(Ljava/lang/String;C)Ljava/lang/String; 	44c07e
+Action is completely same :)
+Entry: 614f04
+com.kony.logger.LogPersisters.BaseLogPersister/run:()V: 614f0c -> 614f10
+		com.kony.logger.LogPersisters.BaseLogPersister/run:()V: 8 -> c
+addPatchReadme: java.lang.Class<com.kony.logger.LogPersisters.BaseLogPersister>run()V 8 f
+159ceeed: [+] Patches found in this round: 1
+159ceeed: [*] Found Patch size: 1
+ExitReason-Code: 4 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample83.ilog)
+	System.exit called
+159ceeed: @@localPatchFilter -- 615632
+159ceeed: @@localPatchFilter -- 3121f6
+159ceeed: @@localPatchFilter -- 3121ce
+159ceeed: 	@@@Found patch addr: 614f1c
+159ceeed: Querying offset: 614f0c
+159ceeed: 	--Add method name to patch = com.kony.logger.LogPersisters.BaseLogPersister/run:()V 	614f0c
+Devices presenting anti-analysis: 
+	devRoot
+	devDebug
+b29e6a69: patching method: bccccc.rreree/b0417ЗЗ0417ЗЗ04170417:(Ljava/lang/String;C)Ljava/lang/String;
+b29e6a69: patching method: bccccc.eereee/b0417041704170417ЗЗ04170417:(I)I
+b29e6a69: patching method: bccccc.rreeee/b04170417З0417ЗЗ04170417:(Ljava/lang/String;CC)Ljava/lang/String;
+b29e6a69: patching method: bccccc.reeeee/bЗ04170417ЗЗЗ04170417:()Z
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample83_devRoot
+Wow!!!!!  --  bccccc.rreree/b0417ЗЗ0417ЗЗ04170417:(Ljava/lang/String;C)Ljava/lang/String;
+fallthrough: 5e
+branchTarget: c4
+label = cond_2
+GOTO -- 5e 	c4
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample83_devRoot/sample83.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample83_devRoot/signed_sample83.apk
+b29e6a69: First address of Lbccccc/rreree;->b0417ЗЗ0417ЗЗ04170417(Ljava/lang/String;C)Ljava/lang/String; = 44c034
+b29e6a69: Address - Lbccccc/rreree;->b0417ЗЗ0417ЗЗ04170417(Ljava/lang/String;C)Ljava/lang/String;@5a	 lastOffset = d6
+b29e6a69: Instruction@@: IF_EQZ
+159ceeed: patching method: com.kony.logger.LogPersisters.FileLogPersister/updateConfig:()V
+159ceeed: patching method: bccccc.rreree/b0417ЗЗ0417ЗЗ04170417:(Ljava/lang/String;C)Ljava/lang/String;
+159ceeed: patching method: com.kony.logger.LogPersisters.BaseLogPersister/run:()V
+159ceeed: patching method: bccccc.eereee/b0417041704170417ЗЗ04170417:(I)I
+159ceeed: patching method: bccccc.fuufuf/b041404140414ДДД04140414:()V
+159ceeed: patching method: bccccc.rreeee/b04170417З0417ЗЗ04170417:(Ljava/lang/String;CC)Ljava/lang/String;
+159ceeed: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample83_devDebug
+Wow!!!!!  --  bccccc.fuufuf/b041404140414ДДД04140414:()V
+fallthrough: 302
+branchTarget: 306
+label = cond_4
+GOTO -- 302 	306
+Wow!!!!!  --  bccccc.fuufuf/b041404140414ДДД04140414:()V
+fallthrough: 32a
+branchTarget: 3d4
+label = cond_8
+GOTO -- 32a 	3d4
+Wow!!!!!  --  com.kony.logger.LogPersisters.BaseLogPersister/run:()V
+fallthrough: c
+branchTarget: c
+NOP!
+Wow!!!!!  --  com.kony.logger.LogPersisters.FileLogPersister/updateConfig:()V
+fallthrough: e
+branchTarget: e
+NOP!
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample83_devDebug/sample83.apk
+159ceeed: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample83_devDebug/signed_sample83.apk
+159ceeed: First address of Lcom/kony/logger/LogPersisters/FileLogPersister;->updateConfig()V = 615628
+159ceeed: Address - Lcom/kony/logger/LogPersisters/FileLogPersister;->updateConfig()V@a	 lastOffset = 80
+159ceeed: Instruction@@: IF_NEZ
+159ceeed: First address of Lcom/kony/logger/LogPersisters/BaseLogPersister;->run()V = 614f14
+159ceeed: Address - Lcom/kony/logger/LogPersisters/BaseLogPersister;->run()V@8	 lastOffset = 3a
+159ceeed: Instruction@@: IF_NEZ
+159ceeed: First address of Lbccccc/fuufuf;->b041404140414ДДД04140414()V = 311ed0
+159ceeed: Address - Lbccccc/fuufuf;->b041404140414ДДД04140414()V@326	 lastOffset = 40c
+159ceeed: Instruction@@: IF_EQZ
+159ceeed: First address of Lbccccc/fuufuf;->b041404140414ДДД04140414()V = 311ed0
+159ceeed: Address - Lbccccc/fuufuf;->b041404140414ДДД04140414()V@2fe	 lastOffset = 40c
+159ceeed: Instruction@@: IF_EQZ
+159ceeed: (Not Installed) Trying remove : true
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample83_devDebug/signed_sample83.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample83_devRoot/signed_sample83.apk
+159ceeed: Installation Success
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+159ceeed: startApplication called! - devDebug
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample83.ilog)
+b29e6a69: Running Application: com.infrasofttech.CentralBank
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample83.ilog)
+PIDs--------------------------------------------------------------------------
+u0_a377       26050    424 1026320  97316 0                   0 R com.infrasofttech.CentralBank
+forward tcp:35535 jdwp:26050
+[*]Found JDWP Target: 26050
+159ceeed: Running Application: com.infrasofttech.CentralBank
+159ceeed: Running is done - starting comparing... : 10001
+159ceeed: Terminated logcat thread...by itself
+159ceeed: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+159ceeed: savedPid = null
+PIDs--------------------------------------------------------------------------
+159ceeed: savedPid2 = null
+Stopping app: com.infrasofttech.CentralBank
+Tryging remove : uninstall com.infrasofttech.CentralBank(com.infrasofttech.CentralBank)
+159ceeed: Remove Success
+159ceeed: ilog file size: 18582565
+159ceeed: End of collecting logcat...
+b29e6a69: Running is done - starting comparing... : 10001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.infrasofttech.CentralBank/.CentMobile
+PIDs--------------------------------------------------------------------------
+u0_a171        9125    432 1069168 133224 0                   0 S com.infrasofttech.CentralBank
+b29e6a69: savedPid = 9125
+PIDs--------------------------------------------------------------------------
+u0_a171        9125    432 1069168 133224 0                   0 S com.infrasofttech.CentralBank
+b29e6a69: savedPid2 = 9125
+Stopping app: com.infrasofttech.CentralBank
+Tryging remove : uninstall com.infrasofttech.CentralBank(com.infrasofttech.CentralBank)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 113310083
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 25
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample83.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample83.ilog)
+ExitReason-Code: 4 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample83.ilog)
+	System.exit called
+159ceeed: adding filter -- 615622
+159ceeed: adding filter -- 614f0c
+159ceeed: adding filter -- 3121e6
+159ceeed: adding filter -- 3121be
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 615622
+-- current localPatchFilter: 3121e6
+-- current localPatchFilter: 614f0c
+-- current localPatchFilter: 3121be
+[GOOD]: Anti-analysis is identified! :) -- 1 --devDebug
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:1aa29e		=(rels)=>		1
+[*] Unique action: 1:208168 : <<CALL>> : androidx.appcompat.app.AppCompatDelegateImpl/setContentView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:1aa29e  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample83.ilog)
+b29e6a69: adding filter -- 44c07e
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:6293c8		=(rels)=>		1
+[*] Unique action: 1:200493 : <<CALL>> : com.konylabs.android.KonyMain/bхххххх0445х:()Landroid/widget/RelativeLayout;:6293c8  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 3ea8ec
+-- current localPatchFilter: 2dc6be
+-- current localPatchFilter: 44c07e
+-- current localPatchFilter: 44ba2a
+Action is completely same :)
+android.app.Dialog/show:()V:73faba		=(rels)=>		1
+[*] Unique action: 1:132819 : <<CALL>> : bccccc.tftttf/b04200420РР04200420Р0420:()V:73faba  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch2: 1:3866 : <<BRANCH>> : bccccc.rrrree/b04170417З0417ЗЗ04170417:(Ljava/lang/String;CC)Ljava/lang/String;:4546fa  =>  bccccc.rrrree/b04170417З0417ЗЗ04170417:(Ljava/lang/String;CC)Ljava/lang/String;:45476c
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:73fbb8		=(rels)=>		1
+[*] Unique action: 1:132760 : <<CALL>> : bccccc.tftttf/bР042004200420Р0420Р0420:(Ljava/lang/String;I)V:73fbb8  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:6291d8		=(rels)=>		1
+[*] Unique action: 1:200356 : <<CALL>> : com.konylabs.android.KonyMain/bхххххх0445х:()Landroid/widget/RelativeLayout;:6291d8  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+	1:compareBackwardBranch2: 1:3866 : <<BRANCH>> : bccccc.rrrree/b04170417З0417ЗЗ04170417:(Ljava/lang/String;CC)Ljava/lang/String;:4546fa  =>  bccccc.rrrree/b04170417З0417ЗЗ04170417:(Ljava/lang/String;CC)Ljava/lang/String;:45476c
+Entry: 4546a8
+bccccc.rrrree/b04170417З0417ЗЗ04170417:(Ljava/lang/String;CC)Ljava/lang/String;: 4546fa -> 45476c
+		bccccc.rrrree/b04170417З0417ЗЗ04170417:(Ljava/lang/String;CC)Ljava/lang/String;: 52 -> c4
+addPatchReadme: java.lang.Class<bccccc.rrrree>b04170417З0417ЗЗ04170417(Ljava/lang/String;CC)Ljava/lang/String; 52 t
+b29e6a69: [+] Patches found in this round: 1
+b29e6a69: [*] Found Patch size: 1
+Action is completely same :)
+159ceeed: There is no difference. (tryAgain=false)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample83.ilog)
+b29e6a69: @@localPatchFilter -- 3ea8fc
+b29e6a69: @@localPatchFilter -- 2dc6ce
+b29e6a69: @@localPatchFilter -- 44c08e
+b29e6a69: @@localPatchFilter -- 44ba3a
+b29e6a69: 	@@@Found patch addr: 45470a
+b29e6a69: Querying offset: 4546fa
+b29e6a69: 	--Add method name to patch = bccccc.rrrree/b04170417З0417ЗЗ04170417:(Ljava/lang/String;CC)Ljava/lang/String; 	4546fa
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: patching method: bccccc.rreree/b0417ЗЗ0417ЗЗ04170417:(Ljava/lang/String;C)Ljava/lang/String;
+b29e6a69: patching method: bccccc.eereee/b0417041704170417ЗЗ04170417:(I)I
+b29e6a69: patching method: bccccc.rrrree/b04170417З0417ЗЗ04170417:(Ljava/lang/String;CC)Ljava/lang/String;
+b29e6a69: patching method: bccccc.rreeee/b04170417З0417ЗЗ04170417:(Ljava/lang/String;CC)Ljava/lang/String;
+b29e6a69: patching method: bccccc.reeeee/bЗ04170417ЗЗЗ04170417:()Z
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample83_devRoot
+Wow!!!!!  --  bccccc.rreree/b0417ЗЗ0417ЗЗ04170417:(Ljava/lang/String;C)Ljava/lang/String;
+fallthrough: 5e
+branchTarget: c4
+label = cond_2
+GOTO -- 5e 	c4
+Wow!!!!!  --  bccccc.rrrree/b04170417З0417ЗЗ04170417:(Ljava/lang/String;CC)Ljava/lang/String;
+fallthrough: 56
+branchTarget: c4
+label = cond_2
+GOTO -- 56 	c4
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample83_devRoot/sample83.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample83_devRoot/signed_sample83.apk
+b29e6a69: First address of Lbccccc/rreree;->b0417ЗЗ0417ЗЗ04170417(Ljava/lang/String;C)Ljava/lang/String; = 44c034
+b29e6a69: Address - Lbccccc/rreree;->b0417ЗЗ0417ЗЗ04170417(Ljava/lang/String;C)Ljava/lang/String;@5a	 lastOffset = d6
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Lbccccc/rrrree;->b04170417З0417ЗЗ04170417(Ljava/lang/String;CC)Ljava/lang/String; = 4546b8
+b29e6a69: Address - Lbccccc/rrrree;->b04170417З0417ЗЗ04170417(Ljava/lang/String;CC)Ljava/lang/String;@52	 lastOffset = e0
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample83_devRoot/signed_sample83.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample83.ilog)
+b29e6a69: Running Application: com.infrasofttech.CentralBank
+b29e6a69: Running is done - starting comparing... : 10001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.infrasofttech.CentralBank/.CentMobile
+PIDs--------------------------------------------------------------------------
+u0_a172        9229    432 1066588 132688 0                   0 S com.infrasofttech.CentralBank
+b29e6a69: savedPid = 9229
+PIDs--------------------------------------------------------------------------
+u0_a172        9229    432 1066588 132688 0                   0 S com.infrasofttech.CentralBank
+b29e6a69: savedPid2 = 9229
+Stopping app: com.infrasofttech.CentralBank
+Tryging remove : uninstall com.infrasofttech.CentralBank(com.infrasofttech.CentralBank)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 114458229
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 24
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample83.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample83.ilog)
+b29e6a69: adding filter -- 44c07e
+b29e6a69: adding filter -- 4546fa
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 3ea8ec
+-- current localPatchFilter: 2dc6be
+-- current localPatchFilter: 44c07e
+-- current localPatchFilter: 44ba2a
+-- current localPatchFilter: 4546fa
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:6291d8		=(rels)=>		1
+[*] Unique action: 1:200356 : <<CALL>> : com.konylabs.android.KonyMain/bхххххх0445х:()Landroid/widget/RelativeLayout;:6291d8  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+	1:compareBackwardBranch: 1:200348 : <<BRANCH>> : com.konylabs.android.KonyMain/bхххххх0445х:()Landroid/widget/RelativeLayout;:629162  =>  com.konylabs.android.KonyMain/bхххххх0445х:()Landroid/widget/RelativeLayout;:629166
+android.app.Dialog/show:()V:73faba		=(rels)=>		1
+[*] Unique action: 1:129831 : <<CALL>> : bccccc.tftttf/b04200420РР04200420Р0420:()V:73faba  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch2: 1:2950 : <<BRANCH>> : bccccc.ereree/b04170417З0417ЗЗ04170417:(Ljava/lang/String;CC)Ljava/lang/String;:2e7b22  =>  bccccc.ereree/b04170417З0417ЗЗ04170417:(Ljava/lang/String;CC)Ljava/lang/String;:2e7bc0
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:73fbb8		=(rels)=>		1
+[*] Unique action: 1:129756 : <<CALL>> : bccccc.tftttf/bР042004200420Р0420Р0420:(Ljava/lang/String;I)V:73fbb8  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch2: 1:2950 : <<BRANCH>> : bccccc.ereree/b04170417З0417ЗЗ04170417:(Ljava/lang/String;CC)Ljava/lang/String;:2e7b22  =>  bccccc.ereree/b04170417З0417ЗЗ04170417:(Ljava/lang/String;CC)Ljava/lang/String;:2e7bc0
+Entry: 628cd8
+com.konylabs.android.KonyMain/bхххххх0445х:()Landroid/widget/RelativeLayout;: 629162 -> 629166
+		com.konylabs.android.KonyMain/bхххххх0445х:()Landroid/widget/RelativeLayout;: 48a -> 48e
+addPatchReadme: java.lang.Class<com.konylabs.android.KonyMain>bхххххх0445х()Landroid/widget/RelativeLayout; 48a f
+Entry: 2e7af0
+bccccc.ereree/b04170417З0417ЗЗ04170417:(Ljava/lang/String;CC)Ljava/lang/String;: 2e7b22 -> 2e7bc0
+		bccccc.ereree/b04170417З0417ЗЗ04170417:(Ljava/lang/String;CC)Ljava/lang/String;: 32 -> d0
+addPatchReadme: java.lang.Class<bccccc.ereree>b04170417З0417ЗЗ04170417(Ljava/lang/String;CC)Ljava/lang/String; 32 t
+b29e6a69: [+] Patches found in this round: 2
+b29e6a69: [*] Found Patch size: 1
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample83.ilog)
+b29e6a69: @@localPatchFilter -- 3ea8fc
+b29e6a69: @@localPatchFilter -- 2dc6ce
+b29e6a69: @@localPatchFilter -- 44c08e
+b29e6a69: @@localPatchFilter -- 44ba3a
+b29e6a69: @@localPatchFilter -- 45470a
+b29e6a69: 	@@@Found patch addr: 2e7b32
+b29e6a69: Querying offset: 2e7b22
+b29e6a69: 	--Add method name to patch = bccccc.ereree/b04170417З0417ЗЗ04170417:(Ljava/lang/String;CC)Ljava/lang/String; 	2e7b22
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: patching method: bccccc.rreree/b0417ЗЗ0417ЗЗ04170417:(Ljava/lang/String;C)Ljava/lang/String;
+b29e6a69: patching method: bccccc.eereee/b0417041704170417ЗЗ04170417:(I)I
+b29e6a69: patching method: bccccc.rrrree/b04170417З0417ЗЗ04170417:(Ljava/lang/String;CC)Ljava/lang/String;
+b29e6a69: patching method: com.konylabs.android.KonyMain/bхххххх0445х:()Landroid/widget/RelativeLayout;
+b29e6a69: patching method: bccccc.ereree/b04170417З0417ЗЗ04170417:(Ljava/lang/String;CC)Ljava/lang/String;
+b29e6a69: patching method: bccccc.rreeee/b04170417З0417ЗЗ04170417:(Ljava/lang/String;CC)Ljava/lang/String;
+b29e6a69: patching method: bccccc.reeeee/bЗ04170417ЗЗЗ04170417:()Z
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample83_devRoot
+Wow!!!!!  --  bccccc.ereree/b04170417З0417ЗЗ04170417:(Ljava/lang/String;CC)Ljava/lang/String;
+fallthrough: 36
+branchTarget: d0
+label = cond_2
+GOTO -- 36 	d0
+Wow!!!!!  --  bccccc.rreree/b0417ЗЗ0417ЗЗ04170417:(Ljava/lang/String;C)Ljava/lang/String;
+fallthrough: 5e
+branchTarget: c4
+label = cond_2
+GOTO -- 5e 	c4
+Wow!!!!!  --  bccccc.rrrree/b04170417З0417ЗЗ04170417:(Ljava/lang/String;CC)Ljava/lang/String;
+fallthrough: 56
+branchTarget: c4
+label = cond_2
+GOTO -- 56 	c4
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample83_devRoot/sample83.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample83_devRoot/signed_sample83.apk
+b29e6a69: First address of Lbccccc/rreree;->b0417ЗЗ0417ЗЗ04170417(Ljava/lang/String;C)Ljava/lang/String; = 44c034
+b29e6a69: Address - Lbccccc/rreree;->b0417ЗЗ0417ЗЗ04170417(Ljava/lang/String;C)Ljava/lang/String;@5a	 lastOffset = d6
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Lbccccc/rrrree;->b04170417З0417ЗЗ04170417(Ljava/lang/String;CC)Ljava/lang/String; = 4546b8
+b29e6a69: Address - Lbccccc/rrrree;->b04170417З0417ЗЗ04170417(Ljava/lang/String;CC)Ljava/lang/String;@52	 lastOffset = e0
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Lbccccc/ereree;->b04170417З0417ЗЗ04170417(Ljava/lang/String;CC)Ljava/lang/String; = 2e7b00
+b29e6a69: Address - Lbccccc/ereree;->b04170417З0417ЗЗ04170417(Ljava/lang/String;CC)Ljava/lang/String;@32	 lastOffset = ec
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample83_devRoot/signed_sample83.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample83.ilog)
+b29e6a69: Running Application: com.infrasofttech.CentralBank
+b29e6a69: Running is done - starting comparing... : 10001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+b29e6a69: savedPid = null
+PIDs--------------------------------------------------------------------------
+b29e6a69: savedPid2 = null
+Stopping app: com.infrasofttech.CentralBank
+Tryging remove : uninstall com.infrasofttech.CentralBank(com.infrasofttech.CentralBank)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 1052432
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 23
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample83.ilog)
+ExitReason-Code: 5 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample83.ilog)
+b29e6a69: /home/santapark/Extended3/DEEPerence/reEx/sample83.apk launch is failed on devRoot
+b29e6a69: Failed Patch: 2e7b32
+b29e6a69: adding filter -- 44c07e
+b29e6a69: adding filter -- 4546fa
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 3ea8ec
+-- current localPatchFilter: 2dc6be
+-- current localPatchFilter: 44c07e
+-- current localPatchFilter: 2e7b22
+-- current localPatchFilter: 44ba2a
+-- current localPatchFilter: 4546fa
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:6291d8		=(rels)=>		1
+[*] Unique action: 1:200356 : <<CALL>> : com.konylabs.android.KonyMain/bхххххх0445х:()Landroid/widget/RelativeLayout;:6291d8  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+	1:compareBackwardBranch: 1:200348 : <<BRANCH>> : com.konylabs.android.KonyMain/bхххххх0445х:()Landroid/widget/RelativeLayout;:629162  =>  com.konylabs.android.KonyMain/bхххххх0445х:()Landroid/widget/RelativeLayout;:629166
+android.app.Dialog/show:()V:73faba		=(rels)=>		1
+[*] Unique action: 1:129831 : <<CALL>> : bccccc.tftttf/b04200420РР04200420Р0420:()V:73faba  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch2: 1:19393 : <<BRANCH>> : bccccc.erreee/b04170417З0417ЗЗ04170417:(Ljava/lang/String;CC)Ljava/lang/String;:2e850e  =>  bccccc.erreee/b04170417З0417ЗЗ04170417:(Ljava/lang/String;CC)Ljava/lang/String;:2e8574
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:73fbb8		=(rels)=>		1
+[*] Unique action: 1:129756 : <<CALL>> : bccccc.tftttf/bР042004200420Р0420Р0420:(Ljava/lang/String;I)V:73fbb8  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch2: 1:19393 : <<BRANCH>> : bccccc.erreee/b04170417З0417ЗЗ04170417:(Ljava/lang/String;CC)Ljava/lang/String;:2e850e  =>  bccccc.erreee/b04170417З0417ЗЗ04170417:(Ljava/lang/String;CC)Ljava/lang/String;:2e8574
+Entry: 628cd8
+com.konylabs.android.KonyMain/bхххххх0445х:()Landroid/widget/RelativeLayout;: 629162 -> 629166
+		com.konylabs.android.KonyMain/bхххххх0445х:()Landroid/widget/RelativeLayout;: 48a -> 48e
+addPatchReadme: java.lang.Class<com.konylabs.android.KonyMain>bхххххх0445х()Landroid/widget/RelativeLayout; 48a f
+Entry: 2e84b0
+bccccc.erreee/b04170417З0417ЗЗ04170417:(Ljava/lang/String;CC)Ljava/lang/String;: 2e850e -> 2e8574
+		bccccc.erreee/b04170417З0417ЗЗ04170417:(Ljava/lang/String;CC)Ljava/lang/String;: 5e -> c4
+addPatchReadme: java.lang.Class<bccccc.erreee>b04170417З0417ЗЗ04170417(Ljava/lang/String;CC)Ljava/lang/String; 5e t
+b29e6a69: [+] Patches found in this round: 2
+b29e6a69: [*] Found Patch size: 1
+ExitReason-Code: 5 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample83.ilog)
+b29e6a69: @@localPatchFilter -- 3ea8fc
+b29e6a69: @@localPatchFilter -- 2dc6ce
+b29e6a69: @@localPatchFilter -- 44c08e
+b29e6a69: @@localPatchFilter -- 2e7b32
+b29e6a69: @@localPatchFilter -- 44ba3a
+b29e6a69: @@localPatchFilter -- 45470a
+b29e6a69: 	@@@Found patch addr: 2e851e
+b29e6a69: Querying offset: 2e850e
+b29e6a69: 	--Add method name to patch = bccccc.erreee/b04170417З0417ЗЗ04170417:(Ljava/lang/String;CC)Ljava/lang/String; 	2e850e
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: patching method: bccccc.rreree/b0417ЗЗ0417ЗЗ04170417:(Ljava/lang/String;C)Ljava/lang/String;
+b29e6a69: patching method: bccccc.eereee/b0417041704170417ЗЗ04170417:(I)I
+b29e6a69: patching method: bccccc.rrrree/b04170417З0417ЗЗ04170417:(Ljava/lang/String;CC)Ljava/lang/String;
+b29e6a69: patching method: bccccc.erreee/b04170417З0417ЗЗ04170417:(Ljava/lang/String;CC)Ljava/lang/String;
+b29e6a69: patching method: com.konylabs.android.KonyMain/bхххххх0445х:()Landroid/widget/RelativeLayout;
+b29e6a69: patching method: bccccc.ereree/b04170417З0417ЗЗ04170417:(Ljava/lang/String;CC)Ljava/lang/String;
+b29e6a69: patching method: bccccc.rreeee/b04170417З0417ЗЗ04170417:(Ljava/lang/String;CC)Ljava/lang/String;
+b29e6a69: patching method: bccccc.reeeee/bЗ04170417ЗЗЗ04170417:()Z
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample83_devRoot
+Wow!!!!!  --  bccccc.erreee/b04170417З0417ЗЗ04170417:(Ljava/lang/String;CC)Ljava/lang/String;
+fallthrough: 62
+branchTarget: c4
+label = cond_2
+GOTO -- 62 	c4
+Wow!!!!!  --  bccccc.rreree/b0417ЗЗ0417ЗЗ04170417:(Ljava/lang/String;C)Ljava/lang/String;
+fallthrough: 5e
+branchTarget: c4
+label = cond_2
+GOTO -- 5e 	c4
+Wow!!!!!  --  bccccc.rrrree/b04170417З0417ЗЗ04170417:(Ljava/lang/String;CC)Ljava/lang/String;
+fallthrough: 56
+branchTarget: c4
+label = cond_2
+GOTO -- 56 	c4
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample83_devRoot/sample83.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample83_devRoot/signed_sample83.apk
+b29e6a69: First address of Lbccccc/rreree;->b0417ЗЗ0417ЗЗ04170417(Ljava/lang/String;C)Ljava/lang/String; = 44c034
+b29e6a69: Address - Lbccccc/rreree;->b0417ЗЗ0417ЗЗ04170417(Ljava/lang/String;C)Ljava/lang/String;@5a	 lastOffset = d6
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Lbccccc/rrrree;->b04170417З0417ЗЗ04170417(Ljava/lang/String;CC)Ljava/lang/String; = 4546b8
+b29e6a69: Address - Lbccccc/rrrree;->b04170417З0417ЗЗ04170417(Ljava/lang/String;CC)Ljava/lang/String;@52	 lastOffset = e0
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Lbccccc/erreee;->b04170417З0417ЗЗ04170417(Ljava/lang/String;CC)Ljava/lang/String; = 2e84c0
+b29e6a69: Address - Lbccccc/erreee;->b04170417З0417ЗЗ04170417(Ljava/lang/String;CC)Ljava/lang/String;@5e	 lastOffset = e0
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample83_devRoot/signed_sample83.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample83.ilog)
+b29e6a69: Running Application: com.infrasofttech.CentralBank
+b29e6a69: Running is done - starting comparing... : 10001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.infrasofttech.CentralBank/.CentMobile
+PIDs--------------------------------------------------------------------------
+u0_a174        9424    432 1067136 131712 0                   0 S com.infrasofttech.CentralBank
+b29e6a69: savedPid = 9424
+PIDs--------------------------------------------------------------------------
+u0_a174        9424    432 1067136 131712 0                   0 S com.infrasofttech.CentralBank
+b29e6a69: savedPid2 = 9424
+Stopping app: com.infrasofttech.CentralBank
+Tryging remove : uninstall com.infrasofttech.CentralBank(com.infrasofttech.CentralBank)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 110152040
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 22
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample83.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample83.ilog)
+b29e6a69: adding filter -- 2e850e
+b29e6a69: adding filter -- 44c07e
+b29e6a69: adding filter -- 4546fa
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 2e850e
+-- current localPatchFilter: 3ea8ec
+-- current localPatchFilter: 2dc6be
+-- current localPatchFilter: 44c07e
+-- current localPatchFilter: 2e7b22
+-- current localPatchFilter: 44ba2a
+-- current localPatchFilter: 4546fa
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:6291d8		=(rels)=>		1
+[*] Unique action: 1:200356 : <<CALL>> : com.konylabs.android.KonyMain/bхххххх0445х:()Landroid/widget/RelativeLayout;:6291d8  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+	1:compareBackwardBranch: 1:200348 : <<BRANCH>> : com.konylabs.android.KonyMain/bхххххх0445х:()Landroid/widget/RelativeLayout;:629162  =>  com.konylabs.android.KonyMain/bхххххх0445х:()Landroid/widget/RelativeLayout;:629166
+android.app.Dialog/show:()V:73faba		=(rels)=>		1
+[*] Unique action: 1:105730 : <<CALL>> : bccccc.tftttf/b04200420РР04200420Р0420:()V:73faba  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch2: 1:14784 : <<BRANCH>> : bccccc.eerree/b0417ЗЗ0417ЗЗ04170417:(Ljava/lang/String;C)Ljava/lang/String;:2dd3ae  =>  bccccc.eerree/b0417ЗЗ0417ЗЗ04170417:(Ljava/lang/String;C)Ljava/lang/String;:2dd466
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:73fbb8		=(rels)=>		1
+[*] Unique action: 1:105655 : <<CALL>> : bccccc.tftttf/bР042004200420Р0420Р0420:(Ljava/lang/String;I)V:73fbb8  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch2: 1:14784 : <<BRANCH>> : bccccc.eerree/b0417ЗЗ0417ЗЗ04170417:(Ljava/lang/String;C)Ljava/lang/String;:2dd3ae  =>  bccccc.eerree/b0417ЗЗ0417ЗЗ04170417:(Ljava/lang/String;C)Ljava/lang/String;:2dd466
+Entry: 628cd8
+com.konylabs.android.KonyMain/bхххххх0445х:()Landroid/widget/RelativeLayout;: 629162 -> 629166
+		com.konylabs.android.KonyMain/bхххххх0445х:()Landroid/widget/RelativeLayout;: 48a -> 48e
+addPatchReadme: java.lang.Class<com.konylabs.android.KonyMain>bхххххх0445х()Landroid/widget/RelativeLayout; 48a f
+Entry: 2dd38c
+bccccc.eerree/b0417ЗЗ0417ЗЗ04170417:(Ljava/lang/String;C)Ljava/lang/String;: 2dd3ae -> 2dd466
+		bccccc.eerree/b0417ЗЗ0417ЗЗ04170417:(Ljava/lang/String;C)Ljava/lang/String;: 22 -> da
+addPatchReadme: java.lang.Class<bccccc.eerree>b0417ЗЗ0417ЗЗ04170417(Ljava/lang/String;C)Ljava/lang/String; 22 t
+b29e6a69: [+] Patches found in this round: 2
+b29e6a69: [*] Found Patch size: 1
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample83.ilog)
+b29e6a69: @@localPatchFilter -- 2e851e
+b29e6a69: @@localPatchFilter -- 3ea8fc
+b29e6a69: @@localPatchFilter -- 2dc6ce
+b29e6a69: @@localPatchFilter -- 44c08e
+b29e6a69: @@localPatchFilter -- 2e7b32
+b29e6a69: @@localPatchFilter -- 44ba3a
+b29e6a69: @@localPatchFilter -- 45470a
+b29e6a69: 	@@@Found patch addr: 2dd3be
+b29e6a69: Querying offset: 2dd3ae
+b29e6a69: 	--Add method name to patch = bccccc.eerree/b0417ЗЗ0417ЗЗ04170417:(Ljava/lang/String;C)Ljava/lang/String; 	2dd3ae
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: patching method: bccccc.rreree/b0417ЗЗ0417ЗЗ04170417:(Ljava/lang/String;C)Ljava/lang/String;
+b29e6a69: patching method: bccccc.eereee/b0417041704170417ЗЗ04170417:(I)I
+b29e6a69: patching method: bccccc.rrrree/b04170417З0417ЗЗ04170417:(Ljava/lang/String;CC)Ljava/lang/String;
+b29e6a69: patching method: bccccc.erreee/b04170417З0417ЗЗ04170417:(Ljava/lang/String;CC)Ljava/lang/String;
+b29e6a69: patching method: com.konylabs.android.KonyMain/bхххххх0445х:()Landroid/widget/RelativeLayout;
+b29e6a69: patching method: bccccc.ereree/b04170417З0417ЗЗ04170417:(Ljava/lang/String;CC)Ljava/lang/String;
+b29e6a69: patching method: bccccc.rreeee/b04170417З0417ЗЗ04170417:(Ljava/lang/String;CC)Ljava/lang/String;
+b29e6a69: patching method: bccccc.reeeee/bЗ04170417ЗЗЗ04170417:()Z
+b29e6a69: patching method: bccccc.eerree/b0417ЗЗ0417ЗЗ04170417:(Ljava/lang/String;C)Ljava/lang/String;
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample83_devRoot
+Wow!!!!!  --  bccccc.eerree/b0417ЗЗ0417ЗЗ04170417:(Ljava/lang/String;C)Ljava/lang/String;
+fallthrough: 26
+branchTarget: da
+label = cond_2
+GOTO -- 26 	da
+Wow!!!!!  --  bccccc.erreee/b04170417З0417ЗЗ04170417:(Ljava/lang/String;CC)Ljava/lang/String;
+fallthrough: 62
+branchTarget: c4
+label = cond_2
+GOTO -- 62 	c4
+Wow!!!!!  --  bccccc.rreree/b0417ЗЗ0417ЗЗ04170417:(Ljava/lang/String;C)Ljava/lang/String;
+fallthrough: 5e
+branchTarget: c4
+label = cond_2
+GOTO -- 5e 	c4
+Wow!!!!!  --  bccccc.rrrree/b04170417З0417ЗЗ04170417:(Ljava/lang/String;CC)Ljava/lang/String;
+fallthrough: 56
+branchTarget: c4
+label = cond_2
+GOTO -- 56 	c4
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample83_devRoot/sample83.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample83_devRoot/signed_sample83.apk
+b29e6a69: First address of Lbccccc/rreree;->b0417ЗЗ0417ЗЗ04170417(Ljava/lang/String;C)Ljava/lang/String; = 44c034
+b29e6a69: Address - Lbccccc/rreree;->b0417ЗЗ0417ЗЗ04170417(Ljava/lang/String;C)Ljava/lang/String;@5a	 lastOffset = d6
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Lbccccc/rrrree;->b04170417З0417ЗЗ04170417(Ljava/lang/String;CC)Ljava/lang/String; = 4546b8
+b29e6a69: Address - Lbccccc/rrrree;->b04170417З0417ЗЗ04170417(Ljava/lang/String;CC)Ljava/lang/String;@52	 lastOffset = e0
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Lbccccc/erreee;->b04170417З0417ЗЗ04170417(Ljava/lang/String;CC)Ljava/lang/String; = 2e84c0
+b29e6a69: Address - Lbccccc/erreee;->b04170417З0417ЗЗ04170417(Ljava/lang/String;CC)Ljava/lang/String;@5e	 lastOffset = e0
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Lbccccc/eerree;->b0417ЗЗ0417ЗЗ04170417(Ljava/lang/String;C)Ljava/lang/String; = 2dd39c
+b29e6a69: Address - Lbccccc/eerree;->b0417ЗЗ0417ЗЗ04170417(Ljava/lang/String;C)Ljava/lang/String;@22	 lastOffset = f8
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample83_devRoot/signed_sample83.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample83.ilog)
+b29e6a69: Running Application: com.infrasofttech.CentralBank
+b29e6a69: Running is done - starting comparing... : 10001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.infrasofttech.CentralBank/.CentMobile
+PIDs--------------------------------------------------------------------------
+u0_a175        9527    432 1066592 131704 0                   0 S com.infrasofttech.CentralBank
+b29e6a69: savedPid = 9527
+PIDs--------------------------------------------------------------------------
+u0_a175        9527    432 1066592 131704 0                   0 S com.infrasofttech.CentralBank
+b29e6a69: savedPid2 = 9527
+Stopping app: com.infrasofttech.CentralBank
+Tryging remove : uninstall com.infrasofttech.CentralBank(com.infrasofttech.CentralBank)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 43702352
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 21
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample83.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample83.ilog)
+b29e6a69: adding filter -- 2e850e
+b29e6a69: adding filter -- 44c07e
+b29e6a69: adding filter -- 2dd3ae
+b29e6a69: adding filter -- 4546fa
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 2e850e
+-- current localPatchFilter: 3ea8ec
+-- current localPatchFilter: 2dd3ae
+-- current localPatchFilter: 2dc6be
+-- current localPatchFilter: 44c07e
+-- current localPatchFilter: 2e7b22
+-- current localPatchFilter: 44ba2a
+-- current localPatchFilter: 4546fa
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:6291d8		=(rels)=>		1
+[*] Unique action: 1:200356 : <<CALL>> : com.konylabs.android.KonyMain/bхххххх0445х:()Landroid/widget/RelativeLayout;:6291d8  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+	1:compareBackwardBranch: 1:200348 : <<BRANCH>> : com.konylabs.android.KonyMain/bхххххх0445х:()Landroid/widget/RelativeLayout;:629162  =>  com.konylabs.android.KonyMain/bхххххх0445х:()Landroid/widget/RelativeLayout;:629166
+android.app.Dialog/show:()V:73faba		=(rels)=>		1
+[*] Unique action: 1:92966 : <<CALL>> : bccccc.tftttf/b04200420РР04200420Р0420:()V:73faba  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch2: 1:12076 : <<BRANCH>> : bccccc.rrreee/b0417ЗЗ0417ЗЗ04170417:(Ljava/lang/String;C)Ljava/lang/String;:452b22  =>  bccccc.rrreee/b0417ЗЗ0417ЗЗ04170417:(Ljava/lang/String;C)Ljava/lang/String;:452b26
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:73fbb8		=(rels)=>		1
+[*] Unique action: 1:92891 : <<CALL>> : bccccc.tftttf/bР042004200420Р0420Р0420:(Ljava/lang/String;I)V:73fbb8  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch2: 1:12076 : <<BRANCH>> : bccccc.rrreee/b0417ЗЗ0417ЗЗ04170417:(Ljava/lang/String;C)Ljava/lang/String;:452b22  =>  bccccc.rrreee/b0417ЗЗ0417ЗЗ04170417:(Ljava/lang/String;C)Ljava/lang/String;:452b26
+Entry: 628cd8
+com.konylabs.android.KonyMain/bхххххх0445х:()Landroid/widget/RelativeLayout;: 629162 -> 629166
+		com.konylabs.android.KonyMain/bхххххх0445х:()Landroid/widget/RelativeLayout;: 48a -> 48e
+addPatchReadme: java.lang.Class<com.konylabs.android.KonyMain>bхххххх0445х()Landroid/widget/RelativeLayout; 48a f
+Entry: 452b00
+bccccc.rrreee/b0417ЗЗ0417ЗЗ04170417:(Ljava/lang/String;C)Ljava/lang/String;: 452b22 -> 452b26
+		bccccc.rrreee/b0417ЗЗ0417ЗЗ04170417:(Ljava/lang/String;C)Ljava/lang/String;: 22 -> 26
+addPatchReadme: java.lang.Class<bccccc.rrreee>b0417ЗЗ0417ЗЗ04170417(Ljava/lang/String;C)Ljava/lang/String; 22 f
+b29e6a69: [+] Patches found in this round: 2
+b29e6a69: [*] Found Patch size: 1
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample83.ilog)
+b29e6a69: @@localPatchFilter -- 2e851e
+b29e6a69: @@localPatchFilter -- 3ea8fc
+b29e6a69: @@localPatchFilter -- 2dd3be
+b29e6a69: @@localPatchFilter -- 2dc6ce
+b29e6a69: @@localPatchFilter -- 44c08e
+b29e6a69: @@localPatchFilter -- 2e7b32
+b29e6a69: @@localPatchFilter -- 44ba3a
+b29e6a69: @@localPatchFilter -- 45470a
+b29e6a69: 	@@@Found patch addr: 452b32
+b29e6a69: Querying offset: 452b22
+b29e6a69: 	--Add method name to patch = bccccc.rrreee/b0417ЗЗ0417ЗЗ04170417:(Ljava/lang/String;C)Ljava/lang/String; 	452b22
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: patching method: bccccc.rreree/b0417ЗЗ0417ЗЗ04170417:(Ljava/lang/String;C)Ljava/lang/String;
+b29e6a69: patching method: bccccc.eereee/b0417041704170417ЗЗ04170417:(I)I
+b29e6a69: patching method: bccccc.rrrree/b04170417З0417ЗЗ04170417:(Ljava/lang/String;CC)Ljava/lang/String;
+b29e6a69: patching method: bccccc.erreee/b04170417З0417ЗЗ04170417:(Ljava/lang/String;CC)Ljava/lang/String;
+b29e6a69: patching method: com.konylabs.android.KonyMain/bхххххх0445х:()Landroid/widget/RelativeLayout;
+b29e6a69: patching method: bccccc.ereree/b04170417З0417ЗЗ04170417:(Ljava/lang/String;CC)Ljava/lang/String;
+b29e6a69: patching method: bccccc.rreeee/b04170417З0417ЗЗ04170417:(Ljava/lang/String;CC)Ljava/lang/String;
+b29e6a69: patching method: bccccc.reeeee/bЗ04170417ЗЗЗ04170417:()Z
+b29e6a69: patching method: bccccc.eerree/b0417ЗЗ0417ЗЗ04170417:(Ljava/lang/String;C)Ljava/lang/String;
+b29e6a69: patching method: bccccc.rrreee/b0417ЗЗ0417ЗЗ04170417:(Ljava/lang/String;C)Ljava/lang/String;
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample83_devRoot
+Wow!!!!!  --  bccccc.eerree/b0417ЗЗ0417ЗЗ04170417:(Ljava/lang/String;C)Ljava/lang/String;
+fallthrough: 26
+branchTarget: da
+label = cond_2
+GOTO -- 26 	da
+Wow!!!!!  --  bccccc.erreee/b04170417З0417ЗЗ04170417:(Ljava/lang/String;CC)Ljava/lang/String;
+fallthrough: 62
+branchTarget: c4
+label = cond_2
+GOTO -- 62 	c4
+Wow!!!!!  --  bccccc.rreree/b0417ЗЗ0417ЗЗ04170417:(Ljava/lang/String;C)Ljava/lang/String;
+fallthrough: 5e
+branchTarget: c4
+label = cond_2
+GOTO -- 5e 	c4
+Wow!!!!!  --  bccccc.rrreee/b0417ЗЗ0417ЗЗ04170417:(Ljava/lang/String;C)Ljava/lang/String;
+fallthrough: 26
+branchTarget: 26
+NOP!
+Wow!!!!!  --  bccccc.rrrree/b04170417З0417ЗЗ04170417:(Ljava/lang/String;CC)Ljava/lang/String;
+fallthrough: 56
+branchTarget: c4
+label = cond_2
+GOTO -- 56 	c4
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample83_devRoot/sample83.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample83_devRoot/signed_sample83.apk
+b29e6a69: First address of Lbccccc/rreree;->b0417ЗЗ0417ЗЗ04170417(Ljava/lang/String;C)Ljava/lang/String; = 44c034
+b29e6a69: Address - Lbccccc/rreree;->b0417ЗЗ0417ЗЗ04170417(Ljava/lang/String;C)Ljava/lang/String;@5a	 lastOffset = d6
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Lbccccc/rrrree;->b04170417З0417ЗЗ04170417(Ljava/lang/String;CC)Ljava/lang/String; = 4546b8
+b29e6a69: Address - Lbccccc/rrrree;->b04170417З0417ЗЗ04170417(Ljava/lang/String;CC)Ljava/lang/String;@52	 lastOffset = e0
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Lbccccc/erreee;->b04170417З0417ЗЗ04170417(Ljava/lang/String;CC)Ljava/lang/String; = 2e84c0
+b29e6a69: Address - Lbccccc/erreee;->b04170417З0417ЗЗ04170417(Ljava/lang/String;CC)Ljava/lang/String;@5e	 lastOffset = e0
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Lbccccc/eerree;->b0417ЗЗ0417ЗЗ04170417(Ljava/lang/String;C)Ljava/lang/String; = 2dd39c
+b29e6a69: Address - Lbccccc/eerree;->b0417ЗЗ0417ЗЗ04170417(Ljava/lang/String;C)Ljava/lang/String;@22	 lastOffset = f8
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Lbccccc/rrreee;->b0417ЗЗ0417ЗЗ04170417(Ljava/lang/String;C)Ljava/lang/String; = 452b10
+b29e6a69: Address - Lbccccc/rrreee;->b0417ЗЗ0417ЗЗ04170417(Ljava/lang/String;C)Ljava/lang/String;@22	 lastOffset = d4
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample83_devRoot/signed_sample83.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample83.ilog)
+b29e6a69: Running Application: com.infrasofttech.CentralBank
+b29e6a69: Running is done - starting comparing... : 10001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+b29e6a69: savedPid = null
+PIDs--------------------------------------------------------------------------
+b29e6a69: savedPid2 = null
+Stopping app: com.infrasofttech.CentralBank
+Tryging remove : uninstall com.infrasofttech.CentralBank(com.infrasofttech.CentralBank)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 13475443
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 20
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample83.ilog)
+ExitReason-Code: 5 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample83.ilog)
+b29e6a69: /home/santapark/Extended3/DEEPerence/reEx/sample83.apk launch is failed on devRoot
+b29e6a69: Failed Patch: 452b32
+b29e6a69: adding filter -- 2e850e
+b29e6a69: adding filter -- 44c07e
+b29e6a69: adding filter -- 2dd3ae
+b29e6a69: adding filter -- 4546fa
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 2e850e
+-- current localPatchFilter: 3ea8ec
+-- current localPatchFilter: 2dd3ae
+-- current localPatchFilter: 2dc6be
+-- current localPatchFilter: 452b22
+-- current localPatchFilter: 44c07e
+-- current localPatchFilter: 2e7b22
+-- current localPatchFilter: 44ba2a
+-- current localPatchFilter: 4546fa
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:6291d8		=(rels)=>		1
+[*] Unique action: 1:200356 : <<CALL>> : com.konylabs.android.KonyMain/bхххххх0445х:()Landroid/widget/RelativeLayout;:6291d8  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+	1:compareBackwardBranch: 1:200348 : <<BRANCH>> : com.konylabs.android.KonyMain/bхххххх0445х:()Landroid/widget/RelativeLayout;:629162  =>  com.konylabs.android.KonyMain/bхххххх0445х:()Landroid/widget/RelativeLayout;:629166
+android.app.Dialog/show:()V:73faba		=(rels)=>		1
+[*] Unique action: 1:92966 : <<CALL>> : bccccc.tftttf/b04200420РР04200420Р0420:()V:73faba  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch2: 1:208274 : <<BRANCH>> : com.konylabs.android.KonyMain/onCreate:(Landroid/os/Bundle;)V:637328  =>  com.konylabs.android.KonyMain/onCreate:(Landroid/os/Bundle;)V:637352
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:73fbb8		=(rels)=>		1
+[*] Unique action: 1:92891 : <<CALL>> : bccccc.tftttf/bР042004200420Р0420Р0420:(Ljava/lang/String;I)V:73fbb8  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch2: 1:208274 : <<BRANCH>> : com.konylabs.android.KonyMain/onCreate:(Landroid/os/Bundle;)V:637328  =>  com.konylabs.android.KonyMain/onCreate:(Landroid/os/Bundle;)V:637352
+Entry: 628cd8
+com.konylabs.android.KonyMain/bхххххх0445х:()Landroid/widget/RelativeLayout;: 629162 -> 629166
+		com.konylabs.android.KonyMain/bхххххх0445х:()Landroid/widget/RelativeLayout;: 48a -> 48e
+addPatchReadme: java.lang.Class<com.konylabs.android.KonyMain>bхххххх0445х()Landroid/widget/RelativeLayout; 48a f
+Entry: 636eec
+com.konylabs.android.KonyMain/onCreate:(Landroid/os/Bundle;)V: 637328 -> 637352
+		com.konylabs.android.KonyMain/onCreate:(Landroid/os/Bundle;)V: 43c -> 466
+addPatchReadme: java.lang.Class<com.konylabs.android.KonyMain>onCreate(Landroid/os/Bundle;)V 43c t
+b29e6a69: [+] Patches found in this round: 2
+b29e6a69: [*] Found Patch size: 1
+ExitReason-Code: 5 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample83.ilog)
+b29e6a69: @@localPatchFilter -- 2e851e
+b29e6a69: @@localPatchFilter -- 3ea8fc
+b29e6a69: @@localPatchFilter -- 2dd3be
+b29e6a69: @@localPatchFilter -- 2dc6ce
+b29e6a69: @@localPatchFilter -- 452b32
+b29e6a69: @@localPatchFilter -- 44c08e
+b29e6a69: @@localPatchFilter -- 2e7b32
+b29e6a69: @@localPatchFilter -- 44ba3a
+b29e6a69: @@localPatchFilter -- 45470a
+b29e6a69: 	@@@Found patch addr: 637338
+b29e6a69: Querying offset: 637328
+b29e6a69: 	--Add method name to patch = com.konylabs.android.KonyMain/onCreate:(Landroid/os/Bundle;)V 	637328
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: patching method: bccccc.rreree/b0417ЗЗ0417ЗЗ04170417:(Ljava/lang/String;C)Ljava/lang/String;
+b29e6a69: patching method: bccccc.eereee/b0417041704170417ЗЗ04170417:(I)I
+b29e6a69: patching method: bccccc.rrrree/b04170417З0417ЗЗ04170417:(Ljava/lang/String;CC)Ljava/lang/String;
+b29e6a69: patching method: bccccc.erreee/b04170417З0417ЗЗ04170417:(Ljava/lang/String;CC)Ljava/lang/String;
+b29e6a69: patching method: com.konylabs.android.KonyMain/bхххххх0445х:()Landroid/widget/RelativeLayout;
+b29e6a69: patching method: bccccc.ereree/b04170417З0417ЗЗ04170417:(Ljava/lang/String;CC)Ljava/lang/String;
+b29e6a69: patching method: bccccc.rreeee/b04170417З0417ЗЗ04170417:(Ljava/lang/String;CC)Ljava/lang/String;
+b29e6a69: patching method: bccccc.reeeee/bЗ04170417ЗЗЗ04170417:()Z
+b29e6a69: patching method: bccccc.eerree/b0417ЗЗ0417ЗЗ04170417:(Ljava/lang/String;C)Ljava/lang/String;
+b29e6a69: patching method: bccccc.rrreee/b0417ЗЗ0417ЗЗ04170417:(Ljava/lang/String;C)Ljava/lang/String;
+b29e6a69: patching method: com.konylabs.android.KonyMain/onCreate:(Landroid/os/Bundle;)V
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample83_devRoot
+Wow!!!!!  --  bccccc.eerree/b0417ЗЗ0417ЗЗ04170417:(Ljava/lang/String;C)Ljava/lang/String;
+fallthrough: 26
+branchTarget: da
+label = cond_2
+GOTO -- 26 	da
+Wow!!!!!  --  bccccc.erreee/b04170417З0417ЗЗ04170417:(Ljava/lang/String;CC)Ljava/lang/String;
+fallthrough: 62
+branchTarget: c4
+label = cond_2
+GOTO -- 62 	c4
+Wow!!!!!  --  bccccc.rreree/b0417ЗЗ0417ЗЗ04170417:(Ljava/lang/String;C)Ljava/lang/String;
+fallthrough: 5e
+branchTarget: c4
+label = cond_2
+GOTO -- 5e 	c4
+Wow!!!!!  --  bccccc.rrrree/b04170417З0417ЗЗ04170417:(Ljava/lang/String;CC)Ljava/lang/String;
+fallthrough: 56
+branchTarget: c4
+label = cond_2
+GOTO -- 56 	c4
+Wow!!!!!  --  com.konylabs.android.KonyMain/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 440
+branchTarget: 466
+label = cond_14
+GOTO -- 440 	466
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample83_devRoot/sample83.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample83_devRoot/signed_sample83.apk
+b29e6a69: First address of Lbccccc/rreree;->b0417ЗЗ0417ЗЗ04170417(Ljava/lang/String;C)Ljava/lang/String; = 44c034
+b29e6a69: Address - Lbccccc/rreree;->b0417ЗЗ0417ЗЗ04170417(Ljava/lang/String;C)Ljava/lang/String;@5a	 lastOffset = d6
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Lbccccc/rrrree;->b04170417З0417ЗЗ04170417(Ljava/lang/String;CC)Ljava/lang/String; = 4546b8
+b29e6a69: Address - Lbccccc/rrrree;->b04170417З0417ЗЗ04170417(Ljava/lang/String;CC)Ljava/lang/String;@52	 lastOffset = e0
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Lbccccc/erreee;->b04170417З0417ЗЗ04170417(Ljava/lang/String;CC)Ljava/lang/String; = 2e84c0
+b29e6a69: Address - Lbccccc/erreee;->b04170417З0417ЗЗ04170417(Ljava/lang/String;CC)Ljava/lang/String;@5e	 lastOffset = e0
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Lbccccc/eerree;->b0417ЗЗ0417ЗЗ04170417(Ljava/lang/String;C)Ljava/lang/String; = 2dd39c
+b29e6a69: Address - Lbccccc/eerree;->b0417ЗЗ0417ЗЗ04170417(Ljava/lang/String;C)Ljava/lang/String;@22	 lastOffset = f8
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Lcom/konylabs/android/KonyMain;->onCreate(Landroid/os/Bundle;)V = 636efc
+b29e6a69: Address - Lcom/konylabs/android/KonyMain;->onCreate(Landroid/os/Bundle;)V@43c	 lastOffset = 5b0
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample83_devRoot/signed_sample83.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample83.ilog)
+b29e6a69: Running Application: com.infrasofttech.CentralBank
+b29e6a69: Running is done - starting comparing... : 10001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.infrasofttech.CentralBank/.CentMobile
+PIDs--------------------------------------------------------------------------
+u0_a177        9734    432 1066600 133152 0                   0 S com.infrasofttech.CentralBank
+b29e6a69: savedPid = 9734
+PIDs--------------------------------------------------------------------------
+u0_a177        9734    432 1066600 133152 0                   0 S com.infrasofttech.CentralBank
+b29e6a69: savedPid2 = 9734
+Stopping app: com.infrasofttech.CentralBank
+Tryging remove : uninstall com.infrasofttech.CentralBank(com.infrasofttech.CentralBank)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 43606094
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 19
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample83.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample83.ilog)
+b29e6a69: adding filter -- 2e850e
+b29e6a69: adding filter -- 44c07e
+b29e6a69: adding filter -- 2dd3ae
+b29e6a69: adding filter -- 637328
+b29e6a69: adding filter -- 4546fa
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 2e850e
+-- current localPatchFilter: 3ea8ec
+-- current localPatchFilter: 2dd3ae
+-- current localPatchFilter: 2dc6be
+-- current localPatchFilter: 452b22
+-- current localPatchFilter: 44c07e
+-- current localPatchFilter: 637328
+-- current localPatchFilter: 2e7b22
+-- current localPatchFilter: 44ba2a
+-- current localPatchFilter: 4546fa
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:6291d8		=(rels)=>		1
+[*] Unique action: 1:200356 : <<CALL>> : com.konylabs.android.KonyMain/bхххххх0445х:()Landroid/widget/RelativeLayout;:6291d8  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+	1:compareBackwardBranch: 1:200348 : <<BRANCH>> : com.konylabs.android.KonyMain/bхххххх0445х:()Landroid/widget/RelativeLayout;:629162  =>  com.konylabs.android.KonyMain/bхххххх0445х:()Landroid/widget/RelativeLayout;:629166
+android.app.Dialog/show:()V:73faba		=(rels)=>		1
+[*] Unique action: 1:99598 : <<CALL>> : bccccc.tftttf/b04200420РР04200420Р0420:()V:73faba  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch2: 1:1571263 : <<BRANCH>> : bccccc.hqqqhq$1$1/run:()V:339f9e  =>  bccccc.hqqqhq$1$1/run:()V:339fc4
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:73fbb8		=(rels)=>		1
+[*] Unique action: 1:99559 : <<CALL>> : bccccc.tftttf/bР042004200420Р0420Р0420:(Ljava/lang/String;I)V:73fbb8  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch2: 1:1571263 : <<BRANCH>> : bccccc.hqqqhq$1$1/run:()V:339f9e  =>  bccccc.hqqqhq$1$1/run:()V:339fc4
+Entry: 628cd8
+com.konylabs.android.KonyMain/bхххххх0445х:()Landroid/widget/RelativeLayout;: 629162 -> 629166
+		com.konylabs.android.KonyMain/bхххххх0445х:()Landroid/widget/RelativeLayout;: 48a -> 48e
+addPatchReadme: java.lang.Class<com.konylabs.android.KonyMain>bхххххх0445х()Landroid/widget/RelativeLayout; 48a f
+Entry: 339f48
+bccccc.hqqqhq$1$1/run:()V: 339f9e -> 339fc4
+		bccccc.hqqqhq$1$1/run:()V: 56 -> 7c
+addPatchReadme: java.lang.Class<bccccc.hqqqhq$1$1>run()V 56 t
+b29e6a69: [+] Patches found in this round: 2
+b29e6a69: [*] Found Patch size: 1
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample83.ilog)
+b29e6a69: @@localPatchFilter -- 2e851e
+b29e6a69: @@localPatchFilter -- 3ea8fc
+b29e6a69: @@localPatchFilter -- 2dd3be
+b29e6a69: @@localPatchFilter -- 2dc6ce
+b29e6a69: @@localPatchFilter -- 452b32
+b29e6a69: @@localPatchFilter -- 44c08e
+b29e6a69: @@localPatchFilter -- 637338
+b29e6a69: @@localPatchFilter -- 2e7b32
+b29e6a69: @@localPatchFilter -- 44ba3a
+b29e6a69: @@localPatchFilter -- 45470a
+b29e6a69: 	@@@Found patch addr: 339fae
+b29e6a69: Querying offset: 339f9e
+b29e6a69: 	--Add method name to patch = bccccc.hqqqhq$1$1/run:()V 	339f9e
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: patching method: bccccc.rreree/b0417ЗЗ0417ЗЗ04170417:(Ljava/lang/String;C)Ljava/lang/String;
+b29e6a69: patching method: bccccc.eereee/b0417041704170417ЗЗ04170417:(I)I
+b29e6a69: patching method: bccccc.rrrree/b04170417З0417ЗЗ04170417:(Ljava/lang/String;CC)Ljava/lang/String;
+b29e6a69: patching method: bccccc.erreee/b04170417З0417ЗЗ04170417:(Ljava/lang/String;CC)Ljava/lang/String;
+b29e6a69: patching method: com.konylabs.android.KonyMain/bхххххх0445х:()Landroid/widget/RelativeLayout;
+b29e6a69: patching method: bccccc.ereree/b04170417З0417ЗЗ04170417:(Ljava/lang/String;CC)Ljava/lang/String;
+b29e6a69: patching method: bccccc.rreeee/b04170417З0417ЗЗ04170417:(Ljava/lang/String;CC)Ljava/lang/String;
+b29e6a69: patching method: bccccc.reeeee/bЗ04170417ЗЗЗ04170417:()Z
+b29e6a69: patching method: bccccc.eerree/b0417ЗЗ0417ЗЗ04170417:(Ljava/lang/String;C)Ljava/lang/String;
+b29e6a69: patching method: bccccc.rrreee/b0417ЗЗ0417ЗЗ04170417:(Ljava/lang/String;C)Ljava/lang/String;
+b29e6a69: patching method: com.konylabs.android.KonyMain/onCreate:(Landroid/os/Bundle;)V
+b29e6a69: patching method: bccccc.hqqqhq$1$1/run:()V
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample83_devRoot
+Wow!!!!!  --  bccccc.eerree/b0417ЗЗ0417ЗЗ04170417:(Ljava/lang/String;C)Ljava/lang/String;
+fallthrough: 26
+branchTarget: da
+label = cond_2
+GOTO -- 26 	da
+Wow!!!!!  --  bccccc.erreee/b04170417З0417ЗЗ04170417:(Ljava/lang/String;CC)Ljava/lang/String;
+fallthrough: 62
+branchTarget: c4
+label = cond_2
+GOTO -- 62 	c4
+Wow!!!!!  --  bccccc.hqqqhq$1$1/run:()V
+fallthrough: 5a
+branchTarget: 7c
+label = cond_1
+GOTO -- 5a 	7c
+Wow!!!!!  --  bccccc.rreree/b0417ЗЗ0417ЗЗ04170417:(Ljava/lang/String;C)Ljava/lang/String;
+fallthrough: 5e
+branchTarget: c4
+label = cond_2
+GOTO -- 5e 	c4
+Wow!!!!!  --  bccccc.rrrree/b04170417З0417ЗЗ04170417:(Ljava/lang/String;CC)Ljava/lang/String;
+fallthrough: 56
+branchTarget: c4
+label = cond_2
+GOTO -- 56 	c4
+Wow!!!!!  --  com.konylabs.android.KonyMain/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 440
+branchTarget: 466
+label = cond_14
+GOTO -- 440 	466
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample83_devRoot/sample83.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample83_devRoot/signed_sample83.apk
+b29e6a69: First address of Lbccccc/rreree;->b0417ЗЗ0417ЗЗ04170417(Ljava/lang/String;C)Ljava/lang/String; = 44c034
+b29e6a69: Address - Lbccccc/rreree;->b0417ЗЗ0417ЗЗ04170417(Ljava/lang/String;C)Ljava/lang/String;@5a	 lastOffset = d6
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Lbccccc/rrrree;->b04170417З0417ЗЗ04170417(Ljava/lang/String;CC)Ljava/lang/String; = 4546b8
+b29e6a69: Address - Lbccccc/rrrree;->b04170417З0417ЗЗ04170417(Ljava/lang/String;CC)Ljava/lang/String;@52	 lastOffset = e0
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Lbccccc/erreee;->b04170417З0417ЗЗ04170417(Ljava/lang/String;CC)Ljava/lang/String; = 2e84c0
+b29e6a69: Address - Lbccccc/erreee;->b04170417З0417ЗЗ04170417(Ljava/lang/String;CC)Ljava/lang/String;@5e	 lastOffset = e0
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Lbccccc/eerree;->b0417ЗЗ0417ЗЗ04170417(Ljava/lang/String;C)Ljava/lang/String; = 2dd39c
+b29e6a69: Address - Lbccccc/eerree;->b0417ЗЗ0417ЗЗ04170417(Ljava/lang/String;C)Ljava/lang/String;@22	 lastOffset = f8
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Lcom/konylabs/android/KonyMain;->onCreate(Landroid/os/Bundle;)V = 636efc
+b29e6a69: Address - Lcom/konylabs/android/KonyMain;->onCreate(Landroid/os/Bundle;)V@43c	 lastOffset = 5b0
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Lbccccc/hqqqhq$1$1;->run()V = 339f58
+b29e6a69: Address - Lbccccc/hqqqhq$1$1;->run()V@56	 lastOffset = 7c
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample83_devRoot/signed_sample83.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample83.ilog)
+b29e6a69: Running Application: com.infrasofttech.CentralBank
+b29e6a69: Running is done - starting comparing... : 10001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.infrasofttech.CentralBank/.CentMobile
+PIDs--------------------------------------------------------------------------
+u0_a178        9836    432 1065372 126720 0                   0 S com.infrasofttech.CentralBank
+b29e6a69: savedPid = 9836
+PIDs--------------------------------------------------------------------------
+u0_a178        9836    432 1065372 126720 0                   0 S com.infrasofttech.CentralBank
+b29e6a69: savedPid2 = 9836
+Stopping app: com.infrasofttech.CentralBank
+Tryging remove : uninstall com.infrasofttech.CentralBank(com.infrasofttech.CentralBank)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 41238061
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 18
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample83.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample83.ilog)
+b29e6a69: adding filter -- 2e850e
+b29e6a69: adding filter -- 44c07e
+b29e6a69: adding filter -- 2dd3ae
+b29e6a69: adding filter -- 637328
+b29e6a69: adding filter -- 339f9e
+b29e6a69: adding filter -- 4546fa
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 2e850e
+-- current localPatchFilter: 3ea8ec
+-- current localPatchFilter: 2dd3ae
+-- current localPatchFilter: 2dc6be
+-- current localPatchFilter: 452b22
+-- current localPatchFilter: 44c07e
+-- current localPatchFilter: 637328
+-- current localPatchFilter: 2e7b22
+-- current localPatchFilter: 339f9e
+-- current localPatchFilter: 44ba2a
+-- current localPatchFilter: 4546fa
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:6291d8		=(rels)=>		1
+[*] Unique action: 1:200356 : <<CALL>> : com.konylabs.android.KonyMain/bхххххх0445х:()Landroid/widget/RelativeLayout;:6291d8  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+	1:compareBackwardBranch: 1:200348 : <<BRANCH>> : com.konylabs.android.KonyMain/bхххххх0445х:()Landroid/widget/RelativeLayout;:629162  =>  com.konylabs.android.KonyMain/bхххххх0445х:()Landroid/widget/RelativeLayout;:629166
+Action is completely same :)
+Entry: 628cd8
+com.konylabs.android.KonyMain/bхххххх0445х:()Landroid/widget/RelativeLayout;: 629162 -> 629166
+		com.konylabs.android.KonyMain/bхххххх0445х:()Landroid/widget/RelativeLayout;: 48a -> 48e
+addPatchReadme: java.lang.Class<com.konylabs.android.KonyMain>bхххххх0445х()Landroid/widget/RelativeLayout; 48a f
+b29e6a69: [+] Patches found in this round: 1
+b29e6a69: [*] Found Patch size: 1
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample83.ilog)
+b29e6a69: @@localPatchFilter -- 2e851e
+b29e6a69: @@localPatchFilter -- 3ea8fc
+b29e6a69: @@localPatchFilter -- 2dd3be
+b29e6a69: @@localPatchFilter -- 2dc6ce
+b29e6a69: @@localPatchFilter -- 452b32
+b29e6a69: @@localPatchFilter -- 44c08e
+b29e6a69: @@localPatchFilter -- 637338
+b29e6a69: @@localPatchFilter -- 2e7b32
+b29e6a69: @@localPatchFilter -- 339fae
+b29e6a69: @@localPatchFilter -- 44ba3a
+b29e6a69: @@localPatchFilter -- 45470a
+b29e6a69: 	@@@Found patch addr: 629172
+b29e6a69: Querying offset: 629162
+b29e6a69: 	--Add method name to patch = com.konylabs.android.KonyMain/bхххххх0445х:()Landroid/widget/RelativeLayout; 	629162
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: patching method: bccccc.rreree/b0417ЗЗ0417ЗЗ04170417:(Ljava/lang/String;C)Ljava/lang/String;
+b29e6a69: patching method: bccccc.eereee/b0417041704170417ЗЗ04170417:(I)I
+b29e6a69: patching method: bccccc.rrrree/b04170417З0417ЗЗ04170417:(Ljava/lang/String;CC)Ljava/lang/String;
+b29e6a69: patching method: bccccc.erreee/b04170417З0417ЗЗ04170417:(Ljava/lang/String;CC)Ljava/lang/String;
+b29e6a69: patching method: com.konylabs.android.KonyMain/bхххххх0445х:()Landroid/widget/RelativeLayout;
+b29e6a69: patching method: bccccc.ereree/b04170417З0417ЗЗ04170417:(Ljava/lang/String;CC)Ljava/lang/String;
+b29e6a69: patching method: bccccc.rreeee/b04170417З0417ЗЗ04170417:(Ljava/lang/String;CC)Ljava/lang/String;
+b29e6a69: patching method: bccccc.reeeee/bЗ04170417ЗЗЗ04170417:()Z
+b29e6a69: patching method: bccccc.eerree/b0417ЗЗ0417ЗЗ04170417:(Ljava/lang/String;C)Ljava/lang/String;
+b29e6a69: patching method: bccccc.rrreee/b0417ЗЗ0417ЗЗ04170417:(Ljava/lang/String;C)Ljava/lang/String;
+b29e6a69: patching method: com.konylabs.android.KonyMain/onCreate:(Landroid/os/Bundle;)V
+b29e6a69: patching method: bccccc.hqqqhq$1$1/run:()V
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample83_devRoot
+Wow!!!!!  --  bccccc.eerree/b0417ЗЗ0417ЗЗ04170417:(Ljava/lang/String;C)Ljava/lang/String;
+fallthrough: 26
+branchTarget: da
+label = cond_2
+GOTO -- 26 	da
+Wow!!!!!  --  bccccc.erreee/b04170417З0417ЗЗ04170417:(Ljava/lang/String;CC)Ljava/lang/String;
+fallthrough: 62
+branchTarget: c4
+label = cond_2
+GOTO -- 62 	c4
+Wow!!!!!  --  bccccc.hqqqhq$1$1/run:()V
+fallthrough: 5a
+branchTarget: 7c
+label = cond_1
+GOTO -- 5a 	7c
+Wow!!!!!  --  bccccc.rreree/b0417ЗЗ0417ЗЗ04170417:(Ljava/lang/String;C)Ljava/lang/String;
+fallthrough: 5e
+branchTarget: c4
+label = cond_2
+GOTO -- 5e 	c4
+Wow!!!!!  --  bccccc.rrrree/b04170417З0417ЗЗ04170417:(Ljava/lang/String;CC)Ljava/lang/String;
+fallthrough: 56
+branchTarget: c4
+label = cond_2
+GOTO -- 56 	c4
+Wow!!!!!  --  com.konylabs.android.KonyMain/bхххххх0445х:()Landroid/widget/RelativeLayout;
+fallthrough: 48e
+branchTarget: 48e
+NOP!
+Wow!!!!!  --  com.konylabs.android.KonyMain/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 440
+branchTarget: 466
+label = cond_14
+GOTO -- 440 	466
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample83_devRoot/sample83.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample83_devRoot/signed_sample83.apk
+b29e6a69: First address of Lbccccc/rreree;->b0417ЗЗ0417ЗЗ04170417(Ljava/lang/String;C)Ljava/lang/String; = 44c034
+b29e6a69: Address - Lbccccc/rreree;->b0417ЗЗ0417ЗЗ04170417(Ljava/lang/String;C)Ljava/lang/String;@5a	 lastOffset = d6
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Lbccccc/rrrree;->b04170417З0417ЗЗ04170417(Ljava/lang/String;CC)Ljava/lang/String; = 4546b8
+b29e6a69: Address - Lbccccc/rrrree;->b04170417З0417ЗЗ04170417(Ljava/lang/String;CC)Ljava/lang/String;@52	 lastOffset = e0
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Lbccccc/erreee;->b04170417З0417ЗЗ04170417(Ljava/lang/String;CC)Ljava/lang/String; = 2e84c0
+b29e6a69: Address - Lbccccc/erreee;->b04170417З0417ЗЗ04170417(Ljava/lang/String;CC)Ljava/lang/String;@5e	 lastOffset = e0
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Lcom/konylabs/android/KonyMain;->bхххххх0445х()Landroid/widget/RelativeLayout; = 628ce8
+b29e6a69: Address - Lcom/konylabs/android/KonyMain;->bхххххх0445х()Landroid/widget/RelativeLayout;@48a	 lastOffset = 840
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Lbccccc/eerree;->b0417ЗЗ0417ЗЗ04170417(Ljava/lang/String;C)Ljava/lang/String; = 2dd39c
+b29e6a69: Address - Lbccccc/eerree;->b0417ЗЗ0417ЗЗ04170417(Ljava/lang/String;C)Ljava/lang/String;@22	 lastOffset = f8
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Lcom/konylabs/android/KonyMain;->onCreate(Landroid/os/Bundle;)V = 636efc
+b29e6a69: Address - Lcom/konylabs/android/KonyMain;->onCreate(Landroid/os/Bundle;)V@43c	 lastOffset = 5b0
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Lbccccc/hqqqhq$1$1;->run()V = 339f58
+b29e6a69: Address - Lbccccc/hqqqhq$1$1;->run()V@56	 lastOffset = 7c
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample83_devRoot/signed_sample83.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample83.ilog)
+b29e6a69: Running Application: com.infrasofttech.CentralBank
+b29e6a69: Running is done - starting comparing... : 10001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.infrasofttech.CentralBank/.CentMobile
+PIDs--------------------------------------------------------------------------
+u0_a179        9940    432 1065892 127544 0                   0 S com.infrasofttech.CentralBank
+b29e6a69: savedPid = 9940
+PIDs--------------------------------------------------------------------------
+u0_a179        9940    432 1065892 127544 0                   0 S com.infrasofttech.CentralBank
+b29e6a69: savedPid2 = 9940
+Stopping app: com.infrasofttech.CentralBank
+Tryging remove : uninstall com.infrasofttech.CentralBank(com.infrasofttech.CentralBank)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 41288173
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 17
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample83.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample83.ilog)
+b29e6a69: adding filter -- 2e850e
+b29e6a69: adding filter -- 629162
+b29e6a69: adding filter -- 2dd3ae
+b29e6a69: adding filter -- 44c07e
+b29e6a69: adding filter -- 637328
+b29e6a69: adding filter -- 339f9e
+b29e6a69: adding filter -- 4546fa
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 2e850e
+-- current localPatchFilter: 629162
+-- current localPatchFilter: 3ea8ec
+-- current localPatchFilter: 2dd3ae
+-- current localPatchFilter: 2dc6be
+-- current localPatchFilter: 452b22
+-- current localPatchFilter: 44c07e
+-- current localPatchFilter: 637328
+-- current localPatchFilter: 2e7b22
+-- current localPatchFilter: 339f9e
+-- current localPatchFilter: 44ba2a
+-- current localPatchFilter: 4546fa
+Action is completely same :)
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:6291f8		=(rels)=>		1
+[*] Unique action: 1:72905 : <<CALL>> : com.konylabs.android.KonyMain/bхххххх0445х:()Landroid/widget/RelativeLayout;:6291f8  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+	1:compareBackwardBranch2: 1:200374 : <<BRANCH>> : com.konylabs.android.KonyMain/bхххххх0445х:()Landroid/widget/RelativeLayout;:6291e2  =>  com.konylabs.android.KonyMain/bхххххх0445х:()Landroid/widget/RelativeLayout;:6291fe
+Entry: 628cd8
+com.konylabs.android.KonyMain/bхххххх0445х:()Landroid/widget/RelativeLayout;: 6291e2 -> 6291fe
+		com.konylabs.android.KonyMain/bхххххх0445х:()Landroid/widget/RelativeLayout;: 50a -> 526
+addPatchReadme: java.lang.Class<com.konylabs.android.KonyMain>bхххххх0445х()Landroid/widget/RelativeLayout; 50a t
+b29e6a69: [+] Patches found in this round: 1
+b29e6a69: [*] Found Patch size: 1
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample83.ilog)
+b29e6a69: @@localPatchFilter -- 2e851e
+b29e6a69: @@localPatchFilter -- 629172
+b29e6a69: @@localPatchFilter -- 3ea8fc
+b29e6a69: @@localPatchFilter -- 2dd3be
+b29e6a69: @@localPatchFilter -- 2dc6ce
+b29e6a69: @@localPatchFilter -- 452b32
+b29e6a69: @@localPatchFilter -- 44c08e
+b29e6a69: @@localPatchFilter -- 637338
+b29e6a69: @@localPatchFilter -- 2e7b32
+b29e6a69: @@localPatchFilter -- 339fae
+b29e6a69: @@localPatchFilter -- 44ba3a
+b29e6a69: @@localPatchFilter -- 45470a
+b29e6a69: 	@@@Found patch addr: 6291f2
+b29e6a69: Querying offset: 6291e2
+b29e6a69: 	--Add method name to patch = com.konylabs.android.KonyMain/bхххххх0445х:()Landroid/widget/RelativeLayout; 	6291e2
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: patching method: bccccc.rreree/b0417ЗЗ0417ЗЗ04170417:(Ljava/lang/String;C)Ljava/lang/String;
+b29e6a69: patching method: bccccc.eereee/b0417041704170417ЗЗ04170417:(I)I
+b29e6a69: patching method: bccccc.rrrree/b04170417З0417ЗЗ04170417:(Ljava/lang/String;CC)Ljava/lang/String;
+b29e6a69: patching method: bccccc.erreee/b04170417З0417ЗЗ04170417:(Ljava/lang/String;CC)Ljava/lang/String;
+b29e6a69: patching method: com.konylabs.android.KonyMain/bхххххх0445х:()Landroid/widget/RelativeLayout;
+b29e6a69: patching method: bccccc.ereree/b04170417З0417ЗЗ04170417:(Ljava/lang/String;CC)Ljava/lang/String;
+b29e6a69: patching method: bccccc.rreeee/b04170417З0417ЗЗ04170417:(Ljava/lang/String;CC)Ljava/lang/String;
+b29e6a69: patching method: bccccc.reeeee/bЗ04170417ЗЗЗ04170417:()Z
+b29e6a69: patching method: bccccc.eerree/b0417ЗЗ0417ЗЗ04170417:(Ljava/lang/String;C)Ljava/lang/String;
+b29e6a69: patching method: bccccc.rrreee/b0417ЗЗ0417ЗЗ04170417:(Ljava/lang/String;C)Ljava/lang/String;
+b29e6a69: patching method: com.konylabs.android.KonyMain/onCreate:(Landroid/os/Bundle;)V
+b29e6a69: patching method: bccccc.hqqqhq$1$1/run:()V
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample83_devRoot
+Wow!!!!!  --  bccccc.eerree/b0417ЗЗ0417ЗЗ04170417:(Ljava/lang/String;C)Ljava/lang/String;
+fallthrough: 26
+branchTarget: da
+label = cond_2
+GOTO -- 26 	da
+Wow!!!!!  --  bccccc.erreee/b04170417З0417ЗЗ04170417:(Ljava/lang/String;CC)Ljava/lang/String;
+fallthrough: 62
+branchTarget: c4
+label = cond_2
+GOTO -- 62 	c4
+Wow!!!!!  --  bccccc.hqqqhq$1$1/run:()V
+fallthrough: 5a
+branchTarget: 7c
+label = cond_1
+GOTO -- 5a 	7c
+Wow!!!!!  --  bccccc.rreree/b0417ЗЗ0417ЗЗ04170417:(Ljava/lang/String;C)Ljava/lang/String;
+fallthrough: 5e
+branchTarget: c4
+label = cond_2
+GOTO -- 5e 	c4
+Wow!!!!!  --  bccccc.rrrree/b04170417З0417ЗЗ04170417:(Ljava/lang/String;CC)Ljava/lang/String;
+fallthrough: 56
+branchTarget: c4
+label = cond_2
+GOTO -- 56 	c4
+Wow!!!!!  --  com.konylabs.android.KonyMain/bхххххх0445х:()Landroid/widget/RelativeLayout;
+fallthrough: 48e
+branchTarget: 48e
+NOP!
+Wow!!!!!  --  com.konylabs.android.KonyMain/bхххххх0445х:()Landroid/widget/RelativeLayout;
+fallthrough: 50e
+branchTarget: 526
+label = cond_14
+GOTO -- 50e 	526
+Wow!!!!!  --  com.konylabs.android.KonyMain/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 440
+branchTarget: 466
+label = cond_14
+GOTO -- 440 	466
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample83_devRoot/sample83.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample83_devRoot/signed_sample83.apk
+b29e6a69: First address of Lbccccc/rreree;->b0417ЗЗ0417ЗЗ04170417(Ljava/lang/String;C)Ljava/lang/String; = 44c034
+b29e6a69: Address - Lbccccc/rreree;->b0417ЗЗ0417ЗЗ04170417(Ljava/lang/String;C)Ljava/lang/String;@5a	 lastOffset = d6
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Lbccccc/rrrree;->b04170417З0417ЗЗ04170417(Ljava/lang/String;CC)Ljava/lang/String; = 4546b8
+b29e6a69: Address - Lbccccc/rrrree;->b04170417З0417ЗЗ04170417(Ljava/lang/String;CC)Ljava/lang/String;@52	 lastOffset = e0
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Lbccccc/erreee;->b04170417З0417ЗЗ04170417(Ljava/lang/String;CC)Ljava/lang/String; = 2e84c0
+b29e6a69: Address - Lbccccc/erreee;->b04170417З0417ЗЗ04170417(Ljava/lang/String;CC)Ljava/lang/String;@5e	 lastOffset = e0
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Lcom/konylabs/android/KonyMain;->bхххххх0445х()Landroid/widget/RelativeLayout; = 628ce8
+b29e6a69: Address - Lcom/konylabs/android/KonyMain;->bхххххх0445х()Landroid/widget/RelativeLayout;@48a	 lastOffset = 840
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Lcom/konylabs/android/KonyMain;->bхххххх0445х()Landroid/widget/RelativeLayout; = 628ce8
+b29e6a69: Address - Lcom/konylabs/android/KonyMain;->bхххххх0445х()Landroid/widget/RelativeLayout;@50a	 lastOffset = 840
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Lbccccc/eerree;->b0417ЗЗ0417ЗЗ04170417(Ljava/lang/String;C)Ljava/lang/String; = 2dd39c
+b29e6a69: Address - Lbccccc/eerree;->b0417ЗЗ0417ЗЗ04170417(Ljava/lang/String;C)Ljava/lang/String;@22	 lastOffset = f8
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Lcom/konylabs/android/KonyMain;->onCreate(Landroid/os/Bundle;)V = 636efc
+b29e6a69: Address - Lcom/konylabs/android/KonyMain;->onCreate(Landroid/os/Bundle;)V@43c	 lastOffset = 5b0
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Lbccccc/hqqqhq$1$1;->run()V = 339f58
+b29e6a69: Address - Lbccccc/hqqqhq$1$1;->run()V@56	 lastOffset = 7c
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample83_devRoot/signed_sample83.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample83.ilog)
+b29e6a69: Running Application: com.infrasofttech.CentralBank
+b29e6a69: Running is done - starting comparing... : 10001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.infrasofttech.CentralBank/.CentMobile
+PIDs--------------------------------------------------------------------------
+u0_a180       10040    432 1065372 126752 0                   0 S com.infrasofttech.CentralBank
+b29e6a69: savedPid = 10040
+PIDs--------------------------------------------------------------------------
+u0_a180       10040    432 1065372 126752 0                   0 S com.infrasofttech.CentralBank
+b29e6a69: savedPid2 = 10040
+Stopping app: com.infrasofttech.CentralBank
+Tryging remove : uninstall com.infrasofttech.CentralBank(com.infrasofttech.CentralBank)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 41260487
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 16
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample83.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample83.ilog)
+b29e6a69: adding filter -- 2e850e
+b29e6a69: adding filter -- 629162
+b29e6a69: adding filter -- 6291e2
+b29e6a69: adding filter -- 2dd3ae
+b29e6a69: adding filter -- 44c07e
+b29e6a69: adding filter -- 637328
+b29e6a69: adding filter -- 339f9e
+b29e6a69: adding filter -- 4546fa
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 3ea8ec
+-- current localPatchFilter: 2dc6be
+-- current localPatchFilter: 44c07e
+-- current localPatchFilter: 4546fa
+-- current localPatchFilter: 2e850e
+-- current localPatchFilter: 629162
+-- current localPatchFilter: 6291e2
+-- current localPatchFilter: 2dd3ae
+-- current localPatchFilter: 452b22
+-- current localPatchFilter: 637328
+-- current localPatchFilter: 2e7b22
+-- current localPatchFilter: 339f9e
+-- current localPatchFilter: 44ba2a
+Action is completely same :)
+Action is completely same :)
+b29e6a69: There is no difference. (tryAgain=false)
+-- HPFinder will be done in this iteration :)
+hasAntiAnalysis? - devTamper: false on com.infrasofttech.CentralBank.CentMobile
+hasAntiAnalysis? - devRoot: true on com.infrasofttech.CentralBank.CentMobile
+	isRemovedThem? - devRoot: true on com.infrasofttech.CentralBank.CentMobile	-	tryCount: 13
+hasAntiAnalysis? - devDebug: true on com.infrasofttech.CentralBank.CentMobile
+	isRemovedThem? - devDebug: false on com.infrasofttech.CentralBank.CentMobile	-	tryCount: 4
+*****REPORT: com.infrasofttech.CentralBank
+* Package name: com.infrasofttech.CentralBank
+* Running time: 1544
+* FileSize: 29931266
+devTamper : 347852123
+devRef : 349280524
+devRoot : 41260487
+devDebug : 18582565
+hasAntiAnalysis? - devTamper: false on com.infrasofttech.CentralBank.CentMobile
+hasAntiAnalysis? - devRoot: true on com.infrasofttech.CentralBank.CentMobile
+	isRemovedThem? - devRoot: true on com.infrasofttech.CentralBank.CentMobile	-	tryCount: 13
+hasAntiAnalysis? - devDebug: true on com.infrasofttech.CentralBank.CentMobile
+	isRemovedThem? - devDebug: false on com.infrasofttech.CentralBank.CentMobile	-	tryCount: 4
+46604b9f: trying remove : com.infrasofttech.CentralBank
+3601a6ff: trying remove : com.infrasofttech.CentralBank
+b29e6a69: trying remove : com.infrasofttech.CentralBank
+159ceeed: trying remove : com.infrasofttech.CentralBank
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+b29e6a69: result = true
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+46604b9f: (Not Installed) Trying remove : true
+159ceeed: result = true
+46604b9f: -- Success
+46604b9f: result = true
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+3601a6ff: result = true
+3601a6ff: isFailedToLaunch: com.infrasofttech.CentralBank/.CentMobile
+3601a6ff: 	--result: Good :)

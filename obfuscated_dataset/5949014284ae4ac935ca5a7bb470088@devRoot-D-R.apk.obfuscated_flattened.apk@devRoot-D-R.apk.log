@@ -1,0 +1,430 @@
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample43.apk@devRoot-D-R.apk.obfuscated_flattened/AndroidManifest.xml
+launchable-activity: name='com.rf.hercircle.MainActivity'  label='HerCircle' icon=''
+{ACTIVITY, com.rf.hercircle.MainActivity, android.intent.action.MAIN}
+{SERVICE, services.MyFirebaseMessagingService, com.google.firebase.MESSAGING_EVENT}
+{SERVICE, com.google.firebase.messaging.FirebaseMessagingService, com.google.firebase.MESSAGING_EVENT}
+{SERVICE, com.google.firebase.components.ComponentDiscoveryService}
+{SERVICE, com.google.android.datatransport.runtime.backends.TransportBackendDiscovery}
+{RECEIVER, com.google.firebase.iid.FirebaseInstanceIdReceiver, com.google.android.c2dm.intent.RECEIVE}
+{RECEIVER, com.google.android.gms.measurement.AppMeasurementReceiver}
+{SERVICE, com.google.android.gms.measurement.AppMeasurementService}
+{SERVICE, com.google.android.gms.measurement.AppMeasurementJobService}
+{ACTIVITY, com.google.android.gms.common.api.GoogleApiActivity}
+{SERVICE, com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService}
+{ACTIVITY, com.rf.hercircle.MainActivity, android.intent.action.MAIN}
+{SERVICE, services.MyFirebaseMessagingService, com.google.firebase.MESSAGING_EVENT}
+{SERVICE, com.google.firebase.messaging.FirebaseMessagingService, com.google.firebase.MESSAGING_EVENT}
+{SERVICE, com.google.firebase.components.ComponentDiscoveryService}
+{SERVICE, com.google.android.datatransport.runtime.backends.TransportBackendDiscovery}
+{RECEIVER, com.google.firebase.iid.FirebaseInstanceIdReceiver, com.google.android.c2dm.intent.RECEIVE}
+{RECEIVER, com.google.android.gms.measurement.AppMeasurementReceiver}
+{SERVICE, com.google.android.gms.measurement.AppMeasurementService}
+{SERVICE, com.google.android.gms.measurement.AppMeasurementJobService}
+{ACTIVITY, com.google.android.gms.common.api.GoogleApiActivity}
+{SERVICE, com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService}
+_getAllDexFiles: /home/santapark/Extended3/DEEPerence/reEx/sample43.apk@devRoot-D-R.apk.obfuscated_flattened/classes.dex
+----------------/home/santapark/Extended3/DEEPerence/reEx/sample43.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+dexFile = org.jf.dexlib2.dexbacked.DexBackedDexFile@7e5afaa6
+com.rf.hercircle
+com.rf.hercircle.MainActivity
+debuggable: true
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample43.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+b29e6a69: (Not Installed) Trying remove : true
+46604b9f: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+46604b9f: -- Success
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample43.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample43.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample43.apk@devRoot-D-R.apk.obfuscated_flattened_46604b9f/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample43.apk@devRoot-D-R.apk.obfuscated_flattened_46604b9f/sample43.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+3601a6ff: Installation Success
+46604b9f: Installing repackaged apk File: 
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample43.apk@devRoot-D-R.apk.obfuscated_flattened_46604b9f/signed_sample43.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+159ceeed: Installation Success
+b29e6a69: Installation Success
+46604b9f: Installation Success
+46604b9f: startApplication called! - devTamper
+3601a6ff: startApplication called! - devRef
+b29e6a69: startApplication called! - devRoot
+159ceeed: startApplication called! - devDebug
+3601a6ff: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample43@devRoot-D-R.obfuscated_flattened.ilog)
+46604b9f: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devTamper_sample43@devRoot-D-R.obfuscated_flattened.ilog)
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample43@devRoot-D-R.obfuscated_flattened.ilog)
+3601a6ff: Running Application: com.rf.hercircle
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample43@devRoot-D-R.obfuscated_flattened.ilog)
+46604b9f: Running Application: com.rf.hercircle
+b29e6a69: Running Application: com.rf.hercircle
+PIDs--------------------------------------------------------------------------
+u0_a206        7002    423 14505292 104964 0                  0 S com.rf.hercircle
+forward tcp:35535 jdwp:7002
+[*]Found JDWP Target: 7002
+159ceeed: Running Application: com.rf.hercircle
+PIDs--------------------------------------------------------------------------
+u0_a206        7002    423 15007812 172392 0                  0 S com.rf.hercircle
+159ceeed: Tryging attach jdb to 7002
+jdb -connect com.sun.jdi.SocketAttach:hostname=localhost,port=35535
+3601a6ff: Running is done - starting comparing... : 10001
+3601a6ff: Terminated logcat thread...by itself
+46604b9f: Running is done - starting comparing... : 10001
+46604b9f: Terminated logcat thread...by itself
+3601a6ff: Top-activity: com.rf.hercircle/.MainActivity
+PIDs--------------------------------------------------------------------------
+u0_a227       30419    417 15229728 170064 0                  0 S com.rf.hercircle
+3601a6ff: savedPid = 30419
+PIDs--------------------------------------------------------------------------
+u0_a227       30419    417 15229728 170064 0                  0 S com.rf.hercircle
+3601a6ff: savedPid2 = 30419
+Stopping app: com.rf.hercircle
+46604b9f: Top-activity: com.rf.hercircle/.MainActivity
+PIDs--------------------------------------------------------------------------
+u0_a754       24976    427 15228716 170380 0                  0 S com.rf.hercircle
+46604b9f: savedPid = 24976
+PIDs--------------------------------------------------------------------------
+u0_a754       24976    427 15228716 170380 0                  0 S com.rf.hercircle
+46604b9f: savedPid2 = 24976
+Stopping app: com.rf.hercircle
+159ceeed: Running is done - starting comparing... : 10001
+159ceeed: Terminated logcat thread...by itself
+159ceeed: Top-activity: com.rf.hercircle/.MainActivity
+PIDs--------------------------------------------------------------------------
+u0_a206        7002    423 15042188 181920 0                  0 S com.rf.hercircle
+159ceeed: savedPid = 7002
+PIDs--------------------------------------------------------------------------
+u0_a206        7002    423 15007204 182100 0                  0 S com.rf.hercircle
+159ceeed: savedPid2 = 7002
+Stopping app: com.rf.hercircle
+Tryging remove : uninstall com.rf.hercircle(com.rf.hercircle)
+3601a6ff: Remove Success
+3601a6ff: ilog file size: 60767118
+3601a6ff: End of collecting logcat...
+b29e6a69: Running is done - starting comparing... : 10001
+b29e6a69: Terminated logcat thread...by itself
+Tryging remove : uninstall com.rf.hercircle(com.rf.hercircle)
+46604b9f: Remove Success
+46604b9f: ilog file size: 61186340
+46604b9f: End of collecting logcat...
+Tryging remove : uninstall com.rf.hercircle(com.rf.hercircle)
+159ceeed: Remove Success
+159ceeed: ilog file size: 61154723
+159ceeed: End of collecting logcat...
+b29e6a69: Top-activity: com.rf.hercircle/.MainActivity
+PIDs--------------------------------------------------------------------------
+u0_a3714      28174    425 14989256 173412 0                  0 S com.rf.hercircle
+b29e6a69: savedPid = 28174
+PIDs--------------------------------------------------------------------------
+u0_a3714      28174    425 14989256 173412 0                  0 S com.rf.hercircle
+b29e6a69: savedPid2 = 28174
+Stopping app: com.rf.hercircle
+Tryging remove : uninstall com.rf.hercircle(com.rf.hercircle)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 43489771
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 29
+46604b9f: isFailedToLaunch: com.rf.hercircle/.MainActivity
+b29e6a69: isFailedToLaunch: com.rf.hercircle/.MainActivity
+46604b9f: 	--result: Good :)
+b29e6a69: 	--result: Good :)
+46604b9f: isFailedToLaunch: com.rf.hercircle/.MainActivity
+b29e6a69: isFailedToLaunch: com.rf.hercircle/.MainActivity
+b29e6a69: 	--result: Good :)
+159ceeed: isFailedToLaunch: com.rf.hercircle/.MainActivity
+46604b9f: 	--result: Good :)
+159ceeed: 	--result: Good :)
+159ceeed: isFailedToLaunch: com.rf.hercircle/.MainActivity
+159ceeed: 	--result: Good :)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample43@devRoot-D-R.obfuscated_flattened.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample43@devRoot-D-R.obfuscated_flattened.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample43@devRoot-D-R.obfuscated_flattened.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample43@devRoot-D-R.obfuscated_flattened.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample43@devRoot-D-R.obfuscated_flattened.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devTamper_sample43@devRoot-D-R.obfuscated_flattened.ilog)
+[*] FlowManager: adjust finished.
+Action is completely same :)
+android.app.AlertDialog$Builder/show:()Landroid/app/AlertDialog;:292bac		=(rels)=>		1
+[*] Unique action: 1:44417 : <<CALL>> : com.rf.hercircle.MainActivity$a/run:()V:292bac  =>  android.app.AlertDialog$Builder/show:()Landroid/app/AlertDialog;:19e3bc
+	1:compareBackwardBranch: 1:40573 : <<BRANCH>> : com.rf.hercircle.MainActivity$a/run:()V:292ab4  =>  com.rf.hercircle.MainActivity$a/run:()V:292ac8
+Entry: 292a58
+com.rf.hercircle.MainActivity$a/run:()V: 292ab4 -> 292ac8
+		com.rf.hercircle.MainActivity$a/run:()V: 5c -> 70
+addPatchReadme: java.lang.Class<com.rf.hercircle.MainActivity$a>run()V 5c t
+b29e6a69: [+] Patches found in this round: 1
+b29e6a69: [*] Found Patch size: 1
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample43@devRoot-D-R.obfuscated_flattened.ilog)
+b29e6a69: 	@@@Found patch addr: 292ac4
+b29e6a69: Querying offset: 292ab4
+b29e6a69: 	--Add method name to patch = com.rf.hercircle.MainActivity$a/run:()V 	292ab4
+[*] FlowManager: adjust finished.
+Action is completely same :)
+Action is completely same :)
+159ceeed: There is no difference. (tryAgain=false)
+[*] FlowManager: adjust finished.
+Action is completely same :)
+Action is completely same :)
+46604b9f: There is no difference. (tryAgain=false)
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: patching method: com.rf.hercircle.MainActivity$a/run:()V
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample43.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot
+Wow!!!!!  --  com.rf.hercircle.MainActivity$a/run:()V
+fallthrough: 62
+branchTarget: 70
+label = sswitch_data_1
+GOTO -- 62 	70
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample43.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample43.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/sample43.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample43.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/signed_sample43.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+b29e6a69: First address of Lcom/rf/hercircle/MainActivity$a;->run()V = 292a68
+b29e6a69: Address - Lcom/rf/hercircle/MainActivity$a;->run()V@5c	 lastOffset = 1f0
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample43.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/signed_sample43.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample43@devRoot-D-R.obfuscated_flattened.ilog)
+b29e6a69: Running Application: com.rf.hercircle
+b29e6a69: Running is done - starting comparing... : 10001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+b29e6a69: savedPid = null
+PIDs--------------------------------------------------------------------------
+b29e6a69: savedPid2 = null
+Stopping app: com.rf.hercircle
+Tryging remove : uninstall com.rf.hercircle(com.rf.hercircle)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 18288500
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 28
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+b29e6a69: /home/santapark/Extended3/DEEPerence/reEx/sample43.apk@devRoot-D-R.apk.obfuscated_flattened.apk launch is failed on devRoot
+b29e6a69: Failed Patch: 292ac4
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 292ab4
+Action is completely same :)
+android.app.AlertDialog$Builder/show:()Landroid/app/AlertDialog;:292bac		=(rels)=>		1
+[*] Unique action: 1:44417 : <<CALL>> : com.rf.hercircle.MainActivity$a/run:()V:292bac  =>  android.app.AlertDialog$Builder/show:()Landroid/app/AlertDialog;:19e3bc
+	1:compareBackwardBranch: 1:40577 : <<BRANCH>> : com.rf.hercircle.MainActivity$a/run:()V:292adc  =>  com.rf.hercircle.MainActivity$a/run:()V:292af0
+Entry: 292a58
+com.rf.hercircle.MainActivity$a/run:()V: 292adc -> 292af0
+		com.rf.hercircle.MainActivity$a/run:()V: 84 -> 98
+addPatchReadme: java.lang.Class<com.rf.hercircle.MainActivity$a>run()V 84 t
+b29e6a69: [+] Patches found in this round: 1
+b29e6a69: [*] Found Patch size: 1
+ExitReason-Code: 4 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample43@devRoot-D-R.obfuscated_flattened.ilog)
+	System.exit called in native code!
+b29e6a69: @@localPatchFilter -- 292ac4
+b29e6a69: 	@@@Found patch addr: 292aec
+b29e6a69: Querying offset: 292adc
+b29e6a69: 	--Add method name to patch = com.rf.hercircle.MainActivity$a/run:()V 	292adc
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: patching method: com.rf.hercircle.MainActivity$a/run:()V
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample43.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot
+Wow!!!!!  --  com.rf.hercircle.MainActivity$a/run:()V
+fallthrough: 8a
+branchTarget: 98
+label = sswitch_data_2
+GOTO -- 8a 	98
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample43.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample43.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/sample43.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample43.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/signed_sample43.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+b29e6a69: First address of Lcom/rf/hercircle/MainActivity$a;->run()V = 292a68
+b29e6a69: Address - Lcom/rf/hercircle/MainActivity$a;->run()V@84	 lastOffset = 1f0
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample43.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/signed_sample43.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample43@devRoot-D-R.obfuscated_flattened.ilog)
+b29e6a69: Running Application: com.rf.hercircle
+b29e6a69: Running is done - starting comparing... : 10001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+b29e6a69: savedPid = null
+PIDs--------------------------------------------------------------------------
+b29e6a69: savedPid2 = null
+Stopping app: com.rf.hercircle
+Tryging remove : uninstall com.rf.hercircle(com.rf.hercircle)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 17946732
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 27
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+b29e6a69: /home/santapark/Extended3/DEEPerence/reEx/sample43.apk@devRoot-D-R.apk.obfuscated_flattened.apk launch is failed on devRoot
+b29e6a69: Failed Patch: 292aec
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 292adc
+-- current localPatchFilter: 292ab4
+Action is completely same :)
+android.app.AlertDialog$Builder/show:()Landroid/app/AlertDialog;:292bac		=(rels)=>		1
+[*] Unique action: 1:44417 : <<CALL>> : com.rf.hercircle.MainActivity$a/run:()V:292bac  =>  android.app.AlertDialog$Builder/show:()Landroid/app/AlertDialog;:19e3bc
+	1:compareBackwardBranch: 1:40582 : <<BRANCH>> : com.rf.hercircle.MainActivity$a/run:()V:292b04  =>  com.rf.hercircle.MainActivity$a/run:()V:292b18
+Entry: 292a58
+com.rf.hercircle.MainActivity$a/run:()V: 292b04 -> 292b18
+		com.rf.hercircle.MainActivity$a/run:()V: ac -> c0
+addPatchReadme: java.lang.Class<com.rf.hercircle.MainActivity$a>run()V ac t
+b29e6a69: [+] Patches found in this round: 1
+b29e6a69: [*] Found Patch size: 1
+ExitReason-Code: 4 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample43@devRoot-D-R.obfuscated_flattened.ilog)
+	System.exit called in native code!
+b29e6a69: @@localPatchFilter -- 292aec
+b29e6a69: @@localPatchFilter -- 292ac4
+b29e6a69: 	@@@Found patch addr: 292b14
+b29e6a69: Querying offset: 292b04
+b29e6a69: 	--Add method name to patch = com.rf.hercircle.MainActivity$a/run:()V 	292b04
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: patching method: com.rf.hercircle.MainActivity$a/run:()V
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample43.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot
+Wow!!!!!  --  com.rf.hercircle.MainActivity$a/run:()V
+fallthrough: b2
+branchTarget: c0
+label = sswitch_data_3
+GOTO -- b2 	c0
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample43.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample43.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/sample43.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample43.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/signed_sample43.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+b29e6a69: First address of Lcom/rf/hercircle/MainActivity$a;->run()V = 292a68
+b29e6a69: Address - Lcom/rf/hercircle/MainActivity$a;->run()V@ac	 lastOffset = 1f0
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample43.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/signed_sample43.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample43@devRoot-D-R.obfuscated_flattened.ilog)
+b29e6a69: Running Application: com.rf.hercircle
+b29e6a69: Running is done - starting comparing... : 10001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+b29e6a69: savedPid = null
+PIDs--------------------------------------------------------------------------
+b29e6a69: savedPid2 = null
+Stopping app: com.rf.hercircle
+Tryging remove : uninstall com.rf.hercircle(com.rf.hercircle)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 17775400
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 26
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+b29e6a69: /home/santapark/Extended3/DEEPerence/reEx/sample43.apk@devRoot-D-R.apk.obfuscated_flattened.apk launch is failed on devRoot
+b29e6a69: Failed Patch: 292b14
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 292adc
+-- current localPatchFilter: 292ab4
+-- current localPatchFilter: 292b04
+Action is completely same :)
+android.app.AlertDialog$Builder/show:()Landroid/app/AlertDialog;:292bac		=(rels)=>		1
+[*] Unique action: 1:44417 : <<CALL>> : com.rf.hercircle.MainActivity$a/run:()V:292bac  =>  android.app.AlertDialog$Builder/show:()Landroid/app/AlertDialog;:19e3bc
+	1:compareBackwardBranch: 1:171604 : <<BRANCH>> : com.rf.hercircle.MainActivity$a/run:()V:292b2e  =>  com.rf.hercircle.MainActivity$a/run:()V:292b12
+Entry: 292a58
+com.rf.hercircle.MainActivity$a/run:()V: 292b2e -> 292b12
+		com.rf.hercircle.MainActivity$a/run:()V: d6 -> ba
+addPatchReadme: java.lang.Class<com.rf.hercircle.MainActivity$a>run()V d6 t
+b29e6a69: [+] Patches found in this round: 1
+b29e6a69: [*] Found Patch size: 1
+ExitReason-Code: 4 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample43@devRoot-D-R.obfuscated_flattened.ilog)
+	System.exit called in native code!
+b29e6a69: @@localPatchFilter -- 292aec
+b29e6a69: @@localPatchFilter -- 292ac4
+b29e6a69: @@localPatchFilter -- 292b14
+b29e6a69: 	@@@Found patch addr: 292b3e
+b29e6a69: Querying offset: 292b2e
+b29e6a69: 	--Add method name to patch = com.rf.hercircle.MainActivity$a/run:()V 	292b2e
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: patching method: com.rf.hercircle.MainActivity$a/run:()V
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample43.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot
+Wow!!!!!  --  com.rf.hercircle.MainActivity$a/run:()V
+fallthrough: da
+branchTarget: ba
+label = cond_0
+GOTO -- da 	ba
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample43.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample43.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/sample43.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample43.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/signed_sample43.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+b29e6a69: First address of Lcom/rf/hercircle/MainActivity$a;->run()V = 292a68
+b29e6a69: Address - Lcom/rf/hercircle/MainActivity$a;->run()V@d6	 lastOffset = 1f0
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample43.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/signed_sample43.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample43@devRoot-D-R.obfuscated_flattened.ilog)
+b29e6a69: Running Application: com.rf.hercircle
+b29e6a69: Running is done - starting comparing... : 10001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.rf.hercircle/.MainActivity
+PIDs--------------------------------------------------------------------------
+u0_a3718      28726    425 14966456 171236 0                  0 S com.rf.hercircle
+b29e6a69: savedPid = 28726
+PIDs--------------------------------------------------------------------------
+u0_a3718      28726    425 14966456 171236 0                  0 S com.rf.hercircle
+b29e6a69: savedPid2 = 28726
+Stopping app: com.rf.hercircle
+Tryging remove : uninstall com.rf.hercircle(com.rf.hercircle)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 42702181
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 25
+b29e6a69: isFailedToLaunch: com.rf.hercircle/.MainActivity
+b29e6a69: 	--result: Good :)
+b29e6a69: isFailedToLaunch: com.rf.hercircle/.MainActivity
+b29e6a69: 	--result: Good :)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample43@devRoot-D-R.obfuscated_flattened.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample43@devRoot-D-R.obfuscated_flattened.ilog)
+b29e6a69: adding filter -- 292b2e
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 292b2e
+Action is completely same :)
+Action is completely same :)
+b29e6a69: There is no difference. (tryAgain=false)
+-- HPFinder will be done in this iteration :)
+hasAntiAnalysis? - devTamper: false on com.rf.hercircle.MainActivity
+hasAntiAnalysis? - devRoot: true on com.rf.hercircle.MainActivity
+	isRemovedThem? - devRoot: true on com.rf.hercircle.MainActivity	-	tryCount: 4
+hasAntiAnalysis? - devDebug: false on com.rf.hercircle.MainActivity
+*****REPORT: com.rf.hercircle
+* Package name: com.rf.hercircle
+* Running time: 282
+* FileSize: 2150932
+devTamper : 61186340
+devRef : 60767118
+devRoot : 42702181
+devDebug : 61154723
+hasAntiAnalysis? - devTamper: false on com.rf.hercircle.MainActivity
+hasAntiAnalysis? - devRoot: true on com.rf.hercircle.MainActivity
+	isRemovedThem? - devRoot: true on com.rf.hercircle.MainActivity	-	tryCount: 4
+hasAntiAnalysis? - devDebug: false on com.rf.hercircle.MainActivity
+46604b9f: trying remove : com.rf.hercircle
+3601a6ff: trying remove : com.rf.hercircle
+b29e6a69: trying remove : com.rf.hercircle
+159ceeed: trying remove : com.rf.hercircle
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+159ceeed: result = true
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+3601a6ff: result = true
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+46604b9f: result = true
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+b29e6a69: result = true
+3601a6ff: isFailedToLaunch: com.rf.hercircle/.MainActivity
+3601a6ff: 	--result: Good :)

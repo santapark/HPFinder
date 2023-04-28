@@ -1,0 +1,1009 @@
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample54.apk@devRoot-D-R.apk.obfuscated_flattened/AndroidManifest.xml
+launchable-activity: name='com.sxi.mobile.rbank.splashscreen.SplashActivity'  label='' icon=''
+{ACTIVITY, com.sxi.mobile.rbank.splashscreen.SplashActivity, android.intent.action.MAIN}
+{ACTIVITY, com.sxi.mobile.rbank.fingerprint.FingerPrintLoginActivity}
+{ACTIVITY, com.sxi.mobile.rbank.login.LoginActivity}
+{ACTIVITY, com.sxi.mobile.rbank.devicereg.DeviceRegActivity}
+{ACTIVITY, com.sxi.mobile.rbank.changepw.ChangePWActivity}
+{ACTIVITY, com.sxi.mobile.rbank.enroll.EnrollNowWebView}
+{ACTIVITY, com.sxi.mobile.rbank.forgot.ForgotUserIdPasswordActivity}
+{ACTIVITY, com.sxi.mobile.rbank.main.MainActivity}
+{ACTIVITY, com.sxi.mobile.rbank.locator.MapActivity}
+{ACTIVITY, com.sxi.mobile.rbank.otp.OTPActivity}
+{ACTIVITY, com.sxi.mobile.rbank.account.AccountDetailsActivity}
+{ACTIVITY, com.sxi.mobile.rbank.dashboard.favorites.FavoritesActivity}
+{ACTIVITY, com.sxi.mobile.rbank.qr.QRActivity}
+{ACTIVITY, com.sxi.mobile.rbank.qr.generate.QRGenerateActivity}
+{ACTIVITY, com.sxi.mobile.rbank.qr.tutorial.generate.QRGenTutorialActivity}
+{ACTIVITY, com.sxi.mobile.rbank.qr.history.QRInquiryInfoActivity}
+{ACTIVITY, com.sxi.mobile.rbank.qr.scan.QRScanActivity}
+{ACTIVITY, com.sxi.mobile.rbank.qr.scan.QRScannerActivity}
+{ACTIVITY, com.sxi.mobile.rbank.qr.scan.QRScanFormActivity}
+{ACTIVITY, com.sxi.mobile.rbank.qr.scan.QRTxnAckActivity}
+{ACTIVITY, com.sxi.mobile.rbank.qr.tutorial.scan.QRScanTutorialActivity}
+{SERVICE, com.sxi.mobile.rbank.services.IdleOnBackgroundService}
+{ACTIVITY, com.sxi.mobile.rbank.splashscreen.SplashActivity, android.intent.action.MAIN}
+{ACTIVITY, com.sxi.mobile.rbank.fingerprint.FingerPrintLoginActivity}
+{ACTIVITY, com.sxi.mobile.rbank.login.LoginActivity}
+{ACTIVITY, com.sxi.mobile.rbank.devicereg.DeviceRegActivity}
+{ACTIVITY, com.sxi.mobile.rbank.changepw.ChangePWActivity}
+{ACTIVITY, com.sxi.mobile.rbank.enroll.EnrollNowWebView}
+{ACTIVITY, com.sxi.mobile.rbank.forgot.ForgotUserIdPasswordActivity}
+{ACTIVITY, com.sxi.mobile.rbank.main.MainActivity}
+{ACTIVITY, com.sxi.mobile.rbank.locator.MapActivity}
+{ACTIVITY, com.sxi.mobile.rbank.otp.OTPActivity}
+{ACTIVITY, com.sxi.mobile.rbank.account.AccountDetailsActivity}
+{ACTIVITY, com.sxi.mobile.rbank.dashboard.favorites.FavoritesActivity}
+{ACTIVITY, com.sxi.mobile.rbank.qr.QRActivity}
+{ACTIVITY, com.sxi.mobile.rbank.qr.generate.QRGenerateActivity}
+{ACTIVITY, com.sxi.mobile.rbank.qr.tutorial.generate.QRGenTutorialActivity}
+{ACTIVITY, com.sxi.mobile.rbank.qr.history.QRInquiryInfoActivity}
+{ACTIVITY, com.sxi.mobile.rbank.qr.scan.QRScanActivity}
+{ACTIVITY, com.sxi.mobile.rbank.qr.scan.QRScannerActivity}
+{ACTIVITY, com.sxi.mobile.rbank.qr.scan.QRScanFormActivity}
+{ACTIVITY, com.sxi.mobile.rbank.qr.scan.QRTxnAckActivity}
+{ACTIVITY, com.sxi.mobile.rbank.qr.tutorial.scan.QRScanTutorialActivity}
+{SERVICE, com.sxi.mobile.rbank.services.IdleOnBackgroundService}
+_getAllDexFiles: /home/santapark/Extended3/DEEPerence/reEx/sample54.apk@devRoot-D-R.apk.obfuscated_flattened/classes.dex
+----------------/home/santapark/Extended3/DEEPerence/reEx/sample54.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+dexFile = org.jf.dexlib2.dexbacked.DexBackedDexFile@55f3c410
+com.sxi.mobile.rbank.implementation
+com.sxi.mobile.rbank.splashscreen.SplashActivity
+debuggable: true
+b29e6a69: (Not Installed) Trying remove : true
+159ceeed: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+159ceeed: -- Success
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample54.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample54.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample54.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample54.apk@devRoot-D-R.apk.obfuscated_flattened_46604b9f/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample54.apk@devRoot-D-R.apk.obfuscated_flattened_46604b9f/sample54.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+3601a6ff: Installation Success
+159ceeed: Installation Success
+b29e6a69: Installation Success
+46604b9f: Installing repackaged apk File: 
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample54.apk@devRoot-D-R.apk.obfuscated_flattened_46604b9f/signed_sample54.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+46604b9f: Installation Success
+46604b9f: startApplication called! - devTamper
+3601a6ff: startApplication called! - devRef
+b29e6a69: startApplication called! - devRoot
+159ceeed: startApplication called! - devDebug
+3601a6ff: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample54@devRoot-D-R.obfuscated_flattened.ilog)
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample54@devRoot-D-R.obfuscated_flattened.ilog)
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample54@devRoot-D-R.obfuscated_flattened.ilog)
+b29e6a69: Running Application: com.sxi.mobile.rbank.implementation
+3601a6ff: Running Application: com.sxi.mobile.rbank.implementation
+46604b9f: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devTamper_sample54@devRoot-D-R.obfuscated_flattened.ilog)
+46604b9f: Running Application: com.sxi.mobile.rbank.implementation
+PIDs--------------------------------------------------------------------------
+u0_a1561      12228    423 14495748 134776 0                  0 R com.sxi.mobile.rbank.implementation
+forward tcp:35535 jdwp:12228
+[*]Found JDWP Target: 12228
+159ceeed: Running Application: com.sxi.mobile.rbank.implementation
+PIDs--------------------------------------------------------------------------
+u0_a1561      12228    423 14581540 161612 0                  0 S com.sxi.mobile.rbank.implementation
+159ceeed: Tryging attach jdb to 12228
+jdb -connect com.sun.jdi.SocketAttach:hostname=localhost,port=35535
+b29e6a69: Running is done - starting comparing... : 15001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.sxi.mobile.rbank.implementation/com.sxi.mobile.rbank.splashscreen.SplashActivity
+PIDs--------------------------------------------------------------------------
+u0_a1025       4941    428 14900448 153024 0                  0 S com.sxi.mobile.rbank.implementation
+b29e6a69: savedPid = 4941
+PIDs--------------------------------------------------------------------------
+u0_a1025       4941    428 14900448 153024 0                  0 S com.sxi.mobile.rbank.implementation
+b29e6a69: savedPid2 = 4941
+Stopping app: com.sxi.mobile.rbank.implementation
+Tryging remove : uninstall com.sxi.mobile.rbank.implementation(com.sxi.mobile.rbank.implementation)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 4212002
+b29e6a69: End of collecting logcat...
+46604b9f: Running is done - starting comparing... : 15001
+46604b9f: Terminated logcat thread...by itself
+159ceeed: Running is done - starting comparing... : 15001
+159ceeed: Terminated logcat thread...by itself
+46604b9f: Top-activity: com.sxi.mobile.rbank.implementation/com.sxi.mobile.rbank.login.LoginActivity
+PIDs--------------------------------------------------------------------------
+u0_a1062       3395    425 14791428 157744 0                  0 S com.sxi.mobile.rbank.implementation
+46604b9f: savedPid = 3395
+PIDs--------------------------------------------------------------------------
+u0_a1062       3395    425 14791428 157744 0                  0 S com.sxi.mobile.rbank.implementation
+46604b9f: savedPid2 = 3395
+Stopping app: com.sxi.mobile.rbank.implementation
+159ceeed: Top-activity: com.sxi.mobile.rbank.implementation/com.sxi.mobile.rbank.login.LoginActivity
+PIDs--------------------------------------------------------------------------
+u0_a1561      12228    423 14691960 173824 0                  0 S com.sxi.mobile.rbank.implementation
+159ceeed: savedPid = 12228
+PIDs--------------------------------------------------------------------------
+u0_a1561      12228    423 14691960 173824 0                  0 S com.sxi.mobile.rbank.implementation
+159ceeed: savedPid2 = 12228
+Stopping app: com.sxi.mobile.rbank.implementation
+Tryging remove : uninstall com.sxi.mobile.rbank.implementation(com.sxi.mobile.rbank.implementation)
+46604b9f: Remove Success
+46604b9f: ilog file size: 27892360
+46604b9f: End of collecting logcat...
+Tryging remove : uninstall com.sxi.mobile.rbank.implementation(com.sxi.mobile.rbank.implementation)
+159ceeed: Remove Success
+159ceeed: ilog file size: 27890991
+159ceeed: End of collecting logcat...
+3601a6ff: Terminated logcat thread...by itself
+3601a6ff: Top-activity: com.sxi.mobile.rbank.implementation/com.sxi.mobile.rbank.login.LoginActivity
+PIDs--------------------------------------------------------------------------
+u0_a968       18760    414 14711460 157520 0                  0 S com.sxi.mobile.rbank.implementation
+3601a6ff: savedPid = 18760
+PIDs--------------------------------------------------------------------------
+u0_a968       18760    414 14711460 157520 0                  0 S com.sxi.mobile.rbank.implementation
+3601a6ff: savedPid2 = 18760
+Stopping app: com.sxi.mobile.rbank.implementation
+Tryging remove : uninstall com.sxi.mobile.rbank.implementation(com.sxi.mobile.rbank.implementation)
+3601a6ff: Remove Success
+3601a6ff: ilog file size: 29648282
+3601a6ff: End of collecting logcat...
+HPFinder's try count remains: 29
+Target PID : 18760
+Target PID : 18760
+Target PID : 18760
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample54@devRoot-D-R.obfuscated_flattened.ilog)
+Target PID : 3395
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample54@devRoot-D-R.obfuscated_flattened.ilog)
+Target PID : 12228
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample54@devRoot-D-R.obfuscated_flattened.ilog)
+Target PID : 4941
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample54@devRoot-D-R.obfuscated_flattened.ilog)
+[*] FlowManager: adjust finished.
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:18258c0		=(rels)=>		1
+[*] Unique action: 1:135883 : <<CALL>> : com.sxi.mobile.rbank.a.h/c:()V:18258c0  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample54@devRoot-D-R.obfuscated_flattened.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devTamper_sample54@devRoot-D-R.obfuscated_flattened.ilog)
+	1:compareBackwardBranch: 1:133167 : <<BRANCH>> : com.sxi.mobile.rbank.base.a/L:()V:18a6168  =>  com.sxi.mobile.rbank.base.a/L:()V:18a616c
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:18258a4		=(rels)=>		1
+[*] Unique action: 1:135881 : <<CALL>> : com.sxi.mobile.rbank.a.h/c:()V:18258a4  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+[*] FlowManager: adjust finished.
+Action is completely same :)
+Action is completely same :)
+159ceeed: There is no difference. (tryAgain=false)
+[*] FlowManager: adjust finished.
+Action is completely same :)
+Action is completely same :)
+46604b9f: There is no difference. (tryAgain=false)
+	1:compareBackwardBranch: 1:133167 : <<BRANCH>> : com.sxi.mobile.rbank.base.a/L:()V:18a6168  =>  com.sxi.mobile.rbank.base.a/L:()V:18a616c
+android.view.ViewGroup/addView:(Landroid/view/View;)V:1593bbe		=(rels)=>		1
+[*] Unique action: 1:118483 : <<CALL>> : android.support.design.widget.TextInputLayout/e:()V:1593bbe  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:4804 : <<BRANCH>> : com.scottyab.rootbeer.b/a:(Ljava/lang/String;)Z:16caa52  =>  com.scottyab.rootbeer.b/a:(Ljava/lang/String;)Z:16caa5e
+android.view.ViewGroup/addView:(Landroid/view/View;)V:1593310		=(rels)=>		1
+[*] Unique action: 1:115461 : <<CALL>> : android.support.design.widget.TextInputLayout/<init>:(Landroid/content/Context;Landroid/util/AttributeSet;I)V:1593310  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:4804 : <<BRANCH>> : com.scottyab.rootbeer.b/a:(Ljava/lang/String;)Z:16caa52  =>  com.scottyab.rootbeer.b/a:(Ljava/lang/String;)Z:16caa5e
+android.widget.EditText/getText:()Landroid/text/Editable;:1594150		=(rels)=>		1
+[*] Unique action: 1:116538 : <<CALL>> : android.support.design.widget.TextInputLayout/a:(ZZ)V:1594150  =>  android.widget.EditText/getText:()Landroid/text/Editable;:2330f8
+	1:compareBackwardBranch: 1:4804 : <<BRANCH>> : com.scottyab.rootbeer.b/a:(Ljava/lang/String;)Z:16caa52  =>  com.scottyab.rootbeer.b/a:(Ljava/lang/String;)Z:16caa5e
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:17e8c94		=(rels)=>		1
+[*] Unique action: 1:135970 : <<CALL>> : com.sxi.mobile.rbank.a.ft/c:()V:17e8c94  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:133167 : <<BRANCH>> : com.sxi.mobile.rbank.base.a/L:()V:18a6168  =>  com.sxi.mobile.rbank.base.a/L:()V:18a616c
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1825888		=(rels)=>		1
+[*] Unique action: 1:135879 : <<CALL>> : com.sxi.mobile.rbank.a.h/c:()V:1825888  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:133167 : <<BRANCH>> : com.sxi.mobile.rbank.base.a/L:()V:18a6168  =>  com.sxi.mobile.rbank.base.a/L:()V:18a616c
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1593bd2		=(rels)=>		1
+[*] Unique action: 1:118487 : <<CALL>> : android.support.design.widget.TextInputLayout/e:()V:1593bd2  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:4804 : <<BRANCH>> : com.scottyab.rootbeer.b/a:(Ljava/lang/String;)Z:16caa52  =>  com.scottyab.rootbeer.b/a:(Ljava/lang/String;)Z:16caa5e
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:1593694		=(rels)=>		1
+[*] Unique action: 1:131818 : <<CALL>> : android.support.design.widget.TextInputLayout/a:(Landroid/widget/TextView;I)V:1593694  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+	1:compareBackwardBranch: 1:4804 : <<BRANCH>> : com.scottyab.rootbeer.b/a:(Ljava/lang/String;)Z:16caa52  =>  com.scottyab.rootbeer.b/a:(Ljava/lang/String;)Z:16caa5e
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:17fb4b2		=(rels)=>		1
+[*] Unique action: 1:136038 : <<CALL>> : com.sxi.mobile.rbank.a.fx/c:()V:17fb4b2  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:133167 : <<BRANCH>> : com.sxi.mobile.rbank.base.a/L:()V:18a6168  =>  com.sxi.mobile.rbank.base.a/L:()V:18a616c
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:17e8cb0		=(rels)=>		1
+[*] Unique action: 1:135972 : <<CALL>> : com.sxi.mobile.rbank.a.ft/c:()V:17e8cb0  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:133167 : <<BRANCH>> : com.sxi.mobile.rbank.base.a/L:()V:18a6168  =>  com.sxi.mobile.rbank.base.a/L:()V:18a616c
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:182586c		=(rels)=>		1
+[*] Unique action: 1:135877 : <<CALL>> : com.sxi.mobile.rbank.a.h/c:()V:182586c  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:133167 : <<BRANCH>> : com.sxi.mobile.rbank.base.a/L:()V:18a6168  =>  com.sxi.mobile.rbank.base.a/L:()V:18a616c
+android.view.ViewGroup/addView:(Landroid/view/View;I)V:15936b6		=(rels)=>		1
+[*] Unique action: 1:131839 : <<CALL>> : android.support.design.widget.TextInputLayout/a:(Landroid/widget/TextView;I)V:15936b6  =>  android.view.ViewGroup/addView:(Landroid/view/View;I)V:1959a4
+	1:compareBackwardBranch: 1:4804 : <<BRANCH>> : com.scottyab.rootbeer.b/a:(Ljava/lang/String;)Z:16caa52  =>  com.scottyab.rootbeer.b/a:(Ljava/lang/String;)Z:16caa5e
+android.app.Activity/startActivity:(Landroid/content/Intent;)V:1adf3e2		=(rels)=>		1
+[*] Unique action: 1:112505 : <<CALL>> : com.sxi.mobile.rbank.splashscreen.SplashActivity/b:(Z)V:1adf3e2  =>  android.app.Activity/startActivity:(Landroid/content/Intent;)V:19cda0
+	1:compareBackwardBranch: 1:112279 : <<BRANCH>> : com.sxi.mobile.rbank.splashscreen.SplashActivity/k:()V:1adf654  =>  com.sxi.mobile.rbank.splashscreen.SplashActivity/k:()V:1adf658
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:18258b2		=(rels)=>		1
+[*] Unique action: 1:135882 : <<CALL>> : com.sxi.mobile.rbank.a.h/c:()V:18258b2  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:133167 : <<BRANCH>> : com.sxi.mobile.rbank.base.a/L:()V:18a6168  =>  com.sxi.mobile.rbank.base.a/L:()V:18a616c
+android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:15942a8		=(rels)=>		1
+[*] Unique action: 1:115463 : <<CALL>> : android.support.design.widget.TextInputLayout/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:15942a8  =>  android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:1959fc
+	1:compareBackwardBranch: 1:4804 : <<BRANCH>> : com.scottyab.rootbeer.b/a:(Ljava/lang/String;)Z:16caa52  =>  com.scottyab.rootbeer.b/a:(Ljava/lang/String;)Z:16caa5e
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1825850		=(rels)=>		1
+[*] Unique action: 1:135875 : <<CALL>> : com.sxi.mobile.rbank.a.h/c:()V:1825850  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:133167 : <<BRANCH>> : com.sxi.mobile.rbank.base.a/L:()V:18a6168  =>  com.sxi.mobile.rbank.base.a/L:()V:18a616c
+android.view.ViewGroup/addView:(Landroid/view/View;II)V:159366a		=(rels)=>		1
+[*] Unique action: 1:131778 : <<CALL>> : android.support.design.widget.TextInputLayout/a:(Landroid/widget/TextView;I)V:159366a  =>  android.view.ViewGroup/addView:(Landroid/view/View;II)V:195a38
+	1:compareBackwardBranch: 1:4804 : <<BRANCH>> : com.scottyab.rootbeer.b/a:(Ljava/lang/String;)Z:16caa52  =>  com.scottyab.rootbeer.b/a:(Ljava/lang/String;)Z:16caa5e
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1825896		=(rels)=>		1
+[*] Unique action: 1:135880 : <<CALL>> : com.sxi.mobile.rbank.a.h/c:()V:1825896  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:133167 : <<BRANCH>> : com.sxi.mobile.rbank.base.a/L:()V:18a6168  =>  com.sxi.mobile.rbank.base.a/L:()V:18a616c
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:182587a		=(rels)=>		1
+[*] Unique action: 1:135878 : <<CALL>> : com.sxi.mobile.rbank.a.h/c:()V:182587a  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:133167 : <<BRANCH>> : com.sxi.mobile.rbank.base.a/L:()V:18a6168  =>  com.sxi.mobile.rbank.base.a/L:()V:18a616c
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:17e8ca2		=(rels)=>		1
+[*] Unique action: 1:135971 : <<CALL>> : com.sxi.mobile.rbank.a.ft/c:()V:17e8ca2  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:133167 : <<BRANCH>> : com.sxi.mobile.rbank.base.a/L:()V:18a6168  =>  com.sxi.mobile.rbank.base.a/L:()V:18a616c
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:182585e		=(rels)=>		1
+[*] Unique action: 1:135876 : <<CALL>> : com.sxi.mobile.rbank.a.h/c:()V:182585e  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:133167 : <<BRANCH>> : com.sxi.mobile.rbank.base.a/L:()V:18a6168  =>  com.sxi.mobile.rbank.base.a/L:()V:18a616c
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:17fb4c0		=(rels)=>		1
+[*] Unique action: 1:136039 : <<CALL>> : com.sxi.mobile.rbank.a.fx/c:()V:17fb4c0  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:133167 : <<BRANCH>> : com.sxi.mobile.rbank.base.a/L:()V:18a6168  =>  com.sxi.mobile.rbank.base.a/L:()V:18a616c
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:1594286		=(rels)=>		1
+[*] Unique action: 1:116436 : <<CALL>> : android.support.design.widget.TextInputLayout/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:1594286  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+	1:compareBackwardBranch: 1:4804 : <<BRANCH>> : com.scottyab.rootbeer.b/a:(Ljava/lang/String;)Z:16caa52  =>  com.scottyab.rootbeer.b/a:(Ljava/lang/String;)Z:16caa5e
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:18afd7a		=(rels)=>		1
+[*] Unique action: 1:14859 : <<CALL>> : com.sxi.mobile.rbank.base.dialogs.b/c:(Landroid/os/Bundle;)Landroid/app/Dialog;:18afd7a  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+@@intraTimelineAnalysis -- 
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:1ae168e		=(rels)=>		1
+[*] Unique action: 1:15193 : <<CALL>> : com.sxi.mobile.rbank.splashscreen.c/p:(Landroid/os/Bundle;)V:1ae168e  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+@@intraTimelineAnalysis -- 
+android.app.Dialog/show:()V:18afce8		=(rels)=>		1
+[*] Unique action: 1:11693 : <<CALL>> : com.sxi.mobile.rbank.base.dialogs.b/c:(Landroid/os/Bundle;)Landroid/app/Dialog;:18afce8  =>  android.app.Dialog/show:()V:1b4adc
+@@intraTimelineAnalysis -- 
+android.app.Dialog/show:()V:15a6418		=(rels)=>		1
+[*] Unique action: 1:16060 : <<CALL>> : android.support.v4.app.h/j_:()V:15a6418  =>  android.app.Dialog/show:()V:1b4adc
+@@intraTimelineAnalysis -- 
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:157635e		=(rels)=>		1
+[*] Unique action: 1:17059 : <<CALL>> : android.a.a.e/a:(Landroid/widget/TextView;Ljava/lang/CharSequence;)V:157635e  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+@@intraTimelineAnalysis -- 
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:18afd96		=(rels)=>		1
+[*] Unique action: 1:14866 : <<CALL>> : com.sxi.mobile.rbank.base.dialogs.b/c:(Landroid/os/Bundle;)Landroid/app/Dialog;:18afd96  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+@@intraTimelineAnalysis -- 
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:18afdb4		=(rels)=>		1
+[*] Unique action: 1:14873 : <<CALL>> : com.sxi.mobile.rbank.base.dialogs.b/c:(Landroid/os/Bundle;)Landroid/app/Dialog;:18afdb4  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+@@intraTimelineAnalysis -- 
+Entry: 18a5c94
+com.sxi.mobile.rbank.base.a/L:()V: 18a617e -> 18a5d1c
+		com.sxi.mobile.rbank.base.a/L:()V: 4ea -> 88
+addPatchReadme: java.lang.Class<com.sxi.mobile.rbank.base.a>L()V 4ea t
+Entry: 18a5c94
+com.sxi.mobile.rbank.base.a/L:()V: 18a621e -> 18a6222
+		com.sxi.mobile.rbank.base.a/L:()V: 58a -> 58e
+addPatchReadme: java.lang.Class<com.sxi.mobile.rbank.base.a>L()V 58a f
+Entry: 1adf52c
+com.sxi.mobile.rbank.splashscreen.SplashActivity/k:()V: 1adf654 -> 1adf658
+		com.sxi.mobile.rbank.splashscreen.SplashActivity/k:()V: 128 -> 12c
+addPatchReadme: java.lang.Class<com.sxi.mobile.rbank.splashscreen.SplashActivity>k()V 128 f
+Entry: 16ca840
+com.scottyab.rootbeer.b/a:(Ljava/lang/String;)Z: 16caa52 -> 16caa5e
+		com.scottyab.rootbeer.b/a:(Ljava/lang/String;)Z: 212 -> 21e
+addPatchReadme: java.lang.Class<com.scottyab.rootbeer.b>a(Ljava/lang/String;)Z 212 t
+Entry: 18a5c94
+com.sxi.mobile.rbank.base.a/L:()V: 18a5d0a -> 18a618a
+		com.sxi.mobile.rbank.base.a/L:()V: 76 -> 4f6
+addPatchReadme: java.lang.Class<com.sxi.mobile.rbank.base.a>L()V 76 t
+Entry: 1adf52c
+com.sxi.mobile.rbank.splashscreen.SplashActivity/k:()V: 1adf6ac -> 1adf536
+		com.sxi.mobile.rbank.splashscreen.SplashActivity/k:()V: 180 -> a
+addPatchReadme: java.lang.Class<com.sxi.mobile.rbank.splashscreen.SplashActivity>k()V 180 t
+Entry: 18a5c94
+com.sxi.mobile.rbank.base.a/L:()V: 18a6168 -> 18a616c
+		com.sxi.mobile.rbank.base.a/L:()V: 4d4 -> 4d8
+addPatchReadme: java.lang.Class<com.sxi.mobile.rbank.base.a>L()V 4d4 f
+Entry: 18a5c94
+com.sxi.mobile.rbank.base.a/L:()V: 18a6148 -> 18a6150
+		com.sxi.mobile.rbank.base.a/L:()V: 4b4 -> 4bc
+addPatchReadme: java.lang.Class<com.sxi.mobile.rbank.base.a>L()V 4b4 t
+Entry: 1adf52c
+com.sxi.mobile.rbank.splashscreen.SplashActivity/k:()V: 1adf628 -> 1adf688
+		com.sxi.mobile.rbank.splashscreen.SplashActivity/k:()V: fc -> 15c
+addPatchReadme: java.lang.Class<com.sxi.mobile.rbank.splashscreen.SplashActivity>k()V fc t
+Entry: 1adf52c
+com.sxi.mobile.rbank.splashscreen.SplashActivity/k:()V: 1adf60a -> 1adf698
+		com.sxi.mobile.rbank.splashscreen.SplashActivity/k:()V: de -> 16c
+addPatchReadme: java.lang.Class<com.sxi.mobile.rbank.splashscreen.SplashActivity>k()V de t
+Entry: 1adf52c
+com.sxi.mobile.rbank.splashscreen.SplashActivity/k:()V: 1adf56a -> 1adf6a0
+		com.sxi.mobile.rbank.splashscreen.SplashActivity/k:()V: 3e -> 174
+addPatchReadme: java.lang.Class<com.sxi.mobile.rbank.splashscreen.SplashActivity>k()V 3e t
+Entry: 1adf52c
+com.sxi.mobile.rbank.splashscreen.SplashActivity/k:()V: 1adf644 -> 1adf67a
+		com.sxi.mobile.rbank.splashscreen.SplashActivity/k:()V: 118 -> 14e
+addPatchReadme: java.lang.Class<com.sxi.mobile.rbank.splashscreen.SplashActivity>k()V 118 t
+Entry: 18a5c94
+com.sxi.mobile.rbank.base.a/L:()V: 18a5d26 -> 18a5d2e
+		com.sxi.mobile.rbank.base.a/L:()V: 92 -> 9a
+addPatchReadme: java.lang.Class<com.sxi.mobile.rbank.base.a>L()V 92 t
+Entry: 18a5c94
+com.sxi.mobile.rbank.base.a/L:()V: 18a6186 -> 18a5d00
+		com.sxi.mobile.rbank.base.a/L:()V: 4f2 -> 6c
+addPatchReadme: java.lang.Class<com.sxi.mobile.rbank.base.a>L()V 4f2 t
+b29e6a69: [+] Patches found in this round: 14
+b29e6a69: [*] Found Patch size: 1
+Target PID : 
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample54@devRoot-D-R.obfuscated_flattened.ilog)
+b29e6a69: 	@@@Found patch addr: 18a6196
+b29e6a69: Querying offset: 18a6186
+b29e6a69: 	--Add method name to patch = com.sxi.mobile.rbank.base.a/L:()V 	18a6186
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: patching method: com.sxi.mobile.rbank.base.a/L:()V
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample54.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot
+Wow!!!!!  --  com.sxi.mobile.rbank.base.a/L:()V
+fallthrough: 4f6
+branchTarget: 6c
+label = goto_5
+GOTO -- 4f6 	6c
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample54.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample54.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/sample54.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample54.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/signed_sample54.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+b29e6a69: First address of Lcom/sxi/mobile/rbank/base/a;->L()V = 18a5ca4
+b29e6a69: Address - Lcom/sxi/mobile/rbank/base/a;->L()V@4f2	 lastOffset = 90c
+b29e6a69: Instruction@@: GOTO_16
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample54.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/signed_sample54.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample54@devRoot-D-R.obfuscated_flattened.ilog)
+b29e6a69: Running Application: com.sxi.mobile.rbank.implementation
+b29e6a69: Running is done - starting comparing... : 15001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.sxi.mobile.rbank.implementation/com.sxi.mobile.rbank.splashscreen.SplashActivity
+PIDs--------------------------------------------------------------------------
+u0_a1026       5034    428 14870572 153960 0                  0 S com.sxi.mobile.rbank.implementation
+b29e6a69: savedPid = 5034
+PIDs--------------------------------------------------------------------------
+u0_a1026       5034    428 14870572 153960 0                  0 S com.sxi.mobile.rbank.implementation
+b29e6a69: savedPid2 = 5034
+Stopping app: com.sxi.mobile.rbank.implementation
+Tryging remove : uninstall com.sxi.mobile.rbank.implementation(com.sxi.mobile.rbank.implementation)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 4211215
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 28
+Target PID : 18760
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample54@devRoot-D-R.obfuscated_flattened.ilog)
+Target PID : 5034
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample54@devRoot-D-R.obfuscated_flattened.ilog)
+b29e6a69: adding filter -- 18a6186
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 18a6186
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:18258c0		=(rels)=>		1
+[*] Unique action: 1:135883 : <<CALL>> : com.sxi.mobile.rbank.a.h/c:()V:18258c0  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:133167 : <<BRANCH>> : com.sxi.mobile.rbank.base.a/L:()V:18a6168  =>  com.sxi.mobile.rbank.base.a/L:()V:18a616c
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:18258a4		=(rels)=>		1
+[*] Unique action: 1:135881 : <<CALL>> : com.sxi.mobile.rbank.a.h/c:()V:18258a4  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:133167 : <<BRANCH>> : com.sxi.mobile.rbank.base.a/L:()V:18a6168  =>  com.sxi.mobile.rbank.base.a/L:()V:18a616c
+android.view.ViewGroup/addView:(Landroid/view/View;)V:1593bbe		=(rels)=>		1
+[*] Unique action: 1:118483 : <<CALL>> : android.support.design.widget.TextInputLayout/e:()V:1593bbe  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:4804 : <<BRANCH>> : com.scottyab.rootbeer.b/a:(Ljava/lang/String;)Z:16caa52  =>  com.scottyab.rootbeer.b/a:(Ljava/lang/String;)Z:16caa5e
+android.view.ViewGroup/addView:(Landroid/view/View;)V:1593310		=(rels)=>		1
+[*] Unique action: 1:115461 : <<CALL>> : android.support.design.widget.TextInputLayout/<init>:(Landroid/content/Context;Landroid/util/AttributeSet;I)V:1593310  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:4804 : <<BRANCH>> : com.scottyab.rootbeer.b/a:(Ljava/lang/String;)Z:16caa52  =>  com.scottyab.rootbeer.b/a:(Ljava/lang/String;)Z:16caa5e
+android.widget.EditText/getText:()Landroid/text/Editable;:1594150		=(rels)=>		1
+[*] Unique action: 1:116538 : <<CALL>> : android.support.design.widget.TextInputLayout/a:(ZZ)V:1594150  =>  android.widget.EditText/getText:()Landroid/text/Editable;:2330f8
+	1:compareBackwardBranch: 1:4804 : <<BRANCH>> : com.scottyab.rootbeer.b/a:(Ljava/lang/String;)Z:16caa52  =>  com.scottyab.rootbeer.b/a:(Ljava/lang/String;)Z:16caa5e
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:17e8c94		=(rels)=>		1
+[*] Unique action: 1:135970 : <<CALL>> : com.sxi.mobile.rbank.a.ft/c:()V:17e8c94  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:133167 : <<BRANCH>> : com.sxi.mobile.rbank.base.a/L:()V:18a6168  =>  com.sxi.mobile.rbank.base.a/L:()V:18a616c
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1825888		=(rels)=>		1
+[*] Unique action: 1:135879 : <<CALL>> : com.sxi.mobile.rbank.a.h/c:()V:1825888  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:133167 : <<BRANCH>> : com.sxi.mobile.rbank.base.a/L:()V:18a6168  =>  com.sxi.mobile.rbank.base.a/L:()V:18a616c
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1593bd2		=(rels)=>		1
+[*] Unique action: 1:118487 : <<CALL>> : android.support.design.widget.TextInputLayout/e:()V:1593bd2  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:4804 : <<BRANCH>> : com.scottyab.rootbeer.b/a:(Ljava/lang/String;)Z:16caa52  =>  com.scottyab.rootbeer.b/a:(Ljava/lang/String;)Z:16caa5e
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:1593694		=(rels)=>		1
+[*] Unique action: 1:131818 : <<CALL>> : android.support.design.widget.TextInputLayout/a:(Landroid/widget/TextView;I)V:1593694  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+	1:compareBackwardBranch: 1:4804 : <<BRANCH>> : com.scottyab.rootbeer.b/a:(Ljava/lang/String;)Z:16caa52  =>  com.scottyab.rootbeer.b/a:(Ljava/lang/String;)Z:16caa5e
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:17fb4b2		=(rels)=>		1
+[*] Unique action: 1:136038 : <<CALL>> : com.sxi.mobile.rbank.a.fx/c:()V:17fb4b2  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:133167 : <<BRANCH>> : com.sxi.mobile.rbank.base.a/L:()V:18a6168  =>  com.sxi.mobile.rbank.base.a/L:()V:18a616c
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:17e8cb0		=(rels)=>		1
+[*] Unique action: 1:135972 : <<CALL>> : com.sxi.mobile.rbank.a.ft/c:()V:17e8cb0  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:133167 : <<BRANCH>> : com.sxi.mobile.rbank.base.a/L:()V:18a6168  =>  com.sxi.mobile.rbank.base.a/L:()V:18a616c
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:182586c		=(rels)=>		1
+[*] Unique action: 1:135877 : <<CALL>> : com.sxi.mobile.rbank.a.h/c:()V:182586c  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:133167 : <<BRANCH>> : com.sxi.mobile.rbank.base.a/L:()V:18a6168  =>  com.sxi.mobile.rbank.base.a/L:()V:18a616c
+android.view.ViewGroup/addView:(Landroid/view/View;I)V:15936b6		=(rels)=>		1
+[*] Unique action: 1:131839 : <<CALL>> : android.support.design.widget.TextInputLayout/a:(Landroid/widget/TextView;I)V:15936b6  =>  android.view.ViewGroup/addView:(Landroid/view/View;I)V:1959a4
+	1:compareBackwardBranch: 1:4804 : <<BRANCH>> : com.scottyab.rootbeer.b/a:(Ljava/lang/String;)Z:16caa52  =>  com.scottyab.rootbeer.b/a:(Ljava/lang/String;)Z:16caa5e
+android.app.Activity/startActivity:(Landroid/content/Intent;)V:1adf3e2		=(rels)=>		1
+[*] Unique action: 1:112505 : <<CALL>> : com.sxi.mobile.rbank.splashscreen.SplashActivity/b:(Z)V:1adf3e2  =>  android.app.Activity/startActivity:(Landroid/content/Intent;)V:19cda0
+	1:compareBackwardBranch: 1:112279 : <<BRANCH>> : com.sxi.mobile.rbank.splashscreen.SplashActivity/k:()V:1adf654  =>  com.sxi.mobile.rbank.splashscreen.SplashActivity/k:()V:1adf658
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:18258b2		=(rels)=>		1
+[*] Unique action: 1:135882 : <<CALL>> : com.sxi.mobile.rbank.a.h/c:()V:18258b2  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:133167 : <<BRANCH>> : com.sxi.mobile.rbank.base.a/L:()V:18a6168  =>  com.sxi.mobile.rbank.base.a/L:()V:18a616c
+android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:15942a8		=(rels)=>		1
+[*] Unique action: 1:115463 : <<CALL>> : android.support.design.widget.TextInputLayout/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:15942a8  =>  android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:1959fc
+	1:compareBackwardBranch: 1:4804 : <<BRANCH>> : com.scottyab.rootbeer.b/a:(Ljava/lang/String;)Z:16caa52  =>  com.scottyab.rootbeer.b/a:(Ljava/lang/String;)Z:16caa5e
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1825850		=(rels)=>		1
+[*] Unique action: 1:135875 : <<CALL>> : com.sxi.mobile.rbank.a.h/c:()V:1825850  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:133167 : <<BRANCH>> : com.sxi.mobile.rbank.base.a/L:()V:18a6168  =>  com.sxi.mobile.rbank.base.a/L:()V:18a616c
+android.view.ViewGroup/addView:(Landroid/view/View;II)V:159366a		=(rels)=>		1
+[*] Unique action: 1:131778 : <<CALL>> : android.support.design.widget.TextInputLayout/a:(Landroid/widget/TextView;I)V:159366a  =>  android.view.ViewGroup/addView:(Landroid/view/View;II)V:195a38
+	1:compareBackwardBranch: 1:4804 : <<BRANCH>> : com.scottyab.rootbeer.b/a:(Ljava/lang/String;)Z:16caa52  =>  com.scottyab.rootbeer.b/a:(Ljava/lang/String;)Z:16caa5e
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1825896		=(rels)=>		1
+[*] Unique action: 1:135880 : <<CALL>> : com.sxi.mobile.rbank.a.h/c:()V:1825896  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:133167 : <<BRANCH>> : com.sxi.mobile.rbank.base.a/L:()V:18a6168  =>  com.sxi.mobile.rbank.base.a/L:()V:18a616c
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:182587a		=(rels)=>		1
+[*] Unique action: 1:135878 : <<CALL>> : com.sxi.mobile.rbank.a.h/c:()V:182587a  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:133167 : <<BRANCH>> : com.sxi.mobile.rbank.base.a/L:()V:18a6168  =>  com.sxi.mobile.rbank.base.a/L:()V:18a616c
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:17e8ca2		=(rels)=>		1
+[*] Unique action: 1:135971 : <<CALL>> : com.sxi.mobile.rbank.a.ft/c:()V:17e8ca2  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:133167 : <<BRANCH>> : com.sxi.mobile.rbank.base.a/L:()V:18a6168  =>  com.sxi.mobile.rbank.base.a/L:()V:18a616c
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:182585e		=(rels)=>		1
+[*] Unique action: 1:135876 : <<CALL>> : com.sxi.mobile.rbank.a.h/c:()V:182585e  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:133167 : <<BRANCH>> : com.sxi.mobile.rbank.base.a/L:()V:18a6168  =>  com.sxi.mobile.rbank.base.a/L:()V:18a616c
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:17fb4c0		=(rels)=>		1
+[*] Unique action: 1:136039 : <<CALL>> : com.sxi.mobile.rbank.a.fx/c:()V:17fb4c0  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:133167 : <<BRANCH>> : com.sxi.mobile.rbank.base.a/L:()V:18a6168  =>  com.sxi.mobile.rbank.base.a/L:()V:18a616c
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:1594286		=(rels)=>		1
+[*] Unique action: 1:116436 : <<CALL>> : android.support.design.widget.TextInputLayout/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:1594286  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+	1:compareBackwardBranch: 1:4804 : <<BRANCH>> : com.scottyab.rootbeer.b/a:(Ljava/lang/String;)Z:16caa52  =>  com.scottyab.rootbeer.b/a:(Ljava/lang/String;)Z:16caa5e
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:18afd9a		=(rels)=>		1
+[*] Unique action: 1:14863 : <<CALL>> : com.sxi.mobile.rbank.base.dialogs.b/c:(Landroid/os/Bundle;)Landroid/app/Dialog;:18afd9a  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+@@intraTimelineAnalysis -- 
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:18afdb8		=(rels)=>		1
+[*] Unique action: 1:14870 : <<CALL>> : com.sxi.mobile.rbank.base.dialogs.b/c:(Landroid/os/Bundle;)Landroid/app/Dialog;:18afdb8  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+@@intraTimelineAnalysis -- 
+android.app.Dialog/show:()V:15a6418		=(rels)=>		1
+[*] Unique action: 1:16057 : <<CALL>> : android.support.v4.app.h/j_:()V:15a6418  =>  android.app.Dialog/show:()V:1b4adc
+@@intraTimelineAnalysis -- 
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:18afd7e		=(rels)=>		1
+[*] Unique action: 1:14856 : <<CALL>> : com.sxi.mobile.rbank.base.dialogs.b/c:(Landroid/os/Bundle;)Landroid/app/Dialog;:18afd7e  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+@@intraTimelineAnalysis -- 
+android.app.Dialog/show:()V:18afcec		=(rels)=>		1
+[*] Unique action: 1:11689 : <<CALL>> : com.sxi.mobile.rbank.base.dialogs.b/c:(Landroid/os/Bundle;)Landroid/app/Dialog;:18afcec  =>  android.app.Dialog/show:()V:1b4adc
+@@intraTimelineAnalysis -- 
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:157635e		=(rels)=>		1
+[*] Unique action: 1:17056 : <<CALL>> : android.a.a.e/a:(Landroid/widget/TextView;Ljava/lang/CharSequence;)V:157635e  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+@@intraTimelineAnalysis -- 
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:1ae1692		=(rels)=>		1
+[*] Unique action: 1:15190 : <<CALL>> : com.sxi.mobile.rbank.splashscreen.c/p:(Landroid/os/Bundle;)V:1ae1692  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+@@intraTimelineAnalysis -- 
+Entry: 18a5c94
+com.sxi.mobile.rbank.base.a/L:()V: 18a617e -> 18a5d1c
+		com.sxi.mobile.rbank.base.a/L:()V: 4ea -> 88
+addPatchReadme: java.lang.Class<com.sxi.mobile.rbank.base.a>L()V 4ea t
+Entry: 18a5c94
+com.sxi.mobile.rbank.base.a/L:()V: 18a621e -> 18a6222
+		com.sxi.mobile.rbank.base.a/L:()V: 58a -> 58e
+addPatchReadme: java.lang.Class<com.sxi.mobile.rbank.base.a>L()V 58a f
+Entry: 1adf52c
+com.sxi.mobile.rbank.splashscreen.SplashActivity/k:()V: 1adf654 -> 1adf658
+		com.sxi.mobile.rbank.splashscreen.SplashActivity/k:()V: 128 -> 12c
+addPatchReadme: java.lang.Class<com.sxi.mobile.rbank.splashscreen.SplashActivity>k()V 128 f
+Entry: 16ca840
+com.scottyab.rootbeer.b/a:(Ljava/lang/String;)Z: 16caa52 -> 16caa5e
+		com.scottyab.rootbeer.b/a:(Ljava/lang/String;)Z: 212 -> 21e
+addPatchReadme: java.lang.Class<com.scottyab.rootbeer.b>a(Ljava/lang/String;)Z 212 t
+Entry: 18a5c94
+com.sxi.mobile.rbank.base.a/L:()V: 18a5d0a -> 18a618a
+		com.sxi.mobile.rbank.base.a/L:()V: 76 -> 4f6
+addPatchReadme: java.lang.Class<com.sxi.mobile.rbank.base.a>L()V 76 t
+Entry: 1adf52c
+com.sxi.mobile.rbank.splashscreen.SplashActivity/k:()V: 1adf6ac -> 1adf536
+		com.sxi.mobile.rbank.splashscreen.SplashActivity/k:()V: 180 -> a
+addPatchReadme: java.lang.Class<com.sxi.mobile.rbank.splashscreen.SplashActivity>k()V 180 t
+Entry: 18a5c94
+com.sxi.mobile.rbank.base.a/L:()V: 18a6168 -> 18a616c
+		com.sxi.mobile.rbank.base.a/L:()V: 4d4 -> 4d8
+addPatchReadme: java.lang.Class<com.sxi.mobile.rbank.base.a>L()V 4d4 f
+Entry: 18a5c94
+com.sxi.mobile.rbank.base.a/L:()V: 18a6148 -> 18a6150
+		com.sxi.mobile.rbank.base.a/L:()V: 4b4 -> 4bc
+addPatchReadme: java.lang.Class<com.sxi.mobile.rbank.base.a>L()V 4b4 t
+Entry: 1adf52c
+com.sxi.mobile.rbank.splashscreen.SplashActivity/k:()V: 1adf628 -> 1adf688
+		com.sxi.mobile.rbank.splashscreen.SplashActivity/k:()V: fc -> 15c
+addPatchReadme: java.lang.Class<com.sxi.mobile.rbank.splashscreen.SplashActivity>k()V fc t
+Entry: 1adf52c
+com.sxi.mobile.rbank.splashscreen.SplashActivity/k:()V: 1adf60a -> 1adf698
+		com.sxi.mobile.rbank.splashscreen.SplashActivity/k:()V: de -> 16c
+addPatchReadme: java.lang.Class<com.sxi.mobile.rbank.splashscreen.SplashActivity>k()V de t
+Entry: 1adf52c
+com.sxi.mobile.rbank.splashscreen.SplashActivity/k:()V: 1adf56a -> 1adf6a0
+		com.sxi.mobile.rbank.splashscreen.SplashActivity/k:()V: 3e -> 174
+addPatchReadme: java.lang.Class<com.sxi.mobile.rbank.splashscreen.SplashActivity>k()V 3e t
+Entry: 1adf52c
+com.sxi.mobile.rbank.splashscreen.SplashActivity/k:()V: 1adf644 -> 1adf67a
+		com.sxi.mobile.rbank.splashscreen.SplashActivity/k:()V: 118 -> 14e
+addPatchReadme: java.lang.Class<com.sxi.mobile.rbank.splashscreen.SplashActivity>k()V 118 t
+Entry: 18a5c94
+com.sxi.mobile.rbank.base.a/L:()V: 18a5d26 -> 18a5d2e
+		com.sxi.mobile.rbank.base.a/L:()V: 92 -> 9a
+addPatchReadme: java.lang.Class<com.sxi.mobile.rbank.base.a>L()V 92 t
+b29e6a69: [+] Patches found in this round: 13
+b29e6a69: [*] Found Patch size: 1
+Target PID : 
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample54@devRoot-D-R.obfuscated_flattened.ilog)
+b29e6a69: @@localPatchFilter -- 18a6196
+b29e6a69: 	@@@Found patch addr: 18a5d36
+b29e6a69: Querying offset: 18a5d26
+b29e6a69: 	--Add method name to patch = com.sxi.mobile.rbank.base.a/L:()V 	18a5d26
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: patching method: com.sxi.mobile.rbank.splashscreen.SplashActivity/k:()V
+b29e6a69: patching method: com.sxi.mobile.rbank.base.a/L:()V
+b29e6a69: patching method: com.scottyab.rootbeer.b/a:(Ljava/lang/String;)Z
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample54.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot
+Wow!!!!!  --  com.sxi.mobile.rbank.base.a/L:()V
+fallthrough: 98
+branchTarget: 9a
+label = sswitch_data_4
+GOTO -- 98 	9a
+Wow!!!!!  --  com.sxi.mobile.rbank.base.a/L:()V
+fallthrough: 4f6
+branchTarget: 6c
+label = goto_5
+GOTO -- 4f6 	6c
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample54.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample54.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/sample54.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample54.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/signed_sample54.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+b29e6a69: First address of Lcom/sxi/mobile/rbank/base/a;->L()V = 18a5ca4
+b29e6a69: Address - Lcom/sxi/mobile/rbank/base/a;->L()V@92	 lastOffset = 90c
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: First address of Lcom/sxi/mobile/rbank/base/a;->L()V = 18a5ca4
+b29e6a69: Address - Lcom/sxi/mobile/rbank/base/a;->L()V@4f2	 lastOffset = 90c
+b29e6a69: Instruction@@: GOTO_16
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample54.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/signed_sample54.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample54@devRoot-D-R.obfuscated_flattened.ilog)
+b29e6a69: Running Application: com.sxi.mobile.rbank.implementation
+b29e6a69: Running is done - starting comparing... : 15001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+b29e6a69: savedPid = null
+PIDs--------------------------------------------------------------------------
+b29e6a69: savedPid2 = null
+Stopping app: com.sxi.mobile.rbank.implementation
+Tryging remove : uninstall com.sxi.mobile.rbank.implementation(com.sxi.mobile.rbank.implementation)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 29348
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 27
+Target PID : 18760
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample54@devRoot-D-R.obfuscated_flattened.ilog)
+Target PID : 
+ExitReason-Code: 5 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample54@devRoot-D-R.obfuscated_flattened.ilog)
+b29e6a69: /home/santapark/Extended3/DEEPerence/reEx/sample54.apk@devRoot-D-R.apk.obfuscated_flattened.apk launch is failed on devRoot
+b29e6a69: Failed Patch: 18a5d36
+b29e6a69: adding filter -- 18a6186
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 18a6186
+-- current localPatchFilter: 18a5d26
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:18258c0		=(rels)=>		1
+[*] Unique action: 1:135883 : <<CALL>> : com.sxi.mobile.rbank.a.h/c:()V:18258c0  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:133167 : <<BRANCH>> : com.sxi.mobile.rbank.base.a/L:()V:18a6168  =>  com.sxi.mobile.rbank.base.a/L:()V:18a616c
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:18258a4		=(rels)=>		1
+[*] Unique action: 1:135881 : <<CALL>> : com.sxi.mobile.rbank.a.h/c:()V:18258a4  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:133167 : <<BRANCH>> : com.sxi.mobile.rbank.base.a/L:()V:18a6168  =>  com.sxi.mobile.rbank.base.a/L:()V:18a616c
+android.view.ViewGroup/addView:(Landroid/view/View;)V:1593bbe		=(rels)=>		1
+[*] Unique action: 1:118483 : <<CALL>> : android.support.design.widget.TextInputLayout/e:()V:1593bbe  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:4804 : <<BRANCH>> : com.scottyab.rootbeer.b/a:(Ljava/lang/String;)Z:16caa52  =>  com.scottyab.rootbeer.b/a:(Ljava/lang/String;)Z:16caa5e
+android.view.ViewGroup/addView:(Landroid/view/View;)V:1593310		=(rels)=>		1
+[*] Unique action: 1:115461 : <<CALL>> : android.support.design.widget.TextInputLayout/<init>:(Landroid/content/Context;Landroid/util/AttributeSet;I)V:1593310  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:4804 : <<BRANCH>> : com.scottyab.rootbeer.b/a:(Ljava/lang/String;)Z:16caa52  =>  com.scottyab.rootbeer.b/a:(Ljava/lang/String;)Z:16caa5e
+android.widget.EditText/getText:()Landroid/text/Editable;:1594150		=(rels)=>		1
+[*] Unique action: 1:116538 : <<CALL>> : android.support.design.widget.TextInputLayout/a:(ZZ)V:1594150  =>  android.widget.EditText/getText:()Landroid/text/Editable;:2330f8
+	1:compareBackwardBranch: 1:4804 : <<BRANCH>> : com.scottyab.rootbeer.b/a:(Ljava/lang/String;)Z:16caa52  =>  com.scottyab.rootbeer.b/a:(Ljava/lang/String;)Z:16caa5e
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:17e8c94		=(rels)=>		1
+[*] Unique action: 1:135970 : <<CALL>> : com.sxi.mobile.rbank.a.ft/c:()V:17e8c94  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:133167 : <<BRANCH>> : com.sxi.mobile.rbank.base.a/L:()V:18a6168  =>  com.sxi.mobile.rbank.base.a/L:()V:18a616c
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1825888		=(rels)=>		1
+[*] Unique action: 1:135879 : <<CALL>> : com.sxi.mobile.rbank.a.h/c:()V:1825888  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:133167 : <<BRANCH>> : com.sxi.mobile.rbank.base.a/L:()V:18a6168  =>  com.sxi.mobile.rbank.base.a/L:()V:18a616c
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1593bd2		=(rels)=>		1
+[*] Unique action: 1:118487 : <<CALL>> : android.support.design.widget.TextInputLayout/e:()V:1593bd2  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:4804 : <<BRANCH>> : com.scottyab.rootbeer.b/a:(Ljava/lang/String;)Z:16caa52  =>  com.scottyab.rootbeer.b/a:(Ljava/lang/String;)Z:16caa5e
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:1593694		=(rels)=>		1
+[*] Unique action: 1:131818 : <<CALL>> : android.support.design.widget.TextInputLayout/a:(Landroid/widget/TextView;I)V:1593694  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+	1:compareBackwardBranch: 1:4804 : <<BRANCH>> : com.scottyab.rootbeer.b/a:(Ljava/lang/String;)Z:16caa52  =>  com.scottyab.rootbeer.b/a:(Ljava/lang/String;)Z:16caa5e
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:17fb4b2		=(rels)=>		1
+[*] Unique action: 1:136038 : <<CALL>> : com.sxi.mobile.rbank.a.fx/c:()V:17fb4b2  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:133167 : <<BRANCH>> : com.sxi.mobile.rbank.base.a/L:()V:18a6168  =>  com.sxi.mobile.rbank.base.a/L:()V:18a616c
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:17e8cb0		=(rels)=>		1
+[*] Unique action: 1:135972 : <<CALL>> : com.sxi.mobile.rbank.a.ft/c:()V:17e8cb0  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:133167 : <<BRANCH>> : com.sxi.mobile.rbank.base.a/L:()V:18a6168  =>  com.sxi.mobile.rbank.base.a/L:()V:18a616c
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:182586c		=(rels)=>		1
+[*] Unique action: 1:135877 : <<CALL>> : com.sxi.mobile.rbank.a.h/c:()V:182586c  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:133167 : <<BRANCH>> : com.sxi.mobile.rbank.base.a/L:()V:18a6168  =>  com.sxi.mobile.rbank.base.a/L:()V:18a616c
+android.view.ViewGroup/addView:(Landroid/view/View;I)V:15936b6		=(rels)=>		1
+[*] Unique action: 1:131839 : <<CALL>> : android.support.design.widget.TextInputLayout/a:(Landroid/widget/TextView;I)V:15936b6  =>  android.view.ViewGroup/addView:(Landroid/view/View;I)V:1959a4
+	1:compareBackwardBranch: 1:4804 : <<BRANCH>> : com.scottyab.rootbeer.b/a:(Ljava/lang/String;)Z:16caa52  =>  com.scottyab.rootbeer.b/a:(Ljava/lang/String;)Z:16caa5e
+android.app.Activity/startActivity:(Landroid/content/Intent;)V:1adf3e2		=(rels)=>		1
+[*] Unique action: 1:112505 : <<CALL>> : com.sxi.mobile.rbank.splashscreen.SplashActivity/b:(Z)V:1adf3e2  =>  android.app.Activity/startActivity:(Landroid/content/Intent;)V:19cda0
+	1:compareBackwardBranch: 1:112279 : <<BRANCH>> : com.sxi.mobile.rbank.splashscreen.SplashActivity/k:()V:1adf654  =>  com.sxi.mobile.rbank.splashscreen.SplashActivity/k:()V:1adf658
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:18258b2		=(rels)=>		1
+[*] Unique action: 1:135882 : <<CALL>> : com.sxi.mobile.rbank.a.h/c:()V:18258b2  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:133167 : <<BRANCH>> : com.sxi.mobile.rbank.base.a/L:()V:18a6168  =>  com.sxi.mobile.rbank.base.a/L:()V:18a616c
+android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:15942a8		=(rels)=>		1
+[*] Unique action: 1:115463 : <<CALL>> : android.support.design.widget.TextInputLayout/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:15942a8  =>  android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:1959fc
+	1:compareBackwardBranch: 1:4804 : <<BRANCH>> : com.scottyab.rootbeer.b/a:(Ljava/lang/String;)Z:16caa52  =>  com.scottyab.rootbeer.b/a:(Ljava/lang/String;)Z:16caa5e
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1825850		=(rels)=>		1
+[*] Unique action: 1:135875 : <<CALL>> : com.sxi.mobile.rbank.a.h/c:()V:1825850  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:133167 : <<BRANCH>> : com.sxi.mobile.rbank.base.a/L:()V:18a6168  =>  com.sxi.mobile.rbank.base.a/L:()V:18a616c
+android.view.ViewGroup/addView:(Landroid/view/View;II)V:159366a		=(rels)=>		1
+[*] Unique action: 1:131778 : <<CALL>> : android.support.design.widget.TextInputLayout/a:(Landroid/widget/TextView;I)V:159366a  =>  android.view.ViewGroup/addView:(Landroid/view/View;II)V:195a38
+	1:compareBackwardBranch: 1:4804 : <<BRANCH>> : com.scottyab.rootbeer.b/a:(Ljava/lang/String;)Z:16caa52  =>  com.scottyab.rootbeer.b/a:(Ljava/lang/String;)Z:16caa5e
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1825896		=(rels)=>		1
+[*] Unique action: 1:135880 : <<CALL>> : com.sxi.mobile.rbank.a.h/c:()V:1825896  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:133167 : <<BRANCH>> : com.sxi.mobile.rbank.base.a/L:()V:18a6168  =>  com.sxi.mobile.rbank.base.a/L:()V:18a616c
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:182587a		=(rels)=>		1
+[*] Unique action: 1:135878 : <<CALL>> : com.sxi.mobile.rbank.a.h/c:()V:182587a  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:133167 : <<BRANCH>> : com.sxi.mobile.rbank.base.a/L:()V:18a6168  =>  com.sxi.mobile.rbank.base.a/L:()V:18a616c
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:17e8ca2		=(rels)=>		1
+[*] Unique action: 1:135971 : <<CALL>> : com.sxi.mobile.rbank.a.ft/c:()V:17e8ca2  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:133167 : <<BRANCH>> : com.sxi.mobile.rbank.base.a/L:()V:18a6168  =>  com.sxi.mobile.rbank.base.a/L:()V:18a616c
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:182585e		=(rels)=>		1
+[*] Unique action: 1:135876 : <<CALL>> : com.sxi.mobile.rbank.a.h/c:()V:182585e  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:133167 : <<BRANCH>> : com.sxi.mobile.rbank.base.a/L:()V:18a6168  =>  com.sxi.mobile.rbank.base.a/L:()V:18a616c
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:17fb4c0		=(rels)=>		1
+[*] Unique action: 1:136039 : <<CALL>> : com.sxi.mobile.rbank.a.fx/c:()V:17fb4c0  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:133167 : <<BRANCH>> : com.sxi.mobile.rbank.base.a/L:()V:18a6168  =>  com.sxi.mobile.rbank.base.a/L:()V:18a616c
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:1594286		=(rels)=>		1
+[*] Unique action: 1:116436 : <<CALL>> : android.support.design.widget.TextInputLayout/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:1594286  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+	1:compareBackwardBranch: 1:4804 : <<BRANCH>> : com.scottyab.rootbeer.b/a:(Ljava/lang/String;)Z:16caa52  =>  com.scottyab.rootbeer.b/a:(Ljava/lang/String;)Z:16caa5e
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:18afd9a		=(rels)=>		1
+[*] Unique action: 1:14863 : <<CALL>> : com.sxi.mobile.rbank.base.dialogs.b/c:(Landroid/os/Bundle;)Landroid/app/Dialog;:18afd9a  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+@@intraTimelineAnalysis -- 
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:18afdb8		=(rels)=>		1
+[*] Unique action: 1:14870 : <<CALL>> : com.sxi.mobile.rbank.base.dialogs.b/c:(Landroid/os/Bundle;)Landroid/app/Dialog;:18afdb8  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+@@intraTimelineAnalysis -- 
+android.app.Dialog/show:()V:15a6418		=(rels)=>		1
+[*] Unique action: 1:16057 : <<CALL>> : android.support.v4.app.h/j_:()V:15a6418  =>  android.app.Dialog/show:()V:1b4adc
+@@intraTimelineAnalysis -- 
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:18afd7e		=(rels)=>		1
+[*] Unique action: 1:14856 : <<CALL>> : com.sxi.mobile.rbank.base.dialogs.b/c:(Landroid/os/Bundle;)Landroid/app/Dialog;:18afd7e  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+@@intraTimelineAnalysis -- 
+android.app.Dialog/show:()V:18afcec		=(rels)=>		1
+[*] Unique action: 1:11689 : <<CALL>> : com.sxi.mobile.rbank.base.dialogs.b/c:(Landroid/os/Bundle;)Landroid/app/Dialog;:18afcec  =>  android.app.Dialog/show:()V:1b4adc
+@@intraTimelineAnalysis -- 
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:157635e		=(rels)=>		1
+[*] Unique action: 1:17056 : <<CALL>> : android.a.a.e/a:(Landroid/widget/TextView;Ljava/lang/CharSequence;)V:157635e  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+@@intraTimelineAnalysis -- 
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:1ae1692		=(rels)=>		1
+[*] Unique action: 1:15190 : <<CALL>> : com.sxi.mobile.rbank.splashscreen.c/p:(Landroid/os/Bundle;)V:1ae1692  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+@@intraTimelineAnalysis -- 
+Entry: 18a5c94
+com.sxi.mobile.rbank.base.a/L:()V: 18a5d0a -> 18a618a
+		com.sxi.mobile.rbank.base.a/L:()V: 76 -> 4f6
+addPatchReadme: java.lang.Class<com.sxi.mobile.rbank.base.a>L()V 76 t
+Entry: 1adf52c
+com.sxi.mobile.rbank.splashscreen.SplashActivity/k:()V: 1adf6ac -> 1adf536
+		com.sxi.mobile.rbank.splashscreen.SplashActivity/k:()V: 180 -> a
+addPatchReadme: java.lang.Class<com.sxi.mobile.rbank.splashscreen.SplashActivity>k()V 180 t
+Entry: 18a5c94
+com.sxi.mobile.rbank.base.a/L:()V: 18a6168 -> 18a616c
+		com.sxi.mobile.rbank.base.a/L:()V: 4d4 -> 4d8
+addPatchReadme: java.lang.Class<com.sxi.mobile.rbank.base.a>L()V 4d4 f
+Entry: 18a5c94
+com.sxi.mobile.rbank.base.a/L:()V: 18a6148 -> 18a6150
+		com.sxi.mobile.rbank.base.a/L:()V: 4b4 -> 4bc
+addPatchReadme: java.lang.Class<com.sxi.mobile.rbank.base.a>L()V 4b4 t
+Entry: 18a5c94
+com.sxi.mobile.rbank.base.a/L:()V: 18a617e -> 18a5d1c
+		com.sxi.mobile.rbank.base.a/L:()V: 4ea -> 88
+addPatchReadme: java.lang.Class<com.sxi.mobile.rbank.base.a>L()V 4ea t
+Entry: 18a5c94
+com.sxi.mobile.rbank.base.a/L:()V: 18a621e -> 18a6222
+		com.sxi.mobile.rbank.base.a/L:()V: 58a -> 58e
+addPatchReadme: java.lang.Class<com.sxi.mobile.rbank.base.a>L()V 58a f
+Entry: 1adf52c
+com.sxi.mobile.rbank.splashscreen.SplashActivity/k:()V: 1adf628 -> 1adf688
+		com.sxi.mobile.rbank.splashscreen.SplashActivity/k:()V: fc -> 15c
+addPatchReadme: java.lang.Class<com.sxi.mobile.rbank.splashscreen.SplashActivity>k()V fc t
+Entry: 1adf52c
+com.sxi.mobile.rbank.splashscreen.SplashActivity/k:()V: 1adf60a -> 1adf698
+		com.sxi.mobile.rbank.splashscreen.SplashActivity/k:()V: de -> 16c
+addPatchReadme: java.lang.Class<com.sxi.mobile.rbank.splashscreen.SplashActivity>k()V de t
+Entry: 1adf52c
+com.sxi.mobile.rbank.splashscreen.SplashActivity/k:()V: 1adf56a -> 1adf6a0
+		com.sxi.mobile.rbank.splashscreen.SplashActivity/k:()V: 3e -> 174
+addPatchReadme: java.lang.Class<com.sxi.mobile.rbank.splashscreen.SplashActivity>k()V 3e t
+Entry: 1adf52c
+com.sxi.mobile.rbank.splashscreen.SplashActivity/k:()V: 1adf654 -> 1adf658
+		com.sxi.mobile.rbank.splashscreen.SplashActivity/k:()V: 128 -> 12c
+addPatchReadme: java.lang.Class<com.sxi.mobile.rbank.splashscreen.SplashActivity>k()V 128 f
+Entry: 1adf52c
+com.sxi.mobile.rbank.splashscreen.SplashActivity/k:()V: 1adf644 -> 1adf67a
+		com.sxi.mobile.rbank.splashscreen.SplashActivity/k:()V: 118 -> 14e
+addPatchReadme: java.lang.Class<com.sxi.mobile.rbank.splashscreen.SplashActivity>k()V 118 t
+Entry: 16ca840
+com.scottyab.rootbeer.b/a:(Ljava/lang/String;)Z: 16caa52 -> 16caa5e
+		com.scottyab.rootbeer.b/a:(Ljava/lang/String;)Z: 212 -> 21e
+addPatchReadme: java.lang.Class<com.scottyab.rootbeer.b>a(Ljava/lang/String;)Z 212 t
+b29e6a69: [+] Patches found in this round: 12
+b29e6a69: [*] Found Patch size: 1
+Target PID : 
+ExitReason-Code: 5 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample54@devRoot-D-R.obfuscated_flattened.ilog)
+b29e6a69: @@localPatchFilter -- 18a6196
+b29e6a69: @@localPatchFilter -- 18a5d36
+b29e6a69: 	@@@Found patch addr: 16caa62
+b29e6a69: Querying offset: 16caa52
+b29e6a69: 	--Add method name to patch = com.scottyab.rootbeer.b/a:(Ljava/lang/String;)Z 	16caa52
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: patching method: com.sxi.mobile.rbank.splashscreen.SplashActivity/k:()V
+b29e6a69: patching method: com.sxi.mobile.rbank.base.a/L:()V
+b29e6a69: patching method: com.scottyab.rootbeer.b/a:(Ljava/lang/String;)Z
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample54.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot
+Wow!!!!!  --  com.scottyab.rootbeer.b/a:(Ljava/lang/String;)Z
+fallthrough: 216
+branchTarget: 21e
+label = cond_1
+GOTO -- 216 	21e
+Wow!!!!!  --  com.sxi.mobile.rbank.base.a/L:()V
+fallthrough: 4f6
+branchTarget: 6c
+label = goto_5
+GOTO -- 4f6 	6c
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample54.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample54.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/sample54.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample54.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/signed_sample54.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+b29e6a69: First address of Lcom/sxi/mobile/rbank/base/a;->L()V = 18a5ca4
+b29e6a69: Address - Lcom/sxi/mobile/rbank/base/a;->L()V@4f2	 lastOffset = 90c
+b29e6a69: Instruction@@: GOTO_16
+b29e6a69: First address of Lcom/scottyab/rootbeer/b;->a(Ljava/lang/String;)Z = 16ca850
+b29e6a69: Address - Lcom/scottyab/rootbeer/b;->a(Ljava/lang/String;)Z@212	 lastOffset = 43c
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample54.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/signed_sample54.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample54@devRoot-D-R.obfuscated_flattened.ilog)
+b29e6a69: Running Application: com.sxi.mobile.rbank.implementation
+b29e6a69: Running is done - starting comparing... : 15001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.sxi.mobile.rbank.implementation/com.sxi.mobile.rbank.splashscreen.SplashActivity
+PIDs--------------------------------------------------------------------------
+u0_a1028       5205    428 14871720 155320 0                  0 S com.sxi.mobile.rbank.implementation
+b29e6a69: savedPid = 5205
+PIDs--------------------------------------------------------------------------
+u0_a1028       5205    428 14871720 155320 0                  0 S com.sxi.mobile.rbank.implementation
+b29e6a69: savedPid2 = 5205
+Stopping app: com.sxi.mobile.rbank.implementation
+Tryging remove : uninstall com.sxi.mobile.rbank.implementation(com.sxi.mobile.rbank.implementation)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 24867899
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 26
+Target PID : 18760
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample54@devRoot-D-R.obfuscated_flattened.ilog)
+Target PID : 5205
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample54@devRoot-D-R.obfuscated_flattened.ilog)
+b29e6a69: adding filter -- 18a6186
+b29e6a69: adding filter -- 16caa52
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 18a6186
+-- current localPatchFilter: 18a5d26
+-- current localPatchFilter: 16caa52
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:18258c0		=(rels)=>		1
+[*] Unique action: 1:135883 : <<CALL>> : com.sxi.mobile.rbank.a.h/c:()V:18258c0  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:133167 : <<BRANCH>> : com.sxi.mobile.rbank.base.a/L:()V:18a6168  =>  com.sxi.mobile.rbank.base.a/L:()V:18a616c
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:18258a4		=(rels)=>		1
+[*] Unique action: 1:135881 : <<CALL>> : com.sxi.mobile.rbank.a.h/c:()V:18258a4  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:133167 : <<BRANCH>> : com.sxi.mobile.rbank.base.a/L:()V:18a6168  =>  com.sxi.mobile.rbank.base.a/L:()V:18a616c
+android.view.ViewGroup/addView:(Landroid/view/View;)V:1593bbe		=(rels)=>		1
+[*] Unique action: 1:118483 : <<CALL>> : android.support.design.widget.TextInputLayout/e:()V:1593bbe  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:68499 : <<BRANCH>> : com.scottyab.rootbeer.b/a:()Z:16ca0a8  =>  com.scottyab.rootbeer.b/a:()Z:16ca0ac
+android.view.ViewGroup/addView:(Landroid/view/View;)V:1593310		=(rels)=>		1
+[*] Unique action: 1:115461 : <<CALL>> : android.support.design.widget.TextInputLayout/<init>:(Landroid/content/Context;Landroid/util/AttributeSet;I)V:1593310  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:68499 : <<BRANCH>> : com.scottyab.rootbeer.b/a:()Z:16ca0a8  =>  com.scottyab.rootbeer.b/a:()Z:16ca0ac
+android.widget.EditText/getText:()Landroid/text/Editable;:1594150		=(rels)=>		1
+[*] Unique action: 1:116538 : <<CALL>> : android.support.design.widget.TextInputLayout/a:(ZZ)V:1594150  =>  android.widget.EditText/getText:()Landroid/text/Editable;:2330f8
+	1:compareBackwardBranch: 1:68499 : <<BRANCH>> : com.scottyab.rootbeer.b/a:()Z:16ca0a8  =>  com.scottyab.rootbeer.b/a:()Z:16ca0ac
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:17e8c94		=(rels)=>		1
+[*] Unique action: 1:135970 : <<CALL>> : com.sxi.mobile.rbank.a.ft/c:()V:17e8c94  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:133167 : <<BRANCH>> : com.sxi.mobile.rbank.base.a/L:()V:18a6168  =>  com.sxi.mobile.rbank.base.a/L:()V:18a616c
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1825888		=(rels)=>		1
+[*] Unique action: 1:135879 : <<CALL>> : com.sxi.mobile.rbank.a.h/c:()V:1825888  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:133167 : <<BRANCH>> : com.sxi.mobile.rbank.base.a/L:()V:18a6168  =>  com.sxi.mobile.rbank.base.a/L:()V:18a616c
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1593bd2		=(rels)=>		1
+[*] Unique action: 1:118487 : <<CALL>> : android.support.design.widget.TextInputLayout/e:()V:1593bd2  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:68499 : <<BRANCH>> : com.scottyab.rootbeer.b/a:()Z:16ca0a8  =>  com.scottyab.rootbeer.b/a:()Z:16ca0ac
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:1593694		=(rels)=>		1
+[*] Unique action: 1:131818 : <<CALL>> : android.support.design.widget.TextInputLayout/a:(Landroid/widget/TextView;I)V:1593694  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+	1:compareBackwardBranch: 1:68499 : <<BRANCH>> : com.scottyab.rootbeer.b/a:()Z:16ca0a8  =>  com.scottyab.rootbeer.b/a:()Z:16ca0ac
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:17fb4b2		=(rels)=>		1
+[*] Unique action: 1:136038 : <<CALL>> : com.sxi.mobile.rbank.a.fx/c:()V:17fb4b2  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:133167 : <<BRANCH>> : com.sxi.mobile.rbank.base.a/L:()V:18a6168  =>  com.sxi.mobile.rbank.base.a/L:()V:18a616c
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:17e8cb0		=(rels)=>		1
+[*] Unique action: 1:135972 : <<CALL>> : com.sxi.mobile.rbank.a.ft/c:()V:17e8cb0  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:133167 : <<BRANCH>> : com.sxi.mobile.rbank.base.a/L:()V:18a6168  =>  com.sxi.mobile.rbank.base.a/L:()V:18a616c
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:182586c		=(rels)=>		1
+[*] Unique action: 1:135877 : <<CALL>> : com.sxi.mobile.rbank.a.h/c:()V:182586c  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:133167 : <<BRANCH>> : com.sxi.mobile.rbank.base.a/L:()V:18a6168  =>  com.sxi.mobile.rbank.base.a/L:()V:18a616c
+android.view.ViewGroup/addView:(Landroid/view/View;I)V:15936b6		=(rels)=>		1
+[*] Unique action: 1:131839 : <<CALL>> : android.support.design.widget.TextInputLayout/a:(Landroid/widget/TextView;I)V:15936b6  =>  android.view.ViewGroup/addView:(Landroid/view/View;I)V:1959a4
+	1:compareBackwardBranch: 1:68499 : <<BRANCH>> : com.scottyab.rootbeer.b/a:()Z:16ca0a8  =>  com.scottyab.rootbeer.b/a:()Z:16ca0ac
+android.app.Activity/startActivity:(Landroid/content/Intent;)V:1adf3e2		=(rels)=>		1
+[*] Unique action: 1:112505 : <<CALL>> : com.sxi.mobile.rbank.splashscreen.SplashActivity/b:(Z)V:1adf3e2  =>  android.app.Activity/startActivity:(Landroid/content/Intent;)V:19cda0
+	1:compareBackwardBranch: 1:112279 : <<BRANCH>> : com.sxi.mobile.rbank.splashscreen.SplashActivity/k:()V:1adf654  =>  com.sxi.mobile.rbank.splashscreen.SplashActivity/k:()V:1adf658
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:18258b2		=(rels)=>		1
+[*] Unique action: 1:135882 : <<CALL>> : com.sxi.mobile.rbank.a.h/c:()V:18258b2  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:133167 : <<BRANCH>> : com.sxi.mobile.rbank.base.a/L:()V:18a6168  =>  com.sxi.mobile.rbank.base.a/L:()V:18a616c
+android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:15942a8		=(rels)=>		1
+[*] Unique action: 1:115463 : <<CALL>> : android.support.design.widget.TextInputLayout/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:15942a8  =>  android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:1959fc
+	1:compareBackwardBranch: 1:68499 : <<BRANCH>> : com.scottyab.rootbeer.b/a:()Z:16ca0a8  =>  com.scottyab.rootbeer.b/a:()Z:16ca0ac
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1825850		=(rels)=>		1
+[*] Unique action: 1:135875 : <<CALL>> : com.sxi.mobile.rbank.a.h/c:()V:1825850  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:133167 : <<BRANCH>> : com.sxi.mobile.rbank.base.a/L:()V:18a6168  =>  com.sxi.mobile.rbank.base.a/L:()V:18a616c
+android.view.ViewGroup/addView:(Landroid/view/View;II)V:159366a		=(rels)=>		1
+[*] Unique action: 1:131778 : <<CALL>> : android.support.design.widget.TextInputLayout/a:(Landroid/widget/TextView;I)V:159366a  =>  android.view.ViewGroup/addView:(Landroid/view/View;II)V:195a38
+	1:compareBackwardBranch: 1:68499 : <<BRANCH>> : com.scottyab.rootbeer.b/a:()Z:16ca0a8  =>  com.scottyab.rootbeer.b/a:()Z:16ca0ac
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1825896		=(rels)=>		1
+[*] Unique action: 1:135880 : <<CALL>> : com.sxi.mobile.rbank.a.h/c:()V:1825896  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:133167 : <<BRANCH>> : com.sxi.mobile.rbank.base.a/L:()V:18a6168  =>  com.sxi.mobile.rbank.base.a/L:()V:18a616c
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:182587a		=(rels)=>		1
+[*] Unique action: 1:135878 : <<CALL>> : com.sxi.mobile.rbank.a.h/c:()V:182587a  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:133167 : <<BRANCH>> : com.sxi.mobile.rbank.base.a/L:()V:18a6168  =>  com.sxi.mobile.rbank.base.a/L:()V:18a616c
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:17e8ca2		=(rels)=>		1
+[*] Unique action: 1:135971 : <<CALL>> : com.sxi.mobile.rbank.a.ft/c:()V:17e8ca2  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:133167 : <<BRANCH>> : com.sxi.mobile.rbank.base.a/L:()V:18a6168  =>  com.sxi.mobile.rbank.base.a/L:()V:18a616c
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:182585e		=(rels)=>		1
+[*] Unique action: 1:135876 : <<CALL>> : com.sxi.mobile.rbank.a.h/c:()V:182585e  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:133167 : <<BRANCH>> : com.sxi.mobile.rbank.base.a/L:()V:18a6168  =>  com.sxi.mobile.rbank.base.a/L:()V:18a616c
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:17fb4c0		=(rels)=>		1
+[*] Unique action: 1:136039 : <<CALL>> : com.sxi.mobile.rbank.a.fx/c:()V:17fb4c0  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:133167 : <<BRANCH>> : com.sxi.mobile.rbank.base.a/L:()V:18a6168  =>  com.sxi.mobile.rbank.base.a/L:()V:18a616c
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:1594286		=(rels)=>		1
+[*] Unique action: 1:116436 : <<CALL>> : android.support.design.widget.TextInputLayout/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:1594286  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+	1:compareBackwardBranch: 1:68499 : <<BRANCH>> : com.scottyab.rootbeer.b/a:()Z:16ca0a8  =>  com.scottyab.rootbeer.b/a:()Z:16ca0ac
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:18afd9a		=(rels)=>		1
+[*] Unique action: 1:126045 : <<CALL>> : com.sxi.mobile.rbank.base.dialogs.b/c:(Landroid/os/Bundle;)Landroid/app/Dialog;:18afd9a  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch2: 1:42410 : <<BRANCH>> : com.scottyab.rootbeer.b/e:()Z:16cbbe0  =>  com.scottyab.rootbeer.b/e:()Z:16cbbec
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:18afdb8		=(rels)=>		1
+[*] Unique action: 1:126052 : <<CALL>> : com.sxi.mobile.rbank.base.dialogs.b/c:(Landroid/os/Bundle;)Landroid/app/Dialog;:18afdb8  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch2: 1:42410 : <<BRANCH>> : com.scottyab.rootbeer.b/e:()Z:16cbbe0  =>  com.scottyab.rootbeer.b/e:()Z:16cbbec
+android.app.Dialog/show:()V:15a6418		=(rels)=>		1
+[*] Unique action: 1:127239 : <<CALL>> : android.support.v4.app.h/j_:()V:15a6418  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch2: 1:42410 : <<BRANCH>> : com.scottyab.rootbeer.b/e:()Z:16cbbe0  =>  com.scottyab.rootbeer.b/e:()Z:16cbbec
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:18afd7e		=(rels)=>		1
+[*] Unique action: 1:126038 : <<CALL>> : com.sxi.mobile.rbank.base.dialogs.b/c:(Landroid/os/Bundle;)Landroid/app/Dialog;:18afd7e  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch2: 1:42410 : <<BRANCH>> : com.scottyab.rootbeer.b/e:()Z:16cbbe0  =>  com.scottyab.rootbeer.b/e:()Z:16cbbec
+android.app.Dialog/show:()V:18afcec		=(rels)=>		1
+[*] Unique action: 1:122872 : <<CALL>> : com.sxi.mobile.rbank.base.dialogs.b/c:(Landroid/os/Bundle;)Landroid/app/Dialog;:18afcec  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch2: 1:42410 : <<BRANCH>> : com.scottyab.rootbeer.b/e:()Z:16cbbe0  =>  com.scottyab.rootbeer.b/e:()Z:16cbbec
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:157635e		=(rels)=>		1
+[*] Unique action: 1:128238 : <<CALL>> : android.a.a.e/a:(Landroid/widget/TextView;Ljava/lang/CharSequence;)V:157635e  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch2: 1:42410 : <<BRANCH>> : com.scottyab.rootbeer.b/e:()Z:16cbbe0  =>  com.scottyab.rootbeer.b/e:()Z:16cbbec
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:1ae1692		=(rels)=>		1
+[*] Unique action: 1:126372 : <<CALL>> : com.sxi.mobile.rbank.splashscreen.c/p:(Landroid/os/Bundle;)V:1ae1692  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch2: 1:42410 : <<BRANCH>> : com.scottyab.rootbeer.b/e:()Z:16cbbe0  =>  com.scottyab.rootbeer.b/e:()Z:16cbbec
+Entry: 1adf52c
+com.sxi.mobile.rbank.splashscreen.SplashActivity/k:()V: 1adf654 -> 1adf658
+		com.sxi.mobile.rbank.splashscreen.SplashActivity/k:()V: 128 -> 12c
+addPatchReadme: java.lang.Class<com.sxi.mobile.rbank.splashscreen.SplashActivity>k()V 128 f
+Entry: 18a5c94
+com.sxi.mobile.rbank.base.a/L:()V: 18a6168 -> 18a616c
+		com.sxi.mobile.rbank.base.a/L:()V: 4d4 -> 4d8
+addPatchReadme: java.lang.Class<com.sxi.mobile.rbank.base.a>L()V 4d4 f
+Entry: 16c9d08
+com.scottyab.rootbeer.b/a:()Z: 16ca0a8 -> 16ca0ac
+		com.scottyab.rootbeer.b/a:()Z: 3a0 -> 3a4
+addPatchReadme: java.lang.Class<com.scottyab.rootbeer.b>a()Z 3a0 f
+Entry: 16cb730
+com.scottyab.rootbeer.b/e:()Z: 16cbbe0 -> 16cbbec
+		com.scottyab.rootbeer.b/e:()Z: 4b0 -> 4bc
+addPatchReadme: java.lang.Class<com.scottyab.rootbeer.b>e()Z 4b0 t
+b29e6a69: [+] Patches found in this round: 4
+b29e6a69: [*] Found Patch size: 1
+Target PID : 
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample54@devRoot-D-R.obfuscated_flattened.ilog)
+b29e6a69: @@localPatchFilter -- 18a6196
+b29e6a69: @@localPatchFilter -- 18a5d36
+b29e6a69: @@localPatchFilter -- 16caa62
+b29e6a69: 	@@@Found patch addr: 16cbbf0
+b29e6a69: Querying offset: 16cbbe0
+b29e6a69: 	--Add method name to patch = com.scottyab.rootbeer.b/e:()Z 	16cbbe0
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: patching method: com.scottyab.rootbeer.b/e:()Z
+b29e6a69: patching method: com.scottyab.rootbeer.b/a:()Z
+b29e6a69: patching method: com.sxi.mobile.rbank.splashscreen.SplashActivity/k:()V
+b29e6a69: patching method: com.sxi.mobile.rbank.base.a/L:()V
+b29e6a69: patching method: com.scottyab.rootbeer.b/a:(Ljava/lang/String;)Z
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample54.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot
+Wow!!!!!  --  com.scottyab.rootbeer.b/a:(Ljava/lang/String;)Z
+fallthrough: 216
+branchTarget: 21e
+label = cond_1
+GOTO -- 216 	21e
+Wow!!!!!  --  com.scottyab.rootbeer.b/e:()Z
+fallthrough: 4b4
+branchTarget: 4bc
+label = cond_3
+GOTO -- 4b4 	4bc
+Wow!!!!!  --  com.sxi.mobile.rbank.base.a/L:()V
+fallthrough: 4f6
+branchTarget: 6c
+label = goto_5
+GOTO -- 4f6 	6c
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample54.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample54.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/sample54.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample54.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/signed_sample54.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+b29e6a69: First address of Lcom/scottyab/rootbeer/b;->e()Z = 16cb740
+b29e6a69: Address - Lcom/scottyab/rootbeer/b;->e()Z@4b0	 lastOffset = 894
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Lcom/sxi/mobile/rbank/base/a;->L()V = 18a5ca4
+b29e6a69: Address - Lcom/sxi/mobile/rbank/base/a;->L()V@4f2	 lastOffset = 90c
+b29e6a69: Instruction@@: GOTO_16
+b29e6a69: First address of Lcom/scottyab/rootbeer/b;->a(Ljava/lang/String;)Z = 16ca850
+b29e6a69: Address - Lcom/scottyab/rootbeer/b;->a(Ljava/lang/String;)Z@212	 lastOffset = 43c
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample54.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/signed_sample54.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample54@devRoot-D-R.obfuscated_flattened.ilog)
+b29e6a69: Running Application: com.sxi.mobile.rbank.implementation
+b29e6a69: Running is done - starting comparing... : 15001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.sxi.mobile.rbank.implementation/com.sxi.mobile.rbank.login.LoginActivity
+PIDs--------------------------------------------------------------------------
+u0_a1029       5297    428 14936984 157248 0                  0 S com.sxi.mobile.rbank.implementation
+b29e6a69: savedPid = 5297
+PIDs--------------------------------------------------------------------------
+u0_a1029       5297    428 14936984 157248 0                  0 S com.sxi.mobile.rbank.implementation
+b29e6a69: savedPid2 = 5297
+Stopping app: com.sxi.mobile.rbank.implementation
+Tryging remove : uninstall com.sxi.mobile.rbank.implementation(com.sxi.mobile.rbank.implementation)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 36637858
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 25
+Target PID : 18760
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample54@devRoot-D-R.obfuscated_flattened.ilog)
+Target PID : 5297
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample54@devRoot-D-R.obfuscated_flattened.ilog)
+b29e6a69: adding filter -- 18a6186
+b29e6a69: adding filter -- 16cbbe0
+b29e6a69: adding filter -- 16caa52
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 18a6186
+-- current localPatchFilter: 16cbbe0
+-- current localPatchFilter: 18a5d26
+-- current localPatchFilter: 16caa52
+Action is completely same :)
+Action is completely same :)
+b29e6a69: There is no difference. (tryAgain=false)
+-- HPFinder will be done in this iteration :)
+hasAntiAnalysis? - devTamper: false on com.sxi.mobile.rbank.splashscreen.SplashActivity
+hasAntiAnalysis? - devRoot: true on com.sxi.mobile.rbank.splashscreen.SplashActivity
+	isRemovedThem? - devRoot: true on com.sxi.mobile.rbank.splashscreen.SplashActivity	-	tryCount: 4
+hasAntiAnalysis? - devDebug: false on com.sxi.mobile.rbank.splashscreen.SplashActivity
+*****REPORT: com.sxi.mobile.rbank.implementation
+* Package name: com.sxi.mobile.rbank.implementation
+* Running time: 607
+* FileSize: 17854423
+devTamper : 27892360
+devRef : 29648282
+devRoot : 36637858
+devDebug : 27890991
+hasAntiAnalysis? - devTamper: false on com.sxi.mobile.rbank.splashscreen.SplashActivity
+hasAntiAnalysis? - devRoot: true on com.sxi.mobile.rbank.splashscreen.SplashActivity
+	isRemovedThem? - devRoot: true on com.sxi.mobile.rbank.splashscreen.SplashActivity	-	tryCount: 4
+hasAntiAnalysis? - devDebug: false on com.sxi.mobile.rbank.splashscreen.SplashActivity
+46604b9f: trying remove : com.sxi.mobile.rbank.implementation
+3601a6ff: trying remove : com.sxi.mobile.rbank.implementation
+b29e6a69: trying remove : com.sxi.mobile.rbank.implementation
+159ceeed: trying remove : com.sxi.mobile.rbank.implementation
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+159ceeed: result = true
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+b29e6a69: result = true
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+46604b9f: result = true
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+3601a6ff: result = true
+3601a6ff: isFailedToLaunch: com.sxi.mobile.rbank.implementation/com.sxi.mobile.rbank.login.LoginActivity
+3601a6ff: 	--result: Good :)

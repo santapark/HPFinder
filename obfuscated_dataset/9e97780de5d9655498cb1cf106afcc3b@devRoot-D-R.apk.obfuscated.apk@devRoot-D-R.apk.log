@@ -1,0 +1,412 @@
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample94.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH/AndroidManifest.xml
+launchable-activity: name='kr.co.hiworks.mobile.activities.LoginActivity'  label='' icon=''
+{SERVICE, kr.co.hiworks.mobile.fcm.FcmService, com.google.firebase.MESSAGING_EVENT}
+{SERVICE, kr.co.hiworks.mobile.fcm.FcmUtil, com.google.firebase.INSTANCE_ID_EVENT}
+{SERVICE, kr.co.hiworks.mobile.fcm.FcmHelperIntentService}
+{ACTIVITY, kr.co.hiworks.mobile.activities.LoginActivity, android.intent.action.MAIN, android.intent.action.VIEW}
+{ACTIVITY, kr.co.hiworks.mobile.activities.MainActivity}
+{ACTIVITY, kr.co.hiworks.mobile.activities.MailReadActivity}
+{ACTIVITY, kr.co.hiworks.mobile.activities.MailWriteActivity, android.intent.action.SEND, android.intent.action.SEND_MULTIPLE}
+{ACTIVITY, kr.co.hiworks.mobile.activities.ContactDetailActivity}
+{ACTIVITY, kr.co.hiworks.mobile.activities.ContactAddOrModifyActivity}
+{ACTIVITY, kr.co.hiworks.mobile.activities.TagContactListActivity}
+{ACTIVITY, kr.co.hiworks.mobile.activities.OfficeWebViewActivity}
+{ACTIVITY, kr.co.hiworks.mobile.activities.MailAddContactActivity}
+{ACTIVITY, kr.co.hiworks.mobile.activities.SettingActivity}
+{ACTIVITY, kr.co.hiworks.mobile.activities.ShowAllActivity}
+{ACTIVITY, kr.co.hiworks.mobile.activities.FcmPopupActivity}
+{ACTIVITY, kr.co.hiworks.mobile.activities.MessengerActivity}
+{ACTIVITY, com.ipaulpro.afilechooser.FileChooserActivity}
+{ACTIVITY, kr.co.hiworks.mobile.activities.ImageSelectActivity}
+{ACTIVITY, kr.co.hiworks.mobile.activities.PersonnelDetailActivity}
+{ACTIVITY, kr.co.hiworks.mobile.activities.PersonnelMyInfoActivity}
+{ACTIVITY, kr.co.hiworks.mobile.activities.PersonnelModifyActivity}
+{ACTIVITY, kr.co.hiworks.mobile.activities.ZipcodeFindActivity}
+{ACTIVITY, kr.co.hiworks.mobile.activities.VacationDetailActivity}
+{ACTIVITY, kr.co.hiworks.mobile.activities.EAReadActivity}
+{ACTIVITY, kr.co.hiworks.mobile.activities.EAApproveActivity}
+{ACTIVITY, kr.co.hiworks.mobile.activities.EAWriteActivity}
+{ACTIVITY, kr.co.hiworks.mobile.activities.EARelatedDocActivity}
+{ACTIVITY, kr.co.hiworks.mobile.activities.ImageViewActivity}
+{SERVICE, com.google.firebase.messaging.FirebaseMessagingService, com.google.firebase.MESSAGING_EVENT}
+{ACTIVITY, com.google.android.gms.common.api.GoogleApiActivity}
+{RECEIVER, com.google.android.gms.measurement.AppMeasurementReceiver}
+{RECEIVER, com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver, com.android.vending.INSTALL_REFERRER}
+{SERVICE, com.google.android.gms.measurement.AppMeasurementService}
+{SERVICE, com.google.android.gms.measurement.AppMeasurementJobService}
+{RECEIVER, com.google.firebase.iid.FirebaseInstanceIdReceiver, com.google.android.c2dm.intent.RECEIVE}
+{RECEIVER, com.google.firebase.iid.FirebaseInstanceIdInternalReceiver}
+{SERVICE, kr.co.hiworks.mobile.fcm.FcmService, com.google.firebase.MESSAGING_EVENT}
+{SERVICE, kr.co.hiworks.mobile.fcm.FcmUtil, com.google.firebase.INSTANCE_ID_EVENT}
+{SERVICE, kr.co.hiworks.mobile.fcm.FcmHelperIntentService}
+{ACTIVITY, kr.co.hiworks.mobile.activities.LoginActivity, android.intent.action.MAIN, android.intent.action.VIEW}
+{ACTIVITY, kr.co.hiworks.mobile.activities.MainActivity}
+{ACTIVITY, kr.co.hiworks.mobile.activities.MailReadActivity}
+{ACTIVITY, kr.co.hiworks.mobile.activities.MailWriteActivity, android.intent.action.SEND, android.intent.action.SEND_MULTIPLE}
+{ACTIVITY, kr.co.hiworks.mobile.activities.ContactDetailActivity}
+{ACTIVITY, kr.co.hiworks.mobile.activities.ContactAddOrModifyActivity}
+{ACTIVITY, kr.co.hiworks.mobile.activities.TagContactListActivity}
+{ACTIVITY, kr.co.hiworks.mobile.activities.OfficeWebViewActivity}
+{ACTIVITY, kr.co.hiworks.mobile.activities.MailAddContactActivity}
+{ACTIVITY, kr.co.hiworks.mobile.activities.SettingActivity}
+{ACTIVITY, kr.co.hiworks.mobile.activities.ShowAllActivity}
+{ACTIVITY, kr.co.hiworks.mobile.activities.FcmPopupActivity}
+{ACTIVITY, kr.co.hiworks.mobile.activities.MessengerActivity}
+{ACTIVITY, com.ipaulpro.afilechooser.FileChooserActivity}
+{ACTIVITY, kr.co.hiworks.mobile.activities.ImageSelectActivity}
+{ACTIVITY, kr.co.hiworks.mobile.activities.PersonnelDetailActivity}
+{ACTIVITY, kr.co.hiworks.mobile.activities.PersonnelMyInfoActivity}
+{ACTIVITY, kr.co.hiworks.mobile.activities.PersonnelModifyActivity}
+{ACTIVITY, kr.co.hiworks.mobile.activities.ZipcodeFindActivity}
+{ACTIVITY, kr.co.hiworks.mobile.activities.VacationDetailActivity}
+{ACTIVITY, kr.co.hiworks.mobile.activities.EAReadActivity}
+{ACTIVITY, kr.co.hiworks.mobile.activities.EAApproveActivity}
+{ACTIVITY, kr.co.hiworks.mobile.activities.EAWriteActivity}
+{ACTIVITY, kr.co.hiworks.mobile.activities.EARelatedDocActivity}
+{ACTIVITY, kr.co.hiworks.mobile.activities.ImageViewActivity}
+{SERVICE, com.google.firebase.messaging.FirebaseMessagingService, com.google.firebase.MESSAGING_EVENT}
+{ACTIVITY, com.google.android.gms.common.api.GoogleApiActivity}
+{RECEIVER, com.google.android.gms.measurement.AppMeasurementReceiver}
+{RECEIVER, com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver, com.android.vending.INSTALL_REFERRER}
+{SERVICE, com.google.android.gms.measurement.AppMeasurementService}
+{SERVICE, com.google.android.gms.measurement.AppMeasurementJobService}
+{RECEIVER, com.google.firebase.iid.FirebaseInstanceIdReceiver, com.google.android.c2dm.intent.RECEIVE}
+{RECEIVER, com.google.firebase.iid.FirebaseInstanceIdInternalReceiver}
+_getAllDexFiles: /home/santapark/Extended3/DEEPerence/reEx/sample94.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH/classes.dex
+----------------/home/santapark/Extended3/DEEPerence/reEx/sample94.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH.apk
+dexFile = org.jf.dexlib2.dexbacked.DexBackedDexFile@72bd06ca
+kr.co.hiworks.mobile
+kr.co.hiworks.mobile.activities.LoginActivity
+debuggable: true
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample94.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample94.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH.apk
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample94.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample94.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH/sample94.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH.apk
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample94.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH_46604b9f/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample94.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH_46604b9f/sample94.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH.apk
+3601a6ff: Installation Success
+46604b9f: Installing repackaged apk File: 
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample94.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH_46604b9f/signed_sample94.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH.apk
+159ceeed: Installing debuggable .apk file: 
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample94.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH/signed_sample94.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH.apk
+b29e6a69: Installation Success
+46604b9f: Installation Success
+159ceeed: Installation Success
+46604b9f: startApplication called! - devTamper
+3601a6ff: startApplication called! - devRef
+b29e6a69: startApplication called! - devRoot
+159ceeed: startApplication called! - devDebug
+46604b9f: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devTamper_sample94@devRoot-D-R.obfuscated@FAILED_LAUNCH.ilog)
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample94@devRoot-D-R.obfuscated@FAILED_LAUNCH.ilog)
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample94@devRoot-D-R.obfuscated@FAILED_LAUNCH.ilog)
+3601a6ff: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample94@devRoot-D-R.obfuscated@FAILED_LAUNCH.ilog)
+46604b9f: Running Application: kr.co.hiworks.mobile
+b29e6a69: Running Application: kr.co.hiworks.mobile
+3601a6ff: Running Application: kr.co.hiworks.mobile
+PIDs--------------------------------------------------------------------------
+u0_a843       10213    428 14198924 102400 0                  0 S kr.co.hiworks.mobile
+forward tcp:5005 jdwp:10213
+[*]Found JDWP Target: 10213
+159ceeed: Running Application: kr.co.hiworks.mobile
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: kr.co.hiworks.mobile/.activities.LoginActivity
+PIDs--------------------------------------------------------------------------
+u0_a3471      13803    428 14220936 139860 0                  0 S kr.co.hiworks.mobile
+PIDs--------------------------------------------------------------------------
+u0_a3471      13803    428 14220936 139860 0                  0 S kr.co.hiworks.mobile
+Stopping app: kr.co.hiworks.mobile
+Tryging remove : uninstall kr.co.hiworks.mobile(kr.co.hiworks.mobile)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 29877425
+b29e6a69: End of collecting logcat...
+3601a6ff: Top-activity: kr.co.hiworks.mobile/.activities.LoginActivity
+46604b9f: Top-activity: kr.co.hiworks.mobile/.activities.LoginActivity
+PIDs--------------------------------------------------------------------------
+u0_a211       31798    407 14149588 133828 0                  0 S kr.co.hiworks.mobile
+3601a6ff: Terminated logcat thread...by itself
+PIDs--------------------------------------------------------------------------
+u0_a901       16327    425 14198864 134140 0                  0 S kr.co.hiworks.mobile
+46604b9f: Terminated logcat thread...by itself
+PIDs--------------------------------------------------------------------------
+u0_a211       31798    407 14149588 133828 0                  0 S kr.co.hiworks.mobile
+Stopping app: kr.co.hiworks.mobile
+PIDs--------------------------------------------------------------------------
+u0_a901       16327    425 14198864 134140 0                  0 S kr.co.hiworks.mobile
+Stopping app: kr.co.hiworks.mobile
+159ceeed: Top-activity: kr.co.hiworks.mobile/.activities.LoginActivity
+PIDs--------------------------------------------------------------------------
+u0_a843       10213    428 14233680 134288 0                  0 S kr.co.hiworks.mobile
+159ceeed: Terminated logcat thread...by itself
+PIDs--------------------------------------------------------------------------
+u0_a843       10213    428 14233680 134288 0                  0 S kr.co.hiworks.mobile
+Stopping app: kr.co.hiworks.mobile
+Tryging remove : uninstall kr.co.hiworks.mobile(kr.co.hiworks.mobile)
+3601a6ff: Remove Success
+3601a6ff: ilog file size: 30085247
+3601a6ff: End of collecting logcat...
+Tryging remove : uninstall kr.co.hiworks.mobile(kr.co.hiworks.mobile)
+46604b9f: Remove Success
+46604b9f: ilog file size: 30400376
+46604b9f: End of collecting logcat...
+Tryging remove : uninstall kr.co.hiworks.mobile(kr.co.hiworks.mobile)
+159ceeed: Remove Success
+159ceeed: ilog file size: 30419634
+159ceeed: End of collecting logcat...
+HPFinder's try count remains: 19
+46604b9f: isFailedToLaunch: kr.co.hiworks.mobile/.activities.LoginActivity
+46604b9f: 	--result: Good :)
+b29e6a69: isFailedToLaunch: kr.co.hiworks.mobile/.activities.LoginActivity
+b29e6a69: 	--result: Good :)
+159ceeed: isFailedToLaunch: kr.co.hiworks.mobile/.activities.LoginActivity
+159ceeed: 	--result: Good :)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample94@devRoot-D-R.obfuscated@FAILED_LAUNCH.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample94@devRoot-D-R.obfuscated@FAILED_LAUNCH.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample94@devRoot-D-R.obfuscated@FAILED_LAUNCH.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample94@devRoot-D-R.obfuscated@FAILED_LAUNCH.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devTamper_sample94@devRoot-D-R.obfuscated@FAILED_LAUNCH.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample94@devRoot-D-R.obfuscated@FAILED_LAUNCH.ilog)
+[*] FlowManager: adjust finished.
+Action is completely same :)
+Action is completely same :)
+46604b9f: There is no difference. (tryAgain=false)
+[*] FlowManager: adjust finished.
+Action is completely same :)
+android.app.Dialog/show:()V:508d60		=(rels)=>		1
+[*] Unique action: 1:20027 : <<CALL>> : kr.co.hiworks.mobile.activities.LoginActivity/onCreate:(Landroid/os/Bundle;)V:508d60  =>  android.app.Dialog/show:()V:1b4adc
+[*] FlowManager: adjust finished.
+Action is completely same :)
+Action is completely same :)
+159ceeed: There is no difference. (tryAgain=false)
+	1:compareBackwardBranch: 1:20122 : <<BRANCH>> : kr.co.hiworks.mobile.activities.LoginActivity/onCreate:(Landroid/os/Bundle;)V:508c46  =>  kr.co.hiworks.mobile.activities.LoginActivity/onCreate:(Landroid/os/Bundle;)V:508d6e
+Entry: 508c0c
+kr.co.hiworks.mobile.activities.LoginActivity/onCreate:(Landroid/os/Bundle;)V: 508c46 -> 508d6e
+		kr.co.hiworks.mobile.activities.LoginActivity/onCreate:(Landroid/os/Bundle;)V: 3a -> 162
+addPatchReadme: java.lang.Class<kr.co.hiworks.mobile.activities.LoginActivity>onCreate(Landroid/os/Bundle;)V 3a t
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample94@devRoot-D-R.obfuscated@FAILED_LAUNCH.ilog)
+b29e6a69: Patch size: 1
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample94.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH_devRoot
+Wow!!!!!  --  kr.co.hiworks.mobile.activities.LoginActivity/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 40
+branchTarget: 162
+label = sswitch_data_0
+GOTO -- 40 	162
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample94.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample94.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH_devRoot/sample94.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample94.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH_devRoot/signed_sample94.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH.apk
+b29e6a69: First address of Lkr/co/hiworks/mobile/activities/LoginActivity;->onCreate(Landroid/os/Bundle;)V = 508c1c
+b29e6a69: Address - Lkr/co/hiworks/mobile/activities/LoginActivity;->onCreate(Landroid/os/Bundle;)V@3a	 lastOffset = 6f8
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample94.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH_devRoot/signed_sample94.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample94@devRoot-D-R.obfuscated@FAILED_LAUNCH.ilog)
+b29e6a69: Running Application: kr.co.hiworks.mobile
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: kr.co.hiworks.mobile
+Tryging remove : uninstall kr.co.hiworks.mobile(kr.co.hiworks.mobile)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 4075966
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 18
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+/home/santapark/Extended3/DEEPerence/reEx/sample94.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH.apk launch is failed on devRoot
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 508c46
+Action is completely same :)
+android.app.Dialog/show:()V:508d60		=(rels)=>		1
+[*] Unique action: 1:20027 : <<CALL>> : kr.co.hiworks.mobile.activities.LoginActivity/onCreate:(Landroid/os/Bundle;)V:508d60  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:20119 : <<BRANCH>> : kr.co.hiworks.mobile.activities.LoginActivity/onCreate:(Landroid/os/Bundle;)V:508cb8  =>  kr.co.hiworks.mobile.activities.LoginActivity/onCreate:(Landroid/os/Bundle;)V:5090a8
+Entry: 508c0c
+kr.co.hiworks.mobile.activities.LoginActivity/onCreate:(Landroid/os/Bundle;)V: 508cb8 -> 5090a8
+		kr.co.hiworks.mobile.activities.LoginActivity/onCreate:(Landroid/os/Bundle;)V: ac -> 49c
+addPatchReadme: java.lang.Class<kr.co.hiworks.mobile.activities.LoginActivity>onCreate(Landroid/os/Bundle;)V ac t
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample94@devRoot-D-R.obfuscated@FAILED_LAUNCH.ilog)
+b29e6a69: Patch size: 1
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample94.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH_devRoot
+Wow!!!!!  --  kr.co.hiworks.mobile.activities.LoginActivity/onCreate:(Landroid/os/Bundle;)V
+fallthrough: b2
+branchTarget: 49c
+label = sswitch_data_1
+GOTO -- b2 	49c
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample94.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample94.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH_devRoot/sample94.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample94.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH_devRoot/signed_sample94.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH.apk
+b29e6a69: First address of Lkr/co/hiworks/mobile/activities/LoginActivity;->onCreate(Landroid/os/Bundle;)V = 508c1c
+b29e6a69: Address - Lkr/co/hiworks/mobile/activities/LoginActivity;->onCreate(Landroid/os/Bundle;)V@ac	 lastOffset = 6f8
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample94.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH_devRoot/signed_sample94.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample94@devRoot-D-R.obfuscated@FAILED_LAUNCH.ilog)
+b29e6a69: Running Application: kr.co.hiworks.mobile
+b29e6a69: Running is done - starting comparing... : 5002
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: kr.co.hiworks.mobile
+Tryging remove : uninstall kr.co.hiworks.mobile(kr.co.hiworks.mobile)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 4075623
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 17
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+/home/santapark/Extended3/DEEPerence/reEx/sample94.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH.apk launch is failed on devRoot
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 508c46
+-- current localPatchFilter: 508cb8
+Action is completely same :)
+android.app.Dialog/show:()V:508d60		=(rels)=>		1
+[*] Unique action: 1:20027 : <<CALL>> : kr.co.hiworks.mobile.activities.LoginActivity/onCreate:(Landroid/os/Bundle;)V:508d60  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:20116 : <<BRANCH>> : kr.co.hiworks.mobile.activities.LoginActivity/onCreate:(Landroid/os/Bundle;)V:508ce0  =>  kr.co.hiworks.mobile.activities.LoginActivity/onCreate:(Landroid/os/Bundle;)V:508cc6
+Entry: 508c0c
+kr.co.hiworks.mobile.activities.LoginActivity/onCreate:(Landroid/os/Bundle;)V: 508ce0 -> 508cc6
+		kr.co.hiworks.mobile.activities.LoginActivity/onCreate:(Landroid/os/Bundle;)V: d4 -> ba
+addPatchReadme: java.lang.Class<kr.co.hiworks.mobile.activities.LoginActivity>onCreate(Landroid/os/Bundle;)V d4 t
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample94@devRoot-D-R.obfuscated@FAILED_LAUNCH.ilog)
+b29e6a69: Patch size: 1
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample94.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH_devRoot
+Wow!!!!!  --  kr.co.hiworks.mobile.activities.LoginActivity/onCreate:(Landroid/os/Bundle;)V
+fallthrough: da
+branchTarget: ba
+label = sswitch_data_2
+GOTO -- da 	ba
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample94.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample94.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH_devRoot/sample94.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample94.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH_devRoot/signed_sample94.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH.apk
+b29e6a69: First address of Lkr/co/hiworks/mobile/activities/LoginActivity;->onCreate(Landroid/os/Bundle;)V = 508c1c
+b29e6a69: Address - Lkr/co/hiworks/mobile/activities/LoginActivity;->onCreate(Landroid/os/Bundle;)V@d4	 lastOffset = 6f8
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample94.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH_devRoot/signed_sample94.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample94@devRoot-D-R.obfuscated@FAILED_LAUNCH.ilog)
+b29e6a69: Running Application: kr.co.hiworks.mobile
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: kr.co.hiworks.mobile
+Tryging remove : uninstall kr.co.hiworks.mobile(kr.co.hiworks.mobile)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 4075466
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 16
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+/home/santapark/Extended3/DEEPerence/reEx/sample94.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH.apk launch is failed on devRoot
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 508ce0
+-- current localPatchFilter: 508c46
+-- current localPatchFilter: 508cb8
+Action is completely same :)
+android.app.Dialog/show:()V:508d60		=(rels)=>		1
+[*] Unique action: 1:20027 : <<CALL>> : kr.co.hiworks.mobile.activities.LoginActivity/onCreate:(Landroid/os/Bundle;)V:508d60  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:20113 : <<BRANCH>> : kr.co.hiworks.mobile.activities.LoginActivity/onCreate:(Landroid/os/Bundle;)V:508cfc  =>  kr.co.hiworks.mobile.activities.LoginActivity/onCreate:(Landroid/os/Bundle;)V:508cee
+Entry: 508c0c
+kr.co.hiworks.mobile.activities.LoginActivity/onCreate:(Landroid/os/Bundle;)V: 508cfc -> 508cee
+		kr.co.hiworks.mobile.activities.LoginActivity/onCreate:(Landroid/os/Bundle;)V: f0 -> e2
+addPatchReadme: java.lang.Class<kr.co.hiworks.mobile.activities.LoginActivity>onCreate(Landroid/os/Bundle;)V f0 t
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample94@devRoot-D-R.obfuscated@FAILED_LAUNCH.ilog)
+b29e6a69: Patch size: 1
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample94.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH_devRoot
+Wow!!!!!  --  kr.co.hiworks.mobile.activities.LoginActivity/onCreate:(Landroid/os/Bundle;)V
+fallthrough: f4
+branchTarget: e2
+label = cond_0
+GOTO -- f4 	e2
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample94.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample94.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH_devRoot/sample94.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample94.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH_devRoot/signed_sample94.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH.apk
+b29e6a69: First address of Lkr/co/hiworks/mobile/activities/LoginActivity;->onCreate(Landroid/os/Bundle;)V = 508c1c
+b29e6a69: Address - Lkr/co/hiworks/mobile/activities/LoginActivity;->onCreate(Landroid/os/Bundle;)V@f0	 lastOffset = 6f8
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample94.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH_devRoot/signed_sample94.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample94@devRoot-D-R.obfuscated@FAILED_LAUNCH.ilog)
+b29e6a69: Running Application: kr.co.hiworks.mobile
+b29e6a69: Top-activity: kr.co.hiworks.mobile/.activities.LoginActivity
+PIDs--------------------------------------------------------------------------
+u0_a3475      14442    428 14227852 134104 0                  0 S kr.co.hiworks.mobile
+b29e6a69: Terminated logcat thread...by itself
+PIDs--------------------------------------------------------------------------
+u0_a3475      14442    428 14227852 134104 0                  0 S kr.co.hiworks.mobile
+Stopping app: kr.co.hiworks.mobile
+Tryging remove : uninstall kr.co.hiworks.mobile(kr.co.hiworks.mobile)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 30529874
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 15
+b29e6a69: isFailedToLaunch: kr.co.hiworks.mobile/.activities.LoginActivity
+b29e6a69: 	--result: Good :)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample94@devRoot-D-R.obfuscated@FAILED_LAUNCH.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample94@devRoot-D-R.obfuscated@FAILED_LAUNCH.ilog)
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 508cfc
+Action is completely same :)
+Action is completely same :)
+b29e6a69: There is no difference. (tryAgain=false)
+-- HPFinder will be done in this iteration :)
+hasAntiAnalysis? - devTamper: false on kr.co.hiworks.mobile.activities.LoginActivity
+hasAntiAnalysis? - devRoot: true on kr.co.hiworks.mobile.activities.LoginActivity
+	isRemovedThem? - devRoot: true on kr.co.hiworks.mobile.activities.LoginActivity	-	tryCount: 4
+hasAntiAnalysis? - devDebug: false on kr.co.hiworks.mobile.activities.LoginActivity
+*****REPORT: kr.co.hiworks.mobile
+* Package name: kr.co.hiworks.mobile
+* Running time: 459
+* FileSize: 7957210
+devTamper : 30400376
+devRef : 30085247
+devRoot : 30529874
+devDebug : 30419634
+hasAntiAnalysis? - devTamper: false on kr.co.hiworks.mobile.activities.LoginActivity
+hasAntiAnalysis? - devRoot: true on kr.co.hiworks.mobile.activities.LoginActivity
+	isRemovedThem? - devRoot: true on kr.co.hiworks.mobile.activities.LoginActivity	-	tryCount: 4
+hasAntiAnalysis? - devDebug: false on kr.co.hiworks.mobile.activities.LoginActivity
+46604b9f: trying remove : kr.co.hiworks.mobile
+3601a6ff: trying remove : kr.co.hiworks.mobile
+b29e6a69: trying remove : kr.co.hiworks.mobile
+159ceeed: trying remove : kr.co.hiworks.mobile
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+3601a6ff: result = true
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+159ceeed: result = true
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+46604b9f: result = true
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+b29e6a69: result = true
+3601a6ff: isFailedToLaunch: kr.co.hiworks.mobile/.activities.LoginActivity
+3601a6ff: 	--result: Good :)

@@ -1,0 +1,236 @@
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/com.menupan.korex_@7F070017.apk@devDebug-D-R.apk.obfuscated/AndroidManifest.xml
+launchable-activity: name='com.menupan.korex.StartActivity'  label='4천원택배' icon=''
+{ACTIVITY, .StartActivity, android.intent.action.MAIN}
+{ACTIVITY, .WebviewActivity, android.intent.action.VIEW}
+{ACTIVITY, .utils.InnerWebActivity}
+{ACTIVITY, .gcm.GCMDialogActivity}
+{RECEIVER, .gcm.GCMReceiver, com.google.android.c2dm.intent.RECEIVE, com.google.android.c2dm.intent.REGISTRATION}
+{ACTIVITY, .StartActivity, android.intent.action.MAIN}
+{ACTIVITY, .WebviewActivity, android.intent.action.VIEW}
+{ACTIVITY, .utils.InnerWebActivity}
+{ACTIVITY, .gcm.GCMDialogActivity}
+{RECEIVER, .gcm.GCMReceiver, com.google.android.c2dm.intent.RECEIVE, com.google.android.c2dm.intent.REGISTRATION}
+_getAllDexFiles: /home/santapark/Extended3/DEEPerence/reEx/com.menupan.korex_@7F070017.apk@devDebug-D-R.apk.obfuscated/classes.dex
+----------------/home/santapark/Extended3/DEEPerence/reEx/com.menupan.korex_@7F070017.apk@devDebug-D-R.apk.obfuscated.apk
+dexFile = org.jf.dexlib2.dexbacked.DexBackedDexFile@23faf8f2
+com.menupan.korex
+com.menupan.korex.StartActivity
+debuggable: false
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/com.menupan.korex_@7F070017.apk@devDebug-D-R.apk.obfuscated.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/com.menupan.korex_@7F070017.apk@devDebug-D-R.apk.obfuscated.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/com.menupan.korex_@7F070017.apk@devDebug-D-R.apk.obfuscated.apk
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/com.menupan.korex_@7F070017.apk@devDebug-D-R.apk.obfuscated_46604b9f/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/com.menupan.korex_@7F070017.apk@devDebug-D-R.apk.obfuscated_46604b9f/com.menupan.korex_@7F070017.apk@devDebug-D-R.apk.obfuscated.apk
+159ceeed: Installation Success
+3601a6ff: Installation Success
+b29e6a69: Installation Success
+46604b9f: Installing repackaged apk File: 
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/com.menupan.korex_@7F070017.apk@devDebug-D-R.apk.obfuscated_46604b9f/signed_com.menupan.korex_@7F070017.apk@devDebug-D-R.apk.obfuscated.apk
+46604b9f: Installation Success
+46604b9f: startApplication called! - devTamper
+3601a6ff: startApplication called! - devRef
+b29e6a69: startApplication called! - devRoot
+159ceeed: startApplication called! - devDebug
+3601a6ff: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRef_com.menupan.korex_@7F070017@devDebug-D-R.obfuscated.ilog)
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_com.menupan.korex_@7F070017@devDebug-D-R.obfuscated.ilog)
+46604b9f: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devTamper_com.menupan.korex_@7F070017@devDebug-D-R.obfuscated.ilog)
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_com.menupan.korex_@7F070017@devDebug-D-R.obfuscated.ilog)
+b29e6a69: Running Application: com.menupan.korex
+46604b9f: Running Application: com.menupan.korex
+3601a6ff: Running Application: com.menupan.korex
+PIDs--------------------------------------------------------------------------
+u0_a981       27002    423 13764316 108968 0                  0 R com.menupan.korex
+forward tcp:35535 jdwp:27002
+[*]Found JDWP Target: 27002
+159ceeed: Running Application: com.menupan.korex
+b29e6a69: Running is done - starting comparing... : 10001
+b29e6a69: Terminated logcat thread...by itself
+46604b9f: Running is done - starting comparing... : 10001
+46604b9f: Terminated logcat thread...by itself
+46604b9f: Top-activity: com.menupan.korex/.StartActivity
+PIDs--------------------------------------------------------------------------
+u0_a523       31441    425 13950116 127744 0                  0 S com.menupan.korex
+46604b9f: savedPid = 31441
+PIDs--------------------------------------------------------------------------
+u0_a523       31441    425 13950116 127744 0                  0 S com.menupan.korex
+46604b9f: savedPid2 = 31441
+Stopping app: com.menupan.korex
+b29e6a69: Top-activity: com.menupan.korex/.StartActivity
+PIDs--------------------------------------------------------------------------
+u0_a675       30649    430 13928036 135720 0                  0 S com.menupan.korex
+b29e6a69: savedPid = 30649
+PIDs--------------------------------------------------------------------------
+u0_a675       30649    430 13928036 135720 0                  0 S com.menupan.korex
+b29e6a69: savedPid2 = 30649
+Stopping app: com.menupan.korex
+PIDs--------------------------------------------------------------------------
+u0_a981       27002    423 13779804 136628 0                  0 S com.menupan.korex
+159ceeed: Tryging attach jdb to 27002
+jdb -connect com.sun.jdi.SocketAttach:hostname=localhost,port=35535
+Tryging remove : uninstall com.menupan.korex(com.menupan.korex)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 3056928
+b29e6a69: End of collecting logcat...
+Tryging remove : uninstall com.menupan.korex(com.menupan.korex)
+46604b9f: Remove Success
+46604b9f: ilog file size: 3060119
+46604b9f: End of collecting logcat...
+3601a6ff: Terminated logcat thread...by itself
+3601a6ff: Top-activity: com.menupan.korex/.StartActivity
+PIDs--------------------------------------------------------------------------
+u0_a537       21976    414 13886676 127856 0                  0 S com.menupan.korex
+3601a6ff: savedPid = 21976
+PIDs--------------------------------------------------------------------------
+u0_a537       21976    414 13886676 127856 0                  0 S com.menupan.korex
+3601a6ff: savedPid2 = 21976
+Stopping app: com.menupan.korex
+Tryging remove : uninstall com.menupan.korex(com.menupan.korex)
+3601a6ff: Remove Success
+3601a6ff: ilog file size: 5228373
+3601a6ff: End of collecting logcat...
+159ceeed: Terminated logcat thread...by itself
+159ceeed: Top-activity: com.menupan.korex/.StartActivity
+PIDs--------------------------------------------------------------------------
+u0_a981       27002    423 13874940 149152 0                  0 S com.menupan.korex
+159ceeed: savedPid = 27002
+PIDs--------------------------------------------------------------------------
+u0_a981       27002    423 13874940 149152 0                  0 S com.menupan.korex
+159ceeed: savedPid2 = 27002
+Stopping app: com.menupan.korex
+Tryging remove : uninstall com.menupan.korex(com.menupan.korex)
+159ceeed: Remove Success
+159ceeed: ilog file size: 5606523
+159ceeed: End of collecting logcat...
+HPFinder's try count remains: 29
+Target PID : 21976
+Target PID : 21976
+Target PID : 21976
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_com.menupan.korex_@7F070017@devDebug-D-R.obfuscated.ilog)
+Target PID : 27002
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_com.menupan.korex_@7F070017@devDebug-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_com.menupan.korex_@7F070017@devDebug-D-R.obfuscated.ilog)
+Target PID : 30649
+Target PID : 31441
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_com.menupan.korex_@7F070017@devDebug-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devTamper_com.menupan.korex_@7F070017@devDebug-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_com.menupan.korex_@7F070017@devDebug-D-R.obfuscated.ilog)
+[*] FlowManager: adjust finished.
+Action is completely same :)
+Action is completely same :)
+46604b9f: There is no difference. (tryAgain=false)
+[*] FlowManager: adjust finished.
+Action is completely same :)
+Action is completely same :)
+b29e6a69: There is no difference. (tryAgain=false)
+[*] FlowManager: adjust finished.
+Action is completely same :)
+android.widget.Toast/show:()V:2bcb86		=(rels)=>		1
+[*] Unique action: 1:10052 : <<CALL>> : com.menupan.korex.StartActivity/AMqoQKTurNyyYYNA:(Landroid/widget/Toast;)V:2bcb86  =>  android.widget.Toast/show:()V:2a3e70
+	1:compareBackwardBranch2: 1:9538 : <<BRANCH>> : com.menupan.korex.StartActivity/onCreate:(Landroid/os/Bundle;)V:2cbc98  =>  com.menupan.korex.StartActivity/onCreate:(Landroid/os/Bundle;)V:2cbc4e
+Entry: 2cb7bc
+com.menupan.korex.StartActivity/onCreate:(Landroid/os/Bundle;)V: 2cbc98 -> 2cbc4e
+		com.menupan.korex.StartActivity/onCreate:(Landroid/os/Bundle;)V: 4dc -> 492
+addPatchReadme: java.lang.Class<com.menupan.korex.StartActivity>onCreate(Landroid/os/Bundle;)V 4dc t
+159ceeed: [+] Patches found in this round: 1
+159ceeed: [*] Found Patch size: 1
+Target PID : 26025
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_com.menupan.korex_@7F070017@devDebug-D-R.obfuscated.ilog)
+159ceeed: 	@@@Found patch addr: 2cbca8
+159ceeed: Querying offset: 2cbc98
+159ceeed: 	--Add method name to patch = com.menupan.korex.StartActivity/onCreate:(Landroid/os/Bundle;)V 	2cbc98
+Devices presenting anti-analysis: 
+	devDebug
+159ceeed: patching method: com.menupan.korex.StartActivity/onCreate:(Landroid/os/Bundle;)V
+159ceeed: outDir - /home/santapark/Extended3/DEEPerence/reEx/com.menupan.korex_@7F070017.apk@devDebug-D-R.apk.obfuscated_devDebug
+Wow!!!!!  --  com.menupan.korex.StartActivity/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 4e0
+branchTarget: 492
+label = cond_1
+GOTO -- 4e0 	492
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/com.menupan.korex_@7F070017.apk@devDebug-D-R.apk.obfuscated_devDebug/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/com.menupan.korex_@7F070017.apk@devDebug-D-R.apk.obfuscated_devDebug/com.menupan.korex_@7F070017.apk@devDebug-D-R.apk.obfuscated.apk
+159ceeed: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/com.menupan.korex_@7F070017.apk@devDebug-D-R.apk.obfuscated_devDebug/signed_com.menupan.korex_@7F070017.apk@devDebug-D-R.apk.obfuscated.apk
+159ceeed: First address of Lcom/menupan/korex/StartActivity;->onCreate(Landroid/os/Bundle;)V = 2cb7cc
+159ceeed: Address - Lcom/menupan/korex/StartActivity;->onCreate(Landroid/os/Bundle;)V@4dc	 lastOffset = 830
+159ceeed: Instruction@@: IF_EQZ
+159ceeed: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/com.menupan.korex_@7F070017.apk@devDebug-D-R.apk.obfuscated_devDebug/signed_com.menupan.korex_@7F070017.apk@devDebug-D-R.apk.obfuscated.apk
+159ceeed: Installation Success
+159ceeed: startApplication called! - devDebug
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_com.menupan.korex_@7F070017@devDebug-D-R.obfuscated.ilog)
+PIDs--------------------------------------------------------------------------
+u0_a982       27098    423 13781764 109872 0                  0 R com.menupan.korex
+forward tcp:35535 jdwp:27098
+[*]Found JDWP Target: 27098
+159ceeed: Running Application: com.menupan.korex
+PIDs--------------------------------------------------------------------------
+u0_a982       27098    423 13832028 135412 0                  0 S com.menupan.korex
+159ceeed: Tryging attach jdb to 27098
+jdb -connect com.sun.jdi.SocketAttach:hostname=localhost,port=35535
+159ceeed: Terminated logcat thread...by itself
+159ceeed: Top-activity: com.menupan.korex/.StartActivity
+PIDs--------------------------------------------------------------------------
+u0_a982       27098    423 13990652 148272 0                  0 S com.menupan.korex
+159ceeed: savedPid = 27098
+PIDs--------------------------------------------------------------------------
+u0_a982       27098    423 13990652 148272 0                  0 S com.menupan.korex
+159ceeed: savedPid2 = 27098
+Stopping app: com.menupan.korex
+Tryging remove : uninstall com.menupan.korex(com.menupan.korex)
+159ceeed: Remove Success
+159ceeed: ilog file size: 5579998
+159ceeed: End of collecting logcat...
+HPFinder's try count remains: 28
+Target PID : 21976
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_com.menupan.korex_@7F070017@devDebug-D-R.obfuscated.ilog)
+Target PID : 27098
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_com.menupan.korex_@7F070017@devDebug-D-R.obfuscated.ilog)
+159ceeed: adding filter -- 2cbc98
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 2cbc98
+Action is completely same :)
+Action is completely same :)
+159ceeed: There is no difference. (tryAgain=false)
+-- HPFinder will be done in this iteration :)
+hasAntiAnalysis? - devTamper: false on com.menupan.korex.StartActivity
+hasAntiAnalysis? - devRoot: false on com.menupan.korex.StartActivity
+hasAntiAnalysis? - devDebug: true on com.menupan.korex.StartActivity
+	isRemovedThem? - devDebug: true on com.menupan.korex.StartActivity	-	tryCount: 1
+*****REPORT: com.menupan.korex
+* Package name: com.menupan.korex
+* Running time: 311
+* FileSize: 1476133
+devTamper : 3060119
+devRef : 5228373
+devRoot : 3056928
+devDebug : 5579998
+hasAntiAnalysis? - devTamper: false on com.menupan.korex.StartActivity
+hasAntiAnalysis? - devRoot: false on com.menupan.korex.StartActivity
+hasAntiAnalysis? - devDebug: true on com.menupan.korex.StartActivity
+	isRemovedThem? - devDebug: true on com.menupan.korex.StartActivity	-	tryCount: 1
+46604b9f: trying remove : com.menupan.korex
+3601a6ff: trying remove : com.menupan.korex
+b29e6a69: trying remove : com.menupan.korex
+159ceeed: trying remove : com.menupan.korex
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+b29e6a69: result = true
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+46604b9f: result = true
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+159ceeed: result = true
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+3601a6ff: result = true
+3601a6ff: isFailedToLaunch: com.menupan.korex/.StartActivity
+3601a6ff: 	--result: Good :)

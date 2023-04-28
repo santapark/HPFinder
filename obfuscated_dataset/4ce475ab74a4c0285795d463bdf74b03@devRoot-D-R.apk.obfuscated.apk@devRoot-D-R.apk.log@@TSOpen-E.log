@@ -1,0 +1,369 @@
+axmlPath: /home/santapark/Extended3/DEEPerence/obfuscated/9d9458cd6bc6ccae0d2fde50d1b1b1ff857934867b6f06fd7f8a331de9047194.apk@devRoot-D-R.apk.obfuscated/AndroidManifest.xml
+launchable-activity: name='com.tutusw.onekeyvpn.OpenVpnSettings'  label='一键翻墙(免费版)' icon=''
+{ACTIVITY, OpenVpnSettings, android.intent.action.MAIN}
+{ACTIVITY, AdvancedSettings}
+{ACTIVITY, EditConfig}
+{ACTIVITY, EditConfigPreferences}
+{ACTIVITY, EnterPassphrase}
+{ACTIVITY, EnterUserPassword}
+{ACTIVITY, ImportFiles}
+{SERVICE, com.tutusw.onekeyvpn.service.OpenVpnService}
+{ACTIVITY, OpenVpnSettings, android.intent.action.MAIN}
+{ACTIVITY, AdvancedSettings}
+{ACTIVITY, EditConfig}
+{ACTIVITY, EditConfigPreferences}
+{ACTIVITY, EnterPassphrase}
+{ACTIVITY, EnterUserPassword}
+{ACTIVITY, ImportFiles}
+{SERVICE, com.tutusw.onekeyvpn.service.OpenVpnService}
+_getAllDexFiles: /home/santapark/Extended3/DEEPerence/obfuscated/9d9458cd6bc6ccae0d2fde50d1b1b1ff857934867b6f06fd7f8a331de9047194.apk@devRoot-D-R.apk.obfuscated/classes.dex
+----------------/home/santapark/Extended3/DEEPerence/obfuscated/9d9458cd6bc6ccae0d2fde50d1b1b1ff857934867b6f06fd7f8a331de9047194.apk@devRoot-D-R.apk.obfuscated.apk
+dexFile = org.jf.dexlib2.dexbacked.DexBackedDexFile@3113a37
+com.tutusw.onekeyvpn
+com.tutusw.onekeyvpn.OpenVpnSettings
+debuggable: true
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+Installing apk: /home/santapark/Extended3/DEEPerence/obfuscated/9d9458cd6bc6ccae0d2fde50d1b1b1ff857934867b6f06fd7f8a331de9047194.apk@devRoot-D-R.apk.obfuscated.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/obfuscated/9d9458cd6bc6ccae0d2fde50d1b1b1ff857934867b6f06fd7f8a331de9047194.apk@devRoot-D-R.apk.obfuscated.apk
+axmlPath: /home/santapark/Extended3/DEEPerence/obfuscated/9d9458cd6bc6ccae0d2fde50d1b1b1ff857934867b6f06fd7f8a331de9047194.apk@devRoot-D-R.apk.obfuscated_46604b9f/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/obfuscated/9d9458cd6bc6ccae0d2fde50d1b1b1ff857934867b6f06fd7f8a331de9047194.apk@devRoot-D-R.apk.obfuscated_46604b9f/9d9458cd6bc6ccae0d2fde50d1b1b1ff857934867b6f06fd7f8a331de9047194.apk@devRoot-D-R.apk.obfuscated.apk
+axmlPath: /home/santapark/Extended3/DEEPerence/obfuscated/9d9458cd6bc6ccae0d2fde50d1b1b1ff857934867b6f06fd7f8a331de9047194.apk@devRoot-D-R.apk.obfuscated/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/obfuscated/9d9458cd6bc6ccae0d2fde50d1b1b1ff857934867b6f06fd7f8a331de9047194.apk@devRoot-D-R.apk.obfuscated/9d9458cd6bc6ccae0d2fde50d1b1b1ff857934867b6f06fd7f8a331de9047194.apk@devRoot-D-R.apk.obfuscated.apk
+46604b9f: Installing repackaged apk File: 
+Installing apk: /home/santapark/Extended3/DEEPerence/obfuscated/9d9458cd6bc6ccae0d2fde50d1b1b1ff857934867b6f06fd7f8a331de9047194.apk@devRoot-D-R.apk.obfuscated_46604b9f/signed_9d9458cd6bc6ccae0d2fde50d1b1b1ff857934867b6f06fd7f8a331de9047194.apk@devRoot-D-R.apk.obfuscated.apk
+159ceeed: Installing debuggable .apk file: 
+Installing apk: /home/santapark/Extended3/DEEPerence/obfuscated/9d9458cd6bc6ccae0d2fde50d1b1b1ff857934867b6f06fd7f8a331de9047194.apk@devRoot-D-R.apk.obfuscated/signed_9d9458cd6bc6ccae0d2fde50d1b1b1ff857934867b6f06fd7f8a331de9047194.apk@devRoot-D-R.apk.obfuscated.apk
+3601a6ff: Installation Success
+b29e6a69: Installation Success
+159ceeed: Installation Success
+46604b9f: Installation Success
+46604b9f: startApplication called! - devTamper
+3601a6ff: startApplication called! - devRef
+b29e6a69: startApplication called! - devRoot
+159ceeed: startApplication called! - devDebug
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/obfuscated/devRoot_9d9458cd6bc6ccae0d2fde50d1b1b1ff857934867b6f06fd7f8a331de9047194@devRoot-D-R.obfuscated.ilog)
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/obfuscated/devDebug_9d9458cd6bc6ccae0d2fde50d1b1b1ff857934867b6f06fd7f8a331de9047194@devRoot-D-R.obfuscated.ilog)
+46604b9f: Collecting logcat... (/home/santapark/Extended3/DEEPerence/obfuscated/devTamper_9d9458cd6bc6ccae0d2fde50d1b1b1ff857934867b6f06fd7f8a331de9047194@devRoot-D-R.obfuscated.ilog)
+3601a6ff: Collecting logcat... (/home/santapark/Extended3/DEEPerence/obfuscated/devRef_9d9458cd6bc6ccae0d2fde50d1b1b1ff857934867b6f06fd7f8a331de9047194@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Running Application: com.tutusw.onekeyvpn
+3601a6ff: Running Application: com.tutusw.onekeyvpn
+46604b9f: Running Application: com.tutusw.onekeyvpn
+PIDs--------------------------------------------------------------------------
+u0_a778       21795    428 14129056 120948 0                  0 R com.tutusw.onekeyvpn
+forward tcp:5005 jdwp:21795
+[*]Found JDWP Target: 21795
+159ceeed: Running Application: com.tutusw.onekeyvpn
+3601a6ff: Running is done - starting comparing... : 5001
+3601a6ff: Terminated logcat thread...by itself
+159ceeed: Running is done - starting comparing... : 5001
+159ceeed: Terminated logcat thread...by itself
+46604b9f: Running is done - starting comparing... : 5001
+46604b9f: Terminated logcat thread...by itself
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+3601a6ff: Top-activity: com.tutusw.onekeyvpn/.OpenVpnSettings
+PIDs--------------------------------------------------------------------------
+u0_a170       13802    407 14018916 117748 0                  0 S com.tutusw.onekeyvpn
+PIDs--------------------------------------------------------------------------
+u0_a170       13802    407 14018916 117748 0                  0 S com.tutusw.onekeyvpn
+Stopping app: com.tutusw.onekeyvpn
+46604b9f: Top-activity: com.tutusw.onekeyvpn/.OpenVpnSettings
+PIDs--------------------------------------------------------------------------
+u0_a846       13898    427 14007812 117508 0                  0 S com.tutusw.onekeyvpn
+PIDs--------------------------------------------------------------------------
+u0_a846       13898    427 14007812 117508 0                  0 S com.tutusw.onekeyvpn
+Stopping app: com.tutusw.onekeyvpn
+159ceeed: Top-activity: com.tutusw.onekeyvpn/.OpenVpnSettings
+PIDs--------------------------------------------------------------------------
+u0_a778       21795    428 14129632 118028 0                  0 S com.tutusw.onekeyvpn
+PIDs--------------------------------------------------------------------------
+u0_a778       21795    428 14129632 118028 0                  0 S com.tutusw.onekeyvpn
+Stopping app: com.tutusw.onekeyvpn
+b29e6a69: Top-activity: com.tutusw.onekeyvpn/.OpenVpnSettings
+PIDs--------------------------------------------------------------------------
+u0_a3415       5152    428 14122384 120288 0                  0 S com.tutusw.onekeyvpn
+PIDs--------------------------------------------------------------------------
+u0_a3415       5152    428 14122384 120288 0                  0 S com.tutusw.onekeyvpn
+Stopping app: com.tutusw.onekeyvpn
+Tryging remove : uninstall com.tutusw.onekeyvpn(com.tutusw.onekeyvpn)
+3601a6ff: Remove Success
+3601a6ff: ilog file size: 1700540
+3601a6ff: End of collecting logcat...
+Tryging remove : uninstall com.tutusw.onekeyvpn(com.tutusw.onekeyvpn)
+46604b9f: Remove Success
+46604b9f: ilog file size: 1700540
+46604b9f: End of collecting logcat...
+Tryging remove : uninstall com.tutusw.onekeyvpn(com.tutusw.onekeyvpn)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 2179514
+b29e6a69: End of collecting logcat...
+Tryging remove : uninstall com.tutusw.onekeyvpn(com.tutusw.onekeyvpn)
+159ceeed: Remove Success
+159ceeed: ilog file size: 1700540
+159ceeed: End of collecting logcat...
+HPFinder's try count remains: 19
+46604b9f: isFailedToLaunch: com.tutusw.onekeyvpn/.OpenVpnSettings
+46604b9f: 	--result: Good :)
+b29e6a69: isFailedToLaunch: com.tutusw.onekeyvpn/.OpenVpnSettings
+b29e6a69: 	--result: Good :)
+159ceeed: isFailedToLaunch: com.tutusw.onekeyvpn/.OpenVpnSettings
+159ceeed: 	--result: Good :)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/obfuscated/devRef_9d9458cd6bc6ccae0d2fde50d1b1b1ff857934867b6f06fd7f8a331de9047194@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/obfuscated/devRef_9d9458cd6bc6ccae0d2fde50d1b1b1ff857934867b6f06fd7f8a331de9047194@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/obfuscated/devRef_9d9458cd6bc6ccae0d2fde50d1b1b1ff857934867b6f06fd7f8a331de9047194@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/obfuscated/devTamper_9d9458cd6bc6ccae0d2fde50d1b1b1ff857934867b6f06fd7f8a331de9047194@devRoot-D-R.obfuscated.ilog)
+[*] FlowManager: adjust finished.
+Action is completely same :)
+Action is completely same :)
+46604b9f: There is no difference. (tryAgain=false)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/obfuscated/devRoot_9d9458cd6bc6ccae0d2fde50d1b1b1ff857934867b6f06fd7f8a331de9047194@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/obfuscated/devDebug_9d9458cd6bc6ccae0d2fde50d1b1b1ff857934867b6f06fd7f8a331de9047194@devRoot-D-R.obfuscated.ilog)
+[*] FlowManager: adjust finished.
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.widget.Toast/show:()V:47486		=(rels)=>		1
+[*] Unique action: 1:4380 : <<CALL>> : com.tutusw.onekeyvpn.util.Preconditions/ismtDedQOjJRPOpo:(Landroid/widget/Toast;)V:47486  =>  android.widget.Toast/show:()V:2a3e70
+[*] FlowManager: adjust finished.
+Action is completely same :)
+Action is completely same :)
+159ceeed: There is no difference. (tryAgain=false)
+	1:compareBackwardBranch: 1:4350 : <<BRANCH>> : com.tutusw.onekeyvpn.util.Preconditions/check:(Landroid/content/Context;)Z:471bc  =>  com.tutusw.onekeyvpn.util.Preconditions/check:(Landroid/content/Context;)Z:472ea
+Action is completely same :)
+Entry: 4718c
+com.tutusw.onekeyvpn.util.Preconditions/check:(Landroid/content/Context;)Z: 471bc -> 472ea
+		com.tutusw.onekeyvpn.util.Preconditions/check:(Landroid/content/Context;)Z: 30 -> 15e
+addPatchReadme: java.lang.Class<com.tutusw.onekeyvpn.util.Preconditions>check(Landroid/content/Context;)Z 30 t
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/obfuscated/devRoot_9d9458cd6bc6ccae0d2fde50d1b1b1ff857934867b6f06fd7f8a331de9047194@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Patch size: 1
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/obfuscated/9d9458cd6bc6ccae0d2fde50d1b1b1ff857934867b6f06fd7f8a331de9047194.apk@devRoot-D-R.apk.obfuscated_devRoot
+Wow!!!!!  --  com.tutusw.onekeyvpn.util.Preconditions/check:(Landroid/content/Context;)Z
+fallthrough: 36
+branchTarget: 15e
+label = sswitch_data_0
+GOTO -- 36 	15e
+axmlPath: /home/santapark/Extended3/DEEPerence/obfuscated/9d9458cd6bc6ccae0d2fde50d1b1b1ff857934867b6f06fd7f8a331de9047194.apk@devRoot-D-R.apk.obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/obfuscated/9d9458cd6bc6ccae0d2fde50d1b1b1ff857934867b6f06fd7f8a331de9047194.apk@devRoot-D-R.apk.obfuscated_devRoot/9d9458cd6bc6ccae0d2fde50d1b1b1ff857934867b6f06fd7f8a331de9047194.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/obfuscated/9d9458cd6bc6ccae0d2fde50d1b1b1ff857934867b6f06fd7f8a331de9047194.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_9d9458cd6bc6ccae0d2fde50d1b1b1ff857934867b6f06fd7f8a331de9047194.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: First address of Lcom/tutusw/onekeyvpn/util/Preconditions;->check(Landroid/content/Context;)Z = 4719c
+b29e6a69: Address - Lcom/tutusw/onekeyvpn/util/Preconditions;->check(Landroid/content/Context;)Z@30	 lastOffset = 294
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/obfuscated/9d9458cd6bc6ccae0d2fde50d1b1b1ff857934867b6f06fd7f8a331de9047194.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_9d9458cd6bc6ccae0d2fde50d1b1b1ff857934867b6f06fd7f8a331de9047194.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/obfuscated/devRoot_9d9458cd6bc6ccae0d2fde50d1b1b1ff857934867b6f06fd7f8a331de9047194@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Running Application: com.tutusw.onekeyvpn
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+u0_a3416       5280    428 14088072 88424 0                   0 S com.tutusw.onekeyvpn
+PIDs--------------------------------------------------------------------------
+u0_a3416       5280    428 14088072 88424 0                   0 S com.tutusw.onekeyvpn
+Stopping app: com.tutusw.onekeyvpn
+Tryging remove : uninstall com.tutusw.onekeyvpn(com.tutusw.onekeyvpn)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 2328855
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 18
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+/home/santapark/Extended3/DEEPerence/obfuscated/9d9458cd6bc6ccae0d2fde50d1b1b1ff857934867b6f06fd7f8a331de9047194.apk@devRoot-D-R.apk.obfuscated.apk launch is failed on devRoot
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 471bc
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.widget.Toast/show:()V:47486		=(rels)=>		1
+[*] Unique action: 1:4380 : <<CALL>> : com.tutusw.onekeyvpn.util.Preconditions/ismtDedQOjJRPOpo:(Landroid/widget/Toast;)V:47486  =>  android.widget.Toast/show:()V:2a3e70
+	1:compareBackwardBranch: 1:4347 : <<BRANCH>> : com.tutusw.onekeyvpn.util.Preconditions/check:(Landroid/content/Context;)Z:47296  =>  com.tutusw.onekeyvpn.util.Preconditions/check:(Landroid/content/Context;)Z:472e2
+Action is completely same :)
+Entry: 4718c
+com.tutusw.onekeyvpn.util.Preconditions/check:(Landroid/content/Context;)Z: 47296 -> 472e2
+		com.tutusw.onekeyvpn.util.Preconditions/check:(Landroid/content/Context;)Z: 10a -> 156
+addPatchReadme: java.lang.Class<com.tutusw.onekeyvpn.util.Preconditions>check(Landroid/content/Context;)Z 10a t
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/obfuscated/devRoot_9d9458cd6bc6ccae0d2fde50d1b1b1ff857934867b6f06fd7f8a331de9047194@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Patch size: 1
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/obfuscated/9d9458cd6bc6ccae0d2fde50d1b1b1ff857934867b6f06fd7f8a331de9047194.apk@devRoot-D-R.apk.obfuscated_devRoot
+Wow!!!!!  --  com.tutusw.onekeyvpn.util.Preconditions/check:(Landroid/content/Context;)Z
+fallthrough: 110
+branchTarget: 156
+label = sswitch_data_3
+GOTO -- 110 	156
+axmlPath: /home/santapark/Extended3/DEEPerence/obfuscated/9d9458cd6bc6ccae0d2fde50d1b1b1ff857934867b6f06fd7f8a331de9047194.apk@devRoot-D-R.apk.obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/obfuscated/9d9458cd6bc6ccae0d2fde50d1b1b1ff857934867b6f06fd7f8a331de9047194.apk@devRoot-D-R.apk.obfuscated_devRoot/9d9458cd6bc6ccae0d2fde50d1b1b1ff857934867b6f06fd7f8a331de9047194.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/obfuscated/9d9458cd6bc6ccae0d2fde50d1b1b1ff857934867b6f06fd7f8a331de9047194.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_9d9458cd6bc6ccae0d2fde50d1b1b1ff857934867b6f06fd7f8a331de9047194.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: First address of Lcom/tutusw/onekeyvpn/util/Preconditions;->check(Landroid/content/Context;)Z = 4719c
+b29e6a69: Address - Lcom/tutusw/onekeyvpn/util/Preconditions;->check(Landroid/content/Context;)Z@10a	 lastOffset = 294
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/obfuscated/9d9458cd6bc6ccae0d2fde50d1b1b1ff857934867b6f06fd7f8a331de9047194.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_9d9458cd6bc6ccae0d2fde50d1b1b1ff857934867b6f06fd7f8a331de9047194.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/obfuscated/devRoot_9d9458cd6bc6ccae0d2fde50d1b1b1ff857934867b6f06fd7f8a331de9047194@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Running Application: com.tutusw.onekeyvpn
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+u0_a3417       5402    428 14088072 88496 0                   0 S com.tutusw.onekeyvpn
+PIDs--------------------------------------------------------------------------
+u0_a3417       5402    428 14088072 88496 0                   0 S com.tutusw.onekeyvpn
+Stopping app: com.tutusw.onekeyvpn
+Tryging remove : uninstall com.tutusw.onekeyvpn(com.tutusw.onekeyvpn)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 2329168
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 17
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+/home/santapark/Extended3/DEEPerence/obfuscated/9d9458cd6bc6ccae0d2fde50d1b1b1ff857934867b6f06fd7f8a331de9047194.apk@devRoot-D-R.apk.obfuscated.apk launch is failed on devRoot
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 47296
+-- current localPatchFilter: 471bc
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.widget.Toast/show:()V:47486		=(rels)=>		1
+[*] Unique action: 1:4380 : <<CALL>> : com.tutusw.onekeyvpn.util.Preconditions/ismtDedQOjJRPOpo:(Landroid/widget/Toast;)V:47486  =>  android.widget.Toast/show:()V:2a3e70
+	1:compareBackwardBranch: 1:4341 : <<BRANCH>> : com.tutusw.onekeyvpn.util.Preconditions/check:(Landroid/content/Context;)Z:472be  =>  com.tutusw.onekeyvpn.util.Preconditions/check:(Landroid/content/Context;)Z:472dc
+Action is completely same :)
+Entry: 4718c
+com.tutusw.onekeyvpn.util.Preconditions/check:(Landroid/content/Context;)Z: 472be -> 472dc
+		com.tutusw.onekeyvpn.util.Preconditions/check:(Landroid/content/Context;)Z: 132 -> 150
+addPatchReadme: java.lang.Class<com.tutusw.onekeyvpn.util.Preconditions>check(Landroid/content/Context;)Z 132 t
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/obfuscated/devRoot_9d9458cd6bc6ccae0d2fde50d1b1b1ff857934867b6f06fd7f8a331de9047194@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Patch size: 1
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/obfuscated/9d9458cd6bc6ccae0d2fde50d1b1b1ff857934867b6f06fd7f8a331de9047194.apk@devRoot-D-R.apk.obfuscated_devRoot
+Wow!!!!!  --  com.tutusw.onekeyvpn.util.Preconditions/check:(Landroid/content/Context;)Z
+fallthrough: 138
+branchTarget: 150
+label = sswitch_data_4
+GOTO -- 138 	150
+axmlPath: /home/santapark/Extended3/DEEPerence/obfuscated/9d9458cd6bc6ccae0d2fde50d1b1b1ff857934867b6f06fd7f8a331de9047194.apk@devRoot-D-R.apk.obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/obfuscated/9d9458cd6bc6ccae0d2fde50d1b1b1ff857934867b6f06fd7f8a331de9047194.apk@devRoot-D-R.apk.obfuscated_devRoot/9d9458cd6bc6ccae0d2fde50d1b1b1ff857934867b6f06fd7f8a331de9047194.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/obfuscated/9d9458cd6bc6ccae0d2fde50d1b1b1ff857934867b6f06fd7f8a331de9047194.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_9d9458cd6bc6ccae0d2fde50d1b1b1ff857934867b6f06fd7f8a331de9047194.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: First address of Lcom/tutusw/onekeyvpn/util/Preconditions;->check(Landroid/content/Context;)Z = 4719c
+b29e6a69: Address - Lcom/tutusw/onekeyvpn/util/Preconditions;->check(Landroid/content/Context;)Z@132	 lastOffset = 294
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/obfuscated/9d9458cd6bc6ccae0d2fde50d1b1b1ff857934867b6f06fd7f8a331de9047194.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_9d9458cd6bc6ccae0d2fde50d1b1b1ff857934867b6f06fd7f8a331de9047194.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/obfuscated/devRoot_9d9458cd6bc6ccae0d2fde50d1b1b1ff857934867b6f06fd7f8a331de9047194@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Running Application: com.tutusw.onekeyvpn
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+u0_a3418       5521    428 14088072 88552 0                   0 S com.tutusw.onekeyvpn
+PIDs--------------------------------------------------------------------------
+u0_a3418       5521    428 14088072 88552 0                   0 S com.tutusw.onekeyvpn
+Stopping app: com.tutusw.onekeyvpn
+Tryging remove : uninstall com.tutusw.onekeyvpn(com.tutusw.onekeyvpn)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 2329168
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 16
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+/home/santapark/Extended3/DEEPerence/obfuscated/9d9458cd6bc6ccae0d2fde50d1b1b1ff857934867b6f06fd7f8a331de9047194.apk@devRoot-D-R.apk.obfuscated.apk launch is failed on devRoot
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 47296
+-- current localPatchFilter: 471bc
+-- current localPatchFilter: 472be
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.widget.Toast/show:()V:47486		=(rels)=>		1
+[*] Unique action: 1:4380 : <<CALL>> : com.tutusw.onekeyvpn.util.Preconditions/ismtDedQOjJRPOpo:(Landroid/widget/Toast;)V:47486  =>  android.widget.Toast/show:()V:2a3e70
+	1:compareBackwardBranch: 1:4335 : <<BRANCH>> : com.tutusw.onekeyvpn.util.Preconditions/check:(Landroid/content/Context;)Z:472d2  =>  com.tutusw.onekeyvpn.util.Preconditions/check:(Landroid/content/Context;)Z:472d6
+Action is completely same :)
+Entry: 4718c
+com.tutusw.onekeyvpn.util.Preconditions/check:(Landroid/content/Context;)Z: 472d2 -> 472d6
+		com.tutusw.onekeyvpn.util.Preconditions/check:(Landroid/content/Context;)Z: 146 -> 14a
+addPatchReadme: java.lang.Class<com.tutusw.onekeyvpn.util.Preconditions>check(Landroid/content/Context;)Z 146 f
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/obfuscated/devRoot_9d9458cd6bc6ccae0d2fde50d1b1b1ff857934867b6f06fd7f8a331de9047194@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Patch size: 1
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/obfuscated/9d9458cd6bc6ccae0d2fde50d1b1b1ff857934867b6f06fd7f8a331de9047194.apk@devRoot-D-R.apk.obfuscated_devRoot
+Wow!!!!!  --  com.tutusw.onekeyvpn.util.Preconditions/check:(Landroid/content/Context;)Z
+fallthrough: 14a
+branchTarget: 14a
+NOP!
+axmlPath: /home/santapark/Extended3/DEEPerence/obfuscated/9d9458cd6bc6ccae0d2fde50d1b1b1ff857934867b6f06fd7f8a331de9047194.apk@devRoot-D-R.apk.obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/obfuscated/9d9458cd6bc6ccae0d2fde50d1b1b1ff857934867b6f06fd7f8a331de9047194.apk@devRoot-D-R.apk.obfuscated_devRoot/9d9458cd6bc6ccae0d2fde50d1b1b1ff857934867b6f06fd7f8a331de9047194.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/obfuscated/9d9458cd6bc6ccae0d2fde50d1b1b1ff857934867b6f06fd7f8a331de9047194.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_9d9458cd6bc6ccae0d2fde50d1b1b1ff857934867b6f06fd7f8a331de9047194.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: First address of Lcom/tutusw/onekeyvpn/util/Preconditions;->check(Landroid/content/Context;)Z = 4719c
+b29e6a69: Address - Lcom/tutusw/onekeyvpn/util/Preconditions;->check(Landroid/content/Context;)Z@146	 lastOffset = 294
+b29e6a69: Instruction@@: IF_NEZ
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/obfuscated/9d9458cd6bc6ccae0d2fde50d1b1b1ff857934867b6f06fd7f8a331de9047194.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_9d9458cd6bc6ccae0d2fde50d1b1b1ff857934867b6f06fd7f8a331de9047194.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/obfuscated/devRoot_9d9458cd6bc6ccae0d2fde50d1b1b1ff857934867b6f06fd7f8a331de9047194@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Running Application: com.tutusw.onekeyvpn
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.tutusw.onekeyvpn/.OpenVpnSettings
+PIDs--------------------------------------------------------------------------
+u0_a3419       5618    428 14146960 119840 0                  0 S com.tutusw.onekeyvpn
+PIDs--------------------------------------------------------------------------
+u0_a3419       5618    428 14146960 119840 0                  0 S com.tutusw.onekeyvpn
+Stopping app: com.tutusw.onekeyvpn
+Tryging remove : uninstall com.tutusw.onekeyvpn(com.tutusw.onekeyvpn)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 2191019
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 15
+b29e6a69: isFailedToLaunch: com.tutusw.onekeyvpn/.OpenVpnSettings
+b29e6a69: 	--result: Good :)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/obfuscated/devRef_9d9458cd6bc6ccae0d2fde50d1b1b1ff857934867b6f06fd7f8a331de9047194@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/obfuscated/devRoot_9d9458cd6bc6ccae0d2fde50d1b1b1ff857934867b6f06fd7f8a331de9047194@devRoot-D-R.obfuscated.ilog)
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 472d2
+Action is completely same :)
+Action is completely same :)
+b29e6a69: There is no difference. (tryAgain=false)
+-- HPFinder will be done in this iteration :)
+hasAntiAnalysis? - devTamper: false on com.tutusw.onekeyvpn.OpenVpnSettings
+hasAntiAnalysis? - devRoot: true on com.tutusw.onekeyvpn.OpenVpnSettings
+	isRemovedThem? - devRoot: true on com.tutusw.onekeyvpn.OpenVpnSettings	-	tryCount: 4
+hasAntiAnalysis? - devDebug: false on com.tutusw.onekeyvpn.OpenVpnSettings
+*****REPORT: com.tutusw.onekeyvpn
+* Package name: com.tutusw.onekeyvpn
+* Running time: 125
+* FileSize: 1156688
+devTamper : 1700540
+devRef : 1700540
+devRoot : 2191019
+devDebug : 1700540
+hasAntiAnalysis? - devTamper: false on com.tutusw.onekeyvpn.OpenVpnSettings
+hasAntiAnalysis? - devRoot: true on com.tutusw.onekeyvpn.OpenVpnSettings
+	isRemovedThem? - devRoot: true on com.tutusw.onekeyvpn.OpenVpnSettings	-	tryCount: 4
+hasAntiAnalysis? - devDebug: false on com.tutusw.onekeyvpn.OpenVpnSettings
+46604b9f: trying remove : com.tutusw.onekeyvpn
+3601a6ff: trying remove : com.tutusw.onekeyvpn
+b29e6a69: trying remove : com.tutusw.onekeyvpn
+159ceeed: trying remove : com.tutusw.onekeyvpn
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+3601a6ff: result = true
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+46604b9f: result = true
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+159ceeed: result = true
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+b29e6a69: result = true
+3601a6ff: isFailedToLaunch: com.tutusw.onekeyvpn/.OpenVpnSettings
+3601a6ff: 	--result: Good :)

@@ -1,0 +1,589 @@
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample35.apk@devRoot-D-R.apk.obfuscated/AndroidManifest.xml
+launchable-activity: name='com.mns.efamilyshop.fp.views.MainActivity'  label='' icon=''
+{ACTIVITY, com.mns.efamilyshop.fp.views.MainActivity, android.intent.action.MAIN}
+{ACTIVITY, com.mns.efamilyshop.fp.views.AppSchemeActivity, android.intent.action.VIEW}
+{SERVICE, com.mns.efamilyshop.fp.push.FirebaseMessagingService, com.google.firebase.MESSAGING_EVENT}
+{SERVICE, com.mns.efamilyshop.fp.push.FirebaseInstanceIDService, com.google.firebase.INSTANCE_ID_EVENT}
+{SERVICE, com.google.firebase.messaging.FirebaseMessagingService, com.google.firebase.MESSAGING_EVENT}
+{SERVICE, com.google.firebase.components.ComponentDiscoveryService}
+{RECEIVER, com.google.firebase.iid.FirebaseInstanceIdReceiver, com.google.android.c2dm.intent.RECEIVE}
+{SERVICE, com.google.firebase.iid.FirebaseInstanceIdService, com.google.firebase.INSTANCE_ID_EVENT}
+{ACTIVITY, com.mns.efamilyshop.fp.views.MainActivity, android.intent.action.MAIN}
+{ACTIVITY, com.mns.efamilyshop.fp.views.AppSchemeActivity, android.intent.action.VIEW}
+{SERVICE, com.mns.efamilyshop.fp.push.FirebaseMessagingService, com.google.firebase.MESSAGING_EVENT}
+{SERVICE, com.mns.efamilyshop.fp.push.FirebaseInstanceIDService, com.google.firebase.INSTANCE_ID_EVENT}
+{SERVICE, com.google.firebase.messaging.FirebaseMessagingService, com.google.firebase.MESSAGING_EVENT}
+{SERVICE, com.google.firebase.components.ComponentDiscoveryService}
+{RECEIVER, com.google.firebase.iid.FirebaseInstanceIdReceiver, com.google.android.c2dm.intent.RECEIVE}
+{SERVICE, com.google.firebase.iid.FirebaseInstanceIdService, com.google.firebase.INSTANCE_ID_EVENT}
+_getAllDexFiles: /home/santapark/Extended3/DEEPerence/reEx/sample35.apk@devRoot-D-R.apk.obfuscated/classes.dex
+----------------/home/santapark/Extended3/DEEPerence/reEx/sample35.apk@devRoot-D-R.apk.obfuscated.apk
+dexFile = org.jf.dexlib2.dexbacked.DexBackedDexFile@273842a6
+com.mns.efamilyshop.fp
+com.mns.efamilyshop.fp.views.MainActivity
+debuggable: true
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample35.apk@devRoot-D-R.apk.obfuscated.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample35.apk@devRoot-D-R.apk.obfuscated.apk
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample35.apk@devRoot-D-R.apk.obfuscated_46604b9f/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample35.apk@devRoot-D-R.apk.obfuscated_46604b9f/sample35.apk@devRoot-D-R.apk.obfuscated.apk
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample35.apk@devRoot-D-R.apk.obfuscated/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample35.apk@devRoot-D-R.apk.obfuscated/sample35.apk@devRoot-D-R.apk.obfuscated.apk
+3601a6ff: Installation Success
+46604b9f: Installing repackaged apk File: 
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample35.apk@devRoot-D-R.apk.obfuscated_46604b9f/signed_sample35.apk@devRoot-D-R.apk.obfuscated.apk
+159ceeed: Installing debuggable .apk file: 
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample35.apk@devRoot-D-R.apk.obfuscated/signed_sample35.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Installation Success
+159ceeed: Installation Success
+46604b9f: Installation Success
+46604b9f: startApplication called! - devTamper
+b29e6a69: startApplication called! - devRoot
+3601a6ff: startApplication called! - devRef
+159ceeed: startApplication called! - devDebug
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample35@devRoot-D-R.obfuscated.ilog)
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample35@devRoot-D-R.obfuscated.ilog)
+46604b9f: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devTamper_sample35@devRoot-D-R.obfuscated.ilog)
+3601a6ff: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample35@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Running Application: com.mns.efamilyshop.fp
+46604b9f: Running Application: com.mns.efamilyshop.fp
+3601a6ff: Running Application: com.mns.efamilyshop.fp
+PIDs--------------------------------------------------------------------------
+u0_a722        7060    429 14609904 100828 0                  0 S com.mns.efamilyshop.fp
+forward tcp:5005 jdwp:7060
+[*]Found JDWP Target: 7060
+159ceeed: Running Application: com.mns.efamilyshop.fp
+3601a6ff: Running is done - starting comparing... : 5001
+3601a6ff: Terminated logcat thread...by itself
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+46604b9f: Running is done - starting comparing... : 5001
+46604b9f: Terminated logcat thread...by itself
+159ceeed: Running is done - starting comparing... : 5001
+159ceeed: Terminated logcat thread...by itself
+3601a6ff: Top-activity: com.mns.efamilyshop.fp/.views.MainActivity
+PIDs--------------------------------------------------------------------------
+u0_a221       29679    407 15021192 170896 0                  0 S com.mns.efamilyshop.fp
+46604b9f: Top-activity: com.mns.efamilyshop.fp/.views.MainActivity
+PIDs--------------------------------------------------------------------------
+u0_a221       29679    407 15021192 170896 0                  0 S com.mns.efamilyshop.fp
+Stopping app: com.mns.efamilyshop.fp
+PIDs--------------------------------------------------------------------------
+u0_a911       14465    425 15046316 171284 0                  0 S com.mns.efamilyshop.fp
+PIDs--------------------------------------------------------------------------
+u0_a911       14465    425 15046316 171284 0                  0 S com.mns.efamilyshop.fp
+Stopping app: com.mns.efamilyshop.fp
+159ceeed: Top-activity: com.mns.efamilyshop.fp/.views.MainActivity
+PIDs--------------------------------------------------------------------------
+u0_a722        7060    429 14908048 170596 0                  0 S com.mns.efamilyshop.fp
+PIDs--------------------------------------------------------------------------
+u0_a722        7060    429 14908048 170596 0                  0 S com.mns.efamilyshop.fp
+Stopping app: com.mns.efamilyshop.fp
+b29e6a69: Top-activity: com.mns.efamilyshop.fp/.views.MainActivity
+PIDs--------------------------------------------------------------------------
+u0_a3085       9375    429 14635164 130232 0                  0 S com.mns.efamilyshop.fp
+PIDs--------------------------------------------------------------------------
+u0_a3085       9375    429 14635164 130232 0                  0 S com.mns.efamilyshop.fp
+Stopping app: com.mns.efamilyshop.fp
+Tryging remove : uninstall com.mns.efamilyshop.fp(com.mns.efamilyshop.fp)
+3601a6ff: Remove Success
+3601a6ff: ilog file size: 7416528
+3601a6ff: End of collecting logcat...
+Tryging remove : uninstall com.mns.efamilyshop.fp(com.mns.efamilyshop.fp)
+46604b9f: Remove Success
+46604b9f: ilog file size: 7417027
+46604b9f: End of collecting logcat...
+Tryging remove : uninstall com.mns.efamilyshop.fp(com.mns.efamilyshop.fp)
+159ceeed: Remove Success
+159ceeed: ilog file size: 7417001
+159ceeed: End of collecting logcat...
+Tryging remove : uninstall com.mns.efamilyshop.fp(com.mns.efamilyshop.fp)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 6960735
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 19
+46604b9f: isFailedToLaunch: com.mns.efamilyshop.fp/.views.MainActivity
+46604b9f: 	--result: Good :)
+b29e6a69: isFailedToLaunch: com.mns.efamilyshop.fp/.views.MainActivity
+b29e6a69: 	--result: Good :)
+159ceeed: isFailedToLaunch: com.mns.efamilyshop.fp/.views.MainActivity
+159ceeed: 	--result: Good :)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample35@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample35@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample35@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample35@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devTamper_sample35@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample35@devRoot-D-R.obfuscated.ilog)
+[*] FlowManager: adjust finished.
+[*] FlowManager: adjust finished.
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.app.AlertDialog$Builder/show:()Landroid/app/AlertDialog;:40836a		=(rels)=>		1
+Action is completely same :)
+[*] FlowManager: adjust finished.
+[*] Unique action: 1:17878 : <<CALL>> : com.mns.efamilyshop.fp.views.MainActivity/tkGyKZEGVdEqcFEO:(Landroid/app/AlertDialog$Builder;)Landroid/app/AlertDialog;:40836a  =>  android.app.AlertDialog$Builder/show:()Landroid/app/AlertDialog;:19e3bc
+Action is completely same :)
+159ceeed: There is no difference. (tryAgain=false)
+Action is completely same :)
+Action is completely same :)
+46604b9f: There is no difference. (tryAgain=false)
+	1:compareBackwardBranch: 1:17786 : <<BRANCH>> : com.mns.efamilyshop.fp.views.MainActivity/onCreate:(Landroid/os/Bundle;)V:40b746  =>  com.mns.efamilyshop.fp.views.MainActivity/onCreate:(Landroid/os/Bundle;)V:40b9a2
+android.app.AlertDialog$Builder/show:()Landroid/app/AlertDialog;:403f92		=(rels)=>		1
+[*] Unique action: 1:13998 : <<CALL>> : com.mns.efamilyshop.fp.views.MainActivity/bssmPBRqGQxCAXPl:(Landroid/app/AlertDialog$Builder;)Landroid/app/AlertDialog;:403f92  =>  android.app.AlertDialog$Builder/show:()Landroid/app/AlertDialog;:19e3bc
+	1:compareBackwardBranch: 1:14089 : <<BRANCH>> : com.mns.efamilyshop.fp.views.MainActivity/onCreate:(Landroid/os/Bundle;)V:40b746  =>  com.mns.efamilyshop.fp.views.MainActivity/onCreate:(Landroid/os/Bundle;)V:40b86e
+Entry: 40b690
+com.mns.efamilyshop.fp.views.MainActivity/onCreate:(Landroid/os/Bundle;)V: 40b746 -> 40b86e
+		com.mns.efamilyshop.fp.views.MainActivity/onCreate:(Landroid/os/Bundle;)V: b6 -> 1de
+addPatchReadme: java.lang.Class<com.mns.efamilyshop.fp.views.MainActivity>onCreate(Landroid/os/Bundle;)V b6 t
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample35@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Patch size: 1
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample35.apk@devRoot-D-R.apk.obfuscated_devRoot
+Wow!!!!!  --  com.mns.efamilyshop.fp.views.MainActivity/onCreate:(Landroid/os/Bundle;)V
+fallthrough: bc
+branchTarget: 1de
+label = sswitch_data_0
+GOTO -- bc 	1de
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample35.apk@devRoot-D-R.apk.obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample35.apk@devRoot-D-R.apk.obfuscated_devRoot/sample35.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample35.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample35.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: First address of Lcom/mns/efamilyshop/fp/views/MainActivity;->onCreate(Landroid/os/Bundle;)V = 40b6a0
+b29e6a69: Address - Lcom/mns/efamilyshop/fp/views/MainActivity;->onCreate(Landroid/os/Bundle;)V@b6	 lastOffset = 800
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample35.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample35.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample35@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Running Application: com.mns.efamilyshop.fp
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.mns.efamilyshop.fp
+Tryging remove : uninstall com.mns.efamilyshop.fp(com.mns.efamilyshop.fp)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 1266476
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 18
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+/home/santapark/Extended3/DEEPerence/reEx/sample35.apk@devRoot-D-R.apk.obfuscated.apk launch is failed on devRoot
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 40b746
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.app.AlertDialog$Builder/show:()Landroid/app/AlertDialog;:40836a		=(rels)=>		1
+[*] Unique action: 1:17878 : <<CALL>> : com.mns.efamilyshop.fp.views.MainActivity/tkGyKZEGVdEqcFEO:(Landroid/app/AlertDialog$Builder;)Landroid/app/AlertDialog;:40836a  =>  android.app.AlertDialog$Builder/show:()Landroid/app/AlertDialog;:19e3bc
+	1:compareBackwardBranch: 1:14086 : <<BRANCH>> : com.mns.efamilyshop.fp.views.MainActivity/onCreate:(Landroid/os/Bundle;)V:40b77a  =>  com.mns.efamilyshop.fp.views.MainActivity/onCreate:(Landroid/os/Bundle;)V:40bbb0
+android.app.AlertDialog$Builder/show:()Landroid/app/AlertDialog;:403f92		=(rels)=>		1
+[*] Unique action: 1:13998 : <<CALL>> : com.mns.efamilyshop.fp.views.MainActivity/bssmPBRqGQxCAXPl:(Landroid/app/AlertDialog$Builder;)Landroid/app/AlertDialog;:403f92  =>  android.app.AlertDialog$Builder/show:()Landroid/app/AlertDialog;:19e3bc
+	1:compareBackwardBranch: 1:14086 : <<BRANCH>> : com.mns.efamilyshop.fp.views.MainActivity/onCreate:(Landroid/os/Bundle;)V:40b77a  =>  com.mns.efamilyshop.fp.views.MainActivity/onCreate:(Landroid/os/Bundle;)V:40bbb0
+Entry: 40b690
+com.mns.efamilyshop.fp.views.MainActivity/onCreate:(Landroid/os/Bundle;)V: 40b77a -> 40bbb0
+		com.mns.efamilyshop.fp.views.MainActivity/onCreate:(Landroid/os/Bundle;)V: ea -> 520
+addPatchReadme: java.lang.Class<com.mns.efamilyshop.fp.views.MainActivity>onCreate(Landroid/os/Bundle;)V ea t
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample35@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Patch size: 1
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample35.apk@devRoot-D-R.apk.obfuscated_devRoot
+Wow!!!!!  --  com.mns.efamilyshop.fp.views.MainActivity/onCreate:(Landroid/os/Bundle;)V
+fallthrough: f0
+branchTarget: 520
+label = sswitch_data_1
+GOTO -- f0 	520
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample35.apk@devRoot-D-R.apk.obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample35.apk@devRoot-D-R.apk.obfuscated_devRoot/sample35.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample35.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample35.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: First address of Lcom/mns/efamilyshop/fp/views/MainActivity;->onCreate(Landroid/os/Bundle;)V = 40b6a0
+b29e6a69: Address - Lcom/mns/efamilyshop/fp/views/MainActivity;->onCreate(Landroid/os/Bundle;)V@ea	 lastOffset = 800
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample35.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample35.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample35@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Running Application: com.mns.efamilyshop.fp
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.mns.efamilyshop.fp
+Tryging remove : uninstall com.mns.efamilyshop.fp(com.mns.efamilyshop.fp)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 1266263
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 17
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+/home/santapark/Extended3/DEEPerence/reEx/sample35.apk@devRoot-D-R.apk.obfuscated.apk launch is failed on devRoot
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 40b746
+-- current localPatchFilter: 40b77a
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.app.AlertDialog$Builder/show:()Landroid/app/AlertDialog;:40836a		=(rels)=>		1
+[*] Unique action: 1:17878 : <<CALL>> : com.mns.efamilyshop.fp.views.MainActivity/tkGyKZEGVdEqcFEO:(Landroid/app/AlertDialog$Builder;)Landroid/app/AlertDialog;:40836a  =>  android.app.AlertDialog$Builder/show:()Landroid/app/AlertDialog;:19e3bc
+	1:compareBackwardBranch: 1:14083 : <<BRANCH>> : com.mns.efamilyshop.fp.views.MainActivity/onCreate:(Landroid/os/Bundle;)V:40b796  =>  com.mns.efamilyshop.fp.views.MainActivity/onCreate:(Landroid/os/Bundle;)V:40b79e
+android.app.AlertDialog$Builder/show:()Landroid/app/AlertDialog;:403f92		=(rels)=>		1
+[*] Unique action: 1:13998 : <<CALL>> : com.mns.efamilyshop.fp.views.MainActivity/bssmPBRqGQxCAXPl:(Landroid/app/AlertDialog$Builder;)Landroid/app/AlertDialog;:403f92  =>  android.app.AlertDialog$Builder/show:()Landroid/app/AlertDialog;:19e3bc
+	1:compareBackwardBranch: 1:14083 : <<BRANCH>> : com.mns.efamilyshop.fp.views.MainActivity/onCreate:(Landroid/os/Bundle;)V:40b796  =>  com.mns.efamilyshop.fp.views.MainActivity/onCreate:(Landroid/os/Bundle;)V:40b79e
+Entry: 40b690
+com.mns.efamilyshop.fp.views.MainActivity/onCreate:(Landroid/os/Bundle;)V: 40b796 -> 40b79e
+		com.mns.efamilyshop.fp.views.MainActivity/onCreate:(Landroid/os/Bundle;)V: 106 -> 10e
+addPatchReadme: java.lang.Class<com.mns.efamilyshop.fp.views.MainActivity>onCreate(Landroid/os/Bundle;)V 106 t
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample35@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Patch size: 1
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample35.apk@devRoot-D-R.apk.obfuscated_devRoot
+Wow!!!!!  --  com.mns.efamilyshop.fp.views.MainActivity/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 10c
+branchTarget: 10e
+label = sswitch_data_2
+GOTO -- 10c 	10e
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample35.apk@devRoot-D-R.apk.obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample35.apk@devRoot-D-R.apk.obfuscated_devRoot/sample35.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample35.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample35.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: First address of Lcom/mns/efamilyshop/fp/views/MainActivity;->onCreate(Landroid/os/Bundle;)V = 40b6a0
+b29e6a69: Address - Lcom/mns/efamilyshop/fp/views/MainActivity;->onCreate(Landroid/os/Bundle;)V@106	 lastOffset = 800
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample35.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample35.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample35@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Running Application: com.mns.efamilyshop.fp
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.mns.efamilyshop.fp
+Tryging remove : uninstall com.mns.efamilyshop.fp(com.mns.efamilyshop.fp)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 1261212
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 16
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+/home/santapark/Extended3/DEEPerence/reEx/sample35.apk@devRoot-D-R.apk.obfuscated.apk launch is failed on devRoot
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 40b746
+-- current localPatchFilter: 40b796
+-- current localPatchFilter: 40b77a
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.app.AlertDialog$Builder/show:()Landroid/app/AlertDialog;:40836a		=(rels)=>		1
+[*] Unique action: 1:17878 : <<CALL>> : com.mns.efamilyshop.fp.views.MainActivity/tkGyKZEGVdEqcFEO:(Landroid/app/AlertDialog$Builder;)Landroid/app/AlertDialog;:40836a  =>  android.app.AlertDialog$Builder/show:()Landroid/app/AlertDialog;:19e3bc
+	1:compareBackwardBranch: 1:14080 : <<BRANCH>> : com.mns.efamilyshop.fp.views.MainActivity/onCreate:(Landroid/os/Bundle;)V:40b7be  =>  com.mns.efamilyshop.fp.views.MainActivity/onCreate:(Landroid/os/Bundle;)V:40b7a4
+android.app.AlertDialog$Builder/show:()Landroid/app/AlertDialog;:403f92		=(rels)=>		1
+[*] Unique action: 1:13998 : <<CALL>> : com.mns.efamilyshop.fp.views.MainActivity/bssmPBRqGQxCAXPl:(Landroid/app/AlertDialog$Builder;)Landroid/app/AlertDialog;:403f92  =>  android.app.AlertDialog$Builder/show:()Landroid/app/AlertDialog;:19e3bc
+	1:compareBackwardBranch: 1:14080 : <<BRANCH>> : com.mns.efamilyshop.fp.views.MainActivity/onCreate:(Landroid/os/Bundle;)V:40b7be  =>  com.mns.efamilyshop.fp.views.MainActivity/onCreate:(Landroid/os/Bundle;)V:40b7a4
+Entry: 40b690
+com.mns.efamilyshop.fp.views.MainActivity/onCreate:(Landroid/os/Bundle;)V: 40b7be -> 40b7a4
+		com.mns.efamilyshop.fp.views.MainActivity/onCreate:(Landroid/os/Bundle;)V: 12e -> 114
+addPatchReadme: java.lang.Class<com.mns.efamilyshop.fp.views.MainActivity>onCreate(Landroid/os/Bundle;)V 12e t
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample35@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Patch size: 1
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample35.apk@devRoot-D-R.apk.obfuscated_devRoot
+Wow!!!!!  --  com.mns.efamilyshop.fp.views.MainActivity/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 134
+branchTarget: 114
+label = sswitch_data_3
+GOTO -- 134 	114
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample35.apk@devRoot-D-R.apk.obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample35.apk@devRoot-D-R.apk.obfuscated_devRoot/sample35.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample35.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample35.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: First address of Lcom/mns/efamilyshop/fp/views/MainActivity;->onCreate(Landroid/os/Bundle;)V = 40b6a0
+b29e6a69: Address - Lcom/mns/efamilyshop/fp/views/MainActivity;->onCreate(Landroid/os/Bundle;)V@12e	 lastOffset = 800
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample35.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample35.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample35@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Running Application: com.mns.efamilyshop.fp
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.mns.efamilyshop.fp
+Tryging remove : uninstall com.mns.efamilyshop.fp(com.mns.efamilyshop.fp)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 1267296
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 15
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+/home/santapark/Extended3/DEEPerence/reEx/sample35.apk@devRoot-D-R.apk.obfuscated.apk launch is failed on devRoot
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 40b746
+-- current localPatchFilter: 40b796
+-- current localPatchFilter: 40b77a
+-- current localPatchFilter: 40b7be
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.app.AlertDialog$Builder/show:()Landroid/app/AlertDialog;:40836a		=(rels)=>		1
+[*] Unique action: 1:17878 : <<CALL>> : com.mns.efamilyshop.fp.views.MainActivity/tkGyKZEGVdEqcFEO:(Landroid/app/AlertDialog$Builder;)Landroid/app/AlertDialog;:40836a  =>  android.app.AlertDialog$Builder/show:()Landroid/app/AlertDialog;:19e3bc
+	1:compareBackwardBranch: 1:14077 : <<BRANCH>> : com.mns.efamilyshop.fp.views.MainActivity/onCreate:(Landroid/os/Bundle;)V:40b7e6  =>  com.mns.efamilyshop.fp.views.MainActivity/onCreate:(Landroid/os/Bundle;)V:40b7cc
+android.app.AlertDialog$Builder/show:()Landroid/app/AlertDialog;:403f92		=(rels)=>		1
+[*] Unique action: 1:13998 : <<CALL>> : com.mns.efamilyshop.fp.views.MainActivity/bssmPBRqGQxCAXPl:(Landroid/app/AlertDialog$Builder;)Landroid/app/AlertDialog;:403f92  =>  android.app.AlertDialog$Builder/show:()Landroid/app/AlertDialog;:19e3bc
+	1:compareBackwardBranch: 1:14077 : <<BRANCH>> : com.mns.efamilyshop.fp.views.MainActivity/onCreate:(Landroid/os/Bundle;)V:40b7e6  =>  com.mns.efamilyshop.fp.views.MainActivity/onCreate:(Landroid/os/Bundle;)V:40b7cc
+Entry: 40b690
+com.mns.efamilyshop.fp.views.MainActivity/onCreate:(Landroid/os/Bundle;)V: 40b7e6 -> 40b7cc
+		com.mns.efamilyshop.fp.views.MainActivity/onCreate:(Landroid/os/Bundle;)V: 156 -> 13c
+addPatchReadme: java.lang.Class<com.mns.efamilyshop.fp.views.MainActivity>onCreate(Landroid/os/Bundle;)V 156 t
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample35@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Patch size: 1
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample35.apk@devRoot-D-R.apk.obfuscated_devRoot
+Wow!!!!!  --  com.mns.efamilyshop.fp.views.MainActivity/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 15c
+branchTarget: 13c
+label = sswitch_data_4
+GOTO -- 15c 	13c
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample35.apk@devRoot-D-R.apk.obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample35.apk@devRoot-D-R.apk.obfuscated_devRoot/sample35.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample35.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample35.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: First address of Lcom/mns/efamilyshop/fp/views/MainActivity;->onCreate(Landroid/os/Bundle;)V = 40b6a0
+b29e6a69: Address - Lcom/mns/efamilyshop/fp/views/MainActivity;->onCreate(Landroid/os/Bundle;)V@156	 lastOffset = 800
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample35.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample35.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample35@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Running Application: com.mns.efamilyshop.fp
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.mns.efamilyshop.fp
+Tryging remove : uninstall com.mns.efamilyshop.fp(com.mns.efamilyshop.fp)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 1262032
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 14
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+/home/santapark/Extended3/DEEPerence/reEx/sample35.apk@devRoot-D-R.apk.obfuscated.apk launch is failed on devRoot
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 40b746
+-- current localPatchFilter: 40b796
+-- current localPatchFilter: 40b7e6
+-- current localPatchFilter: 40b77a
+-- current localPatchFilter: 40b7be
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.app.AlertDialog$Builder/show:()Landroid/app/AlertDialog;:40836a		=(rels)=>		1
+[*] Unique action: 1:17878 : <<CALL>> : com.mns.efamilyshop.fp.views.MainActivity/tkGyKZEGVdEqcFEO:(Landroid/app/AlertDialog$Builder;)Landroid/app/AlertDialog;:40836a  =>  android.app.AlertDialog$Builder/show:()Landroid/app/AlertDialog;:19e3bc
+	1:compareBackwardBranch: 1:14074 : <<BRANCH>> : com.mns.efamilyshop.fp.views.MainActivity/onCreate:(Landroid/os/Bundle;)V:40b80e  =>  com.mns.efamilyshop.fp.views.MainActivity/onCreate:(Landroid/os/Bundle;)V:40b7f4
+android.app.AlertDialog$Builder/show:()Landroid/app/AlertDialog;:403f92		=(rels)=>		1
+[*] Unique action: 1:13998 : <<CALL>> : com.mns.efamilyshop.fp.views.MainActivity/bssmPBRqGQxCAXPl:(Landroid/app/AlertDialog$Builder;)Landroid/app/AlertDialog;:403f92  =>  android.app.AlertDialog$Builder/show:()Landroid/app/AlertDialog;:19e3bc
+	1:compareBackwardBranch: 1:14074 : <<BRANCH>> : com.mns.efamilyshop.fp.views.MainActivity/onCreate:(Landroid/os/Bundle;)V:40b80e  =>  com.mns.efamilyshop.fp.views.MainActivity/onCreate:(Landroid/os/Bundle;)V:40b7f4
+Entry: 40b690
+com.mns.efamilyshop.fp.views.MainActivity/onCreate:(Landroid/os/Bundle;)V: 40b80e -> 40b7f4
+		com.mns.efamilyshop.fp.views.MainActivity/onCreate:(Landroid/os/Bundle;)V: 17e -> 164
+addPatchReadme: java.lang.Class<com.mns.efamilyshop.fp.views.MainActivity>onCreate(Landroid/os/Bundle;)V 17e t
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample35@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Patch size: 1
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample35.apk@devRoot-D-R.apk.obfuscated_devRoot
+Wow!!!!!  --  com.mns.efamilyshop.fp.views.MainActivity/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 184
+branchTarget: 164
+label = sswitch_data_5
+GOTO -- 184 	164
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample35.apk@devRoot-D-R.apk.obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample35.apk@devRoot-D-R.apk.obfuscated_devRoot/sample35.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample35.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample35.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: First address of Lcom/mns/efamilyshop/fp/views/MainActivity;->onCreate(Landroid/os/Bundle;)V = 40b6a0
+b29e6a69: Address - Lcom/mns/efamilyshop/fp/views/MainActivity;->onCreate(Landroid/os/Bundle;)V@17e	 lastOffset = 800
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample35.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample35.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample35@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Running Application: com.mns.efamilyshop.fp
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.mns.efamilyshop.fp
+Tryging remove : uninstall com.mns.efamilyshop.fp(com.mns.efamilyshop.fp)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 1261212
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 13
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+/home/santapark/Extended3/DEEPerence/reEx/sample35.apk@devRoot-D-R.apk.obfuscated.apk launch is failed on devRoot
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 40b746
+-- current localPatchFilter: 40b796
+-- current localPatchFilter: 40b7e6
+-- current localPatchFilter: 40b77a
+-- current localPatchFilter: 40b7be
+-- current localPatchFilter: 40b80e
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.app.AlertDialog$Builder/show:()Landroid/app/AlertDialog;:40836a		=(rels)=>		1
+[*] Unique action: 1:17878 : <<CALL>> : com.mns.efamilyshop.fp.views.MainActivity/tkGyKZEGVdEqcFEO:(Landroid/app/AlertDialog$Builder;)Landroid/app/AlertDialog;:40836a  =>  android.app.AlertDialog$Builder/show:()Landroid/app/AlertDialog;:19e3bc
+	1:compareBackwardBranch: 1:14071 : <<BRANCH>> : com.mns.efamilyshop.fp.views.MainActivity/onCreate:(Landroid/os/Bundle;)V:40b81e  =>  com.mns.efamilyshop.fp.views.MainActivity/onCreate:(Landroid/os/Bundle;)V:40b828
+android.app.AlertDialog$Builder/show:()Landroid/app/AlertDialog;:403f92		=(rels)=>		1
+[*] Unique action: 1:13998 : <<CALL>> : com.mns.efamilyshop.fp.views.MainActivity/bssmPBRqGQxCAXPl:(Landroid/app/AlertDialog$Builder;)Landroid/app/AlertDialog;:403f92  =>  android.app.AlertDialog$Builder/show:()Landroid/app/AlertDialog;:19e3bc
+	1:compareBackwardBranch: 1:14071 : <<BRANCH>> : com.mns.efamilyshop.fp.views.MainActivity/onCreate:(Landroid/os/Bundle;)V:40b81e  =>  com.mns.efamilyshop.fp.views.MainActivity/onCreate:(Landroid/os/Bundle;)V:40b828
+Entry: 40b690
+com.mns.efamilyshop.fp.views.MainActivity/onCreate:(Landroid/os/Bundle;)V: 40b81e -> 40b828
+		com.mns.efamilyshop.fp.views.MainActivity/onCreate:(Landroid/os/Bundle;)V: 18e -> 198
+addPatchReadme: java.lang.Class<com.mns.efamilyshop.fp.views.MainActivity>onCreate(Landroid/os/Bundle;)V 18e t
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample35@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Patch size: 1
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample35.apk@devRoot-D-R.apk.obfuscated_devRoot
+Wow!!!!!  --  com.mns.efamilyshop.fp.views.MainActivity/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 192
+branchTarget: 198
+label = cond_0
+GOTO -- 192 	198
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample35.apk@devRoot-D-R.apk.obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample35.apk@devRoot-D-R.apk.obfuscated_devRoot/sample35.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample35.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample35.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: First address of Lcom/mns/efamilyshop/fp/views/MainActivity;->onCreate(Landroid/os/Bundle;)V = 40b6a0
+b29e6a69: Address - Lcom/mns/efamilyshop/fp/views/MainActivity;->onCreate(Landroid/os/Bundle;)V@18e	 lastOffset = 800
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample35.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample35.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample35@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Running Application: com.mns.efamilyshop.fp
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.mns.efamilyshop.fp/.views.MainActivity
+PIDs--------------------------------------------------------------------------
+u0_a3092      10205    429 14957484 170220 0                  0 S com.mns.efamilyshop.fp
+PIDs--------------------------------------------------------------------------
+u0_a3092      10205    429 14957484 170220 0                  0 S com.mns.efamilyshop.fp
+Stopping app: com.mns.efamilyshop.fp
+Tryging remove : uninstall com.mns.efamilyshop.fp(com.mns.efamilyshop.fp)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 7368155
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 12
+b29e6a69: isFailedToLaunch: com.mns.efamilyshop.fp/.views.MainActivity
+b29e6a69: 	--result: Good :)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample35@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample35@devRoot-D-R.obfuscated.ilog)
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 40b81e
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.app.AlertDialog$Builder/show:()Landroid/app/AlertDialog;:40836a		=(rels)=>		1
+[*] Unique action: 1:17878 : <<CALL>> : com.mns.efamilyshop.fp.views.MainActivity/tkGyKZEGVdEqcFEO:(Landroid/app/AlertDialog$Builder;)Landroid/app/AlertDialog;:40836a  =>  android.app.AlertDialog$Builder/show:()Landroid/app/AlertDialog;:19e3bc
+Action is completely same :)
+Entry: 3fabc4
+com.mns.efamilyshop.fp.f.c/c:()Z: 3fabd0 -> 3fac04
+		com.mns.efamilyshop.fp.f.c/c:()Z: c -> 40
+addPatchReadme: java.lang.Class<com.mns.efamilyshop.fp.f.c>c()Z c t
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample35@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Patch size: 1
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample35.apk@devRoot-D-R.apk.obfuscated_devRoot
+Wow!!!!!  --  com.mns.efamilyshop.fp.f.c/c:()Z
+fallthrough: 10
+branchTarget: 40
+label = cond_1
+GOTO -- 10 	40
+Wow!!!!!  --  com.mns.efamilyshop.fp.views.MainActivity/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 192
+branchTarget: 198
+label = cond_0
+GOTO -- 192 	198
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample35.apk@devRoot-D-R.apk.obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample35.apk@devRoot-D-R.apk.obfuscated_devRoot/sample35.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample35.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample35.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: First address of Lcom/mns/efamilyshop/fp/f/c;->c()Z = 3fabd4
+b29e6a69: Address - Lcom/mns/efamilyshop/fp/f/c;->c()Z@c	 lastOffset = a8
+b29e6a69: Instruction@@: IF_GE
+b29e6a69: First address of Lcom/mns/efamilyshop/fp/views/MainActivity;->onCreate(Landroid/os/Bundle;)V = 40b6a0
+b29e6a69: Address - Lcom/mns/efamilyshop/fp/views/MainActivity;->onCreate(Landroid/os/Bundle;)V@18e	 lastOffset = 800
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample35.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample35.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample35@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Running Application: com.mns.efamilyshop.fp
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.mns.efamilyshop.fp/.views.MainActivity
+PIDs--------------------------------------------------------------------------
+u0_a3093      10393    429 14964776 169804 0                  0 S com.mns.efamilyshop.fp
+PIDs--------------------------------------------------------------------------
+u0_a3093      10393    429 14964776 169804 0                  0 S com.mns.efamilyshop.fp
+Stopping app: com.mns.efamilyshop.fp
+Tryging remove : uninstall com.mns.efamilyshop.fp(com.mns.efamilyshop.fp)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 7412303
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 11
+b29e6a69: isFailedToLaunch: com.mns.efamilyshop.fp/.views.MainActivity
+b29e6a69: 	--result: Good :)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample35@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample35@devRoot-D-R.obfuscated.ilog)
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 40b81e
+-- current localPatchFilter: 3fabd0
+Action is completely same :)
+Action is completely same :)
+b29e6a69: There is no difference. (tryAgain=false)
+-- HPFinder will be done in this iteration :)
+hasAntiAnalysis? - devTamper: false on com.mns.efamilyshop.fp.views.MainActivity
+hasAntiAnalysis? - devRoot: true on com.mns.efamilyshop.fp.views.MainActivity
+	isRemovedThem? - devRoot: true on com.mns.efamilyshop.fp.views.MainActivity	-	tryCount: 8
+hasAntiAnalysis? - devDebug: false on com.mns.efamilyshop.fp.views.MainActivity
+*****REPORT: com.mns.efamilyshop.fp
+* Package name: com.mns.efamilyshop.fp
+* Running time: 361
+* FileSize: 4457026
+devTamper : 7417027
+devRef : 7416528
+devRoot : 7412303
+devDebug : 7417001
+hasAntiAnalysis? - devTamper: false on com.mns.efamilyshop.fp.views.MainActivity
+hasAntiAnalysis? - devRoot: true on com.mns.efamilyshop.fp.views.MainActivity
+	isRemovedThem? - devRoot: true on com.mns.efamilyshop.fp.views.MainActivity	-	tryCount: 8
+hasAntiAnalysis? - devDebug: false on com.mns.efamilyshop.fp.views.MainActivity
+46604b9f: trying remove : com.mns.efamilyshop.fp
+3601a6ff: trying remove : com.mns.efamilyshop.fp
+b29e6a69: trying remove : com.mns.efamilyshop.fp
+159ceeed: trying remove : com.mns.efamilyshop.fp
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+3601a6ff: result = true
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+46604b9f: result = true
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+159ceeed: result = true
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+b29e6a69: result = true
+3601a6ff: isFailedToLaunch: com.mns.efamilyshop.fp/.views.MainActivity
+3601a6ff: 	--result: Good :)

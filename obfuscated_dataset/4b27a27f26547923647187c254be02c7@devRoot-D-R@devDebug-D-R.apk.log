@@ -1,0 +1,1659 @@
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated/AndroidManifest.xml
+launchable-activity: name='hu.bitnet.tesco2.MainActivity'  label='' icon=''
+{ACTIVITY, hu.bitnet.tesco2.MainActivity, android.intent.action.MAIN, android.intent.action.VIEW}
+{ACTIVITY, hu.bitnet.tesco2.StartActivity}
+{ACTIVITY, hu.bitnet.tesco2.CategoryListActivity}
+{ACTIVITY, hu.bitnet.tesco2.ProductPageActivity}
+{ACTIVITY, hu.bitnet.tesco2.LoginActivity}
+{ACTIVITY, hu.bitnet.tesco2.LoginWebviewActivity}
+{ACTIVITY, hu.bitnet.tesco2.PickLocationActivity}
+{ACTIVITY, hu.bitnet.tesco2.OrdersActivity}
+{ACTIVITY, hu.bitnet.tesco2.OrderProductsActivity}
+{ACTIVITY, hu.bitnet.tesco2.AddressListActivity}
+{ACTIVITY, hu.bitnet.tesco2.SettingsActivity}
+{ACTIVITY, hu.bitnet.tesco2.AddressEditActivity}
+{ACTIVITY, hu.bitnet.tesco2.AddressOptionSelectActivity}
+{ACTIVITY, hu.bitnet.tesco2.LivePreviewActivity}
+{ACTIVITY, hu.bitnet.tesco2.ShopListActivity}
+{ACTIVITY, hu.bitnet.tesco2.ShopActivity}
+{ACTIVITY, hu.bitnet.tesco2.ShopDetailsActivity}
+{ACTIVITY, hu.bitnet.tesco2.ShopPromotionsActivity}
+{ACTIVITY, hu.bitnet.tesco2.GalleryActivity}
+{ACTIVITY, hu.bitnet.tesco2.ImageGalleryActivity}
+{ACTIVITY, hu.bitnet.tesco2.RecipeListActivity}
+{ACTIVITY, hu.bitnet.tesco2.RecipePageActivity}
+{ACTIVITY, hu.bitnet.tesco2.FilterActivity}
+{ACTIVITY, hu.bitnet.tesco2.TipsActivity}
+{ACTIVITY, hu.bitnet.tesco2.WebViewActivity, android.intent.action.VIEW}
+{ACTIVITY, hu.bitnet.tesco2.ShoppingListsActivity}
+{ACTIVITY, hu.bitnet.tesco2.ShoppingListActivity}
+{ACTIVITY, hu.bitnet.tesco2.UrlOpenerActivity, android.intent.action.VIEW}
+{ACTIVITY, hu.bitnet.tesco2.CouponListActivity}
+{ACTIVITY, hu.bitnet.tesco2.ZoneActivity}
+{ACTIVITY, hu.bitnet.tesco2.LockScreenActivity}
+{SERVICE, hu.bitnet.tesco2.NotificationService, com.google.firebase.MESSAGING_EVENT}
+{SERVICE, com.google.firebase.messaging.FirebaseMessagingService, com.google.firebase.MESSAGING_EVENT}
+{SERVICE, com.google.firebase.components.ComponentDiscoveryService}
+{SERVICE, com.google.android.gms.tagmanager.TagManagerService}
+{ACTIVITY, com.google.android.gms.tagmanager.TagManagerPreviewActivity, android.intent.action.VIEW}
+{RECEIVER, com.google.firebase.iid.FirebaseInstanceIdReceiver, com.google.android.c2dm.intent.RECEIVE}
+{RECEIVER, com.google.android.gms.measurement.AppMeasurementReceiver}
+{SERVICE, com.google.android.gms.measurement.AppMeasurementService}
+{SERVICE, com.google.android.gms.measurement.AppMeasurementJobService}
+{ACTIVITY, com.google.android.gms.common.api.GoogleApiActivity}
+{SERVICE, com.google.android.datatransport.runtime.backends.TransportBackendDiscovery}
+{SERVICE, com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService}
+{ACTIVITY, hu.bitnet.tesco2.MainActivity, android.intent.action.MAIN, android.intent.action.VIEW}
+{ACTIVITY, hu.bitnet.tesco2.StartActivity}
+{ACTIVITY, hu.bitnet.tesco2.CategoryListActivity}
+{ACTIVITY, hu.bitnet.tesco2.ProductPageActivity}
+{ACTIVITY, hu.bitnet.tesco2.LoginActivity}
+{ACTIVITY, hu.bitnet.tesco2.LoginWebviewActivity}
+{ACTIVITY, hu.bitnet.tesco2.PickLocationActivity}
+{ACTIVITY, hu.bitnet.tesco2.OrdersActivity}
+{ACTIVITY, hu.bitnet.tesco2.OrderProductsActivity}
+{ACTIVITY, hu.bitnet.tesco2.AddressListActivity}
+{ACTIVITY, hu.bitnet.tesco2.SettingsActivity}
+{ACTIVITY, hu.bitnet.tesco2.AddressEditActivity}
+{ACTIVITY, hu.bitnet.tesco2.AddressOptionSelectActivity}
+{ACTIVITY, hu.bitnet.tesco2.LivePreviewActivity}
+{ACTIVITY, hu.bitnet.tesco2.ShopListActivity}
+{ACTIVITY, hu.bitnet.tesco2.ShopActivity}
+{ACTIVITY, hu.bitnet.tesco2.ShopDetailsActivity}
+{ACTIVITY, hu.bitnet.tesco2.ShopPromotionsActivity}
+{ACTIVITY, hu.bitnet.tesco2.GalleryActivity}
+{ACTIVITY, hu.bitnet.tesco2.ImageGalleryActivity}
+{ACTIVITY, hu.bitnet.tesco2.RecipeListActivity}
+{ACTIVITY, hu.bitnet.tesco2.RecipePageActivity}
+{ACTIVITY, hu.bitnet.tesco2.FilterActivity}
+{ACTIVITY, hu.bitnet.tesco2.TipsActivity}
+{ACTIVITY, hu.bitnet.tesco2.WebViewActivity, android.intent.action.VIEW}
+{ACTIVITY, hu.bitnet.tesco2.ShoppingListsActivity}
+{ACTIVITY, hu.bitnet.tesco2.ShoppingListActivity}
+{ACTIVITY, hu.bitnet.tesco2.UrlOpenerActivity, android.intent.action.VIEW}
+{ACTIVITY, hu.bitnet.tesco2.CouponListActivity}
+{ACTIVITY, hu.bitnet.tesco2.ZoneActivity}
+{ACTIVITY, hu.bitnet.tesco2.LockScreenActivity}
+{SERVICE, hu.bitnet.tesco2.NotificationService, com.google.firebase.MESSAGING_EVENT}
+{SERVICE, com.google.firebase.messaging.FirebaseMessagingService, com.google.firebase.MESSAGING_EVENT}
+{SERVICE, com.google.firebase.components.ComponentDiscoveryService}
+{SERVICE, com.google.android.gms.tagmanager.TagManagerService}
+{ACTIVITY, com.google.android.gms.tagmanager.TagManagerPreviewActivity, android.intent.action.VIEW}
+{RECEIVER, com.google.firebase.iid.FirebaseInstanceIdReceiver, com.google.android.c2dm.intent.RECEIVE}
+{RECEIVER, com.google.android.gms.measurement.AppMeasurementReceiver}
+{SERVICE, com.google.android.gms.measurement.AppMeasurementService}
+{SERVICE, com.google.android.gms.measurement.AppMeasurementJobService}
+{ACTIVITY, com.google.android.gms.common.api.GoogleApiActivity}
+{SERVICE, com.google.android.datatransport.runtime.backends.TransportBackendDiscovery}
+{SERVICE, com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService}
+_getAllDexFiles: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated/classes2.dex
+_getAllDexFiles: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated/classes.dex
+----------------/home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated.apk
+dexFile = org.jf.dexlib2.dexbacked.DexBackedDexFile@18230356
+cz.anywhere.itesco
+hu.bitnet.tesco2.MainActivity
+debuggable: true
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated.apk
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated.apk
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_46604b9f/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_46604b9f/signed_obfuscated.apk
+3601a6ff: Installation Success
+159ceeed: Installation Success
+b29e6a69: Installation Success
+46604b9f: Installing repackaged apk File: 
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_46604b9f/signed_signed_obfuscated.apk
+46604b9f: Installation Success
+46604b9f: startApplication called! - devTamper
+3601a6ff: startApplication called! - devRef
+b29e6a69: startApplication called! - devRoot
+159ceeed: startApplication called! - devDebug
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_signed_obfuscated.ilog)
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_signed_obfuscated.ilog)
+3601a6ff: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRef_signed_obfuscated.ilog)
+46604b9f: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devTamper_signed_obfuscated.ilog)
+b29e6a69: Running Application: cz.anywhere.itesco
+46604b9f: Running Application: cz.anywhere.itesco
+3601a6ff: Running Application: cz.anywhere.itesco
+PIDs--------------------------------------------------------------------------
+u0_a356       10593    425 14147048 107444 0                  0 S cz.anywhere.itesco
+forward tcp:5005 jdwp:10593
+[*]Found JDWP Target: 10593
+159ceeed: Running Application: cz.anywhere.itesco
+46604b9f: Top-activity: cz.anywhere.itesco/hu.bitnet.tesco2.MainActivity
+3601a6ff: Top-activity: cz.anywhere.itesco/hu.bitnet.tesco2.MainActivity
+PIDs--------------------------------------------------------------------------
+u0_a1088      24676    429 14550360 196500 0                  0 S cz.anywhere.itesco
+46604b9f: Terminated logcat thread...by itself
+PIDs--------------------------------------------------------------------------
+u0_a216       28225    421 14638516 200408 0                  0 S cz.anywhere.itesco
+3601a6ff: Terminated logcat thread...by itself
+PIDs--------------------------------------------------------------------------
+u0_a1088      24676    429 14550360 196516 0                  0 S cz.anywhere.itesco
+Stopping app: cz.anywhere.itesco
+PIDs--------------------------------------------------------------------------
+u0_a216       28225    421 14638516 200408 0                  0 S cz.anywhere.itesco
+Stopping app: cz.anywhere.itesco
+b29e6a69: Top-activity: cz.anywhere.itesco/hu.bitnet.tesco2.MainActivity
+PIDs--------------------------------------------------------------------------
+u0_a3566      10416    430 14517592 192480 0                  0 S cz.anywhere.itesco
+b29e6a69: Terminated logcat thread...by itself
+PIDs--------------------------------------------------------------------------
+u0_a3566      10416    430 14517592 192480 0                  0 S cz.anywhere.itesco
+Stopping app: cz.anywhere.itesco
+159ceeed: Top-activity: cz.anywhere.itesco/hu.bitnet.tesco2.MainActivity
+PIDs--------------------------------------------------------------------------
+u0_a356       10593    425 14657400 195592 0                  0 S cz.anywhere.itesco
+159ceeed: Terminated logcat thread...by itself
+PIDs--------------------------------------------------------------------------
+u0_a356       10593    425 14657400 195592 0                  0 S cz.anywhere.itesco
+Stopping app: cz.anywhere.itesco
+Tryging remove : uninstall cz.anywhere.itesco(cz.anywhere.itesco)
+3601a6ff: Remove Success
+3601a6ff: ilog file size: 369993680
+3601a6ff: End of collecting logcat...
+Tryging remove : uninstall cz.anywhere.itesco(cz.anywhere.itesco)
+46604b9f: Remove Success
+46604b9f: ilog file size: 283073973
+46604b9f: End of collecting logcat...
+Tryging remove : uninstall cz.anywhere.itesco(cz.anywhere.itesco)
+159ceeed: Remove Success
+159ceeed: ilog file size: 338374829
+159ceeed: End of collecting logcat...
+Tryging remove : uninstall cz.anywhere.itesco(cz.anywhere.itesco)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 258979903
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 29
+46604b9f: isFailedToLaunch: cz.anywhere.itesco/hu.bitnet.tesco2.MainActivity
+46604b9f: 	--result: Good :)
+b29e6a69: isFailedToLaunch: cz.anywhere.itesco/hu.bitnet.tesco2.MainActivity
+b29e6a69: 	--result: Good :)
+159ceeed: isFailedToLaunch: cz.anywhere.itesco/hu.bitnet.tesco2.MainActivity
+159ceeed: 	--result: Good :)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_signed_obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_signed_obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_signed_obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_signed_obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devTamper_signed_obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_signed_obfuscated.ilog)
+[*] FlowManager: adjust finished.
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.app.Dialog/show:()V:7c68bc		=(rels)=>		1
+[*] Unique action: 1:469204 : <<CALL>> : hu.bitnet.qlib.QUI$Message/<init>:(Landroid/content/Context;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V:7c68bc  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:453295 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:19f896  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a04e2
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:424ff6		=(rels)=>		1
+[*] Unique action: 1:503814 : <<CALL>> : androidx.appcompat.app.AlertController/setupButtons:(Landroid/view/ViewGroup;)V:424ff6  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:453295 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:19f896  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a04e2
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:425044		=(rels)=>		1
+[*] Unique action: 1:503859 : <<CALL>> : androidx.appcompat.app.AlertController/setupButtons:(Landroid/view/ViewGroup;)V:425044  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:453295 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:19f896  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a04e2
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:424fc4		=(rels)=>		1
+[*] Unique action: 1:503800 : <<CALL>> : androidx.appcompat.app.AlertController/setupButtons:(Landroid/view/ViewGroup;)V:424fc4  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+[*] FlowManager: adjust finished.
+Action is completely same :)
+Action is completely same :)
+46604b9f: There is no difference. (tryAgain=false)
+	1:compareBackwardBranch: 1:453295 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:19f896  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a04e2
+java.net.URL/openConnection:()Ljava/net/URLConnection;:7c3cca		=(rels)=>		4
+[*] Unique action: 24:454330 : <<CALL>> : hu.bitnet.qlib.QHttp/doRequest:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/io/File;Ljavax/net/ssl/SSLContext;)Lhu/bitnet/qlib/QHttp$Response;:7c3cca  =>  java.net.URL/openConnection:()Ljava/net/URLConnection;:12417c
+[*] Unique action: 24:454330 : <<CALL>> : hu.bitnet.qlib.QHttp/doRequest:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/io/File;Ljavax/net/ssl/SSLContext;)Lhu/bitnet/qlib/QHttp$Response;:7c3cca  =>  java.net.URL/openConnection:()Ljava/net/URLConnection;:12417c
+[*] Unique action: 24:454330 : <<CALL>> : hu.bitnet.qlib.QHttp/doRequest:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/io/File;Ljavax/net/ssl/SSLContext;)Lhu/bitnet/qlib/QHttp$Response;:7c3cca  =>  java.net.URL/openConnection:()Ljava/net/URLConnection;:12417c
+[*] Unique action: 24:454330 : <<CALL>> : hu.bitnet.qlib.QHttp/doRequest:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/io/File;Ljavax/net/ssl/SSLContext;)Lhu/bitnet/qlib/QHttp$Response;:7c3cca  =>  java.net.URL/openConnection:()Ljava/net/URLConnection;:12417c
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:424f3a		=(rels)=>		1
+[*] Unique action: 1:503641 : <<CALL>> : androidx.appcompat.app.AlertController/setupButtons:(Landroid/view/ViewGroup;)V:424f3a  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+[*] FlowManager: adjust finished.
+	1:compareBackwardBranch: 1:453295 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:19f896  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a04e2
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:424f78		=(rels)=>		1
+[*] Unique action: 1:503709 : <<CALL>> : androidx.appcompat.app.AlertController/setupButtons:(Landroid/view/ViewGroup;)V:424f78  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+[GOOD]: Anti-analysis is identified! :) -- 1 --devDebug
+android.app.Dialog/show:()V:7c68bc		=(rels)=>		1
+[*] Unique action: 1:469204 : <<CALL>> : hu.bitnet.qlib.QUI$Message/<init>:(Landroid/content/Context;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V:7c68bc  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:453295 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:19f896  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a04e2
+android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:4a9af0		=(rels)=>		1
+[*] Unique action: 1:487582 : <<CALL>> : androidx.core.widget.NestedScrollView/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:4a9af0  =>  android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:1959fc
+	1:compareBackwardBranch: 1:453295 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:19f896  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a04e2
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:424ff6		=(rels)=>		1
+[*] Unique action: 1:503814 : <<CALL>> : androidx.appcompat.app.AlertController/setupButtons:(Landroid/view/ViewGroup;)V:424ff6  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:453295 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:19f896  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a04e2
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:4a9b24		=(rels)=>		1
+[*] Unique action: 1:487570 : <<CALL>> : androidx.core.widget.NestedScrollView/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:4a9b24  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+	1:compareBackwardBranch: 1:453295 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:19f896  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a04e2
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:425044		=(rels)=>		1
+[*] Unique action: 1:503859 : <<CALL>> : androidx.appcompat.app.AlertController/setupButtons:(Landroid/view/ViewGroup;)V:425044  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:453295 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:19f896  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a04e2
+android.app.Dialog/show:()V:4c01e0		=(rels)=>		1
+[*] Unique action: 1:109046 : <<CALL>> : androidx.fragment.app.DialogFragment/onStart:()V:4c01e0  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:453295 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:19f896  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a04e2
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:424fc4		=(rels)=>		1
+[*] Unique action: 1:503800 : <<CALL>> : androidx.appcompat.app.AlertController/setupButtons:(Landroid/view/ViewGroup;)V:424fc4  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:453295 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:19f896  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a04e2
+Entry: 6696a8
+com.google.android.gms.internal.measurement.zzdb/zza:(Landroid/content/Context;)Lcom/google/android/gms/internal/measurement/zzdx;: 6696ce -> 6696d2
+		com.google.android.gms.internal.measurement.zzdb/zza:(Landroid/content/Context;)Lcom/google/android/gms/internal/measurement/zzdx;: 26 -> 2a
+addPatchReadme: java.lang.Class<com.google.android.gms.internal.measurement.zzdb>zza(Landroid/content/Context;)Lcom/google/android/gms/internal/measurement/zzdx; 26 f
+Entry: 19f83c
+hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V: 19f896 -> 1a04e2
+		hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V: 5a -> ca6
+addPatchReadme: java.lang.Class<hu.bitnet.tesco2.MainActivity>onCreate(Landroid/os/Bundle;)V 5a t
+b29e6a69: [+] Patches found in this round: 2
+b29e6a69: [*] Found Patch size: 1
+	1:compareBackwardBranch: 1:453295 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:19f896  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a04e2
+java.net.URL/openConnection:()Ljava/net/URLConnection;:7c3cca		=(rels)=>		4
+[*] Unique action: 24:454330 : <<CALL>> : hu.bitnet.qlib.QHttp/doRequest:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/io/File;Ljavax/net/ssl/SSLContext;)Lhu/bitnet/qlib/QHttp$Response;:7c3cca  =>  java.net.URL/openConnection:()Ljava/net/URLConnection;:12417c
+[*] Unique action: 24:454330 : <<CALL>> : hu.bitnet.qlib.QHttp/doRequest:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/io/File;Ljavax/net/ssl/SSLContext;)Lhu/bitnet/qlib/QHttp$Response;:7c3cca  =>  java.net.URL/openConnection:()Ljava/net/URLConnection;:12417c
+[*] Unique action: 24:454330 : <<CALL>> : hu.bitnet.qlib.QHttp/doRequest:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/io/File;Ljavax/net/ssl/SSLContext;)Lhu/bitnet/qlib/QHttp$Response;:7c3cca  =>  java.net.URL/openConnection:()Ljava/net/URLConnection;:12417c
+[*] Unique action: 24:454330 : <<CALL>> : hu.bitnet.qlib.QHttp/doRequest:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/io/File;Ljavax/net/ssl/SSLContext;)Lhu/bitnet/qlib/QHttp$Response;:7c3cca  =>  java.net.URL/openConnection:()Ljava/net/URLConnection;:12417c
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:424f3a		=(rels)=>		1
+[*] Unique action: 1:503641 : <<CALL>> : androidx.appcompat.app.AlertController/setupButtons:(Landroid/view/ViewGroup;)V:424f3a  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:453295 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:19f896  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a04e2
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:424f78		=(rels)=>		1
+[*] Unique action: 1:503709 : <<CALL>> : androidx.appcompat.app.AlertController/setupButtons:(Landroid/view/ViewGroup;)V:424f78  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_signed_obfuscated.ilog)
+b29e6a69: Querying offset: 19f896
+b29e6a69: 	--Add method name to patch = hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V 	19f896
+	1:compareBackwardBranch: 1:453295 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:19f896  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a04e2
+android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:4a9af0		=(rels)=>		1
+[*] Unique action: 1:487582 : <<CALL>> : androidx.core.widget.NestedScrollView/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:4a9af0  =>  android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:1959fc
+	1:compareBackwardBranch: 1:453295 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:19f896  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a04e2
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:4a9b24		=(rels)=>		1
+[*] Unique action: 1:487570 : <<CALL>> : androidx.core.widget.NestedScrollView/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:4a9b24  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+	1:compareBackwardBranch: 1:453295 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:19f896  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a04e2
+android.app.Dialog/show:()V:4c01e0		=(rels)=>		1
+[*] Unique action: 1:311859 : <<CALL>> : androidx.fragment.app.DialogFragment/onStart:()V:4c01e0  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:453295 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:19f896  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a04e2
+Entry: 19ba78
+hu.bitnet.tesco2.MainActivity/GavGYMlRuDmWoVjC:(Lhu/bitnet/tesco2/MainActivity;)Landroid/content/res/Resources;: 19bab0 -> 19bab8
+		hu.bitnet.tesco2.MainActivity/GavGYMlRuDmWoVjC:(Lhu/bitnet/tesco2/MainActivity;)Landroid/content/res/Resources;: 38 -> 40
+addPatchReadme: java.lang.Class<hu.bitnet.tesco2.MainActivity>GavGYMlRuDmWoVjC(Lhu/bitnet/tesco2/MainActivity;)Landroid/content/res/Resources; 38 t
+Entry: 19f83c
+hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V: 19f896 -> 1a04e2
+		hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V: 5a -> ca6
+addPatchReadme: java.lang.Class<hu.bitnet.tesco2.MainActivity>onCreate(Landroid/os/Bundle;)V 5a t
+159ceeed: [+] Patches found in this round: 2
+159ceeed: [*] Found Patch size: 1
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_signed_obfuscated.ilog)
+159ceeed: Querying offset: 19f896
+159ceeed: 	--Add method name to patch = hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V 	19f896
+Devices presenting anti-analysis: 
+	devRoot
+	devDebug
+b29e6a69: patching method: hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devRoot
+Wow!!!!!  --  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 60
+branchTarget: ca6
+label = sswitch_data_0
+GOTO -- 60 	ca6
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devRoot/signed_obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devRoot/signed_signed_obfuscated.apk
+b29e6a69: First address of Lhu/bitnet/tesco2/MainActivity;->onCreate(Landroid/os/Bundle;)V = 19f84c
+b29e6a69: Address - Lhu/bitnet/tesco2/MainActivity;->onCreate(Landroid/os/Bundle;)V@5a	 lastOffset = 1458
+b29e6a69: Instruction@@: SPARSE_SWITCH
+159ceeed: patching method: hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V
+159ceeed: outDir - /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devDebug
+Wow!!!!!  --  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 60
+branchTarget: ca6
+label = sswitch_data_0
+GOTO -- 60 	ca6
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devDebug/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devDebug/signed_obfuscated.apk
+159ceeed: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devDebug/signed_signed_obfuscated.apk
+159ceeed: First address of Lhu/bitnet/tesco2/MainActivity;->onCreate(Landroid/os/Bundle;)V = 19f84c
+159ceeed: Address - Lhu/bitnet/tesco2/MainActivity;->onCreate(Landroid/os/Bundle;)V@5a	 lastOffset = 1458
+159ceeed: Instruction@@: SPARSE_SWITCH
+159ceeed: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devDebug/signed_signed_obfuscated.apk
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devRoot/signed_signed_obfuscated.apk
+159ceeed: Installation Success
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+159ceeed: startApplication called! - devDebug
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_signed_obfuscated.ilog)
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_signed_obfuscated.ilog)
+b29e6a69: Running Application: cz.anywhere.itesco
+PIDs--------------------------------------------------------------------------
+u0_a357       10983    425 14165564 108876 0                  0 R cz.anywhere.itesco
+forward tcp:5005 jdwp:10983
+[*]Found JDWP Target: 10983
+159ceeed: Running Application: cz.anywhere.itesco
+159ceeed: Running is done - starting comparing... : 5001
+159ceeed: Terminated logcat thread...by itself
+159ceeed: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: cz.anywhere.itesco
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+Tryging remove : uninstall cz.anywhere.itesco(cz.anywhere.itesco)
+159ceeed: Remove Success
+159ceeed: ilog file size: 19008242
+159ceeed: End of collecting logcat...
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: cz.anywhere.itesco
+Tryging remove : uninstall cz.anywhere.itesco(cz.anywhere.itesco)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 23772111
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 28
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+b29e6a69: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated.apk launch is failed on devRoot
+159ceeed: isFailedToLaunch: com.android.launcher3/.Launcher
+159ceeed: 	--result: Failed :( (1)
+159ceeed: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated.apk launch is failed on devDebug
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 19f896
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.app.Dialog/show:()V:7c68bc		=(rels)=>		1
+[*] Unique action: 1:469204 : <<CALL>> : hu.bitnet.qlib.QUI$Message/<init>:(Landroid/content/Context;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V:7c68bc  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:453288 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a037c  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a0548
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:424ff6		=(rels)=>		1
+[*] Unique action: 1:503814 : <<CALL>> : androidx.appcompat.app.AlertController/setupButtons:(Landroid/view/ViewGroup;)V:424ff6  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:453288 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a037c  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a0548
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:425044		=(rels)=>		1
+[*] Unique action: 1:503859 : <<CALL>> : androidx.appcompat.app.AlertController/setupButtons:(Landroid/view/ViewGroup;)V:425044  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:453288 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a037c  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a0548
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:424fc4		=(rels)=>		1
+[*] Unique action: 1:503800 : <<CALL>> : androidx.appcompat.app.AlertController/setupButtons:(Landroid/view/ViewGroup;)V:424fc4  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:453288 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a037c  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a0548
+java.net.URL/openConnection:()Ljava/net/URLConnection;:7c3cca		=(rels)=>		4
+[*] Unique action: 24:454330 : <<CALL>> : hu.bitnet.qlib.QHttp/doRequest:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/io/File;Ljavax/net/ssl/SSLContext;)Lhu/bitnet/qlib/QHttp$Response;:7c3cca  =>  java.net.URL/openConnection:()Ljava/net/URLConnection;:12417c
+[*] Unique action: 24:454330 : <<CALL>> : hu.bitnet.qlib.QHttp/doRequest:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/io/File;Ljavax/net/ssl/SSLContext;)Lhu/bitnet/qlib/QHttp$Response;:7c3cca  =>  java.net.URL/openConnection:()Ljava/net/URLConnection;:12417c
+[*] Unique action: 24:454330 : <<CALL>> : hu.bitnet.qlib.QHttp/doRequest:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/io/File;Ljavax/net/ssl/SSLContext;)Lhu/bitnet/qlib/QHttp$Response;:7c3cca  =>  java.net.URL/openConnection:()Ljava/net/URLConnection;:12417c
+[*] Unique action: 24:454330 : <<CALL>> : hu.bitnet.qlib.QHttp/doRequest:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/io/File;Ljavax/net/ssl/SSLContext;)Lhu/bitnet/qlib/QHttp$Response;:7c3cca  =>  java.net.URL/openConnection:()Ljava/net/URLConnection;:12417c
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:424f3a		=(rels)=>		1
+[*] Unique action: 1:503641 : <<CALL>> : androidx.appcompat.app.AlertController/setupButtons:(Landroid/view/ViewGroup;)V:424f3a  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 19f896
+[GOOD]: Anti-analysis is identified! :) -- 1 --devDebug
+android.app.Dialog/show:()V:7c68bc		=(rels)=>		1
+[*] Unique action: 1:469204 : <<CALL>> : hu.bitnet.qlib.QUI$Message/<init>:(Landroid/content/Context;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V:7c68bc  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:453288 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a037c  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a0548
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:424f78		=(rels)=>		1
+[*] Unique action: 1:503709 : <<CALL>> : androidx.appcompat.app.AlertController/setupButtons:(Landroid/view/ViewGroup;)V:424f78  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:453288 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a037c  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a0548
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:424ff6		=(rels)=>		1
+[*] Unique action: 1:503814 : <<CALL>> : androidx.appcompat.app.AlertController/setupButtons:(Landroid/view/ViewGroup;)V:424ff6  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:453288 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a037c  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a0548
+android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:4a9af0		=(rels)=>		1
+[*] Unique action: 1:487582 : <<CALL>> : androidx.core.widget.NestedScrollView/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:4a9af0  =>  android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:1959fc
+	1:compareBackwardBranch: 1:453288 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a037c  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a0548
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:425044		=(rels)=>		1
+[*] Unique action: 1:503859 : <<CALL>> : androidx.appcompat.app.AlertController/setupButtons:(Landroid/view/ViewGroup;)V:425044  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:453288 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a037c  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a0548
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:4a9b24		=(rels)=>		1
+[*] Unique action: 1:487570 : <<CALL>> : androidx.core.widget.NestedScrollView/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:4a9b24  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+	1:compareBackwardBranch: 1:453288 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a037c  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a0548
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:424fc4		=(rels)=>		1
+[*] Unique action: 1:503800 : <<CALL>> : androidx.appcompat.app.AlertController/setupButtons:(Landroid/view/ViewGroup;)V:424fc4  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:453288 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a037c  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a0548
+android.app.Dialog/show:()V:4c01e0		=(rels)=>		1
+[*] Unique action: 1:109046 : <<CALL>> : androidx.fragment.app.DialogFragment/onStart:()V:4c01e0  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:453288 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a037c  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a0548
+java.net.URL/openConnection:()Ljava/net/URLConnection;:7c3cca		=(rels)=>		4
+[*] Unique action: 24:454330 : <<CALL>> : hu.bitnet.qlib.QHttp/doRequest:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/io/File;Ljavax/net/ssl/SSLContext;)Lhu/bitnet/qlib/QHttp$Response;:7c3cca  =>  java.net.URL/openConnection:()Ljava/net/URLConnection;:12417c
+	1:compareBackwardBranch: 1:453288 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a037c  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a0548
+Entry: 6696a8
+com.google.android.gms.internal.measurement.zzdb/zza:(Landroid/content/Context;)Lcom/google/android/gms/internal/measurement/zzdx;: 6696ce -> 6696d2
+		com.google.android.gms.internal.measurement.zzdb/zza:(Landroid/content/Context;)Lcom/google/android/gms/internal/measurement/zzdx;: 26 -> 2a
+addPatchReadme: java.lang.Class<com.google.android.gms.internal.measurement.zzdb>zza(Landroid/content/Context;)Lcom/google/android/gms/internal/measurement/zzdx; 26 f
+Entry: 19f83c
+hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V: 1a037c -> 1a0548
+		hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V: b40 -> d0c
+addPatchReadme: java.lang.Class<hu.bitnet.tesco2.MainActivity>onCreate(Landroid/os/Bundle;)V b40 t
+b29e6a69: [+] Patches found in this round: 2
+b29e6a69: [*] Found Patch size: 1
+[*] Unique action: 24:454330 : <<CALL>> : hu.bitnet.qlib.QHttp/doRequest:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/io/File;Ljavax/net/ssl/SSLContext;)Lhu/bitnet/qlib/QHttp$Response;:7c3cca  =>  java.net.URL/openConnection:()Ljava/net/URLConnection;:12417c
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_signed_obfuscated.ilog)
+b29e6a69: Querying offset: 1a037c
+b29e6a69: 	--Add method name to patch = hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V 	1a037c
+[*] Unique action: 24:454330 : <<CALL>> : hu.bitnet.qlib.QHttp/doRequest:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/io/File;Ljavax/net/ssl/SSLContext;)Lhu/bitnet/qlib/QHttp$Response;:7c3cca  =>  java.net.URL/openConnection:()Ljava/net/URLConnection;:12417c
+[*] Unique action: 24:454330 : <<CALL>> : hu.bitnet.qlib.QHttp/doRequest:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/io/File;Ljavax/net/ssl/SSLContext;)Lhu/bitnet/qlib/QHttp$Response;:7c3cca  =>  java.net.URL/openConnection:()Ljava/net/URLConnection;:12417c
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:424f3a		=(rels)=>		1
+[*] Unique action: 1:503641 : <<CALL>> : androidx.appcompat.app.AlertController/setupButtons:(Landroid/view/ViewGroup;)V:424f3a  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:453288 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a037c  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a0548
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:424f78		=(rels)=>		1
+[*] Unique action: 1:503709 : <<CALL>> : androidx.appcompat.app.AlertController/setupButtons:(Landroid/view/ViewGroup;)V:424f78  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:453288 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a037c  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a0548
+android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:4a9af0		=(rels)=>		1
+[*] Unique action: 1:487582 : <<CALL>> : androidx.core.widget.NestedScrollView/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:4a9af0  =>  android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:1959fc
+	1:compareBackwardBranch: 1:453288 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a037c  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a0548
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:4a9b24		=(rels)=>		1
+[*] Unique action: 1:487570 : <<CALL>> : androidx.core.widget.NestedScrollView/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:4a9b24  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+	1:compareBackwardBranch: 1:453288 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a037c  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a0548
+android.app.Dialog/show:()V:4c01e0		=(rels)=>		1
+[*] Unique action: 1:311859 : <<CALL>> : androidx.fragment.app.DialogFragment/onStart:()V:4c01e0  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:453288 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a037c  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a0548
+Entry: 19ba78
+hu.bitnet.tesco2.MainActivity/GavGYMlRuDmWoVjC:(Lhu/bitnet/tesco2/MainActivity;)Landroid/content/res/Resources;: 19bab0 -> 19bab8
+		hu.bitnet.tesco2.MainActivity/GavGYMlRuDmWoVjC:(Lhu/bitnet/tesco2/MainActivity;)Landroid/content/res/Resources;: 38 -> 40
+addPatchReadme: java.lang.Class<hu.bitnet.tesco2.MainActivity>GavGYMlRuDmWoVjC(Lhu/bitnet/tesco2/MainActivity;)Landroid/content/res/Resources; 38 t
+Entry: 19f83c
+hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V: 1a037c -> 1a0548
+		hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V: b40 -> d0c
+addPatchReadme: java.lang.Class<hu.bitnet.tesco2.MainActivity>onCreate(Landroid/os/Bundle;)V b40 t
+159ceeed: [+] Patches found in this round: 2
+159ceeed: [*] Found Patch size: 1
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_signed_obfuscated.ilog)
+159ceeed: Querying offset: 1a037c
+159ceeed: 	--Add method name to patch = hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V 	1a037c
+Devices presenting anti-analysis: 
+	devRoot
+	devDebug
+b29e6a69: patching method: hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devRoot
+Wow!!!!!  --  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V
+fallthrough: b46
+branchTarget: d0c
+label = sswitch_data_34
+GOTO -- b46 	d0c
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devRoot/signed_obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devRoot/signed_signed_obfuscated.apk
+b29e6a69: First address of Lhu/bitnet/tesco2/MainActivity;->onCreate(Landroid/os/Bundle;)V = 19f84c
+b29e6a69: Address - Lhu/bitnet/tesco2/MainActivity;->onCreate(Landroid/os/Bundle;)V@b40	 lastOffset = 1458
+b29e6a69: Instruction@@: SPARSE_SWITCH
+159ceeed: patching method: com.google.android.gms.internal.measurement.zzdb/zza:(Landroid/content/Context;)Lcom/google/android/gms/internal/measurement/zzdx;
+159ceeed: patching method: hu.bitnet.tesco2.MainActivity/GavGYMlRuDmWoVjC:(Lhu/bitnet/tesco2/MainActivity;)Landroid/content/res/Resources;
+159ceeed: patching method: hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V
+159ceeed: outDir - /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devDebug
+Wow!!!!!  --  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V
+fallthrough: b46
+branchTarget: d0c
+label = sswitch_data_34
+GOTO -- b46 	d0c
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devDebug/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devDebug/signed_obfuscated.apk
+159ceeed: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devDebug/signed_signed_obfuscated.apk
+159ceeed: First address of Lhu/bitnet/tesco2/MainActivity;->onCreate(Landroid/os/Bundle;)V = 19f84c
+159ceeed: Address - Lhu/bitnet/tesco2/MainActivity;->onCreate(Landroid/os/Bundle;)V@b40	 lastOffset = 1458
+159ceeed: Instruction@@: SPARSE_SWITCH
+159ceeed: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devDebug/signed_signed_obfuscated.apk
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devRoot/signed_signed_obfuscated.apk
+159ceeed: Installation Success
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+159ceeed: startApplication called! - devDebug
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_signed_obfuscated.ilog)
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_signed_obfuscated.ilog)
+b29e6a69: Running Application: cz.anywhere.itesco
+PIDs--------------------------------------------------------------------------
+u0_a358       11188    425 14165436 108448 0                  0 S cz.anywhere.itesco
+forward tcp:5005 jdwp:11188
+[*]Found JDWP Target: 11188
+159ceeed: Running Application: cz.anywhere.itesco
+159ceeed: Running is done - starting comparing... : 5001
+159ceeed: Terminated logcat thread...by itself
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+159ceeed: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: cz.anywhere.itesco
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: cz.anywhere.itesco
+Tryging remove : uninstall cz.anywhere.itesco(cz.anywhere.itesco)
+159ceeed: Remove Success
+159ceeed: ilog file size: 24914677
+159ceeed: End of collecting logcat...
+Tryging remove : uninstall cz.anywhere.itesco(cz.anywhere.itesco)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 22844897
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 27
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+b29e6a69: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated.apk launch is failed on devRoot
+159ceeed: isFailedToLaunch: com.android.launcher3/.Launcher
+159ceeed: 	--result: Failed :( (1)
+159ceeed: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated.apk launch is failed on devDebug
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 1a037c
+-- current localPatchFilter: 19f896
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.app.Dialog/show:()V:7c68bc		=(rels)=>		1
+[*] Unique action: 1:469204 : <<CALL>> : hu.bitnet.qlib.QUI$Message/<init>:(Landroid/content/Context;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V:7c68bc  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:453281 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a039a  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a03a8
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:424ff6		=(rels)=>		1
+[*] Unique action: 1:503814 : <<CALL>> : androidx.appcompat.app.AlertController/setupButtons:(Landroid/view/ViewGroup;)V:424ff6  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:453281 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a039a  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a03a8
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:425044		=(rels)=>		1
+[*] Unique action: 1:503859 : <<CALL>> : androidx.appcompat.app.AlertController/setupButtons:(Landroid/view/ViewGroup;)V:425044  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:453281 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a039a  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a03a8
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:424fc4		=(rels)=>		1
+[*] Unique action: 1:503800 : <<CALL>> : androidx.appcompat.app.AlertController/setupButtons:(Landroid/view/ViewGroup;)V:424fc4  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:453281 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a039a  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a03a8
+java.net.URL/openConnection:()Ljava/net/URLConnection;:7c3cca		=(rels)=>		4
+[*] Unique action: 24:454330 : <<CALL>> : hu.bitnet.qlib.QHttp/doRequest:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/io/File;Ljavax/net/ssl/SSLContext;)Lhu/bitnet/qlib/QHttp$Response;:7c3cca  =>  java.net.URL/openConnection:()Ljava/net/URLConnection;:12417c
+[*] Unique action: 24:454330 : <<CALL>> : hu.bitnet.qlib.QHttp/doRequest:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/io/File;Ljavax/net/ssl/SSLContext;)Lhu/bitnet/qlib/QHttp$Response;:7c3cca  =>  java.net.URL/openConnection:()Ljava/net/URLConnection;:12417c
+[*] Unique action: 24:454330 : <<CALL>> : hu.bitnet.qlib.QHttp/doRequest:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/io/File;Ljavax/net/ssl/SSLContext;)Lhu/bitnet/qlib/QHttp$Response;:7c3cca  =>  java.net.URL/openConnection:()Ljava/net/URLConnection;:12417c
+[*] Unique action: 24:454330 : <<CALL>> : hu.bitnet.qlib.QHttp/doRequest:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/io/File;Ljavax/net/ssl/SSLContext;)Lhu/bitnet/qlib/QHttp$Response;:7c3cca  =>  java.net.URL/openConnection:()Ljava/net/URLConnection;:12417c
+[*] FlowManager: adjust finished.
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:424f3a		=(rels)=>		1
+-- current localPatchFilter: 1a037c
+-- current localPatchFilter: 19f896
+[GOOD]: Anti-analysis is identified! :) -- 1 --devDebug
+android.app.Dialog/show:()V:7c68bc		=(rels)=>		1
+[*] Unique action: 1:503641 : <<CALL>> : androidx.appcompat.app.AlertController/setupButtons:(Landroid/view/ViewGroup;)V:424f3a  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+[*] Unique action: 1:469204 : <<CALL>> : hu.bitnet.qlib.QUI$Message/<init>:(Landroid/content/Context;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V:7c68bc  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:453281 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a039a  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a03a8
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:424f78		=(rels)=>		1
+[*] Unique action: 1:503709 : <<CALL>> : androidx.appcompat.app.AlertController/setupButtons:(Landroid/view/ViewGroup;)V:424f78  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:453281 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a039a  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a03a8
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:424ff6		=(rels)=>		1
+[*] Unique action: 1:503814 : <<CALL>> : androidx.appcompat.app.AlertController/setupButtons:(Landroid/view/ViewGroup;)V:424ff6  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:453281 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a039a  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a03a8
+android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:4a9af0		=(rels)=>		1
+[*] Unique action: 1:487582 : <<CALL>> : androidx.core.widget.NestedScrollView/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:4a9af0  =>  android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:1959fc
+	1:compareBackwardBranch: 1:453281 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a039a  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a03a8
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:425044		=(rels)=>		1
+[*] Unique action: 1:503859 : <<CALL>> : androidx.appcompat.app.AlertController/setupButtons:(Landroid/view/ViewGroup;)V:425044  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:453281 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a039a  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a03a8
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:4a9b24		=(rels)=>		1
+[*] Unique action: 1:487570 : <<CALL>> : androidx.core.widget.NestedScrollView/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:4a9b24  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+	1:compareBackwardBranch: 1:453281 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a039a  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a03a8
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:424fc4		=(rels)=>		1
+[*] Unique action: 1:503800 : <<CALL>> : androidx.appcompat.app.AlertController/setupButtons:(Landroid/view/ViewGroup;)V:424fc4  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:453281 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a039a  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a03a8
+android.app.Dialog/show:()V:4c01e0		=(rels)=>		1
+[*] Unique action: 1:109046 : <<CALL>> : androidx.fragment.app.DialogFragment/onStart:()V:4c01e0  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:453281 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a039a  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a03a8
+java.net.URL/openConnection:()Ljava/net/URLConnection;:7c3cca		=(rels)=>		4
+[*] Unique action: 24:454330 : <<CALL>> : hu.bitnet.qlib.QHttp/doRequest:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/io/File;Ljavax/net/ssl/SSLContext;)Lhu/bitnet/qlib/QHttp$Response;:7c3cca  =>  java.net.URL/openConnection:()Ljava/net/URLConnection;:12417c
+[*] Unique action: 24:454330 : <<CALL>> : hu.bitnet.qlib.QHttp/doRequest:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/io/File;Ljavax/net/ssl/SSLContext;)Lhu/bitnet/qlib/QHttp$Response;:7c3cca  =>  java.net.URL/openConnection:()Ljava/net/URLConnection;:12417c
+	1:compareBackwardBranch: 1:453281 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a039a  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a03a8
+Entry: 19f83c
+hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V: 1a039a -> 1a03a8
+		hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V: b5e -> b6c
+addPatchReadme: java.lang.Class<hu.bitnet.tesco2.MainActivity>onCreate(Landroid/os/Bundle;)V b5e t
+Entry: 6696a8
+com.google.android.gms.internal.measurement.zzdb/zza:(Landroid/content/Context;)Lcom/google/android/gms/internal/measurement/zzdx;: 6696ce -> 6696d2
+		com.google.android.gms.internal.measurement.zzdb/zza:(Landroid/content/Context;)Lcom/google/android/gms/internal/measurement/zzdx;: 26 -> 2a
+addPatchReadme: java.lang.Class<com.google.android.gms.internal.measurement.zzdb>zza(Landroid/content/Context;)Lcom/google/android/gms/internal/measurement/zzdx; 26 f
+b29e6a69: [+] Patches found in this round: 2
+b29e6a69: [*] Found Patch size: 1
+[*] Unique action: 24:454330 : <<CALL>> : hu.bitnet.qlib.QHttp/doRequest:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/io/File;Ljavax/net/ssl/SSLContext;)Lhu/bitnet/qlib/QHttp$Response;:7c3cca  =>  java.net.URL/openConnection:()Ljava/net/URLConnection;:12417c
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_signed_obfuscated.ilog)
+b29e6a69: Querying offset: 6696ce
+b29e6a69: 	--Add method name to patch = com.google.android.gms.internal.measurement.zzdb/zza:(Landroid/content/Context;)Lcom/google/android/gms/internal/measurement/zzdx; 	6696ce
+[*] Unique action: 24:454330 : <<CALL>> : hu.bitnet.qlib.QHttp/doRequest:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/io/File;Ljavax/net/ssl/SSLContext;)Lhu/bitnet/qlib/QHttp$Response;:7c3cca  =>  java.net.URL/openConnection:()Ljava/net/URLConnection;:12417c
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:424f3a		=(rels)=>		1
+[*] Unique action: 1:503641 : <<CALL>> : androidx.appcompat.app.AlertController/setupButtons:(Landroid/view/ViewGroup;)V:424f3a  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:453281 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a039a  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a03a8
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:424f78		=(rels)=>		1
+[*] Unique action: 1:503709 : <<CALL>> : androidx.appcompat.app.AlertController/setupButtons:(Landroid/view/ViewGroup;)V:424f78  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:453281 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a039a  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a03a8
+android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:4a9af0		=(rels)=>		1
+[*] Unique action: 1:487582 : <<CALL>> : androidx.core.widget.NestedScrollView/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:4a9af0  =>  android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:1959fc
+	1:compareBackwardBranch: 1:453281 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a039a  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a03a8
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:4a9b24		=(rels)=>		1
+[*] Unique action: 1:487570 : <<CALL>> : androidx.core.widget.NestedScrollView/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:4a9b24  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+	1:compareBackwardBranch: 1:453281 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a039a  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a03a8
+android.app.Dialog/show:()V:4c01e0		=(rels)=>		1
+[*] Unique action: 1:311859 : <<CALL>> : androidx.fragment.app.DialogFragment/onStart:()V:4c01e0  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:453281 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a039a  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a03a8
+Entry: 19f83c
+hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V: 1a039a -> 1a03a8
+		hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V: b5e -> b6c
+addPatchReadme: java.lang.Class<hu.bitnet.tesco2.MainActivity>onCreate(Landroid/os/Bundle;)V b5e t
+Entry: 19ba78
+hu.bitnet.tesco2.MainActivity/GavGYMlRuDmWoVjC:(Lhu/bitnet/tesco2/MainActivity;)Landroid/content/res/Resources;: 19bab0 -> 19bab8
+		hu.bitnet.tesco2.MainActivity/GavGYMlRuDmWoVjC:(Lhu/bitnet/tesco2/MainActivity;)Landroid/content/res/Resources;: 38 -> 40
+addPatchReadme: java.lang.Class<hu.bitnet.tesco2.MainActivity>GavGYMlRuDmWoVjC(Lhu/bitnet/tesco2/MainActivity;)Landroid/content/res/Resources; 38 t
+159ceeed: [+] Patches found in this round: 2
+159ceeed: [*] Found Patch size: 1
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_signed_obfuscated.ilog)
+159ceeed: Querying offset: 19bab0
+159ceeed: 	--Add method name to patch = hu.bitnet.tesco2.MainActivity/GavGYMlRuDmWoVjC:(Lhu/bitnet/tesco2/MainActivity;)Landroid/content/res/Resources; 	19bab0
+Devices presenting anti-analysis: 
+	devRoot
+	devDebug
+b29e6a69: patching method: com.google.android.gms.internal.measurement.zzdb/zza:(Landroid/content/Context;)Lcom/google/android/gms/internal/measurement/zzdx;
+b29e6a69: patching method: hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devRoot
+Wow!!!!!  --  com.google.android.gms.internal.measurement.zzdb/zza:(Landroid/content/Context;)Lcom/google/android/gms/internal/measurement/zzdx;
+fallthrough: 2a
+branchTarget: 2a
+NOP!
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devRoot/signed_obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devRoot/signed_signed_obfuscated.apk
+b29e6a69: First address of Lcom/google/android/gms/internal/measurement/zzdb;->zza(Landroid/content/Context;)Lcom/google/android/gms/internal/measurement/zzdx; = 6696b8
+b29e6a69: Address - Lcom/google/android/gms/internal/measurement/zzdb;->zza(Landroid/content/Context;)Lcom/google/android/gms/internal/measurement/zzdx;@26	 lastOffset = ba
+b29e6a69: Instruction@@: IF_NEZ
+159ceeed: patching method: com.google.android.gms.internal.measurement.zzdb/zza:(Landroid/content/Context;)Lcom/google/android/gms/internal/measurement/zzdx;
+159ceeed: patching method: hu.bitnet.tesco2.MainActivity/GavGYMlRuDmWoVjC:(Lhu/bitnet/tesco2/MainActivity;)Landroid/content/res/Resources;
+159ceeed: patching method: hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V
+159ceeed: outDir - /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devDebug
+Wow!!!!!  --  hu.bitnet.tesco2.MainActivity/GavGYMlRuDmWoVjC:(Lhu/bitnet/tesco2/MainActivity;)Landroid/content/res/Resources;
+fallthrough: 3e
+branchTarget: 40
+label = sswitch_data_0
+GOTO -- 3e 	40
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devDebug/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devDebug/signed_obfuscated.apk
+159ceeed: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devDebug/signed_signed_obfuscated.apk
+159ceeed: First address of Lhu/bitnet/tesco2/MainActivity;->GavGYMlRuDmWoVjC(Lhu/bitnet/tesco2/MainActivity;)Landroid/content/res/Resources; = 19ba88
+159ceeed: Address - Lhu/bitnet/tesco2/MainActivity;->GavGYMlRuDmWoVjC(Lhu/bitnet/tesco2/MainActivity;)Landroid/content/res/Resources;@38	 lastOffset = 50
+159ceeed: Instruction@@: SPARSE_SWITCH
+159ceeed: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devDebug/signed_signed_obfuscated.apk
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devRoot/signed_signed_obfuscated.apk
+159ceeed: Installation Success
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+159ceeed: startApplication called! - devDebug
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_signed_obfuscated.ilog)
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_signed_obfuscated.ilog)
+b29e6a69: Running Application: cz.anywhere.itesco
+PIDs--------------------------------------------------------------------------
+u0_a359       11390    425 14147220 107572 0                  0 R cz.anywhere.itesco
+forward tcp:5005 jdwp:11390
+[*]Found JDWP Target: 11390
+159ceeed: Running Application: cz.anywhere.itesco
+159ceeed: Running is done - starting comparing... : 5001
+159ceeed: Terminated logcat thread...by itself
+159ceeed: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: cz.anywhere.itesco
+Tryging remove : uninstall cz.anywhere.itesco(cz.anywhere.itesco)
+159ceeed: Remove Success
+159ceeed: ilog file size: 24786452
+159ceeed: End of collecting logcat...
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: cz.anywhere.itesco
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 189097257
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 26
+b29e6a69: Error: Activity not found(2)  --  skip signed_obfuscated.apk
+159ceeed: isFailedToLaunch: com.android.launcher3/.Launcher
+159ceeed: 	--result: Failed :( (1)
+159ceeed: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated.apk launch is failed on devDebug
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 1a037c
+-- current localPatchFilter: 19bab0
+-- current localPatchFilter: 19f896
+[GOOD]: Anti-analysis is identified! :) -- 1 --devDebug
+android.app.Dialog/show:()V:7c68bc		=(rels)=>		1
+[*] Unique action: 1:469204 : <<CALL>> : hu.bitnet.qlib.QUI$Message/<init>:(Landroid/content/Context;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V:7c68bc  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:453281 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a039a  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a03a8
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:424ff6		=(rels)=>		1
+[*] Unique action: 1:503814 : <<CALL>> : androidx.appcompat.app.AlertController/setupButtons:(Landroid/view/ViewGroup;)V:424ff6  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:453281 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a039a  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a03a8
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:425044		=(rels)=>		1
+[*] Unique action: 1:503859 : <<CALL>> : androidx.appcompat.app.AlertController/setupButtons:(Landroid/view/ViewGroup;)V:425044  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:453281 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a039a  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a03a8
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:424fc4		=(rels)=>		1
+[*] Unique action: 1:503800 : <<CALL>> : androidx.appcompat.app.AlertController/setupButtons:(Landroid/view/ViewGroup;)V:424fc4  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:453281 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a039a  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a03a8
+java.net.URL/openConnection:()Ljava/net/URLConnection;:7c3cca		=(rels)=>		4
+[*] Unique action: 24:454330 : <<CALL>> : hu.bitnet.qlib.QHttp/doRequest:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/io/File;Ljavax/net/ssl/SSLContext;)Lhu/bitnet/qlib/QHttp$Response;:7c3cca  =>  java.net.URL/openConnection:()Ljava/net/URLConnection;:12417c
+[*] Unique action: 24:454330 : <<CALL>> : hu.bitnet.qlib.QHttp/doRequest:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/io/File;Ljavax/net/ssl/SSLContext;)Lhu/bitnet/qlib/QHttp$Response;:7c3cca  =>  java.net.URL/openConnection:()Ljava/net/URLConnection;:12417c
+[*] Unique action: 24:454330 : <<CALL>> : hu.bitnet.qlib.QHttp/doRequest:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/io/File;Ljavax/net/ssl/SSLContext;)Lhu/bitnet/qlib/QHttp$Response;:7c3cca  =>  java.net.URL/openConnection:()Ljava/net/URLConnection;:12417c
+[*] Unique action: 24:454330 : <<CALL>> : hu.bitnet.qlib.QHttp/doRequest:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/io/File;Ljavax/net/ssl/SSLContext;)Lhu/bitnet/qlib/QHttp$Response;:7c3cca  =>  java.net.URL/openConnection:()Ljava/net/URLConnection;:12417c
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:424f3a		=(rels)=>		1
+[*] Unique action: 1:503641 : <<CALL>> : androidx.appcompat.app.AlertController/setupButtons:(Landroid/view/ViewGroup;)V:424f3a  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:453281 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a039a  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a03a8
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:424f78		=(rels)=>		1
+[*] Unique action: 1:503709 : <<CALL>> : androidx.appcompat.app.AlertController/setupButtons:(Landroid/view/ViewGroup;)V:424f78  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:453281 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a039a  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a03a8
+android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:4a9af0		=(rels)=>		1
+[*] Unique action: 1:487582 : <<CALL>> : androidx.core.widget.NestedScrollView/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:4a9af0  =>  android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:1959fc
+	1:compareBackwardBranch: 1:453281 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a039a  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a03a8
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:4a9b24		=(rels)=>		1
+[*] Unique action: 1:487570 : <<CALL>> : androidx.core.widget.NestedScrollView/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:4a9b24  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+	1:compareBackwardBranch: 1:453281 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a039a  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a03a8
+android.app.Dialog/show:()V:4c01e0		=(rels)=>		1
+[*] Unique action: 1:311859 : <<CALL>> : androidx.fragment.app.DialogFragment/onStart:()V:4c01e0  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:453281 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a039a  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a03a8
+Entry: 19f83c
+hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V: 1a039a -> 1a03a8
+		hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V: b5e -> b6c
+addPatchReadme: java.lang.Class<hu.bitnet.tesco2.MainActivity>onCreate(Landroid/os/Bundle;)V b5e t
+Entry: 7b7760
+com.scottyab.rootbeer.RootBeer/isRooted:()Z: 7b7aa6 -> 7b7aaa
+		com.scottyab.rootbeer.RootBeer/isRooted:()Z: 346 -> 34a
+addPatchReadme: java.lang.Class<com.scottyab.rootbeer.RootBeer>isRooted()Z 346 f
+159ceeed: [+] Patches found in this round: 2
+159ceeed: [*] Found Patch size: 1
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_signed_obfuscated.ilog)
+159ceeed: Querying offset: 7b7aa6
+159ceeed: 	--Add method name to patch = com.scottyab.rootbeer.RootBeer/isRooted:()Z 	7b7aa6
+Devices presenting anti-analysis: 
+	devDebug
+159ceeed: patching method: com.google.android.gms.internal.measurement.zzdb/zza:(Landroid/content/Context;)Lcom/google/android/gms/internal/measurement/zzdx;
+159ceeed: patching method: hu.bitnet.tesco2.MainActivity/GavGYMlRuDmWoVjC:(Lhu/bitnet/tesco2/MainActivity;)Landroid/content/res/Resources;
+159ceeed: patching method: hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V
+159ceeed: patching method: com.scottyab.rootbeer.RootBeer/isRooted:()Z
+159ceeed: outDir - /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devDebug
+Wow!!!!!  --  com.scottyab.rootbeer.RootBeer/isRooted:()Z
+fallthrough: 34a
+branchTarget: 34a
+NOP!
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devDebug/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devDebug/signed_obfuscated.apk
+159ceeed: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devDebug/signed_signed_obfuscated.apk
+159ceeed: First address of Lcom/scottyab/rootbeer/RootBeer;->isRooted()Z = 7b7770
+159ceeed: Address - Lcom/scottyab/rootbeer/RootBeer;->isRooted()Z@346	 lastOffset = b64
+159ceeed: Instruction@@: IF_NEZ
+159ceeed: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devDebug/signed_signed_obfuscated.apk
+159ceeed: Installation Success
+159ceeed: startApplication called! - devDebug
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_signed_obfuscated.ilog)
+PIDs--------------------------------------------------------------------------
+u0_a360       11646    425 14131568 108796 0                  0 R cz.anywhere.itesco
+forward tcp:5005 jdwp:11646
+[*]Found JDWP Target: 11646
+159ceeed: Running Application: cz.anywhere.itesco
+159ceeed: Top-activity: cz.anywhere.itesco/hu.bitnet.tesco2.MainActivity
+PIDs--------------------------------------------------------------------------
+u0_a360       11646    425 14610156 195140 0                  0 S cz.anywhere.itesco
+159ceeed: Terminated logcat thread...by itself
+PIDs--------------------------------------------------------------------------
+u0_a360       11646    425 14610156 195140 0                  0 S cz.anywhere.itesco
+Stopping app: cz.anywhere.itesco
+Tryging remove : uninstall cz.anywhere.itesco(cz.anywhere.itesco)
+159ceeed: Remove Success
+159ceeed: ilog file size: 332643135
+159ceeed: End of collecting logcat...
+HPFinder's try count remains: 25
+159ceeed: isFailedToLaunch: cz.anywhere.itesco/hu.bitnet.tesco2.MainActivity
+159ceeed: 	--result: Good :)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_signed_obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_signed_obfuscated.ilog)
+159ceeed: adding filter -- 7b7aa6
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 7b7aa6
+[GOOD]: Anti-analysis is identified! :) -- 1 --devDebug
+android.app.Dialog/show:()V:7c68bc		=(rels)=>		1
+[*] Unique action: 1:469204 : <<CALL>> : hu.bitnet.qlib.QUI$Message/<init>:(Landroid/content/Context;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V:7c68bc  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:453295 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:19f896  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a04e2
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:424ff6		=(rels)=>		1
+[*] Unique action: 1:503814 : <<CALL>> : androidx.appcompat.app.AlertController/setupButtons:(Landroid/view/ViewGroup;)V:424ff6  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:453295 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:19f896  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a04e2
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:425044		=(rels)=>		1
+[*] Unique action: 1:503859 : <<CALL>> : androidx.appcompat.app.AlertController/setupButtons:(Landroid/view/ViewGroup;)V:425044  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:453295 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:19f896  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a04e2
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:424fc4		=(rels)=>		1
+[*] Unique action: 1:503800 : <<CALL>> : androidx.appcompat.app.AlertController/setupButtons:(Landroid/view/ViewGroup;)V:424fc4  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:453295 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:19f896  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a04e2
+java.net.URL/openConnection:()Ljava/net/URLConnection;:7c3cca		=(rels)=>		4
+[*] Unique action: 24:454330 : <<CALL>> : hu.bitnet.qlib.QHttp/doRequest:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/io/File;Ljavax/net/ssl/SSLContext;)Lhu/bitnet/qlib/QHttp$Response;:7c3cca  =>  java.net.URL/openConnection:()Ljava/net/URLConnection;:12417c
+[*] Unique action: 24:454330 : <<CALL>> : hu.bitnet.qlib.QHttp/doRequest:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/io/File;Ljavax/net/ssl/SSLContext;)Lhu/bitnet/qlib/QHttp$Response;:7c3cca  =>  java.net.URL/openConnection:()Ljava/net/URLConnection;:12417c
+[*] Unique action: 24:454330 : <<CALL>> : hu.bitnet.qlib.QHttp/doRequest:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/io/File;Ljavax/net/ssl/SSLContext;)Lhu/bitnet/qlib/QHttp$Response;:7c3cca  =>  java.net.URL/openConnection:()Ljava/net/URLConnection;:12417c
+[*] Unique action: 24:454330 : <<CALL>> : hu.bitnet.qlib.QHttp/doRequest:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/io/File;Ljavax/net/ssl/SSLContext;)Lhu/bitnet/qlib/QHttp$Response;:7c3cca  =>  java.net.URL/openConnection:()Ljava/net/URLConnection;:12417c
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:424f3a		=(rels)=>		1
+[*] Unique action: 1:503641 : <<CALL>> : androidx.appcompat.app.AlertController/setupButtons:(Landroid/view/ViewGroup;)V:424f3a  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:453295 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:19f896  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a04e2
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:424f78		=(rels)=>		1
+[*] Unique action: 1:503709 : <<CALL>> : androidx.appcompat.app.AlertController/setupButtons:(Landroid/view/ViewGroup;)V:424f78  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:453295 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:19f896  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a04e2
+android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:4a9af0		=(rels)=>		1
+[*] Unique action: 1:487582 : <<CALL>> : androidx.core.widget.NestedScrollView/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:4a9af0  =>  android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:1959fc
+	1:compareBackwardBranch: 1:453295 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:19f896  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a04e2
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:4a9b24		=(rels)=>		1
+[*] Unique action: 1:487570 : <<CALL>> : androidx.core.widget.NestedScrollView/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:4a9b24  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+	1:compareBackwardBranch: 1:453295 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:19f896  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a04e2
+android.app.Dialog/show:()V:4c01e0		=(rels)=>		1
+[*] Unique action: 1:401115 : <<CALL>> : androidx.fragment.app.DialogFragment/onStart:()V:4c01e0  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:453295 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:19f896  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a04e2
+Entry: 7b82f8
+com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z: 7b8592 -> 7b8596
+		com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z: 29a -> 29e
+addPatchReadme: java.lang.Class<com.scottyab.rootbeer.RootBeer>isRootedWithoutBusyBoxCheck()Z 29a f
+Entry: 19f83c
+hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V: 19f896 -> 1a04e2
+		hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V: 5a -> ca6
+addPatchReadme: java.lang.Class<hu.bitnet.tesco2.MainActivity>onCreate(Landroid/os/Bundle;)V 5a t
+159ceeed: [+] Patches found in this round: 2
+159ceeed: [*] Found Patch size: 1
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_signed_obfuscated.ilog)
+159ceeed: Querying offset: 19f896
+159ceeed: 	--Add method name to patch = hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V 	19f896
+Devices presenting anti-analysis: 
+	devDebug
+159ceeed: patching method: com.google.android.gms.internal.measurement.zzdb/zza:(Landroid/content/Context;)Lcom/google/android/gms/internal/measurement/zzdx;
+159ceeed: patching method: hu.bitnet.tesco2.MainActivity/GavGYMlRuDmWoVjC:(Lhu/bitnet/tesco2/MainActivity;)Landroid/content/res/Resources;
+159ceeed: patching method: hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V
+159ceeed: patching method: com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z
+159ceeed: patching method: com.scottyab.rootbeer.RootBeer/isRooted:()Z
+159ceeed: outDir - /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devDebug
+Wow!!!!!  --  com.scottyab.rootbeer.RootBeer/isRooted:()Z
+fallthrough: 34a
+branchTarget: 34a
+NOP!
+Wow!!!!!  --  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 60
+branchTarget: ca6
+label = sswitch_data_0
+GOTO -- 60 	ca6
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devDebug/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devDebug/signed_obfuscated.apk
+159ceeed: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devDebug/signed_signed_obfuscated.apk
+159ceeed: First address of Lhu/bitnet/tesco2/MainActivity;->onCreate(Landroid/os/Bundle;)V = 19f84c
+159ceeed: Address - Lhu/bitnet/tesco2/MainActivity;->onCreate(Landroid/os/Bundle;)V@5a	 lastOffset = 1458
+159ceeed: Instruction@@: SPARSE_SWITCH
+159ceeed: First address of Lcom/scottyab/rootbeer/RootBeer;->isRooted()Z = 7b7770
+159ceeed: Address - Lcom/scottyab/rootbeer/RootBeer;->isRooted()Z@346	 lastOffset = b64
+159ceeed: Instruction@@: IF_NEZ
+159ceeed: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devDebug/signed_signed_obfuscated.apk
+159ceeed: Installation Success
+159ceeed: startApplication called! - devDebug
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_signed_obfuscated.ilog)
+PIDs--------------------------------------------------------------------------
+u0_a361       12019    425 14147944 109036 0                  0 R cz.anywhere.itesco
+forward tcp:5005 jdwp:12019
+[*]Found JDWP Target: 12019
+159ceeed: Running Application: cz.anywhere.itesco
+159ceeed: Running is done - starting comparing... : 5001
+159ceeed: Terminated logcat thread...by itself
+159ceeed: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: cz.anywhere.itesco
+Tryging remove : uninstall cz.anywhere.itesco(cz.anywhere.itesco)
+159ceeed: Remove Success
+159ceeed: ilog file size: 22933109
+159ceeed: End of collecting logcat...
+HPFinder's try count remains: 24
+159ceeed: isFailedToLaunch: com.android.launcher3/.Launcher
+159ceeed: 	--result: Failed :( (1)
+159ceeed: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated.apk launch is failed on devDebug
+159ceeed: adding filter -- 7b7aa6
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 7b7aa6
+-- current localPatchFilter: 19f896
+[GOOD]: Anti-analysis is identified! :) -- 1 --devDebug
+android.app.Dialog/show:()V:7c68bc		=(rels)=>		1
+[*] Unique action: 1:469204 : <<CALL>> : hu.bitnet.qlib.QUI$Message/<init>:(Landroid/content/Context;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V:7c68bc  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:453288 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a037c  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a0548
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:424ff6		=(rels)=>		1
+[*] Unique action: 1:503814 : <<CALL>> : androidx.appcompat.app.AlertController/setupButtons:(Landroid/view/ViewGroup;)V:424ff6  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:453288 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a037c  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a0548
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:425044		=(rels)=>		1
+[*] Unique action: 1:503859 : <<CALL>> : androidx.appcompat.app.AlertController/setupButtons:(Landroid/view/ViewGroup;)V:425044  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:453288 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a037c  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a0548
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:424fc4		=(rels)=>		1
+[*] Unique action: 1:503800 : <<CALL>> : androidx.appcompat.app.AlertController/setupButtons:(Landroid/view/ViewGroup;)V:424fc4  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:453288 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a037c  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a0548
+java.net.URL/openConnection:()Ljava/net/URLConnection;:7c3cca		=(rels)=>		4
+[*] Unique action: 24:454330 : <<CALL>> : hu.bitnet.qlib.QHttp/doRequest:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/io/File;Ljavax/net/ssl/SSLContext;)Lhu/bitnet/qlib/QHttp$Response;:7c3cca  =>  java.net.URL/openConnection:()Ljava/net/URLConnection;:12417c
+[*] Unique action: 24:454330 : <<CALL>> : hu.bitnet.qlib.QHttp/doRequest:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/io/File;Ljavax/net/ssl/SSLContext;)Lhu/bitnet/qlib/QHttp$Response;:7c3cca  =>  java.net.URL/openConnection:()Ljava/net/URLConnection;:12417c
+[*] Unique action: 24:454330 : <<CALL>> : hu.bitnet.qlib.QHttp/doRequest:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/io/File;Ljavax/net/ssl/SSLContext;)Lhu/bitnet/qlib/QHttp$Response;:7c3cca  =>  java.net.URL/openConnection:()Ljava/net/URLConnection;:12417c
+[*] Unique action: 24:454330 : <<CALL>> : hu.bitnet.qlib.QHttp/doRequest:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/io/File;Ljavax/net/ssl/SSLContext;)Lhu/bitnet/qlib/QHttp$Response;:7c3cca  =>  java.net.URL/openConnection:()Ljava/net/URLConnection;:12417c
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:424f3a		=(rels)=>		1
+[*] Unique action: 1:503641 : <<CALL>> : androidx.appcompat.app.AlertController/setupButtons:(Landroid/view/ViewGroup;)V:424f3a  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:453288 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a037c  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a0548
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:424f78		=(rels)=>		1
+[*] Unique action: 1:503709 : <<CALL>> : androidx.appcompat.app.AlertController/setupButtons:(Landroid/view/ViewGroup;)V:424f78  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:453288 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a037c  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a0548
+android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:4a9af0		=(rels)=>		1
+[*] Unique action: 1:487582 : <<CALL>> : androidx.core.widget.NestedScrollView/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:4a9af0  =>  android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:1959fc
+	1:compareBackwardBranch: 1:453288 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a037c  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a0548
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:4a9b24		=(rels)=>		1
+[*] Unique action: 1:487570 : <<CALL>> : androidx.core.widget.NestedScrollView/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:4a9b24  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+	1:compareBackwardBranch: 1:453288 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a037c  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a0548
+android.app.Dialog/show:()V:4c01e0		=(rels)=>		1
+[*] Unique action: 1:401115 : <<CALL>> : androidx.fragment.app.DialogFragment/onStart:()V:4c01e0  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:453288 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a037c  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a0548
+Entry: 7b82f8
+com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z: 7b8592 -> 7b8596
+		com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z: 29a -> 29e
+addPatchReadme: java.lang.Class<com.scottyab.rootbeer.RootBeer>isRootedWithoutBusyBoxCheck()Z 29a f
+Entry: 19f83c
+hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V: 1a037c -> 1a0548
+		hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V: b40 -> d0c
+addPatchReadme: java.lang.Class<hu.bitnet.tesco2.MainActivity>onCreate(Landroid/os/Bundle;)V b40 t
+159ceeed: [+] Patches found in this round: 2
+159ceeed: [*] Found Patch size: 1
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_signed_obfuscated.ilog)
+159ceeed: Querying offset: 1a037c
+159ceeed: 	--Add method name to patch = hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V 	1a037c
+Devices presenting anti-analysis: 
+	devDebug
+159ceeed: patching method: com.google.android.gms.internal.measurement.zzdb/zza:(Landroid/content/Context;)Lcom/google/android/gms/internal/measurement/zzdx;
+159ceeed: patching method: hu.bitnet.tesco2.MainActivity/GavGYMlRuDmWoVjC:(Lhu/bitnet/tesco2/MainActivity;)Landroid/content/res/Resources;
+159ceeed: patching method: hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V
+159ceeed: patching method: com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z
+159ceeed: patching method: com.scottyab.rootbeer.RootBeer/isRooted:()Z
+159ceeed: outDir - /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devDebug
+Wow!!!!!  --  com.scottyab.rootbeer.RootBeer/isRooted:()Z
+fallthrough: 34a
+branchTarget: 34a
+NOP!
+Wow!!!!!  --  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V
+fallthrough: b46
+branchTarget: d0c
+label = sswitch_data_34
+GOTO -- b46 	d0c
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devDebug/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devDebug/signed_obfuscated.apk
+159ceeed: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devDebug/signed_signed_obfuscated.apk
+159ceeed: First address of Lhu/bitnet/tesco2/MainActivity;->onCreate(Landroid/os/Bundle;)V = 19f84c
+159ceeed: Address - Lhu/bitnet/tesco2/MainActivity;->onCreate(Landroid/os/Bundle;)V@b40	 lastOffset = 1458
+159ceeed: Instruction@@: SPARSE_SWITCH
+159ceeed: First address of Lcom/scottyab/rootbeer/RootBeer;->isRooted()Z = 7b7770
+159ceeed: Address - Lcom/scottyab/rootbeer/RootBeer;->isRooted()Z@346	 lastOffset = b64
+159ceeed: Instruction@@: IF_NEZ
+159ceeed: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devDebug/signed_signed_obfuscated.apk
+159ceeed: Installation Success
+159ceeed: startApplication called! - devDebug
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_signed_obfuscated.ilog)
+PIDs--------------------------------------------------------------------------
+u0_a362       12204    425 14147048 107996 0                  0 R cz.anywhere.itesco
+forward tcp:5005 jdwp:12204
+[*]Found JDWP Target: 12204
+159ceeed: Running Application: cz.anywhere.itesco
+159ceeed: Running is done - starting comparing... : 5001
+159ceeed: Terminated logcat thread...by itself
+159ceeed: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: cz.anywhere.itesco
+Tryging remove : uninstall cz.anywhere.itesco(cz.anywhere.itesco)
+159ceeed: Remove Success
+159ceeed: ilog file size: 22742178
+159ceeed: End of collecting logcat...
+HPFinder's try count remains: 23
+159ceeed: isFailedToLaunch: com.android.launcher3/.Launcher
+159ceeed: 	--result: Failed :( (1)
+159ceeed: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated.apk launch is failed on devDebug
+159ceeed: adding filter -- 7b7aa6
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 1a037c
+-- current localPatchFilter: 7b7aa6
+-- current localPatchFilter: 19f896
+[GOOD]: Anti-analysis is identified! :) -- 1 --devDebug
+android.app.Dialog/show:()V:7c68bc		=(rels)=>		1
+[*] Unique action: 1:469204 : <<CALL>> : hu.bitnet.qlib.QUI$Message/<init>:(Landroid/content/Context;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V:7c68bc  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:453281 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a039a  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a03a8
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:424ff6		=(rels)=>		1
+[*] Unique action: 1:503814 : <<CALL>> : androidx.appcompat.app.AlertController/setupButtons:(Landroid/view/ViewGroup;)V:424ff6  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:453281 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a039a  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a03a8
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:425044		=(rels)=>		1
+[*] Unique action: 1:503859 : <<CALL>> : androidx.appcompat.app.AlertController/setupButtons:(Landroid/view/ViewGroup;)V:425044  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:453281 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a039a  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a03a8
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:424fc4		=(rels)=>		1
+[*] Unique action: 1:503800 : <<CALL>> : androidx.appcompat.app.AlertController/setupButtons:(Landroid/view/ViewGroup;)V:424fc4  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:453281 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a039a  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a03a8
+java.net.URL/openConnection:()Ljava/net/URLConnection;:7c3cca		=(rels)=>		4
+[*] Unique action: 24:454330 : <<CALL>> : hu.bitnet.qlib.QHttp/doRequest:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/io/File;Ljavax/net/ssl/SSLContext;)Lhu/bitnet/qlib/QHttp$Response;:7c3cca  =>  java.net.URL/openConnection:()Ljava/net/URLConnection;:12417c
+[*] Unique action: 24:454330 : <<CALL>> : hu.bitnet.qlib.QHttp/doRequest:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/io/File;Ljavax/net/ssl/SSLContext;)Lhu/bitnet/qlib/QHttp$Response;:7c3cca  =>  java.net.URL/openConnection:()Ljava/net/URLConnection;:12417c
+[*] Unique action: 24:454330 : <<CALL>> : hu.bitnet.qlib.QHttp/doRequest:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/io/File;Ljavax/net/ssl/SSLContext;)Lhu/bitnet/qlib/QHttp$Response;:7c3cca  =>  java.net.URL/openConnection:()Ljava/net/URLConnection;:12417c
+[*] Unique action: 24:454330 : <<CALL>> : hu.bitnet.qlib.QHttp/doRequest:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/io/File;Ljavax/net/ssl/SSLContext;)Lhu/bitnet/qlib/QHttp$Response;:7c3cca  =>  java.net.URL/openConnection:()Ljava/net/URLConnection;:12417c
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:424f3a		=(rels)=>		1
+[*] Unique action: 1:503641 : <<CALL>> : androidx.appcompat.app.AlertController/setupButtons:(Landroid/view/ViewGroup;)V:424f3a  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:453281 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a039a  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a03a8
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:424f78		=(rels)=>		1
+[*] Unique action: 1:503709 : <<CALL>> : androidx.appcompat.app.AlertController/setupButtons:(Landroid/view/ViewGroup;)V:424f78  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:453281 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a039a  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a03a8
+android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:4a9af0		=(rels)=>		1
+[*] Unique action: 1:487582 : <<CALL>> : androidx.core.widget.NestedScrollView/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:4a9af0  =>  android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:1959fc
+	1:compareBackwardBranch: 1:453281 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a039a  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a03a8
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:4a9b24		=(rels)=>		1
+[*] Unique action: 1:487570 : <<CALL>> : androidx.core.widget.NestedScrollView/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:4a9b24  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+	1:compareBackwardBranch: 1:453281 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a039a  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a03a8
+android.app.Dialog/show:()V:4c01e0		=(rels)=>		1
+[*] Unique action: 1:401115 : <<CALL>> : androidx.fragment.app.DialogFragment/onStart:()V:4c01e0  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:453281 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a039a  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a03a8
+Entry: 19f83c
+hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V: 1a039a -> 1a03a8
+		hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V: b5e -> b6c
+addPatchReadme: java.lang.Class<hu.bitnet.tesco2.MainActivity>onCreate(Landroid/os/Bundle;)V b5e t
+Entry: 7b82f8
+com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z: 7b8592 -> 7b8596
+		com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z: 29a -> 29e
+addPatchReadme: java.lang.Class<com.scottyab.rootbeer.RootBeer>isRootedWithoutBusyBoxCheck()Z 29a f
+159ceeed: [+] Patches found in this round: 2
+159ceeed: [*] Found Patch size: 1
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_signed_obfuscated.ilog)
+159ceeed: Querying offset: 7b8592
+159ceeed: 	--Add method name to patch = com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z 	7b8592
+Devices presenting anti-analysis: 
+	devDebug
+159ceeed: patching method: com.google.android.gms.internal.measurement.zzdb/zza:(Landroid/content/Context;)Lcom/google/android/gms/internal/measurement/zzdx;
+159ceeed: patching method: hu.bitnet.tesco2.MainActivity/GavGYMlRuDmWoVjC:(Lhu/bitnet/tesco2/MainActivity;)Landroid/content/res/Resources;
+159ceeed: patching method: hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V
+159ceeed: patching method: com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z
+159ceeed: patching method: com.scottyab.rootbeer.RootBeer/isRooted:()Z
+159ceeed: outDir - /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devDebug
+Wow!!!!!  --  com.scottyab.rootbeer.RootBeer/isRooted:()Z
+fallthrough: 34a
+branchTarget: 34a
+NOP!
+Wow!!!!!  --  com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z
+fallthrough: 29e
+branchTarget: 29e
+NOP!
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devDebug/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devDebug/signed_obfuscated.apk
+159ceeed: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devDebug/signed_signed_obfuscated.apk
+159ceeed: First address of Lcom/scottyab/rootbeer/RootBeer;->isRootedWithoutBusyBoxCheck()Z = 7b8308
+159ceeed: Address - Lcom/scottyab/rootbeer/RootBeer;->isRootedWithoutBusyBoxCheck()Z@29a	 lastOffset = a50
+159ceeed: Instruction@@: IF_NEZ
+159ceeed: First address of Lcom/scottyab/rootbeer/RootBeer;->isRooted()Z = 7b7770
+159ceeed: Address - Lcom/scottyab/rootbeer/RootBeer;->isRooted()Z@346	 lastOffset = b64
+159ceeed: Instruction@@: IF_NEZ
+159ceeed: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devDebug/signed_signed_obfuscated.apk
+159ceeed: Installation Success
+159ceeed: startApplication called! - devDebug
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_signed_obfuscated.ilog)
+PIDs--------------------------------------------------------------------------
+u0_a363       12385    425 14147940 108832 0                  0 S cz.anywhere.itesco
+forward tcp:5005 jdwp:12385
+[*]Found JDWP Target: 12385
+159ceeed: Running Application: cz.anywhere.itesco
+159ceeed: Running is done - starting comparing... : 5001
+159ceeed: Terminated logcat thread...by itself
+159ceeed: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: cz.anywhere.itesco
+Tryging remove : uninstall cz.anywhere.itesco(cz.anywhere.itesco)
+159ceeed: Remove Success
+159ceeed: ilog file size: 107954443
+159ceeed: End of collecting logcat...
+HPFinder's try count remains: 22
+159ceeed: isFailedToLaunch: com.android.launcher3/.Launcher
+159ceeed: 	--result: Failed :( (1)
+159ceeed: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated.apk launch is failed on devDebug
+159ceeed: adding filter -- 7b7aa6
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 1a037c
+-- current localPatchFilter: 7b8592
+-- current localPatchFilter: 7b7aa6
+-- current localPatchFilter: 19f896
+[GOOD]: Anti-analysis is identified! :) -- 1 --devDebug
+android.app.Dialog/show:()V:7c68bc		=(rels)=>		1
+[*] Unique action: 1:469204 : <<CALL>> : hu.bitnet.qlib.QUI$Message/<init>:(Landroid/content/Context;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V:7c68bc  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:453281 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a039a  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a03a8
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:424ff6		=(rels)=>		1
+[*] Unique action: 1:503814 : <<CALL>> : androidx.appcompat.app.AlertController/setupButtons:(Landroid/view/ViewGroup;)V:424ff6  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:453281 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a039a  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a03a8
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:425044		=(rels)=>		1
+[*] Unique action: 1:503859 : <<CALL>> : androidx.appcompat.app.AlertController/setupButtons:(Landroid/view/ViewGroup;)V:425044  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:453281 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a039a  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a03a8
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:424fc4		=(rels)=>		1
+[*] Unique action: 1:503800 : <<CALL>> : androidx.appcompat.app.AlertController/setupButtons:(Landroid/view/ViewGroup;)V:424fc4  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:453281 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a039a  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a03a8
+java.net.URL/openConnection:()Ljava/net/URLConnection;:7c3cca		=(rels)=>		4
+[*] Unique action: 24:454330 : <<CALL>> : hu.bitnet.qlib.QHttp/doRequest:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/io/File;Ljavax/net/ssl/SSLContext;)Lhu/bitnet/qlib/QHttp$Response;:7c3cca  =>  java.net.URL/openConnection:()Ljava/net/URLConnection;:12417c
+[*] Unique action: 24:454330 : <<CALL>> : hu.bitnet.qlib.QHttp/doRequest:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/io/File;Ljavax/net/ssl/SSLContext;)Lhu/bitnet/qlib/QHttp$Response;:7c3cca  =>  java.net.URL/openConnection:()Ljava/net/URLConnection;:12417c
+[*] Unique action: 24:454330 : <<CALL>> : hu.bitnet.qlib.QHttp/doRequest:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/io/File;Ljavax/net/ssl/SSLContext;)Lhu/bitnet/qlib/QHttp$Response;:7c3cca  =>  java.net.URL/openConnection:()Ljava/net/URLConnection;:12417c
+[*] Unique action: 24:454330 : <<CALL>> : hu.bitnet.qlib.QHttp/doRequest:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/io/File;Ljavax/net/ssl/SSLContext;)Lhu/bitnet/qlib/QHttp$Response;:7c3cca  =>  java.net.URL/openConnection:()Ljava/net/URLConnection;:12417c
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:424f3a		=(rels)=>		1
+[*] Unique action: 1:503641 : <<CALL>> : androidx.appcompat.app.AlertController/setupButtons:(Landroid/view/ViewGroup;)V:424f3a  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:453281 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a039a  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a03a8
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:424f78		=(rels)=>		1
+[*] Unique action: 1:503709 : <<CALL>> : androidx.appcompat.app.AlertController/setupButtons:(Landroid/view/ViewGroup;)V:424f78  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:453281 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a039a  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a03a8
+android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:4a9af0		=(rels)=>		1
+[*] Unique action: 1:487582 : <<CALL>> : androidx.core.widget.NestedScrollView/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:4a9af0  =>  android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:1959fc
+	1:compareBackwardBranch: 1:453281 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a039a  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a03a8
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:4a9b24		=(rels)=>		1
+[*] Unique action: 1:487570 : <<CALL>> : androidx.core.widget.NestedScrollView/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:4a9b24  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+	1:compareBackwardBranch: 1:453281 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a039a  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a03a8
+android.app.Dialog/show:()V:4c01e0		=(rels)=>		1
+[*] Unique action: 1:401115 : <<CALL>> : androidx.fragment.app.DialogFragment/onStart:()V:4c01e0  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:453281 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a039a  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a03a8
+Entry: 19f83c
+hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V: 1a039a -> 1a03a8
+		hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V: b5e -> b6c
+addPatchReadme: java.lang.Class<hu.bitnet.tesco2.MainActivity>onCreate(Landroid/os/Bundle;)V b5e t
+Entry: 7b82f8
+com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z: 7b8576 -> 7b859c
+		com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z: 27e -> 2a4
+addPatchReadme: java.lang.Class<com.scottyab.rootbeer.RootBeer>isRootedWithoutBusyBoxCheck()Z 27e t
+159ceeed: [+] Patches found in this round: 2
+159ceeed: [*] Found Patch size: 1
+ExitReason-Code: 4 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_signed_obfuscated.ilog)
+	System.exit called in native code!
+159ceeed: Querying offset: 7b8576
+159ceeed: 	--Add method name to patch = com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z 	7b8576
+Devices presenting anti-analysis: 
+	devDebug
+159ceeed: patching method: com.google.android.gms.internal.measurement.zzdb/zza:(Landroid/content/Context;)Lcom/google/android/gms/internal/measurement/zzdx;
+159ceeed: patching method: hu.bitnet.tesco2.MainActivity/GavGYMlRuDmWoVjC:(Lhu/bitnet/tesco2/MainActivity;)Landroid/content/res/Resources;
+159ceeed: patching method: hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V
+159ceeed: patching method: com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z
+159ceeed: patching method: com.scottyab.rootbeer.RootBeer/isRooted:()Z
+159ceeed: outDir - /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devDebug
+Wow!!!!!  --  com.scottyab.rootbeer.RootBeer/isRooted:()Z
+fallthrough: 34a
+branchTarget: 34a
+NOP!
+Wow!!!!!  --  com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z
+fallthrough: 284
+branchTarget: 2a4
+label = sswitch_data_12
+GOTO -- 284 	2a4
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devDebug/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devDebug/signed_obfuscated.apk
+159ceeed: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devDebug/signed_signed_obfuscated.apk
+159ceeed: First address of Lcom/scottyab/rootbeer/RootBeer;->isRootedWithoutBusyBoxCheck()Z = 7b8308
+159ceeed: Address - Lcom/scottyab/rootbeer/RootBeer;->isRootedWithoutBusyBoxCheck()Z@27e	 lastOffset = a50
+159ceeed: Instruction@@: SPARSE_SWITCH
+159ceeed: First address of Lcom/scottyab/rootbeer/RootBeer;->isRooted()Z = 7b7770
+159ceeed: Address - Lcom/scottyab/rootbeer/RootBeer;->isRooted()Z@346	 lastOffset = b64
+159ceeed: Instruction@@: IF_NEZ
+159ceeed: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devDebug/signed_signed_obfuscated.apk
+159ceeed: Installation Success
+159ceeed: startApplication called! - devDebug
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_signed_obfuscated.ilog)
+PIDs--------------------------------------------------------------------------
+u0_a364       12723    425 14147940 109076 0                  0 S cz.anywhere.itesco
+forward tcp:5005 jdwp:12723
+[*]Found JDWP Target: 12723
+159ceeed: Running Application: cz.anywhere.itesco
+159ceeed: Running is done - starting comparing... : 5001
+159ceeed: Terminated logcat thread...by itself
+159ceeed: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: cz.anywhere.itesco
+Tryging remove : uninstall cz.anywhere.itesco(cz.anywhere.itesco)
+159ceeed: Remove Success
+159ceeed: ilog file size: 33438033
+159ceeed: End of collecting logcat...
+HPFinder's try count remains: 21
+159ceeed: isFailedToLaunch: com.android.launcher3/.Launcher
+159ceeed: 	--result: Failed :( (1)
+159ceeed: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated.apk launch is failed on devDebug
+159ceeed: adding filter -- 7b7aa6
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 1a037c
+-- current localPatchFilter: 7b8592
+-- current localPatchFilter: 7b7aa6
+-- current localPatchFilter: 7b8576
+-- current localPatchFilter: 19f896
+[GOOD]: Anti-analysis is identified! :) -- 1 --devDebug
+android.app.Dialog/show:()V:7c68bc		=(rels)=>		1
+[*] Unique action: 1:469204 : <<CALL>> : hu.bitnet.qlib.QUI$Message/<init>:(Landroid/content/Context;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V:7c68bc  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:453281 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a039a  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a03a8
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:424ff6		=(rels)=>		1
+[*] Unique action: 1:503814 : <<CALL>> : androidx.appcompat.app.AlertController/setupButtons:(Landroid/view/ViewGroup;)V:424ff6  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:453281 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a039a  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a03a8
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:425044		=(rels)=>		1
+[*] Unique action: 1:503859 : <<CALL>> : androidx.appcompat.app.AlertController/setupButtons:(Landroid/view/ViewGroup;)V:425044  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:453281 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a039a  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a03a8
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:424fc4		=(rels)=>		1
+[*] Unique action: 1:503800 : <<CALL>> : androidx.appcompat.app.AlertController/setupButtons:(Landroid/view/ViewGroup;)V:424fc4  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:453281 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a039a  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a03a8
+java.net.URL/openConnection:()Ljava/net/URLConnection;:7c3cca		=(rels)=>		4
+[*] Unique action: 24:454330 : <<CALL>> : hu.bitnet.qlib.QHttp/doRequest:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/io/File;Ljavax/net/ssl/SSLContext;)Lhu/bitnet/qlib/QHttp$Response;:7c3cca  =>  java.net.URL/openConnection:()Ljava/net/URLConnection;:12417c
+[*] Unique action: 24:454330 : <<CALL>> : hu.bitnet.qlib.QHttp/doRequest:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/io/File;Ljavax/net/ssl/SSLContext;)Lhu/bitnet/qlib/QHttp$Response;:7c3cca  =>  java.net.URL/openConnection:()Ljava/net/URLConnection;:12417c
+[*] Unique action: 24:454330 : <<CALL>> : hu.bitnet.qlib.QHttp/doRequest:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/io/File;Ljavax/net/ssl/SSLContext;)Lhu/bitnet/qlib/QHttp$Response;:7c3cca  =>  java.net.URL/openConnection:()Ljava/net/URLConnection;:12417c
+[*] Unique action: 24:454330 : <<CALL>> : hu.bitnet.qlib.QHttp/doRequest:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/io/File;Ljavax/net/ssl/SSLContext;)Lhu/bitnet/qlib/QHttp$Response;:7c3cca  =>  java.net.URL/openConnection:()Ljava/net/URLConnection;:12417c
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:424f3a		=(rels)=>		1
+[*] Unique action: 1:503641 : <<CALL>> : androidx.appcompat.app.AlertController/setupButtons:(Landroid/view/ViewGroup;)V:424f3a  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:453281 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a039a  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a03a8
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:424f78		=(rels)=>		1
+[*] Unique action: 1:503709 : <<CALL>> : androidx.appcompat.app.AlertController/setupButtons:(Landroid/view/ViewGroup;)V:424f78  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:453281 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a039a  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a03a8
+android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:4a9af0		=(rels)=>		1
+[*] Unique action: 1:487582 : <<CALL>> : androidx.core.widget.NestedScrollView/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:4a9af0  =>  android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:1959fc
+	1:compareBackwardBranch: 1:453281 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a039a  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a03a8
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:4a9b24		=(rels)=>		1
+[*] Unique action: 1:487570 : <<CALL>> : androidx.core.widget.NestedScrollView/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:4a9b24  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+	1:compareBackwardBranch: 1:453281 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a039a  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a03a8
+android.app.Dialog/show:()V:4c01e0		=(rels)=>		1
+[*] Unique action: 1:401115 : <<CALL>> : androidx.fragment.app.DialogFragment/onStart:()V:4c01e0  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:453281 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a039a  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a03a8
+Entry: 19f83c
+hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V: 1a039a -> 1a03a8
+		hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V: b5e -> b6c
+addPatchReadme: java.lang.Class<hu.bitnet.tesco2.MainActivity>onCreate(Landroid/os/Bundle;)V b5e t
+Entry: 7b82f8
+com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z: 7b855a -> 7b85a8
+		com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z: 262 -> 2b0
+addPatchReadme: java.lang.Class<com.scottyab.rootbeer.RootBeer>isRootedWithoutBusyBoxCheck()Z 262 t
+159ceeed: [+] Patches found in this round: 2
+159ceeed: [*] Found Patch size: 1
+ExitReason-Code: 4 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_signed_obfuscated.ilog)
+	System.exit called in native code!
+159ceeed: Querying offset: 7b855a
+159ceeed: 	--Add method name to patch = com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z 	7b855a
+Devices presenting anti-analysis: 
+	devDebug
+159ceeed: patching method: com.google.android.gms.internal.measurement.zzdb/zza:(Landroid/content/Context;)Lcom/google/android/gms/internal/measurement/zzdx;
+159ceeed: patching method: hu.bitnet.tesco2.MainActivity/GavGYMlRuDmWoVjC:(Lhu/bitnet/tesco2/MainActivity;)Landroid/content/res/Resources;
+159ceeed: patching method: hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V
+159ceeed: patching method: com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z
+159ceeed: patching method: com.scottyab.rootbeer.RootBeer/isRooted:()Z
+159ceeed: outDir - /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devDebug
+Wow!!!!!  --  com.scottyab.rootbeer.RootBeer/isRooted:()Z
+fallthrough: 34a
+branchTarget: 34a
+NOP!
+Wow!!!!!  --  com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z
+fallthrough: 268
+branchTarget: 2b0
+label = sswitch_data_11
+GOTO -- 268 	2b0
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devDebug/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devDebug/signed_obfuscated.apk
+159ceeed: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devDebug/signed_signed_obfuscated.apk
+159ceeed: First address of Lcom/scottyab/rootbeer/RootBeer;->isRootedWithoutBusyBoxCheck()Z = 7b8308
+159ceeed: Address - Lcom/scottyab/rootbeer/RootBeer;->isRootedWithoutBusyBoxCheck()Z@262	 lastOffset = a50
+159ceeed: Instruction@@: SPARSE_SWITCH
+159ceeed: First address of Lcom/scottyab/rootbeer/RootBeer;->isRooted()Z = 7b7770
+159ceeed: Address - Lcom/scottyab/rootbeer/RootBeer;->isRooted()Z@346	 lastOffset = b64
+159ceeed: Instruction@@: IF_NEZ
+159ceeed: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devDebug/signed_signed_obfuscated.apk
+159ceeed: Installation Success
+159ceeed: startApplication called! - devDebug
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_signed_obfuscated.ilog)
+PIDs--------------------------------------------------------------------------
+u0_a365       12947    425 14147940 109036 0                  0 S cz.anywhere.itesco
+forward tcp:5005 jdwp:12947
+[*]Found JDWP Target: 12947
+159ceeed: Running Application: cz.anywhere.itesco
+159ceeed: Running is done - starting comparing... : 5001
+159ceeed: Terminated logcat thread...by itself
+159ceeed: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: cz.anywhere.itesco
+Tryging remove : uninstall cz.anywhere.itesco(cz.anywhere.itesco)
+159ceeed: Remove Success
+159ceeed: ilog file size: 27959460
+159ceeed: End of collecting logcat...
+HPFinder's try count remains: 20
+159ceeed: isFailedToLaunch: com.android.launcher3/.Launcher
+159ceeed: 	--result: Failed :( (1)
+159ceeed: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated.apk launch is failed on devDebug
+159ceeed: adding filter -- 7b7aa6
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 7b855a
+-- current localPatchFilter: 1a037c
+-- current localPatchFilter: 7b8592
+-- current localPatchFilter: 7b7aa6
+-- current localPatchFilter: 7b8576
+-- current localPatchFilter: 19f896
+[GOOD]: Anti-analysis is identified! :) -- 1 --devDebug
+android.app.Dialog/show:()V:7c68bc		=(rels)=>		1
+[*] Unique action: 1:469204 : <<CALL>> : hu.bitnet.qlib.QUI$Message/<init>:(Landroid/content/Context;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V:7c68bc  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:453281 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a039a  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a03a8
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:424ff6		=(rels)=>		1
+[*] Unique action: 1:503814 : <<CALL>> : androidx.appcompat.app.AlertController/setupButtons:(Landroid/view/ViewGroup;)V:424ff6  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:453281 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a039a  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a03a8
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:425044		=(rels)=>		1
+[*] Unique action: 1:503859 : <<CALL>> : androidx.appcompat.app.AlertController/setupButtons:(Landroid/view/ViewGroup;)V:425044  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:453281 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a039a  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a03a8
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:424fc4		=(rels)=>		1
+[*] Unique action: 1:503800 : <<CALL>> : androidx.appcompat.app.AlertController/setupButtons:(Landroid/view/ViewGroup;)V:424fc4  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:453281 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a039a  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a03a8
+java.net.URL/openConnection:()Ljava/net/URLConnection;:7c3cca		=(rels)=>		4
+[*] Unique action: 24:454330 : <<CALL>> : hu.bitnet.qlib.QHttp/doRequest:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/io/File;Ljavax/net/ssl/SSLContext;)Lhu/bitnet/qlib/QHttp$Response;:7c3cca  =>  java.net.URL/openConnection:()Ljava/net/URLConnection;:12417c
+[*] Unique action: 24:454330 : <<CALL>> : hu.bitnet.qlib.QHttp/doRequest:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/io/File;Ljavax/net/ssl/SSLContext;)Lhu/bitnet/qlib/QHttp$Response;:7c3cca  =>  java.net.URL/openConnection:()Ljava/net/URLConnection;:12417c
+[*] Unique action: 24:454330 : <<CALL>> : hu.bitnet.qlib.QHttp/doRequest:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/io/File;Ljavax/net/ssl/SSLContext;)Lhu/bitnet/qlib/QHttp$Response;:7c3cca  =>  java.net.URL/openConnection:()Ljava/net/URLConnection;:12417c
+[*] Unique action: 24:454330 : <<CALL>> : hu.bitnet.qlib.QHttp/doRequest:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/io/File;Ljavax/net/ssl/SSLContext;)Lhu/bitnet/qlib/QHttp$Response;:7c3cca  =>  java.net.URL/openConnection:()Ljava/net/URLConnection;:12417c
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:424f3a		=(rels)=>		1
+[*] Unique action: 1:503641 : <<CALL>> : androidx.appcompat.app.AlertController/setupButtons:(Landroid/view/ViewGroup;)V:424f3a  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:453281 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a039a  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a03a8
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:424f78		=(rels)=>		1
+[*] Unique action: 1:503709 : <<CALL>> : androidx.appcompat.app.AlertController/setupButtons:(Landroid/view/ViewGroup;)V:424f78  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:453281 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a039a  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a03a8
+android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:4a9af0		=(rels)=>		1
+[*] Unique action: 1:487582 : <<CALL>> : androidx.core.widget.NestedScrollView/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:4a9af0  =>  android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:1959fc
+	1:compareBackwardBranch: 1:453281 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a039a  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a03a8
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:4a9b24		=(rels)=>		1
+[*] Unique action: 1:487570 : <<CALL>> : androidx.core.widget.NestedScrollView/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:4a9b24  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+	1:compareBackwardBranch: 1:453281 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a039a  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a03a8
+android.app.Dialog/show:()V:4c01e0		=(rels)=>		1
+[*] Unique action: 1:401115 : <<CALL>> : androidx.fragment.app.DialogFragment/onStart:()V:4c01e0  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:453281 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a039a  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a03a8
+Entry: 19f83c
+hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V: 1a039a -> 1a03a8
+		hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V: b5e -> b6c
+addPatchReadme: java.lang.Class<hu.bitnet.tesco2.MainActivity>onCreate(Landroid/os/Bundle;)V b5e t
+Entry: 7b82f8
+com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z: 7b8532 -> 7b853a
+		com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z: 23a -> 242
+addPatchReadme: java.lang.Class<com.scottyab.rootbeer.RootBeer>isRootedWithoutBusyBoxCheck()Z 23a t
+159ceeed: [+] Patches found in this round: 2
+159ceeed: [*] Found Patch size: 1
+ExitReason-Code: 4 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_signed_obfuscated.ilog)
+	System.exit called in native code!
+159ceeed: Querying offset: 7b8532
+159ceeed: 	--Add method name to patch = com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z 	7b8532
+Devices presenting anti-analysis: 
+	devDebug
+159ceeed: patching method: com.google.android.gms.internal.measurement.zzdb/zza:(Landroid/content/Context;)Lcom/google/android/gms/internal/measurement/zzdx;
+159ceeed: patching method: hu.bitnet.tesco2.MainActivity/GavGYMlRuDmWoVjC:(Lhu/bitnet/tesco2/MainActivity;)Landroid/content/res/Resources;
+159ceeed: patching method: hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V
+159ceeed: patching method: com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z
+159ceeed: patching method: com.scottyab.rootbeer.RootBeer/isRooted:()Z
+159ceeed: outDir - /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devDebug
+Wow!!!!!  --  com.scottyab.rootbeer.RootBeer/isRooted:()Z
+fallthrough: 34a
+branchTarget: 34a
+NOP!
+Wow!!!!!  --  com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z
+fallthrough: 240
+branchTarget: 242
+label = sswitch_data_10
+GOTO -- 240 	242
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devDebug/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devDebug/signed_obfuscated.apk
+159ceeed: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devDebug/signed_signed_obfuscated.apk
+159ceeed: First address of Lcom/scottyab/rootbeer/RootBeer;->isRootedWithoutBusyBoxCheck()Z = 7b8308
+159ceeed: Address - Lcom/scottyab/rootbeer/RootBeer;->isRootedWithoutBusyBoxCheck()Z@23a	 lastOffset = a50
+159ceeed: Instruction@@: SPARSE_SWITCH
+159ceeed: First address of Lcom/scottyab/rootbeer/RootBeer;->isRooted()Z = 7b7770
+159ceeed: Address - Lcom/scottyab/rootbeer/RootBeer;->isRooted()Z@346	 lastOffset = b64
+159ceeed: Instruction@@: IF_NEZ
+159ceeed: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devDebug/signed_signed_obfuscated.apk
+159ceeed: Installation Success
+159ceeed: startApplication called! - devDebug
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_signed_obfuscated.ilog)
+PIDs--------------------------------------------------------------------------
+u0_a366       13168    425 14147044 108084 0                  0 R cz.anywhere.itesco
+forward tcp:5005 jdwp:13168
+[*]Found JDWP Target: 13168
+159ceeed: Running Application: cz.anywhere.itesco
+159ceeed: Running is done - starting comparing... : 5001
+159ceeed: Terminated logcat thread...by itself
+159ceeed: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: cz.anywhere.itesco
+Tryging remove : uninstall cz.anywhere.itesco(cz.anywhere.itesco)
+159ceeed: Remove Success
+159ceeed: ilog file size: 27247966
+159ceeed: End of collecting logcat...
+HPFinder's try count remains: 19
+159ceeed: isFailedToLaunch: com.android.launcher3/.Launcher
+159ceeed: 	--result: Failed :( (1)
+159ceeed: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated.apk launch is failed on devDebug
+159ceeed: adding filter -- 7b7aa6
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 7b855a
+-- current localPatchFilter: 1a037c
+-- current localPatchFilter: 7b8592
+-- current localPatchFilter: 7b8532
+-- current localPatchFilter: 7b7aa6
+-- current localPatchFilter: 7b8576
+-- current localPatchFilter: 19f896
+[GOOD]: Anti-analysis is identified! :) -- 1 --devDebug
+android.app.Dialog/show:()V:7c68bc		=(rels)=>		1
+[*] Unique action: 1:469204 : <<CALL>> : hu.bitnet.qlib.QUI$Message/<init>:(Landroid/content/Context;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V:7c68bc  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:453281 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a039a  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a03a8
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:424ff6		=(rels)=>		1
+[*] Unique action: 1:503814 : <<CALL>> : androidx.appcompat.app.AlertController/setupButtons:(Landroid/view/ViewGroup;)V:424ff6  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:453281 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a039a  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a03a8
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:425044		=(rels)=>		1
+[*] Unique action: 1:503859 : <<CALL>> : androidx.appcompat.app.AlertController/setupButtons:(Landroid/view/ViewGroup;)V:425044  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:453281 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a039a  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a03a8
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:424fc4		=(rels)=>		1
+[*] Unique action: 1:503800 : <<CALL>> : androidx.appcompat.app.AlertController/setupButtons:(Landroid/view/ViewGroup;)V:424fc4  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:453281 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a039a  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a03a8
+java.net.URL/openConnection:()Ljava/net/URLConnection;:7c3cca		=(rels)=>		4
+[*] Unique action: 24:454330 : <<CALL>> : hu.bitnet.qlib.QHttp/doRequest:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/io/File;Ljavax/net/ssl/SSLContext;)Lhu/bitnet/qlib/QHttp$Response;:7c3cca  =>  java.net.URL/openConnection:()Ljava/net/URLConnection;:12417c
+[*] Unique action: 24:454330 : <<CALL>> : hu.bitnet.qlib.QHttp/doRequest:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/io/File;Ljavax/net/ssl/SSLContext;)Lhu/bitnet/qlib/QHttp$Response;:7c3cca  =>  java.net.URL/openConnection:()Ljava/net/URLConnection;:12417c
+[*] Unique action: 24:454330 : <<CALL>> : hu.bitnet.qlib.QHttp/doRequest:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/io/File;Ljavax/net/ssl/SSLContext;)Lhu/bitnet/qlib/QHttp$Response;:7c3cca  =>  java.net.URL/openConnection:()Ljava/net/URLConnection;:12417c
+[*] Unique action: 24:454330 : <<CALL>> : hu.bitnet.qlib.QHttp/doRequest:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/io/File;Ljavax/net/ssl/SSLContext;)Lhu/bitnet/qlib/QHttp$Response;:7c3cca  =>  java.net.URL/openConnection:()Ljava/net/URLConnection;:12417c
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:424f3a		=(rels)=>		1
+[*] Unique action: 1:503641 : <<CALL>> : androidx.appcompat.app.AlertController/setupButtons:(Landroid/view/ViewGroup;)V:424f3a  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:453281 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a039a  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a03a8
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:424f78		=(rels)=>		1
+[*] Unique action: 1:503709 : <<CALL>> : androidx.appcompat.app.AlertController/setupButtons:(Landroid/view/ViewGroup;)V:424f78  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:453281 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a039a  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a03a8
+android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:4a9af0		=(rels)=>		1
+[*] Unique action: 1:487582 : <<CALL>> : androidx.core.widget.NestedScrollView/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:4a9af0  =>  android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:1959fc
+	1:compareBackwardBranch: 1:453281 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a039a  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a03a8
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:4a9b24		=(rels)=>		1
+[*] Unique action: 1:487570 : <<CALL>> : androidx.core.widget.NestedScrollView/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:4a9b24  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+	1:compareBackwardBranch: 1:453281 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a039a  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a03a8
+android.app.Dialog/show:()V:4c01e0		=(rels)=>		1
+[*] Unique action: 1:401115 : <<CALL>> : androidx.fragment.app.DialogFragment/onStart:()V:4c01e0  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:453281 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a039a  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a03a8
+Entry: 19f83c
+hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V: 1a039a -> 1a03a8
+		hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V: b5e -> b6c
+addPatchReadme: java.lang.Class<hu.bitnet.tesco2.MainActivity>onCreate(Landroid/os/Bundle;)V b5e t
+Entry: 7b82f8
+com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z: 7b8334 -> 7b85bc
+		com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z: 3c -> 2c4
+addPatchReadme: java.lang.Class<com.scottyab.rootbeer.RootBeer>isRootedWithoutBusyBoxCheck()Z 3c t
+159ceeed: [+] Patches found in this round: 2
+159ceeed: [*] Found Patch size: 1
+ExitReason-Code: 4 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_signed_obfuscated.ilog)
+	System.exit called in native code!
+159ceeed: Querying offset: 7b8334
+159ceeed: 	--Add method name to patch = com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z 	7b8334
+Devices presenting anti-analysis: 
+	devDebug
+159ceeed: patching method: com.google.android.gms.internal.measurement.zzdb/zza:(Landroid/content/Context;)Lcom/google/android/gms/internal/measurement/zzdx;
+159ceeed: patching method: hu.bitnet.tesco2.MainActivity/GavGYMlRuDmWoVjC:(Lhu/bitnet/tesco2/MainActivity;)Landroid/content/res/Resources;
+159ceeed: patching method: hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V
+159ceeed: patching method: com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z
+159ceeed: patching method: com.scottyab.rootbeer.RootBeer/isRooted:()Z
+159ceeed: outDir - /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devDebug
+Wow!!!!!  --  com.scottyab.rootbeer.RootBeer/isRooted:()Z
+fallthrough: 34a
+branchTarget: 34a
+NOP!
+Wow!!!!!  --  com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z
+fallthrough: 42
+branchTarget: 2c4
+label = sswitch_data_0
+GOTO -- 42 	2c4
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devDebug/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devDebug/signed_obfuscated.apk
+159ceeed: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devDebug/signed_signed_obfuscated.apk
+159ceeed: First address of Lcom/scottyab/rootbeer/RootBeer;->isRootedWithoutBusyBoxCheck()Z = 7b8308
+159ceeed: Address - Lcom/scottyab/rootbeer/RootBeer;->isRootedWithoutBusyBoxCheck()Z@3c	 lastOffset = a50
+159ceeed: Instruction@@: SPARSE_SWITCH
+159ceeed: First address of Lcom/scottyab/rootbeer/RootBeer;->isRooted()Z = 7b7770
+159ceeed: Address - Lcom/scottyab/rootbeer/RootBeer;->isRooted()Z@346	 lastOffset = b64
+159ceeed: Instruction@@: IF_NEZ
+159ceeed: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devDebug/signed_signed_obfuscated.apk
+159ceeed: Installation Success
+159ceeed: startApplication called! - devDebug
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_signed_obfuscated.ilog)
+PIDs--------------------------------------------------------------------------
+u0_a367       13395    425 14147944 109216 0                  0 R cz.anywhere.itesco
+forward tcp:5005 jdwp:13395
+[*]Found JDWP Target: 13395
+159ceeed: Running Application: cz.anywhere.itesco
+159ceeed: Running is done - starting comparing... : 5001
+159ceeed: Terminated logcat thread...by itself
+159ceeed: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: cz.anywhere.itesco
+Tryging remove : uninstall cz.anywhere.itesco(cz.anywhere.itesco)
+159ceeed: Remove Success
+159ceeed: ilog file size: 33838422
+159ceeed: End of collecting logcat...
+HPFinder's try count remains: 18
+159ceeed: isFailedToLaunch: com.android.launcher3/.Launcher
+159ceeed: 	--result: Failed :( (1)
+159ceeed: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated.apk launch is failed on devDebug
+159ceeed: adding filter -- 7b7aa6
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 7b855a
+-- current localPatchFilter: 1a037c
+-- current localPatchFilter: 7b8592
+-- current localPatchFilter: 7b8532
+-- current localPatchFilter: 7b7aa6
+-- current localPatchFilter: 7b8576
+-- current localPatchFilter: 19f896
+-- current localPatchFilter: 7b8334
+[GOOD]: Anti-analysis is identified! :) -- 1 --devDebug
+android.app.Dialog/show:()V:7c68bc		=(rels)=>		1
+[*] Unique action: 1:469204 : <<CALL>> : hu.bitnet.qlib.QUI$Message/<init>:(Landroid/content/Context;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V:7c68bc  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:453281 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a039a  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a03a8
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:424ff6		=(rels)=>		1
+[*] Unique action: 1:503814 : <<CALL>> : androidx.appcompat.app.AlertController/setupButtons:(Landroid/view/ViewGroup;)V:424ff6  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:453281 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a039a  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a03a8
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:425044		=(rels)=>		1
+[*] Unique action: 1:503859 : <<CALL>> : androidx.appcompat.app.AlertController/setupButtons:(Landroid/view/ViewGroup;)V:425044  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:453281 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a039a  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a03a8
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:424fc4		=(rels)=>		1
+[*] Unique action: 1:503800 : <<CALL>> : androidx.appcompat.app.AlertController/setupButtons:(Landroid/view/ViewGroup;)V:424fc4  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:453281 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a039a  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a03a8
+java.net.URL/openConnection:()Ljava/net/URLConnection;:7c3cca		=(rels)=>		4
+[*] Unique action: 24:454330 : <<CALL>> : hu.bitnet.qlib.QHttp/doRequest:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/io/File;Ljavax/net/ssl/SSLContext;)Lhu/bitnet/qlib/QHttp$Response;:7c3cca  =>  java.net.URL/openConnection:()Ljava/net/URLConnection;:12417c
+[*] Unique action: 24:454330 : <<CALL>> : hu.bitnet.qlib.QHttp/doRequest:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/io/File;Ljavax/net/ssl/SSLContext;)Lhu/bitnet/qlib/QHttp$Response;:7c3cca  =>  java.net.URL/openConnection:()Ljava/net/URLConnection;:12417c
+[*] Unique action: 24:454330 : <<CALL>> : hu.bitnet.qlib.QHttp/doRequest:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/io/File;Ljavax/net/ssl/SSLContext;)Lhu/bitnet/qlib/QHttp$Response;:7c3cca  =>  java.net.URL/openConnection:()Ljava/net/URLConnection;:12417c
+[*] Unique action: 24:454330 : <<CALL>> : hu.bitnet.qlib.QHttp/doRequest:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/io/File;Ljavax/net/ssl/SSLContext;)Lhu/bitnet/qlib/QHttp$Response;:7c3cca  =>  java.net.URL/openConnection:()Ljava/net/URLConnection;:12417c
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:424f3a		=(rels)=>		1
+[*] Unique action: 1:503641 : <<CALL>> : androidx.appcompat.app.AlertController/setupButtons:(Landroid/view/ViewGroup;)V:424f3a  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:453281 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a039a  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a03a8
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:424f78		=(rels)=>		1
+[*] Unique action: 1:503709 : <<CALL>> : androidx.appcompat.app.AlertController/setupButtons:(Landroid/view/ViewGroup;)V:424f78  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:453281 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a039a  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a03a8
+android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:4a9af0		=(rels)=>		1
+[*] Unique action: 1:487582 : <<CALL>> : androidx.core.widget.NestedScrollView/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:4a9af0  =>  android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:1959fc
+	1:compareBackwardBranch: 1:453281 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a039a  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a03a8
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:4a9b24		=(rels)=>		1
+[*] Unique action: 1:487570 : <<CALL>> : androidx.core.widget.NestedScrollView/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:4a9b24  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+	1:compareBackwardBranch: 1:453281 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a039a  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a03a8
+android.app.Dialog/show:()V:4c01e0		=(rels)=>		1
+[*] Unique action: 1:401115 : <<CALL>> : androidx.fragment.app.DialogFragment/onStart:()V:4c01e0  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:453281 : <<BRANCH>> : hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a039a  =>  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a03a8
+Entry: 19f83c
+hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V: 1a039a -> 1a03a8
+		hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V: b5e -> b6c
+addPatchReadme: java.lang.Class<hu.bitnet.tesco2.MainActivity>onCreate(Landroid/os/Bundle;)V b5e t
+Entry: 19f83c
+hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V: 1a03da -> 1a03e4
+		hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V: b9e -> ba8
+addPatchReadme: java.lang.Class<hu.bitnet.tesco2.MainActivity>onCreate(Landroid/os/Bundle;)V b9e t
+159ceeed: [+] Patches found in this round: 2
+159ceeed: [*] Found Patch size: 1
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_signed_obfuscated.ilog)
+159ceeed: Querying offset: 1a03da
+159ceeed: 	--Add method name to patch = hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V 	1a03da
+Devices presenting anti-analysis: 
+	devDebug
+159ceeed: patching method: com.google.android.gms.internal.measurement.zzdb/zza:(Landroid/content/Context;)Lcom/google/android/gms/internal/measurement/zzdx;
+159ceeed: patching method: hu.bitnet.tesco2.MainActivity/GavGYMlRuDmWoVjC:(Lhu/bitnet/tesco2/MainActivity;)Landroid/content/res/Resources;
+159ceeed: patching method: hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V
+159ceeed: patching method: com.scottyab.rootbeer.RootBeer/isRootedWithoutBusyBoxCheck:()Z
+159ceeed: patching method: com.scottyab.rootbeer.RootBeer/isRooted:()Z
+159ceeed: outDir - /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devDebug
+Wow!!!!!  --  com.scottyab.rootbeer.RootBeer/isRooted:()Z
+fallthrough: 34a
+branchTarget: 34a
+NOP!
+Wow!!!!!  --  hu.bitnet.tesco2.MainActivity/onCreate:(Landroid/os/Bundle;)V
+fallthrough: ba2
+branchTarget: ba8
+label = cond_11
+GOTO -- ba2 	ba8
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devDebug/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devDebug/signed_obfuscated.apk
+159ceeed: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devDebug/signed_signed_obfuscated.apk
+159ceeed: First address of Lhu/bitnet/tesco2/MainActivity;->onCreate(Landroid/os/Bundle;)V = 19f84c
+159ceeed: Address - Lhu/bitnet/tesco2/MainActivity;->onCreate(Landroid/os/Bundle;)V@b9e	 lastOffset = 1458
+159ceeed: Instruction@@: IF_EQZ
+159ceeed: First address of Lcom/scottyab/rootbeer/RootBeer;->isRooted()Z = 7b7770
+159ceeed: Address - Lcom/scottyab/rootbeer/RootBeer;->isRooted()Z@346	 lastOffset = b64
+159ceeed: Instruction@@: IF_NEZ
+159ceeed: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/signed_obfuscated_devDebug/signed_signed_obfuscated.apk
+159ceeed: Installation Success
+159ceeed: startApplication called! - devDebug
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_signed_obfuscated.ilog)
+PIDs--------------------------------------------------------------------------
+u0_a368       13617    425 14147940 109196 0                  0 R cz.anywhere.itesco
+forward tcp:5005 jdwp:13617
+[*]Found JDWP Target: 13617
+159ceeed: Running Application: cz.anywhere.itesco
+159ceeed: Top-activity: cz.anywhere.itesco/hu.bitnet.tesco2.MainActivity
+PIDs--------------------------------------------------------------------------
+u0_a368       13617    425 14644280 197244 0                  0 S cz.anywhere.itesco
+159ceeed: Terminated logcat thread...by itself
+PIDs--------------------------------------------------------------------------
+u0_a368       13617    425 14644280 197244 0                  0 S cz.anywhere.itesco
+Stopping app: cz.anywhere.itesco
+Tryging remove : uninstall cz.anywhere.itesco(cz.anywhere.itesco)
+159ceeed: Remove Success
+159ceeed: ilog file size: 332299883
+159ceeed: End of collecting logcat...
+HPFinder's try count remains: 17
+159ceeed: isFailedToLaunch: cz.anywhere.itesco/hu.bitnet.tesco2.MainActivity
+159ceeed: 	--result: Good :)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_signed_obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_signed_obfuscated.ilog)
+159ceeed: adding filter -- 1a03da
+159ceeed: adding filter -- 7b7aa6
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 1a03da
+-- current localPatchFilter: 7b7aa6
+Action is completely same :)
+Action is completely same :)
+159ceeed: There is no difference. (tryAgain=false)
+-- HPFinder will be done in this iteration :)
+hasAntiAnalysis? - devTamper: false on hu.bitnet.tesco2.MainActivity
+hasAntiAnalysis? - devRoot: true on hu.bitnet.tesco2.MainActivity
+	isRemovedThem? - devRoot: true on hu.bitnet.tesco2.MainActivity	-	tryCount: 3
+hasAntiAnalysis? - devDebug: true on hu.bitnet.tesco2.MainActivity
+	isRemovedThem? - devDebug: true on hu.bitnet.tesco2.MainActivity	-	tryCount: 12
+*****REPORT: cz.anywhere.itesco
+* Package name: cz.anywhere.itesco
+* Running time: 1612
+* FileSize: 8919719
+devTamper : 283073973
+devRef : 369993680
+devRoot : 189097257
+devDebug : 332299883
+hasAntiAnalysis? - devTamper: false on hu.bitnet.tesco2.MainActivity
+hasAntiAnalysis? - devRoot: true on hu.bitnet.tesco2.MainActivity
+	isRemovedThem? - devRoot: true on hu.bitnet.tesco2.MainActivity	-	tryCount: 3
+hasAntiAnalysis? - devDebug: true on hu.bitnet.tesco2.MainActivity
+	isRemovedThem? - devDebug: true on hu.bitnet.tesco2.MainActivity	-	tryCount: 12
+46604b9f: trying remove : cz.anywhere.itesco
+3601a6ff: trying remove : cz.anywhere.itesco
+b29e6a69: trying remove : cz.anywhere.itesco
+159ceeed: trying remove : cz.anywhere.itesco
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+b29e6a69: result = true
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+159ceeed: result = true
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+3601a6ff: result = true
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+46604b9f: result = true
+3601a6ff: isFailedToLaunch: cz.anywhere.itesco/hu.bitnet.tesco2.MainActivity
+3601a6ff: 	--result: Good :)

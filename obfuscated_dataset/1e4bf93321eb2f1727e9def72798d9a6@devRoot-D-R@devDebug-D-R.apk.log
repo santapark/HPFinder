@@ -1,0 +1,677 @@
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample10.apk.obfuscated/AndroidManifest.xml
+launchable-activity: name='com.fss.brkgb.SplashScreen'  label='BRKGB M-Connect' icon=''
+{ACTIVITY, com.fss.brkgb.SplashScreen, android.intent.action.MAIN}
+{ACTIVITY, com.fss.brkgb.GridScreenViewActivation}
+{ACTIVITY, com.fss.brkgb.GridScreenView}
+{ACTIVITY, com.fss.brkgb.ListSelection}
+{ACTIVITY, com.fss.brkgb.Loading}
+{ACTIVITY, com.fss.brkgb.DisplayableView}
+{ACTIVITY, com.fss.brkgb.HelpScreen}
+{ACTIVITY, com.fss.brkgb.DynamicCanvas}
+{ACTIVITY, com.fss.brkgb.Inbox}
+{ACTIVITY, com.fss.brkgb.EnableDisable}
+{ACTIVITY, com.google.android.gms.ads.AdActivity}
+{RECEIVER, com.google.android.gms.analytics.AnalyticsReceiver}
+{SERVICE, com.google.android.gms.analytics.AnalyticsService}
+{SERVICE, com.google.android.gms.analytics.AnalyticsJobService}
+{ACTIVITY, com.google.android.gms.appinvite.PreviewActivity, com.google.android.gms.appinvite.ACTION_PREVIEW}
+{ACTIVITY, com.google.android.gms.auth.api.signin.internal.SignInHubActivity}
+{SERVICE, com.google.android.gms.auth.api.signin.RevocationBoundService}
+{RECEIVER, com.google.android.gms.cast.framework.media.MediaIntentReceiver}
+{SERVICE, com.google.android.gms.cast.framework.media.MediaNotificationService}
+{SERVICE, com.google.android.gms.cast.framework.ReconnectionService}
+{ACTIVITY, com.google.firebase.auth.internal.FederatedSignInActivity}
+{ACTIVITY, com.google.android.gms.common.api.GoogleApiActivity}
+{SERVICE, com.google.firebase.messaging.FirebaseMessagingService, com.google.firebase.MESSAGING_EVENT}
+{SERVICE, com.google.android.gms.tagmanager.TagManagerService}
+{ACTIVITY, com.google.android.gms.tagmanager.TagManagerPreviewActivity, android.intent.action.VIEW}
+{RECEIVER, com.google.android.gms.measurement.AppMeasurementReceiver}
+{RECEIVER, com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver, com.android.vending.INSTALL_REFERRER}
+{SERVICE, com.google.android.gms.measurement.AppMeasurementService}
+{SERVICE, com.google.android.gms.measurement.AppMeasurementJobService}
+{RECEIVER, com.google.firebase.iid.FirebaseInstanceIdReceiver, com.google.android.c2dm.intent.RECEIVE}
+{ACTIVITY, com.fss.brkgb.SplashScreen, android.intent.action.MAIN}
+{ACTIVITY, com.fss.brkgb.GridScreenViewActivation}
+{ACTIVITY, com.fss.brkgb.GridScreenView}
+{ACTIVITY, com.fss.brkgb.ListSelection}
+{ACTIVITY, com.fss.brkgb.Loading}
+{ACTIVITY, com.fss.brkgb.DisplayableView}
+{ACTIVITY, com.fss.brkgb.HelpScreen}
+{ACTIVITY, com.fss.brkgb.DynamicCanvas}
+{ACTIVITY, com.fss.brkgb.Inbox}
+{ACTIVITY, com.fss.brkgb.EnableDisable}
+{ACTIVITY, com.google.android.gms.ads.AdActivity}
+{RECEIVER, com.google.android.gms.analytics.AnalyticsReceiver}
+{SERVICE, com.google.android.gms.analytics.AnalyticsService}
+{SERVICE, com.google.android.gms.analytics.AnalyticsJobService}
+{ACTIVITY, com.google.android.gms.appinvite.PreviewActivity, com.google.android.gms.appinvite.ACTION_PREVIEW}
+{ACTIVITY, com.google.android.gms.auth.api.signin.internal.SignInHubActivity}
+{SERVICE, com.google.android.gms.auth.api.signin.RevocationBoundService}
+{RECEIVER, com.google.android.gms.cast.framework.media.MediaIntentReceiver}
+{SERVICE, com.google.android.gms.cast.framework.media.MediaNotificationService}
+{SERVICE, com.google.android.gms.cast.framework.ReconnectionService}
+{ACTIVITY, com.google.firebase.auth.internal.FederatedSignInActivity}
+{ACTIVITY, com.google.android.gms.common.api.GoogleApiActivity}
+{SERVICE, com.google.firebase.messaging.FirebaseMessagingService, com.google.firebase.MESSAGING_EVENT}
+{SERVICE, com.google.android.gms.tagmanager.TagManagerService}
+{ACTIVITY, com.google.android.gms.tagmanager.TagManagerPreviewActivity, android.intent.action.VIEW}
+{RECEIVER, com.google.android.gms.measurement.AppMeasurementReceiver}
+{RECEIVER, com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver, com.android.vending.INSTALL_REFERRER}
+{SERVICE, com.google.android.gms.measurement.AppMeasurementService}
+{SERVICE, com.google.android.gms.measurement.AppMeasurementJobService}
+{RECEIVER, com.google.firebase.iid.FirebaseInstanceIdReceiver, com.google.android.c2dm.intent.RECEIVE}
+_getAllDexFiles: /home/santapark/Extended3/DEEPerence/reEx/sample10.apk.obfuscated/classes2.dex
+_getAllDexFiles: /home/santapark/Extended3/DEEPerence/reEx/sample10.apk.obfuscated/classes.dex
+----------------/home/santapark/Extended3/DEEPerence/reEx/sample10.apk.obfuscated.apk
+dexFile = org.jf.dexlib2.dexbacked.DexBackedDexFile@1477089c
+com.fss.brkgb
+com.fss.brkgb.SplashScreen
+debuggable: true
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample10.apk.obfuscated.apk
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample10.apk.obfuscated.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample10.apk.obfuscated.apk
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample10.apk.obfuscated_46604b9f/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample10.apk.obfuscated_46604b9f/sample10.apk.obfuscated.apk
+3601a6ff: Installation Success
+b29e6a69: Installation Success
+159ceeed: Installation Success
+46604b9f: Installing repackaged apk File: 
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample10.apk.obfuscated_46604b9f/signed_sample10.apk.obfuscated.apk
+46604b9f: Installation Success
+46604b9f: startApplication called! - devTamper
+3601a6ff: startApplication called! - devRef
+b29e6a69: startApplication called! - devRoot
+159ceeed: startApplication called! - devDebug
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample10.obfuscated.ilog)
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample10.obfuscated.ilog)
+3601a6ff: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample10.obfuscated.ilog)
+46604b9f: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devTamper_sample10.obfuscated.ilog)
+b29e6a69: Running Application: com.fss.brkgb
+46604b9f: Running Application: com.fss.brkgb
+3601a6ff: Running Application: com.fss.brkgb
+PIDs--------------------------------------------------------------------------
+u0_a341        4620    425 14818056 108220 0                  0 R com.fss.brkgb
+forward tcp:5005 jdwp:4620
+[*]Found JDWP Target: 4620
+159ceeed: Running Application: com.fss.brkgb
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.fss.brkgb/.SplashScreen
+PIDs--------------------------------------------------------------------------
+u0_a3551       4437    430 14720936 129616 0                  0 S com.fss.brkgb
+PIDs--------------------------------------------------------------------------
+u0_a3551       4437    430 14720936 129616 0                  0 S com.fss.brkgb
+Stopping app: com.fss.brkgb
+159ceeed: Running is done - starting comparing... : 5001
+159ceeed: Terminated logcat thread...by itself
+159ceeed: Top-activity: com.fss.brkgb/.SplashScreen
+PIDs--------------------------------------------------------------------------
+u0_a341        4620    425 14890592 132828 0                  0 S com.fss.brkgb
+PIDs--------------------------------------------------------------------------
+u0_a341        4620    425 14890592 132828 0                  0 S com.fss.brkgb
+Stopping app: com.fss.brkgb
+Tryging remove : uninstall com.fss.brkgb(com.fss.brkgb)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 2494001
+b29e6a69: End of collecting logcat...
+Tryging remove : uninstall com.fss.brkgb(com.fss.brkgb)
+159ceeed: Remove Success
+159ceeed: ilog file size: 12900571
+159ceeed: End of collecting logcat...
+3601a6ff: Running is done - starting comparing... : 5001
+3601a6ff: Terminated logcat thread...by itself
+46604b9f: Running is done - starting comparing... : 5001
+46604b9f: Terminated logcat thread...by itself
+46604b9f: Top-activity: com.fss.brkgb/.DisplayableView
+PIDs--------------------------------------------------------------------------
+u0_a1083      11109    429 14816212 138000 0                  0 S com.fss.brkgb
+3601a6ff: Top-activity: com.fss.brkgb/.DisplayableView
+PIDs--------------------------------------------------------------------------
+u0_a1083      11109    429 14816212 138000 0                  0 S com.fss.brkgb
+Stopping app: com.fss.brkgb
+PIDs--------------------------------------------------------------------------
+u0_a211       23266    421 14886720 138280 0                  0 S com.fss.brkgb
+PIDs--------------------------------------------------------------------------
+u0_a211       23266    421 14886720 138280 0                  0 S com.fss.brkgb
+Stopping app: com.fss.brkgb
+Tryging remove : uninstall com.fss.brkgb(com.fss.brkgb)
+3601a6ff: Remove Success
+3601a6ff: ilog file size: 23076016
+3601a6ff: End of collecting logcat...
+Tryging remove : uninstall com.fss.brkgb(com.fss.brkgb)
+46604b9f: Remove Success
+46604b9f: ilog file size: 23561904
+46604b9f: End of collecting logcat...
+HPFinder's try count remains: 29
+46604b9f: isFailedToLaunch: com.fss.brkgb/.DisplayableView
+46604b9f: 	--result: Good :)
+b29e6a69: isFailedToLaunch: com.fss.brkgb/.SplashScreen
+b29e6a69: 	--result: Good :)
+159ceeed: isFailedToLaunch: com.fss.brkgb/.SplashScreen
+159ceeed: 	--result: Good :)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample10.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample10.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample10.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample10.obfuscated.ilog)
+[*] FlowManager: adjust finished.
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:437a62		=(rels)=>		1
+[*] Unique action: 1:108668 : <<CALL>> : com.fss.brkgb.DisplayableView/onCreate:(Landroid/os/Bundle;)V:437a62  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample10.obfuscated.ilog)
+[*] FlowManager: adjust finished.
+[GOOD]: Anti-analysis is identified! :) -- 1 --devDebug
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:437a62		=(rels)=>		1
+[*] Unique action: 1:108668 : <<CALL>> : com.fss.brkgb.DisplayableView/onCreate:(Landroid/os/Bundle;)V:437a62  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devTamper_sample10.obfuscated.ilog)
+[*] FlowManager: adjust finished.
+Action is completely same :)
+Action is completely same :)
+46604b9f: There is no difference. (tryAgain=false)
+	1:compareBackwardBranch: 1:105549 : <<BRANCH>> : com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a0c0  =>  com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a394
+android.view.ViewGroup/addView:(Landroid/view/View;)V:438862		=(rels)=>		1
+[*] Unique action: 1:109385 : <<CALL>> : com.fss.brkgb.DisplayableView/onCreate:(Landroid/os/Bundle;)V:438862  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:105549 : <<BRANCH>> : com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a0c0  =>  com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a394
+android.view.ViewGroup/addView:(Landroid/view/View;)V:438862		=(rels)=>		1
+[*] Unique action: 1:109385 : <<CALL>> : com.fss.brkgb.DisplayableView/onCreate:(Landroid/os/Bundle;)V:438862  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:105549 : <<BRANCH>> : com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a0c0  =>  com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a394
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:438620		=(rels)=>		1
+[*] Unique action: 1:109352 : <<CALL>> : com.fss.brkgb.DisplayableView/onCreate:(Landroid/os/Bundle;)V:438620  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:105549 : <<BRANCH>> : com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a0c0  =>  com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a394
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:438620		=(rels)=>		1
+[*] Unique action: 1:109352 : <<CALL>> : com.fss.brkgb.DisplayableView/onCreate:(Landroid/os/Bundle;)V:438620  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:105549 : <<BRANCH>> : com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a0c0  =>  com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a394
+android.view.ViewGroup/addView:(Landroid/view/View;)V:437a86		=(rels)=>		1
+[*] Unique action: 1:108671 : <<CALL>> : com.fss.brkgb.DisplayableView/onCreate:(Landroid/os/Bundle;)V:437a86  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:105549 : <<BRANCH>> : com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a0c0  =>  com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a394
+android.view.ViewGroup/addView:(Landroid/view/View;)V:437a86		=(rels)=>		1
+[*] Unique action: 1:108671 : <<CALL>> : com.fss.brkgb.DisplayableView/onCreate:(Landroid/os/Bundle;)V:437a86  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:105549 : <<BRANCH>> : com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a0c0  =>  com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a394
+android.view.ViewGroup/addView:(Landroid/view/View;)V:438926		=(rels)=>		1
+[*] Unique action: 1:109686 : <<CALL>> : com.fss.brkgb.DisplayableView/onCreate:(Landroid/os/Bundle;)V:438926  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:105549 : <<BRANCH>> : com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a0c0  =>  com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a394
+android.view.ViewGroup/addView:(Landroid/view/View;)V:438926		=(rels)=>		1
+[*] Unique action: 1:109686 : <<CALL>> : com.fss.brkgb.DisplayableView/onCreate:(Landroid/os/Bundle;)V:438926  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:105549 : <<BRANCH>> : com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a0c0  =>  com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a394
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:437e24		=(rels)=>		1
+[*] Unique action: 1:109322 : <<CALL>> : com.fss.brkgb.DisplayableView/onCreate:(Landroid/os/Bundle;)V:437e24  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:105549 : <<BRANCH>> : com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a0c0  =>  com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a394
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:437e24		=(rels)=>		1
+[*] Unique action: 1:109322 : <<CALL>> : com.fss.brkgb.DisplayableView/onCreate:(Landroid/os/Bundle;)V:437e24  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:105549 : <<BRANCH>> : com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a0c0  =>  com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a394
+android.view.ViewGroup/addView:(Landroid/view/View;)V:47a8e0		=(rels)=>		1
+[*] Unique action: 1:109664 : <<CALL>> : com.fss.brkgb.cb/a:(Landroid/view/View$OnClickListener;Ljava/util/Map;Landroid/content/Context;)Landroid/widget/LinearLayout;:47a8e0  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:105549 : <<BRANCH>> : com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a0c0  =>  com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a394
+android.view.ViewGroup/addView:(Landroid/view/View;)V:47a8e0		=(rels)=>		1
+[*] Unique action: 1:109664 : <<CALL>> : com.fss.brkgb.cb/a:(Landroid/view/View$OnClickListener;Ljava/util/Map;Landroid/content/Context;)Landroid/widget/LinearLayout;:47a8e0  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:105549 : <<BRANCH>> : com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a0c0  =>  com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a394
+android.view.ViewGroup/addView:(Landroid/view/View;)V:47a8ce		=(rels)=>		1
+[*] Unique action: 1:109649 : <<CALL>> : com.fss.brkgb.cb/a:(Landroid/view/View$OnClickListener;Ljava/util/Map;Landroid/content/Context;)Landroid/widget/LinearLayout;:47a8ce  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:105549 : <<BRANCH>> : com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a0c0  =>  com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a394
+android.view.ViewGroup/addView:(Landroid/view/View;)V:47a8ce		=(rels)=>		1
+[*] Unique action: 1:109649 : <<CALL>> : com.fss.brkgb.cb/a:(Landroid/view/View$OnClickListener;Ljava/util/Map;Landroid/content/Context;)Landroid/widget/LinearLayout;:47a8ce  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:105549 : <<BRANCH>> : com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a0c0  =>  com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a394
+android.view.ViewGroup/addView:(Landroid/view/View;)V:47a90c		=(rels)=>		1
+[*] Unique action: 1:109669 : <<CALL>> : com.fss.brkgb.cb/a:(Landroid/view/View$OnClickListener;Ljava/util/Map;Landroid/content/Context;)Landroid/widget/LinearLayout;:47a90c  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:105549 : <<BRANCH>> : com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a0c0  =>  com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a394
+android.view.ViewGroup/addView:(Landroid/view/View;)V:47a90c		=(rels)=>		1
+[*] Unique action: 1:109669 : <<CALL>> : com.fss.brkgb.cb/a:(Landroid/view/View$OnClickListener;Ljava/util/Map;Landroid/content/Context;)Landroid/widget/LinearLayout;:47a90c  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:105549 : <<BRANCH>> : com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a0c0  =>  com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a394
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:438608		=(rels)=>		1
+[*] Unique action: 1:109342 : <<CALL>> : com.fss.brkgb.DisplayableView/onCreate:(Landroid/os/Bundle;)V:438608  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:105549 : <<BRANCH>> : com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a0c0  =>  com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a394
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:438608		=(rels)=>		1
+[*] Unique action: 1:109342 : <<CALL>> : com.fss.brkgb.DisplayableView/onCreate:(Landroid/os/Bundle;)V:438608  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:105549 : <<BRANCH>> : com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a0c0  =>  com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a394
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:47a808		=(rels)=>		1
+[*] Unique action: 1:109610 : <<CALL>> : com.fss.brkgb.cb/a:(Landroid/view/View$OnClickListener;Ljava/util/Map;Landroid/content/Context;)Landroid/widget/LinearLayout;:47a808  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:105549 : <<BRANCH>> : com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a0c0  =>  com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a394
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:47a808		=(rels)=>		1
+[*] Unique action: 1:109610 : <<CALL>> : com.fss.brkgb.cb/a:(Landroid/view/View$OnClickListener;Ljava/util/Map;Landroid/content/Context;)Landroid/widget/LinearLayout;:47a808  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:105549 : <<BRANCH>> : com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a0c0  =>  com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a394
+android.view.ViewGroup/addView:(Landroid/view/View;)V:438892		=(rels)=>		1
+[*] Unique action: 1:109388 : <<CALL>> : com.fss.brkgb.DisplayableView/onCreate:(Landroid/os/Bundle;)V:438892  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:105549 : <<BRANCH>> : com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a0c0  =>  com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a394
+android.view.ViewGroup/addView:(Landroid/view/View;)V:438892		=(rels)=>		1
+[*] Unique action: 1:109388 : <<CALL>> : com.fss.brkgb.DisplayableView/onCreate:(Landroid/os/Bundle;)V:438892  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:105549 : <<BRANCH>> : com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a0c0  =>  com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a394
+android.view.ViewGroup/addView:(Landroid/view/View;)V:4388d2		=(rels)=>		1
+[*] Unique action: 1:109679 : <<CALL>> : com.fss.brkgb.DisplayableView/onCreate:(Landroid/os/Bundle;)V:4388d2  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:105549 : <<BRANCH>> : com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a0c0  =>  com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a394
+android.view.ViewGroup/addView:(Landroid/view/View;)V:4388d2		=(rels)=>		1
+[*] Unique action: 1:109679 : <<CALL>> : com.fss.brkgb.DisplayableView/onCreate:(Landroid/os/Bundle;)V:4388d2  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:105549 : <<BRANCH>> : com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a0c0  =>  com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a394
+android.os.AsyncTask/execute:([Ljava/lang/Object;)Landroid/os/AsyncTask;:46d7f4		=(rels)=>		1
+[*] Unique action: 1:105586 : <<CALL>> : com.fss.brkgb.ay/a:([Ljava/lang/String;Landroid/content/Context;)V:46d7f4  =>  android.os.AsyncTask/execute:([Ljava/lang/Object;)Landroid/os/AsyncTask;:2ed1e4
+	1:compareBackwardBranch: 1:105549 : <<BRANCH>> : com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a0c0  =>  com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a394
+android.os.AsyncTask/execute:([Ljava/lang/Object;)Landroid/os/AsyncTask;:46d7f4		=(rels)=>		1
+[*] Unique action: 1:105586 : <<CALL>> : com.fss.brkgb.ay/a:([Ljava/lang/String;Landroid/content/Context;)V:46d7f4  =>  android.os.AsyncTask/execute:([Ljava/lang/Object;)Landroid/os/AsyncTask;:2ed1e4
+	1:compareBackwardBranch: 1:105549 : <<BRANCH>> : com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a0c0  =>  com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a394
+android.view.ViewGroup/addView:(Landroid/view/View;)V:47a930		=(rels)=>		1
+[*] Unique action: 1:109673 : <<CALL>> : com.fss.brkgb.cb/a:(Landroid/view/View$OnClickListener;Ljava/util/Map;Landroid/content/Context;)Landroid/widget/LinearLayout;:47a930  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:105549 : <<BRANCH>> : com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a0c0  =>  com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a394
+android.view.ViewGroup/addView:(Landroid/view/View;)V:47a930		=(rels)=>		1
+[*] Unique action: 1:109673 : <<CALL>> : com.fss.brkgb.cb/a:(Landroid/view/View$OnClickListener;Ljava/util/Map;Landroid/content/Context;)Landroid/widget/LinearLayout;:47a930  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:105549 : <<BRANCH>> : com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a0c0  =>  com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a394
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:47a75e		=(rels)=>		1
+[*] Unique action: 1:109602 : <<CALL>> : com.fss.brkgb.cb/a:(Landroid/view/View$OnClickListener;Ljava/util/Map;Landroid/content/Context;)Landroid/widget/LinearLayout;:47a75e  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:105549 : <<BRANCH>> : com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a0c0  =>  com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a394
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:47a75e		=(rels)=>		1
+[*] Unique action: 1:109602 : <<CALL>> : com.fss.brkgb.cb/a:(Landroid/view/View$OnClickListener;Ljava/util/Map;Landroid/content/Context;)Landroid/widget/LinearLayout;:47a75e  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:105549 : <<BRANCH>> : com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a0c0  =>  com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a394
+android.app.Activity/startActivity:(Landroid/content/Intent;)V:468ffc		=(rels)=>		1
+[*] Unique action: 1:108444 : <<CALL>> : com.fss.brkgb.SplashScreen/b:()V:468ffc  =>  android.app.Activity/startActivity:(Landroid/content/Intent;)V:19cda0
+	1:compareBackwardBranch: 1:105549 : <<BRANCH>> : com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a0c0  =>  com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a394
+android.app.Activity/startActivity:(Landroid/content/Intent;)V:468ffc		=(rels)=>		1
+[*] Unique action: 1:108444 : <<CALL>> : com.fss.brkgb.SplashScreen/b:()V:468ffc  =>  android.app.Activity/startActivity:(Landroid/content/Intent;)V:19cda0
+	1:compareBackwardBranch: 1:105549 : <<BRANCH>> : com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a0c0  =>  com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a394
+android.view.ViewGroup/addView:(Landroid/view/View;)V:437a78		=(rels)=>		1
+[*] Unique action: 1:108670 : <<CALL>> : com.fss.brkgb.DisplayableView/onCreate:(Landroid/os/Bundle;)V:437a78  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:105549 : <<BRANCH>> : com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a0c0  =>  com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a394
+android.view.ViewGroup/addView:(Landroid/view/View;)V:437a78		=(rels)=>		1
+[*] Unique action: 1:108670 : <<CALL>> : com.fss.brkgb.DisplayableView/onCreate:(Landroid/os/Bundle;)V:437a78  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:105549 : <<BRANCH>> : com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a0c0  =>  com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a394
+android.view.ViewGroup/addView:(Landroid/view/View;)V:43881e		=(rels)=>		1
+[*] Unique action: 1:109379 : <<CALL>> : com.fss.brkgb.DisplayableView/onCreate:(Landroid/os/Bundle;)V:43881e  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:105549 : <<BRANCH>> : com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a0c0  =>  com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a394
+android.view.ViewGroup/addView:(Landroid/view/View;)V:43881e		=(rels)=>		1
+[*] Unique action: 1:109379 : <<CALL>> : com.fss.brkgb.DisplayableView/onCreate:(Landroid/os/Bundle;)V:43881e  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:105549 : <<BRANCH>> : com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a0c0  =>  com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a394
+android.view.ViewGroup/addView:(Landroid/view/View;)V:47a8b8		=(rels)=>		1
+[*] Unique action: 1:109647 : <<CALL>> : com.fss.brkgb.cb/a:(Landroid/view/View$OnClickListener;Ljava/util/Map;Landroid/content/Context;)Landroid/widget/LinearLayout;:47a8b8  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:105549 : <<BRANCH>> : com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a0c0  =>  com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a394
+android.view.ViewGroup/addView:(Landroid/view/View;)V:47a8b8		=(rels)=>		1
+[*] Unique action: 1:109647 : <<CALL>> : com.fss.brkgb.cb/a:(Landroid/view/View$OnClickListener;Ljava/util/Map;Landroid/content/Context;)Landroid/widget/LinearLayout;:47a8b8  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:105549 : <<BRANCH>> : com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a0c0  =>  com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a394
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:43879c		=(rels)=>		1
+[*] Unique action: 1:109377 : <<CALL>> : com.fss.brkgb.DisplayableView/onCreate:(Landroid/os/Bundle;)V:43879c  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:105549 : <<BRANCH>> : com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a0c0  =>  com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a394
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:43879c		=(rels)=>		1
+[*] Unique action: 1:109377 : <<CALL>> : com.fss.brkgb.DisplayableView/onCreate:(Landroid/os/Bundle;)V:43879c  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:105549 : <<BRANCH>> : com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a0c0  =>  com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a394
+android.app.Dialog/show:()V:46a38c		=(rels)=>		1
+[*] Unique action: 1:9210 : <<CALL>> : com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a38c  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:105549 : <<BRANCH>> : com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a0c0  =>  com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a394
+android.app.Dialog/show:()V:46a38c		=(rels)=>		1
+[*] Unique action: 1:60088 : <<CALL>> : com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a38c  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:105549 : <<BRANCH>> : com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a0c0  =>  com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a394
+Entry: 46a070
+com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V: 46a0c0 -> 46a394
+		com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V: 50 -> 324
+addPatchReadme: java.lang.Class<com.fss.brkgb.SplashScreen>onCreate(Landroid/os/Bundle;)V 50 t
+b29e6a69: [+] Patches found in this round: 1
+b29e6a69: [*] Found Patch size: 1
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample10.obfuscated.ilog)
+b29e6a69: Querying offset: 46a0c0
+b29e6a69: 	--Add method name to patch = com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V 	46a0c0
+	1:compareBackwardBranch: 1:105549 : <<BRANCH>> : com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a0c0  =>  com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a394
+Entry: 46a070
+com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V: 46a0c0 -> 46a394
+		com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V: 50 -> 324
+addPatchReadme: java.lang.Class<com.fss.brkgb.SplashScreen>onCreate(Landroid/os/Bundle;)V 50 t
+159ceeed: [+] Patches found in this round: 1
+159ceeed: [*] Found Patch size: 1
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample10.obfuscated.ilog)
+159ceeed: Querying offset: 46a0c0
+159ceeed: 	--Add method name to patch = com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V 	46a0c0
+Devices presenting anti-analysis: 
+	devRoot
+	devDebug
+b29e6a69: patching method: com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample10.apk.obfuscated_devRoot
+Wow!!!!!  --  com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 56
+branchTarget: 324
+label = sswitch_data_1
+GOTO -- 56 	324
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample10.apk.obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample10.apk.obfuscated_devRoot/sample10.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample10.apk.obfuscated_devRoot/signed_sample10.apk.obfuscated.apk
+b29e6a69: First address of Lcom/fss/brkgb/SplashScreen;->onCreate(Landroid/os/Bundle;)V = 46a080
+b29e6a69: Address - Lcom/fss/brkgb/SplashScreen;->onCreate(Landroid/os/Bundle;)V@50	 lastOffset = c34
+b29e6a69: Instruction@@: SPARSE_SWITCH
+159ceeed: patching method: com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V
+159ceeed: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample10.apk.obfuscated_devDebug
+Wow!!!!!  --  com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 56
+branchTarget: 324
+label = sswitch_data_1
+GOTO -- 56 	324
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample10.apk.obfuscated_devDebug/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample10.apk.obfuscated_devDebug/sample10.apk.obfuscated.apk
+159ceeed: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample10.apk.obfuscated_devDebug/signed_sample10.apk.obfuscated.apk
+159ceeed: First address of Lcom/fss/brkgb/SplashScreen;->onCreate(Landroid/os/Bundle;)V = 46a080
+159ceeed: Address - Lcom/fss/brkgb/SplashScreen;->onCreate(Landroid/os/Bundle;)V@50	 lastOffset = c34
+159ceeed: Instruction@@: SPARSE_SWITCH
+159ceeed: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample10.apk.obfuscated_devDebug/signed_sample10.apk.obfuscated.apk
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample10.apk.obfuscated_devRoot/signed_sample10.apk.obfuscated.apk
+159ceeed: Installation Success
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+159ceeed: startApplication called! - devDebug
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample10.obfuscated.ilog)
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample10.obfuscated.ilog)
+b29e6a69: Running Application: com.fss.brkgb
+PIDs--------------------------------------------------------------------------
+forward tcp:5005 jdwp:null
+[*]Found JDWP Target: null
+159ceeed: Running Application: com.fss.brkgb
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+159ceeed: Running is done - starting comparing... : 5001
+159ceeed: Terminated logcat thread...by itself
+159ceeed: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.fss.brkgb
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.fss.brkgb
+Tryging remove : uninstall com.fss.brkgb(com.fss.brkgb)
+159ceeed: Remove Success
+159ceeed: ilog file size: 2001757
+159ceeed: End of collecting logcat...
+Tryging remove : uninstall com.fss.brkgb(com.fss.brkgb)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 2003670
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 28
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+b29e6a69: /home/santapark/Extended3/DEEPerence/reEx/sample10.apk.obfuscated.apk launch is failed on devRoot
+159ceeed: isFailedToLaunch: com.android.launcher3/.Launcher
+159ceeed: 	--result: Failed :( (1)
+159ceeed: /home/santapark/Extended3/DEEPerence/reEx/sample10.apk.obfuscated.apk launch is failed on devDebug
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 46a0c0
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:437a62		=(rels)=>		1
+[*] Unique action: 1:108668 : <<CALL>> : com.fss.brkgb.DisplayableView/onCreate:(Landroid/os/Bundle;)V:437a62  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 46a0c0
+[GOOD]: Anti-analysis is identified! :) -- 1 --devDebug
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:437a62		=(rels)=>		1
+[*] Unique action: 1:108668 : <<CALL>> : com.fss.brkgb.DisplayableView/onCreate:(Landroid/os/Bundle;)V:437a62  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:105546 : <<BRANCH>> : com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a0c8  =>  com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a340
+android.view.ViewGroup/addView:(Landroid/view/View;)V:438862		=(rels)=>		1
+[*] Unique action: 1:109385 : <<CALL>> : com.fss.brkgb.DisplayableView/onCreate:(Landroid/os/Bundle;)V:438862  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:105546 : <<BRANCH>> : com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a0c8  =>  com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a340
+android.view.ViewGroup/addView:(Landroid/view/View;)V:438862		=(rels)=>		1
+[*] Unique action: 1:109385 : <<CALL>> : com.fss.brkgb.DisplayableView/onCreate:(Landroid/os/Bundle;)V:438862  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:105546 : <<BRANCH>> : com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a0c8  =>  com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a340
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:438620		=(rels)=>		1
+[*] Unique action: 1:109352 : <<CALL>> : com.fss.brkgb.DisplayableView/onCreate:(Landroid/os/Bundle;)V:438620  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:105546 : <<BRANCH>> : com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a0c8  =>  com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a340
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:438620		=(rels)=>		1
+[*] Unique action: 1:109352 : <<CALL>> : com.fss.brkgb.DisplayableView/onCreate:(Landroid/os/Bundle;)V:438620  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:105546 : <<BRANCH>> : com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a0c8  =>  com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a340
+android.view.ViewGroup/addView:(Landroid/view/View;)V:437a86		=(rels)=>		1
+[*] Unique action: 1:108671 : <<CALL>> : com.fss.brkgb.DisplayableView/onCreate:(Landroid/os/Bundle;)V:437a86  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:105546 : <<BRANCH>> : com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a0c8  =>  com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a340
+android.view.ViewGroup/addView:(Landroid/view/View;)V:437a86		=(rels)=>		1
+[*] Unique action: 1:108671 : <<CALL>> : com.fss.brkgb.DisplayableView/onCreate:(Landroid/os/Bundle;)V:437a86  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:105546 : <<BRANCH>> : com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a0c8  =>  com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a340
+android.view.ViewGroup/addView:(Landroid/view/View;)V:438926		=(rels)=>		1
+[*] Unique action: 1:109686 : <<CALL>> : com.fss.brkgb.DisplayableView/onCreate:(Landroid/os/Bundle;)V:438926  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:105546 : <<BRANCH>> : com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a0c8  =>  com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a340
+android.view.ViewGroup/addView:(Landroid/view/View;)V:438926		=(rels)=>		1
+[*] Unique action: 1:109686 : <<CALL>> : com.fss.brkgb.DisplayableView/onCreate:(Landroid/os/Bundle;)V:438926  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:105546 : <<BRANCH>> : com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a0c8  =>  com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a340
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:437e24		=(rels)=>		1
+[*] Unique action: 1:109322 : <<CALL>> : com.fss.brkgb.DisplayableView/onCreate:(Landroid/os/Bundle;)V:437e24  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:105546 : <<BRANCH>> : com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a0c8  =>  com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a340
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:437e24		=(rels)=>		1
+[*] Unique action: 1:109322 : <<CALL>> : com.fss.brkgb.DisplayableView/onCreate:(Landroid/os/Bundle;)V:437e24  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:105546 : <<BRANCH>> : com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a0c8  =>  com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a340
+android.view.ViewGroup/addView:(Landroid/view/View;)V:47a8e0		=(rels)=>		1
+[*] Unique action: 1:109664 : <<CALL>> : com.fss.brkgb.cb/a:(Landroid/view/View$OnClickListener;Ljava/util/Map;Landroid/content/Context;)Landroid/widget/LinearLayout;:47a8e0  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:105546 : <<BRANCH>> : com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a0c8  =>  com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a340
+android.view.ViewGroup/addView:(Landroid/view/View;)V:47a8e0		=(rels)=>		1
+[*] Unique action: 1:109664 : <<CALL>> : com.fss.brkgb.cb/a:(Landroid/view/View$OnClickListener;Ljava/util/Map;Landroid/content/Context;)Landroid/widget/LinearLayout;:47a8e0  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:105546 : <<BRANCH>> : com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a0c8  =>  com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a340
+android.view.ViewGroup/addView:(Landroid/view/View;)V:47a8ce		=(rels)=>		1
+[*] Unique action: 1:109649 : <<CALL>> : com.fss.brkgb.cb/a:(Landroid/view/View$OnClickListener;Ljava/util/Map;Landroid/content/Context;)Landroid/widget/LinearLayout;:47a8ce  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:105546 : <<BRANCH>> : com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a0c8  =>  com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a340
+android.view.ViewGroup/addView:(Landroid/view/View;)V:47a8ce		=(rels)=>		1
+[*] Unique action: 1:109649 : <<CALL>> : com.fss.brkgb.cb/a:(Landroid/view/View$OnClickListener;Ljava/util/Map;Landroid/content/Context;)Landroid/widget/LinearLayout;:47a8ce  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:105546 : <<BRANCH>> : com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a0c8  =>  com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a340
+android.view.ViewGroup/addView:(Landroid/view/View;)V:47a90c		=(rels)=>		1
+[*] Unique action: 1:109669 : <<CALL>> : com.fss.brkgb.cb/a:(Landroid/view/View$OnClickListener;Ljava/util/Map;Landroid/content/Context;)Landroid/widget/LinearLayout;:47a90c  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:105546 : <<BRANCH>> : com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a0c8  =>  com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a340
+android.view.ViewGroup/addView:(Landroid/view/View;)V:47a90c		=(rels)=>		1
+[*] Unique action: 1:109669 : <<CALL>> : com.fss.brkgb.cb/a:(Landroid/view/View$OnClickListener;Ljava/util/Map;Landroid/content/Context;)Landroid/widget/LinearLayout;:47a90c  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:105546 : <<BRANCH>> : com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a0c8  =>  com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a340
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:438608		=(rels)=>		1
+[*] Unique action: 1:109342 : <<CALL>> : com.fss.brkgb.DisplayableView/onCreate:(Landroid/os/Bundle;)V:438608  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:105546 : <<BRANCH>> : com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a0c8  =>  com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a340
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:438608		=(rels)=>		1
+[*] Unique action: 1:109342 : <<CALL>> : com.fss.brkgb.DisplayableView/onCreate:(Landroid/os/Bundle;)V:438608  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:105546 : <<BRANCH>> : com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a0c8  =>  com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a340
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:47a808		=(rels)=>		1
+[*] Unique action: 1:109610 : <<CALL>> : com.fss.brkgb.cb/a:(Landroid/view/View$OnClickListener;Ljava/util/Map;Landroid/content/Context;)Landroid/widget/LinearLayout;:47a808  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:105546 : <<BRANCH>> : com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a0c8  =>  com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a340
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:47a808		=(rels)=>		1
+[*] Unique action: 1:109610 : <<CALL>> : com.fss.brkgb.cb/a:(Landroid/view/View$OnClickListener;Ljava/util/Map;Landroid/content/Context;)Landroid/widget/LinearLayout;:47a808  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:105546 : <<BRANCH>> : com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a0c8  =>  com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a340
+android.view.ViewGroup/addView:(Landroid/view/View;)V:438892		=(rels)=>		1
+[*] Unique action: 1:109388 : <<CALL>> : com.fss.brkgb.DisplayableView/onCreate:(Landroid/os/Bundle;)V:438892  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:105546 : <<BRANCH>> : com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a0c8  =>  com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a340
+android.view.ViewGroup/addView:(Landroid/view/View;)V:438892		=(rels)=>		1
+[*] Unique action: 1:109388 : <<CALL>> : com.fss.brkgb.DisplayableView/onCreate:(Landroid/os/Bundle;)V:438892  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:105546 : <<BRANCH>> : com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a0c8  =>  com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a340
+android.view.ViewGroup/addView:(Landroid/view/View;)V:4388d2		=(rels)=>		1
+[*] Unique action: 1:109679 : <<CALL>> : com.fss.brkgb.DisplayableView/onCreate:(Landroid/os/Bundle;)V:4388d2  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:105546 : <<BRANCH>> : com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a0c8  =>  com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a340
+android.view.ViewGroup/addView:(Landroid/view/View;)V:4388d2		=(rels)=>		1
+[*] Unique action: 1:109679 : <<CALL>> : com.fss.brkgb.DisplayableView/onCreate:(Landroid/os/Bundle;)V:4388d2  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:105546 : <<BRANCH>> : com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a0c8  =>  com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a340
+android.os.AsyncTask/execute:([Ljava/lang/Object;)Landroid/os/AsyncTask;:46d7f4		=(rels)=>		1
+[*] Unique action: 1:105586 : <<CALL>> : com.fss.brkgb.ay/a:([Ljava/lang/String;Landroid/content/Context;)V:46d7f4  =>  android.os.AsyncTask/execute:([Ljava/lang/Object;)Landroid/os/AsyncTask;:2ed1e4
+	1:compareBackwardBranch: 1:105546 : <<BRANCH>> : com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a0c8  =>  com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a340
+android.os.AsyncTask/execute:([Ljava/lang/Object;)Landroid/os/AsyncTask;:46d7f4		=(rels)=>		1
+[*] Unique action: 1:105586 : <<CALL>> : com.fss.brkgb.ay/a:([Ljava/lang/String;Landroid/content/Context;)V:46d7f4  =>  android.os.AsyncTask/execute:([Ljava/lang/Object;)Landroid/os/AsyncTask;:2ed1e4
+	1:compareBackwardBranch: 1:105546 : <<BRANCH>> : com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a0c8  =>  com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a340
+android.view.ViewGroup/addView:(Landroid/view/View;)V:47a930		=(rels)=>		1
+[*] Unique action: 1:109673 : <<CALL>> : com.fss.brkgb.cb/a:(Landroid/view/View$OnClickListener;Ljava/util/Map;Landroid/content/Context;)Landroid/widget/LinearLayout;:47a930  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:105546 : <<BRANCH>> : com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a0c8  =>  com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a340
+android.view.ViewGroup/addView:(Landroid/view/View;)V:47a930		=(rels)=>		1
+[*] Unique action: 1:109673 : <<CALL>> : com.fss.brkgb.cb/a:(Landroid/view/View$OnClickListener;Ljava/util/Map;Landroid/content/Context;)Landroid/widget/LinearLayout;:47a930  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:105546 : <<BRANCH>> : com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a0c8  =>  com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a340
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:47a75e		=(rels)=>		1
+[*] Unique action: 1:109602 : <<CALL>> : com.fss.brkgb.cb/a:(Landroid/view/View$OnClickListener;Ljava/util/Map;Landroid/content/Context;)Landroid/widget/LinearLayout;:47a75e  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:105546 : <<BRANCH>> : com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a0c8  =>  com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a340
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:47a75e		=(rels)=>		1
+[*] Unique action: 1:109602 : <<CALL>> : com.fss.brkgb.cb/a:(Landroid/view/View$OnClickListener;Ljava/util/Map;Landroid/content/Context;)Landroid/widget/LinearLayout;:47a75e  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:105546 : <<BRANCH>> : com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a0c8  =>  com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a340
+android.app.Activity/startActivity:(Landroid/content/Intent;)V:468ffc		=(rels)=>		1
+[*] Unique action: 1:108444 : <<CALL>> : com.fss.brkgb.SplashScreen/b:()V:468ffc  =>  android.app.Activity/startActivity:(Landroid/content/Intent;)V:19cda0
+	1:compareBackwardBranch: 1:105546 : <<BRANCH>> : com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a0c8  =>  com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a340
+android.app.Activity/startActivity:(Landroid/content/Intent;)V:468ffc		=(rels)=>		1
+[*] Unique action: 1:108444 : <<CALL>> : com.fss.brkgb.SplashScreen/b:()V:468ffc  =>  android.app.Activity/startActivity:(Landroid/content/Intent;)V:19cda0
+	1:compareBackwardBranch: 1:105546 : <<BRANCH>> : com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a0c8  =>  com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a340
+android.view.ViewGroup/addView:(Landroid/view/View;)V:437a78		=(rels)=>		1
+[*] Unique action: 1:108670 : <<CALL>> : com.fss.brkgb.DisplayableView/onCreate:(Landroid/os/Bundle;)V:437a78  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:105546 : <<BRANCH>> : com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a0c8  =>  com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a340
+android.view.ViewGroup/addView:(Landroid/view/View;)V:437a78		=(rels)=>		1
+[*] Unique action: 1:108670 : <<CALL>> : com.fss.brkgb.DisplayableView/onCreate:(Landroid/os/Bundle;)V:437a78  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:105546 : <<BRANCH>> : com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a0c8  =>  com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a340
+android.view.ViewGroup/addView:(Landroid/view/View;)V:43881e		=(rels)=>		1
+[*] Unique action: 1:109379 : <<CALL>> : com.fss.brkgb.DisplayableView/onCreate:(Landroid/os/Bundle;)V:43881e  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:105546 : <<BRANCH>> : com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a0c8  =>  com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a340
+android.view.ViewGroup/addView:(Landroid/view/View;)V:43881e		=(rels)=>		1
+[*] Unique action: 1:109379 : <<CALL>> : com.fss.brkgb.DisplayableView/onCreate:(Landroid/os/Bundle;)V:43881e  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:105546 : <<BRANCH>> : com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a0c8  =>  com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a340
+android.view.ViewGroup/addView:(Landroid/view/View;)V:47a8b8		=(rels)=>		1
+[*] Unique action: 1:109647 : <<CALL>> : com.fss.brkgb.cb/a:(Landroid/view/View$OnClickListener;Ljava/util/Map;Landroid/content/Context;)Landroid/widget/LinearLayout;:47a8b8  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:105546 : <<BRANCH>> : com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a0c8  =>  com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a340
+android.view.ViewGroup/addView:(Landroid/view/View;)V:47a8b8		=(rels)=>		1
+[*] Unique action: 1:109647 : <<CALL>> : com.fss.brkgb.cb/a:(Landroid/view/View$OnClickListener;Ljava/util/Map;Landroid/content/Context;)Landroid/widget/LinearLayout;:47a8b8  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:105546 : <<BRANCH>> : com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a0c8  =>  com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a340
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:43879c		=(rels)=>		1
+[*] Unique action: 1:109377 : <<CALL>> : com.fss.brkgb.DisplayableView/onCreate:(Landroid/os/Bundle;)V:43879c  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:105546 : <<BRANCH>> : com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a0c8  =>  com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a340
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:43879c		=(rels)=>		1
+[*] Unique action: 1:109377 : <<CALL>> : com.fss.brkgb.DisplayableView/onCreate:(Landroid/os/Bundle;)V:43879c  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:105546 : <<BRANCH>> : com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a0c8  =>  com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a340
+android.app.Dialog/show:()V:46a38c		=(rels)=>		1
+[*] Unique action: 1:9210 : <<CALL>> : com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a38c  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:105546 : <<BRANCH>> : com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a0c8  =>  com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a340
+Entry: 46a070
+com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V: 46a0c8 -> 46a340
+		com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V: 58 -> 2d0
+addPatchReadme: java.lang.Class<com.fss.brkgb.SplashScreen>onCreate(Landroid/os/Bundle;)V 58 t
+b29e6a69: [+] Patches found in this round: 1
+b29e6a69: [*] Found Patch size: 1
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample10.obfuscated.ilog)
+b29e6a69: Querying offset: 46a0c8
+b29e6a69: 	--Add method name to patch = com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V 	46a0c8
+	1:compareBackwardBranch: 1:105546 : <<BRANCH>> : com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a0c8  =>  com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a340
+android.app.Dialog/show:()V:46a38c		=(rels)=>		1
+[*] Unique action: 1:60088 : <<CALL>> : com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a38c  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:105546 : <<BRANCH>> : com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a0c8  =>  com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V:46a340
+Entry: 46a070
+com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V: 46a0c8 -> 46a340
+		com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V: 58 -> 2d0
+addPatchReadme: java.lang.Class<com.fss.brkgb.SplashScreen>onCreate(Landroid/os/Bundle;)V 58 t
+159ceeed: [+] Patches found in this round: 1
+159ceeed: [*] Found Patch size: 1
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample10.obfuscated.ilog)
+159ceeed: Querying offset: 46a0c8
+159ceeed: 	--Add method name to patch = com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V 	46a0c8
+Devices presenting anti-analysis: 
+	devRoot
+	devDebug
+b29e6a69: patching method: com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample10.apk.obfuscated_devRoot
+Wow!!!!!  --  com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 5c
+branchTarget: 2d0
+label = cond_11
+GOTO -- 5c 	2d0
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample10.apk.obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample10.apk.obfuscated_devRoot/sample10.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample10.apk.obfuscated_devRoot/signed_sample10.apk.obfuscated.apk
+b29e6a69: First address of Lcom/fss/brkgb/SplashScreen;->onCreate(Landroid/os/Bundle;)V = 46a080
+b29e6a69: Address - Lcom/fss/brkgb/SplashScreen;->onCreate(Landroid/os/Bundle;)V@58	 lastOffset = c34
+b29e6a69: Instruction@@: IF_EQZ
+159ceeed: patching method: com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V
+159ceeed: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample10.apk.obfuscated_devDebug
+Wow!!!!!  --  com.fss.brkgb.SplashScreen/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 5c
+branchTarget: 2d0
+label = cond_11
+GOTO -- 5c 	2d0
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample10.apk.obfuscated_devDebug/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample10.apk.obfuscated_devDebug/sample10.apk.obfuscated.apk
+159ceeed: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample10.apk.obfuscated_devDebug/signed_sample10.apk.obfuscated.apk
+159ceeed: First address of Lcom/fss/brkgb/SplashScreen;->onCreate(Landroid/os/Bundle;)V = 46a080
+159ceeed: Address - Lcom/fss/brkgb/SplashScreen;->onCreate(Landroid/os/Bundle;)V@58	 lastOffset = c34
+159ceeed: Instruction@@: IF_EQZ
+159ceeed: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample10.apk.obfuscated_devDebug/signed_sample10.apk.obfuscated.apk
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample10.apk.obfuscated_devRoot/signed_sample10.apk.obfuscated.apk
+159ceeed: Installation Success
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+159ceeed: startApplication called! - devDebug
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample10.obfuscated.ilog)
+b29e6a69: Running Application: com.fss.brkgb
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample10.obfuscated.ilog)
+PIDs--------------------------------------------------------------------------
+u0_a343        4967    425 14836408 109856 0                  0 R com.fss.brkgb
+forward tcp:5005 jdwp:4967
+[*]Found JDWP Target: 4967
+159ceeed: Running Application: com.fss.brkgb
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.fss.brkgb/.DisplayableView
+PIDs--------------------------------------------------------------------------
+u0_a3553       4783    430 14768056 137220 0                  0 S com.fss.brkgb
+PIDs--------------------------------------------------------------------------
+u0_a3553       4783    430 14768056 137220 0                  0 S com.fss.brkgb
+Stopping app: com.fss.brkgb
+159ceeed: Running is done - starting comparing... : 5001
+159ceeed: Terminated logcat thread...by itself
+159ceeed: Top-activity: com.fss.brkgb/.DisplayableView
+PIDs--------------------------------------------------------------------------
+u0_a343        4967    425 14889608 139848 0                  0 S com.fss.brkgb
+PIDs--------------------------------------------------------------------------
+u0_a343        4967    425 14889608 139848 0                  0 S com.fss.brkgb
+Stopping app: com.fss.brkgb
+Tryging remove : uninstall com.fss.brkgb(com.fss.brkgb)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 3571929
+b29e6a69: End of collecting logcat...
+Tryging remove : uninstall com.fss.brkgb(com.fss.brkgb)
+159ceeed: Remove Success
+159ceeed: ilog file size: 13979121
+159ceeed: End of collecting logcat...
+HPFinder's try count remains: 27
+b29e6a69: isFailedToLaunch: com.fss.brkgb/.DisplayableView
+b29e6a69: 	--result: Good :)
+159ceeed: isFailedToLaunch: com.fss.brkgb/.DisplayableView
+159ceeed: 	--result: Good :)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample10.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample10.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample10.obfuscated.ilog)
+b29e6a69: adding filter -- 46a0c8
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 46a0c8
+Action is completely same :)
+Action is completely same :)
+b29e6a69: There is no difference. (tryAgain=false)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample10.obfuscated.ilog)
+159ceeed: adding filter -- 46a0c8
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 46a0c8
+Action is completely same :)
+Action is completely same :)
+159ceeed: There is no difference. (tryAgain=false)
+-- HPFinder will be done in this iteration :)
+hasAntiAnalysis? - devTamper: false on com.fss.brkgb.SplashScreen
+hasAntiAnalysis? - devRoot: true on com.fss.brkgb.SplashScreen
+	isRemovedThem? - devRoot: true on com.fss.brkgb.SplashScreen	-	tryCount: 2
+hasAntiAnalysis? - devDebug: true on com.fss.brkgb.SplashScreen
+	isRemovedThem? - devDebug: true on com.fss.brkgb.SplashScreen	-	tryCount: 2
+*****REPORT: com.fss.brkgb
+* Package name: com.fss.brkgb
+* Running time: 253
+* FileSize: 7632768
+devTamper : 23561904
+devRef : 23076016
+devRoot : 3571929
+devDebug : 13979121
+hasAntiAnalysis? - devTamper: false on com.fss.brkgb.SplashScreen
+hasAntiAnalysis? - devRoot: true on com.fss.brkgb.SplashScreen
+	isRemovedThem? - devRoot: true on com.fss.brkgb.SplashScreen	-	tryCount: 2
+hasAntiAnalysis? - devDebug: true on com.fss.brkgb.SplashScreen
+	isRemovedThem? - devDebug: true on com.fss.brkgb.SplashScreen	-	tryCount: 2
+46604b9f: trying remove : com.fss.brkgb
+3601a6ff: trying remove : com.fss.brkgb
+b29e6a69: trying remove : com.fss.brkgb
+159ceeed: trying remove : com.fss.brkgb
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+159ceeed: result = true
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+3601a6ff: result = true
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+46604b9f: result = true
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+b29e6a69: result = true
+3601a6ff: isFailedToLaunch: com.fss.brkgb/.DisplayableView
+3601a6ff: 	--result: Good :)

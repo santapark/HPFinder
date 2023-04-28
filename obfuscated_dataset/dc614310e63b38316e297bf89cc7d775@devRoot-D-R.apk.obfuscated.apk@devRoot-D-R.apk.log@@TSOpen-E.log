@@ -1,0 +1,350 @@
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/8a685c3f540ec603cbe5996fee87e350240e22bafc5d3e34847b1a5e02e8f794.apk@devRoot-D-R.apk.obfuscated/AndroidManifest.xml
+launchable-activity: name='com.ifreesoft.ifreeroot.IFreeRoot'  label='Root tool' icon=''
+{ACTIVITY, .IFreeRoot, android.intent.action.MAIN}
+{ACTIVITY, Phase1}
+{ACTIVITY, Phase2}
+{ACTIVITY, .PhaseRemove}
+{RECEIVER, .AlarmReceiver}
+{ACTIVITY, com.ifreesoft.utility.IFreeAdvancedAcitvity}
+{ACTIVITY, .IFreeRoot, android.intent.action.MAIN}
+{ACTIVITY, Phase1}
+{ACTIVITY, Phase2}
+{ACTIVITY, .PhaseRemove}
+{RECEIVER, .AlarmReceiver}
+{ACTIVITY, com.ifreesoft.utility.IFreeAdvancedAcitvity}
+_getAllDexFiles: /home/santapark/Extended3/DEEPerence/reEx/8a685c3f540ec603cbe5996fee87e350240e22bafc5d3e34847b1a5e02e8f794.apk@devRoot-D-R.apk.obfuscated/classes.dex
+----------------/home/santapark/Extended3/DEEPerence/reEx/8a685c3f540ec603cbe5996fee87e350240e22bafc5d3e34847b1a5e02e8f794.apk@devRoot-D-R.apk.obfuscated.apk
+dexFile = org.jf.dexlib2.dexbacked.DexBackedDexFile@3d99d22e
+com.ifreesoft.ifreeroot
+com.ifreesoft.ifreeroot.IFreeRoot
+debuggable: false
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/8a685c3f540ec603cbe5996fee87e350240e22bafc5d3e34847b1a5e02e8f794.apk@devRoot-D-R.apk.obfuscated.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/8a685c3f540ec603cbe5996fee87e350240e22bafc5d3e34847b1a5e02e8f794.apk@devRoot-D-R.apk.obfuscated.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/8a685c3f540ec603cbe5996fee87e350240e22bafc5d3e34847b1a5e02e8f794.apk@devRoot-D-R.apk.obfuscated.apk
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/8a685c3f540ec603cbe5996fee87e350240e22bafc5d3e34847b1a5e02e8f794.apk@devRoot-D-R.apk.obfuscated_46604b9f/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/8a685c3f540ec603cbe5996fee87e350240e22bafc5d3e34847b1a5e02e8f794.apk@devRoot-D-R.apk.obfuscated_46604b9f/8a685c3f540ec603cbe5996fee87e350240e22bafc5d3e34847b1a5e02e8f794.apk@devRoot-D-R.apk.obfuscated.apk
+46604b9f: Installing repackaged apk File: 
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/8a685c3f540ec603cbe5996fee87e350240e22bafc5d3e34847b1a5e02e8f794.apk@devRoot-D-R.apk.obfuscated_46604b9f/signed_8a685c3f540ec603cbe5996fee87e350240e22bafc5d3e34847b1a5e02e8f794.apk@devRoot-D-R.apk.obfuscated.apk
+159ceeed: Installation Success
+3601a6ff: Installation Success
+b29e6a69: Installation Success
+46604b9f: Installation Success
+46604b9f: startApplication called! - devTamper
+3601a6ff: startApplication called! - devRef
+b29e6a69: startApplication called! - devRoot
+159ceeed: startApplication called! - devDebug
+46604b9f: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devTamper_8a685c3f540ec603cbe5996fee87e350240e22bafc5d3e34847b1a5e02e8f794@devRoot-D-R.obfuscated.ilog)
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_8a685c3f540ec603cbe5996fee87e350240e22bafc5d3e34847b1a5e02e8f794@devRoot-D-R.obfuscated.ilog)
+3601a6ff: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRef_8a685c3f540ec603cbe5996fee87e350240e22bafc5d3e34847b1a5e02e8f794@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_8a685c3f540ec603cbe5996fee87e350240e22bafc5d3e34847b1a5e02e8f794@devRoot-D-R.obfuscated.ilog)
+46604b9f: Running Application: com.ifreesoft.ifreeroot
+b29e6a69: Running Application: com.ifreesoft.ifreeroot
+3601a6ff: Running Application: com.ifreesoft.ifreeroot
+PIDs--------------------------------------------------------------------------
+u0_a911       14173    424 1014416  88648 0                   0 R com.ifreesoft.ifreeroot:three
+forward tcp:35535 jdwp:14173
+[*]Found JDWP Target: 14173
+159ceeed: Running Application: com.ifreesoft.ifreeroot
+3601a6ff: Running is done - starting comparing... : 10001
+3601a6ff: Terminated logcat thread...by itself
+46604b9f: Running is done - starting comparing... : 10001
+46604b9f: Terminated logcat thread...by itself
+159ceeed: Running is done - starting comparing... : 10001
+159ceeed: Terminated logcat thread...by itself
+b29e6a69: Running is done - starting comparing... : 10001
+b29e6a69: Terminated logcat thread...by itself
+46604b9f: Top-activity: com.ifreesoft.ifreeroot/.IFreeRoot
+3601a6ff: Top-activity: com.ifreesoft.ifreeroot/.IFreeRoot
+PIDs--------------------------------------------------------------------------
+u0_a451       12435    426 1028900  98820 0                   0 S com.ifreesoft.ifreeroot:three
+46604b9f: savedPid = 12435
+PIDs--------------------------------------------------------------------------
+u0_a478       10603    415 1028572  98716 0                   0 S com.ifreesoft.ifreeroot:three
+3601a6ff: savedPid = 10603
+159ceeed: Top-activity: com.ifreesoft.ifreeroot/.IFreeRoot
+PIDs--------------------------------------------------------------------------
+u0_a451       12435    426 1028900  98820 0                   0 S com.ifreesoft.ifreeroot:three
+46604b9f: savedPid2 = 12435
+Stopping app: com.ifreesoft.ifreeroot
+PIDs--------------------------------------------------------------------------
+u0_a911       14173    424 1029684 101512 0                   0 S com.ifreesoft.ifreeroot:three
+159ceeed: savedPid = 14173
+PIDs--------------------------------------------------------------------------
+u0_a478       10603    415 1028572  98716 0                   0 S com.ifreesoft.ifreeroot:three
+3601a6ff: savedPid2 = 10603
+Stopping app: com.ifreesoft.ifreeroot
+PIDs--------------------------------------------------------------------------
+u0_a911       14173    424 1029684 101512 0                   0 S com.ifreesoft.ifreeroot:three
+159ceeed: savedPid2 = 14173
+Stopping app: com.ifreesoft.ifreeroot
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+b29e6a69: savedPid = null
+PIDs--------------------------------------------------------------------------
+b29e6a69: savedPid2 = null
+Stopping app: com.ifreesoft.ifreeroot
+Tryging remove : uninstall com.ifreesoft.ifreeroot(com.ifreesoft.ifreeroot)
+3601a6ff: Remove Success
+3601a6ff: ilog file size: 3901354
+3601a6ff: End of collecting logcat...
+Tryging remove : uninstall com.ifreesoft.ifreeroot(com.ifreesoft.ifreeroot)
+159ceeed: Remove Success
+159ceeed: ilog file size: 3673958
+159ceeed: End of collecting logcat...
+Tryging remove : uninstall com.ifreesoft.ifreeroot(com.ifreesoft.ifreeroot)
+46604b9f: Remove Success
+46604b9f: ilog file size: 3677498
+46604b9f: End of collecting logcat...
+Tryging remove : uninstall com.ifreesoft.ifreeroot(com.ifreesoft.ifreeroot)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 2826348
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 29
+Target PID : 10603
+Target PID : 10603
+Target PID : 10603
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_8a685c3f540ec603cbe5996fee87e350240e22bafc5d3e34847b1a5e02e8f794@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_8a685c3f540ec603cbe5996fee87e350240e22bafc5d3e34847b1a5e02e8f794@devRoot-D-R.obfuscated.ilog)
+Target PID : 12435
+Target PID : 
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_8a685c3f540ec603cbe5996fee87e350240e22bafc5d3e34847b1a5e02e8f794@devRoot-D-R.obfuscated.ilog)
+Target PID : 14173
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devTamper_8a685c3f540ec603cbe5996fee87e350240e22bafc5d3e34847b1a5e02e8f794@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 5 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_8a685c3f540ec603cbe5996fee87e350240e22bafc5d3e34847b1a5e02e8f794@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_8a685c3f540ec603cbe5996fee87e350240e22bafc5d3e34847b1a5e02e8f794@devRoot-D-R.obfuscated.ilog)
+[*] FlowManager: adjust finished.
+[*] FlowManager: adjust finished.
+[*] FlowManager: adjust finished.
+Action is completely same :)
+Action is completely same :)
+Action is completely same :)
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+Action is completely same :)
+46604b9f: There is no difference. (tryAgain=false)
+Action is completely same :)
+159ceeed: There is no difference. (tryAgain=false)
+android.os.AsyncTask/execute:([Ljava/lang/Object;)Landroid/os/AsyncTask;:10c310		=(rels)=>		1
+[*] Unique action: 1:10607 : <<CALL>> : com.waps.r/urTdTJNuWWDdTkvM:(Lcom/waps/o;[Ljava/lang/Object;)Landroid/os/AsyncTask;:10c310  =>  android.os.AsyncTask/execute:([Ljava/lang/Object;)Landroid/os/AsyncTask;:2ed1e4
+	1:compareBackwardBranch: 1:8049 : <<BRANCH>> : com.waps.AppConnect/a:()V:f4eac  =>  com.waps.AppConnect/a:()V:f4eb0
+Entry: f4310
+com.waps.AppConnect/a:()V: f4eac -> f4eb0
+		com.waps.AppConnect/a:()V: b9c -> ba0
+addPatchReadme: java.lang.Class<com.waps.AppConnect>a()V b9c f
+b29e6a69: [+] Patches found in this round: 1
+b29e6a69: [*] Found Patch size: 1
+Target PID : 
+ExitReason-Code: 5 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_8a685c3f540ec603cbe5996fee87e350240e22bafc5d3e34847b1a5e02e8f794@devRoot-D-R.obfuscated.ilog)
+b29e6a69: 	@@@Found patch addr: f4ebc
+b29e6a69: Querying offset: f4eac
+b29e6a69: 	--Add method name to patch = com.waps.AppConnect/a:()V 	f4eac
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: patching method: com.waps.AppConnect/a:()V
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/8a685c3f540ec603cbe5996fee87e350240e22bafc5d3e34847b1a5e02e8f794.apk@devRoot-D-R.apk.obfuscated_devRoot
+Wow!!!!!  --  com.waps.AppConnect/a:()V
+fallthrough: ba0
+branchTarget: ba0
+NOP!
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/8a685c3f540ec603cbe5996fee87e350240e22bafc5d3e34847b1a5e02e8f794.apk@devRoot-D-R.apk.obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/8a685c3f540ec603cbe5996fee87e350240e22bafc5d3e34847b1a5e02e8f794.apk@devRoot-D-R.apk.obfuscated_devRoot/8a685c3f540ec603cbe5996fee87e350240e22bafc5d3e34847b1a5e02e8f794.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/8a685c3f540ec603cbe5996fee87e350240e22bafc5d3e34847b1a5e02e8f794.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_8a685c3f540ec603cbe5996fee87e350240e22bafc5d3e34847b1a5e02e8f794.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: First address of Lcom/waps/AppConnect;->a()V = f4320
+b29e6a69: Address - Lcom/waps/AppConnect;->a()V@b9c	 lastOffset = 1318
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/8a685c3f540ec603cbe5996fee87e350240e22bafc5d3e34847b1a5e02e8f794.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_8a685c3f540ec603cbe5996fee87e350240e22bafc5d3e34847b1a5e02e8f794.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_8a685c3f540ec603cbe5996fee87e350240e22bafc5d3e34847b1a5e02e8f794@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Running Application: com.ifreesoft.ifreeroot
+b29e6a69: Running is done - starting comparing... : 10001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+b29e6a69: savedPid = null
+PIDs--------------------------------------------------------------------------
+b29e6a69: savedPid2 = null
+Stopping app: com.ifreesoft.ifreeroot
+Tryging remove : uninstall com.ifreesoft.ifreeroot(com.ifreesoft.ifreeroot)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 2928961
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 28
+Target PID : 10603
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_8a685c3f540ec603cbe5996fee87e350240e22bafc5d3e34847b1a5e02e8f794@devRoot-D-R.obfuscated.ilog)
+Target PID : 
+ExitReason-Code: 5 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_8a685c3f540ec603cbe5996fee87e350240e22bafc5d3e34847b1a5e02e8f794@devRoot-D-R.obfuscated.ilog)
+b29e6a69: /home/santapark/Extended3/DEEPerence/reEx/8a685c3f540ec603cbe5996fee87e350240e22bafc5d3e34847b1a5e02e8f794.apk@devRoot-D-R.apk.obfuscated.apk launch is failed on devRoot
+b29e6a69: Failed Patch: f4ebc
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: f4eac
+Action is completely same :)
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.os.AsyncTask/execute:([Ljava/lang/Object;)Landroid/os/AsyncTask;:10c310		=(rels)=>		1
+[*] Unique action: 1:10607 : <<CALL>> : com.waps.r/urTdTJNuWWDdTkvM:(Lcom/waps/o;[Ljava/lang/Object;)Landroid/os/AsyncTask;:10c310  =>  android.os.AsyncTask/execute:([Ljava/lang/Object;)Landroid/os/AsyncTask;:2ed1e4
+	1:compareBackwardBranch: 1:6213 : <<BRANCH>> : com.waps.AppConnect/t:()V:f2fb6  =>  com.waps.AppConnect/t:()V:f2fba
+Entry: f2f50
+com.waps.AppConnect/t:()V: f2fb6 -> f2fba
+		com.waps.AppConnect/t:()V: 66 -> 6a
+addPatchReadme: java.lang.Class<com.waps.AppConnect>t()V 66 f
+b29e6a69: [+] Patches found in this round: 1
+b29e6a69: [*] Found Patch size: 1
+Target PID : 
+ExitReason-Code: 5 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_8a685c3f540ec603cbe5996fee87e350240e22bafc5d3e34847b1a5e02e8f794@devRoot-D-R.obfuscated.ilog)
+b29e6a69: @@localPatchFilter -- f4ebc
+b29e6a69: 	@@@Found patch addr: f2fc6
+b29e6a69: Querying offset: f2fb6
+b29e6a69: 	--Add method name to patch = com.waps.AppConnect/t:()V 	f2fb6
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: patching method: com.waps.AppConnect/a:()V
+b29e6a69: patching method: com.waps.AppConnect/t:()V
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/8a685c3f540ec603cbe5996fee87e350240e22bafc5d3e34847b1a5e02e8f794.apk@devRoot-D-R.apk.obfuscated_devRoot
+Wow!!!!!  --  com.waps.AppConnect/t:()V
+fallthrough: 6a
+branchTarget: 6a
+NOP!
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/8a685c3f540ec603cbe5996fee87e350240e22bafc5d3e34847b1a5e02e8f794.apk@devRoot-D-R.apk.obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/8a685c3f540ec603cbe5996fee87e350240e22bafc5d3e34847b1a5e02e8f794.apk@devRoot-D-R.apk.obfuscated_devRoot/8a685c3f540ec603cbe5996fee87e350240e22bafc5d3e34847b1a5e02e8f794.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/8a685c3f540ec603cbe5996fee87e350240e22bafc5d3e34847b1a5e02e8f794.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_8a685c3f540ec603cbe5996fee87e350240e22bafc5d3e34847b1a5e02e8f794.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: First address of Lcom/waps/AppConnect;->t()V = f2f60
+b29e6a69: Address - Lcom/waps/AppConnect;->t()V@66	 lastOffset = 3e6
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/8a685c3f540ec603cbe5996fee87e350240e22bafc5d3e34847b1a5e02e8f794.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_8a685c3f540ec603cbe5996fee87e350240e22bafc5d3e34847b1a5e02e8f794.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_8a685c3f540ec603cbe5996fee87e350240e22bafc5d3e34847b1a5e02e8f794@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Running Application: com.ifreesoft.ifreeroot
+b29e6a69: Running is done - starting comparing... : 10001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+b29e6a69: savedPid = null
+PIDs--------------------------------------------------------------------------
+b29e6a69: savedPid2 = null
+Stopping app: com.ifreesoft.ifreeroot
+Tryging remove : uninstall com.ifreesoft.ifreeroot(com.ifreesoft.ifreeroot)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 2846209
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 27
+Target PID : 10603
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_8a685c3f540ec603cbe5996fee87e350240e22bafc5d3e34847b1a5e02e8f794@devRoot-D-R.obfuscated.ilog)
+Target PID : 
+ExitReason-Code: 5 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_8a685c3f540ec603cbe5996fee87e350240e22bafc5d3e34847b1a5e02e8f794@devRoot-D-R.obfuscated.ilog)
+b29e6a69: /home/santapark/Extended3/DEEPerence/reEx/8a685c3f540ec603cbe5996fee87e350240e22bafc5d3e34847b1a5e02e8f794.apk@devRoot-D-R.apk.obfuscated.apk launch is failed on devRoot
+b29e6a69: Failed Patch: f2fc6
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: f4eac
+-- current localPatchFilter: f2fb6
+Action is completely same :)
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.os.AsyncTask/execute:([Ljava/lang/Object;)Landroid/os/AsyncTask;:10c310		=(rels)=>		1
+[*] Unique action: 1:10607 : <<CALL>> : com.waps.r/urTdTJNuWWDdTkvM:(Lcom/waps/o;[Ljava/lang/Object;)Landroid/os/AsyncTask;:10c310  =>  android.os.AsyncTask/execute:([Ljava/lang/Object;)Landroid/os/AsyncTask;:2ed1e4
+Entry: bc9f4
+com.ifreesoft.ifreeroot.IFreeRoot/dostuff:()V: bce8e -> bce54
+		com.ifreesoft.ifreeroot.IFreeRoot/dostuff:()V: 49a -> 460
+addPatchReadme: java.lang.Class<com.ifreesoft.ifreeroot.IFreeRoot>dostuff()V 49a t
+b29e6a69: [+] Patches found in this round: 1
+b29e6a69: [*] Found Patch size: 1
+Target PID : 
+ExitReason-Code: 5 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_8a685c3f540ec603cbe5996fee87e350240e22bafc5d3e34847b1a5e02e8f794@devRoot-D-R.obfuscated.ilog)
+b29e6a69: @@localPatchFilter -- f4ebc
+b29e6a69: @@localPatchFilter -- f2fc6
+b29e6a69: 	@@@Found patch addr: bce9e
+b29e6a69: Querying offset: bce8e
+b29e6a69: 	--Add method name to patch = com.ifreesoft.ifreeroot.IFreeRoot/dostuff:()V 	bce8e
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: patching method: com.waps.AppConnect/a:()V
+b29e6a69: patching method: com.waps.AppConnect/t:()V
+b29e6a69: patching method: com.ifreesoft.ifreeroot.IFreeRoot/dostuff:()V
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/8a685c3f540ec603cbe5996fee87e350240e22bafc5d3e34847b1a5e02e8f794.apk@devRoot-D-R.apk.obfuscated_devRoot
+Wow!!!!!  --  com.ifreesoft.ifreeroot.IFreeRoot/dostuff:()V
+fallthrough: 49e
+branchTarget: 460
+label = cond_3
+GOTO -- 49e 	460
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/8a685c3f540ec603cbe5996fee87e350240e22bafc5d3e34847b1a5e02e8f794.apk@devRoot-D-R.apk.obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/8a685c3f540ec603cbe5996fee87e350240e22bafc5d3e34847b1a5e02e8f794.apk@devRoot-D-R.apk.obfuscated_devRoot/8a685c3f540ec603cbe5996fee87e350240e22bafc5d3e34847b1a5e02e8f794.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/8a685c3f540ec603cbe5996fee87e350240e22bafc5d3e34847b1a5e02e8f794.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_8a685c3f540ec603cbe5996fee87e350240e22bafc5d3e34847b1a5e02e8f794.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: First address of Lcom/ifreesoft/ifreeroot/IFreeRoot;->dostuff()V = bca04
+b29e6a69: Address - Lcom/ifreesoft/ifreeroot/IFreeRoot;->dostuff()V@49a	 lastOffset = 690
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/8a685c3f540ec603cbe5996fee87e350240e22bafc5d3e34847b1a5e02e8f794.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_8a685c3f540ec603cbe5996fee87e350240e22bafc5d3e34847b1a5e02e8f794.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_8a685c3f540ec603cbe5996fee87e350240e22bafc5d3e34847b1a5e02e8f794@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Running Application: com.ifreesoft.ifreeroot
+b29e6a69: Running is done - starting comparing... : 10001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.ifreesoft.ifreeroot/.IFreeRoot
+PIDs--------------------------------------------------------------------------
+u0_a605       14607    431 1031828  99672 0                   0 S com.ifreesoft.ifreeroot:three
+b29e6a69: savedPid = 14607
+PIDs--------------------------------------------------------------------------
+u0_a605       14607    431 1031828  99672 0                   0 S com.ifreesoft.ifreeroot:three
+b29e6a69: savedPid2 = 14607
+Stopping app: com.ifreesoft.ifreeroot
+Tryging remove : uninstall com.ifreesoft.ifreeroot(com.ifreesoft.ifreeroot)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 3671817
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 26
+Target PID : 10603
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_8a685c3f540ec603cbe5996fee87e350240e22bafc5d3e34847b1a5e02e8f794@devRoot-D-R.obfuscated.ilog)
+Target PID : 14607
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_8a685c3f540ec603cbe5996fee87e350240e22bafc5d3e34847b1a5e02e8f794@devRoot-D-R.obfuscated.ilog)
+b29e6a69: adding filter -- bce8e
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: f4eac
+-- current localPatchFilter: bce8e
+-- current localPatchFilter: f2fb6
+Action is completely same :)
+Action is completely same :)
+b29e6a69: There is no difference. (tryAgain=false)
+-- HPFinder will be done in this iteration :)
+hasAntiAnalysis? - devTamper: false on com.ifreesoft.ifreeroot.IFreeRoot
+hasAntiAnalysis? - devRoot: true on com.ifreesoft.ifreeroot.IFreeRoot
+	isRemovedThem? - devRoot: true on com.ifreesoft.ifreeroot.IFreeRoot	-	tryCount: 3
+hasAntiAnalysis? - devDebug: false on com.ifreesoft.ifreeroot.IFreeRoot
+*****REPORT: com.ifreesoft.ifreeroot
+* Package name: com.ifreesoft.ifreeroot
+* Running time: 116
+* FileSize: 1262329
+devTamper : 3677498
+devRef : 3901354
+devRoot : 3671817
+devDebug : 3673958
+hasAntiAnalysis? - devTamper: false on com.ifreesoft.ifreeroot.IFreeRoot
+hasAntiAnalysis? - devRoot: true on com.ifreesoft.ifreeroot.IFreeRoot
+	isRemovedThem? - devRoot: true on com.ifreesoft.ifreeroot.IFreeRoot	-	tryCount: 3
+hasAntiAnalysis? - devDebug: false on com.ifreesoft.ifreeroot.IFreeRoot
+46604b9f: trying remove : com.ifreesoft.ifreeroot
+3601a6ff: trying remove : com.ifreesoft.ifreeroot
+b29e6a69: trying remove : com.ifreesoft.ifreeroot
+159ceeed: trying remove : com.ifreesoft.ifreeroot
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+46604b9f: result = true
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+159ceeed: result = true
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+b29e6a69: result = true
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+3601a6ff: result = true
+3601a6ff: isFailedToLaunch: com.ifreesoft.ifreeroot/.IFreeRoot
+3601a6ff: 	--result: Good :)

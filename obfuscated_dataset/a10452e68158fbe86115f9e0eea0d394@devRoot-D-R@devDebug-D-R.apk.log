@@ -1,0 +1,293 @@
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample15.apk.obfuscated/AndroidManifest.xml
+launchable-activity: name='com.nct.maeum1.MainActivity'  label='마음프로그램' icon=''
+{ACTIVITY, com.nct.maeum1.MainActivity, android.intent.action.MAIN}
+{SERVICE, by.chemerisuk.cordova.firebase.FirebaseMessagingPluginService, com.google.firebase.MESSAGING_EVENT}
+{SERVICE, com.google.firebase.messaging.FirebaseMessagingService, com.google.firebase.MESSAGING_EVENT}
+{SERVICE, com.google.firebase.components.ComponentDiscoveryService}
+{RECEIVER, com.google.android.gms.measurement.AppMeasurementReceiver}
+{SERVICE, com.google.android.gms.measurement.AppMeasurementService}
+{SERVICE, com.google.android.gms.measurement.AppMeasurementJobService}
+{RECEIVER, com.google.firebase.iid.FirebaseInstanceIdReceiver, com.google.android.c2dm.intent.RECEIVE}
+{ACTIVITY, com.google.android.gms.common.api.GoogleApiActivity}
+{SERVICE, com.google.android.datatransport.runtime.backends.TransportBackendDiscovery}
+{SERVICE, com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService}
+{ACTIVITY, com.nct.maeum1.MainActivity, android.intent.action.MAIN}
+{SERVICE, by.chemerisuk.cordova.firebase.FirebaseMessagingPluginService, com.google.firebase.MESSAGING_EVENT}
+{SERVICE, com.google.firebase.messaging.FirebaseMessagingService, com.google.firebase.MESSAGING_EVENT}
+{SERVICE, com.google.firebase.components.ComponentDiscoveryService}
+{RECEIVER, com.google.android.gms.measurement.AppMeasurementReceiver}
+{SERVICE, com.google.android.gms.measurement.AppMeasurementService}
+{SERVICE, com.google.android.gms.measurement.AppMeasurementJobService}
+{RECEIVER, com.google.firebase.iid.FirebaseInstanceIdReceiver, com.google.android.c2dm.intent.RECEIVE}
+{ACTIVITY, com.google.android.gms.common.api.GoogleApiActivity}
+{SERVICE, com.google.android.datatransport.runtime.backends.TransportBackendDiscovery}
+{SERVICE, com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService}
+_getAllDexFiles: /home/santapark/Extended3/DEEPerence/reEx/sample15.apk.obfuscated/classes.dex
+----------------/home/santapark/Extended3/DEEPerence/reEx/sample15.apk.obfuscated.apk
+dexFile = org.jf.dexlib2.dexbacked.DexBackedDexFile@306cf3ea
+com.nct.maeum1
+com.nct.maeum1.MainActivity
+debuggable: true
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample15.apk.obfuscated.apk
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample15.apk.obfuscated.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample15.apk.obfuscated.apk
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample15.apk.obfuscated_46604b9f/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample15.apk.obfuscated_46604b9f/sample15.apk.obfuscated.apk
+3601a6ff: Installation Success
+b29e6a69: Installation Success
+159ceeed: Installation Success
+46604b9f: Installing repackaged apk File: 
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample15.apk.obfuscated_46604b9f/signed_sample15.apk.obfuscated.apk
+46604b9f: Installation Success
+46604b9f: startApplication called! - devTamper
+3601a6ff: startApplication called! - devRef
+b29e6a69: startApplication called! - devRoot
+159ceeed: startApplication called! - devDebug
+46604b9f: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devTamper_sample15.obfuscated.ilog)
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample15.obfuscated.ilog)
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample15.obfuscated.ilog)
+3601a6ff: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample15.obfuscated.ilog)
+46604b9f: Running Application: com.nct.maeum1
+b29e6a69: Running Application: com.nct.maeum1
+3601a6ff: Running Application: com.nct.maeum1
+PIDs--------------------------------------------------------------------------
+u0_a346        6125    425 14174768 101788 0                  0 S com.nct.maeum1
+forward tcp:5005 jdwp:6125
+[*]Found JDWP Target: 6125
+159ceeed: Running Application: com.nct.maeum1
+46604b9f: Top-activity: com.nct.maeum1/.MainActivity
+PIDs--------------------------------------------------------------------------
+u0_a1085      14354    429 14217900 142172 0                  0 S com.nct.maeum1
+46604b9f: Terminated logcat thread...by itself
+3601a6ff: Top-activity: com.nct.maeum1/.MainActivity
+PIDs--------------------------------------------------------------------------
+u0_a1085      14354    429 14217900 142172 0                  0 S com.nct.maeum1
+Stopping app: com.nct.maeum1
+PIDs--------------------------------------------------------------------------
+u0_a213       24497    421 14274752 141496 0                  0 S com.nct.maeum1
+3601a6ff: Terminated logcat thread...by itself
+PIDs--------------------------------------------------------------------------
+u0_a213       24497    421 14274752 141496 0                  0 S com.nct.maeum1
+Stopping app: com.nct.maeum1
+b29e6a69: Top-activity: com.nct.maeum1/.MainActivity
+PIDs--------------------------------------------------------------------------
+u0_a3556       5931    430 14199872 139872 0                  0 S com.nct.maeum1
+b29e6a69: Terminated logcat thread...by itself
+159ceeed: Top-activity: com.nct.maeum1/.MainActivity
+PIDs--------------------------------------------------------------------------
+u0_a3556       5931    430 14199872 139876 0                  0 S com.nct.maeum1
+Stopping app: com.nct.maeum1
+PIDs--------------------------------------------------------------------------
+u0_a346        6125    425 14302572 140760 0                  0 S com.nct.maeum1
+159ceeed: Terminated logcat thread...by itself
+PIDs--------------------------------------------------------------------------
+u0_a346        6125    425 14302572 140760 0                  0 S com.nct.maeum1
+Stopping app: com.nct.maeum1
+Tryging remove : uninstall com.nct.maeum1(com.nct.maeum1)
+3601a6ff: Remove Success
+3601a6ff: ilog file size: 381586381
+3601a6ff: End of collecting logcat...
+Tryging remove : uninstall com.nct.maeum1(com.nct.maeum1)
+46604b9f: Remove Success
+46604b9f: ilog file size: 322416554
+46604b9f: End of collecting logcat...
+Tryging remove : uninstall com.nct.maeum1(com.nct.maeum1)
+159ceeed: Remove Success
+159ceeed: ilog file size: 361519210
+159ceeed: End of collecting logcat...
+Tryging remove : uninstall com.nct.maeum1(com.nct.maeum1)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 309506755
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 29
+46604b9f: isFailedToLaunch: com.nct.maeum1/.MainActivity
+46604b9f: 	--result: Good :)
+b29e6a69: isFailedToLaunch: com.nct.maeum1/.MainActivity
+b29e6a69: 	--result: Good :)
+159ceeed: isFailedToLaunch: com.nct.maeum1/.MainActivity
+159ceeed: 	--result: Good :)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample15.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample15.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample15.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devTamper_sample15.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample15.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample15.obfuscated.ilog)
+[*] FlowManager: adjust finished.
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.app.Dialog/show:()V:51a2f0		=(rels)=>		1
+[*] Unique action: 1:185916 : <<CALL>> : com.nct.maeum1.MainActivity/e:(Ljava/lang/String;Ljava/lang/String;)V:51a2f0  =>  android.app.Dialog/show:()V:1b4adc
+[*] FlowManager: adjust finished.
+Action is completely same :)
+Action is completely same :)
+46604b9f: There is no difference. (tryAgain=false)
+	1:compareBackwardBranch: 1:145645 : <<BRANCH>> : com.nct.maeum1.MainActivity/onCreate:(Landroid/os/Bundle;)V:51a7c4  =>  com.nct.maeum1.MainActivity/onCreate:(Landroid/os/Bundle;)V:51a7d0
+java.net.URL/openConnection:()Ljava/net/URLConnection;:519e76		=(rels)=>		0
+android.os.AsyncTask/execute:([Ljava/lang/Object;)Landroid/os/AsyncTask;:519abc		=(rels)=>		1
+[*] Unique action: 1:182048 : <<CALL>> : com.nct.maeum1.MainActivity$a/run:()V:519abc  =>  android.os.AsyncTask/execute:([Ljava/lang/Object;)Landroid/os/AsyncTask;:2ed1e4
+	1:compareBackwardBranch: 1:145645 : <<BRANCH>> : com.nct.maeum1.MainActivity/onCreate:(Landroid/os/Bundle;)V:51a7c4  =>  com.nct.maeum1.MainActivity/onCreate:(Landroid/os/Bundle;)V:51a7d0
+android.app.Dialog/show:()V:51a3b0		=(rels)=>		1
+[*] Unique action: 1:41380 : <<CALL>> : com.nct.maeum1.MainActivity/f:()V:51a3b0  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:145645 : <<BRANCH>> : com.nct.maeum1.MainActivity/onCreate:(Landroid/os/Bundle;)V:51a7c4  =>  com.nct.maeum1.MainActivity/onCreate:(Landroid/os/Bundle;)V:51a7d0
+Entry: 51a6d8
+com.nct.maeum1.MainActivity/onCreate:(Landroid/os/Bundle;)V: 51a7c4 -> 51a7d0
+		com.nct.maeum1.MainActivity/onCreate:(Landroid/os/Bundle;)V: ec -> f8
+addPatchReadme: java.lang.Class<com.nct.maeum1.MainActivity>onCreate(Landroid/os/Bundle;)V ec t
+b29e6a69: [+] Patches found in this round: 1
+b29e6a69: [*] Found Patch size: 1
+[*] FlowManager: adjust finished.
+[GOOD]: Anti-analysis is identified! :) -- 1 --devDebug
+android.app.Dialog/show:()V:51a2f0		=(rels)=>		1
+[*] Unique action: 1:185916 : <<CALL>> : com.nct.maeum1.MainActivity/e:(Ljava/lang/String;Ljava/lang/String;)V:51a2f0  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:145645 : <<BRANCH>> : com.nct.maeum1.MainActivity/onCreate:(Landroid/os/Bundle;)V:51a7c4  =>  com.nct.maeum1.MainActivity/onCreate:(Landroid/os/Bundle;)V:51a7d0
+java.net.URL/openConnection:()Ljava/net/URLConnection;:519e76		=(rels)=>		0
+android.os.AsyncTask/execute:([Ljava/lang/Object;)Landroid/os/AsyncTask;:519abc		=(rels)=>		1
+[*] Unique action: 1:182048 : <<CALL>> : com.nct.maeum1.MainActivity$a/run:()V:519abc  =>  android.os.AsyncTask/execute:([Ljava/lang/Object;)Landroid/os/AsyncTask;:2ed1e4
+	1:compareBackwardBranch: 1:145645 : <<BRANCH>> : com.nct.maeum1.MainActivity/onCreate:(Landroid/os/Bundle;)V:51a7c4  =>  com.nct.maeum1.MainActivity/onCreate:(Landroid/os/Bundle;)V:51a7d0
+android.app.Dialog/show:()V:51a3b0		=(rels)=>		1
+[*] Unique action: 1:90470 : <<CALL>> : com.nct.maeum1.MainActivity/f:()V:51a3b0  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:145645 : <<BRANCH>> : com.nct.maeum1.MainActivity/onCreate:(Landroid/os/Bundle;)V:51a7c4  =>  com.nct.maeum1.MainActivity/onCreate:(Landroid/os/Bundle;)V:51a7d0
+Entry: 51a6d8
+com.nct.maeum1.MainActivity/onCreate:(Landroid/os/Bundle;)V: 51a7c4 -> 51a7d0
+		com.nct.maeum1.MainActivity/onCreate:(Landroid/os/Bundle;)V: ec -> f8
+addPatchReadme: java.lang.Class<com.nct.maeum1.MainActivity>onCreate(Landroid/os/Bundle;)V ec t
+159ceeed: [+] Patches found in this round: 1
+159ceeed: [*] Found Patch size: 1
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample15.obfuscated.ilog)
+b29e6a69: Querying offset: 51a7c4
+b29e6a69: 	--Add method name to patch = com.nct.maeum1.MainActivity/onCreate:(Landroid/os/Bundle;)V 	51a7c4
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample15.obfuscated.ilog)
+159ceeed: Querying offset: 51a7c4
+159ceeed: 	--Add method name to patch = com.nct.maeum1.MainActivity/onCreate:(Landroid/os/Bundle;)V 	51a7c4
+Devices presenting anti-analysis: 
+	devRoot
+	devDebug
+b29e6a69: patching method: com.nct.maeum1.MainActivity/onCreate:(Landroid/os/Bundle;)V
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample15.apk.obfuscated_devRoot
+Wow!!!!!  --  com.nct.maeum1.MainActivity/onCreate:(Landroid/os/Bundle;)V
+fallthrough: f0
+branchTarget: f8
+label = cond_2
+GOTO -- f0 	f8
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample15.apk.obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample15.apk.obfuscated_devRoot/sample15.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample15.apk.obfuscated_devRoot/signed_sample15.apk.obfuscated.apk
+b29e6a69: First address of Lcom/nct/maeum1/MainActivity;->onCreate(Landroid/os/Bundle;)V = 51a6e8
+b29e6a69: Address - Lcom/nct/maeum1/MainActivity;->onCreate(Landroid/os/Bundle;)V@ec	 lastOffset = 134
+b29e6a69: Instruction@@: IF_EQZ
+159ceeed: patching method: com.nct.maeum1.MainActivity/onCreate:(Landroid/os/Bundle;)V
+159ceeed: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample15.apk.obfuscated_devDebug
+Wow!!!!!  --  com.nct.maeum1.MainActivity/onCreate:(Landroid/os/Bundle;)V
+fallthrough: f0
+branchTarget: f8
+label = cond_2
+GOTO -- f0 	f8
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample15.apk.obfuscated_devDebug/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample15.apk.obfuscated_devDebug/sample15.apk.obfuscated.apk
+159ceeed: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample15.apk.obfuscated_devDebug/signed_sample15.apk.obfuscated.apk
+159ceeed: First address of Lcom/nct/maeum1/MainActivity;->onCreate(Landroid/os/Bundle;)V = 51a6e8
+159ceeed: Address - Lcom/nct/maeum1/MainActivity;->onCreate(Landroid/os/Bundle;)V@ec	 lastOffset = 134
+159ceeed: Instruction@@: IF_EQZ
+159ceeed: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample15.apk.obfuscated_devDebug/signed_sample15.apk.obfuscated.apk
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample15.apk.obfuscated_devRoot/signed_sample15.apk.obfuscated.apk
+b29e6a69: Installation Success
+159ceeed: Installation Success
+b29e6a69: startApplication called! - devRoot
+159ceeed: startApplication called! - devDebug
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample15.obfuscated.ilog)
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample15.obfuscated.ilog)
+b29e6a69: Running Application: com.nct.maeum1
+PIDs--------------------------------------------------------------------------
+u0_a347        6411    425 14209656 102096 0                  0 S com.nct.maeum1
+forward tcp:5005 jdwp:6411
+[*]Found JDWP Target: 6411
+159ceeed: Running Application: com.nct.maeum1
+b29e6a69: Top-activity: com.nct.maeum1/.MainActivity
+PIDs--------------------------------------------------------------------------
+u0_a3557       6214    430 14157352 140536 0                  0 S com.nct.maeum1
+b29e6a69: Terminated logcat thread...by itself
+159ceeed: Top-activity: com.nct.maeum1/.MainActivity
+PIDs--------------------------------------------------------------------------
+u0_a3557       6214    430 14157352 140536 0                  0 S com.nct.maeum1
+Stopping app: com.nct.maeum1
+PIDs--------------------------------------------------------------------------
+u0_a347        6411    425 14302360 142116 0                  0 S com.nct.maeum1
+159ceeed: Terminated logcat thread...by itself
+PIDs--------------------------------------------------------------------------
+u0_a347        6411    425 14302360 142116 0                  0 S com.nct.maeum1
+Stopping app: com.nct.maeum1
+Tryging remove : uninstall com.nct.maeum1(com.nct.maeum1)
+159ceeed: Remove Success
+159ceeed: ilog file size: 355322810
+159ceeed: End of collecting logcat...
+Tryging remove : uninstall com.nct.maeum1(com.nct.maeum1)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 305179907
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 28
+b29e6a69: isFailedToLaunch: com.nct.maeum1/.MainActivity
+b29e6a69: 	--result: Good :)
+159ceeed: isFailedToLaunch: com.nct.maeum1/.MainActivity
+159ceeed: 	--result: Good :)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample15.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample15.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample15.obfuscated.ilog)
+b29e6a69: adding filter -- 51a7c4
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample15.obfuscated.ilog)
+159ceeed: adding filter -- 51a7c4
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 51a7c4
+Action is completely same :)
+Action is completely same :)
+b29e6a69: There is no difference. (tryAgain=false)
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 51a7c4
+Action is completely same :)
+Action is completely same :)
+159ceeed: There is no difference. (tryAgain=false)
+-- HPFinder will be done in this iteration :)
+hasAntiAnalysis? - devTamper: false on com.nct.maeum1.MainActivity
+hasAntiAnalysis? - devRoot: true on com.nct.maeum1.MainActivity
+	isRemovedThem? - devRoot: true on com.nct.maeum1.MainActivity	-	tryCount: 1
+hasAntiAnalysis? - devDebug: true on com.nct.maeum1.MainActivity
+	isRemovedThem? - devDebug: true on com.nct.maeum1.MainActivity	-	tryCount: 1
+*****REPORT: com.nct.maeum1
+* Package name: com.nct.maeum1
+* Running time: 364
+* FileSize: 3679659
+devTamper : 322416554
+devRef : 381586381
+devRoot : 305179907
+devDebug : 355322810
+hasAntiAnalysis? - devTamper: false on com.nct.maeum1.MainActivity
+hasAntiAnalysis? - devRoot: true on com.nct.maeum1.MainActivity
+	isRemovedThem? - devRoot: true on com.nct.maeum1.MainActivity	-	tryCount: 1
+hasAntiAnalysis? - devDebug: true on com.nct.maeum1.MainActivity
+	isRemovedThem? - devDebug: true on com.nct.maeum1.MainActivity	-	tryCount: 1
+46604b9f: trying remove : com.nct.maeum1
+3601a6ff: trying remove : com.nct.maeum1
+b29e6a69: trying remove : com.nct.maeum1
+159ceeed: trying remove : com.nct.maeum1
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+159ceeed: result = true
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+3601a6ff: result = true
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+46604b9f: result = true
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+b29e6a69: result = true
+3601a6ff: isFailedToLaunch: com.nct.maeum1/.MainActivity
+3601a6ff: 	--result: Good :)

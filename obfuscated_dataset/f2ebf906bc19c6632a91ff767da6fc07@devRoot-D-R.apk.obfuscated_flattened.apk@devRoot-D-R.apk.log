@@ -1,0 +1,301 @@
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample67.apk@devRoot-D-R.apk.obfuscated_flattened/AndroidManifest.xml
+launchable-activity: name='com.infra.kdcc.SplashActivity'  label='Janatha Seva Co-op Bank' icon=''
+{ACTIVITY, com.infra.kdcc.nli.RegistrationSuccessActivity}
+{ACTIVITY, com.infra.kdcc.bbps.OmniBBPSActivity}
+{ACTIVITY, com.infra.kdcc.deltabbps.DeltaBBPSActivity}
+{ACTIVITY, com.infra.kdcc.kdccbbps.KDCCBBPSActivity}
+{ACTIVITY, com.infra.kdcc.navigation.NavigationDetailsActivity}
+{ACTIVITY, com.infra.kdcc.deposits.DepositsActivity}
+{ACTIVITY, com.infra.kdcc.fundTransfer.FundTransferActivity}
+{ACTIVITY, com.infra.kdcc.dashboard.SettingsActivity}
+{ACTIVITY, com.infra.kdcc.account.AccountInfoActivity}
+{ACTIVITY, com.infra.kdcc.account.AllAcountsActivity}
+{ACTIVITY, com.infra.kdcc.registration.RegistrationActivity}
+{ACTIVITY, com.infra.kdcc.fundTransfer.StatementDetailsActivity}
+{ACTIVITY, com.infra.kdcc.WebLoadActivity}
+{ACTIVITY, com.infra.kdcc.dashboard.DashBoardNavigationActivity}
+{ACTIVITY, com.infra.kdcc.common.BaseAppCompatActivity}
+{ACTIVITY, com.android.camera.CropImage}
+{ACTIVITY, com.infra.kdcc.utils.CropImageActivity}
+{ACTIVITY, com.infra.kdcc.registration.LoginActivity}
+{ACTIVITY, com.infra.kdcc.NotificationActivity}
+{ACTIVITY, com.infra.kdcc.utils.SimChange.SimChangeDialogActivity}
+{ACTIVITY, com.infra.kdcc.SplashActivity, android.intent.action.MAIN, android.intent.action.VIEW}
+{RECEIVER, com.infra.kdcc.utils.SimChange.SimChangedReceiver, android.intent.action.SIM_STATE_CHANGED}
+{RECEIVER, com.infra.kdcc.utils.AutoReadOTP.SMSListener, android.provider.Telephony.SMS_RECEIVED}
+{SERVICE, com.infra.kdcc.dashboard.intentService.SessionTimeOutService}
+{ACTIVITY, com.infra.kdcc.nli.RegistrationSuccessActivity}
+{ACTIVITY, com.infra.kdcc.bbps.OmniBBPSActivity}
+{ACTIVITY, com.infra.kdcc.deltabbps.DeltaBBPSActivity}
+{ACTIVITY, com.infra.kdcc.kdccbbps.KDCCBBPSActivity}
+{ACTIVITY, com.infra.kdcc.navigation.NavigationDetailsActivity}
+{ACTIVITY, com.infra.kdcc.deposits.DepositsActivity}
+{ACTIVITY, com.infra.kdcc.fundTransfer.FundTransferActivity}
+{ACTIVITY, com.infra.kdcc.dashboard.SettingsActivity}
+{ACTIVITY, com.infra.kdcc.account.AccountInfoActivity}
+{ACTIVITY, com.infra.kdcc.account.AllAcountsActivity}
+{ACTIVITY, com.infra.kdcc.registration.RegistrationActivity}
+{ACTIVITY, com.infra.kdcc.fundTransfer.StatementDetailsActivity}
+{ACTIVITY, com.infra.kdcc.WebLoadActivity}
+{ACTIVITY, com.infra.kdcc.dashboard.DashBoardNavigationActivity}
+{ACTIVITY, com.infra.kdcc.common.BaseAppCompatActivity}
+{ACTIVITY, com.android.camera.CropImage}
+{ACTIVITY, com.infra.kdcc.utils.CropImageActivity}
+{ACTIVITY, com.infra.kdcc.registration.LoginActivity}
+{ACTIVITY, com.infra.kdcc.NotificationActivity}
+{ACTIVITY, com.infra.kdcc.utils.SimChange.SimChangeDialogActivity}
+{ACTIVITY, com.infra.kdcc.SplashActivity, android.intent.action.MAIN, android.intent.action.VIEW}
+{RECEIVER, com.infra.kdcc.utils.SimChange.SimChangedReceiver, android.intent.action.SIM_STATE_CHANGED}
+{RECEIVER, com.infra.kdcc.utils.AutoReadOTP.SMSListener, android.provider.Telephony.SMS_RECEIVED}
+{SERVICE, com.infra.kdcc.dashboard.intentService.SessionTimeOutService}
+_getAllDexFiles: /home/santapark/Extended3/DEEPerence/reEx/sample67.apk@devRoot-D-R.apk.obfuscated_flattened/classes.dex
+----------------/home/santapark/Extended3/DEEPerence/reEx/sample67.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+dexFile = org.jf.dexlib2.dexbacked.DexBackedDexFile@13f95696
+com.infrasofttech.JanathaSevaBank
+com.infra.kdcc.SplashActivity
+debuggable: true
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample67.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample67.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample67.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample67.apk@devRoot-D-R.apk.obfuscated_flattened_46604b9f/sample67.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+46604b9f: Installing repackaged apk File: 
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample67.apk@devRoot-D-R.apk.obfuscated_flattened_46604b9f/signed_sample67.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+3601a6ff: Installation Success
+159ceeed: Installation Success
+b29e6a69: Installation Success
+46604b9f: Installation Success
+46604b9f: startApplication called! - devTamper
+3601a6ff: startApplication called! - devRef
+b29e6a69: startApplication called! - devRoot
+159ceeed: startApplication called! - devDebug
+3601a6ff: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample67@devRoot-D-R.obfuscated_flattened.ilog)
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample67@devRoot-D-R.obfuscated_flattened.ilog)
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample67@devRoot-D-R.obfuscated_flattened.ilog)
+46604b9f: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devTamper_sample67@devRoot-D-R.obfuscated_flattened.ilog)
+b29e6a69: Running Application: com.infrasofttech.JanathaSevaBank
+46604b9f: Running Application: com.infrasofttech.JanathaSevaBank
+3601a6ff: Running Application: com.infrasofttech.JanathaSevaBank
+PIDs--------------------------------------------------------------------------
+u0_a316       18091    423 14489472 107696 0                  0 S com.infrasofttech.JanathaSevaBank
+forward tcp:35535 jdwp:18091
+[*]Found JDWP Target: 18091
+159ceeed: Running Application: com.infrasofttech.JanathaSevaBank
+b29e6a69: Running is done - starting comparing... : 10001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.infrasofttech.JanathaSevaBank/com.infra.kdcc.SplashActivity
+PIDs--------------------------------------------------------------------------
+u0_a3915      16648    425 14636616 127028 0                  0 S com.infrasofttech.JanathaSevaBank
+b29e6a69: savedPid = 16648
+PIDs--------------------------------------------------------------------------
+u0_a3915      16648    425 14636616 127028 0                  0 S com.infrasofttech.JanathaSevaBank
+b29e6a69: savedPid2 = 16648
+Stopping app: com.infrasofttech.JanathaSevaBank
+3601a6ff: Running is done - starting comparing... : 10001
+3601a6ff: Terminated logcat thread...by itself
+159ceeed: Running is done - starting comparing... : 10001
+159ceeed: Terminated logcat thread...by itself
+46604b9f: Running is done - starting comparing... : 10001
+46604b9f: Terminated logcat thread...by itself
+3601a6ff: Top-activity: com.infrasofttech.JanathaSevaBank/com.infra.kdcc.SplashActivity
+159ceeed: Top-activity: com.infrasofttech.JanathaSevaBank/com.infra.kdcc.SplashActivity
+PIDs--------------------------------------------------------------------------
+u0_a316       18091    423 14555896 129960 0                  0 S com.infrasofttech.JanathaSevaBank
+159ceeed: savedPid = 18091
+PIDs--------------------------------------------------------------------------
+u0_a296        9417    417 14800656 128648 0                  0 S com.infrasofttech.JanathaSevaBank
+3601a6ff: savedPid = 9417
+PIDs--------------------------------------------------------------------------
+u0_a316       18091    423 14555896 129960 0                  0 S com.infrasofttech.JanathaSevaBank
+159ceeed: savedPid2 = 18091
+Stopping app: com.infrasofttech.JanathaSevaBank
+PIDs--------------------------------------------------------------------------
+u0_a296        9417    417 14800656 128648 0                  0 S com.infrasofttech.JanathaSevaBank
+3601a6ff: savedPid2 = 9417
+Stopping app: com.infrasofttech.JanathaSevaBank
+46604b9f: Top-activity: com.infrasofttech.JanathaSevaBank/com.infra.kdcc.SplashActivity
+PIDs--------------------------------------------------------------------------
+u0_a940       10668    427 14860100 128428 0                  0 S com.infrasofttech.JanathaSevaBank
+46604b9f: savedPid = 10668
+PIDs--------------------------------------------------------------------------
+u0_a940       10668    427 14860100 128428 0                  0 S com.infrasofttech.JanathaSevaBank
+46604b9f: savedPid2 = 10668
+Stopping app: com.infrasofttech.JanathaSevaBank
+Tryging remove : uninstall com.infrasofttech.JanathaSevaBank(com.infrasofttech.JanathaSevaBank)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 1676648
+b29e6a69: End of collecting logcat...
+Tryging remove : uninstall com.infrasofttech.JanathaSevaBank(com.infrasofttech.JanathaSevaBank)
+3601a6ff: Remove Success
+3601a6ff: ilog file size: 14492446
+3601a6ff: End of collecting logcat...
+Tryging remove : uninstall com.infrasofttech.JanathaSevaBank(com.infrasofttech.JanathaSevaBank)
+159ceeed: Remove Success
+159ceeed: ilog file size: 14736431
+159ceeed: End of collecting logcat...
+Tryging remove : uninstall com.infrasofttech.JanathaSevaBank(com.infrasofttech.JanathaSevaBank)
+46604b9f: Remove Success
+46604b9f: ilog file size: 14765168
+46604b9f: End of collecting logcat...
+HPFinder's try count remains: 29
+46604b9f: isFailedToLaunch: com.infrasofttech.JanathaSevaBank/com.infra.kdcc.SplashActivity
+46604b9f: 	--result: Good :)
+46604b9f: isFailedToLaunch: com.infrasofttech.JanathaSevaBank/com.infra.kdcc.SplashActivity
+46604b9f: 	--result: Good :)
+b29e6a69: isFailedToLaunch: com.infrasofttech.JanathaSevaBank/com.infra.kdcc.SplashActivity
+b29e6a69: 	--result: Good :)
+b29e6a69: isFailedToLaunch: com.infrasofttech.JanathaSevaBank/com.infra.kdcc.SplashActivity
+b29e6a69: 	--result: Good :)
+159ceeed: isFailedToLaunch: com.infrasofttech.JanathaSevaBank/com.infra.kdcc.SplashActivity
+159ceeed: 	--result: Good :)
+159ceeed: isFailedToLaunch: com.infrasofttech.JanathaSevaBank/com.infra.kdcc.SplashActivity
+159ceeed: 	--result: Good :)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample67@devRoot-D-R.obfuscated_flattened.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample67@devRoot-D-R.obfuscated_flattened.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample67@devRoot-D-R.obfuscated_flattened.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample67@devRoot-D-R.obfuscated_flattened.ilog)
+[*] FlowManager: adjust finished.
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.app.Dialog/show:()V:2d2dac		=(rels)=>		1
+[*] Unique action: 1:71448 : <<CALL>> : d.e.a.r.m/y:(Landroid/content/Context;Ld/e/a/r/b;Ljava/lang/String;Lcom/infra/kdcc/utils/Constants$ErroDialogTag;Ljava/lang/String;Ljava/lang/String;)V:2d2dac  =>  android.app.Dialog/show:()V:1b4adc
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample67@devRoot-D-R.obfuscated_flattened.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devTamper_sample67@devRoot-D-R.obfuscated_flattened.ilog)
+[*] FlowManager: adjust finished.
+Action is completely same :)
+Action is completely same :)
+159ceeed: There is no difference. (tryAgain=false)
+[*] FlowManager: adjust finished.
+Action is completely same :)
+Action is completely same :)
+46604b9f: There is no difference. (tryAgain=false)
+	1:compareBackwardBranch: 1:70161 : <<BRANCH>> : b.b.i.h.w/j:(Landroid/content/Context;Lb/b/i/h/v1;)V:21fadc  =>  b.b.i.h.w/j:(Landroid/content/Context;Lb/b/i/h/v1;)V:21fb42
+android.view.ViewGroup/addView:(Landroid/view/View;)V:1894cc		=(rels)=>		1
+[*] Unique action: 1:70951 : <<CALL>> : android.support.design.widget.BottomSheetDialog/wrapInBottomSheet:(ILandroid/view/View;Landroid/view/ViewGroup$LayoutParams;)Landroid/view/View;:1894cc  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:70161 : <<BRANCH>> : b.b.i.h.w/j:(Landroid/content/Context;Lb/b/i/h/v1;)V:21fadc  =>  b.b.i.h.w/j:(Landroid/content/Context;Lb/b/i/h/v1;)V:21fb42
+android.view.ViewGroup/addView:(Landroid/view/View;)V:1ad12e		=(rels)=>		1
+[*] Unique action: 1:71410 : <<CALL>> : android.support.v7.app.AppCompatDelegateImpl/g:(Landroid/view/View;)V:1ad12e  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:70161 : <<BRANCH>> : b.b.i.h.w/j:(Landroid/content/Context;Lb/b/i/h/v1;)V:21fadc  =>  b.b.i.h.w/j:(Landroid/content/Context;Lb/b/i/h/v1;)V:21fb42
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:2d2c1a		=(rels)=>		1
+[*] Unique action: 1:70536 : <<CALL>> : d.e.a.r.m/y:(Landroid/content/Context;Ld/e/a/r/b;Ljava/lang/String;Lcom/infra/kdcc/utils/Constants$ErroDialogTag;Ljava/lang/String;Ljava/lang/String;)V:2d2c1a  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:70161 : <<BRANCH>> : b.b.i.h.w/j:(Landroid/content/Context;Lb/b/i/h/v1;)V:21fadc  =>  b.b.i.h.w/j:(Landroid/content/Context;Lb/b/i/h/v1;)V:21fb42
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1894f0		=(rels)=>		1
+[*] Unique action: 1:70957 : <<CALL>> : android.support.design.widget.BottomSheetDialog/wrapInBottomSheet:(ILandroid/view/View;Landroid/view/ViewGroup$LayoutParams;)Landroid/view/View;:1894f0  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:70161 : <<BRANCH>> : b.b.i.h.w/j:(Landroid/content/Context;Lb/b/i/h/v1;)V:21fadc  =>  b.b.i.h.w/j:(Landroid/content/Context;Lb/b/i/h/v1;)V:21fb42
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:2d2c36		=(rels)=>		1
+[*] Unique action: 1:70554 : <<CALL>> : d.e.a.r.m/y:(Landroid/content/Context;Ld/e/a/r/b;Ljava/lang/String;Lcom/infra/kdcc/utils/Constants$ErroDialogTag;Ljava/lang/String;Ljava/lang/String;)V:2d2c36  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:70161 : <<BRANCH>> : b.b.i.h.w/j:(Landroid/content/Context;Lb/b/i/h/v1;)V:21fadc  =>  b.b.i.h.w/j:(Landroid/content/Context;Lb/b/i/h/v1;)V:21fb42
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:2d2c26		=(rels)=>		1
+[*] Unique action: 1:70546 : <<CALL>> : d.e.a.r.m/y:(Landroid/content/Context;Ld/e/a/r/b;Ljava/lang/String;Lcom/infra/kdcc/utils/Constants$ErroDialogTag;Ljava/lang/String;Ljava/lang/String;)V:2d2c26  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:70161 : <<BRANCH>> : b.b.i.h.w/j:(Landroid/content/Context;Lb/b/i/h/v1;)V:21fadc  =>  b.b.i.h.w/j:(Landroid/content/Context;Lb/b/i/h/v1;)V:21fb42
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:2d2c20		=(rels)=>		1
+[*] Unique action: 1:70541 : <<CALL>> : d.e.a.r.m/y:(Landroid/content/Context;Ld/e/a/r/b;Ljava/lang/String;Lcom/infra/kdcc/utils/Constants$ErroDialogTag;Ljava/lang/String;Ljava/lang/String;)V:2d2c20  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:70161 : <<BRANCH>> : b.b.i.h.w/j:(Landroid/content/Context;Lb/b/i/h/v1;)V:21fadc  =>  b.b.i.h.w/j:(Landroid/content/Context;Lb/b/i/h/v1;)V:21fb42
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:2d2c62		=(rels)=>		1
+[*] Unique action: 1:70575 : <<CALL>> : d.e.a.r.m/y:(Landroid/content/Context;Ld/e/a/r/b;Ljava/lang/String;Lcom/infra/kdcc/utils/Constants$ErroDialogTag;Ljava/lang/String;Ljava/lang/String;)V:2d2c62  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:70161 : <<BRANCH>> : b.b.i.h.w/j:(Landroid/content/Context;Lb/b/i/h/v1;)V:21fadc  =>  b.b.i.h.w/j:(Landroid/content/Context;Lb/b/i/h/v1;)V:21fb42
+android.app.AlertDialog$Builder/show:()Landroid/app/AlertDialog;:2cc458		=(rels)=>		1
+[*] Unique action: 1:4363 : <<CALL>> : d.e.a.r.m/c:(Landroid/app/Activity;)Z:2cc458  =>  android.app.AlertDialog$Builder/show:()Landroid/app/AlertDialog;:19e3bc
+	1:compareBackwardBranch2: 1:68812 : <<BRANCH>> : d.e.a.r.m/c:(Landroid/app/Activity;)Z:2cdeaa  =>  d.e.a.r.m/c:(Landroid/app/Activity;)Z:2cdeb4
+Entry: 21fab8
+b.b.i.h.w/j:(Landroid/content/Context;Lb/b/i/h/v1;)V: 21fadc -> 21fb42
+		b.b.i.h.w/j:(Landroid/content/Context;Lb/b/i/h/v1;)V: 24 -> 8a
+addPatchReadme: java.lang.Class<b.b.i.h.w>j(Landroid/content/Context;Lb/b/i/h/v1;)V 24 t
+Entry: 2cc2e4
+d.e.a.r.m/c:(Landroid/app/Activity;)Z: 2cdeaa -> 2cdeb4
+		d.e.a.r.m/c:(Landroid/app/Activity;)Z: 1bc6 -> 1bd0
+addPatchReadme: java.lang.Class<d.e.a.r.m>c(Landroid/app/Activity;)Z 1bc6 t
+b29e6a69: [+] Patches found in this round: 2
+b29e6a69: [*] Found Patch size: 1
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample67@devRoot-D-R.obfuscated_flattened.ilog)
+b29e6a69: 	@@@Found patch addr: 2cdeba
+b29e6a69: Querying offset: 2cdeaa
+b29e6a69: 	--Add method name to patch = d.e.a.r.m/c:(Landroid/app/Activity;)Z 	2cdeaa
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: patching method: d.e.a.r.m/c:(Landroid/app/Activity;)Z
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample67.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot
+Wow!!!!!  --  d.e.a.r.m/c:(Landroid/app/Activity;)Z
+fallthrough: 1bca
+branchTarget: 1bd0
+label = cond_36
+GOTO -- 1bca 	1bd0
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample67.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/sample67.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample67.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/signed_sample67.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+b29e6a69: First address of Ld/e/a/r/m;->c(Landroid/app/Activity;)Z = 2cc2f4
+b29e6a69: Address - Ld/e/a/r/m;->c(Landroid/app/Activity;)Z@1bc6	 lastOffset = 2b8c
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample67.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/signed_sample67.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample67@devRoot-D-R.obfuscated_flattened.ilog)
+b29e6a69: Running Application: com.infrasofttech.JanathaSevaBank
+b29e6a69: Running is done - starting comparing... : 10001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.infrasofttech.JanathaSevaBank/com.infra.kdcc.SplashActivity
+PIDs--------------------------------------------------------------------------
+u0_a3916      16728    425 14661532 128824 0                  0 S com.infrasofttech.JanathaSevaBank
+b29e6a69: savedPid = 16728
+PIDs--------------------------------------------------------------------------
+u0_a3916      16728    425 14661532 128824 0                  0 S com.infrasofttech.JanathaSevaBank
+b29e6a69: savedPid2 = 16728
+Stopping app: com.infrasofttech.JanathaSevaBank
+Tryging remove : uninstall com.infrasofttech.JanathaSevaBank(com.infrasofttech.JanathaSevaBank)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 2102028
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 28
+b29e6a69: isFailedToLaunch: com.infrasofttech.JanathaSevaBank/com.infra.kdcc.SplashActivity
+b29e6a69: 	--result: Good :)
+b29e6a69: isFailedToLaunch: com.infrasofttech.JanathaSevaBank/com.infra.kdcc.SplashActivity
+b29e6a69: 	--result: Good :)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample67@devRoot-D-R.obfuscated_flattened.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample67@devRoot-D-R.obfuscated_flattened.ilog)
+b29e6a69: adding filter -- 2cdeaa
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 2cdeaa
+Action is completely same :)
+Action is completely same :)
+b29e6a69: There is no difference. (tryAgain=false)
+-- HPFinder will be done in this iteration :)
+hasAntiAnalysis? - devTamper: false on com.infra.kdcc.SplashActivity
+hasAntiAnalysis? - devRoot: true on com.infra.kdcc.SplashActivity
+	isRemovedThem? - devRoot: true on com.infra.kdcc.SplashActivity	-	tryCount: 1
+hasAntiAnalysis? - devDebug: false on com.infra.kdcc.SplashActivity
+*****REPORT: com.infrasofttech.JanathaSevaBank
+* Package name: com.infrasofttech.JanathaSevaBank
+* Running time: 92
+* FileSize: 7763816
+devTamper : 14765168
+devRef : 14492446
+devRoot : 2102028
+devDebug : 14736431
+hasAntiAnalysis? - devTamper: false on com.infra.kdcc.SplashActivity
+hasAntiAnalysis? - devRoot: true on com.infra.kdcc.SplashActivity
+	isRemovedThem? - devRoot: true on com.infra.kdcc.SplashActivity	-	tryCount: 1
+hasAntiAnalysis? - devDebug: false on com.infra.kdcc.SplashActivity
+46604b9f: trying remove : com.infrasofttech.JanathaSevaBank
+3601a6ff: trying remove : com.infrasofttech.JanathaSevaBank
+b29e6a69: trying remove : com.infrasofttech.JanathaSevaBank
+159ceeed: trying remove : com.infrasofttech.JanathaSevaBank
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+159ceeed: result = true
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+3601a6ff: result = true
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+46604b9f: result = true
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+b29e6a69: result = true
+3601a6ff: isFailedToLaunch: com.infrasofttech.JanathaSevaBank/com.infra.kdcc.SplashActivity
+3601a6ff: 	--result: Good :)

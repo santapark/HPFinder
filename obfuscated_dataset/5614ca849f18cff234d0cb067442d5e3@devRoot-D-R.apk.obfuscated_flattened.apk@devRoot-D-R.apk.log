@@ -1,0 +1,590 @@
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample53.apk@devRoot-D-R.apk.obfuscated_flattened/AndroidManifest.xml
+launchable-activity: name='com.rewardz.l42.l42MemberModule.activities.SplashScreenActivity'  label='' icon=''
+{ACTIVITY, com.rewardz.l42.l42MemberModule.activities.SplashScreenActivity, android.intent.action.MAIN}
+{ACTIVITY, com.rewardz.HomeActivity}
+{ACTIVITY, com.rewardz.PaymentReceiptActivity}
+{ACTIVITY, com.rewardz.l42.L42HotelModule.Activities.L42AddMoreRoomsActivity}
+{ACTIVITY, com.rewardz.recharge.activity.RechargePlanActiity}
+{ACTIVITY, com.rewardz.payment.BaseReceiptActivity}
+{ACTIVITY, com.rewardz.payments.activity.PaymentWebviewActivity}
+{ACTIVITY, com.rewardz.account.activity.RedeemWebviewActivity}
+{ACTIVITY, com.rewardz.LeftSliderActivity}
+{RECEIVER, com.clevertap.android.sdk.InstallReferrerBroadcastReceiver, com.android.vending.INSTALL_REFERRER}
+{SERVICE, com.clevertap.android.sdk.FcmTokenListenerService, com.google.firebase.INSTANCE_ID_EVENT}
+{SERVICE, com.rewardz.CustomPushReceiver, com.google.firebase.MESSAGING_EVENT}
+{ACTIVITY, com.clevertap.android.sdk.InAppNotificationActivity}
+{ACTIVITY, com.rewardz.l42.L42HotelModule.Activities.L42HotelFilterActivity}
+{ACTIVITY, com.rewardz.l42.l42MemberModule.activities.L42HomeActivity}
+{ACTIVITY, com.rewardz.hotel.activities.AddMoreRoomsActivity}
+{ACTIVITY, com.rewardz.flight.activity.TravellerDetailsActivity}
+{ACTIVITY, com.rewardz.l42.L42FlightModule.activity.L42TravellerDetailsActivity}
+{ACTIVITY, com.rewardz.l42.L42FlightModule.activity.L42FlightFilterActivity}
+{ACTIVITY, com.rewardz.flight.activity.FilterActivity}
+{ACTIVITY, com.rewardz.bus.Activity.BusFilterActivity}
+{ACTIVITY, com.rewardz.l42.L42BusModule.Activities.L42BusFilterActivity}
+{ACTIVITY, com.rewardz.l42.L42FlightModule.activity.dummyActivity}
+{ACTIVITY, mpoint.com.mpointintegration.mpoint.activity.MPointActivity}
+{ACTIVITY, mpoint.com.mpointintegration.mpoint.activity.GeneratePointActivity}
+{ACTIVITY, mpoint.com.mpointintegration.mpoint.activity.WhatIsMPointActivity}
+{RECEIVER, com.clevertap.android.sdk.CTPushNotificationReceiver}
+{ACTIVITY, com.facebook.FacebookActivity}
+{ACTIVITY, com.facebook.CustomTabMainActivity}
+{ACTIVITY, com.facebook.CustomTabActivity}
+{RECEIVER, com.google.android.gms.cast.framework.media.MediaIntentReceiver}
+{SERVICE, com.google.android.gms.cast.framework.media.MediaNotificationService}
+{SERVICE, com.google.android.gms.cast.framework.ReconnectionService}
+{SERVICE, com.google.firebase.messaging.FirebaseMessagingService, com.google.firebase.MESSAGING_EVENT}
+{ACTIVITY, com.google.android.gms.ads.AdActivity}
+{ACTIVITY, com.google.android.gms.appinvite.PreviewActivity, com.google.android.gms.appinvite.ACTION_PREVIEW}
+{ACTIVITY, com.google.android.gms.auth.api.signin.internal.SignInHubActivity}
+{SERVICE, com.google.android.gms.auth.api.signin.RevocationBoundService}
+{ACTIVITY, com.google.android.gms.common.api.GoogleApiActivity}
+{SERVICE, com.google.android.gms.tagmanager.TagManagerService}
+{ACTIVITY, com.google.android.gms.tagmanager.TagManagerPreviewActivity, android.intent.action.VIEW}
+{RECEIVER, com.google.android.gms.measurement.AppMeasurementReceiver}
+{RECEIVER, com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver, com.android.vending.INSTALL_REFERRER}
+{SERVICE, com.google.android.gms.measurement.AppMeasurementService}
+{SERVICE, com.google.android.gms.measurement.AppMeasurementJobService}
+{RECEIVER, com.google.firebase.iid.FirebaseInstanceIdReceiver, com.google.android.c2dm.intent.RECEIVE}
+{RECEIVER, com.google.firebase.iid.FirebaseInstanceIdInternalReceiver}
+{SERVICE, com.google.firebase.iid.FirebaseInstanceIdService, com.google.firebase.INSTANCE_ID_EVENT}
+{RECEIVER, com.facebook.CurrentAccessTokenExpirationBroadcastReceiver, com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED}
+{ACTIVITY, com.google.zxing.client.android.CaptureActivity}
+{ACTIVITY, com.rewardz.l42.l42MemberModule.activities.SplashScreenActivity, android.intent.action.MAIN}
+{ACTIVITY, com.rewardz.HomeActivity}
+{ACTIVITY, com.rewardz.PaymentReceiptActivity}
+{ACTIVITY, com.rewardz.l42.L42HotelModule.Activities.L42AddMoreRoomsActivity}
+{ACTIVITY, com.rewardz.recharge.activity.RechargePlanActiity}
+{ACTIVITY, com.rewardz.payment.BaseReceiptActivity}
+{ACTIVITY, com.rewardz.payments.activity.PaymentWebviewActivity}
+{ACTIVITY, com.rewardz.account.activity.RedeemWebviewActivity}
+{ACTIVITY, com.rewardz.LeftSliderActivity}
+{RECEIVER, com.clevertap.android.sdk.InstallReferrerBroadcastReceiver, com.android.vending.INSTALL_REFERRER}
+{SERVICE, com.clevertap.android.sdk.FcmTokenListenerService, com.google.firebase.INSTANCE_ID_EVENT}
+{SERVICE, com.rewardz.CustomPushReceiver, com.google.firebase.MESSAGING_EVENT}
+{ACTIVITY, com.clevertap.android.sdk.InAppNotificationActivity}
+{ACTIVITY, com.rewardz.l42.L42HotelModule.Activities.L42HotelFilterActivity}
+{ACTIVITY, com.rewardz.l42.l42MemberModule.activities.L42HomeActivity}
+{ACTIVITY, com.rewardz.hotel.activities.AddMoreRoomsActivity}
+{ACTIVITY, com.rewardz.flight.activity.TravellerDetailsActivity}
+{ACTIVITY, com.rewardz.l42.L42FlightModule.activity.L42TravellerDetailsActivity}
+{ACTIVITY, com.rewardz.l42.L42FlightModule.activity.L42FlightFilterActivity}
+{ACTIVITY, com.rewardz.flight.activity.FilterActivity}
+{ACTIVITY, com.rewardz.bus.Activity.BusFilterActivity}
+{ACTIVITY, com.rewardz.l42.L42BusModule.Activities.L42BusFilterActivity}
+{ACTIVITY, com.rewardz.l42.L42FlightModule.activity.dummyActivity}
+{ACTIVITY, mpoint.com.mpointintegration.mpoint.activity.MPointActivity}
+{ACTIVITY, mpoint.com.mpointintegration.mpoint.activity.GeneratePointActivity}
+{ACTIVITY, mpoint.com.mpointintegration.mpoint.activity.WhatIsMPointActivity}
+{RECEIVER, com.clevertap.android.sdk.CTPushNotificationReceiver}
+{ACTIVITY, com.facebook.FacebookActivity}
+{ACTIVITY, com.facebook.CustomTabMainActivity}
+{ACTIVITY, com.facebook.CustomTabActivity}
+{RECEIVER, com.google.android.gms.cast.framework.media.MediaIntentReceiver}
+{SERVICE, com.google.android.gms.cast.framework.media.MediaNotificationService}
+{SERVICE, com.google.android.gms.cast.framework.ReconnectionService}
+{SERVICE, com.google.firebase.messaging.FirebaseMessagingService, com.google.firebase.MESSAGING_EVENT}
+{ACTIVITY, com.google.android.gms.ads.AdActivity}
+{ACTIVITY, com.google.android.gms.appinvite.PreviewActivity, com.google.android.gms.appinvite.ACTION_PREVIEW}
+{ACTIVITY, com.google.android.gms.auth.api.signin.internal.SignInHubActivity}
+{SERVICE, com.google.android.gms.auth.api.signin.RevocationBoundService}
+{ACTIVITY, com.google.android.gms.common.api.GoogleApiActivity}
+{SERVICE, com.google.android.gms.tagmanager.TagManagerService}
+{ACTIVITY, com.google.android.gms.tagmanager.TagManagerPreviewActivity, android.intent.action.VIEW}
+{RECEIVER, com.google.android.gms.measurement.AppMeasurementReceiver}
+{RECEIVER, com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver, com.android.vending.INSTALL_REFERRER}
+{SERVICE, com.google.android.gms.measurement.AppMeasurementService}
+{SERVICE, com.google.android.gms.measurement.AppMeasurementJobService}
+{RECEIVER, com.google.firebase.iid.FirebaseInstanceIdReceiver, com.google.android.c2dm.intent.RECEIVE}
+{RECEIVER, com.google.firebase.iid.FirebaseInstanceIdInternalReceiver}
+{SERVICE, com.google.firebase.iid.FirebaseInstanceIdService, com.google.firebase.INSTANCE_ID_EVENT}
+{RECEIVER, com.facebook.CurrentAccessTokenExpirationBroadcastReceiver, com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED}
+{ACTIVITY, com.google.zxing.client.android.CaptureActivity}
+_getAllDexFiles: /home/santapark/Extended3/DEEPerence/reEx/sample53.apk@devRoot-D-R.apk.obfuscated_flattened/classes2.dex
+_getAllDexFiles: /home/santapark/Extended3/DEEPerence/reEx/sample53.apk@devRoot-D-R.apk.obfuscated_flattened/classes.dex
+----------------/home/santapark/Extended3/DEEPerence/reEx/sample53.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+dexFile = org.jf.dexlib2.dexbacked.DexBackedDexFile@26e6233f
+com.obcrewardz
+com.rewardz.l42.l42MemberModule.activities.SplashScreenActivity
+debuggable: true
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample53.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample53.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample53.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample53.apk@devRoot-D-R.apk.obfuscated_flattened_46604b9f/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample53.apk@devRoot-D-R.apk.obfuscated_flattened_46604b9f/sample53.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+3601a6ff: Installation Success
+159ceeed: Installation Success
+b29e6a69: Installation Success
+46604b9f: Installing repackaged apk File: 
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample53.apk@devRoot-D-R.apk.obfuscated_flattened_46604b9f/signed_sample53.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+46604b9f: Installation Success
+46604b9f: startApplication called! - devTamper
+3601a6ff: startApplication called! - devRef
+b29e6a69: startApplication called! - devRoot
+159ceeed: startApplication called! - devDebug
+46604b9f: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devTamper_sample53@devRoot-D-R.obfuscated_flattened.ilog)
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample53@devRoot-D-R.obfuscated_flattened.ilog)
+3601a6ff: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample53@devRoot-D-R.obfuscated_flattened.ilog)
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample53@devRoot-D-R.obfuscated_flattened.ilog)
+46604b9f: Running Application: com.obcrewardz
+3601a6ff: Running Application: com.obcrewardz
+b29e6a69: Running Application: com.obcrewardz
+PIDs--------------------------------------------------------------------------
+u0_a211        7681    423 14446008 124948 0                  0 R com.obcrewardz
+forward tcp:35535 jdwp:7681
+[*]Found JDWP Target: 7681
+159ceeed: Running Application: com.obcrewardz
+PIDs--------------------------------------------------------------------------
+u0_a211        7681    423 14887996 173140 0                  0 S com.obcrewardz
+159ceeed: Tryging attach jdb to 7681
+jdb -connect com.sun.jdi.SocketAttach:hostname=localhost,port=35535
+b29e6a69: Running is done - starting comparing... : 10001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+u0_a3729      29946    425 14737776 159188 0                  0 S com.obcrewardz
+b29e6a69: savedPid = 29946
+PIDs--------------------------------------------------------------------------
+u0_a3729      29946    425 14737776 159188 0                  0 S com.obcrewardz
+b29e6a69: savedPid2 = 29946
+Stopping app: com.obcrewardz
+Tryging remove : uninstall com.obcrewardz(com.obcrewardz)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 9665975
+b29e6a69: End of collecting logcat...
+3601a6ff: Running is done - starting comparing... : 10001
+3601a6ff: Terminated logcat thread...by itself
+159ceeed: Running is done - starting comparing... : 10001
+159ceeed: Terminated logcat thread...by itself
+3601a6ff: Top-activity: com.obcrewardz/com.rewardz.l42.l42MemberModule.activities.SplashScreenActivity
+159ceeed: Top-activity: com.obcrewardz/com.rewardz.l42.l42MemberModule.activities.SplashScreenActivity
+PIDs--------------------------------------------------------------------------
+u0_a232       31110    417 15169556 171332 0                  0 S com.obcrewardz
+3601a6ff: savedPid = 31110
+PIDs--------------------------------------------------------------------------
+u0_a211        7681    423 14971884 181344 0                  0 S com.obcrewardz
+159ceeed: savedPid = 7681
+PIDs--------------------------------------------------------------------------
+u0_a211        7681    423 14971884 181344 0                  0 S com.obcrewardz
+159ceeed: savedPid2 = 7681
+Stopping app: com.obcrewardz
+PIDs--------------------------------------------------------------------------
+u0_a232       31110    417 15169556 171332 0                  0 S com.obcrewardz
+3601a6ff: savedPid2 = 31110
+Stopping app: com.obcrewardz
+46604b9f: Running is done - starting comparing... : 10001
+46604b9f: Terminated logcat thread...by itself
+46604b9f: Top-activity: com.obcrewardz/com.rewardz.l42.l42MemberModule.activities.SplashScreenActivity
+PIDs--------------------------------------------------------------------------
+u0_a759       25608    427 15210496 173876 0                  0 S com.obcrewardz
+46604b9f: savedPid = 25608
+PIDs--------------------------------------------------------------------------
+u0_a759       25608    427 15210496 173876 0                  0 S com.obcrewardz
+46604b9f: savedPid2 = 25608
+Stopping app: com.obcrewardz
+Tryging remove : uninstall com.obcrewardz(com.obcrewardz)
+159ceeed: Remove Success
+159ceeed: ilog file size: 49582222
+159ceeed: End of collecting logcat...
+Tryging remove : uninstall com.obcrewardz(com.obcrewardz)
+3601a6ff: Remove Success
+3601a6ff: ilog file size: 49184131
+3601a6ff: End of collecting logcat...
+Tryging remove : uninstall com.obcrewardz(com.obcrewardz)
+46604b9f: Remove Success
+46604b9f: ilog file size: 49595090
+46604b9f: End of collecting logcat...
+HPFinder's try count remains: 29
+46604b9f: isFailedToLaunch: com.obcrewardz/com.rewardz.l42.l42MemberModule.activities.SplashScreenActivity
+46604b9f: 	--result: Good :)
+46604b9f: isFailedToLaunch: com.obcrewardz/com.rewardz.l42.l42MemberModule.activities.SplashScreenActivity
+46604b9f: 	--result: Good :)
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+b29e6a69: /home/santapark/Extended3/DEEPerence/reEx/sample53.apk@devRoot-D-R.apk.obfuscated_flattened.apk launch is failed on devRoot
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+159ceeed: isFailedToLaunch: com.obcrewardz/com.rewardz.l42.l42MemberModule.activities.SplashScreenActivity
+b29e6a69: 	--result: Failed :( (1)
+159ceeed: 	--result: Good :)
+159ceeed: isFailedToLaunch: com.obcrewardz/com.rewardz.l42.l42MemberModule.activities.SplashScreenActivity
+159ceeed: 	--result: Good :)
+Parsing Error on Invoke: 09-09 09:59:41.847 31110 31110 I com.obcrewardz: NSR(Call): thread-1 : java.lang.Class<io.fabric.sdk.android.Kit> a:(Lio/fabric/sdk/android/Kit;)Z@[8e1b7a][8e1b68] -> java.lang.Class<$Proxy0> 
+Parsing Error on Invoke: 09-09 09:59:41.849 31110 31110 I com.obcrewardz: NSR(Call): thread-1 : java.lang.Class<io.fabric.sdk.android.Kit> a:(Lio/fabric/sdk/android/Kit;)Z@[8e1b7a][8e1b68] -> java.lang.Class<$Proxy0> 
+Parsing Error on Invoke: 09-09 09:59:41.850 31110 31110 I com.obcrewardz: NSR(Call): thread-1 : java.lang.Class<io.fabric.sdk.android.Kit> a:(Lio/fabric/sdk/android/Kit;)Z@[8e1b7a][8e1b68] -> java.lang.Class<$Proxy0> 
+Parsing Error on Invoke: 09-09 09:59:41.865 31110 31110 I com.obcrewardz: NSR(Call): thread-1 : java.lang.Class<io.fabric.sdk.android.Kit> a:(Lio/fabric/sdk/android/Kit;)Z@[8e1b7a][8e1b68] -> java.lang.Class<$Proxy0> 
+Parsing Error on Invoke: 09-09 09:59:42.076 31110 31110 I com.obcrewardz: NSR(Call): thread-1 : java.lang.Class<io.fabric.sdk.android.Fabric> a:(Ljava/util/Map;Lio/fabric/sdk/android/Kit;)V@[8e12e0][8e12d8] -> java.lang.Class<$Proxy0> 
+Parsing Error on Invoke: 09-09 09:59:41.847 31110 31110 I com.obcrewardz: NSR(Call): thread-1 : java.lang.Class<io.fabric.sdk.android.Kit> a:(Lio/fabric/sdk/android/Kit;)Z@[8e1b7a][8e1b68] -> java.lang.Class<$Proxy0> 
+Parsing Error on Invoke: 09-09 09:59:41.849 31110 31110 I com.obcrewardz: NSR(Call): thread-1 : java.lang.Class<io.fabric.sdk.android.Kit> a:(Lio/fabric/sdk/android/Kit;)Z@[8e1b7a][8e1b68] -> java.lang.Class<$Proxy0> 
+Parsing Error on Invoke: 09-09 09:59:41.850 31110 31110 I com.obcrewardz: NSR(Call): thread-1 : java.lang.Class<io.fabric.sdk.android.Kit> a:(Lio/fabric/sdk/android/Kit;)Z@[8e1b7a][8e1b68] -> java.lang.Class<$Proxy0> 
+Parsing Error on Invoke: 09-09 09:59:41.865 31110 31110 I com.obcrewardz: NSR(Call): thread-1 : java.lang.Class<io.fabric.sdk.android.Kit> a:(Lio/fabric/sdk/android/Kit;)Z@[8e1b7a][8e1b68] -> java.lang.Class<$Proxy0> 
+Parsing Error on Invoke: 09-09 09:59:41.847 31110 31110 I com.obcrewardz: NSR(Call): thread-1 : java.lang.Class<io.fabric.sdk.android.Kit> a:(Lio/fabric/sdk/android/Kit;)Z@[8e1b7a][8e1b68] -> java.lang.Class<$Proxy0> 
+Parsing Error on Invoke: 09-09 09:59:41.849 31110 31110 I com.obcrewardz: NSR(Call): thread-1 : java.lang.Class<io.fabric.sdk.android.Kit> a:(Lio/fabric/sdk/android/Kit;)Z@[8e1b7a][8e1b68] -> java.lang.Class<$Proxy0> 
+Parsing Error on Invoke: 09-09 09:59:41.850 31110 31110 I com.obcrewardz: NSR(Call): thread-1 : java.lang.Class<io.fabric.sdk.android.Kit> a:(Lio/fabric/sdk/android/Kit;)Z@[8e1b7a][8e1b68] -> java.lang.Class<$Proxy0> 
+Parsing Error on Invoke: 09-09 09:59:41.865 31110 31110 I com.obcrewardz: NSR(Call): thread-1 : java.lang.Class<io.fabric.sdk.android.Kit> a:(Lio/fabric/sdk/android/Kit;)Z@[8e1b7a][8e1b68] -> java.lang.Class<$Proxy0> 
+Parsing Error on Invoke: 09-09 09:59:42.076 31110 31110 I com.obcrewardz: NSR(Call): thread-1 : java.lang.Class<io.fabric.sdk.android.Fabric> a:(Ljava/util/Map;Lio/fabric/sdk/android/Kit;)V@[8e12e0][8e12d8] -> java.lang.Class<$Proxy0> 
+Parsing Error on Invoke: 09-09 09:59:42.076 31110 31110 I com.obcrewardz: NSR(Call): thread-1 : java.lang.Class<io.fabric.sdk.android.Fabric> a:(Ljava/util/Map;Lio/fabric/sdk/android/Kit;)V@[8e12e0][8e12d8] -> java.lang.Class<$Proxy0> 
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample53@devRoot-D-R.obfuscated_flattened.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample53@devRoot-D-R.obfuscated_flattened.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample53@devRoot-D-R.obfuscated_flattened.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample53@devRoot-D-R.obfuscated_flattened.ilog)
+[*] FlowManager: adjust finished.
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.widget.Toast/show:()V:f1b632		=(rels)=>		1
+[*] Unique action: 1:152542 : <<CALL>> : com.rewardz.common.helper.Utils/a:(Ljava/lang/String;Landroid/content/Context;)V:f1b632  =>  android.widget.Toast/show:()V:2a3e70
+Parsing Error on Invoke: 10-15 10:04:49.012 25608 25608 I com.obcrewardz: NSR(Call): thread-1 : java.lang.Class<io.fabric.sdk.android.Kit> a:(Lio/fabric/sdk/android/Kit;)Z@[8e1b7a][8e1b68] -> java.lang.Class<$Proxy0> 
+Parsing Error on Invoke: 10-15 10:04:49.198 25608 25608 I com.obcrewardz: NSR(Call): thread-1 : java.lang.Class<io.fabric.sdk.android.Fabric> a:(Ljava/util/Map;Lio/fabric/sdk/android/Kit;)V@[8e12e0][8e12d8] -> java.lang.Class<$Proxy0> 
+Parsing Error on Invoke: 03-02 04:10:45.358  7681  7681 I com.obcrewardz: NSR(Call): thread-1 : java.lang.Class<io.fabric.sdk.android.Kit> a:(Lio/fabric/sdk/android/Kit;)Z@[8e1b7a][8e1b68] -> java.lang.Class<$Proxy0> 
+Parsing Error on Invoke: 03-02 04:10:45.370  7681  7681 I com.obcrewardz: NSR(Call): thread-1 : java.lang.Class<io.fabric.sdk.android.Kit> a:(Lio/fabric/sdk/android/Kit;)Z@[8e1b7a][8e1b68] -> java.lang.Class<$Proxy0> 
+Parsing Error on Invoke: 03-02 04:10:45.372  7681  7681 I com.obcrewardz: NSR(Call): thread-1 : java.lang.Class<io.fabric.sdk.android.Kit> a:(Lio/fabric/sdk/android/Kit;)Z@[8e1b7a][8e1b68] -> java.lang.Class<$Proxy0> 
+Parsing Error on Invoke: 03-02 04:10:45.529  7681  7681 I com.obcrewardz: NSR(Call): thread-1 : java.lang.Class<io.fabric.sdk.android.Fabric> a:(Ljava/util/Map;Lio/fabric/sdk/android/Kit;)V@[8e12e0][8e12d8] -> java.lang.Class<$Proxy0> 
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devTamper_sample53@devRoot-D-R.obfuscated_flattened.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample53@devRoot-D-R.obfuscated_flattened.ilog)
+	1:compareBackwardBranch: 1:106170 : <<BRANCH>> : com.rewardz.l42.l42MemberModule.activities.SplashScreenActivity/onCreate:(Landroid/os/Bundle;)V:111bc34  =>  com.rewardz.l42.l42MemberModule.activities.SplashScreenActivity/onCreate:(Landroid/os/Bundle;)V:111bc50
+android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:c8598c		=(rels)=>		1
+[*] Unique action: 22:158115 : <<CALL>> : com.clevertap.android.sdk.CleverTapAPI/e:(Landroid/content/Context;)V:c8598c  =>  android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:30ca84
+java.net.URL/openConnection:()Ljava/net/URLConnection;:8e7e38		=(rels)=>		0
+android.widget.Toast/show:()V:111bc9c		=(rels)=>		1
+[*] Unique action: 1:12523 : <<CALL>> : com.rewardz.l42.l42MemberModule.activities.SplashScreenActivity/onCreate:(Landroid/os/Bundle;)V:111bc9c  =>  android.widget.Toast/show:()V:2a3e70
+	1:compareBackwardBranch: 1:9990 : <<BRANCH>> : com.rewardz.l42.l42MemberModule.activities.SplashScreenActivity/onCreate:(Landroid/os/Bundle;)V:111bbec  =>  com.rewardz.l42.l42MemberModule.activities.SplashScreenActivity/onCreate:(Landroid/os/Bundle;)V:111bbf4
+Entry: c80650
+com.clevertap.android.sdk.CleverTapAPI/<init>:(Landroid/content/Context;Lcom/clevertap/android/sdk/CleverTapInstanceConfig;)V: c807ec -> c807f8
+		com.clevertap.android.sdk.CleverTapAPI/<init>:(Landroid/content/Context;Lcom/clevertap/android/sdk/CleverTapInstanceConfig;)V: 19c -> 1a8
+addPatchReadme: java.lang.Class<com.clevertap.android.sdk.CleverTapAPI><init>(Landroid/content/Context;Lcom/clevertap/android/sdk/CleverTapInstanceConfig;)V 19c t
+Entry: 111bb54
+com.rewardz.l42.l42MemberModule.activities.SplashScreenActivity/onCreate:(Landroid/os/Bundle;)V: 111bc34 -> 111bc50
+		com.rewardz.l42.l42MemberModule.activities.SplashScreenActivity/onCreate:(Landroid/os/Bundle;)V: e0 -> fc
+addPatchReadme: java.lang.Class<com.rewardz.l42.l42MemberModule.activities.SplashScreenActivity>onCreate(Landroid/os/Bundle;)V e0 t
+Entry: 111bb54
+com.rewardz.l42.l42MemberModule.activities.SplashScreenActivity/onCreate:(Landroid/os/Bundle;)V: 111bbec -> 111bbf4
+		com.rewardz.l42.l42MemberModule.activities.SplashScreenActivity/onCreate:(Landroid/os/Bundle;)V: 98 -> a0
+addPatchReadme: java.lang.Class<com.rewardz.l42.l42MemberModule.activities.SplashScreenActivity>onCreate(Landroid/os/Bundle;)V 98 t
+b29e6a69: [+] Patches found in this round: 3
+b29e6a69: [*] Found Patch size: 1
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample53@devRoot-D-R.obfuscated_flattened.ilog)
+b29e6a69: 	@@@Found patch addr: 111bbfc
+b29e6a69: Querying offset: 111bbec
+b29e6a69: 	--Add method name to patch = com.rewardz.l42.l42MemberModule.activities.SplashScreenActivity/onCreate:(Landroid/os/Bundle;)V 	111bbec
+[*] FlowManager: adjust finished.
+Action is completely same :)
+Action is completely same :)
+46604b9f: There is no difference. (tryAgain=false)
+[*] FlowManager: adjust finished.
+Action is completely same :)
+Action is completely same :)
+159ceeed: There is no difference. (tryAgain=false)
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: patching method: com.rewardz.l42.l42MemberModule.activities.SplashScreenActivity/onCreate:(Landroid/os/Bundle;)V
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample53.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot
+Wow!!!!!  --  com.rewardz.l42.l42MemberModule.activities.SplashScreenActivity/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 9e
+branchTarget: a0
+label = sswitch_data_1
+GOTO -- 9e 	a0
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample53.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample53.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/sample53.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample53.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/signed_sample53.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+b29e6a69: First address of Lcom/rewardz/l42/l42MemberModule/activities/SplashScreenActivity;->onCreate(Landroid/os/Bundle;)V = 111bb64
+b29e6a69: Address - Lcom/rewardz/l42/l42MemberModule/activities/SplashScreenActivity;->onCreate(Landroid/os/Bundle;)V@98	 lastOffset = 804
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample53.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/signed_sample53.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample53@devRoot-D-R.obfuscated_flattened.ilog)
+b29e6a69: Running Application: com.obcrewardz
+b29e6a69: Running is done - starting comparing... : 10001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+b29e6a69: savedPid = null
+PIDs--------------------------------------------------------------------------
+b29e6a69: savedPid2 = null
+Stopping app: com.obcrewardz
+Tryging remove : uninstall com.obcrewardz(com.obcrewardz)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 2114230
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 28
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+b29e6a69: /home/santapark/Extended3/DEEPerence/reEx/sample53.apk@devRoot-D-R.apk.obfuscated_flattened.apk launch is failed on devRoot
+b29e6a69: Failed Patch: 111bbfc
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 111bbec
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.widget.Toast/show:()V:f1b632		=(rels)=>		1
+[*] Unique action: 1:152542 : <<CALL>> : com.rewardz.common.helper.Utils/a:(Ljava/lang/String;Landroid/content/Context;)V:f1b632  =>  android.widget.Toast/show:()V:2a3e70
+	1:compareBackwardBranch: 1:106170 : <<BRANCH>> : com.rewardz.l42.l42MemberModule.activities.SplashScreenActivity/onCreate:(Landroid/os/Bundle;)V:111bc34  =>  com.rewardz.l42.l42MemberModule.activities.SplashScreenActivity/onCreate:(Landroid/os/Bundle;)V:111bc50
+android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:c8598c		=(rels)=>		1
+[*] Unique action: 22:158115 : <<CALL>> : com.clevertap.android.sdk.CleverTapAPI/e:(Landroid/content/Context;)V:c8598c  =>  android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:30ca84
+java.net.URL/openConnection:()Ljava/net/URLConnection;:8e7e38		=(rels)=>		0
+android.widget.Toast/show:()V:111bc9c		=(rels)=>		1
+[*] Unique action: 1:12523 : <<CALL>> : com.rewardz.l42.l42MemberModule.activities.SplashScreenActivity/onCreate:(Landroid/os/Bundle;)V:111bc9c  =>  android.widget.Toast/show:()V:2a3e70
+	1:compareBackwardBranch: 1:9992 : <<BRANCH>> : com.rewardz.l42.l42MemberModule.activities.SplashScreenActivity/onCreate:(Landroid/os/Bundle;)V:111bc08  =>  com.rewardz.l42.l42MemberModule.activities.SplashScreenActivity/onCreate:(Landroid/os/Bundle;)V:111bc10
+Entry: c80650
+com.clevertap.android.sdk.CleverTapAPI/<init>:(Landroid/content/Context;Lcom/clevertap/android/sdk/CleverTapInstanceConfig;)V: c807ec -> c807f8
+		com.clevertap.android.sdk.CleverTapAPI/<init>:(Landroid/content/Context;Lcom/clevertap/android/sdk/CleverTapInstanceConfig;)V: 19c -> 1a8
+addPatchReadme: java.lang.Class<com.clevertap.android.sdk.CleverTapAPI><init>(Landroid/content/Context;Lcom/clevertap/android/sdk/CleverTapInstanceConfig;)V 19c t
+Entry: 111bb54
+com.rewardz.l42.l42MemberModule.activities.SplashScreenActivity/onCreate:(Landroid/os/Bundle;)V: 111bc34 -> 111bc50
+		com.rewardz.l42.l42MemberModule.activities.SplashScreenActivity/onCreate:(Landroid/os/Bundle;)V: e0 -> fc
+addPatchReadme: java.lang.Class<com.rewardz.l42.l42MemberModule.activities.SplashScreenActivity>onCreate(Landroid/os/Bundle;)V e0 t
+Entry: 111bb54
+com.rewardz.l42.l42MemberModule.activities.SplashScreenActivity/onCreate:(Landroid/os/Bundle;)V: 111bc08 -> 111bc10
+		com.rewardz.l42.l42MemberModule.activities.SplashScreenActivity/onCreate:(Landroid/os/Bundle;)V: b4 -> bc
+addPatchReadme: java.lang.Class<com.rewardz.l42.l42MemberModule.activities.SplashScreenActivity>onCreate(Landroid/os/Bundle;)V b4 t
+b29e6a69: [+] Patches found in this round: 3
+b29e6a69: [*] Found Patch size: 1
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample53@devRoot-D-R.obfuscated_flattened.ilog)
+b29e6a69: @@localPatchFilter -- 111bbfc
+b29e6a69: 	@@@Found patch addr: 111bc18
+b29e6a69: Querying offset: 111bc08
+b29e6a69: 	--Add method name to patch = com.rewardz.l42.l42MemberModule.activities.SplashScreenActivity/onCreate:(Landroid/os/Bundle;)V 	111bc08
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: patching method: com.clevertap.android.sdk.CleverTapAPI/<init>:(Landroid/content/Context;Lcom/clevertap/android/sdk/CleverTapInstanceConfig;)V
+b29e6a69: patching method: com.rewardz.l42.l42MemberModule.activities.SplashScreenActivity/onCreate:(Landroid/os/Bundle;)V
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample53.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot
+Wow!!!!!  --  com.rewardz.l42.l42MemberModule.activities.SplashScreenActivity/onCreate:(Landroid/os/Bundle;)V
+fallthrough: ba
+branchTarget: bc
+label = sswitch_data_2
+GOTO -- ba 	bc
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample53.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample53.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/sample53.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample53.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/signed_sample53.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+b29e6a69: First address of Lcom/rewardz/l42/l42MemberModule/activities/SplashScreenActivity;->onCreate(Landroid/os/Bundle;)V = 111bb64
+b29e6a69: Address - Lcom/rewardz/l42/l42MemberModule/activities/SplashScreenActivity;->onCreate(Landroid/os/Bundle;)V@b4	 lastOffset = 804
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample53.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/signed_sample53.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample53@devRoot-D-R.obfuscated_flattened.ilog)
+b29e6a69: Running Application: com.obcrewardz
+b29e6a69: Running is done - starting comparing... : 10001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+b29e6a69: savedPid = null
+PIDs--------------------------------------------------------------------------
+b29e6a69: savedPid2 = null
+Stopping app: com.obcrewardz
+Tryging remove : uninstall com.obcrewardz(com.obcrewardz)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 2114230
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 27
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+b29e6a69: /home/santapark/Extended3/DEEPerence/reEx/sample53.apk@devRoot-D-R.apk.obfuscated_flattened.apk launch is failed on devRoot
+b29e6a69: Failed Patch: 111bc18
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 111bc08
+-- current localPatchFilter: 111bbec
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.widget.Toast/show:()V:f1b632		=(rels)=>		1
+[*] Unique action: 1:152542 : <<CALL>> : com.rewardz.common.helper.Utils/a:(Ljava/lang/String;Landroid/content/Context;)V:f1b632  =>  android.widget.Toast/show:()V:2a3e70
+	1:compareBackwardBranch: 1:106170 : <<BRANCH>> : com.rewardz.l42.l42MemberModule.activities.SplashScreenActivity/onCreate:(Landroid/os/Bundle;)V:111bc34  =>  com.rewardz.l42.l42MemberModule.activities.SplashScreenActivity/onCreate:(Landroid/os/Bundle;)V:111bc50
+android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:c8598c		=(rels)=>		1
+[*] Unique action: 22:158115 : <<CALL>> : com.clevertap.android.sdk.CleverTapAPI/e:(Landroid/content/Context;)V:c8598c  =>  android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:30ca84
+java.net.URL/openConnection:()Ljava/net/URLConnection;:8e7e38		=(rels)=>		0
+android.widget.Toast/show:()V:111bc9c		=(rels)=>		1
+[*] Unique action: 1:12523 : <<CALL>> : com.rewardz.l42.l42MemberModule.activities.SplashScreenActivity/onCreate:(Landroid/os/Bundle;)V:111bc9c  =>  android.widget.Toast/show:()V:2a3e70
+	1:compareBackwardBranch: 1:9994 : <<BRANCH>> : com.rewardz.l42.l42MemberModule.activities.SplashScreenActivity/onCreate:(Landroid/os/Bundle;)V:111bc24  =>  com.rewardz.l42.l42MemberModule.activities.SplashScreenActivity/onCreate:(Landroid/os/Bundle;)V:111bc2c
+Entry: c80650
+com.clevertap.android.sdk.CleverTapAPI/<init>:(Landroid/content/Context;Lcom/clevertap/android/sdk/CleverTapInstanceConfig;)V: c807ec -> c807f8
+		com.clevertap.android.sdk.CleverTapAPI/<init>:(Landroid/content/Context;Lcom/clevertap/android/sdk/CleverTapInstanceConfig;)V: 19c -> 1a8
+addPatchReadme: java.lang.Class<com.clevertap.android.sdk.CleverTapAPI><init>(Landroid/content/Context;Lcom/clevertap/android/sdk/CleverTapInstanceConfig;)V 19c t
+Entry: 111bb54
+com.rewardz.l42.l42MemberModule.activities.SplashScreenActivity/onCreate:(Landroid/os/Bundle;)V: 111bc34 -> 111bc50
+		com.rewardz.l42.l42MemberModule.activities.SplashScreenActivity/onCreate:(Landroid/os/Bundle;)V: e0 -> fc
+addPatchReadme: java.lang.Class<com.rewardz.l42.l42MemberModule.activities.SplashScreenActivity>onCreate(Landroid/os/Bundle;)V e0 t
+Entry: 111bb54
+com.rewardz.l42.l42MemberModule.activities.SplashScreenActivity/onCreate:(Landroid/os/Bundle;)V: 111bc24 -> 111bc2c
+		com.rewardz.l42.l42MemberModule.activities.SplashScreenActivity/onCreate:(Landroid/os/Bundle;)V: d0 -> d8
+addPatchReadme: java.lang.Class<com.rewardz.l42.l42MemberModule.activities.SplashScreenActivity>onCreate(Landroid/os/Bundle;)V d0 t
+b29e6a69: [+] Patches found in this round: 3
+b29e6a69: [*] Found Patch size: 1
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample53@devRoot-D-R.obfuscated_flattened.ilog)
+b29e6a69: @@localPatchFilter -- 111bc18
+b29e6a69: @@localPatchFilter -- 111bbfc
+b29e6a69: 	@@@Found patch addr: 111bc34
+b29e6a69: Querying offset: 111bc24
+b29e6a69: 	--Add method name to patch = com.rewardz.l42.l42MemberModule.activities.SplashScreenActivity/onCreate:(Landroid/os/Bundle;)V 	111bc24
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: patching method: com.clevertap.android.sdk.CleverTapAPI/<init>:(Landroid/content/Context;Lcom/clevertap/android/sdk/CleverTapInstanceConfig;)V
+b29e6a69: patching method: com.rewardz.l42.l42MemberModule.activities.SplashScreenActivity/onCreate:(Landroid/os/Bundle;)V
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample53.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot
+Wow!!!!!  --  com.rewardz.l42.l42MemberModule.activities.SplashScreenActivity/onCreate:(Landroid/os/Bundle;)V
+fallthrough: d6
+branchTarget: d8
+label = sswitch_data_3
+GOTO -- d6 	d8
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample53.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample53.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/sample53.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample53.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/signed_sample53.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+b29e6a69: First address of Lcom/rewardz/l42/l42MemberModule/activities/SplashScreenActivity;->onCreate(Landroid/os/Bundle;)V = 111bb64
+b29e6a69: Address - Lcom/rewardz/l42/l42MemberModule/activities/SplashScreenActivity;->onCreate(Landroid/os/Bundle;)V@d0	 lastOffset = 804
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample53.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/signed_sample53.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample53@devRoot-D-R.obfuscated_flattened.ilog)
+b29e6a69: Running Application: com.obcrewardz
+b29e6a69: Running is done - starting comparing... : 10001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+b29e6a69: savedPid = null
+PIDs--------------------------------------------------------------------------
+b29e6a69: savedPid2 = null
+Stopping app: com.obcrewardz
+Tryging remove : uninstall com.obcrewardz(com.obcrewardz)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 2110808
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 26
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+b29e6a69: /home/santapark/Extended3/DEEPerence/reEx/sample53.apk@devRoot-D-R.apk.obfuscated_flattened.apk launch is failed on devRoot
+b29e6a69: Failed Patch: 111bc34
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 111bc24
+-- current localPatchFilter: 111bc08
+-- current localPatchFilter: 111bbec
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.widget.Toast/show:()V:f1b632		=(rels)=>		1
+[*] Unique action: 1:152542 : <<CALL>> : com.rewardz.common.helper.Utils/a:(Ljava/lang/String;Landroid/content/Context;)V:f1b632  =>  android.widget.Toast/show:()V:2a3e70
+	1:compareBackwardBranch: 1:106170 : <<BRANCH>> : com.rewardz.l42.l42MemberModule.activities.SplashScreenActivity/onCreate:(Landroid/os/Bundle;)V:111bc34  =>  com.rewardz.l42.l42MemberModule.activities.SplashScreenActivity/onCreate:(Landroid/os/Bundle;)V:111bc50
+android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:c8598c		=(rels)=>		1
+[*] Unique action: 22:158115 : <<CALL>> : com.clevertap.android.sdk.CleverTapAPI/e:(Landroid/content/Context;)V:c8598c  =>  android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:30ca84
+java.net.URL/openConnection:()Ljava/net/URLConnection;:8e7e38		=(rels)=>		0
+android.widget.Toast/show:()V:111bc9c		=(rels)=>		1
+[*] Unique action: 1:12523 : <<CALL>> : com.rewardz.l42.l42MemberModule.activities.SplashScreenActivity/onCreate:(Landroid/os/Bundle;)V:111bc9c  =>  android.widget.Toast/show:()V:2a3e70
+	1:compareBackwardBranch: 1:106170 : <<BRANCH>> : com.rewardz.l42.l42MemberModule.activities.SplashScreenActivity/onCreate:(Landroid/os/Bundle;)V:111bc34  =>  com.rewardz.l42.l42MemberModule.activities.SplashScreenActivity/onCreate:(Landroid/os/Bundle;)V:111bc50
+Entry: c80650
+com.clevertap.android.sdk.CleverTapAPI/<init>:(Landroid/content/Context;Lcom/clevertap/android/sdk/CleverTapInstanceConfig;)V: c807ec -> c807f8
+		com.clevertap.android.sdk.CleverTapAPI/<init>:(Landroid/content/Context;Lcom/clevertap/android/sdk/CleverTapInstanceConfig;)V: 19c -> 1a8
+addPatchReadme: java.lang.Class<com.clevertap.android.sdk.CleverTapAPI><init>(Landroid/content/Context;Lcom/clevertap/android/sdk/CleverTapInstanceConfig;)V 19c t
+Entry: 111bb54
+com.rewardz.l42.l42MemberModule.activities.SplashScreenActivity/onCreate:(Landroid/os/Bundle;)V: 111bc34 -> 111bc50
+		com.rewardz.l42.l42MemberModule.activities.SplashScreenActivity/onCreate:(Landroid/os/Bundle;)V: e0 -> fc
+addPatchReadme: java.lang.Class<com.rewardz.l42.l42MemberModule.activities.SplashScreenActivity>onCreate(Landroid/os/Bundle;)V e0 t
+b29e6a69: [+] Patches found in this round: 2
+b29e6a69: [*] Found Patch size: 1
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample53@devRoot-D-R.obfuscated_flattened.ilog)
+b29e6a69: @@localPatchFilter -- 111bc34
+b29e6a69: @@localPatchFilter -- 111bc18
+b29e6a69: @@localPatchFilter -- 111bbfc
+b29e6a69: 	@@@Found patch addr: 111bc44
+b29e6a69: Querying offset: 111bc34
+b29e6a69: 	--Add method name to patch = com.rewardz.l42.l42MemberModule.activities.SplashScreenActivity/onCreate:(Landroid/os/Bundle;)V 	111bc34
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: patching method: com.clevertap.android.sdk.CleverTapAPI/<init>:(Landroid/content/Context;Lcom/clevertap/android/sdk/CleverTapInstanceConfig;)V
+b29e6a69: patching method: com.rewardz.l42.l42MemberModule.activities.SplashScreenActivity/onCreate:(Landroid/os/Bundle;)V
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample53.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot
+Wow!!!!!  --  com.rewardz.l42.l42MemberModule.activities.SplashScreenActivity/onCreate:(Landroid/os/Bundle;)V
+fallthrough: e4
+branchTarget: fc
+label = cond_0
+GOTO -- e4 	fc
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample53.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample53.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/sample53.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample53.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/signed_sample53.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+b29e6a69: First address of Lcom/rewardz/l42/l42MemberModule/activities/SplashScreenActivity;->onCreate(Landroid/os/Bundle;)V = 111bb64
+b29e6a69: Address - Lcom/rewardz/l42/l42MemberModule/activities/SplashScreenActivity;->onCreate(Landroid/os/Bundle;)V@e0	 lastOffset = 804
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample53.apk@devRoot-D-R.apk.obfuscated_flattened_devRoot/signed_sample53.apk@devRoot-D-R.apk.obfuscated_flattened.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample53@devRoot-D-R.obfuscated_flattened.ilog)
+b29e6a69: Running Application: com.obcrewardz
+b29e6a69: Running is done - starting comparing... : 10001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.obcrewardz/com.rewardz.l42.l42MemberModule.activities.SplashScreenActivity
+PIDs--------------------------------------------------------------------------
+u0_a3733      30310    425 15017076 175068 0                  0 S com.obcrewardz
+b29e6a69: savedPid = 30310
+PIDs--------------------------------------------------------------------------
+u0_a3733      30310    425 15017076 175068 0                  0 S com.obcrewardz
+b29e6a69: savedPid2 = 30310
+Stopping app: com.obcrewardz
+Tryging remove : uninstall com.obcrewardz(com.obcrewardz)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 31353093
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 25
+b29e6a69: isFailedToLaunch: com.obcrewardz/com.rewardz.l42.l42MemberModule.activities.SplashScreenActivity
+b29e6a69: 	--result: Good :)
+b29e6a69: isFailedToLaunch: com.obcrewardz/com.rewardz.l42.l42MemberModule.activities.SplashScreenActivity
+b29e6a69: 	--result: Good :)
+Parsing Error on Invoke: 09-09 09:59:41.847 31110 31110 I com.obcrewardz: NSR(Call): thread-1 : java.lang.Class<io.fabric.sdk.android.Kit> a:(Lio/fabric/sdk/android/Kit;)Z@[8e1b7a][8e1b68] -> java.lang.Class<$Proxy0> 
+Parsing Error on Invoke: 09-09 09:59:41.849 31110 31110 I com.obcrewardz: NSR(Call): thread-1 : java.lang.Class<io.fabric.sdk.android.Kit> a:(Lio/fabric/sdk/android/Kit;)Z@[8e1b7a][8e1b68] -> java.lang.Class<$Proxy0> 
+Parsing Error on Invoke: 09-09 09:59:41.850 31110 31110 I com.obcrewardz: NSR(Call): thread-1 : java.lang.Class<io.fabric.sdk.android.Kit> a:(Lio/fabric/sdk/android/Kit;)Z@[8e1b7a][8e1b68] -> java.lang.Class<$Proxy0> 
+Parsing Error on Invoke: 09-09 09:59:41.865 31110 31110 I com.obcrewardz: NSR(Call): thread-1 : java.lang.Class<io.fabric.sdk.android.Kit> a:(Lio/fabric/sdk/android/Kit;)Z@[8e1b7a][8e1b68] -> java.lang.Class<$Proxy0> 
+Parsing Error on Invoke: 09-09 09:59:42.076 31110 31110 I com.obcrewardz: NSR(Call): thread-1 : java.lang.Class<io.fabric.sdk.android.Fabric> a:(Ljava/util/Map;Lio/fabric/sdk/android/Kit;)V@[8e12e0][8e12d8] -> java.lang.Class<$Proxy0> 
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample53@devRoot-D-R.obfuscated_flattened.ilog)
+Parsing Error on Invoke: 11-08 01:05:33.847 30310 30310 I com.obcrewardz: NSR(Call): thread-1 : java.lang.Class<io.fabric.sdk.android.Kit> a:(Lio/fabric/sdk/android/Kit;)Z@[8e1b7a][8e1b68] -> java.lang.Class<$Proxy0> 
+Parsing Error on Invoke: 11-08 01:05:34.064 30310 30310 I com.obcrewardz: NSR(Call): thread-1 : java.lang.Class<io.fabric.sdk.android.Fabric> a:(Ljava/util/Map;Lio/fabric/sdk/android/Kit;)V@[8e12e0][8e12d8] -> java.lang.Class<$Proxy0> 
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample53@devRoot-D-R.obfuscated_flattened.ilog)
+b29e6a69: adding filter -- 111bc34
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 111bc34
+Action is completely same :)
+Action is completely same :)
+b29e6a69: There is no difference. (tryAgain=false)
+-- HPFinder will be done in this iteration :)
+hasAntiAnalysis? - devTamper: false on com.rewardz.l42.l42MemberModule.activities.SplashScreenActivity
+hasAntiAnalysis? - devRoot: true on com.rewardz.l42.l42MemberModule.activities.SplashScreenActivity
+	isRemovedThem? - devRoot: true on com.rewardz.l42.l42MemberModule.activities.SplashScreenActivity	-	tryCount: 4
+hasAntiAnalysis? - devDebug: false on com.rewardz.l42.l42MemberModule.activities.SplashScreenActivity
+*****REPORT: com.obcrewardz
+* Package name: com.obcrewardz
+* Running time: 587
+* FileSize: 32567228
+devTamper : 49595090
+devRef : 49184131
+devRoot : 31353093
+devDebug : 49582222
+hasAntiAnalysis? - devTamper: false on com.rewardz.l42.l42MemberModule.activities.SplashScreenActivity
+hasAntiAnalysis? - devRoot: true on com.rewardz.l42.l42MemberModule.activities.SplashScreenActivity
+	isRemovedThem? - devRoot: true on com.rewardz.l42.l42MemberModule.activities.SplashScreenActivity	-	tryCount: 4
+hasAntiAnalysis? - devDebug: false on com.rewardz.l42.l42MemberModule.activities.SplashScreenActivity
+46604b9f: trying remove : com.obcrewardz
+3601a6ff: trying remove : com.obcrewardz
+b29e6a69: trying remove : com.obcrewardz
+159ceeed: trying remove : com.obcrewardz
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+159ceeed: result = true
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+3601a6ff: result = true
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+b29e6a69: result = true
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+46604b9f: result = true
+3601a6ff: isFailedToLaunch: com.obcrewardz/com.rewardz.l42.l42MemberModule.activities.SplashScreenActivity
+3601a6ff: 	--result: Good :)

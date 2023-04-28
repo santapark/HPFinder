@@ -1,0 +1,2050 @@
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened/AndroidManifest.xml
+launchable-activity: name='com.pizzaexpress.appv2.MainActivity'  label='PizzaExpress' icon=''
+{ACTIVITY, com.pizzaexpress.appv2.MainActivity, android.intent.action.MAIN, android.intent.action.DOWNLOAD_COMPLETE, android.intent.action.VIEW}
+{ACTIVITY, com.facebook.react.devsupport.DevSettingsActivity}
+{RECEIVER, com.learnium.RNDeviceInfo.RNDeviceReceiver, com.android.vending.INSTALL_REFERRER}
+{ACTIVITY, com.masteratul.exceptionhandler.DefaultErrorScreen}
+{SERVICE, com.appoxee.internal.service.AppoxeeService}
+{RECEIVER, com.appoxee.internal.geo.BootCompleteReceiver, android.intent.action.BOOT_COMPLETED}
+{SERVICE, com.appoxee.push.fcm.MappMessagingService, com.google.firebase.MESSAGING_EVENT}
+{SERVICE, com.appoxee.internal.push.PushOpenIntentService}
+{SERVICE, com.appoxee.internal.geo.GeoFenceService}
+{SERVICE, com.appoxee.internal.geo.GeoFenceTransitionsIntentService}
+{ACTIVITY, com.appoxee.internal.ui.FullScreenActivity}
+{ACTIVITY, com.appoxee.internal.ui.LandingPage}
+{RECEIVER, com.appoxee.push.PushDataReceiver, com.appoxee.PUSH_OPENED, com.appoxee.PUSH_RECEIVED, com.appoxee.PUSH_DISMISSED}
+{SERVICE, com.appoxee.internal.push.notification.audioPlayer.AudioPlayerJobIntentService, android.media.browse.MediaBrowserService, android.intent.action.MEDIA_BUTTON}
+{RECEIVER, com.appoxee.internal.push.notification.audioPlayer.AudioPlayerListener, com.appoxee.internal.push.notification.AudioPlayer.MUSIC_PLAYER}
+{RECEIVER, android.support.v4.media.session.MediaButtonReceiver, android.intent.action.MEDIA_BUTTON}
+{SERVICE, com.google.firebase.messaging.FirebaseMessagingService, com.google.firebase.MESSAGING_EVENT}
+{SERVICE, com.google.firebase.components.ComponentDiscoveryService}
+{RECEIVER, com.google.firebase.iid.FirebaseInstanceIdReceiver, com.google.android.c2dm.intent.RECEIVE}
+{ACTIVITY, com.google.android.gms.common.api.GoogleApiActivity}
+{RECEIVER, com.google.android.gms.measurement.AppMeasurementReceiver}
+{RECEIVER, com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver, com.android.vending.INSTALL_REFERRER}
+{SERVICE, com.google.android.gms.measurement.AppMeasurementService}
+{ACTIVITY, com.pizzaexpress.appv2.MainActivity, android.intent.action.MAIN, android.intent.action.DOWNLOAD_COMPLETE, android.intent.action.VIEW}
+{ACTIVITY, com.facebook.react.devsupport.DevSettingsActivity}
+{RECEIVER, com.learnium.RNDeviceInfo.RNDeviceReceiver, com.android.vending.INSTALL_REFERRER}
+{ACTIVITY, com.masteratul.exceptionhandler.DefaultErrorScreen}
+{SERVICE, com.appoxee.internal.service.AppoxeeService}
+{RECEIVER, com.appoxee.internal.geo.BootCompleteReceiver, android.intent.action.BOOT_COMPLETED}
+{SERVICE, com.appoxee.push.fcm.MappMessagingService, com.google.firebase.MESSAGING_EVENT}
+{SERVICE, com.appoxee.internal.push.PushOpenIntentService}
+{SERVICE, com.appoxee.internal.geo.GeoFenceService}
+{SERVICE, com.appoxee.internal.geo.GeoFenceTransitionsIntentService}
+{ACTIVITY, com.appoxee.internal.ui.FullScreenActivity}
+{ACTIVITY, com.appoxee.internal.ui.LandingPage}
+{RECEIVER, com.appoxee.push.PushDataReceiver, com.appoxee.PUSH_OPENED, com.appoxee.PUSH_RECEIVED, com.appoxee.PUSH_DISMISSED}
+{SERVICE, com.appoxee.internal.push.notification.audioPlayer.AudioPlayerJobIntentService, android.media.browse.MediaBrowserService, android.intent.action.MEDIA_BUTTON}
+{RECEIVER, com.appoxee.internal.push.notification.audioPlayer.AudioPlayerListener, com.appoxee.internal.push.notification.AudioPlayer.MUSIC_PLAYER}
+{RECEIVER, android.support.v4.media.session.MediaButtonReceiver, android.intent.action.MEDIA_BUTTON}
+{SERVICE, com.google.firebase.messaging.FirebaseMessagingService, com.google.firebase.MESSAGING_EVENT}
+{SERVICE, com.google.firebase.components.ComponentDiscoveryService}
+{RECEIVER, com.google.firebase.iid.FirebaseInstanceIdReceiver, com.google.android.c2dm.intent.RECEIVE}
+{ACTIVITY, com.google.android.gms.common.api.GoogleApiActivity}
+{RECEIVER, com.google.android.gms.measurement.AppMeasurementReceiver}
+{RECEIVER, com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver, com.android.vending.INSTALL_REFERRER}
+{SERVICE, com.google.android.gms.measurement.AppMeasurementService}
+_getAllDexFiles: /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened/classes.dex
+----------------/home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened.apk
+dexFile = org.jf.dexlib2.dexbacked.DexBackedDexFile@790da477
+com.pizzaexpress.appv2
+com.pizzaexpress.appv2.MainActivity
+debuggable: true
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened.apk
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened.apk
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened.apk
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened_46604b9f/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened_46604b9f/sample12-pizza-2min-need.apk.obfuscated_olay_flattened.apk
+3601a6ff: Installation Success
+159ceeed: Installation Success
+b29e6a69: Installation Success
+46604b9f: Installing repackaged apk File: 
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened_46604b9f/signed_sample12-pizza-2min-need.apk.obfuscated_olay_flattened.apk
+46604b9f: Installation Success
+46604b9f: startApplication called! - devTamper
+3601a6ff: startApplication called! - devRef
+b29e6a69: startApplication called! - devRoot
+159ceeed: startApplication called! - devDebug
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample12-pizza-2min-need.obfuscated_olay_flattened.ilog)
+3601a6ff: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample12-pizza-2min-need.obfuscated_olay_flattened.ilog)
+b29e6a69: Running Application: com.pizzaexpress.appv2
+3601a6ff: Running Application: com.pizzaexpress.appv2
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample12-pizza-2min-need.obfuscated_olay_flattened.ilog)
+46604b9f: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devTamper_sample12-pizza-2min-need.obfuscated_olay_flattened.ilog)
+46604b9f: Running Application: com.pizzaexpress.appv2
+PIDs--------------------------------------------------------------------------
+u0_a99         8504    425 13935140 98740 0                   0 R com.pizzaexpress.appv2
+forward tcp:5005 jdwp:8504
+[*]Found JDWP Target: 8504
+159ceeed: Running Application: com.pizzaexpress.appv2
+b29e6a69: Top-activity: com.pizzaexpress.appv2/.MainActivity
+3601a6ff: Top-activity: com.pizzaexpress.appv2/.MainActivity
+PIDs--------------------------------------------------------------------------
+u0_a3768      23881    430 52014700 238060 0                  0 S com.pizzaexpress.appv2
+b29e6a69: Terminated logcat thread...by itself
+PIDs--------------------------------------------------------------------------
+u0_a247        9424    421 52029848 244708 0                  0 R com.pizzaexpress.appv2
+3601a6ff: Terminated logcat thread...by itself
+PIDs--------------------------------------------------------------------------
+u0_a3768      23881    430 52014700 238060 0                  0 S com.pizzaexpress.appv2
+Stopping app: com.pizzaexpress.appv2
+PIDs--------------------------------------------------------------------------
+u0_a247        9424    421 52029848 244708 0                  0 S com.pizzaexpress.appv2
+Stopping app: com.pizzaexpress.appv2
+46604b9f: Top-activity: com.pizzaexpress.appv2/.MainActivity
+PIDs--------------------------------------------------------------------------
+u0_a1137      23054    429 51900236 244396 0                  0 S com.pizzaexpress.appv2
+46604b9f: Terminated logcat thread...by itself
+PIDs--------------------------------------------------------------------------
+u0_a1137      23054    429 51900236 244396 0                  0 S com.pizzaexpress.appv2
+Stopping app: com.pizzaexpress.appv2
+159ceeed: Top-activity: com.pizzaexpress.appv2/.MainActivity
+PIDs--------------------------------------------------------------------------
+u0_a99         8504    425 52898284 243552 0                  0 R com.pizzaexpress.appv2
+159ceeed: Terminated logcat thread...by itself
+PIDs--------------------------------------------------------------------------
+u0_a99         8504    425 52898284 243552 0                  0 S com.pizzaexpress.appv2
+Stopping app: com.pizzaexpress.appv2
+Tryging remove : uninstall com.pizzaexpress.appv2(com.pizzaexpress.appv2)
+3601a6ff: Remove Success
+3601a6ff: ilog file size: 552395979
+3601a6ff: End of collecting logcat...
+Tryging remove : uninstall com.pizzaexpress.appv2(com.pizzaexpress.appv2)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 382748738
+b29e6a69: End of collecting logcat...
+Tryging remove : uninstall com.pizzaexpress.appv2(com.pizzaexpress.appv2)
+46604b9f: Remove Success
+46604b9f: ilog file size: 424455784
+46604b9f: End of collecting logcat...
+Tryging remove : uninstall com.pizzaexpress.appv2(com.pizzaexpress.appv2)
+159ceeed: Remove Success
+159ceeed: ilog file size: 513599496
+159ceeed: End of collecting logcat...
+HPFinder's try count remains: 29
+46604b9f: isFailedToLaunch: com.pizzaexpress.appv2/.MainActivity
+46604b9f: 	--result: Good :)
+b29e6a69: isFailedToLaunch: com.pizzaexpress.appv2/.MainActivity
+b29e6a69: 	--result: Good :)
+159ceeed: isFailedToLaunch: com.pizzaexpress.appv2/.MainActivity
+159ceeed: 	--result: Good :)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample12-pizza-2min-need.obfuscated_olay_flattened.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample12-pizza-2min-need.obfuscated_olay_flattened.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample12-pizza-2min-need.obfuscated_olay_flattened.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample12-pizza-2min-need.obfuscated_olay_flattened.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devTamper_sample12-pizza-2min-need.obfuscated_olay_flattened.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample12-pizza-2min-need.obfuscated_olay_flattened.ilog)
+[*] FlowManager: adjust finished.
+Action is completely same :)
+android.app.Dialog/show:()V:38b470		=(rels)=>		1
+[*] Unique action: 1:1133682 : <<CALL>> : android.support.v4.app.DialogFragment/onStart:()V:38b470  =>  android.app.Dialog/show:()V:1b4adc
+[*] FlowManager: adjust finished.
+Action is completely same :)
+Action is completely same :)
+46604b9f: There is no difference. (tryAgain=false)
+	1:compareBackwardBranch: 1:2250490 : <<BRANCH>> : com.google.android.exoplayer2.l/G:()Z:5d4c64  =>  com.google.android.exoplayer2.l/G:()Z:5d4c68
+Entry: 5d4c4c
+com.google.android.exoplayer2.l/G:()Z: 5d4c64 -> 5d4c68
+		com.google.android.exoplayer2.l/G:()Z: 18 -> 1c
+addPatchReadme: java.lang.Class<com.google.android.exoplayer2.l>G()Z 18 f
+b29e6a69: [+] Patches found in this round: 1
+b29e6a69: [*] Found Patch size: 1
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample12-pizza-2min-need.obfuscated_olay_flattened.ilog)
+b29e6a69: 	@@@Found patch addr: 5d4c74
+b29e6a69: Querying offset: 5d4c64
+b29e6a69: 	--Add method name to patch = com.google.android.exoplayer2.l/G:()Z 	5d4c64
+[*] FlowManager: adjust finished.
+Action is completely same :)
+android.app.Dialog/show:()V:38b470		=(rels)=>		1
+[*] Unique action: 1:1112420 : <<CALL>> : android.support.v4.app.DialogFragment/onStart:()V:38b470  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:1067007 : <<BRANCH>> : com.facebook.drawee.controller.AbstractDraweeController/onProgressUpdateInternal:(Ljava/lang/String;Lcom/facebook/datasource/DataSource;FZ)V:4c269c  =>  com.facebook.drawee.controller.AbstractDraweeController/onProgressUpdateInternal:(Ljava/lang/String;Lcom/facebook/datasource/DataSource;FZ)V:4c26ac
+Entry: 4c267c
+com.facebook.drawee.controller.AbstractDraweeController/onProgressUpdateInternal:(Ljava/lang/String;Lcom/facebook/datasource/DataSource;FZ)V: 4c269c -> 4c26ac
+		com.facebook.drawee.controller.AbstractDraweeController/onProgressUpdateInternal:(Ljava/lang/String;Lcom/facebook/datasource/DataSource;FZ)V: 20 -> 30
+addPatchReadme: java.lang.Class<com.facebook.drawee.controller.AbstractDraweeController>onProgressUpdateInternal(Ljava/lang/String;Lcom/facebook/datasource/DataSource;FZ)V 20 t
+159ceeed: [+] Patches found in this round: 1
+159ceeed: [*] Found Patch size: 1
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample12-pizza-2min-need.obfuscated_olay_flattened.ilog)
+159ceeed: 	@@@Found patch addr: 4c26ac
+159ceeed: Querying offset: 4c269c
+159ceeed: 	--Add method name to patch = com.facebook.drawee.controller.AbstractDraweeController/onProgressUpdateInternal:(Ljava/lang/String;Lcom/facebook/datasource/DataSource;FZ)V 	4c269c
+Devices presenting anti-analysis: 
+	devRoot
+	devDebug
+b29e6a69: patching method: com.google.android.exoplayer2.l/G:()Z
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened_devRoot
+Wow!!!!!  --  com.google.android.exoplayer2.l/G:()Z
+fallthrough: 1c
+branchTarget: 1c
+NOP!
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened_devRoot/sample12-pizza-2min-need.apk.obfuscated_olay_flattened.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened_devRoot/signed_sample12-pizza-2min-need.apk.obfuscated_olay_flattened.apk
+b29e6a69: First address of Lcom/google/android/exoplayer2/l;->G()Z = 5d4c5c
+b29e6a69: Address - Lcom/google/android/exoplayer2/l;->G()Z@18	 lastOffset = 24
+b29e6a69: Instruction@@: IF_LEZ
+159ceeed: patching method: com.facebook.drawee.controller.AbstractDraweeController/onProgressUpdateInternal:(Ljava/lang/String;Lcom/facebook/datasource/DataSource;FZ)V
+159ceeed: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened_devDebug
+Wow!!!!!  --  com.facebook.drawee.controller.AbstractDraweeController/onProgressUpdateInternal:(Ljava/lang/String;Lcom/facebook/datasource/DataSource;FZ)V
+fallthrough: 24
+branchTarget: 30
+label = cond_1
+GOTO -- 24 	30
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened_devDebug/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened_devDebug/sample12-pizza-2min-need.apk.obfuscated_olay_flattened.apk
+159ceeed: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened_devDebug/signed_sample12-pizza-2min-need.apk.obfuscated_olay_flattened.apk
+159ceeed: First address of Lcom/facebook/drawee/controller/AbstractDraweeController;->onProgressUpdateInternal(Ljava/lang/String;Lcom/facebook/datasource/DataSource;FZ)V = 4c268c
+159ceeed: Address - Lcom/facebook/drawee/controller/AbstractDraweeController;->onProgressUpdateInternal(Ljava/lang/String;Lcom/facebook/datasource/DataSource;FZ)V@20	 lastOffset = 30
+159ceeed: Instruction@@: IF_NEZ
+159ceeed: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened_devDebug/signed_sample12-pizza-2min-need.apk.obfuscated_olay_flattened.apk
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened_devRoot/signed_sample12-pizza-2min-need.apk.obfuscated_olay_flattened.apk
+159ceeed: Installation Success
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+159ceeed: startApplication called! - devDebug
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample12-pizza-2min-need.obfuscated_olay_flattened.ilog)
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample12-pizza-2min-need.obfuscated_olay_flattened.ilog)
+b29e6a69: Running Application: com.pizzaexpress.appv2
+PIDs--------------------------------------------------------------------------
+u0_a100        9383    425 13952716 99536 0                   0 S com.pizzaexpress.appv2
+forward tcp:5005 jdwp:9383
+[*]Found JDWP Target: 9383
+159ceeed: Running Application: com.pizzaexpress.appv2
+b29e6a69: Top-activity: com.pizzaexpress.appv2/.MainActivity
+PIDs--------------------------------------------------------------------------
+u0_a3769      24494    430 53165480 246804 0                  0 S com.pizzaexpress.appv2
+b29e6a69: Terminated logcat thread...by itself
+PIDs--------------------------------------------------------------------------
+u0_a3769      24494    430 53165480 246804 0                  0 S com.pizzaexpress.appv2
+Stopping app: com.pizzaexpress.appv2
+159ceeed: Top-activity: com.pizzaexpress.appv2/.MainActivity
+PIDs--------------------------------------------------------------------------
+u0_a100        9383    425 51865460 248148 0                  0 S com.pizzaexpress.appv2
+159ceeed: Terminated logcat thread...by itself
+PIDs--------------------------------------------------------------------------
+u0_a100        9383    425 51865460 248148 0                  0 S com.pizzaexpress.appv2
+Stopping app: com.pizzaexpress.appv2
+Tryging remove : uninstall com.pizzaexpress.appv2(com.pizzaexpress.appv2)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 374440972
+b29e6a69: End of collecting logcat...
+Tryging remove : uninstall com.pizzaexpress.appv2(com.pizzaexpress.appv2)
+159ceeed: Remove Success
+159ceeed: ilog file size: 509481019
+159ceeed: End of collecting logcat...
+HPFinder's try count remains: 28
+b29e6a69: isFailedToLaunch: com.pizzaexpress.appv2/.MainActivity
+b29e6a69: 	--result: Good :)
+159ceeed: isFailedToLaunch: com.pizzaexpress.appv2/.MainActivity
+159ceeed: 	--result: Good :)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample12-pizza-2min-need.obfuscated_olay_flattened.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample12-pizza-2min-need.obfuscated_olay_flattened.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample12-pizza-2min-need.obfuscated_olay_flattened.ilog)
+b29e6a69: adding filter -- 5d4c64
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample12-pizza-2min-need.obfuscated_olay_flattened.ilog)
+159ceeed: adding filter -- 4c269c
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 5d4c64
+Action is completely same :)
+android.app.Dialog/show:()V:38b470		=(rels)=>		1
+[*] Unique action: 1:1004506 : <<CALL>> : android.support.v4.app.DialogFragment/onStart:()V:38b470  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:2250823 : <<BRANCH>> : com.google.android.exoplayer2.a.a$c/a:()Lcom/google/android/exoplayer2/a/a$b;:570d30  =>  com.google.android.exoplayer2.a.a$c/a:()Lcom/google/android/exoplayer2/a/a$b;:570d34
+Entry: 570d0c
+com.google.android.exoplayer2.a.a$c/a:()Lcom/google/android/exoplayer2/a/a$b;: 570d30 -> 570d34
+		com.google.android.exoplayer2.a.a$c/a:()Lcom/google/android/exoplayer2/a/a$b;: 24 -> 28
+addPatchReadme: java.lang.Class<com.google.android.exoplayer2.a.a$c>a()Lcom/google/android/exoplayer2/a/a$b; 24 f
+b29e6a69: [+] Patches found in this round: 1
+b29e6a69: [*] Found Patch size: 1
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample12-pizza-2min-need.obfuscated_olay_flattened.ilog)
+b29e6a69: @@localPatchFilter -- 5d4c74
+b29e6a69: 	@@@Found patch addr: 570d40
+b29e6a69: Querying offset: 570d30
+b29e6a69: 	--Add method name to patch = com.google.android.exoplayer2.a.a$c/a:()Lcom/google/android/exoplayer2/a/a$b; 	570d30
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 4c269c
+Action is completely same :)
+android.app.Dialog/show:()V:38b470		=(rels)=>		1
+[*] Unique action: 1:1103818 : <<CALL>> : android.support.v4.app.DialogFragment/onStart:()V:38b470  =>  android.app.Dialog/show:()V:1b4adc
+@@intraTimelineAnalysis -- 
+Entry: 5584c8
+com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 558700 -> 55870a
+		com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 238 -> 242
+addPatchReadme: java.lang.Class<com.gantix.JailMonkey.e.d>a(Landroid/content/Context;)Z 238 t
+Entry: 5584c8
+com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 5586f0 -> 5586d6
+		com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 228 -> 20e
+addPatchReadme: java.lang.Class<com.gantix.JailMonkey.e.d>a(Landroid/content/Context;)Z 228 t
+Entry: 5584c8
+com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 558772 -> 5584da
+		com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 2aa -> 12
+addPatchReadme: java.lang.Class<com.gantix.JailMonkey.e.d>a(Landroid/content/Context;)Z 2aa t
+Entry: 5584c8
+com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 55869e -> 55875e
+		com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 1d6 -> 296
+addPatchReadme: java.lang.Class<com.gantix.JailMonkey.e.d>a(Landroid/content/Context;)Z 1d6 t
+Entry: 5584c8
+com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 55850e -> 55876e
+		com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 46 -> 2a6
+addPatchReadme: java.lang.Class<com.gantix.JailMonkey.e.d>a(Landroid/content/Context;)Z 46 t
+Entry: 5584c8
+com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 5586c8 -> 5586ae
+		com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 200 -> 1e6
+addPatchReadme: java.lang.Class<com.gantix.JailMonkey.e.d>a(Landroid/content/Context;)Z 200 t
+159ceeed: [+] Patches found in this round: 6
+159ceeed: [*] Found Patch size: 1
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample12-pizza-2min-need.obfuscated_olay_flattened.ilog)
+159ceeed: @@localPatchFilter -- 4c26ac
+159ceeed: 	@@@Found patch addr: 5586d8
+159ceeed: Querying offset: 5586c8
+159ceeed: 	--Add method name to patch = com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z 	5586c8
+Devices presenting anti-analysis: 
+	devRoot
+	devDebug
+b29e6a69: patching method: com.google.android.exoplayer2.a.a$c/a:()Lcom/google/android/exoplayer2/a/a$b;
+b29e6a69: patching method: com.google.android.exoplayer2.l/G:()Z
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened_devRoot
+Wow!!!!!  --  com.google.android.exoplayer2.a.a$c/a:()Lcom/google/android/exoplayer2/a/a$b;
+fallthrough: 28
+branchTarget: 28
+NOP!
+Wow!!!!!  --  com.google.android.exoplayer2.l/G:()Z
+fallthrough: 1c
+branchTarget: 1c
+NOP!
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened_devRoot/sample12-pizza-2min-need.apk.obfuscated_olay_flattened.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened_devRoot/signed_sample12-pizza-2min-need.apk.obfuscated_olay_flattened.apk
+b29e6a69: First address of Lcom/google/android/exoplayer2/a/a$c;->a()Lcom/google/android/exoplayer2/a/a$b; = 570d1c
+b29e6a69: Address - Lcom/google/android/exoplayer2/a/a$c;->a()Lcom/google/android/exoplayer2/a/a$b;@24	 lastOffset = 40
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Lcom/google/android/exoplayer2/l;->G()Z = 5d4c5c
+b29e6a69: Address - Lcom/google/android/exoplayer2/l;->G()Z@18	 lastOffset = 24
+b29e6a69: Instruction@@: IF_LEZ
+159ceeed: patching method: com.facebook.drawee.controller.AbstractDraweeController/onProgressUpdateInternal:(Ljava/lang/String;Lcom/facebook/datasource/DataSource;FZ)V
+159ceeed: patching method: com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z
+159ceeed: patching method: com.google.android.exoplayer2.a.a$c/a:()Lcom/google/android/exoplayer2/a/a$b;
+159ceeed: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened_devDebug
+Wow!!!!!  --  com.facebook.drawee.controller.AbstractDraweeController/onProgressUpdateInternal:(Ljava/lang/String;Lcom/facebook/datasource/DataSource;FZ)V
+fallthrough: 24
+branchTarget: 30
+label = cond_1
+GOTO -- 24 	30
+Wow!!!!!  --  com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z
+fallthrough: 206
+branchTarget: 1e6
+label = sswitch_data_8
+GOTO -- 206 	1e6
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened_devDebug/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened_devDebug/sample12-pizza-2min-need.apk.obfuscated_olay_flattened.apk
+159ceeed: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened_devDebug/signed_sample12-pizza-2min-need.apk.obfuscated_olay_flattened.apk
+159ceeed: First address of Lcom/facebook/drawee/controller/AbstractDraweeController;->onProgressUpdateInternal(Ljava/lang/String;Lcom/facebook/datasource/DataSource;FZ)V = 4c268c
+159ceeed: Address - Lcom/facebook/drawee/controller/AbstractDraweeController;->onProgressUpdateInternal(Ljava/lang/String;Lcom/facebook/datasource/DataSource;FZ)V@20	 lastOffset = 30
+159ceeed: Instruction@@: IF_NEZ
+159ceeed: First address of Lcom/gantix/JailMonkey/e/d;->a(Landroid/content/Context;)Z = 5584d8
+159ceeed: Address - Lcom/gantix/JailMonkey/e/d;->a(Landroid/content/Context;)Z@200	 lastOffset = 454
+159ceeed: Instruction@@: SPARSE_SWITCH
+159ceeed: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened_devDebug/signed_sample12-pizza-2min-need.apk.obfuscated_olay_flattened.apk
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened_devRoot/signed_sample12-pizza-2min-need.apk.obfuscated_olay_flattened.apk
+159ceeed: Installation Success
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+159ceeed: startApplication called! - devDebug
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample12-pizza-2min-need.obfuscated_olay_flattened.ilog)
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample12-pizza-2min-need.obfuscated_olay_flattened.ilog)
+b29e6a69: Running Application: com.pizzaexpress.appv2
+PIDs--------------------------------------------------------------------------
+u0_a101       10437    425 13934716 99272 0                   0 R com.pizzaexpress.appv2
+forward tcp:5005 jdwp:10437
+[*]Found JDWP Target: 10437
+159ceeed: Running Application: com.pizzaexpress.appv2
+159ceeed: Running is done - starting comparing... : 10001
+159ceeed: Terminated logcat thread...by itself
+159ceeed: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.pizzaexpress.appv2
+Tryging remove : uninstall com.pizzaexpress.appv2(com.pizzaexpress.appv2)
+159ceeed: Remove Success
+159ceeed: ilog file size: 137220435
+159ceeed: End of collecting logcat...
+b29e6a69: Top-activity: com.pizzaexpress.appv2/.MainActivity
+PIDs--------------------------------------------------------------------------
+u0_a3770      25148    430 53081592 243468 0                  0 S com.pizzaexpress.appv2
+b29e6a69: Terminated logcat thread...by itself
+PIDs--------------------------------------------------------------------------
+u0_a3770      25148    430 53081592 243468 0                  0 S com.pizzaexpress.appv2
+Stopping app: com.pizzaexpress.appv2
+Tryging remove : uninstall com.pizzaexpress.appv2(com.pizzaexpress.appv2)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 381121717
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 27
+b29e6a69: isFailedToLaunch: com.pizzaexpress.appv2/.MainActivity
+b29e6a69: 	--result: Good :)
+159ceeed: isFailedToLaunch: com.android.launcher3/.Launcher
+159ceeed: 	--result: Failed :( (1)
+159ceeed: /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened.apk launch is failed on devDebug
+159ceeed: Failed Patch: 5586d8
+159ceeed: adding filter -- 4c269c
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample12-pizza-2min-need.obfuscated_olay_flattened.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample12-pizza-2min-need.obfuscated_olay_flattened.ilog)
+b29e6a69: adding filter -- 5d4c64
+b29e6a69: adding filter -- 570d30
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 570d30
+-- current localPatchFilter: 5d4c64
+Action is completely same :)
+android.app.Dialog/show:()V:38b470		=(rels)=>		1
+[*] Unique action: 1:1127195 : <<CALL>> : android.support.v4.app.DialogFragment/onStart:()V:38b470  =>  android.app.Dialog/show:()V:1b4adc
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 4c269c
+-- current localPatchFilter: 5586c8
+Action is completely same :)
+android.app.Dialog/show:()V:38b470		=(rels)=>		1
+[*] Unique action: 1:1103818 : <<CALL>> : android.support.v4.app.DialogFragment/onStart:()V:38b470  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:1011425 : <<BRANCH>> : com.google.android.exoplayer2.l/a:(Lcom/google/android/exoplayer2/w;IZI)V:5d4dfc  =>  com.google.android.exoplayer2.l/a:(Lcom/google/android/exoplayer2/w;IZI)V:5d4e00
+Entry: 5d4dd8
+com.google.android.exoplayer2.l/a:(Lcom/google/android/exoplayer2/w;IZI)V: 5d4dfc -> 5d4e00
+		com.google.android.exoplayer2.l/a:(Lcom/google/android/exoplayer2/w;IZI)V: 24 -> 28
+addPatchReadme: java.lang.Class<com.google.android.exoplayer2.l>a(Lcom/google/android/exoplayer2/w;IZI)V 24 f
+b29e6a69: [+] Patches found in this round: 1
+b29e6a69: [*] Found Patch size: 1
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample12-pizza-2min-need.obfuscated_olay_flattened.ilog)
+b29e6a69: @@localPatchFilter -- 570d40
+b29e6a69: @@localPatchFilter -- 5d4c74
+b29e6a69: 	@@@Found patch addr: 5d4e0c
+b29e6a69: Querying offset: 5d4dfc
+b29e6a69: 	--Add method name to patch = com.google.android.exoplayer2.l/a:(Lcom/google/android/exoplayer2/w;IZI)V 	5d4dfc
+@@intraTimelineAnalysis -- 
+Entry: 5584c8
+com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 55869e -> 55875e
+		com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 1d6 -> 296
+addPatchReadme: java.lang.Class<com.gantix.JailMonkey.e.d>a(Landroid/content/Context;)Z 1d6 t
+Entry: 5584c8
+com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 55850e -> 55876e
+		com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 46 -> 2a6
+addPatchReadme: java.lang.Class<com.gantix.JailMonkey.e.d>a(Landroid/content/Context;)Z 46 t
+Entry: 5584c8
+com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 558700 -> 55870a
+		com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 238 -> 242
+addPatchReadme: java.lang.Class<com.gantix.JailMonkey.e.d>a(Landroid/content/Context;)Z 238 t
+Entry: 5584c8
+com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 5586f0 -> 5586d6
+		com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 228 -> 20e
+addPatchReadme: java.lang.Class<com.gantix.JailMonkey.e.d>a(Landroid/content/Context;)Z 228 t
+Entry: 5584c8
+com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 558772 -> 5584da
+		com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 2aa -> 12
+addPatchReadme: java.lang.Class<com.gantix.JailMonkey.e.d>a(Landroid/content/Context;)Z 2aa t
+159ceeed: [+] Patches found in this round: 5
+159ceeed: [*] Found Patch size: 1
+ExitReason-Code: 4 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample12-pizza-2min-need.obfuscated_olay_flattened.ilog)
+	System.exit called in native code!
+159ceeed: @@localPatchFilter -- 4c26ac
+159ceeed: @@localPatchFilter -- 5586d8
+159ceeed: 	@@@Found patch addr: 558782
+159ceeed: Querying offset: 558772
+159ceeed: 	--Add method name to patch = com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z 	558772
+Devices presenting anti-analysis: 
+	devRoot
+	devDebug
+b29e6a69: patching method: com.google.android.exoplayer2.a.a$c/a:()Lcom/google/android/exoplayer2/a/a$b;
+b29e6a69: patching method: com.google.android.exoplayer2.l/a:(Lcom/google/android/exoplayer2/w;IZI)V
+b29e6a69: patching method: com.google.android.exoplayer2.l/G:()Z
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened_devRoot
+Wow!!!!!  --  com.google.android.exoplayer2.a.a$c/a:()Lcom/google/android/exoplayer2/a/a$b;
+fallthrough: 28
+branchTarget: 28
+NOP!
+Wow!!!!!  --  com.google.android.exoplayer2.l/G:()Z
+fallthrough: 1c
+branchTarget: 1c
+NOP!
+Wow!!!!!  --  com.google.android.exoplayer2.l/a:(Lcom/google/android/exoplayer2/w;IZI)V
+fallthrough: 28
+branchTarget: 28
+NOP!
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened_devRoot/sample12-pizza-2min-need.apk.obfuscated_olay_flattened.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened_devRoot/signed_sample12-pizza-2min-need.apk.obfuscated_olay_flattened.apk
+b29e6a69: First address of Lcom/google/android/exoplayer2/a/a$c;->a()Lcom/google/android/exoplayer2/a/a$b; = 570d1c
+b29e6a69: Address - Lcom/google/android/exoplayer2/a/a$c;->a()Lcom/google/android/exoplayer2/a/a$b;@24	 lastOffset = 40
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Lcom/google/android/exoplayer2/l;->a(Lcom/google/android/exoplayer2/w;IZI)V = 5d4de8
+b29e6a69: Address - Lcom/google/android/exoplayer2/l;->a(Lcom/google/android/exoplayer2/w;IZI)V@24	 lastOffset = a8
+b29e6a69: Instruction@@: IF_NEZ
+b29e6a69: First address of Lcom/google/android/exoplayer2/l;->G()Z = 5d4c5c
+b29e6a69: Address - Lcom/google/android/exoplayer2/l;->G()Z@18	 lastOffset = 24
+b29e6a69: Instruction@@: IF_LEZ
+159ceeed: patching method: com.facebook.drawee.controller.AbstractDraweeController/onProgressUpdateInternal:(Ljava/lang/String;Lcom/facebook/datasource/DataSource;FZ)V
+159ceeed: patching method: com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z
+159ceeed: patching method: com.google.android.exoplayer2.a.a$c/a:()Lcom/google/android/exoplayer2/a/a$b;
+159ceeed: patching method: com.google.android.exoplayer2.l/a:(Lcom/google/android/exoplayer2/w;IZI)V
+159ceeed: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened_devDebug
+Wow!!!!!  --  com.facebook.drawee.controller.AbstractDraweeController/onProgressUpdateInternal:(Ljava/lang/String;Lcom/facebook/datasource/DataSource;FZ)V
+fallthrough: 24
+branchTarget: 30
+label = cond_1
+GOTO -- 24 	30
+Wow!!!!!  --  com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z
+fallthrough: 2ae
+branchTarget: 12
+label = goto_0
+GOTO -- 2ae 	12
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened_devDebug/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened_devDebug/sample12-pizza-2min-need.apk.obfuscated_olay_flattened.apk
+159ceeed: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened_devDebug/signed_sample12-pizza-2min-need.apk.obfuscated_olay_flattened.apk
+159ceeed: First address of Lcom/facebook/drawee/controller/AbstractDraweeController;->onProgressUpdateInternal(Ljava/lang/String;Lcom/facebook/datasource/DataSource;FZ)V = 4c268c
+159ceeed: Address - Lcom/facebook/drawee/controller/AbstractDraweeController;->onProgressUpdateInternal(Ljava/lang/String;Lcom/facebook/datasource/DataSource;FZ)V@20	 lastOffset = 30
+159ceeed: Instruction@@: IF_NEZ
+159ceeed: First address of Lcom/gantix/JailMonkey/e/d;->a(Landroid/content/Context;)Z = 5584d8
+159ceeed: Address - Lcom/gantix/JailMonkey/e/d;->a(Landroid/content/Context;)Z@2aa	 lastOffset = 454
+159ceeed: Instruction@@: GOTO_16
+159ceeed: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened_devDebug/signed_sample12-pizza-2min-need.apk.obfuscated_olay_flattened.apk
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened_devRoot/signed_sample12-pizza-2min-need.apk.obfuscated_olay_flattened.apk
+159ceeed: Installation Success
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+159ceeed: startApplication called! - devDebug
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample12-pizza-2min-need.obfuscated_olay_flattened.ilog)
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample12-pizza-2min-need.obfuscated_olay_flattened.ilog)
+b29e6a69: Running Application: com.pizzaexpress.appv2
+PIDs--------------------------------------------------------------------------
+u0_a102       10945    425 13952160 98736 0                   0 S com.pizzaexpress.appv2
+forward tcp:5005 jdwp:10945
+[*]Found JDWP Target: 10945
+159ceeed: Running Application: com.pizzaexpress.appv2
+b29e6a69: Top-activity: com.pizzaexpress.appv2/.MainActivity
+PIDs--------------------------------------------------------------------------
+u0_a3771      25751    430 51916480 244076 0                  0 S com.pizzaexpress.appv2
+b29e6a69: Terminated logcat thread...by itself
+PIDs--------------------------------------------------------------------------
+u0_a3771      25751    430 51916480 244076 0                  0 S com.pizzaexpress.appv2
+Stopping app: com.pizzaexpress.appv2
+159ceeed: Top-activity: com.pizzaexpress.appv2/.MainActivity
+PIDs--------------------------------------------------------------------------
+u0_a102       10945    425 51848804 242136 0                  0 S com.pizzaexpress.appv2
+159ceeed: Terminated logcat thread...by itself
+PIDs--------------------------------------------------------------------------
+u0_a102       10945    425 51848804 242252 0                  0 R com.pizzaexpress.appv2
+Stopping app: com.pizzaexpress.appv2
+Tryging remove : uninstall com.pizzaexpress.appv2(com.pizzaexpress.appv2)
+159ceeed: Remove Success
+159ceeed: ilog file size: 510303315
+159ceeed: End of collecting logcat...
+Tryging remove : uninstall com.pizzaexpress.appv2(com.pizzaexpress.appv2)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 371540491
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 26
+b29e6a69: isFailedToLaunch: com.pizzaexpress.appv2/.MainActivity
+b29e6a69: 	--result: Good :)
+159ceeed: isFailedToLaunch: com.pizzaexpress.appv2/.MainActivity
+159ceeed: 	--result: Good :)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample12-pizza-2min-need.obfuscated_olay_flattened.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample12-pizza-2min-need.obfuscated_olay_flattened.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample12-pizza-2min-need.obfuscated_olay_flattened.ilog)
+b29e6a69: adding filter -- 5d4c64
+b29e6a69: adding filter -- 5d4dfc
+b29e6a69: adding filter -- 570d30
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample12-pizza-2min-need.obfuscated_olay_flattened.ilog)
+159ceeed: adding filter -- 4c269c
+159ceeed: adding filter -- 558772
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 5d4dfc
+-- current localPatchFilter: 570d30
+-- current localPatchFilter: 5d4c64
+Action is completely same :)
+android.app.Dialog/show:()V:38b470		=(rels)=>		1
+[*] Unique action: 1:1015646 : <<CALL>> : android.support.v4.app.DialogFragment/onStart:()V:38b470  =>  android.app.Dialog/show:()V:1b4adc
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 4c269c
+-- current localPatchFilter: 558772
+Action is completely same :)
+android.app.Dialog/show:()V:38b470		=(rels)=>		1
+[*] Unique action: 1:1085365 : <<CALL>> : android.support.v4.app.DialogFragment/onStart:()V:38b470  =>  android.app.Dialog/show:()V:1b4adc
+@@intraTimelineAnalysis -- 
+Entry: 5584c8
+com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 558660 -> 558664
+		com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 198 -> 19c
+addPatchReadme: java.lang.Class<com.gantix.JailMonkey.e.d>a(Landroid/content/Context;)Z 198 f
+Entry: 5584c8
+com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 558650 -> 558676
+		com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 188 -> 1ae
+addPatchReadme: java.lang.Class<com.gantix.JailMonkey.e.d>a(Landroid/content/Context;)Z 188 t
+Entry: 5584c8
+com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 558600 -> 558682
+		com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 138 -> 1ba
+addPatchReadme: java.lang.Class<com.gantix.JailMonkey.e.d>a(Landroid/content/Context;)Z 138 t
+Entry: 5584c8
+com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 558700 -> 55870a
+		com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 238 -> 242
+addPatchReadme: java.lang.Class<com.gantix.JailMonkey.e.d>a(Landroid/content/Context;)Z 238 t
+Entry: 5584c8
+com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 558772 -> 5584da
+		com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 2aa -> 12
+addPatchReadme: java.lang.Class<com.gantix.JailMonkey.e.d>a(Landroid/content/Context;)Z 2aa t
+Entry: 5584c8
+com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 55850e -> 55876e
+		com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 46 -> 2a6
+addPatchReadme: java.lang.Class<com.gantix.JailMonkey.e.d>a(Landroid/content/Context;)Z 46 t
+Entry: 5584c8
+com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 558628 -> 55867c
+		com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 160 -> 1b4
+addPatchReadme: java.lang.Class<com.gantix.JailMonkey.e.d>a(Landroid/content/Context;)Z 160 t
+b29e6a69: [+] Patches found in this round: 7
+b29e6a69: [*] Found Patch size: 1
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample12-pizza-2min-need.obfuscated_olay_flattened.ilog)
+b29e6a69: @@localPatchFilter -- 5d4e0c
+b29e6a69: @@localPatchFilter -- 570d40
+b29e6a69: @@localPatchFilter -- 5d4c74
+b29e6a69: 	@@@Found patch addr: 558638
+b29e6a69: Querying offset: 558628
+b29e6a69: 	--Add method name to patch = com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z 	558628
+@@intraTimelineAnalysis -- 
+Entry: 5584c8
+com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 55869e -> 55875e
+		com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 1d6 -> 296
+addPatchReadme: java.lang.Class<com.gantix.JailMonkey.e.d>a(Landroid/content/Context;)Z 1d6 t
+Entry: 5584c8
+com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 55850e -> 558776
+		com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 46 -> 2ae
+addPatchReadme: java.lang.Class<com.gantix.JailMonkey.e.d>a(Landroid/content/Context;)Z 46 t
+Entry: 5584c8
+com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 558700 -> 55870a
+		com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 238 -> 242
+addPatchReadme: java.lang.Class<com.gantix.JailMonkey.e.d>a(Landroid/content/Context;)Z 238 t
+Entry: 5584c8
+com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 5586f0 -> 5586d6
+		com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 228 -> 20e
+addPatchReadme: java.lang.Class<com.gantix.JailMonkey.e.d>a(Landroid/content/Context;)Z 228 t
+Entry: 5584c8
+com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 5586c8 -> 5586ae
+		com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 200 -> 1e6
+addPatchReadme: java.lang.Class<com.gantix.JailMonkey.e.d>a(Landroid/content/Context;)Z 200 t
+159ceeed: [+] Patches found in this round: 5
+159ceeed: [*] Found Patch size: 1
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample12-pizza-2min-need.obfuscated_olay_flattened.ilog)
+159ceeed: @@localPatchFilter -- 4c26ac
+159ceeed: @@localPatchFilter -- 558782
+159ceeed: 	@@@Found patch addr: 5586d8
+159ceeed: Querying offset: 5586c8
+159ceeed: 	--Add method name to patch = com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z 	5586c8
+Devices presenting anti-analysis: 
+	devRoot
+	devDebug
+b29e6a69: patching method: com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z
+b29e6a69: patching method: com.google.android.exoplayer2.a.a$c/a:()Lcom/google/android/exoplayer2/a/a$b;
+b29e6a69: patching method: com.google.android.exoplayer2.l/a:(Lcom/google/android/exoplayer2/w;IZI)V
+b29e6a69: patching method: com.google.android.exoplayer2.l/G:()Z
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened_devRoot
+Wow!!!!!  --  com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z
+fallthrough: 166
+branchTarget: 1b4
+label = sswitch_data_5
+GOTO -- 166 	1b4
+Wow!!!!!  --  com.google.android.exoplayer2.a.a$c/a:()Lcom/google/android/exoplayer2/a/a$b;
+fallthrough: 28
+branchTarget: 28
+NOP!
+Wow!!!!!  --  com.google.android.exoplayer2.l/G:()Z
+fallthrough: 1c
+branchTarget: 1c
+NOP!
+Wow!!!!!  --  com.google.android.exoplayer2.l/a:(Lcom/google/android/exoplayer2/w;IZI)V
+fallthrough: 28
+branchTarget: 28
+NOP!
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened_devRoot/sample12-pizza-2min-need.apk.obfuscated_olay_flattened.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened_devRoot/signed_sample12-pizza-2min-need.apk.obfuscated_olay_flattened.apk
+b29e6a69: First address of Lcom/gantix/JailMonkey/e/d;->a(Landroid/content/Context;)Z = 5584d8
+b29e6a69: Address - Lcom/gantix/JailMonkey/e/d;->a(Landroid/content/Context;)Z@160	 lastOffset = 454
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: First address of Lcom/google/android/exoplayer2/a/a$c;->a()Lcom/google/android/exoplayer2/a/a$b; = 570d1c
+b29e6a69: Address - Lcom/google/android/exoplayer2/a/a$c;->a()Lcom/google/android/exoplayer2/a/a$b;@24	 lastOffset = 40
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Lcom/google/android/exoplayer2/l;->a(Lcom/google/android/exoplayer2/w;IZI)V = 5d4de8
+b29e6a69: Address - Lcom/google/android/exoplayer2/l;->a(Lcom/google/android/exoplayer2/w;IZI)V@24	 lastOffset = a8
+b29e6a69: Instruction@@: IF_NEZ
+b29e6a69: First address of Lcom/google/android/exoplayer2/l;->G()Z = 5d4c5c
+b29e6a69: Address - Lcom/google/android/exoplayer2/l;->G()Z@18	 lastOffset = 24
+b29e6a69: Instruction@@: IF_LEZ
+159ceeed: patching method: com.facebook.drawee.controller.AbstractDraweeController/onProgressUpdateInternal:(Ljava/lang/String;Lcom/facebook/datasource/DataSource;FZ)V
+159ceeed: patching method: com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z
+159ceeed: patching method: com.google.android.exoplayer2.a.a$c/a:()Lcom/google/android/exoplayer2/a/a$b;
+159ceeed: patching method: com.google.android.exoplayer2.l/a:(Lcom/google/android/exoplayer2/w;IZI)V
+159ceeed: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened_devDebug
+Wow!!!!!  --  com.facebook.drawee.controller.AbstractDraweeController/onProgressUpdateInternal:(Ljava/lang/String;Lcom/facebook/datasource/DataSource;FZ)V
+fallthrough: 24
+branchTarget: 30
+label = cond_1
+GOTO -- 24 	30
+Wow!!!!!  --  com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z
+fallthrough: 206
+branchTarget: 1e6
+label = sswitch_data_8
+GOTO -- 206 	1e6
+Wow!!!!!  --  com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z
+fallthrough: 2ae
+branchTarget: 12
+label = goto_0
+GOTO -- 2ae 	12
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened_devDebug/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened_devDebug/sample12-pizza-2min-need.apk.obfuscated_olay_flattened.apk
+159ceeed: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened_devDebug/signed_sample12-pizza-2min-need.apk.obfuscated_olay_flattened.apk
+159ceeed: First address of Lcom/facebook/drawee/controller/AbstractDraweeController;->onProgressUpdateInternal(Ljava/lang/String;Lcom/facebook/datasource/DataSource;FZ)V = 4c268c
+159ceeed: Address - Lcom/facebook/drawee/controller/AbstractDraweeController;->onProgressUpdateInternal(Ljava/lang/String;Lcom/facebook/datasource/DataSource;FZ)V@20	 lastOffset = 30
+159ceeed: Instruction@@: IF_NEZ
+159ceeed: First address of Lcom/gantix/JailMonkey/e/d;->a(Landroid/content/Context;)Z = 5584d8
+159ceeed: Address - Lcom/gantix/JailMonkey/e/d;->a(Landroid/content/Context;)Z@2aa	 lastOffset = 454
+159ceeed: Instruction@@: GOTO_16
+159ceeed: First address of Lcom/gantix/JailMonkey/e/d;->a(Landroid/content/Context;)Z = 5584d8
+159ceeed: Address - Lcom/gantix/JailMonkey/e/d;->a(Landroid/content/Context;)Z@200	 lastOffset = 454
+159ceeed: Instruction@@: SPARSE_SWITCH
+159ceeed: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened_devDebug/signed_sample12-pizza-2min-need.apk.obfuscated_olay_flattened.apk
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened_devRoot/signed_sample12-pizza-2min-need.apk.obfuscated_olay_flattened.apk
+159ceeed: Installation Success
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+159ceeed: startApplication called! - devDebug
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample12-pizza-2min-need.obfuscated_olay_flattened.ilog)
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample12-pizza-2min-need.obfuscated_olay_flattened.ilog)
+b29e6a69: Running Application: com.pizzaexpress.appv2
+PIDs--------------------------------------------------------------------------
+u0_a103       12015    425 13952160 99104 0                   0 R com.pizzaexpress.appv2
+forward tcp:5005 jdwp:12015
+[*]Found JDWP Target: 12015
+159ceeed: Running Application: com.pizzaexpress.appv2
+159ceeed: Running is done - starting comparing... : 10001
+159ceeed: Terminated logcat thread...by itself
+159ceeed: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.pizzaexpress.appv2
+Tryging remove : uninstall com.pizzaexpress.appv2(com.pizzaexpress.appv2)
+159ceeed: Remove Success
+159ceeed: ilog file size: 152476348
+159ceeed: End of collecting logcat...
+b29e6a69: Running is done - starting comparing... : 10001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.pizzaexpress.appv2
+Tryging remove : uninstall com.pizzaexpress.appv2(com.pizzaexpress.appv2)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 132771800
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 25
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+b29e6a69: /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened.apk launch is failed on devRoot
+159ceeed: isFailedToLaunch: com.android.launcher3/.Launcher
+159ceeed: 	--result: Failed :( (1)
+159ceeed: /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened.apk launch is failed on devDebug
+b29e6a69: Failed Patch: 558638
+159ceeed: Failed Patch: 5586d8
+159ceeed: adding filter -- 4c269c
+b29e6a69: adding filter -- 5d4c64
+159ceeed: adding filter -- 558772
+b29e6a69: adding filter -- 5d4dfc
+b29e6a69: adding filter -- 570d30
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 5d4dfc
+-- current localPatchFilter: 570d30
+-- current localPatchFilter: 5d4c64
+-- current localPatchFilter: 558628
+Action is completely same :)
+android.app.Dialog/show:()V:38b470		=(rels)=>		1
+[*] Unique action: 1:1015646 : <<CALL>> : android.support.v4.app.DialogFragment/onStart:()V:38b470  =>  android.app.Dialog/show:()V:1b4adc
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 4c269c
+-- current localPatchFilter: 558772
+-- current localPatchFilter: 5586c8
+Action is completely same :)
+android.app.Dialog/show:()V:38b470		=(rels)=>		1
+[*] Unique action: 1:1085365 : <<CALL>> : android.support.v4.app.DialogFragment/onStart:()V:38b470  =>  android.app.Dialog/show:()V:1b4adc
+@@intraTimelineAnalysis -- 
+Entry: 5584c8
+com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 558660 -> 558664
+		com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 198 -> 19c
+addPatchReadme: java.lang.Class<com.gantix.JailMonkey.e.d>a(Landroid/content/Context;)Z 198 f
+Entry: 5584c8
+com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 558650 -> 558676
+		com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 188 -> 1ae
+addPatchReadme: java.lang.Class<com.gantix.JailMonkey.e.d>a(Landroid/content/Context;)Z 188 t
+Entry: 5584c8
+com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 558600 -> 558682
+		com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 138 -> 1ba
+addPatchReadme: java.lang.Class<com.gantix.JailMonkey.e.d>a(Landroid/content/Context;)Z 138 t
+Entry: 5584c8
+com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 558700 -> 55870a
+		com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 238 -> 242
+addPatchReadme: java.lang.Class<com.gantix.JailMonkey.e.d>a(Landroid/content/Context;)Z 238 t
+Entry: 5584c8
+com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 558772 -> 5584da
+		com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 2aa -> 12
+addPatchReadme: java.lang.Class<com.gantix.JailMonkey.e.d>a(Landroid/content/Context;)Z 2aa t
+Entry: 5584c8
+com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 55850e -> 55876e
+		com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 46 -> 2a6
+addPatchReadme: java.lang.Class<com.gantix.JailMonkey.e.d>a(Landroid/content/Context;)Z 46 t
+b29e6a69: [+] Patches found in this round: 6
+b29e6a69: [*] Found Patch size: 1
+ExitReason-Code: 4 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample12-pizza-2min-need.obfuscated_olay_flattened.ilog)
+	System.exit called in native code!
+b29e6a69: @@localPatchFilter -- 5d4e0c
+b29e6a69: @@localPatchFilter -- 570d40
+b29e6a69: @@localPatchFilter -- 5d4c74
+b29e6a69: @@localPatchFilter -- 558638
+b29e6a69: 	@@@Found patch addr: 55851e
+b29e6a69: Querying offset: 55850e
+b29e6a69: 	--Add method name to patch = com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z 	55850e
+@@intraTimelineAnalysis -- 
+Entry: 5584c8
+com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 55869e -> 55875e
+		com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 1d6 -> 296
+addPatchReadme: java.lang.Class<com.gantix.JailMonkey.e.d>a(Landroid/content/Context;)Z 1d6 t
+Entry: 5584c8
+com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 55850e -> 558776
+		com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 46 -> 2ae
+addPatchReadme: java.lang.Class<com.gantix.JailMonkey.e.d>a(Landroid/content/Context;)Z 46 t
+Entry: 5584c8
+com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 558700 -> 55870a
+		com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 238 -> 242
+addPatchReadme: java.lang.Class<com.gantix.JailMonkey.e.d>a(Landroid/content/Context;)Z 238 t
+Entry: 5584c8
+com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 5586f0 -> 5586d6
+		com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 228 -> 20e
+addPatchReadme: java.lang.Class<com.gantix.JailMonkey.e.d>a(Landroid/content/Context;)Z 228 t
+159ceeed: [+] Patches found in this round: 4
+159ceeed: [*] Found Patch size: 1
+ExitReason-Code: 4 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample12-pizza-2min-need.obfuscated_olay_flattened.ilog)
+	System.exit called in native code!
+159ceeed: @@localPatchFilter -- 4c26ac
+159ceeed: @@localPatchFilter -- 558782
+159ceeed: @@localPatchFilter -- 5586d8
+159ceeed: 	@@@Found patch addr: 558700
+159ceeed: Querying offset: 5586f0
+159ceeed: 	--Add method name to patch = com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z 	5586f0
+Devices presenting anti-analysis: 
+	devRoot
+	devDebug
+b29e6a69: patching method: com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z
+b29e6a69: patching method: com.google.android.exoplayer2.a.a$c/a:()Lcom/google/android/exoplayer2/a/a$b;
+b29e6a69: patching method: com.google.android.exoplayer2.l/a:(Lcom/google/android/exoplayer2/w;IZI)V
+b29e6a69: patching method: com.google.android.exoplayer2.l/G:()Z
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened_devRoot
+Wow!!!!!  --  com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z
+fallthrough: 4c
+branchTarget: 2a6
+label = sswitch_data_0
+GOTO -- 4c 	2a6
+Wow!!!!!  --  com.google.android.exoplayer2.a.a$c/a:()Lcom/google/android/exoplayer2/a/a$b;
+fallthrough: 28
+branchTarget: 28
+NOP!
+Wow!!!!!  --  com.google.android.exoplayer2.l/G:()Z
+fallthrough: 1c
+branchTarget: 1c
+NOP!
+Wow!!!!!  --  com.google.android.exoplayer2.l/a:(Lcom/google/android/exoplayer2/w;IZI)V
+fallthrough: 28
+branchTarget: 28
+NOP!
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened_devRoot/sample12-pizza-2min-need.apk.obfuscated_olay_flattened.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened_devRoot/signed_sample12-pizza-2min-need.apk.obfuscated_olay_flattened.apk
+b29e6a69: First address of Lcom/gantix/JailMonkey/e/d;->a(Landroid/content/Context;)Z = 5584d8
+b29e6a69: Address - Lcom/gantix/JailMonkey/e/d;->a(Landroid/content/Context;)Z@46	 lastOffset = 454
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: First address of Lcom/google/android/exoplayer2/a/a$c;->a()Lcom/google/android/exoplayer2/a/a$b; = 570d1c
+b29e6a69: Address - Lcom/google/android/exoplayer2/a/a$c;->a()Lcom/google/android/exoplayer2/a/a$b;@24	 lastOffset = 40
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Lcom/google/android/exoplayer2/l;->a(Lcom/google/android/exoplayer2/w;IZI)V = 5d4de8
+b29e6a69: Address - Lcom/google/android/exoplayer2/l;->a(Lcom/google/android/exoplayer2/w;IZI)V@24	 lastOffset = a8
+b29e6a69: Instruction@@: IF_NEZ
+b29e6a69: First address of Lcom/google/android/exoplayer2/l;->G()Z = 5d4c5c
+b29e6a69: Address - Lcom/google/android/exoplayer2/l;->G()Z@18	 lastOffset = 24
+b29e6a69: Instruction@@: IF_LEZ
+159ceeed: patching method: com.facebook.drawee.controller.AbstractDraweeController/onProgressUpdateInternal:(Ljava/lang/String;Lcom/facebook/datasource/DataSource;FZ)V
+159ceeed: patching method: com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z
+159ceeed: patching method: com.google.android.exoplayer2.a.a$c/a:()Lcom/google/android/exoplayer2/a/a$b;
+159ceeed: patching method: com.google.android.exoplayer2.l/a:(Lcom/google/android/exoplayer2/w;IZI)V
+159ceeed: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened_devDebug
+Wow!!!!!  --  com.facebook.drawee.controller.AbstractDraweeController/onProgressUpdateInternal:(Ljava/lang/String;Lcom/facebook/datasource/DataSource;FZ)V
+fallthrough: 24
+branchTarget: 30
+label = cond_1
+GOTO -- 24 	30
+Wow!!!!!  --  com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z
+fallthrough: 22e
+branchTarget: 20e
+label = sswitch_data_9
+GOTO -- 22e 	20e
+Wow!!!!!  --  com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z
+fallthrough: 2ae
+branchTarget: 12
+label = goto_0
+GOTO -- 2ae 	12
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened_devDebug/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened_devDebug/sample12-pizza-2min-need.apk.obfuscated_olay_flattened.apk
+159ceeed: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened_devDebug/signed_sample12-pizza-2min-need.apk.obfuscated_olay_flattened.apk
+159ceeed: First address of Lcom/facebook/drawee/controller/AbstractDraweeController;->onProgressUpdateInternal(Ljava/lang/String;Lcom/facebook/datasource/DataSource;FZ)V = 4c268c
+159ceeed: Address - Lcom/facebook/drawee/controller/AbstractDraweeController;->onProgressUpdateInternal(Ljava/lang/String;Lcom/facebook/datasource/DataSource;FZ)V@20	 lastOffset = 30
+159ceeed: Instruction@@: IF_NEZ
+159ceeed: First address of Lcom/gantix/JailMonkey/e/d;->a(Landroid/content/Context;)Z = 5584d8
+159ceeed: Address - Lcom/gantix/JailMonkey/e/d;->a(Landroid/content/Context;)Z@228	 lastOffset = 454
+159ceeed: Instruction@@: SPARSE_SWITCH
+159ceeed: First address of Lcom/gantix/JailMonkey/e/d;->a(Landroid/content/Context;)Z = 5584d8
+159ceeed: Address - Lcom/gantix/JailMonkey/e/d;->a(Landroid/content/Context;)Z@2aa	 lastOffset = 454
+159ceeed: Instruction@@: GOTO_16
+159ceeed: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened_devDebug/signed_sample12-pizza-2min-need.apk.obfuscated_olay_flattened.apk
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened_devRoot/signed_sample12-pizza-2min-need.apk.obfuscated_olay_flattened.apk
+159ceeed: Installation Success
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+159ceeed: startApplication called! - devDebug
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample12-pizza-2min-need.obfuscated_olay_flattened.ilog)
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample12-pizza-2min-need.obfuscated_olay_flattened.ilog)
+b29e6a69: Running Application: com.pizzaexpress.appv2
+PIDs--------------------------------------------------------------------------
+u0_a104       12434    425 13952716 100268 0                  0 R com.pizzaexpress.appv2
+forward tcp:5005 jdwp:12434
+[*]Found JDWP Target: 12434
+159ceeed: Running Application: com.pizzaexpress.appv2
+159ceeed: Running is done - starting comparing... : 10001
+159ceeed: Terminated logcat thread...by itself
+159ceeed: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.pizzaexpress.appv2
+Tryging remove : uninstall com.pizzaexpress.appv2(com.pizzaexpress.appv2)
+159ceeed: Remove Success
+159ceeed: ilog file size: 130339000
+159ceeed: End of collecting logcat...
+b29e6a69: Running is done - starting comparing... : 10001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.pizzaexpress.appv2
+Tryging remove : uninstall com.pizzaexpress.appv2(com.pizzaexpress.appv2)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 130577171
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 24
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+b29e6a69: /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened.apk launch is failed on devRoot
+159ceeed: isFailedToLaunch: com.android.launcher3/.Launcher
+159ceeed: 	--result: Failed :( (1)
+159ceeed: /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened.apk launch is failed on devDebug
+b29e6a69: Failed Patch: 55851e
+159ceeed: Failed Patch: 558700
+159ceeed: adding filter -- 4c269c
+b29e6a69: adding filter -- 5d4c64
+159ceeed: adding filter -- 558772
+b29e6a69: adding filter -- 5d4dfc
+b29e6a69: adding filter -- 570d30
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 5d4dfc
+-- current localPatchFilter: 570d30
+-- current localPatchFilter: 5d4c64
+-- current localPatchFilter: 55850e
+-- current localPatchFilter: 558628
+Action is completely same :)
+android.app.Dialog/show:()V:38b470		=(rels)=>		1
+[*] Unique action: 1:1015646 : <<CALL>> : android.support.v4.app.DialogFragment/onStart:()V:38b470  =>  android.app.Dialog/show:()V:1b4adc
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 4c269c
+-- current localPatchFilter: 5586f0
+-- current localPatchFilter: 558772
+-- current localPatchFilter: 5586c8
+Action is completely same :)
+android.app.Dialog/show:()V:38b470		=(rels)=>		1
+[*] Unique action: 1:1085365 : <<CALL>> : android.support.v4.app.DialogFragment/onStart:()V:38b470  =>  android.app.Dialog/show:()V:1b4adc
+@@intraTimelineAnalysis -- 
+Entry: 5584c8
+com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 558660 -> 558664
+		com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 198 -> 19c
+addPatchReadme: java.lang.Class<com.gantix.JailMonkey.e.d>a(Landroid/content/Context;)Z 198 f
+Entry: 5584c8
+com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 558650 -> 558676
+		com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 188 -> 1ae
+addPatchReadme: java.lang.Class<com.gantix.JailMonkey.e.d>a(Landroid/content/Context;)Z 188 t
+Entry: 5584c8
+com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 558600 -> 558682
+		com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 138 -> 1ba
+addPatchReadme: java.lang.Class<com.gantix.JailMonkey.e.d>a(Landroid/content/Context;)Z 138 t
+Entry: 5584c8
+com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 558700 -> 55870a
+		com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 238 -> 242
+addPatchReadme: java.lang.Class<com.gantix.JailMonkey.e.d>a(Landroid/content/Context;)Z 238 t
+Entry: 5584c8
+com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 558772 -> 5584da
+		com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 2aa -> 12
+addPatchReadme: java.lang.Class<com.gantix.JailMonkey.e.d>a(Landroid/content/Context;)Z 2aa t
+b29e6a69: [+] Patches found in this round: 5
+b29e6a69: [*] Found Patch size: 1
+ExitReason-Code: 4 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample12-pizza-2min-need.obfuscated_olay_flattened.ilog)
+	System.exit called in native code!
+b29e6a69: @@localPatchFilter -- 5d4e0c
+b29e6a69: @@localPatchFilter -- 570d40
+b29e6a69: @@localPatchFilter -- 5d4c74
+b29e6a69: @@localPatchFilter -- 55851e
+b29e6a69: @@localPatchFilter -- 558638
+b29e6a69: 	@@@Found patch addr: 558782
+b29e6a69: Querying offset: 558772
+b29e6a69: 	--Add method name to patch = com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z 	558772
+@@intraTimelineAnalysis -- 
+Entry: 5584c8
+com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 55869e -> 55875e
+		com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 1d6 -> 296
+addPatchReadme: java.lang.Class<com.gantix.JailMonkey.e.d>a(Landroid/content/Context;)Z 1d6 t
+Entry: 5584c8
+com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 55850e -> 558776
+		com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 46 -> 2ae
+addPatchReadme: java.lang.Class<com.gantix.JailMonkey.e.d>a(Landroid/content/Context;)Z 46 t
+Entry: 5584c8
+com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 558700 -> 55870a
+		com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 238 -> 242
+addPatchReadme: java.lang.Class<com.gantix.JailMonkey.e.d>a(Landroid/content/Context;)Z 238 t
+159ceeed: [+] Patches found in this round: 3
+159ceeed: [*] Found Patch size: 1
+ExitReason-Code: 4 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample12-pizza-2min-need.obfuscated_olay_flattened.ilog)
+	System.exit called in native code!
+159ceeed: @@localPatchFilter -- 4c26ac
+159ceeed: @@localPatchFilter -- 558700
+159ceeed: @@localPatchFilter -- 558782
+159ceeed: @@localPatchFilter -- 5586d8
+159ceeed: 	@@@Found patch addr: 558710
+159ceeed: Querying offset: 558700
+159ceeed: 	--Add method name to patch = com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z 	558700
+Devices presenting anti-analysis: 
+	devRoot
+	devDebug
+b29e6a69: patching method: com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z
+b29e6a69: patching method: com.google.android.exoplayer2.a.a$c/a:()Lcom/google/android/exoplayer2/a/a$b;
+b29e6a69: patching method: com.google.android.exoplayer2.l/a:(Lcom/google/android/exoplayer2/w;IZI)V
+b29e6a69: patching method: com.google.android.exoplayer2.l/G:()Z
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened_devRoot
+Wow!!!!!  --  com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z
+fallthrough: 2ae
+branchTarget: 12
+label = goto_0
+GOTO -- 2ae 	12
+Wow!!!!!  --  com.google.android.exoplayer2.a.a$c/a:()Lcom/google/android/exoplayer2/a/a$b;
+fallthrough: 28
+branchTarget: 28
+NOP!
+Wow!!!!!  --  com.google.android.exoplayer2.l/G:()Z
+fallthrough: 1c
+branchTarget: 1c
+NOP!
+Wow!!!!!  --  com.google.android.exoplayer2.l/a:(Lcom/google/android/exoplayer2/w;IZI)V
+fallthrough: 28
+branchTarget: 28
+NOP!
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened_devRoot/sample12-pizza-2min-need.apk.obfuscated_olay_flattened.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened_devRoot/signed_sample12-pizza-2min-need.apk.obfuscated_olay_flattened.apk
+b29e6a69: First address of Lcom/gantix/JailMonkey/e/d;->a(Landroid/content/Context;)Z = 5584d8
+b29e6a69: Address - Lcom/gantix/JailMonkey/e/d;->a(Landroid/content/Context;)Z@2aa	 lastOffset = 454
+b29e6a69: Instruction@@: GOTO_16
+b29e6a69: First address of Lcom/google/android/exoplayer2/a/a$c;->a()Lcom/google/android/exoplayer2/a/a$b; = 570d1c
+b29e6a69: Address - Lcom/google/android/exoplayer2/a/a$c;->a()Lcom/google/android/exoplayer2/a/a$b;@24	 lastOffset = 40
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Lcom/google/android/exoplayer2/l;->a(Lcom/google/android/exoplayer2/w;IZI)V = 5d4de8
+b29e6a69: Address - Lcom/google/android/exoplayer2/l;->a(Lcom/google/android/exoplayer2/w;IZI)V@24	 lastOffset = a8
+b29e6a69: Instruction@@: IF_NEZ
+b29e6a69: First address of Lcom/google/android/exoplayer2/l;->G()Z = 5d4c5c
+b29e6a69: Address - Lcom/google/android/exoplayer2/l;->G()Z@18	 lastOffset = 24
+b29e6a69: Instruction@@: IF_LEZ
+159ceeed: patching method: com.facebook.drawee.controller.AbstractDraweeController/onProgressUpdateInternal:(Ljava/lang/String;Lcom/facebook/datasource/DataSource;FZ)V
+159ceeed: patching method: com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z
+159ceeed: patching method: com.google.android.exoplayer2.a.a$c/a:()Lcom/google/android/exoplayer2/a/a$b;
+159ceeed: patching method: com.google.android.exoplayer2.l/a:(Lcom/google/android/exoplayer2/w;IZI)V
+159ceeed: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened_devDebug
+Wow!!!!!  --  com.facebook.drawee.controller.AbstractDraweeController/onProgressUpdateInternal:(Ljava/lang/String;Lcom/facebook/datasource/DataSource;FZ)V
+fallthrough: 24
+branchTarget: 30
+label = cond_1
+GOTO -- 24 	30
+Wow!!!!!  --  com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z
+fallthrough: 23c
+branchTarget: 242
+label = cond_2
+GOTO -- 23c 	242
+Wow!!!!!  --  com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z
+fallthrough: 2ae
+branchTarget: 12
+label = goto_0
+GOTO -- 2ae 	12
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened_devDebug/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened_devDebug/sample12-pizza-2min-need.apk.obfuscated_olay_flattened.apk
+159ceeed: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened_devDebug/signed_sample12-pizza-2min-need.apk.obfuscated_olay_flattened.apk
+159ceeed: First address of Lcom/facebook/drawee/controller/AbstractDraweeController;->onProgressUpdateInternal(Ljava/lang/String;Lcom/facebook/datasource/DataSource;FZ)V = 4c268c
+159ceeed: Address - Lcom/facebook/drawee/controller/AbstractDraweeController;->onProgressUpdateInternal(Ljava/lang/String;Lcom/facebook/datasource/DataSource;FZ)V@20	 lastOffset = 30
+159ceeed: Instruction@@: IF_NEZ
+159ceeed: First address of Lcom/gantix/JailMonkey/e/d;->a(Landroid/content/Context;)Z = 5584d8
+159ceeed: Address - Lcom/gantix/JailMonkey/e/d;->a(Landroid/content/Context;)Z@238	 lastOffset = 454
+159ceeed: Instruction@@: IF_EQZ
+159ceeed: First address of Lcom/gantix/JailMonkey/e/d;->a(Landroid/content/Context;)Z = 5584d8
+159ceeed: Address - Lcom/gantix/JailMonkey/e/d;->a(Landroid/content/Context;)Z@2aa	 lastOffset = 454
+159ceeed: Instruction@@: GOTO_16
+159ceeed: (Not Installed) Trying remove : true
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened_devDebug/signed_sample12-pizza-2min-need.apk.obfuscated_olay_flattened.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened_devRoot/signed_sample12-pizza-2min-need.apk.obfuscated_olay_flattened.apk
+159ceeed: Installation Success
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+159ceeed: startApplication called! - devDebug
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample12-pizza-2min-need.obfuscated_olay_flattened.ilog)
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample12-pizza-2min-need.obfuscated_olay_flattened.ilog)
+b29e6a69: Running Application: com.pizzaexpress.appv2
+PIDs--------------------------------------------------------------------------
+u0_a105       12844    425 13952160 99736 0                   0 S com.pizzaexpress.appv2
+forward tcp:5005 jdwp:12844
+[*]Found JDWP Target: 12844
+159ceeed: Running Application: com.pizzaexpress.appv2
+b29e6a69: Top-activity: com.pizzaexpress.appv2/.MainActivity
+PIDs--------------------------------------------------------------------------
+u0_a3774      27292    430 52977144 237900 0                  0 R com.pizzaexpress.appv2
+b29e6a69: Terminated logcat thread...by itself
+PIDs--------------------------------------------------------------------------
+u0_a3774      27292    430 52977144 238160 0                  0 R com.pizzaexpress.appv2
+Stopping app: com.pizzaexpress.appv2
+159ceeed: Top-activity: com.pizzaexpress.appv2/.MainActivity
+PIDs--------------------------------------------------------------------------
+u0_a105       12844    425 51858692 247452 0                  0 S com.pizzaexpress.appv2
+159ceeed: Terminated logcat thread...by itself
+PIDs--------------------------------------------------------------------------
+u0_a105       12844    425 51858692 247452 0                  0 S com.pizzaexpress.appv2
+Stopping app: com.pizzaexpress.appv2
+Tryging remove : uninstall com.pizzaexpress.appv2(com.pizzaexpress.appv2)
+159ceeed: Remove Success
+159ceeed: ilog file size: 511985930
+159ceeed: End of collecting logcat...
+Tryging remove : uninstall com.pizzaexpress.appv2(com.pizzaexpress.appv2)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 371512228
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 23
+b29e6a69: isFailedToLaunch: com.pizzaexpress.appv2/.MainActivity
+b29e6a69: 	--result: Good :)
+159ceeed: isFailedToLaunch: com.pizzaexpress.appv2/.MainActivity
+159ceeed: 	--result: Good :)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample12-pizza-2min-need.obfuscated_olay_flattened.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample12-pizza-2min-need.obfuscated_olay_flattened.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample12-pizza-2min-need.obfuscated_olay_flattened.ilog)
+b29e6a69: adding filter -- 5d4c64
+b29e6a69: adding filter -- 5d4dfc
+b29e6a69: adding filter -- 570d30
+b29e6a69: adding filter -- 558772
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample12-pizza-2min-need.obfuscated_olay_flattened.ilog)
+159ceeed: adding filter -- 4c269c
+159ceeed: adding filter -- 558700
+159ceeed: adding filter -- 558772
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 5d4dfc
+-- current localPatchFilter: 558772
+-- current localPatchFilter: 570d30
+-- current localPatchFilter: 5d4c64
+Action is completely same :)
+android.app.Dialog/show:()V:38b470		=(rels)=>		1
+[*] Unique action: 1:1004119 : <<CALL>> : android.support.v4.app.DialogFragment/onStart:()V:38b470  =>  android.app.Dialog/show:()V:1b4adc
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 4c269c
+-- current localPatchFilter: 558700
+-- current localPatchFilter: 558772
+Action is completely same :)
+Action is completely same :)
+159ceeed: There is no difference. (tryAgain=false)
+@@intraTimelineAnalysis -- 
+Entry: 5584c8
+com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 558660 -> 558664
+		com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 198 -> 19c
+addPatchReadme: java.lang.Class<com.gantix.JailMonkey.e.d>a(Landroid/content/Context;)Z 198 f
+Entry: 5584c8
+com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 558650 -> 558676
+		com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 188 -> 1ae
+addPatchReadme: java.lang.Class<com.gantix.JailMonkey.e.d>a(Landroid/content/Context;)Z 188 t
+Entry: 5584c8
+com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 558600 -> 558682
+		com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 138 -> 1ba
+addPatchReadme: java.lang.Class<com.gantix.JailMonkey.e.d>a(Landroid/content/Context;)Z 138 t
+Entry: 5584c8
+com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 558700 -> 55870a
+		com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 238 -> 242
+addPatchReadme: java.lang.Class<com.gantix.JailMonkey.e.d>a(Landroid/content/Context;)Z 238 t
+Entry: 5584c8
+com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 55850e -> 558776
+		com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 46 -> 2ae
+addPatchReadme: java.lang.Class<com.gantix.JailMonkey.e.d>a(Landroid/content/Context;)Z 46 t
+Entry: 5584c8
+com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 558628 -> 55867c
+		com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 160 -> 1b4
+addPatchReadme: java.lang.Class<com.gantix.JailMonkey.e.d>a(Landroid/content/Context;)Z 160 t
+b29e6a69: [+] Patches found in this round: 6
+b29e6a69: [*] Found Patch size: 1
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample12-pizza-2min-need.obfuscated_olay_flattened.ilog)
+b29e6a69: @@localPatchFilter -- 5d4e0c
+b29e6a69: @@localPatchFilter -- 558782
+b29e6a69: @@localPatchFilter -- 570d40
+b29e6a69: @@localPatchFilter -- 5d4c74
+b29e6a69: 	@@@Found patch addr: 558638
+b29e6a69: Querying offset: 558628
+b29e6a69: 	--Add method name to patch = com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z 	558628
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: patching method: com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z
+b29e6a69: patching method: com.google.android.exoplayer2.a.a$c/a:()Lcom/google/android/exoplayer2/a/a$b;
+b29e6a69: patching method: com.google.android.exoplayer2.l/a:(Lcom/google/android/exoplayer2/w;IZI)V
+b29e6a69: patching method: com.google.android.exoplayer2.l/G:()Z
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened_devRoot
+Wow!!!!!  --  com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z
+fallthrough: 166
+branchTarget: 1b4
+label = sswitch_data_5
+GOTO -- 166 	1b4
+Wow!!!!!  --  com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z
+fallthrough: 2ae
+branchTarget: 12
+label = goto_0
+GOTO -- 2ae 	12
+Wow!!!!!  --  com.google.android.exoplayer2.a.a$c/a:()Lcom/google/android/exoplayer2/a/a$b;
+fallthrough: 28
+branchTarget: 28
+NOP!
+Wow!!!!!  --  com.google.android.exoplayer2.l/G:()Z
+fallthrough: 1c
+branchTarget: 1c
+NOP!
+Wow!!!!!  --  com.google.android.exoplayer2.l/a:(Lcom/google/android/exoplayer2/w;IZI)V
+fallthrough: 28
+branchTarget: 28
+NOP!
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened_devRoot/sample12-pizza-2min-need.apk.obfuscated_olay_flattened.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened_devRoot/signed_sample12-pizza-2min-need.apk.obfuscated_olay_flattened.apk
+b29e6a69: First address of Lcom/gantix/JailMonkey/e/d;->a(Landroid/content/Context;)Z = 5584d8
+b29e6a69: Address - Lcom/gantix/JailMonkey/e/d;->a(Landroid/content/Context;)Z@2aa	 lastOffset = 454
+b29e6a69: Instruction@@: GOTO_16
+b29e6a69: First address of Lcom/gantix/JailMonkey/e/d;->a(Landroid/content/Context;)Z = 5584d8
+b29e6a69: Address - Lcom/gantix/JailMonkey/e/d;->a(Landroid/content/Context;)Z@160	 lastOffset = 454
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: First address of Lcom/google/android/exoplayer2/a/a$c;->a()Lcom/google/android/exoplayer2/a/a$b; = 570d1c
+b29e6a69: Address - Lcom/google/android/exoplayer2/a/a$c;->a()Lcom/google/android/exoplayer2/a/a$b;@24	 lastOffset = 40
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Lcom/google/android/exoplayer2/l;->a(Lcom/google/android/exoplayer2/w;IZI)V = 5d4de8
+b29e6a69: Address - Lcom/google/android/exoplayer2/l;->a(Lcom/google/android/exoplayer2/w;IZI)V@24	 lastOffset = a8
+b29e6a69: Instruction@@: IF_NEZ
+b29e6a69: First address of Lcom/google/android/exoplayer2/l;->G()Z = 5d4c5c
+b29e6a69: Address - Lcom/google/android/exoplayer2/l;->G()Z@18	 lastOffset = 24
+b29e6a69: Instruction@@: IF_LEZ
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened_devRoot/signed_sample12-pizza-2min-need.apk.obfuscated_olay_flattened.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample12-pizza-2min-need.obfuscated_olay_flattened.ilog)
+b29e6a69: Running Application: com.pizzaexpress.appv2
+b29e6a69: Running is done - starting comparing... : 10001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.pizzaexpress.appv2
+Tryging remove : uninstall com.pizzaexpress.appv2(com.pizzaexpress.appv2)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 135284910
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 22
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+b29e6a69: /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened.apk launch is failed on devRoot
+b29e6a69: Failed Patch: 558638
+b29e6a69: adding filter -- 5d4c64
+b29e6a69: adding filter -- 5d4dfc
+b29e6a69: adding filter -- 570d30
+b29e6a69: adding filter -- 558772
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 5d4dfc
+-- current localPatchFilter: 558772
+-- current localPatchFilter: 570d30
+-- current localPatchFilter: 5d4c64
+-- current localPatchFilter: 558628
+Action is completely same :)
+android.app.Dialog/show:()V:38b470		=(rels)=>		1
+[*] Unique action: 1:1004119 : <<CALL>> : android.support.v4.app.DialogFragment/onStart:()V:38b470  =>  android.app.Dialog/show:()V:1b4adc
+@@intraTimelineAnalysis -- 
+Entry: 5584c8
+com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 55850e -> 558776
+		com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 46 -> 2ae
+addPatchReadme: java.lang.Class<com.gantix.JailMonkey.e.d>a(Landroid/content/Context;)Z 46 t
+Entry: 5584c8
+com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 558660 -> 558664
+		com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 198 -> 19c
+addPatchReadme: java.lang.Class<com.gantix.JailMonkey.e.d>a(Landroid/content/Context;)Z 198 f
+Entry: 5584c8
+com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 558650 -> 558676
+		com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 188 -> 1ae
+addPatchReadme: java.lang.Class<com.gantix.JailMonkey.e.d>a(Landroid/content/Context;)Z 188 t
+Entry: 5584c8
+com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 558600 -> 558682
+		com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 138 -> 1ba
+addPatchReadme: java.lang.Class<com.gantix.JailMonkey.e.d>a(Landroid/content/Context;)Z 138 t
+Entry: 5584c8
+com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 558700 -> 55870a
+		com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 238 -> 242
+addPatchReadme: java.lang.Class<com.gantix.JailMonkey.e.d>a(Landroid/content/Context;)Z 238 t
+b29e6a69: [+] Patches found in this round: 5
+b29e6a69: [*] Found Patch size: 1
+ExitReason-Code: 4 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample12-pizza-2min-need.obfuscated_olay_flattened.ilog)
+	System.exit called in native code!
+b29e6a69: @@localPatchFilter -- 5d4e0c
+b29e6a69: @@localPatchFilter -- 558782
+b29e6a69: @@localPatchFilter -- 570d40
+b29e6a69: @@localPatchFilter -- 5d4c74
+b29e6a69: @@localPatchFilter -- 558638
+b29e6a69: 	@@@Found patch addr: 558710
+b29e6a69: Querying offset: 558700
+b29e6a69: 	--Add method name to patch = com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z 	558700
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: patching method: com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z
+b29e6a69: patching method: com.google.android.exoplayer2.a.a$c/a:()Lcom/google/android/exoplayer2/a/a$b;
+b29e6a69: patching method: com.google.android.exoplayer2.l/a:(Lcom/google/android/exoplayer2/w;IZI)V
+b29e6a69: patching method: com.google.android.exoplayer2.l/G:()Z
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened_devRoot
+Wow!!!!!  --  com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z
+fallthrough: 23c
+branchTarget: 242
+label = cond_2
+GOTO -- 23c 	242
+Wow!!!!!  --  com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z
+fallthrough: 2ae
+branchTarget: 12
+label = goto_0
+GOTO -- 2ae 	12
+Wow!!!!!  --  com.google.android.exoplayer2.a.a$c/a:()Lcom/google/android/exoplayer2/a/a$b;
+fallthrough: 28
+branchTarget: 28
+NOP!
+Wow!!!!!  --  com.google.android.exoplayer2.l/G:()Z
+fallthrough: 1c
+branchTarget: 1c
+NOP!
+Wow!!!!!  --  com.google.android.exoplayer2.l/a:(Lcom/google/android/exoplayer2/w;IZI)V
+fallthrough: 28
+branchTarget: 28
+NOP!
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened_devRoot/sample12-pizza-2min-need.apk.obfuscated_olay_flattened.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened_devRoot/signed_sample12-pizza-2min-need.apk.obfuscated_olay_flattened.apk
+b29e6a69: First address of Lcom/gantix/JailMonkey/e/d;->a(Landroid/content/Context;)Z = 5584d8
+b29e6a69: Address - Lcom/gantix/JailMonkey/e/d;->a(Landroid/content/Context;)Z@238	 lastOffset = 454
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Lcom/gantix/JailMonkey/e/d;->a(Landroid/content/Context;)Z = 5584d8
+b29e6a69: Address - Lcom/gantix/JailMonkey/e/d;->a(Landroid/content/Context;)Z@2aa	 lastOffset = 454
+b29e6a69: Instruction@@: GOTO_16
+b29e6a69: First address of Lcom/google/android/exoplayer2/a/a$c;->a()Lcom/google/android/exoplayer2/a/a$b; = 570d1c
+b29e6a69: Address - Lcom/google/android/exoplayer2/a/a$c;->a()Lcom/google/android/exoplayer2/a/a$b;@24	 lastOffset = 40
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Lcom/google/android/exoplayer2/l;->a(Lcom/google/android/exoplayer2/w;IZI)V = 5d4de8
+b29e6a69: Address - Lcom/google/android/exoplayer2/l;->a(Lcom/google/android/exoplayer2/w;IZI)V@24	 lastOffset = a8
+b29e6a69: Instruction@@: IF_NEZ
+b29e6a69: First address of Lcom/google/android/exoplayer2/l;->G()Z = 5d4c5c
+b29e6a69: Address - Lcom/google/android/exoplayer2/l;->G()Z@18	 lastOffset = 24
+b29e6a69: Instruction@@: IF_LEZ
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened_devRoot/signed_sample12-pizza-2min-need.apk.obfuscated_olay_flattened.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample12-pizza-2min-need.obfuscated_olay_flattened.ilog)
+b29e6a69: Running Application: com.pizzaexpress.appv2
+b29e6a69: Top-activity: com.pizzaexpress.appv2/.MainActivity
+PIDs--------------------------------------------------------------------------
+u0_a3776      28328    430 52967452 240164 0                  0 R com.pizzaexpress.appv2
+b29e6a69: Terminated logcat thread...by itself
+PIDs--------------------------------------------------------------------------
+u0_a3776      28328    430 52967452 240164 0                  0 R com.pizzaexpress.appv2
+Stopping app: com.pizzaexpress.appv2
+Tryging remove : uninstall com.pizzaexpress.appv2(com.pizzaexpress.appv2)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 370914487
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 21
+b29e6a69: isFailedToLaunch: com.pizzaexpress.appv2/.MainActivity
+b29e6a69: 	--result: Good :)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample12-pizza-2min-need.obfuscated_olay_flattened.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample12-pizza-2min-need.obfuscated_olay_flattened.ilog)
+b29e6a69: adding filter -- 5d4c64
+b29e6a69: adding filter -- 5d4dfc
+b29e6a69: adding filter -- 558700
+b29e6a69: adding filter -- 570d30
+b29e6a69: adding filter -- 558772
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 5d4dfc
+-- current localPatchFilter: 558700
+-- current localPatchFilter: 570d30
+-- current localPatchFilter: 558772
+-- current localPatchFilter: 5d4c64
+Action is completely same :)
+android.app.Dialog/show:()V:38b470		=(rels)=>		1
+[*] Unique action: 1:1044502 : <<CALL>> : android.support.v4.app.DialogFragment/onStart:()V:38b470  =>  android.app.Dialog/show:()V:1b4adc
+@@intraTimelineAnalysis -- 
+Entry: 5584c8
+com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 55850e -> 558776
+		com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 46 -> 2ae
+addPatchReadme: java.lang.Class<com.gantix.JailMonkey.e.d>a(Landroid/content/Context;)Z 46 t
+Entry: 5584c8
+com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 558660 -> 558664
+		com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 198 -> 19c
+addPatchReadme: java.lang.Class<com.gantix.JailMonkey.e.d>a(Landroid/content/Context;)Z 198 f
+Entry: 5584c8
+com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 558650 -> 558676
+		com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 188 -> 1ae
+addPatchReadme: java.lang.Class<com.gantix.JailMonkey.e.d>a(Landroid/content/Context;)Z 188 t
+Entry: 5584c8
+com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 558600 -> 558682
+		com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 138 -> 1ba
+addPatchReadme: java.lang.Class<com.gantix.JailMonkey.e.d>a(Landroid/content/Context;)Z 138 t
+Entry: 5584c8
+com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 558628 -> 55867c
+		com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 160 -> 1b4
+addPatchReadme: java.lang.Class<com.gantix.JailMonkey.e.d>a(Landroid/content/Context;)Z 160 t
+b29e6a69: [+] Patches found in this round: 5
+b29e6a69: [*] Found Patch size: 1
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample12-pizza-2min-need.obfuscated_olay_flattened.ilog)
+b29e6a69: @@localPatchFilter -- 5d4e0c
+b29e6a69: @@localPatchFilter -- 558710
+b29e6a69: @@localPatchFilter -- 570d40
+b29e6a69: @@localPatchFilter -- 558782
+b29e6a69: @@localPatchFilter -- 5d4c74
+b29e6a69: 	@@@Found patch addr: 558638
+b29e6a69: Querying offset: 558628
+b29e6a69: 	--Add method name to patch = com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z 	558628
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: patching method: com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z
+b29e6a69: patching method: com.google.android.exoplayer2.a.a$c/a:()Lcom/google/android/exoplayer2/a/a$b;
+b29e6a69: patching method: com.google.android.exoplayer2.l/a:(Lcom/google/android/exoplayer2/w;IZI)V
+b29e6a69: patching method: com.google.android.exoplayer2.l/G:()Z
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened_devRoot
+Wow!!!!!  --  com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z
+fallthrough: 166
+branchTarget: 1b4
+label = sswitch_data_5
+GOTO -- 166 	1b4
+Wow!!!!!  --  com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z
+fallthrough: 23c
+branchTarget: 242
+label = cond_2
+GOTO -- 23c 	242
+Wow!!!!!  --  com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z
+fallthrough: 2ae
+branchTarget: 12
+label = goto_0
+GOTO -- 2ae 	12
+Wow!!!!!  --  com.google.android.exoplayer2.a.a$c/a:()Lcom/google/android/exoplayer2/a/a$b;
+fallthrough: 28
+branchTarget: 28
+NOP!
+Wow!!!!!  --  com.google.android.exoplayer2.l/G:()Z
+fallthrough: 1c
+branchTarget: 1c
+NOP!
+Wow!!!!!  --  com.google.android.exoplayer2.l/a:(Lcom/google/android/exoplayer2/w;IZI)V
+fallthrough: 28
+branchTarget: 28
+NOP!
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened_devRoot/sample12-pizza-2min-need.apk.obfuscated_olay_flattened.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened_devRoot/signed_sample12-pizza-2min-need.apk.obfuscated_olay_flattened.apk
+b29e6a69: First address of Lcom/gantix/JailMonkey/e/d;->a(Landroid/content/Context;)Z = 5584d8
+b29e6a69: Address - Lcom/gantix/JailMonkey/e/d;->a(Landroid/content/Context;)Z@238	 lastOffset = 454
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Lcom/gantix/JailMonkey/e/d;->a(Landroid/content/Context;)Z = 5584d8
+b29e6a69: Address - Lcom/gantix/JailMonkey/e/d;->a(Landroid/content/Context;)Z@2aa	 lastOffset = 454
+b29e6a69: Instruction@@: GOTO_16
+b29e6a69: First address of Lcom/gantix/JailMonkey/e/d;->a(Landroid/content/Context;)Z = 5584d8
+b29e6a69: Address - Lcom/gantix/JailMonkey/e/d;->a(Landroid/content/Context;)Z@160	 lastOffset = 454
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: First address of Lcom/google/android/exoplayer2/a/a$c;->a()Lcom/google/android/exoplayer2/a/a$b; = 570d1c
+b29e6a69: Address - Lcom/google/android/exoplayer2/a/a$c;->a()Lcom/google/android/exoplayer2/a/a$b;@24	 lastOffset = 40
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Lcom/google/android/exoplayer2/l;->a(Lcom/google/android/exoplayer2/w;IZI)V = 5d4de8
+b29e6a69: Address - Lcom/google/android/exoplayer2/l;->a(Lcom/google/android/exoplayer2/w;IZI)V@24	 lastOffset = a8
+b29e6a69: Instruction@@: IF_NEZ
+b29e6a69: First address of Lcom/google/android/exoplayer2/l;->G()Z = 5d4c5c
+b29e6a69: Address - Lcom/google/android/exoplayer2/l;->G()Z@18	 lastOffset = 24
+b29e6a69: Instruction@@: IF_LEZ
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened_devRoot/signed_sample12-pizza-2min-need.apk.obfuscated_olay_flattened.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample12-pizza-2min-need.obfuscated_olay_flattened.ilog)
+b29e6a69: Running Application: com.pizzaexpress.appv2
+b29e6a69: Running is done - starting comparing... : 10001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.pizzaexpress.appv2
+Tryging remove : uninstall com.pizzaexpress.appv2(com.pizzaexpress.appv2)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 125463284
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 20
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+b29e6a69: /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened.apk launch is failed on devRoot
+b29e6a69: Failed Patch: 558638
+b29e6a69: adding filter -- 5d4c64
+b29e6a69: adding filter -- 5d4dfc
+b29e6a69: adding filter -- 558700
+b29e6a69: adding filter -- 570d30
+b29e6a69: adding filter -- 558772
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 5d4dfc
+-- current localPatchFilter: 558700
+-- current localPatchFilter: 570d30
+-- current localPatchFilter: 558772
+-- current localPatchFilter: 5d4c64
+-- current localPatchFilter: 558628
+Action is completely same :)
+android.app.Dialog/show:()V:38b470		=(rels)=>		1
+[*] Unique action: 1:1044502 : <<CALL>> : android.support.v4.app.DialogFragment/onStart:()V:38b470  =>  android.app.Dialog/show:()V:1b4adc
+@@intraTimelineAnalysis -- 
+Entry: 5584c8
+com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 55850e -> 558776
+		com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 46 -> 2ae
+addPatchReadme: java.lang.Class<com.gantix.JailMonkey.e.d>a(Landroid/content/Context;)Z 46 t
+Entry: 5584c8
+com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 558660 -> 558664
+		com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 198 -> 19c
+addPatchReadme: java.lang.Class<com.gantix.JailMonkey.e.d>a(Landroid/content/Context;)Z 198 f
+Entry: 5584c8
+com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 558650 -> 558676
+		com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 188 -> 1ae
+addPatchReadme: java.lang.Class<com.gantix.JailMonkey.e.d>a(Landroid/content/Context;)Z 188 t
+Entry: 5584c8
+com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 558600 -> 558682
+		com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 138 -> 1ba
+addPatchReadme: java.lang.Class<com.gantix.JailMonkey.e.d>a(Landroid/content/Context;)Z 138 t
+b29e6a69: [+] Patches found in this round: 4
+b29e6a69: [*] Found Patch size: 1
+ExitReason-Code: 4 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample12-pizza-2min-need.obfuscated_olay_flattened.ilog)
+	System.exit called in native code!
+b29e6a69: @@localPatchFilter -- 5d4e0c
+b29e6a69: @@localPatchFilter -- 558710
+b29e6a69: @@localPatchFilter -- 570d40
+b29e6a69: @@localPatchFilter -- 558782
+b29e6a69: @@localPatchFilter -- 5d4c74
+b29e6a69: @@localPatchFilter -- 558638
+b29e6a69: 	@@@Found patch addr: 558610
+b29e6a69: Querying offset: 558600
+b29e6a69: 	--Add method name to patch = com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z 	558600
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: patching method: com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z
+b29e6a69: patching method: com.google.android.exoplayer2.a.a$c/a:()Lcom/google/android/exoplayer2/a/a$b;
+b29e6a69: patching method: com.google.android.exoplayer2.l/a:(Lcom/google/android/exoplayer2/w;IZI)V
+b29e6a69: patching method: com.google.android.exoplayer2.l/G:()Z
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened_devRoot
+Wow!!!!!  --  com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z
+fallthrough: 13e
+branchTarget: 1ba
+label = sswitch_data_4
+GOTO -- 13e 	1ba
+Wow!!!!!  --  com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z
+fallthrough: 23c
+branchTarget: 242
+label = cond_2
+GOTO -- 23c 	242
+Wow!!!!!  --  com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z
+fallthrough: 2ae
+branchTarget: 12
+label = goto_0
+GOTO -- 2ae 	12
+Wow!!!!!  --  com.google.android.exoplayer2.a.a$c/a:()Lcom/google/android/exoplayer2/a/a$b;
+fallthrough: 28
+branchTarget: 28
+NOP!
+Wow!!!!!  --  com.google.android.exoplayer2.l/G:()Z
+fallthrough: 1c
+branchTarget: 1c
+NOP!
+Wow!!!!!  --  com.google.android.exoplayer2.l/a:(Lcom/google/android/exoplayer2/w;IZI)V
+fallthrough: 28
+branchTarget: 28
+NOP!
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened_devRoot/sample12-pizza-2min-need.apk.obfuscated_olay_flattened.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened_devRoot/signed_sample12-pizza-2min-need.apk.obfuscated_olay_flattened.apk
+b29e6a69: First address of Lcom/gantix/JailMonkey/e/d;->a(Landroid/content/Context;)Z = 5584d8
+b29e6a69: Address - Lcom/gantix/JailMonkey/e/d;->a(Landroid/content/Context;)Z@138	 lastOffset = 454
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: First address of Lcom/gantix/JailMonkey/e/d;->a(Landroid/content/Context;)Z = 5584d8
+b29e6a69: Address - Lcom/gantix/JailMonkey/e/d;->a(Landroid/content/Context;)Z@238	 lastOffset = 454
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Lcom/gantix/JailMonkey/e/d;->a(Landroid/content/Context;)Z = 5584d8
+b29e6a69: Address - Lcom/gantix/JailMonkey/e/d;->a(Landroid/content/Context;)Z@2aa	 lastOffset = 454
+b29e6a69: Instruction@@: GOTO_16
+b29e6a69: First address of Lcom/google/android/exoplayer2/a/a$c;->a()Lcom/google/android/exoplayer2/a/a$b; = 570d1c
+b29e6a69: Address - Lcom/google/android/exoplayer2/a/a$c;->a()Lcom/google/android/exoplayer2/a/a$b;@24	 lastOffset = 40
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Lcom/google/android/exoplayer2/l;->a(Lcom/google/android/exoplayer2/w;IZI)V = 5d4de8
+b29e6a69: Address - Lcom/google/android/exoplayer2/l;->a(Lcom/google/android/exoplayer2/w;IZI)V@24	 lastOffset = a8
+b29e6a69: Instruction@@: IF_NEZ
+b29e6a69: First address of Lcom/google/android/exoplayer2/l;->G()Z = 5d4c5c
+b29e6a69: Address - Lcom/google/android/exoplayer2/l;->G()Z@18	 lastOffset = 24
+b29e6a69: Instruction@@: IF_LEZ
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened_devRoot/signed_sample12-pizza-2min-need.apk.obfuscated_olay_flattened.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample12-pizza-2min-need.obfuscated_olay_flattened.ilog)
+b29e6a69: Running Application: com.pizzaexpress.appv2
+b29e6a69: Running is done - starting comparing... : 10001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.pizzaexpress.appv2
+Tryging remove : uninstall com.pizzaexpress.appv2(com.pizzaexpress.appv2)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 128564880
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 19
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+b29e6a69: /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened.apk launch is failed on devRoot
+b29e6a69: Failed Patch: 558610
+b29e6a69: adding filter -- 5d4c64
+b29e6a69: adding filter -- 5d4dfc
+b29e6a69: adding filter -- 558700
+b29e6a69: adding filter -- 570d30
+b29e6a69: adding filter -- 558772
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 5d4dfc
+-- current localPatchFilter: 558700
+-- current localPatchFilter: 558600
+-- current localPatchFilter: 570d30
+-- current localPatchFilter: 558772
+-- current localPatchFilter: 5d4c64
+-- current localPatchFilter: 558628
+Action is completely same :)
+android.app.Dialog/show:()V:38b470		=(rels)=>		1
+[*] Unique action: 1:1044502 : <<CALL>> : android.support.v4.app.DialogFragment/onStart:()V:38b470  =>  android.app.Dialog/show:()V:1b4adc
+@@intraTimelineAnalysis -- 
+Entry: 5584c8
+com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 55850e -> 558776
+		com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 46 -> 2ae
+addPatchReadme: java.lang.Class<com.gantix.JailMonkey.e.d>a(Landroid/content/Context;)Z 46 t
+Entry: 5584c8
+com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 558660 -> 558664
+		com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 198 -> 19c
+addPatchReadme: java.lang.Class<com.gantix.JailMonkey.e.d>a(Landroid/content/Context;)Z 198 f
+Entry: 5584c8
+com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 558650 -> 558676
+		com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 188 -> 1ae
+addPatchReadme: java.lang.Class<com.gantix.JailMonkey.e.d>a(Landroid/content/Context;)Z 188 t
+b29e6a69: [+] Patches found in this round: 3
+b29e6a69: [*] Found Patch size: 1
+ExitReason-Code: 4 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample12-pizza-2min-need.obfuscated_olay_flattened.ilog)
+	System.exit called in native code!
+b29e6a69: @@localPatchFilter -- 5d4e0c
+b29e6a69: @@localPatchFilter -- 558710
+b29e6a69: @@localPatchFilter -- 558610
+b29e6a69: @@localPatchFilter -- 570d40
+b29e6a69: @@localPatchFilter -- 558782
+b29e6a69: @@localPatchFilter -- 5d4c74
+b29e6a69: @@localPatchFilter -- 558638
+b29e6a69: 	@@@Found patch addr: 558660
+b29e6a69: Querying offset: 558650
+b29e6a69: 	--Add method name to patch = com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z 	558650
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: patching method: com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z
+b29e6a69: patching method: com.google.android.exoplayer2.a.a$c/a:()Lcom/google/android/exoplayer2/a/a$b;
+b29e6a69: patching method: com.google.android.exoplayer2.l/a:(Lcom/google/android/exoplayer2/w;IZI)V
+b29e6a69: patching method: com.google.android.exoplayer2.l/G:()Z
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened_devRoot
+Wow!!!!!  --  com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z
+fallthrough: 18e
+branchTarget: 1ae
+label = sswitch_data_6
+GOTO -- 18e 	1ae
+Wow!!!!!  --  com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z
+fallthrough: 23c
+branchTarget: 242
+label = cond_2
+GOTO -- 23c 	242
+Wow!!!!!  --  com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z
+fallthrough: 2ae
+branchTarget: 12
+label = goto_0
+GOTO -- 2ae 	12
+Wow!!!!!  --  com.google.android.exoplayer2.a.a$c/a:()Lcom/google/android/exoplayer2/a/a$b;
+fallthrough: 28
+branchTarget: 28
+NOP!
+Wow!!!!!  --  com.google.android.exoplayer2.l/G:()Z
+fallthrough: 1c
+branchTarget: 1c
+NOP!
+Wow!!!!!  --  com.google.android.exoplayer2.l/a:(Lcom/google/android/exoplayer2/w;IZI)V
+fallthrough: 28
+branchTarget: 28
+NOP!
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened_devRoot/sample12-pizza-2min-need.apk.obfuscated_olay_flattened.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened_devRoot/signed_sample12-pizza-2min-need.apk.obfuscated_olay_flattened.apk
+b29e6a69: First address of Lcom/gantix/JailMonkey/e/d;->a(Landroid/content/Context;)Z = 5584d8
+b29e6a69: Address - Lcom/gantix/JailMonkey/e/d;->a(Landroid/content/Context;)Z@188	 lastOffset = 454
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: First address of Lcom/gantix/JailMonkey/e/d;->a(Landroid/content/Context;)Z = 5584d8
+b29e6a69: Address - Lcom/gantix/JailMonkey/e/d;->a(Landroid/content/Context;)Z@238	 lastOffset = 454
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Lcom/gantix/JailMonkey/e/d;->a(Landroid/content/Context;)Z = 5584d8
+b29e6a69: Address - Lcom/gantix/JailMonkey/e/d;->a(Landroid/content/Context;)Z@2aa	 lastOffset = 454
+b29e6a69: Instruction@@: GOTO_16
+b29e6a69: First address of Lcom/google/android/exoplayer2/a/a$c;->a()Lcom/google/android/exoplayer2/a/a$b; = 570d1c
+b29e6a69: Address - Lcom/google/android/exoplayer2/a/a$c;->a()Lcom/google/android/exoplayer2/a/a$b;@24	 lastOffset = 40
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Lcom/google/android/exoplayer2/l;->a(Lcom/google/android/exoplayer2/w;IZI)V = 5d4de8
+b29e6a69: Address - Lcom/google/android/exoplayer2/l;->a(Lcom/google/android/exoplayer2/w;IZI)V@24	 lastOffset = a8
+b29e6a69: Instruction@@: IF_NEZ
+b29e6a69: First address of Lcom/google/android/exoplayer2/l;->G()Z = 5d4c5c
+b29e6a69: Address - Lcom/google/android/exoplayer2/l;->G()Z@18	 lastOffset = 24
+b29e6a69: Instruction@@: IF_LEZ
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened_devRoot/signed_sample12-pizza-2min-need.apk.obfuscated_olay_flattened.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample12-pizza-2min-need.obfuscated_olay_flattened.ilog)
+b29e6a69: Running Application: com.pizzaexpress.appv2
+b29e6a69: Running is done - starting comparing... : 10001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.pizzaexpress.appv2
+Tryging remove : uninstall com.pizzaexpress.appv2(com.pizzaexpress.appv2)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 162739418
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 18
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+b29e6a69: /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened.apk launch is failed on devRoot
+b29e6a69: Failed Patch: 558660
+b29e6a69: adding filter -- 5d4c64
+b29e6a69: adding filter -- 5d4dfc
+b29e6a69: adding filter -- 558700
+b29e6a69: adding filter -- 570d30
+b29e6a69: adding filter -- 558772
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 5d4dfc
+-- current localPatchFilter: 558700
+-- current localPatchFilter: 558600
+-- current localPatchFilter: 558650
+-- current localPatchFilter: 570d30
+-- current localPatchFilter: 558772
+-- current localPatchFilter: 5d4c64
+-- current localPatchFilter: 558628
+Action is completely same :)
+android.app.Dialog/show:()V:38b470		=(rels)=>		1
+[*] Unique action: 1:1044502 : <<CALL>> : android.support.v4.app.DialogFragment/onStart:()V:38b470  =>  android.app.Dialog/show:()V:1b4adc
+@@intraTimelineAnalysis -- 
+Entry: 5584c8
+com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 558660 -> 558664
+		com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 198 -> 19c
+addPatchReadme: java.lang.Class<com.gantix.JailMonkey.e.d>a(Landroid/content/Context;)Z 198 f
+Entry: 5584c8
+com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 55850e -> 558776
+		com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 46 -> 2ae
+addPatchReadme: java.lang.Class<com.gantix.JailMonkey.e.d>a(Landroid/content/Context;)Z 46 t
+b29e6a69: [+] Patches found in this round: 2
+b29e6a69: [*] Found Patch size: 1
+ExitReason-Code: 4 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample12-pizza-2min-need.obfuscated_olay_flattened.ilog)
+	System.exit called in native code!
+b29e6a69: @@localPatchFilter -- 5d4e0c
+b29e6a69: @@localPatchFilter -- 558710
+b29e6a69: @@localPatchFilter -- 558610
+b29e6a69: @@localPatchFilter -- 558660
+b29e6a69: @@localPatchFilter -- 570d40
+b29e6a69: @@localPatchFilter -- 558782
+b29e6a69: @@localPatchFilter -- 5d4c74
+b29e6a69: @@localPatchFilter -- 558638
+b29e6a69: 	@@@Found patch addr: 55851e
+b29e6a69: Querying offset: 55850e
+b29e6a69: 	--Add method name to patch = com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z 	55850e
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: patching method: com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z
+b29e6a69: patching method: com.google.android.exoplayer2.a.a$c/a:()Lcom/google/android/exoplayer2/a/a$b;
+b29e6a69: patching method: com.google.android.exoplayer2.l/a:(Lcom/google/android/exoplayer2/w;IZI)V
+b29e6a69: patching method: com.google.android.exoplayer2.l/G:()Z
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened_devRoot
+Wow!!!!!  --  com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z
+fallthrough: 4c
+branchTarget: 2ae
+label = sswitch_data_0
+GOTO -- 4c 	2ae
+Wow!!!!!  --  com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z
+fallthrough: 23c
+branchTarget: 242
+label = cond_2
+GOTO -- 23c 	242
+Wow!!!!!  --  com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z
+fallthrough: 2ae
+branchTarget: 12
+label = goto_0
+GOTO -- 2ae 	12
+Wow!!!!!  --  com.google.android.exoplayer2.a.a$c/a:()Lcom/google/android/exoplayer2/a/a$b;
+fallthrough: 28
+branchTarget: 28
+NOP!
+Wow!!!!!  --  com.google.android.exoplayer2.l/G:()Z
+fallthrough: 1c
+branchTarget: 1c
+NOP!
+Wow!!!!!  --  com.google.android.exoplayer2.l/a:(Lcom/google/android/exoplayer2/w;IZI)V
+fallthrough: 28
+branchTarget: 28
+NOP!
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened_devRoot/sample12-pizza-2min-need.apk.obfuscated_olay_flattened.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened_devRoot/signed_sample12-pizza-2min-need.apk.obfuscated_olay_flattened.apk
+b29e6a69: First address of Lcom/gantix/JailMonkey/e/d;->a(Landroid/content/Context;)Z = 5584d8
+b29e6a69: Address - Lcom/gantix/JailMonkey/e/d;->a(Landroid/content/Context;)Z@238	 lastOffset = 454
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Lcom/gantix/JailMonkey/e/d;->a(Landroid/content/Context;)Z = 5584d8
+b29e6a69: Address - Lcom/gantix/JailMonkey/e/d;->a(Landroid/content/Context;)Z@2aa	 lastOffset = 454
+b29e6a69: Instruction@@: GOTO_16
+b29e6a69: First address of Lcom/gantix/JailMonkey/e/d;->a(Landroid/content/Context;)Z = 5584d8
+b29e6a69: Address - Lcom/gantix/JailMonkey/e/d;->a(Landroid/content/Context;)Z@46	 lastOffset = 454
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: First address of Lcom/google/android/exoplayer2/a/a$c;->a()Lcom/google/android/exoplayer2/a/a$b; = 570d1c
+b29e6a69: Address - Lcom/google/android/exoplayer2/a/a$c;->a()Lcom/google/android/exoplayer2/a/a$b;@24	 lastOffset = 40
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Lcom/google/android/exoplayer2/l;->a(Lcom/google/android/exoplayer2/w;IZI)V = 5d4de8
+b29e6a69: Address - Lcom/google/android/exoplayer2/l;->a(Lcom/google/android/exoplayer2/w;IZI)V@24	 lastOffset = a8
+b29e6a69: Instruction@@: IF_NEZ
+b29e6a69: First address of Lcom/google/android/exoplayer2/l;->G()Z = 5d4c5c
+b29e6a69: Address - Lcom/google/android/exoplayer2/l;->G()Z@18	 lastOffset = 24
+b29e6a69: Instruction@@: IF_LEZ
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened_devRoot/signed_sample12-pizza-2min-need.apk.obfuscated_olay_flattened.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample12-pizza-2min-need.obfuscated_olay_flattened.ilog)
+b29e6a69: Running Application: com.pizzaexpress.appv2
+b29e6a69: Running is done - starting comparing... : 10001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.pizzaexpress.appv2
+Tryging remove : uninstall com.pizzaexpress.appv2(com.pizzaexpress.appv2)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 153653327
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 17
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+b29e6a69: /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened.apk launch is failed on devRoot
+b29e6a69: Failed Patch: 55851e
+b29e6a69: adding filter -- 5d4c64
+b29e6a69: adding filter -- 5d4dfc
+b29e6a69: adding filter -- 558700
+b29e6a69: adding filter -- 570d30
+b29e6a69: adding filter -- 558772
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 5d4dfc
+-- current localPatchFilter: 558700
+-- current localPatchFilter: 558600
+-- current localPatchFilter: 558650
+-- current localPatchFilter: 570d30
+-- current localPatchFilter: 558772
+-- current localPatchFilter: 5d4c64
+-- current localPatchFilter: 55850e
+-- current localPatchFilter: 558628
+Action is completely same :)
+android.app.Dialog/show:()V:38b470		=(rels)=>		1
+[*] Unique action: 1:1044502 : <<CALL>> : android.support.v4.app.DialogFragment/onStart:()V:38b470  =>  android.app.Dialog/show:()V:1b4adc
+@@intraTimelineAnalysis -- 
+Entry: 5584c8
+com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 558660 -> 558664
+		com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z: 198 -> 19c
+addPatchReadme: java.lang.Class<com.gantix.JailMonkey.e.d>a(Landroid/content/Context;)Z 198 f
+b29e6a69: [+] Patches found in this round: 1
+b29e6a69: [*] Found Patch size: 1
+ExitReason-Code: 4 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample12-pizza-2min-need.obfuscated_olay_flattened.ilog)
+	System.exit called in native code!
+b29e6a69: @@localPatchFilter -- 5d4e0c
+b29e6a69: @@localPatchFilter -- 558710
+b29e6a69: @@localPatchFilter -- 558610
+b29e6a69: @@localPatchFilter -- 558660
+b29e6a69: @@localPatchFilter -- 570d40
+b29e6a69: @@localPatchFilter -- 558782
+b29e6a69: @@localPatchFilter -- 5d4c74
+b29e6a69: @@localPatchFilter -- 55851e
+b29e6a69: @@localPatchFilter -- 558638
+b29e6a69: 	@@@Found patch addr: 558670
+b29e6a69: Querying offset: 558660
+b29e6a69: 	--Add method name to patch = com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z 	558660
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: patching method: com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z
+b29e6a69: patching method: com.google.android.exoplayer2.a.a$c/a:()Lcom/google/android/exoplayer2/a/a$b;
+b29e6a69: patching method: com.google.android.exoplayer2.l/a:(Lcom/google/android/exoplayer2/w;IZI)V
+b29e6a69: patching method: com.google.android.exoplayer2.l/G:()Z
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened_devRoot
+Wow!!!!!  --  com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z
+fallthrough: 19c
+branchTarget: 19c
+NOP!
+Wow!!!!!  --  com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z
+fallthrough: 23c
+branchTarget: 242
+label = cond_2
+GOTO -- 23c 	242
+Wow!!!!!  --  com.gantix.JailMonkey.e.d/a:(Landroid/content/Context;)Z
+fallthrough: 2ae
+branchTarget: 12
+label = goto_0
+GOTO -- 2ae 	12
+Wow!!!!!  --  com.google.android.exoplayer2.a.a$c/a:()Lcom/google/android/exoplayer2/a/a$b;
+fallthrough: 28
+branchTarget: 28
+NOP!
+Wow!!!!!  --  com.google.android.exoplayer2.l/G:()Z
+fallthrough: 1c
+branchTarget: 1c
+NOP!
+Wow!!!!!  --  com.google.android.exoplayer2.l/a:(Lcom/google/android/exoplayer2/w;IZI)V
+fallthrough: 28
+branchTarget: 28
+NOP!
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened_devRoot/sample12-pizza-2min-need.apk.obfuscated_olay_flattened.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened_devRoot/signed_sample12-pizza-2min-need.apk.obfuscated_olay_flattened.apk
+b29e6a69: First address of Lcom/gantix/JailMonkey/e/d;->a(Landroid/content/Context;)Z = 5584d8
+b29e6a69: Address - Lcom/gantix/JailMonkey/e/d;->a(Landroid/content/Context;)Z@198	 lastOffset = 454
+b29e6a69: Instruction@@: IF_NEZ
+b29e6a69: First address of Lcom/gantix/JailMonkey/e/d;->a(Landroid/content/Context;)Z = 5584d8
+b29e6a69: Address - Lcom/gantix/JailMonkey/e/d;->a(Landroid/content/Context;)Z@238	 lastOffset = 454
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Lcom/gantix/JailMonkey/e/d;->a(Landroid/content/Context;)Z = 5584d8
+b29e6a69: Address - Lcom/gantix/JailMonkey/e/d;->a(Landroid/content/Context;)Z@2aa	 lastOffset = 454
+b29e6a69: Instruction@@: GOTO_16
+b29e6a69: First address of Lcom/google/android/exoplayer2/a/a$c;->a()Lcom/google/android/exoplayer2/a/a$b; = 570d1c
+b29e6a69: Address - Lcom/google/android/exoplayer2/a/a$c;->a()Lcom/google/android/exoplayer2/a/a$b;@24	 lastOffset = 40
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Lcom/google/android/exoplayer2/l;->a(Lcom/google/android/exoplayer2/w;IZI)V = 5d4de8
+b29e6a69: Address - Lcom/google/android/exoplayer2/l;->a(Lcom/google/android/exoplayer2/w;IZI)V@24	 lastOffset = a8
+b29e6a69: Instruction@@: IF_NEZ
+b29e6a69: First address of Lcom/google/android/exoplayer2/l;->G()Z = 5d4c5c
+b29e6a69: Address - Lcom/google/android/exoplayer2/l;->G()Z@18	 lastOffset = 24
+b29e6a69: Instruction@@: IF_LEZ
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample12-pizza-2min-need.apk.obfuscated_olay_flattened_devRoot/signed_sample12-pizza-2min-need.apk.obfuscated_olay_flattened.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample12-pizza-2min-need.obfuscated_olay_flattened.ilog)
+b29e6a69: Running Application: com.pizzaexpress.appv2
+b29e6a69: Top-activity: com.pizzaexpress.appv2/.MainActivity
+PIDs--------------------------------------------------------------------------
+u0_a3781      30575    430 53054844 245748 0                  0 R com.pizzaexpress.appv2
+b29e6a69: Terminated logcat thread...by itself
+PIDs--------------------------------------------------------------------------
+u0_a3781      30575    430 53054844 245748 0                  0 S com.pizzaexpress.appv2
+Stopping app: com.pizzaexpress.appv2
+Tryging remove : uninstall com.pizzaexpress.appv2(com.pizzaexpress.appv2)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 371392876
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 16
+b29e6a69: isFailedToLaunch: com.pizzaexpress.appv2/.MainActivity
+b29e6a69: 	--result: Good :)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample12-pizza-2min-need.obfuscated_olay_flattened.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample12-pizza-2min-need.obfuscated_olay_flattened.ilog)
+b29e6a69: adding filter -- 5d4c64
+b29e6a69: adding filter -- 5d4dfc
+b29e6a69: adding filter -- 558700
+b29e6a69: adding filter -- 558660
+b29e6a69: adding filter -- 570d30
+b29e6a69: adding filter -- 558772
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 5d4dfc
+-- current localPatchFilter: 558660
+-- current localPatchFilter: 558700
+-- current localPatchFilter: 570d30
+-- current localPatchFilter: 558772
+-- current localPatchFilter: 5d4c64
+Action is completely same :)
+Action is completely same :)
+b29e6a69: There is no difference. (tryAgain=false)
+-- HPFinder will be done in this iteration :)
+hasAntiAnalysis? - devTamper: false on com.pizzaexpress.appv2.MainActivity
+hasAntiAnalysis? - devRoot: true on com.pizzaexpress.appv2.MainActivity
+	isRemovedThem? - devRoot: true on com.pizzaexpress.appv2.MainActivity	-	tryCount: 13
+hasAntiAnalysis? - devDebug: true on com.pizzaexpress.appv2.MainActivity
+	isRemovedThem? - devDebug: true on com.pizzaexpress.appv2.MainActivity	-	tryCount: 6
+*****REPORT: com.pizzaexpress.appv2
+* Package name: com.pizzaexpress.appv2
+* Running time: 4044
+* FileSize: 28588297
+devTamper : 424455784
+devRef : 552395979
+devRoot : 371392876
+devDebug : 511985930
+hasAntiAnalysis? - devTamper: false on com.pizzaexpress.appv2.MainActivity
+hasAntiAnalysis? - devRoot: true on com.pizzaexpress.appv2.MainActivity
+	isRemovedThem? - devRoot: true on com.pizzaexpress.appv2.MainActivity	-	tryCount: 13
+hasAntiAnalysis? - devDebug: true on com.pizzaexpress.appv2.MainActivity
+	isRemovedThem? - devDebug: true on com.pizzaexpress.appv2.MainActivity	-	tryCount: 6
+46604b9f: trying remove : com.pizzaexpress.appv2
+3601a6ff: trying remove : com.pizzaexpress.appv2
+b29e6a69: trying remove : com.pizzaexpress.appv2
+159ceeed: trying remove : com.pizzaexpress.appv2
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+159ceeed: result = true
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+b29e6a69: result = true
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+3601a6ff: result = true
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+46604b9f: result = true
+3601a6ff: isFailedToLaunch: com.pizzaexpress.appv2/.MainActivity
+3601a6ff: 	--result: Good :)

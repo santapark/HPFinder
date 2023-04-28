@@ -1,0 +1,549 @@
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/biz.webcreation.bible_1.1.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.tamperRemoved.apk.obfuscated_flattened/AndroidManifest.xml
+launchable-activity: name='biz.webcreation.bible.MainActivity'  label='Bible' icon=''
+{ACTIVITY, biz.webcreation.bible.MainActivity, android.intent.action.MAIN}
+{ACTIVITY, com.google.android.gms.ads.AdActivity}
+{SERVICE, com.google.android.gms.measurement.AppMeasurementService}
+{SERVICE, org.apache.cordova.firebase.FirebasePluginMessagingService, com.google.firebase.MESSAGING_EVENT}
+{RECEIVER, org.apache.cordova.firebase.OnNotificationOpenReceiver}
+{RECEIVER, de.appplant.cordova.plugin.localnotification.TriggerReceiver}
+{RECEIVER, de.appplant.cordova.plugin.localnotification.ClearReceiver}
+{SERVICE, de.appplant.cordova.plugin.localnotification.ClickReceiver}
+{RECEIVER, de.appplant.cordova.plugin.localnotification.RestoreReceiver, android.intent.action.LOCKED_BOOT_COMPLETED, android.intent.action.BOOT_COMPLETED}
+{SERVICE, com.onesignal.ADMMessageHandler}
+{RECEIVER, com.onesignal.ADMMessageHandler$Receiver, com.amazon.device.messaging.intent.REGISTRATION, com.amazon.device.messaging.intent.RECEIVE}
+{SERVICE, com.google.firebase.components.ComponentDiscoveryService}
+{ACTIVITY, com.google.firebase.auth.internal.FederatedSignInActivity}
+{RECEIVER, com.onesignal.GcmBroadcastReceiver, com.google.android.c2dm.intent.RECEIVE}
+{RECEIVER, com.onesignal.NotificationOpenedReceiver}
+{SERVICE, com.onesignal.GcmIntentService}
+{SERVICE, com.onesignal.GcmIntentJobService}
+{SERVICE, com.onesignal.RestoreJobService}
+{SERVICE, com.onesignal.RestoreKickoffJobService}
+{SERVICE, com.onesignal.SyncService}
+{SERVICE, com.onesignal.SyncJobService}
+{ACTIVITY, com.onesignal.PermissionsActivity}
+{SERVICE, com.onesignal.NotificationRestoreService}
+{RECEIVER, com.onesignal.BootUpReceiver, android.intent.action.BOOT_COMPLETED, android.intent.action.QUICKBOOT_POWERON}
+{RECEIVER, com.onesignal.UpgradeReceiver, android.intent.action.MY_PACKAGE_REPLACED}
+{SERVICE, com.google.android.gms.tagmanager.TagManagerService}
+{ACTIVITY, com.google.android.gms.tagmanager.TagManagerPreviewActivity, android.intent.action.VIEW}
+{SERVICE, com.google.firebase.messaging.FirebaseMessagingService, com.google.firebase.MESSAGING_EVENT}
+{RECEIVER, com.google.firebase.iid.FirebaseInstanceIdReceiver, com.google.android.c2dm.intent.RECEIVE}
+{ACTIVITY, com.google.android.gms.common.api.GoogleApiActivity}
+{RECEIVER, com.google.android.gms.measurement.AppMeasurementReceiver}
+{RECEIVER, com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver, com.android.vending.INSTALL_REFERRER}
+{ACTIVITY, biz.webcreation.bible.MainActivity, android.intent.action.MAIN}
+{ACTIVITY, com.google.android.gms.ads.AdActivity}
+{SERVICE, com.google.android.gms.measurement.AppMeasurementService}
+{SERVICE, org.apache.cordova.firebase.FirebasePluginMessagingService, com.google.firebase.MESSAGING_EVENT}
+{RECEIVER, org.apache.cordova.firebase.OnNotificationOpenReceiver}
+{RECEIVER, de.appplant.cordova.plugin.localnotification.TriggerReceiver}
+{RECEIVER, de.appplant.cordova.plugin.localnotification.ClearReceiver}
+{SERVICE, de.appplant.cordova.plugin.localnotification.ClickReceiver}
+{RECEIVER, de.appplant.cordova.plugin.localnotification.RestoreReceiver, android.intent.action.LOCKED_BOOT_COMPLETED, android.intent.action.BOOT_COMPLETED}
+{SERVICE, com.onesignal.ADMMessageHandler}
+{RECEIVER, com.onesignal.ADMMessageHandler$Receiver, com.amazon.device.messaging.intent.REGISTRATION, com.amazon.device.messaging.intent.RECEIVE}
+{SERVICE, com.google.firebase.components.ComponentDiscoveryService}
+{ACTIVITY, com.google.firebase.auth.internal.FederatedSignInActivity}
+{RECEIVER, com.onesignal.GcmBroadcastReceiver, com.google.android.c2dm.intent.RECEIVE}
+{RECEIVER, com.onesignal.NotificationOpenedReceiver}
+{SERVICE, com.onesignal.GcmIntentService}
+{SERVICE, com.onesignal.GcmIntentJobService}
+{SERVICE, com.onesignal.RestoreJobService}
+{SERVICE, com.onesignal.RestoreKickoffJobService}
+{SERVICE, com.onesignal.SyncService}
+{SERVICE, com.onesignal.SyncJobService}
+{ACTIVITY, com.onesignal.PermissionsActivity}
+{SERVICE, com.onesignal.NotificationRestoreService}
+{RECEIVER, com.onesignal.BootUpReceiver, android.intent.action.BOOT_COMPLETED, android.intent.action.QUICKBOOT_POWERON}
+{RECEIVER, com.onesignal.UpgradeReceiver, android.intent.action.MY_PACKAGE_REPLACED}
+{SERVICE, com.google.android.gms.tagmanager.TagManagerService}
+{ACTIVITY, com.google.android.gms.tagmanager.TagManagerPreviewActivity, android.intent.action.VIEW}
+{SERVICE, com.google.firebase.messaging.FirebaseMessagingService, com.google.firebase.MESSAGING_EVENT}
+{RECEIVER, com.google.firebase.iid.FirebaseInstanceIdReceiver, com.google.android.c2dm.intent.RECEIVE}
+{ACTIVITY, com.google.android.gms.common.api.GoogleApiActivity}
+{RECEIVER, com.google.android.gms.measurement.AppMeasurementReceiver}
+{RECEIVER, com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver, com.android.vending.INSTALL_REFERRER}
+_getAllDexFiles: /home/santapark/Extended3/DEEPerence/reEx/biz.webcreation.bible_1.1.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.tamperRemoved.apk.obfuscated_flattened/classes.dex
+----------------/home/santapark/Extended3/DEEPerence/reEx/biz.webcreation.bible_1.1.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.tamperRemoved.apk.obfuscated_flattened.apk
+dexFile = org.jf.dexlib2.dexbacked.DexBackedDexFile@20ce78ec
+biz.webcreation.bible
+biz.webcreation.bible.MainActivity
+debuggable: false
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/biz.webcreation.bible_1.1.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.tamperRemoved.apk.obfuscated_flattened.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/biz.webcreation.bible_1.1.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.tamperRemoved.apk.obfuscated_flattened.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/biz.webcreation.bible_1.1.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.tamperRemoved.apk.obfuscated_flattened.apk
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/biz.webcreation.bible_1.1.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.tamperRemoved.apk.obfuscated_flattened_46604b9f/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/biz.webcreation.bible_1.1.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.tamperRemoved.apk.obfuscated_flattened_46604b9f/biz.webcreation.bible_1.1.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.tamperRemoved.apk.obfuscated_flattened.apk
+159ceeed: Installation Success
+3601a6ff: Installation Success
+b29e6a69: Installation Success
+46604b9f: Installing repackaged apk File: 
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/biz.webcreation.bible_1.1.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.tamperRemoved.apk.obfuscated_flattened_46604b9f/signed_biz.webcreation.bible_1.1.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.tamperRemoved.apk.obfuscated_flattened.apk
+46604b9f: Installation Success
+46604b9f: startApplication called! - devTamper
+3601a6ff: startApplication called! - devRef
+b29e6a69: startApplication called! - devRoot
+159ceeed: startApplication called! - devDebug
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_biz.webcreation.bible_1.1.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.tamperRemoved.obfuscated_flattened.ilog)
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_biz.webcreation.bible_1.1.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.tamperRemoved.obfuscated_flattened.ilog)
+3601a6ff: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRef_biz.webcreation.bible_1.1.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.tamperRemoved.obfuscated_flattened.ilog)
+46604b9f: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devTamper_biz.webcreation.bible_1.1.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.tamperRemoved.obfuscated_flattened.ilog)
+b29e6a69: Running Application: biz.webcreation.bible
+46604b9f: Running Application: biz.webcreation.bible
+3601a6ff: Running Application: biz.webcreation.bible
+PIDs--------------------------------------------------------------------------
+u0_a807       15058    423 13819680 106996 0                  0 R biz.webcreation.bible
+forward tcp:35535 jdwp:15058
+[*]Found JDWP Target: 15058
+159ceeed: Running Application: biz.webcreation.bible
+PIDs--------------------------------------------------------------------------
+u0_a807       15058    423 15302140 189660 0                  0 S biz.webcreation.bible
+159ceeed: Tryging attach jdb to 15058
+jdb -connect com.sun.jdi.SocketAttach:hostname=localhost,port=35535
+b29e6a69: Terminated logcat thread...by itself
+46604b9f: Terminated logcat thread...by itself
+46604b9f: Top-activity: biz.webcreation.bible/.MainActivity
+3601a6ff: Terminated logcat thread...by itself
+PIDs--------------------------------------------------------------------------
+u0_a344       14031    425 14679252 185804 0                  0 S biz.webcreation.bible
+46604b9f: savedPid = 14031
+PIDs--------------------------------------------------------------------------
+u0_a344       14031    425 14679252 185804 0                  0 S biz.webcreation.bible
+46604b9f: savedPid2 = 14031
+Stopping app: biz.webcreation.bible
+3601a6ff: Top-activity: biz.webcreation.bible/.MainActivity
+b29e6a69: Top-activity: biz.webcreation.bible/.MainActivity
+PIDs--------------------------------------------------------------------------
+u0_a391       16802    414 14629584 183036 0                  0 S biz.webcreation.bible
+3601a6ff: savedPid = 16802
+PIDs--------------------------------------------------------------------------
+u0_a468       12873    430 14724416 191264 0                  0 S biz.webcreation.bible
+b29e6a69: savedPid = 12873
+PIDs--------------------------------------------------------------------------
+u0_a468       12873    430 14724416 191264 0                  0 S biz.webcreation.bible
+b29e6a69: savedPid2 = 12873
+Stopping app: biz.webcreation.bible
+PIDs--------------------------------------------------------------------------
+u0_a391       16802    414 14629584 183036 0                  0 S biz.webcreation.bible
+3601a6ff: savedPid2 = 16802
+Stopping app: biz.webcreation.bible
+Tryging remove : uninstall biz.webcreation.bible(biz.webcreation.bible)
+3601a6ff: Remove Success
+3601a6ff: ilog file size: 333612825
+3601a6ff: End of collecting logcat...
+159ceeed: Running is done - starting comparing... : 10001
+159ceeed: Terminated logcat thread...by itself
+159ceeed: Top-activity: biz.webcreation.bible/.MainActivity
+PIDs--------------------------------------------------------------------------
+u0_a807       15058    423 14755820 201744 0                  0 S biz.webcreation.bible
+159ceeed: savedPid = 15058
+PIDs--------------------------------------------------------------------------
+u0_a807       15058    423 14755820 201744 0                  0 S biz.webcreation.bible
+159ceeed: savedPid2 = 15058
+Stopping app: biz.webcreation.bible
+Tryging remove : uninstall biz.webcreation.bible(biz.webcreation.bible)
+46604b9f: Remove Success
+46604b9f: ilog file size: 333686882
+46604b9f: End of collecting logcat...
+Tryging remove : uninstall biz.webcreation.bible(biz.webcreation.bible)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 332795777
+b29e6a69: End of collecting logcat...
+Tryging remove : uninstall biz.webcreation.bible(biz.webcreation.bible)
+159ceeed: Remove Success
+159ceeed: ilog file size: 332021867
+159ceeed: End of collecting logcat...
+HPFinder's try count remains: 29
+Target PID : 16802
+Target PID : 16802
+Target PID : 16802
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_biz.webcreation.bible_1.1.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.tamperRemoved.obfuscated_flattened.ilog)
+Target PID : 15058
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_biz.webcreation.bible_1.1.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.tamperRemoved.obfuscated_flattened.ilog)
+Target PID : 14031
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_biz.webcreation.bible_1.1.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.tamperRemoved.obfuscated_flattened.ilog)
+Target PID : 12873
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_biz.webcreation.bible_1.1.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.tamperRemoved.obfuscated_flattened.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devTamper_biz.webcreation.bible_1.1.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.tamperRemoved.obfuscated_flattened.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_biz.webcreation.bible_1.1.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.tamperRemoved.obfuscated_flattened.ilog)
+[*] FlowManager: adjust finished.
+Action is completely same :)
+android.view.ViewGroup/addView:(Landroid/view/View;I)V:73de10		=(rels)=>		1
+[*] Unique action: 1:133314 : <<CALL>> : name.ratson.cordova.admob.banner.BannerExecutor$4/run:()V:73de10  =>  android.view.ViewGroup/addView:(Landroid/view/View;I)V:1959a4
+[*] FlowManager: adjust finished.
+Action is completely same :)
+android.view.ViewGroup/addView:(Landroid/view/View;I)V:73de10		=(rels)=>		1
+[*] Unique action: 1:143075 : <<CALL>> : name.ratson.cordova.admob.banner.BannerExecutor$4/run:()V:73de10  =>  android.view.ViewGroup/addView:(Landroid/view/View;I)V:1959a4
+[*] FlowManager: adjust finished.
+Action is completely same :)
+Action is completely same :)
+b29e6a69: There is no difference. (tryAgain=false)
+	1:compareBackwardBranch2: 1:51335 : <<BRANCH>> : org.apache.cordova.engine.SystemWebViewEngine/initWebViewSettings:()V:771f3a  =>  org.apache.cordova.engine.SystemWebViewEngine/initWebViewSettings:()V:771f44
+android.view.ViewGroup/addView:(Landroid/view/View;)V:73ddda		=(rels)=>		1
+[*] Unique action: 1:132234 : <<CALL>> : name.ratson.cordova.admob.banner.BannerExecutor$4/run:()V:73ddda  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch2: 1:51335 : <<BRANCH>> : org.apache.cordova.engine.SystemWebViewEngine/initWebViewSettings:()V:771f3a  =>  org.apache.cordova.engine.SystemWebViewEngine/initWebViewSettings:()V:771f44
+android.view.ViewGroup/addView:(Landroid/view/View;)V:73ddc8		=(rels)=>		1
+[*] Unique action: 1:132211 : <<CALL>> : name.ratson.cordova.admob.banner.BannerExecutor$4/run:()V:73ddc8  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch2: 1:51335 : <<BRANCH>> : org.apache.cordova.engine.SystemWebViewEngine/initWebViewSettings:()V:771f3a  =>  org.apache.cordova.engine.SystemWebViewEngine/initWebViewSettings:()V:771f44
+Entry: 771e60
+org.apache.cordova.engine.SystemWebViewEngine/initWebViewSettings:()V: 771f3a -> 771f44
+		org.apache.cordova.engine.SystemWebViewEngine/initWebViewSettings:()V: da -> e4
+addPatchReadme: java.lang.Class<org.apache.cordova.engine.SystemWebViewEngine>initWebViewSettings()V da t
+159ceeed: [+] Patches found in this round: 1
+159ceeed: [*] Found Patch size: 1
+Target PID : 
+@@intraTimelineAnalysis -- 
+android.view.ViewGroup/addView:(Landroid/view/View;)V:73ddda		=(rels)=>		1
+[*] Unique action: 1:142078 : <<CALL>> : name.ratson.cordova.admob.banner.BannerExecutor$4/run:()V:73ddda  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+@@intraTimelineAnalysis -- 
+android.view.ViewGroup/addView:(Landroid/view/View;)V:73ddc8		=(rels)=>		1
+[*] Unique action: 1:142055 : <<CALL>> : name.ratson.cordova.admob.banner.BannerExecutor$4/run:()V:73ddc8  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_biz.webcreation.bible_1.1.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.tamperRemoved.obfuscated_flattened.ilog)
+159ceeed: 	@@@Found patch addr: 771f4a
+159ceeed: Querying offset: 771f3a
+159ceeed: 	--Add method name to patch = org.apache.cordova.engine.SystemWebViewEngine/initWebViewSettings:()V 	771f3a
+@@intraTimelineAnalysis -- 
+Entry: 73e2d0
+name.ratson.cordova.admob.banner.BannerExecutor/showAd:(ZLorg/apache/cordova/CallbackContext;)Lorg/apache/cordova/PluginResult;: 73e2e0 -> 73e2e4
+		name.ratson.cordova.admob.banner.BannerExecutor/showAd:(ZLorg/apache/cordova/CallbackContext;)Lorg/apache/cordova/PluginResult;: 10 -> 14
+addPatchReadme: java.lang.Class<name.ratson.cordova.admob.banner.BannerExecutor>showAd(ZLorg/apache/cordova/CallbackContext;)Lorg/apache/cordova/PluginResult; 10 f
+46604b9f: [+] Patches found in this round: 1
+46604b9f: [*] Found Patch size: 1
+Target PID : 
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devTamper_biz.webcreation.bible_1.1.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.tamperRemoved.obfuscated_flattened.ilog)
+46604b9f: 	@@@Found patch addr: 73e2f0
+46604b9f: Querying offset: 73e2e0
+46604b9f: 	--Add method name to patch = name.ratson.cordova.admob.banner.BannerExecutor/showAd:(ZLorg/apache/cordova/CallbackContext;)Lorg/apache/cordova/PluginResult; 	73e2e0
+Devices presenting anti-analysis: 
+	devTamper
+	devDebug
+46604b9f: patching method: name.ratson.cordova.admob.banner.BannerExecutor/showAd:(ZLorg/apache/cordova/CallbackContext;)Lorg/apache/cordova/PluginResult;
+46604b9f: outDir - /home/santapark/Extended3/DEEPerence/reEx/biz.webcreation.bible_1.1.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.tamperRemoved.apk.obfuscated_flattened_devTamper
+Wow!!!!!  --  name.ratson.cordova.admob.banner.BannerExecutor/showAd:(ZLorg/apache/cordova/CallbackContext;)Lorg/apache/cordova/PluginResult;
+fallthrough: 14
+branchTarget: 14
+NOP!
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/biz.webcreation.bible_1.1.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.tamperRemoved.apk.obfuscated_flattened_devTamper/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/biz.webcreation.bible_1.1.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.tamperRemoved.apk.obfuscated_flattened_devTamper/biz.webcreation.bible_1.1.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.tamperRemoved.apk.obfuscated_flattened.apk
+46604b9f: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/biz.webcreation.bible_1.1.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.tamperRemoved.apk.obfuscated_flattened_devTamper/signed_biz.webcreation.bible_1.1.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.tamperRemoved.apk.obfuscated_flattened.apk
+46604b9f: First address of Lname/ratson/cordova/admob/banner/BannerExecutor;->showAd(ZLorg/apache/cordova/CallbackContext;)Lorg/apache/cordova/PluginResult; = 73e2e0
+46604b9f: Address - Lname/ratson/cordova/admob/banner/BannerExecutor;->showAd(ZLorg/apache/cordova/CallbackContext;)Lorg/apache/cordova/PluginResult;@10	 lastOffset = 42
+46604b9f: Instruction@@: IF_NEZ
+159ceeed: patching method: org.apache.cordova.engine.SystemWebViewEngine/initWebViewSettings:()V
+159ceeed: outDir - /home/santapark/Extended3/DEEPerence/reEx/biz.webcreation.bible_1.1.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.tamperRemoved.apk.obfuscated_flattened_devDebug
+Wow!!!!!  --  org.apache.cordova.engine.SystemWebViewEngine/initWebViewSettings:()V
+fallthrough: de
+branchTarget: e4
+label = cond_0
+GOTO -- de 	e4
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/biz.webcreation.bible_1.1.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.tamperRemoved.apk.obfuscated_flattened_devDebug/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/biz.webcreation.bible_1.1.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.tamperRemoved.apk.obfuscated_flattened_devDebug/biz.webcreation.bible_1.1.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.tamperRemoved.apk.obfuscated_flattened.apk
+159ceeed: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/biz.webcreation.bible_1.1.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.tamperRemoved.apk.obfuscated_flattened_devDebug/signed_biz.webcreation.bible_1.1.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.tamperRemoved.apk.obfuscated_flattened.apk
+159ceeed: First address of Lorg/apache/cordova/engine/SystemWebViewEngine;->initWebViewSettings()V = 771e70
+159ceeed: Address - Lorg/apache/cordova/engine/SystemWebViewEngine;->initWebViewSettings()V@da	 lastOffset = 1b6
+159ceeed: Instruction@@: IF_EQZ
+46604b9f: (Not Installed) Trying remove : true
+159ceeed: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/biz.webcreation.bible_1.1.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.tamperRemoved.apk.obfuscated_flattened_devTamper/signed_biz.webcreation.bible_1.1.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.tamperRemoved.apk.obfuscated_flattened.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/biz.webcreation.bible_1.1.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.tamperRemoved.apk.obfuscated_flattened_devDebug/signed_biz.webcreation.bible_1.1.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.tamperRemoved.apk.obfuscated_flattened.apk
+159ceeed: Installation Success
+46604b9f: Installation Success
+46604b9f: startApplication called! - devTamper
+159ceeed: startApplication called! - devDebug
+46604b9f: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devTamper_biz.webcreation.bible_1.1.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.tamperRemoved.obfuscated_flattened.ilog)
+46604b9f: Running Application: biz.webcreation.bible
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_biz.webcreation.bible_1.1.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.tamperRemoved.obfuscated_flattened.ilog)
+PIDs--------------------------------------------------------------------------
+u0_a808       15317    423 14012708 108280 0                  0 R biz.webcreation.bible
+forward tcp:35535 jdwp:15317
+[*]Found JDWP Target: 15317
+159ceeed: Running Application: biz.webcreation.bible
+PIDs--------------------------------------------------------------------------
+u0_a808       15317    423 15300360 189176 0                  0 S biz.webcreation.bible
+159ceeed: Tryging attach jdb to 15317
+jdb -connect com.sun.jdi.SocketAttach:hostname=localhost,port=35535
+46604b9f: Terminated logcat thread...by itself
+46604b9f: Top-activity: biz.webcreation.bible/.MainActivity
+PIDs--------------------------------------------------------------------------
+u0_a345       14285    425 14662792 186812 0                  0 S biz.webcreation.bible
+46604b9f: savedPid = 14285
+PIDs--------------------------------------------------------------------------
+u0_a345       14285    425 14662792 186812 0                  0 S biz.webcreation.bible
+46604b9f: savedPid2 = 14285
+Stopping app: biz.webcreation.bible
+159ceeed: Running is done - starting comparing... : 10001
+159ceeed: Terminated logcat thread...by itself
+159ceeed: Top-activity: biz.webcreation.bible/.MainActivity
+PIDs--------------------------------------------------------------------------
+u0_a808       15317    423 14658708 201800 0                  0 S biz.webcreation.bible
+159ceeed: savedPid = 15317
+PIDs--------------------------------------------------------------------------
+u0_a808       15317    423 14658708 201800 0                  0 S biz.webcreation.bible
+159ceeed: savedPid2 = 15317
+Stopping app: biz.webcreation.bible
+Tryging remove : uninstall biz.webcreation.bible(biz.webcreation.bible)
+46604b9f: Remove Success
+46604b9f: ilog file size: 334615752
+46604b9f: End of collecting logcat...
+Tryging remove : uninstall biz.webcreation.bible(biz.webcreation.bible)
+159ceeed: Remove Success
+159ceeed: ilog file size: 332059717
+159ceeed: End of collecting logcat...
+HPFinder's try count remains: 28
+Target PID : 16802
+Target PID : 16802
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_biz.webcreation.bible_1.1.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.tamperRemoved.obfuscated_flattened.ilog)
+Target PID : 15317
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_biz.webcreation.bible_1.1.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.tamperRemoved.obfuscated_flattened.ilog)
+Target PID : 14285
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_biz.webcreation.bible_1.1.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.tamperRemoved.obfuscated_flattened.ilog)
+159ceeed: adding filter -- 771f3a
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devTamper_biz.webcreation.bible_1.1.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.tamperRemoved.obfuscated_flattened.ilog)
+46604b9f: adding filter -- 73e2e0
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 771f3a
+Action is completely same :)
+android.view.ViewGroup/addView:(Landroid/view/View;I)V:73de10		=(rels)=>		1
+[*] Unique action: 1:123267 : <<CALL>> : name.ratson.cordova.admob.banner.BannerExecutor$4/run:()V:73de10  =>  android.view.ViewGroup/addView:(Landroid/view/View;I)V:1959a4
+[*] FlowManager: adjust finished.
+	1:compareBackwardBranch2: 1:92600 : <<BRANCH>> : org.apache.cordova.NativeToJsMessageQueue/popAndEncodeAsJs:()Ljava/lang/String;:76decc  =>  org.apache.cordova.NativeToJsMessageQueue/popAndEncodeAsJs:()Ljava/lang/String;:76dee0
+android.view.ViewGroup/addView:(Landroid/view/View;)V:73ddda		=(rels)=>		1
+[*] Unique action: 1:122068 : <<CALL>> : name.ratson.cordova.admob.banner.BannerExecutor$4/run:()V:73ddda  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+-- current localPatchFilter: 73e2e0
+Action is completely same :)
+Action is completely same :)
+46604b9f: There is no difference. (tryAgain=false)
+	1:compareBackwardBranch2: 1:92600 : <<BRANCH>> : org.apache.cordova.NativeToJsMessageQueue/popAndEncodeAsJs:()Ljava/lang/String;:76decc  =>  org.apache.cordova.NativeToJsMessageQueue/popAndEncodeAsJs:()Ljava/lang/String;:76dee0
+android.view.ViewGroup/addView:(Landroid/view/View;)V:73ddc8		=(rels)=>		1
+[*] Unique action: 1:122056 : <<CALL>> : name.ratson.cordova.admob.banner.BannerExecutor$4/run:()V:73ddc8  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch2: 1:92600 : <<BRANCH>> : org.apache.cordova.NativeToJsMessageQueue/popAndEncodeAsJs:()Ljava/lang/String;:76decc  =>  org.apache.cordova.NativeToJsMessageQueue/popAndEncodeAsJs:()Ljava/lang/String;:76dee0
+Entry: 76ddd8
+org.apache.cordova.NativeToJsMessageQueue/popAndEncodeAsJs:()Ljava/lang/String;: 76decc -> 76dee0
+		org.apache.cordova.NativeToJsMessageQueue/popAndEncodeAsJs:()Ljava/lang/String;: f4 -> 108
+addPatchReadme: java.lang.Class<org.apache.cordova.NativeToJsMessageQueue>popAndEncodeAsJs()Ljava/lang/String; f4 t
+159ceeed: [+] Patches found in this round: 1
+159ceeed: [*] Found Patch size: 1
+Target PID : 
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_biz.webcreation.bible_1.1.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.tamperRemoved.obfuscated_flattened.ilog)
+159ceeed: @@localPatchFilter -- 771f4a
+159ceeed: 	@@@Found patch addr: 76dedc
+159ceeed: Querying offset: 76decc
+159ceeed: 	--Add method name to patch = org.apache.cordova.NativeToJsMessageQueue/popAndEncodeAsJs:()Ljava/lang/String; 	76decc
+Devices presenting anti-analysis: 
+	devDebug
+159ceeed: patching method: org.apache.cordova.NativeToJsMessageQueue/popAndEncodeAsJs:()Ljava/lang/String;
+159ceeed: patching method: org.apache.cordova.engine.SystemWebViewEngine/initWebViewSettings:()V
+159ceeed: outDir - /home/santapark/Extended3/DEEPerence/reEx/biz.webcreation.bible_1.1.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.tamperRemoved.apk.obfuscated_flattened_devDebug
+Wow!!!!!  --  org.apache.cordova.NativeToJsMessageQueue/popAndEncodeAsJs:()Ljava/lang/String;
+fallthrough: f8
+branchTarget: 108
+label = cond_8
+GOTO -- f8 	108
+Wow!!!!!  --  org.apache.cordova.engine.SystemWebViewEngine/initWebViewSettings:()V
+fallthrough: de
+branchTarget: e4
+label = cond_0
+GOTO -- de 	e4
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/biz.webcreation.bible_1.1.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.tamperRemoved.apk.obfuscated_flattened_devDebug/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/biz.webcreation.bible_1.1.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.tamperRemoved.apk.obfuscated_flattened_devDebug/biz.webcreation.bible_1.1.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.tamperRemoved.apk.obfuscated_flattened.apk
+159ceeed: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/biz.webcreation.bible_1.1.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.tamperRemoved.apk.obfuscated_flattened_devDebug/signed_biz.webcreation.bible_1.1.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.tamperRemoved.apk.obfuscated_flattened.apk
+159ceeed: First address of Lorg/apache/cordova/NativeToJsMessageQueue;->popAndEncodeAsJs()Ljava/lang/String; = 76dde8
+159ceeed: Address - Lorg/apache/cordova/NativeToJsMessageQueue;->popAndEncodeAsJs()Ljava/lang/String;@f4	 lastOffset = 11a
+159ceeed: Instruction@@: IF_GE
+159ceeed: First address of Lorg/apache/cordova/engine/SystemWebViewEngine;->initWebViewSettings()V = 771e70
+159ceeed: Address - Lorg/apache/cordova/engine/SystemWebViewEngine;->initWebViewSettings()V@da	 lastOffset = 1b6
+159ceeed: Instruction@@: IF_EQZ
+159ceeed: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/biz.webcreation.bible_1.1.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.tamperRemoved.apk.obfuscated_flattened_devDebug/signed_biz.webcreation.bible_1.1.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.tamperRemoved.apk.obfuscated_flattened.apk
+159ceeed: Installation Success
+159ceeed: startApplication called! - devDebug
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_biz.webcreation.bible_1.1.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.tamperRemoved.obfuscated_flattened.ilog)
+PIDs--------------------------------------------------------------------------
+u0_a809       15583    423 13995548 108692 0                  0 S biz.webcreation.bible
+forward tcp:35535 jdwp:15583
+[*]Found JDWP Target: 15583
+159ceeed: Running Application: biz.webcreation.bible
+159ceeed: Running is done - starting comparing... : 10001
+159ceeed: Terminated logcat thread...by itself
+159ceeed: Top-activity: biz.webcreation.bible/.MainActivity
+PIDs--------------------------------------------------------------------------
+u0_a809       15583    423 15248036 198320 0                  0 S biz.webcreation.bible
+159ceeed: savedPid = 15583
+PIDs--------------------------------------------------------------------------
+u0_a809       15583    423 15248036 198320 0                  0 S biz.webcreation.bible
+159ceeed: savedPid2 = 15583
+Stopping app: biz.webcreation.bible
+Tryging remove : uninstall biz.webcreation.bible(biz.webcreation.bible)
+159ceeed: Remove Success
+159ceeed: ilog file size: 9555370
+159ceeed: End of collecting logcat...
+HPFinder's try count remains: 27
+Target PID : 16802
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_biz.webcreation.bible_1.1.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.tamperRemoved.obfuscated_flattened.ilog)
+Target PID : 15583
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_biz.webcreation.bible_1.1.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.tamperRemoved.obfuscated_flattened.ilog)
+159ceeed: adding filter -- 771f3a
+159ceeed: adding filter -- 76decc
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 76decc
+-- current localPatchFilter: 771f3a
+[GOOD]: Anti-analysis is identified! :) -- 1 --devDebug
+android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:4a75ca		=(rels)=>		0
+java.net.URL/openConnection:()Ljava/net/URLConnection;:6e447e		=(rels)=>		1
+[*] Unique action: 18:67918 : <<CALL>> : com.google.firebase.remoteconfig.internal.ConfigFetchHttpClient/createHttpURLConnection:()Ljava/net/HttpURLConnection;:6e447e  =>  java.net.URL/openConnection:()Ljava/net/URLConnection;:12417c
+android.view.ViewGroup/addView:(Landroid/view/View;)V:4c8aac		=(rels)=>		1
+[*] Unique action: 1:189032 : <<CALL>> : com.google.android.gms.internal.ads.zzarh/<init>:(Lcom/google/android/gms/internal/ads/zzaqw;)V:4c8aac  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+android.webkit.WebView/loadUrl:(Ljava/lang/String;)V:4c985e		=(rels)=>		1
+[*] Unique action: 1:317458 : <<CALL>> : com.google.android.gms.internal.ads.zzari/zzdt:(Ljava/lang/String;)V:4c985e  =>  android.webkit.WebView/loadUrl:(Ljava/lang/String;)V:20da2c
+android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:56f392		=(rels)=>		1
+[*] Unique action: 1:190358 : <<CALL>> : com.google.android.gms.internal.ads.zzvf/zza:(Lcom/google/android/gms/internal/ads/zzci;Lcom/google/android/gms/internal/ads/zzvw;)V:56f392  =>  android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:30ca84
+android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:67de02		=(rels)=>		0
+android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:56f5b0		=(rels)=>		1
+[*] Unique action: 1:191916 : <<CALL>> : com.google.android.gms.internal.ads.zzvh/zzlx:()V:56f5b0  =>  android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:30ca84
+android.webkit.WebView/loadUrl:(Ljava/lang/String;)V:4ca06a		=(rels)=>		1
+[*] Unique action: 1:189892 : <<CALL>> : com.google.android.gms.internal.ads.zzari/loadUrl:(Ljava/lang/String;)V:4ca06a  =>  android.webkit.WebView/loadUrl:(Ljava/lang/String;)V:20da2c
+android.view.ViewGroup/addView:(Landroid/view/View;)V:55b66c		=(rels)=>		1
+[*] Unique action: 1:133424 : <<CALL>> : com.google.android.gms.internal.ads.zzly/zza:(Lcom/google/android/gms/internal/ads/zzlw;)V:55b66c  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:71716a		=(rels)=>		0
+java.net.URL/openConnection:()Ljava/net/URLConnection;:717e4c		=(rels)=>		1
+[*] Unique action: 18:1018732 : <<CALL>> : com.onesignal.OneSignalRestClient/newHttpURLConnection:(Ljava/lang/String;)Ljava/net/HttpURLConnection;:717e4c  =>  java.net.URL/openConnection:()Ljava/net/URLConnection;:12417c
+java.net.URL/openConnection:()Ljava/net/URLConnection;:717e4c		=(rels)=>		0
+java.net.URL/openConnection:()Ljava/net/URLConnection;:717e4c		=(rels)=>		0
+android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:4a2724		=(rels)=>		0
+android.webkit.WebView/loadUrl:(Ljava/lang/String;)V:772278		=(rels)=>		1
+[*] Unique action: 1:58985 : <<CALL>> : org.apache.cordova.engine.SystemWebViewEngine/loadUrl:(Ljava/lang/String;Z)V:772278  =>  android.webkit.WebView/loadUrl:(Ljava/lang/String;)V:20da2c
+Action is completely same :)
+Entry: 72bf24
+io.fabric.sdk.android.Kit/containsAnnotatedDependency:(Lio/fabric/sdk/android/Kit;)Z: 72c16e -> 72c172
+		io.fabric.sdk.android.Kit/containsAnnotatedDependency:(Lio/fabric/sdk/android/Kit;)Z: 24a -> 24e
+addPatchReadme: java.lang.Class<io.fabric.sdk.android.Kit>containsAnnotatedDependency(Lio/fabric/sdk/android/Kit;)Z 24a f
+159ceeed: [+] Patches found in this round: 1
+159ceeed: [*] Found Patch size: 1
+Target PID : 
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_biz.webcreation.bible_1.1.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.tamperRemoved.obfuscated_flattened.ilog)
+159ceeed: @@localPatchFilter -- 76dedc
+159ceeed: @@localPatchFilter -- 771f4a
+159ceeed: 	@@@Found patch addr: 72c17e
+159ceeed: Querying offset: 72c16e
+159ceeed: 	--Add method name to patch = io.fabric.sdk.android.Kit/containsAnnotatedDependency:(Lio/fabric/sdk/android/Kit;)Z 	72c16e
+Devices presenting anti-analysis: 
+	devDebug
+159ceeed: patching method: org.apache.cordova.NativeToJsMessageQueue/popAndEncodeAsJs:()Ljava/lang/String;
+159ceeed: patching method: io.fabric.sdk.android.Kit/containsAnnotatedDependency:(Lio/fabric/sdk/android/Kit;)Z
+159ceeed: patching method: org.apache.cordova.engine.SystemWebViewEngine/initWebViewSettings:()V
+159ceeed: outDir - /home/santapark/Extended3/DEEPerence/reEx/biz.webcreation.bible_1.1.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.tamperRemoved.apk.obfuscated_flattened_devDebug
+Wow!!!!!  --  io.fabric.sdk.android.Kit/containsAnnotatedDependency:(Lio/fabric/sdk/android/Kit;)Z
+fallthrough: 24e
+branchTarget: 24e
+NOP!
+Wow!!!!!  --  org.apache.cordova.NativeToJsMessageQueue/popAndEncodeAsJs:()Ljava/lang/String;
+fallthrough: f8
+branchTarget: 108
+label = cond_8
+GOTO -- f8 	108
+Wow!!!!!  --  org.apache.cordova.engine.SystemWebViewEngine/initWebViewSettings:()V
+fallthrough: de
+branchTarget: e4
+label = cond_0
+GOTO -- de 	e4
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/biz.webcreation.bible_1.1.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.tamperRemoved.apk.obfuscated_flattened_devDebug/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/biz.webcreation.bible_1.1.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.tamperRemoved.apk.obfuscated_flattened_devDebug/biz.webcreation.bible_1.1.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.tamperRemoved.apk.obfuscated_flattened.apk
+159ceeed: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/biz.webcreation.bible_1.1.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.tamperRemoved.apk.obfuscated_flattened_devDebug/signed_biz.webcreation.bible_1.1.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.tamperRemoved.apk.obfuscated_flattened.apk
+159ceeed: First address of Lorg/apache/cordova/NativeToJsMessageQueue;->popAndEncodeAsJs()Ljava/lang/String; = 76dde8
+159ceeed: Address - Lorg/apache/cordova/NativeToJsMessageQueue;->popAndEncodeAsJs()Ljava/lang/String;@f4	 lastOffset = 11a
+159ceeed: Instruction@@: IF_GE
+159ceeed: First address of Lio/fabric/sdk/android/Kit;->containsAnnotatedDependency(Lio/fabric/sdk/android/Kit;)Z = 72bf34
+159ceeed: Address - Lio/fabric/sdk/android/Kit;->containsAnnotatedDependency(Lio/fabric/sdk/android/Kit;)Z@24a	 lastOffset = 424
+159ceeed: Instruction@@: IF_EQZ
+159ceeed: First address of Lorg/apache/cordova/engine/SystemWebViewEngine;->initWebViewSettings()V = 771e70
+159ceeed: Address - Lorg/apache/cordova/engine/SystemWebViewEngine;->initWebViewSettings()V@da	 lastOffset = 1b6
+159ceeed: Instruction@@: IF_EQZ
+159ceeed: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/biz.webcreation.bible_1.1.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.tamperRemoved.apk.obfuscated_flattened_devDebug/signed_biz.webcreation.bible_1.1.1.apk@devTamper-D-R@devRoot-D-R@devDebug-D-R.apk.tamperRemoved.apk.obfuscated_flattened.apk
+159ceeed: Installation Success
+159ceeed: startApplication called! - devDebug
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_biz.webcreation.bible_1.1.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.tamperRemoved.obfuscated_flattened.ilog)
+PIDs--------------------------------------------------------------------------
+u0_a810       15834    423 14012708 108528 0                  0 R biz.webcreation.bible
+forward tcp:35535 jdwp:15834
+[*]Found JDWP Target: 15834
+159ceeed: Running Application: biz.webcreation.bible
+PIDs--------------------------------------------------------------------------
+u0_a810       15834    423 15211552 190940 0                  0 S biz.webcreation.bible
+159ceeed: Tryging attach jdb to 15834
+jdb -connect com.sun.jdi.SocketAttach:hostname=localhost,port=35535
+159ceeed: Running is done - starting comparing... : 10001
+159ceeed: Terminated logcat thread...by itself
+159ceeed: Top-activity: biz.webcreation.bible/.MainActivity
+PIDs--------------------------------------------------------------------------
+u0_a810       15834    423 14652432 201812 0                  0 S biz.webcreation.bible
+159ceeed: savedPid = 15834
+PIDs--------------------------------------------------------------------------
+u0_a810       15834    423 14652432 201812 0                  0 S biz.webcreation.bible
+159ceeed: savedPid2 = 15834
+Stopping app: biz.webcreation.bible
+Tryging remove : uninstall biz.webcreation.bible(biz.webcreation.bible)
+159ceeed: Remove Success
+159ceeed: ilog file size: 333390101
+159ceeed: End of collecting logcat...
+HPFinder's try count remains: 26
+Target PID : 16802
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_biz.webcreation.bible_1.1.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.tamperRemoved.obfuscated_flattened.ilog)
+Target PID : 15834
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_biz.webcreation.bible_1.1.1@devTamper-D-R@devRoot-D-R@devDebug-D-R.tamperRemoved.obfuscated_flattened.ilog)
+159ceeed: adding filter -- 72c16e
+159ceeed: adding filter -- 771f3a
+159ceeed: adding filter -- 76decc
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 76decc
+-- current localPatchFilter: 72c16e
+-- current localPatchFilter: 771f3a
+Action is completely same :)
+Action is completely same :)
+159ceeed: There is no difference. (tryAgain=false)
+-- HPFinder will be done in this iteration :)
+hasAntiAnalysis? - devTamper: true on biz.webcreation.bible.MainActivity
+	isRemovedThem? - devTamper: true on biz.webcreation.bible.MainActivity	-	tryCount: 1
+hasAntiAnalysis? - devRoot: false on biz.webcreation.bible.MainActivity
+hasAntiAnalysis? - devDebug: true on biz.webcreation.bible.MainActivity
+	isRemovedThem? - devDebug: true on biz.webcreation.bible.MainActivity	-	tryCount: 3
+*****REPORT: biz.webcreation.bible
+* Package name: biz.webcreation.bible
+* Running time: 676
+* FileSize: 37787058
+devTamper : 334615752
+devRef : 333612825
+devRoot : 332795777
+devDebug : 333390101
+hasAntiAnalysis? - devTamper: true on biz.webcreation.bible.MainActivity
+	isRemovedThem? - devTamper: true on biz.webcreation.bible.MainActivity	-	tryCount: 1
+hasAntiAnalysis? - devRoot: false on biz.webcreation.bible.MainActivity
+hasAntiAnalysis? - devDebug: true on biz.webcreation.bible.MainActivity
+	isRemovedThem? - devDebug: true on biz.webcreation.bible.MainActivity	-	tryCount: 3
+46604b9f: trying remove : biz.webcreation.bible
+3601a6ff: trying remove : biz.webcreation.bible
+b29e6a69: trying remove : biz.webcreation.bible
+159ceeed: trying remove : biz.webcreation.bible
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+159ceeed: result = true
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+b29e6a69: result = true
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+46604b9f: result = true
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+3601a6ff: result = true
+3601a6ff: isFailedToLaunch: biz.webcreation.bible/.MainActivity
+3601a6ff: 	--result: Good :)

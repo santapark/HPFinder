@@ -1,0 +1,286 @@
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/com.glogis.lemp.malcs_1.0.19.apk@devRoot-D-R.apk.obfuscated/AndroidManifest.xml
+launchable-activity: name='com.glogis.lemp.malps.SlideFragmentActivity'  label='롯데택배' icon=''
+{ACTIVITY, com.glogis.lemp.malps.SlideFragmentActivity, android.intent.action.MAIN}
+{ACTIVITY, com.glogis.lemp.view.DummyActivity, android.intent.action.VIEW}
+{ACTIVITY, com.glogis.lemp.view.barcode.CaptureActivity}
+{ACTIVITY, com.glogis.lemp.view.log.LogViewerActivity}
+{ACTIVITY, com.glogis.lemp.view.filebrowser.FileBrowserActivity}
+{ACTIVITY, com.glogis.lemp.view.DocConvertViewerActivity}
+{ACTIVITY, com.glogis.lemp.view.PaymentWebviewActivity}
+{ACTIVITY, com.glogis.lemp.view.dialog.PushDialogActivity}
+{ACTIVITY, com.glogis.lemp.plugin.malps.LocationActivity}
+{SERVICE, com.laboratory.ldcc.wave.downstream.WaveTokenService, com.google.firebase.INSTANCE_ID_EVENT}
+{RECEIVER, com.laboratory.ldcc.wave.downstream.WaveDefaultMessageReceiver, com.ldcc.lemp.base.dev.MESSAGING_RECEIVED, com.ldcc.lemp.base.MESSAGING_RECEIVED}
+{SERVICE, com.laboratory.ldcc.wave.downstream.WaveService, com.google.firebase.MESSAGING_EVENT}
+{RECEIVER, com.glogis.lemp.receiver.DefaultOpenReceiver, com.glogis.lemp.malcs.MESSAGING_OPENED}
+{RECEIVER, com.glogis.lemp.receiver.MstMessageReceiver, com.glogis.lemp.malcs.MESSAGING_RECEIVED}
+{SERVICE, com.glogis.lemp.plugin.notification.NotificationListener, android.service.notification.NotificationListenerService}
+{ACTIVITY, com.ldcc.lemp.core.view.deviceregist.DeviceRegistActivity}
+{ACTIVITY, com.ldcc.lemp.core.view.signature.SignatureActivity}
+{ACTIVITY, com.ldcc.lemp.core.view.image.ImageViewerActivity}
+{ACTIVITY, com.ldcc.lemp.core.view.networksetting.NetworkSettingActivity}
+{ACTIVITY, com.ldcc.lemp.core.view.crash.CrashLogListViewerActivity}
+{ACTIVITY, com.ldcc.lemp.core.view.crash.CrashLogViewerActivity}
+{ACTIVITY, com.ldcc.lemp.core.permission.PermissionActivity}
+{ACTIVITY, com.journeyapps.barcodescanner.CaptureActivity}
+{SERVICE, com.google.firebase.messaging.FirebaseMessagingService, com.google.firebase.MESSAGING_EVENT}
+{ACTIVITY, com.laboratory.ldcc.wave.wave.WaveDialogActivity}
+{ACTIVITY, com.google.android.gms.auth.api.signin.internal.SignInHubActivity}
+{SERVICE, com.google.android.gms.auth.api.signin.RevocationBoundService}
+{SERVICE, com.google.firebase.components.ComponentDiscoveryService}
+{RECEIVER, com.google.android.gms.measurement.AppMeasurementReceiver}
+{RECEIVER, com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver, com.android.vending.INSTALL_REFERRER}
+{SERVICE, com.google.android.gms.measurement.AppMeasurementService}
+{SERVICE, com.google.android.gms.measurement.AppMeasurementJobService}
+{RECEIVER, com.google.firebase.iid.FirebaseInstanceIdReceiver, com.google.android.c2dm.intent.RECEIVE}
+{SERVICE, com.google.firebase.iid.FirebaseInstanceIdService, com.google.firebase.INSTANCE_ID_EVENT}
+{ACTIVITY, com.glogis.lemp.malps.SlideFragmentActivity, android.intent.action.MAIN}
+{ACTIVITY, com.glogis.lemp.view.DummyActivity, android.intent.action.VIEW}
+{ACTIVITY, com.glogis.lemp.view.barcode.CaptureActivity}
+{ACTIVITY, com.glogis.lemp.view.log.LogViewerActivity}
+{ACTIVITY, com.glogis.lemp.view.filebrowser.FileBrowserActivity}
+{ACTIVITY, com.glogis.lemp.view.DocConvertViewerActivity}
+{ACTIVITY, com.glogis.lemp.view.PaymentWebviewActivity}
+{ACTIVITY, com.glogis.lemp.view.dialog.PushDialogActivity}
+{ACTIVITY, com.glogis.lemp.plugin.malps.LocationActivity}
+{SERVICE, com.laboratory.ldcc.wave.downstream.WaveTokenService, com.google.firebase.INSTANCE_ID_EVENT}
+{RECEIVER, com.laboratory.ldcc.wave.downstream.WaveDefaultMessageReceiver, com.ldcc.lemp.base.dev.MESSAGING_RECEIVED, com.ldcc.lemp.base.MESSAGING_RECEIVED}
+{SERVICE, com.laboratory.ldcc.wave.downstream.WaveService, com.google.firebase.MESSAGING_EVENT}
+{RECEIVER, com.glogis.lemp.receiver.DefaultOpenReceiver, com.glogis.lemp.malcs.MESSAGING_OPENED}
+{RECEIVER, com.glogis.lemp.receiver.MstMessageReceiver, com.glogis.lemp.malcs.MESSAGING_RECEIVED}
+{SERVICE, com.glogis.lemp.plugin.notification.NotificationListener, android.service.notification.NotificationListenerService}
+{ACTIVITY, com.ldcc.lemp.core.view.deviceregist.DeviceRegistActivity}
+{ACTIVITY, com.ldcc.lemp.core.view.signature.SignatureActivity}
+{ACTIVITY, com.ldcc.lemp.core.view.image.ImageViewerActivity}
+{ACTIVITY, com.ldcc.lemp.core.view.networksetting.NetworkSettingActivity}
+{ACTIVITY, com.ldcc.lemp.core.view.crash.CrashLogListViewerActivity}
+{ACTIVITY, com.ldcc.lemp.core.view.crash.CrashLogViewerActivity}
+{ACTIVITY, com.ldcc.lemp.core.permission.PermissionActivity}
+{ACTIVITY, com.journeyapps.barcodescanner.CaptureActivity}
+{SERVICE, com.google.firebase.messaging.FirebaseMessagingService, com.google.firebase.MESSAGING_EVENT}
+{ACTIVITY, com.laboratory.ldcc.wave.wave.WaveDialogActivity}
+{ACTIVITY, com.google.android.gms.auth.api.signin.internal.SignInHubActivity}
+{SERVICE, com.google.android.gms.auth.api.signin.RevocationBoundService}
+{SERVICE, com.google.firebase.components.ComponentDiscoveryService}
+{RECEIVER, com.google.android.gms.measurement.AppMeasurementReceiver}
+{RECEIVER, com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver, com.android.vending.INSTALL_REFERRER}
+{SERVICE, com.google.android.gms.measurement.AppMeasurementService}
+{SERVICE, com.google.android.gms.measurement.AppMeasurementJobService}
+{RECEIVER, com.google.firebase.iid.FirebaseInstanceIdReceiver, com.google.android.c2dm.intent.RECEIVE}
+{SERVICE, com.google.firebase.iid.FirebaseInstanceIdService, com.google.firebase.INSTANCE_ID_EVENT}
+_getAllDexFiles: /home/santapark/Extended3/DEEPerence/reEx/com.glogis.lemp.malcs_1.0.19.apk@devRoot-D-R.apk.obfuscated/classes.dex
+----------------/home/santapark/Extended3/DEEPerence/reEx/com.glogis.lemp.malcs_1.0.19.apk@devRoot-D-R.apk.obfuscated.apk
+dexFile = org.jf.dexlib2.dexbacked.DexBackedDexFile@29a0cdb
+com.glogis.lemp.malcs
+com.glogis.lemp.malps.SlideFragmentActivity
+debuggable: false
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/com.glogis.lemp.malcs_1.0.19.apk@devRoot-D-R.apk.obfuscated.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/com.glogis.lemp.malcs_1.0.19.apk@devRoot-D-R.apk.obfuscated.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/com.glogis.lemp.malcs_1.0.19.apk@devRoot-D-R.apk.obfuscated.apk
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/com.glogis.lemp.malcs_1.0.19.apk@devRoot-D-R.apk.obfuscated_46604b9f/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/com.glogis.lemp.malcs_1.0.19.apk@devRoot-D-R.apk.obfuscated_46604b9f/com.glogis.lemp.malcs_1.0.19.apk@devRoot-D-R.apk.obfuscated.apk
+159ceeed: Installation Success
+3601a6ff: Installation Success
+b29e6a69: Installation Success
+46604b9f: Installing repackaged apk File: 
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/com.glogis.lemp.malcs_1.0.19.apk@devRoot-D-R.apk.obfuscated_46604b9f/signed_com.glogis.lemp.malcs_1.0.19.apk@devRoot-D-R.apk.obfuscated.apk
+46604b9f: Installation Success
+46604b9f: startApplication called! - devTamper
+3601a6ff: startApplication called! - devRef
+b29e6a69: startApplication called! - devRoot
+159ceeed: startApplication called! - devDebug
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_com.glogis.lemp.malcs_1.0.19@devRoot-D-R.obfuscated.ilog)
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_com.glogis.lemp.malcs_1.0.19@devRoot-D-R.obfuscated.ilog)
+46604b9f: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devTamper_com.glogis.lemp.malcs_1.0.19@devRoot-D-R.obfuscated.ilog)
+3601a6ff: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRef_com.glogis.lemp.malcs_1.0.19@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Running Application: com.glogis.lemp.malcs
+46604b9f: Running Application: com.glogis.lemp.malcs
+3601a6ff: Running Application: com.glogis.lemp.malcs
+PIDs--------------------------------------------------------------------------
+u0_a955       22620    423 14403912 103496 0                  0 R com.glogis.lemp.malcs
+forward tcp:35535 jdwp:22620
+[*]Found JDWP Target: 22620
+159ceeed: Running Application: com.glogis.lemp.malcs
+PIDs--------------------------------------------------------------------------
+u0_a955       22620    423 14979948 185608 0                  0 S com.glogis.lemp.malcs
+159ceeed: Tryging attach jdb to 22620
+jdb -connect com.sun.jdi.SocketAttach:hostname=localhost,port=35535
+46604b9f: Running is done - starting comparing... : 10001
+46604b9f: Terminated logcat thread...by itself
+PIDs--------------------------------------------------------------------------
+46604b9f: savedPid = null
+PIDs--------------------------------------------------------------------------
+46604b9f: savedPid2 = null
+Stopping app: com.glogis.lemp.malcs
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: Remove Success
+46604b9f: ilog file size: 20057268
+46604b9f: End of collecting logcat...
+b29e6a69: Terminated logcat thread...by itself
+3601a6ff: Terminated logcat thread...by itself
+3601a6ff: Top-activity: com.glogis.lemp.malcs/com.glogis.lemp.malps.SlideFragmentActivity
+PIDs--------------------------------------------------------------------------
+u0_a517       18477    414 14920048 176652 0                  0 S com.glogis.lemp.malcs
+3601a6ff: savedPid = 18477
+PIDs--------------------------------------------------------------------------
+u0_a517       18477    414 14920048 176652 0                  0 S com.glogis.lemp.malcs
+3601a6ff: savedPid2 = 18477
+Stopping app: com.glogis.lemp.malcs
+b29e6a69: Top-activity: com.glogis.lemp.malcs/com.glogis.lemp.malps.SlideFragmentActivity
+PIDs--------------------------------------------------------------------------
+u0_a648       26324    430 14953076 184028 0                  0 S com.glogis.lemp.malcs
+b29e6a69: savedPid = 26324
+PIDs--------------------------------------------------------------------------
+u0_a648       26324    430 14953076 184028 0                  0 S com.glogis.lemp.malcs
+b29e6a69: savedPid2 = 26324
+Stopping app: com.glogis.lemp.malcs
+Tryging remove : uninstall com.glogis.lemp.malcs(com.glogis.lemp.malcs)
+3601a6ff: Remove Success
+3601a6ff: ilog file size: 95666492
+3601a6ff: End of collecting logcat...
+Tryging remove : uninstall com.glogis.lemp.malcs(com.glogis.lemp.malcs)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 91728468
+b29e6a69: End of collecting logcat...
+159ceeed: Terminated logcat thread...by itself
+159ceeed: Top-activity: com.glogis.lemp.malcs/com.glogis.lemp.malps.SlideFragmentActivity
+PIDs--------------------------------------------------------------------------
+u0_a955       22620    423 15048184 195556 0                  0 S com.glogis.lemp.malcs
+159ceeed: savedPid = 22620
+PIDs--------------------------------------------------------------------------
+u0_a955       22620    423 15048184 195556 0                  0 S com.glogis.lemp.malcs
+159ceeed: savedPid2 = 22620
+Stopping app: com.glogis.lemp.malcs
+Tryging remove : uninstall com.glogis.lemp.malcs(com.glogis.lemp.malcs)
+159ceeed: Remove Success
+159ceeed: ilog file size: 96645061
+159ceeed: End of collecting logcat...
+HPFinder's try count remains: 29
+46604b9f: Error: Activity not found(2)  --  skip com.glogis.lemp.malcs_1.0.19.apk@devRoot-D-R.apk.obfuscated.apk
+Target PID : 18477
+Target PID : 18477
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_com.glogis.lemp.malcs_1.0.19@devRoot-D-R.obfuscated.ilog)
+Target PID : 22620
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_com.glogis.lemp.malcs_1.0.19@devRoot-D-R.obfuscated.ilog)
+Target PID : 26324
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_com.glogis.lemp.malcs_1.0.19@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_com.glogis.lemp.malcs_1.0.19@devRoot-D-R.obfuscated.ilog)
+[*] FlowManager: adjust finished.
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+java.net.URL/openConnection:()Ljava/net/URLConnection;:68f8ec		=(rels)=>		1
+[*] Unique action: 26:60469 : <<CALL>> : com.ldcc.lemp.core.communicator.CommunicationWithUrlConnection$1/a:([Ljava/lang/Void;)Lorg/json/JSONObject;:68f8ec  =>  java.net.URL/openConnection:()Ljava/net/URLConnection;:12417c
+	1:compareBackwardBranch: 26:43957 : <<BRANCH>> : com.glogis.lemp.view.b$j/resultCallback:(Ljava/lang/String;Ljava/lang/String;Lorg/json/JSONObject;)V:59f4dc  =>  com.glogis.lemp.view.b$j/resultCallback:(Ljava/lang/String;Ljava/lang/String;Lorg/json/JSONObject;)V:59f4e0
+org.apache.http.impl.client.DefaultHttpClient/<init>:(Lorg/apache/http/conn/ClientConnectionManager;Lorg/apache/http/params/HttpParams;)V:6aae7e		=(rels)=>		1
+[*] Unique action: 29:59941 : <<CALL>> : com.ldcc.lemp.core.util.http.HttpClientUtil/<clinit>:()V:6aae7e  =>  org.apache.http.impl.client.DefaultHttpClient/<init>:(Lorg/apache/http/conn/ClientConnectionManager;Lorg/apache/http/params/HttpParams;)V:31acc
+[*] FlowManager: adjust finished.
+Action is completely same :)
+Action is completely same :)
+159ceeed: There is no difference. (tryAgain=false)
+android.os.AsyncTask/execute:([Ljava/lang/Object;)Landroid/os/AsyncTask;:69019c		=(rels)=>		1
+[*] Unique action: 29:60427 : <<CALL>> : com.ldcc.lemp.core.communicator.CommunicationWithUrlConnection/communicate:(Ljava/net/URL;Ljava/lang/String;Lcom/ldcc/lemp/core/communicator/CommunicationCallback;I)V:69019c  =>  android.os.AsyncTask/execute:([Ljava/lang/Object;)Landroid/os/AsyncTask;:2ed1e4
+android.app.Dialog/show:()V:58a9c2		=(rels)=>		1
+[*] Unique action: 1:60558 : <<CALL>> : com.glogis.lemp.plugin.malps.MalpsProgressPlugin$1/run:()V:58a9c2  =>  android.app.Dialog/show:()V:1b4adc
+Action is completely same :)
+Entry: 59f2ec
+com.glogis.lemp.view.b$j/resultCallback:(Ljava/lang/String;Ljava/lang/String;Lorg/json/JSONObject;)V: 59f4dc -> 59f4e0
+		com.glogis.lemp.view.b$j/resultCallback:(Ljava/lang/String;Ljava/lang/String;Lorg/json/JSONObject;)V: 1f0 -> 1f4
+addPatchReadme: java.lang.Class<com.glogis.lemp.view.b$j>resultCallback(Ljava/lang/String;Ljava/lang/String;Lorg/json/JSONObject;)V 1f0 f
+Entry: 587cb8
+com.glogis.lemp.plugin.RootingCheckPlugin/a:([Ljava/lang/String;)Z: 587cbe -> 587d50
+		com.glogis.lemp.plugin.RootingCheckPlugin/a:([Ljava/lang/String;)Z: 6 -> 98
+addPatchReadme: java.lang.Class<com.glogis.lemp.plugin.RootingCheckPlugin>a([Ljava/lang/String;)Z 6 t
+b29e6a69: [+] Patches found in this round: 2
+b29e6a69: [*] Found Patch size: 1
+Target PID : 
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_com.glogis.lemp.malcs_1.0.19@devRoot-D-R.obfuscated.ilog)
+b29e6a69: 	@@@Found patch addr: 587cce
+b29e6a69: Querying offset: 587cbe
+b29e6a69: 	--Add method name to patch = com.glogis.lemp.plugin.RootingCheckPlugin/a:([Ljava/lang/String;)Z 	587cbe
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: patching method: com.glogis.lemp.plugin.RootingCheckPlugin/a:([Ljava/lang/String;)Z
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/com.glogis.lemp.malcs_1.0.19.apk@devRoot-D-R.apk.obfuscated_devRoot
+Wow!!!!!  --  com.glogis.lemp.plugin.RootingCheckPlugin/a:([Ljava/lang/String;)Z
+fallthrough: a
+branchTarget: 98
+label = cond_1
+GOTO -- a 	98
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/com.glogis.lemp.malcs_1.0.19.apk@devRoot-D-R.apk.obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/com.glogis.lemp.malcs_1.0.19.apk@devRoot-D-R.apk.obfuscated_devRoot/com.glogis.lemp.malcs_1.0.19.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/com.glogis.lemp.malcs_1.0.19.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_com.glogis.lemp.malcs_1.0.19.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: First address of Lcom/glogis/lemp/plugin/RootingCheckPlugin;->a([Ljava/lang/String;)Z = 587cc8
+b29e6a69: Address - Lcom/glogis/lemp/plugin/RootingCheckPlugin;->a([Ljava/lang/String;)Z@6	 lastOffset = 98
+b29e6a69: Instruction@@: IF_GE
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/com.glogis.lemp.malcs_1.0.19.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_com.glogis.lemp.malcs_1.0.19.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_com.glogis.lemp.malcs_1.0.19@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Running Application: com.glogis.lemp.malcs
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.glogis.lemp.malcs/com.glogis.lemp.malps.SlideFragmentActivity
+PIDs--------------------------------------------------------------------------
+u0_a649       26469    430 15053516 184200 0                  0 S com.glogis.lemp.malcs
+b29e6a69: savedPid = 26469
+PIDs--------------------------------------------------------------------------
+u0_a649       26469    430 15053516 184200 0                  0 S com.glogis.lemp.malcs
+b29e6a69: savedPid2 = 26469
+Stopping app: com.glogis.lemp.malcs
+Tryging remove : uninstall com.glogis.lemp.malcs(com.glogis.lemp.malcs)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 95573360
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 28
+Target PID : 18477
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_com.glogis.lemp.malcs_1.0.19@devRoot-D-R.obfuscated.ilog)
+Target PID : 26469
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_com.glogis.lemp.malcs_1.0.19@devRoot-D-R.obfuscated.ilog)
+b29e6a69: adding filter -- 587cbe
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 587cbe
+Action is completely same :)
+Action is completely same :)
+b29e6a69: There is no difference. (tryAgain=false)
+-- HPFinder will be done in this iteration :)
+hasAntiAnalysis? - devTamper: false on com.glogis.lemp.malps.SlideFragmentActivity
+hasAntiAnalysis? - devRoot: true on com.glogis.lemp.malps.SlideFragmentActivity
+	isRemovedThem? - devRoot: true on com.glogis.lemp.malps.SlideFragmentActivity	-	tryCount: 1
+hasAntiAnalysis? - devDebug: false on com.glogis.lemp.malps.SlideFragmentActivity
+*****REPORT: com.glogis.lemp.malcs
+* Package name: com.glogis.lemp.malcs
+* Running time: 337
+* FileSize: 5141959
+devTamper : 20057268
+devRef : 95666492
+devRoot : 95573360
+devDebug : 96645061
+hasAntiAnalysis? - devTamper: false on com.glogis.lemp.malps.SlideFragmentActivity
+hasAntiAnalysis? - devRoot: true on com.glogis.lemp.malps.SlideFragmentActivity
+	isRemovedThem? - devRoot: true on com.glogis.lemp.malps.SlideFragmentActivity	-	tryCount: 1
+hasAntiAnalysis? - devDebug: false on com.glogis.lemp.malps.SlideFragmentActivity
+46604b9f: trying remove : com.glogis.lemp.malcs
+3601a6ff: trying remove : com.glogis.lemp.malcs
+b29e6a69: trying remove : com.glogis.lemp.malcs
+159ceeed: trying remove : com.glogis.lemp.malcs
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+46604b9f: result = true
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+b29e6a69: result = true
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+159ceeed: result = true
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+3601a6ff: result = true
+3601a6ff: isFailedToLaunch: com.glogis.lemp.malcs/com.glogis.lemp.malps.SlideFragmentActivity
+3601a6ff: 	--result: Good :)

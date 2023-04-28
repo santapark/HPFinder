@@ -1,0 +1,349 @@
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample70.apk@devRoot-D-R.apk.obfuscated/AndroidManifest.xml
+launchable-activity: name='com.vertexid.korea7.MainActivity'  label='7-ELEVEN' icon=''
+{ACTIVITY, .MainActivity, android.intent.action.MAIN}
+{ACTIVITY, .Korea7Activity}
+{RECEIVER, com.google.android.gcm.GCMBroadcastReceiver, com.google.android.c2dm.intent.RECEIVE, com.google.android.c2dm.intent.REGISTRATION}
+{SERVICE, com.vertexid.korea7.GCMIntentService}
+{ACTIVITY, .SelectShopAndDate}
+{ACTIVITY, .OrderListActivity}
+{ACTIVITY, .DetailListActivity}
+{ACTIVITY, .barcode.CaptureActivity, com.vertexid.korea7.SCAN, android.intent.action.VIEW, android.intent.action.VIEW, android.intent.action.VIEW, android.intent.action.VIEW}
+{ACTIVITY, .barcode.PreferencesActivity}
+{ACTIVITY, .encode.EncodeActivity, com.vertexid.korea7.ENCODE, android.intent.action.SEND, android.intent.action.SEND}
+{ACTIVITY, .book.SearchBookContentsActivity, com.vertexid.korea7.SEARCH_BOOK_CONTENTS}
+{ACTIVITY, .share.ShareActivity, com.vertexid.korea7.SHARE}
+{ACTIVITY, .history.HistoryActivity, android.intent.action.VIEW}
+{ACTIVITY, .share.BookmarkPickerActivity, android.intent.action.PICK}
+{ACTIVITY, .share.AppPickerActivity, android.intent.action.PICK}
+{ACTIVITY, .barcode.HelpActivity, android.intent.action.VIEW}
+{ACTIVITY, .MainActivity, android.intent.action.MAIN}
+{ACTIVITY, .Korea7Activity}
+{RECEIVER, com.google.android.gcm.GCMBroadcastReceiver, com.google.android.c2dm.intent.RECEIVE, com.google.android.c2dm.intent.REGISTRATION}
+{SERVICE, com.vertexid.korea7.GCMIntentService}
+{ACTIVITY, .SelectShopAndDate}
+{ACTIVITY, .OrderListActivity}
+{ACTIVITY, .DetailListActivity}
+{ACTIVITY, .barcode.CaptureActivity, com.vertexid.korea7.SCAN, android.intent.action.VIEW, android.intent.action.VIEW, android.intent.action.VIEW, android.intent.action.VIEW}
+{ACTIVITY, .barcode.PreferencesActivity}
+{ACTIVITY, .encode.EncodeActivity, com.vertexid.korea7.ENCODE, android.intent.action.SEND, android.intent.action.SEND}
+{ACTIVITY, .book.SearchBookContentsActivity, com.vertexid.korea7.SEARCH_BOOK_CONTENTS}
+{ACTIVITY, .share.ShareActivity, com.vertexid.korea7.SHARE}
+{ACTIVITY, .history.HistoryActivity, android.intent.action.VIEW}
+{ACTIVITY, .share.BookmarkPickerActivity, android.intent.action.PICK}
+{ACTIVITY, .share.AppPickerActivity, android.intent.action.PICK}
+{ACTIVITY, .barcode.HelpActivity, android.intent.action.VIEW}
+_getAllDexFiles: /home/santapark/Extended3/DEEPerence/reEx/sample70.apk@devRoot-D-R.apk.obfuscated/classes.dex
+----------------/home/santapark/Extended3/DEEPerence/reEx/sample70.apk@devRoot-D-R.apk.obfuscated.apk
+dexFile = org.jf.dexlib2.dexbacked.DexBackedDexFile@1f2586d6
+com.vertexid.korea7
+com.vertexid.korea7.MainActivity
+debuggable: true
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample70.apk@devRoot-D-R.apk.obfuscated.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample70.apk@devRoot-D-R.apk.obfuscated.apk
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample70.apk@devRoot-D-R.apk.obfuscated_46604b9f/AndroidManifest.xml
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample70.apk@devRoot-D-R.apk.obfuscated/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample70.apk@devRoot-D-R.apk.obfuscated/sample70.apk@devRoot-D-R.apk.obfuscated.apk
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample70.apk@devRoot-D-R.apk.obfuscated_46604b9f/sample70.apk@devRoot-D-R.apk.obfuscated.apk
+3601a6ff: Installation Success
+159ceeed: Installing debuggable .apk file: 
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample70.apk@devRoot-D-R.apk.obfuscated/signed_sample70.apk@devRoot-D-R.apk.obfuscated.apk
+46604b9f: Installing repackaged apk File: 
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample70.apk@devRoot-D-R.apk.obfuscated_46604b9f/signed_sample70.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Installation Success
+159ceeed: Installation Success
+46604b9f: Installation Success
+46604b9f: startApplication called! - devTamper
+3601a6ff: startApplication called! - devRef
+b29e6a69: startApplication called! - devRoot
+159ceeed: startApplication called! - devDebug
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample70@devRoot-D-R.obfuscated.ilog)
+3601a6ff: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample70@devRoot-D-R.obfuscated.ilog)
+46604b9f: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devTamper_sample70@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample70@devRoot-D-R.obfuscated.ilog)
+46604b9f: Running Application: com.vertexid.korea7
+b29e6a69: Running Application: com.vertexid.korea7
+3601a6ff: Running Application: com.vertexid.korea7
+PIDs--------------------------------------------------------------------------
+u0_a846       11620    428 14071280 91836 0                   0 S com.vertexid.korea7
+forward tcp:5005 jdwp:11620
+[*]Found JDWP Target: 11620
+159ceeed: Running Application: com.vertexid.korea7
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+3601a6ff: Running is done - starting comparing... : 5001
+3601a6ff: Terminated logcat thread...by itself
+159ceeed: Running is done - starting comparing... : 5001
+159ceeed: Terminated logcat thread...by itself
+46604b9f: Running is done - starting comparing... : 5001
+46604b9f: Terminated logcat thread...by itself
+3601a6ff: Top-activity: com.vertexid.korea7/.MainActivity
+PIDs--------------------------------------------------------------------------
+u0_a214         986    407 14033880 130152 0                  0 S com.vertexid.korea7
+PIDs--------------------------------------------------------------------------
+u0_a214         986    407 14033880 130152 0                  0 S com.vertexid.korea7
+Stopping app: com.vertexid.korea7
+b29e6a69: Top-activity: com.vertexid.korea7/.MainActivity
+PIDs--------------------------------------------------------------------------
+u0_a3483      15920    428 14078716 126728 0                  0 S com.vertexid.korea7
+PIDs--------------------------------------------------------------------------
+u0_a3483      15920    428 14078716 126728 0                  0 S com.vertexid.korea7
+Stopping app: com.vertexid.korea7
+46604b9f: Top-activity: com.vertexid.korea7/.MainActivity
+PIDs--------------------------------------------------------------------------
+u0_a904       17698    425 14058584 129572 0                  0 S com.vertexid.korea7
+PIDs--------------------------------------------------------------------------
+u0_a904       17698    425 14058584 129572 0                  0 S com.vertexid.korea7
+Stopping app: com.vertexid.korea7
+159ceeed: Top-activity: com.vertexid.korea7/.MainActivity
+PIDs--------------------------------------------------------------------------
+u0_a846       11620    428 14110968 130156 0                  0 S com.vertexid.korea7
+PIDs--------------------------------------------------------------------------
+u0_a846       11620    428 14110968 130156 0                  0 S com.vertexid.korea7
+Stopping app: com.vertexid.korea7
+Tryging remove : uninstall com.vertexid.korea7(com.vertexid.korea7)
+3601a6ff: Remove Success
+3601a6ff: ilog file size: 5974141
+3601a6ff: End of collecting logcat...
+Tryging remove : uninstall com.vertexid.korea7(com.vertexid.korea7)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 149544
+b29e6a69: End of collecting logcat...
+Tryging remove : uninstall com.vertexid.korea7(com.vertexid.korea7)
+46604b9f: Remove Success
+46604b9f: ilog file size: 5978650
+46604b9f: End of collecting logcat...
+Tryging remove : uninstall com.vertexid.korea7(com.vertexid.korea7)
+159ceeed: Remove Success
+159ceeed: ilog file size: 5978184
+159ceeed: End of collecting logcat...
+HPFinder's try count remains: 19
+46604b9f: isFailedToLaunch: com.vertexid.korea7/.MainActivity
+46604b9f: 	--result: Good :)
+b29e6a69: isFailedToLaunch: com.vertexid.korea7/.MainActivity
+b29e6a69: 	--result: Good :)
+159ceeed: isFailedToLaunch: com.vertexid.korea7/.MainActivity
+159ceeed: 	--result: Good :)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample70@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample70@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample70@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample70@devRoot-D-R.obfuscated.ilog)
+[*] FlowManager: adjust finished.
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.os.AsyncTask/execute:([Ljava/lang/Object;)Landroid/os/AsyncTask;:1a558c		=(rels)=>		1
+[*] Unique action: 1:22424 : <<CALL>> : com.vertexid.korea7.MainActivity/HBXBlZZxrzjiQjGx:(Lcom/vertexid/korea7/at;[Ljava/lang/Object;)Landroid/os/AsyncTask;:1a558c  =>  android.os.AsyncTask/execute:([Ljava/lang/Object;)Landroid/os/AsyncTask;:2ed1e4
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devTamper_sample70@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample70@devRoot-D-R.obfuscated.ilog)
+[*] FlowManager: adjust finished.
+Action is completely same :)
+Action is completely same :)
+46604b9f: There is no difference. (tryAgain=false)
+[*] FlowManager: adjust finished.
+Action is completely same :)
+Action is completely same :)
+159ceeed: There is no difference. (tryAgain=false)
+	1:compareBackwardBranch: 1:869 : <<BRANCH>> : com.vertexid.korea7.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a8cd0  =>  com.vertexid.korea7.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a8cd8
+android.app.AlertDialog$Builder/show:()Landroid/app/AlertDialog;:1a5e92		=(rels)=>		1
+[*] Unique action: 1:25140 : <<CALL>> : com.vertexid.korea7.MainActivity/QgOOcJEBPZapxmFd:(Landroid/app/AlertDialog$Builder;)Landroid/app/AlertDialog;:1a5e92  =>  android.app.AlertDialog$Builder/show:()Landroid/app/AlertDialog;:19e3bc
+	1:compareBackwardBranch: 1:869 : <<BRANCH>> : com.vertexid.korea7.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a8cd0  =>  com.vertexid.korea7.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a8cd8
+java.net.URL/openConnection:()Ljava/net/URLConnection;:1a75a2		=(rels)=>		0
+android.app.AlertDialog$Builder/show:()Landroid/app/AlertDialog;:1a60ba		=(rels)=>		1
+[*] Unique action: 1:593 : <<CALL>> : com.vertexid.korea7.MainActivity/ShShvXJhIESgrdic:(Landroid/app/AlertDialog$Builder;)Landroid/app/AlertDialog;:1a60ba  =>  android.app.AlertDialog$Builder/show:()Landroid/app/AlertDialog;:19e3bc
+	1:compareBackwardBranch: 1:869 : <<BRANCH>> : com.vertexid.korea7.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a8cd0  =>  com.vertexid.korea7.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a8cd8
+Entry: 1a8cb4
+com.vertexid.korea7.MainActivity/onCreate:(Landroid/os/Bundle;)V: 1a8cd0 -> 1a8cd8
+		com.vertexid.korea7.MainActivity/onCreate:(Landroid/os/Bundle;)V: 1c -> 24
+addPatchReadme: java.lang.Class<com.vertexid.korea7.MainActivity>onCreate(Landroid/os/Bundle;)V 1c t
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample70@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Patch size: 1
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample70.apk@devRoot-D-R.apk.obfuscated_devRoot
+Wow!!!!!  --  com.vertexid.korea7.MainActivity/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 22
+branchTarget: 24
+label = sswitch_data_0
+GOTO -- 22 	24
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample70.apk@devRoot-D-R.apk.obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample70.apk@devRoot-D-R.apk.obfuscated_devRoot/sample70.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample70.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample70.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: First address of Lcom/vertexid/korea7/MainActivity;->onCreate(Landroid/os/Bundle;)V = 1a8cc4
+b29e6a69: Address - Lcom/vertexid/korea7/MainActivity;->onCreate(Landroid/os/Bundle;)V@1c	 lastOffset = 594
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample70.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample70.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample70@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Running Application: com.vertexid.korea7
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.vertexid.korea7
+Tryging remove : uninstall com.vertexid.korea7(com.vertexid.korea7)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 22578
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 18
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+/home/santapark/Extended3/DEEPerence/reEx/sample70.apk@devRoot-D-R.apk.obfuscated.apk launch is failed on devRoot
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 1a8cd0
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.os.AsyncTask/execute:([Ljava/lang/Object;)Landroid/os/AsyncTask;:1a558c		=(rels)=>		1
+[*] Unique action: 1:22424 : <<CALL>> : com.vertexid.korea7.MainActivity/HBXBlZZxrzjiQjGx:(Lcom/vertexid/korea7/at;[Ljava/lang/Object;)Landroid/os/AsyncTask;:1a558c  =>  android.os.AsyncTask/execute:([Ljava/lang/Object;)Landroid/os/AsyncTask;:2ed1e4
+	1:compareBackwardBranch: 1:866 : <<BRANCH>> : com.vertexid.korea7.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a8ef6  =>  com.vertexid.korea7.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a8eda
+android.app.AlertDialog$Builder/show:()Landroid/app/AlertDialog;:1a5e92		=(rels)=>		1
+[*] Unique action: 1:25140 : <<CALL>> : com.vertexid.korea7.MainActivity/QgOOcJEBPZapxmFd:(Landroid/app/AlertDialog$Builder;)Landroid/app/AlertDialog;:1a5e92  =>  android.app.AlertDialog$Builder/show:()Landroid/app/AlertDialog;:19e3bc
+	1:compareBackwardBranch: 1:866 : <<BRANCH>> : com.vertexid.korea7.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a8ef6  =>  com.vertexid.korea7.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a8eda
+java.net.URL/openConnection:()Ljava/net/URLConnection;:1a75a2		=(rels)=>		0
+android.app.AlertDialog$Builder/show:()Landroid/app/AlertDialog;:1a60ba		=(rels)=>		1
+[*] Unique action: 1:593 : <<CALL>> : com.vertexid.korea7.MainActivity/ShShvXJhIESgrdic:(Landroid/app/AlertDialog$Builder;)Landroid/app/AlertDialog;:1a60ba  =>  android.app.AlertDialog$Builder/show:()Landroid/app/AlertDialog;:19e3bc
+	1:compareBackwardBranch: 1:866 : <<BRANCH>> : com.vertexid.korea7.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a8ef6  =>  com.vertexid.korea7.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a8eda
+Entry: 1a8cb4
+com.vertexid.korea7.MainActivity/onCreate:(Landroid/os/Bundle;)V: 1a8ef6 -> 1a8eda
+		com.vertexid.korea7.MainActivity/onCreate:(Landroid/os/Bundle;)V: 242 -> 226
+addPatchReadme: java.lang.Class<com.vertexid.korea7.MainActivity>onCreate(Landroid/os/Bundle;)V 242 t
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample70@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Patch size: 1
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample70.apk@devRoot-D-R.apk.obfuscated_devRoot
+Wow!!!!!  --  com.vertexid.korea7.MainActivity/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 248
+branchTarget: 226
+label = sswitch_data_5
+GOTO -- 248 	226
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample70.apk@devRoot-D-R.apk.obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample70.apk@devRoot-D-R.apk.obfuscated_devRoot/sample70.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample70.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample70.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: First address of Lcom/vertexid/korea7/MainActivity;->onCreate(Landroid/os/Bundle;)V = 1a8cc4
+b29e6a69: Address - Lcom/vertexid/korea7/MainActivity;->onCreate(Landroid/os/Bundle;)V@242	 lastOffset = 594
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample70.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample70.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample70@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Running Application: com.vertexid.korea7
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.vertexid.korea7
+Tryging remove : uninstall com.vertexid.korea7(com.vertexid.korea7)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 22578
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 17
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+/home/santapark/Extended3/DEEPerence/reEx/sample70.apk@devRoot-D-R.apk.obfuscated.apk launch is failed on devRoot
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 1a8cd0
+-- current localPatchFilter: 1a8ef6
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.os.AsyncTask/execute:([Ljava/lang/Object;)Landroid/os/AsyncTask;:1a558c		=(rels)=>		1
+[*] Unique action: 1:22424 : <<CALL>> : com.vertexid.korea7.MainActivity/HBXBlZZxrzjiQjGx:(Lcom/vertexid/korea7/at;[Ljava/lang/Object;)Landroid/os/AsyncTask;:1a558c  =>  android.os.AsyncTask/execute:([Ljava/lang/Object;)Landroid/os/AsyncTask;:2ed1e4
+	1:compareBackwardBranch: 1:863 : <<BRANCH>> : com.vertexid.korea7.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a8f12  =>  com.vertexid.korea7.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a8f1c
+android.app.AlertDialog$Builder/show:()Landroid/app/AlertDialog;:1a5e92		=(rels)=>		1
+[*] Unique action: 1:25140 : <<CALL>> : com.vertexid.korea7.MainActivity/QgOOcJEBPZapxmFd:(Landroid/app/AlertDialog$Builder;)Landroid/app/AlertDialog;:1a5e92  =>  android.app.AlertDialog$Builder/show:()Landroid/app/AlertDialog;:19e3bc
+	1:compareBackwardBranch: 1:863 : <<BRANCH>> : com.vertexid.korea7.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a8f12  =>  com.vertexid.korea7.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a8f1c
+java.net.URL/openConnection:()Ljava/net/URLConnection;:1a75a2		=(rels)=>		0
+android.app.AlertDialog$Builder/show:()Landroid/app/AlertDialog;:1a60ba		=(rels)=>		1
+[*] Unique action: 1:593 : <<CALL>> : com.vertexid.korea7.MainActivity/ShShvXJhIESgrdic:(Landroid/app/AlertDialog$Builder;)Landroid/app/AlertDialog;:1a60ba  =>  android.app.AlertDialog$Builder/show:()Landroid/app/AlertDialog;:19e3bc
+	1:compareBackwardBranch: 1:863 : <<BRANCH>> : com.vertexid.korea7.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a8f12  =>  com.vertexid.korea7.MainActivity/onCreate:(Landroid/os/Bundle;)V:1a8f1c
+Entry: 1a8cb4
+com.vertexid.korea7.MainActivity/onCreate:(Landroid/os/Bundle;)V: 1a8f12 -> 1a8f1c
+		com.vertexid.korea7.MainActivity/onCreate:(Landroid/os/Bundle;)V: 25e -> 268
+addPatchReadme: java.lang.Class<com.vertexid.korea7.MainActivity>onCreate(Landroid/os/Bundle;)V 25e t
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample70@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Patch size: 1
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample70.apk@devRoot-D-R.apk.obfuscated_devRoot
+Wow!!!!!  --  com.vertexid.korea7.MainActivity/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 262
+branchTarget: 268
+label = cond_0
+GOTO -- 262 	268
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample70.apk@devRoot-D-R.apk.obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample70.apk@devRoot-D-R.apk.obfuscated_devRoot/sample70.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample70.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample70.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: First address of Lcom/vertexid/korea7/MainActivity;->onCreate(Landroid/os/Bundle;)V = 1a8cc4
+b29e6a69: Address - Lcom/vertexid/korea7/MainActivity;->onCreate(Landroid/os/Bundle;)V@25e	 lastOffset = 594
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample70.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample70.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample70@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Running Application: com.vertexid.korea7
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.vertexid.korea7/.MainActivity
+PIDs--------------------------------------------------------------------------
+u0_a3486      16246    428 14153296 129556 0                  0 S com.vertexid.korea7
+PIDs--------------------------------------------------------------------------
+u0_a3486      16246    428 14153296 129556 0                  0 S com.vertexid.korea7
+Stopping app: com.vertexid.korea7
+Tryging remove : uninstall com.vertexid.korea7(com.vertexid.korea7)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 5909540
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 16
+b29e6a69: isFailedToLaunch: com.vertexid.korea7/.MainActivity
+b29e6a69: 	--result: Good :)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample70@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample70@devRoot-D-R.obfuscated.ilog)
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 1a8f12
+Action is completely same :)
+Action is completely same :)
+b29e6a69: There is no difference. (tryAgain=false)
+-- HPFinder will be done in this iteration :)
+hasAntiAnalysis? - devTamper: false on com.vertexid.korea7.MainActivity
+hasAntiAnalysis? - devRoot: true on com.vertexid.korea7.MainActivity
+	isRemovedThem? - devRoot: true on com.vertexid.korea7.MainActivity	-	tryCount: 3
+hasAntiAnalysis? - devDebug: false on com.vertexid.korea7.MainActivity
+*****REPORT: com.vertexid.korea7
+* Package name: com.vertexid.korea7
+* Running time: 132
+* FileSize: 4066161
+devTamper : 5978650
+devRef : 5974141
+devRoot : 5909540
+devDebug : 5978184
+hasAntiAnalysis? - devTamper: false on com.vertexid.korea7.MainActivity
+hasAntiAnalysis? - devRoot: true on com.vertexid.korea7.MainActivity
+	isRemovedThem? - devRoot: true on com.vertexid.korea7.MainActivity	-	tryCount: 3
+hasAntiAnalysis? - devDebug: false on com.vertexid.korea7.MainActivity
+46604b9f: trying remove : com.vertexid.korea7
+3601a6ff: trying remove : com.vertexid.korea7
+b29e6a69: trying remove : com.vertexid.korea7
+159ceeed: trying remove : com.vertexid.korea7
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+3601a6ff: result = true
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+b29e6a69: result = true
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+159ceeed: result = true
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+46604b9f: result = true
+3601a6ff: isFailedToLaunch: com.vertexid.korea7/.MainActivity
+3601a6ff: 	--result: Good :)

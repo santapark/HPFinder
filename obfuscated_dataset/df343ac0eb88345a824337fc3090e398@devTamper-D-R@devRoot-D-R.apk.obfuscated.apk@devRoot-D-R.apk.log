@@ -1,0 +1,526 @@
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/signed_a/AndroidManifest.xml
+launchable-activity: name='com.susoft.CJONmart.OmMainWebviewActivity'  label='' icon=''
+{ACTIVITY, com.facebook.FacebookActivity}
+{ACTIVITY, com.facebook.CustomTabActivity, android.intent.action.VIEW, android.intent.action.VIEW}
+{ACTIVITY, com.susoft.CJONmart.OmMainWebviewActivity, android.intent.action.MAIN, android.intent.action.VIEW, android.intent.action.VIEW, android.intent.action.VIEW}
+{ACTIVITY, com.susoft.CJONmart.Extends.PlugIn.Barcode.OmBarcodeViewController}
+{ACTIVITY, com.susoft.CJONmart.Setting.SettingActivity}
+{ACTIVITY, com.susoft.CJONmart.Setting.SettingActivity_Debug}
+{ACTIVITY, com.susoft.CJONmart.PermissionActivity}
+{ACTIVITY, com.susoft.CJONmart.TutorialActivity}
+{ACTIVITY, com.susoft.CJONmart.CommonWebviewActivity}
+{ACTIVITY, com.susoft.CJONmart.OmShortCutReceiveActivity, android.intent.action.VIEW}
+{SERVICE, com.susoft.CJONmart.FireBaseMessagingService, com.google.firebase.MESSAGING_EVENT, com.google.firebase.INSTANCE_ID_EVENT}
+{RECEIVER, com.kakao.ad.tracker.KakaoAdInstallReferrerReceiver, com.android.vending.INSTALL_REFERRER}
+{ACTIVITY, com.facebook.CustomTabMainActivity}
+{SERVICE, com.google.firebase.messaging.FirebaseMessagingService, com.google.firebase.MESSAGING_EVENT}
+{SERVICE, com.google.firebase.components.ComponentDiscoveryService}
+{ACTIVITY, com.nhn.android.naverlogin.ui.OAuthLoginActivity}
+{ACTIVITY, com.nhn.android.naverlogin.ui.OAuthLoginInAppBrowserActivity}
+{ACTIVITY, com.nhn.android.naverlogin.ui.OAuthCustomTabActivity, android.intent.action.VIEW}
+{RECEIVER, com.facebook.CurrentAccessTokenExpirationBroadcastReceiver, com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED}
+{RECEIVER, com.google.firebase.iid.FirebaseInstanceIdReceiver, com.google.android.c2dm.intent.RECEIVE}
+{RECEIVER, com.google.android.gms.measurement.AppMeasurementReceiver}
+{SERVICE, com.google.android.gms.measurement.AppMeasurementService}
+{SERVICE, com.google.android.gms.measurement.AppMeasurementJobService}
+{ACTIVITY, com.google.android.gms.common.api.GoogleApiActivity}
+{ACTIVITY, com.kakao.auth.authorization.authcode.KakaoWebViewActivity}
+{ACTIVITY, com.google.android.gms.ads.AdActivity}
+{SERVICE, com.google.android.datatransport.runtime.backends.TransportBackendDiscovery}
+{SERVICE, com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService}
+{ACTIVITY, com.facebook.FacebookActivity}
+{ACTIVITY, com.facebook.CustomTabActivity, android.intent.action.VIEW, android.intent.action.VIEW}
+{ACTIVITY, com.susoft.CJONmart.OmMainWebviewActivity, android.intent.action.MAIN, android.intent.action.VIEW, android.intent.action.VIEW, android.intent.action.VIEW}
+{ACTIVITY, com.susoft.CJONmart.Extends.PlugIn.Barcode.OmBarcodeViewController}
+{ACTIVITY, com.susoft.CJONmart.Setting.SettingActivity}
+{ACTIVITY, com.susoft.CJONmart.Setting.SettingActivity_Debug}
+{ACTIVITY, com.susoft.CJONmart.PermissionActivity}
+{ACTIVITY, com.susoft.CJONmart.TutorialActivity}
+{ACTIVITY, com.susoft.CJONmart.CommonWebviewActivity}
+{ACTIVITY, com.susoft.CJONmart.OmShortCutReceiveActivity, android.intent.action.VIEW}
+{SERVICE, com.susoft.CJONmart.FireBaseMessagingService, com.google.firebase.MESSAGING_EVENT, com.google.firebase.INSTANCE_ID_EVENT}
+{RECEIVER, com.kakao.ad.tracker.KakaoAdInstallReferrerReceiver, com.android.vending.INSTALL_REFERRER}
+{ACTIVITY, com.facebook.CustomTabMainActivity}
+{SERVICE, com.google.firebase.messaging.FirebaseMessagingService, com.google.firebase.MESSAGING_EVENT}
+{SERVICE, com.google.firebase.components.ComponentDiscoveryService}
+{ACTIVITY, com.nhn.android.naverlogin.ui.OAuthLoginActivity}
+{ACTIVITY, com.nhn.android.naverlogin.ui.OAuthLoginInAppBrowserActivity}
+{ACTIVITY, com.nhn.android.naverlogin.ui.OAuthCustomTabActivity, android.intent.action.VIEW}
+{RECEIVER, com.facebook.CurrentAccessTokenExpirationBroadcastReceiver, com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED}
+{RECEIVER, com.google.firebase.iid.FirebaseInstanceIdReceiver, com.google.android.c2dm.intent.RECEIVE}
+{RECEIVER, com.google.android.gms.measurement.AppMeasurementReceiver}
+{SERVICE, com.google.android.gms.measurement.AppMeasurementService}
+{SERVICE, com.google.android.gms.measurement.AppMeasurementJobService}
+{ACTIVITY, com.google.android.gms.common.api.GoogleApiActivity}
+{ACTIVITY, com.kakao.auth.authorization.authcode.KakaoWebViewActivity}
+{ACTIVITY, com.google.android.gms.ads.AdActivity}
+{SERVICE, com.google.android.datatransport.runtime.backends.TransportBackendDiscovery}
+{SERVICE, com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService}
+_getAllDexFiles: /home/santapark/Extended3/DEEPerence/reEx/signed_a/classes2.dex
+_getAllDexFiles: /home/santapark/Extended3/DEEPerence/reEx/signed_a/classes.dex
+----------------/home/santapark/Extended3/DEEPerence/reEx/signed_a.apk
+dexFile = org.jf.dexlib2.dexbacked.DexBackedDexFile@7331196b
+com.susoft.CJONmart
+com.susoft.CJONmart.OmMainWebviewActivity
+debuggable: true
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/signed_a.apk
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/signed_a.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/signed_a.apk
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/signed_a_46604b9f/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/signed_a_46604b9f/signed_a.apk
+3601a6ff: Installation Success
+159ceeed: Installation Success
+b29e6a69: Installation Success
+46604b9f: Installing repackaged apk File: 
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/signed_a_46604b9f/signed_signed_a.apk
+46604b9f: Installation Success
+46604b9f: startApplication called! - devTamper
+3601a6ff: startApplication called! - devRef
+b29e6a69: startApplication called! - devRoot
+159ceeed: startApplication called! - devDebug
+46604b9f: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devTamper_signed_a.ilog)
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_signed_a.ilog)
+46604b9f: Running Application: com.susoft.CJONmart
+b29e6a69: Running Application: com.susoft.CJONmart
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_signed_a.ilog)
+3601a6ff: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRef_signed_a.ilog)
+PIDs--------------------------------------------------------------------------
+u0_a327       25817    425 14771812 105100 0                  0 S com.susoft.CJONmart
+forward tcp:5005 jdwp:25817
+[*]Found JDWP Target: 25817
+159ceeed: Running Application: com.susoft.CJONmart
+3601a6ff: Running Application: com.susoft.CJONmart
+3601a6ff: Running is done - starting comparing... : 10001
+3601a6ff: Terminated logcat thread...by itself
+3601a6ff: Top-activity: com.susoft.CJONmart/.OmMainWebviewActivity
+PIDs--------------------------------------------------------------------------
+u0_a201       13050    421 15265136 202664 0                  0 S com.susoft.CJONmart
+PIDs--------------------------------------------------------------------------
+u0_a201       13050    421 15265136 202664 0                  0 S com.susoft.CJONmart
+Stopping app: com.susoft.CJONmart
+Tryging remove : uninstall com.susoft.CJONmart(com.susoft.CJONmart)
+3601a6ff: Remove Success
+3601a6ff: ilog file size: 281190121
+3601a6ff: End of collecting logcat...
+159ceeed: Running is done - starting comparing... : 10001
+159ceeed: Terminated logcat thread...by itself
+159ceeed: Top-activity: com.susoft.CJONmart/.OmMainWebviewActivity
+PIDs--------------------------------------------------------------------------
+u0_a327       25817    425 15309132 202016 0                  0 S com.susoft.CJONmart
+PIDs--------------------------------------------------------------------------
+u0_a327       25817    425 15309132 202016 0                  0 S com.susoft.CJONmart
+Stopping app: com.susoft.CJONmart
+46604b9f: Top-activity: com.susoft.CJONmart/.OmMainWebviewActivity
+PIDs--------------------------------------------------------------------------
+u0_a1074      15200    429 15217024 202624 0                  0 S com.susoft.CJONmart
+46604b9f: Terminated logcat thread...by itself
+PIDs--------------------------------------------------------------------------
+u0_a1074      15200    429 15217024 202624 0                  0 S com.susoft.CJONmart
+Stopping app: com.susoft.CJONmart
+Tryging remove : uninstall com.susoft.CJONmart(com.susoft.CJONmart)
+159ceeed: Remove Success
+159ceeed: ilog file size: 281828262
+159ceeed: End of collecting logcat...
+b29e6a69: Top-activity: com.susoft.CJONmart/.OmMainWebviewActivity
+PIDs--------------------------------------------------------------------------
+u0_a3531       6261    429 15121252 203164 0                  0 S com.susoft.CJONmart
+b29e6a69: Terminated logcat thread...by itself
+PIDs--------------------------------------------------------------------------
+u0_a3531       6261    429 15121252 203172 0                  0 S com.susoft.CJONmart
+Stopping app: com.susoft.CJONmart
+Tryging remove : uninstall com.susoft.CJONmart(com.susoft.CJONmart)
+46604b9f: Remove Success
+46604b9f: ilog file size: 282594716
+46604b9f: End of collecting logcat...
+Tryging remove : uninstall com.susoft.CJONmart(com.susoft.CJONmart)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 267188167
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 29
+46604b9f: isFailedToLaunch: com.susoft.CJONmart/.OmMainWebviewActivity
+46604b9f: 	--result: Good :)
+b29e6a69: isFailedToLaunch: com.susoft.CJONmart/.OmMainWebviewActivity
+b29e6a69: 	--result: Good :)
+159ceeed: isFailedToLaunch: com.susoft.CJONmart/.OmMainWebviewActivity
+159ceeed: 	--result: Good :)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_signed_a.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_signed_a.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_signed_a.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_signed_a.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devTamper_signed_a.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_signed_a.ilog)
+[*] FlowManager: adjust finished.
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:67ebb4		=(rels)=>		1
+[*] Unique action: 1:105703 : <<CALL>> : com.susoft.CJONmart.c.i/NSHTslCXOspdAuIz:(Landroid/widget/TextView;Landroid/view/View$OnClickListener;)V:67ebb4  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:99033 : <<BRANCH>> : com.susoft.CJONmart.OmMainWebviewActivity/f:()Z:6173ea  =>  com.susoft.CJONmart.OmMainWebviewActivity/f:()Z:617536
+android.app.Dialog/show:()V:613958		=(rels)=>		1
+[*] Unique action: 1:99061 : <<CALL>> : com.susoft.CJONmart.OmMainWebviewActivity/aQAolzOLgbVtBwbm:(Landroid/app/Dialog;)V:613958  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:99033 : <<BRANCH>> : com.susoft.CJONmart.OmMainWebviewActivity/f:()Z:6173ea  =>  com.susoft.CJONmart.OmMainWebviewActivity/f:()Z:617536
+android.app.AlertDialog$Builder/show:()Landroid/app/AlertDialog;:60ae08		=(rels)=>		1
+[*] Unique action: 1:60763 : <<CALL>> : com.susoft.CJONmart.OmMainWebviewActivity/HiFWNPghwMvusoGN:(Landroid/app/AlertDialog$Builder;)Landroid/app/AlertDialog;:60ae08  =>  android.app.AlertDialog$Builder/show:()Landroid/app/AlertDialog;:19e3bc
+	1:compareBackwardBranch: 1:70273 : <<BRANCH>> : com.susoft.CJONmart.OmMainWebviewActivity/onCreate:(Landroid/os/Bundle;)V:622202  =>  com.susoft.CJONmart.OmMainWebviewActivity/onCreate:(Landroid/os/Bundle;)V:622888
+android.app.AlertDialog$Builder/show:()Landroid/app/AlertDialog;:614f68		=(rels)=>		1
+[*] Unique action: 1:88833 : <<CALL>> : com.susoft.CJONmart.OmMainWebviewActivity/bJTfoSxYrYLSXpCA:(Landroid/app/AlertDialog$Builder;)Landroid/app/AlertDialog;:614f68  =>  android.app.AlertDialog$Builder/show:()Landroid/app/AlertDialog;:19e3bc
+[*] FlowManager: adjust finished.
+[*] FlowManager: adjust finished.
+Action is completely same :)
+Action is completely same :)
+46604b9f: There is no difference. (tryAgain=false)
+	1:compareBackwardBranch: 1:98691 : <<BRANCH>> : com.susoft.CJONmart.OmMainWebviewActivity/f:()Z:6173ea  =>  com.susoft.CJONmart.OmMainWebviewActivity/f:()Z:6174ae
+Entry: 621ff8
+com.susoft.CJONmart.OmMainWebviewActivity/onCreate:(Landroid/os/Bundle;)V: 622202 -> 622888
+		com.susoft.CJONmart.OmMainWebviewActivity/onCreate:(Landroid/os/Bundle;)V: 20a -> 890
+addPatchReadme: java.lang.Class<com.susoft.CJONmart.OmMainWebviewActivity>onCreate(Landroid/os/Bundle;)V 20a t
+Entry: 6173c8
+com.susoft.CJONmart.OmMainWebviewActivity/f:()Z: 6173ea -> 6174ae
+		com.susoft.CJONmart.OmMainWebviewActivity/f:()Z: 22 -> e6
+addPatchReadme: java.lang.Class<com.susoft.CJONmart.OmMainWebviewActivity>f()Z 22 t
+b29e6a69: [+] Patches found in this round: 2
+b29e6a69: [*] Found Patch size: 1
+Action is completely same :)
+Action is completely same :)
+159ceeed: There is no difference. (tryAgain=false)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_signed_a.ilog)
+b29e6a69: Querying offset: 6173ea
+b29e6a69: 	--Add method name to patch = com.susoft.CJONmart.OmMainWebviewActivity/f:()Z 	6173ea
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: patching method: com.susoft.CJONmart.OmMainWebviewActivity/f:()Z
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/signed_a_devRoot
+Wow!!!!!  --  com.susoft.CJONmart.OmMainWebviewActivity/f:()Z
+fallthrough: 28
+branchTarget: e6
+label = sswitch_data_0
+GOTO -- 28 	e6
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/signed_a_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/signed_a_devRoot/signed_a.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/signed_a_devRoot/signed_signed_a.apk
+b29e6a69: First address of Lcom/susoft/CJONmart/OmMainWebviewActivity;->f()Z = 6173d8
+b29e6a69: Address - Lcom/susoft/CJONmart/OmMainWebviewActivity;->f()Z@22	 lastOffset = 210
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/signed_a_devRoot/signed_signed_a.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_signed_a.ilog)
+b29e6a69: Running Application: com.susoft.CJONmart
+b29e6a69: Running is done - starting comparing... : 10001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.susoft.CJONmart
+Tryging remove : uninstall com.susoft.CJONmart(com.susoft.CJONmart)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 19765447
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 28
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+b29e6a69: /home/santapark/Extended3/DEEPerence/reEx/signed_a.apk launch is failed on devRoot
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 6173ea
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:67ebb4		=(rels)=>		1
+[*] Unique action: 1:105703 : <<CALL>> : com.susoft.CJONmart.c.i/NSHTslCXOspdAuIz:(Landroid/widget/TextView;Landroid/view/View$OnClickListener;)V:67ebb4  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:98688 : <<BRANCH>> : com.susoft.CJONmart.OmMainWebviewActivity/f:()Z:617410  =>  com.susoft.CJONmart.OmMainWebviewActivity/f:()Z:617418
+android.app.Dialog/show:()V:613958		=(rels)=>		1
+[*] Unique action: 1:99061 : <<CALL>> : com.susoft.CJONmart.OmMainWebviewActivity/aQAolzOLgbVtBwbm:(Landroid/app/Dialog;)V:613958  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:98688 : <<BRANCH>> : com.susoft.CJONmart.OmMainWebviewActivity/f:()Z:617410  =>  com.susoft.CJONmart.OmMainWebviewActivity/f:()Z:617418
+android.app.AlertDialog$Builder/show:()Landroid/app/AlertDialog;:60ae08		=(rels)=>		1
+[*] Unique action: 1:60763 : <<CALL>> : com.susoft.CJONmart.OmMainWebviewActivity/HiFWNPghwMvusoGN:(Landroid/app/AlertDialog$Builder;)Landroid/app/AlertDialog;:60ae08  =>  android.app.AlertDialog$Builder/show:()Landroid/app/AlertDialog;:19e3bc
+	1:compareBackwardBranch: 1:70273 : <<BRANCH>> : com.susoft.CJONmart.OmMainWebviewActivity/onCreate:(Landroid/os/Bundle;)V:622202  =>  com.susoft.CJONmart.OmMainWebviewActivity/onCreate:(Landroid/os/Bundle;)V:622888
+android.app.AlertDialog$Builder/show:()Landroid/app/AlertDialog;:614f68		=(rels)=>		1
+[*] Unique action: 1:88833 : <<CALL>> : com.susoft.CJONmart.OmMainWebviewActivity/bJTfoSxYrYLSXpCA:(Landroid/app/AlertDialog$Builder;)Landroid/app/AlertDialog;:614f68  =>  android.app.AlertDialog$Builder/show:()Landroid/app/AlertDialog;:19e3bc
+	1:compareBackwardBranch: 1:98688 : <<BRANCH>> : com.susoft.CJONmart.OmMainWebviewActivity/f:()Z:617410  =>  com.susoft.CJONmart.OmMainWebviewActivity/f:()Z:617418
+Entry: 621ff8
+com.susoft.CJONmart.OmMainWebviewActivity/onCreate:(Landroid/os/Bundle;)V: 622202 -> 622888
+		com.susoft.CJONmart.OmMainWebviewActivity/onCreate:(Landroid/os/Bundle;)V: 20a -> 890
+addPatchReadme: java.lang.Class<com.susoft.CJONmart.OmMainWebviewActivity>onCreate(Landroid/os/Bundle;)V 20a t
+Entry: 6173c8
+com.susoft.CJONmart.OmMainWebviewActivity/f:()Z: 617410 -> 617418
+		com.susoft.CJONmart.OmMainWebviewActivity/f:()Z: 48 -> 50
+addPatchReadme: java.lang.Class<com.susoft.CJONmart.OmMainWebviewActivity>f()Z 48 t
+b29e6a69: [+] Patches found in this round: 2
+b29e6a69: [*] Found Patch size: 1
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_signed_a.ilog)
+b29e6a69: Querying offset: 617410
+b29e6a69: 	--Add method name to patch = com.susoft.CJONmart.OmMainWebviewActivity/f:()Z 	617410
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: patching method: com.susoft.CJONmart.OmMainWebviewActivity/f:()Z
+b29e6a69: patching method: com.susoft.CJONmart.OmMainWebviewActivity/onCreate:(Landroid/os/Bundle;)V
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/signed_a_devRoot
+Wow!!!!!  --  com.susoft.CJONmart.OmMainWebviewActivity/f:()Z
+fallthrough: 4e
+branchTarget: 50
+label = sswitch_data_1
+GOTO -- 4e 	50
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/signed_a_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/signed_a_devRoot/signed_a.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/signed_a_devRoot/signed_signed_a.apk
+b29e6a69: First address of Lcom/susoft/CJONmart/OmMainWebviewActivity;->f()Z = 6173d8
+b29e6a69: Address - Lcom/susoft/CJONmart/OmMainWebviewActivity;->f()Z@48	 lastOffset = 210
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/signed_a_devRoot/signed_signed_a.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_signed_a.ilog)
+b29e6a69: Running Application: com.susoft.CJONmart
+b29e6a69: Running is done - starting comparing... : 10001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.susoft.CJONmart
+Tryging remove : uninstall com.susoft.CJONmart(com.susoft.CJONmart)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 20214517
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 27
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+b29e6a69: /home/santapark/Extended3/DEEPerence/reEx/signed_a.apk launch is failed on devRoot
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 617410
+-- current localPatchFilter: 6173ea
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:67ebb4		=(rels)=>		1
+[*] Unique action: 1:105703 : <<CALL>> : com.susoft.CJONmart.c.i/NSHTslCXOspdAuIz:(Landroid/widget/TextView;Landroid/view/View$OnClickListener;)V:67ebb4  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:98684 : <<BRANCH>> : com.susoft.CJONmart.OmMainWebviewActivity/f:()Z:61743a  =>  com.susoft.CJONmart.OmMainWebviewActivity/f:()Z:617420
+android.app.Dialog/show:()V:613958		=(rels)=>		1
+[*] Unique action: 1:99061 : <<CALL>> : com.susoft.CJONmart.OmMainWebviewActivity/aQAolzOLgbVtBwbm:(Landroid/app/Dialog;)V:613958  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:98684 : <<BRANCH>> : com.susoft.CJONmart.OmMainWebviewActivity/f:()Z:61743a  =>  com.susoft.CJONmart.OmMainWebviewActivity/f:()Z:617420
+android.app.AlertDialog$Builder/show:()Landroid/app/AlertDialog;:60ae08		=(rels)=>		1
+[*] Unique action: 1:60763 : <<CALL>> : com.susoft.CJONmart.OmMainWebviewActivity/HiFWNPghwMvusoGN:(Landroid/app/AlertDialog$Builder;)Landroid/app/AlertDialog;:60ae08  =>  android.app.AlertDialog$Builder/show:()Landroid/app/AlertDialog;:19e3bc
+	1:compareBackwardBranch: 1:70273 : <<BRANCH>> : com.susoft.CJONmart.OmMainWebviewActivity/onCreate:(Landroid/os/Bundle;)V:622202  =>  com.susoft.CJONmart.OmMainWebviewActivity/onCreate:(Landroid/os/Bundle;)V:622888
+android.app.AlertDialog$Builder/show:()Landroid/app/AlertDialog;:614f68		=(rels)=>		1
+[*] Unique action: 1:88833 : <<CALL>> : com.susoft.CJONmart.OmMainWebviewActivity/bJTfoSxYrYLSXpCA:(Landroid/app/AlertDialog$Builder;)Landroid/app/AlertDialog;:614f68  =>  android.app.AlertDialog$Builder/show:()Landroid/app/AlertDialog;:19e3bc
+	1:compareBackwardBranch: 1:98684 : <<BRANCH>> : com.susoft.CJONmart.OmMainWebviewActivity/f:()Z:61743a  =>  com.susoft.CJONmart.OmMainWebviewActivity/f:()Z:617420
+Entry: 621ff8
+com.susoft.CJONmart.OmMainWebviewActivity/onCreate:(Landroid/os/Bundle;)V: 622202 -> 622888
+		com.susoft.CJONmart.OmMainWebviewActivity/onCreate:(Landroid/os/Bundle;)V: 20a -> 890
+addPatchReadme: java.lang.Class<com.susoft.CJONmart.OmMainWebviewActivity>onCreate(Landroid/os/Bundle;)V 20a t
+Entry: 6173c8
+com.susoft.CJONmart.OmMainWebviewActivity/f:()Z: 61743a -> 617420
+		com.susoft.CJONmart.OmMainWebviewActivity/f:()Z: 72 -> 58
+addPatchReadme: java.lang.Class<com.susoft.CJONmart.OmMainWebviewActivity>f()Z 72 t
+b29e6a69: [+] Patches found in this round: 2
+b29e6a69: [*] Found Patch size: 1
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_signed_a.ilog)
+b29e6a69: Querying offset: 61743a
+b29e6a69: 	--Add method name to patch = com.susoft.CJONmart.OmMainWebviewActivity/f:()Z 	61743a
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: patching method: com.susoft.CJONmart.OmMainWebviewActivity/f:()Z
+b29e6a69: patching method: com.susoft.CJONmart.OmMainWebviewActivity/onCreate:(Landroid/os/Bundle;)V
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/signed_a_devRoot
+Wow!!!!!  --  com.susoft.CJONmart.OmMainWebviewActivity/f:()Z
+fallthrough: 76
+branchTarget: 58
+label = cond_0
+GOTO -- 76 	58
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/signed_a_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/signed_a_devRoot/signed_a.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/signed_a_devRoot/signed_signed_a.apk
+b29e6a69: First address of Lcom/susoft/CJONmart/OmMainWebviewActivity;->f()Z = 6173d8
+b29e6a69: Address - Lcom/susoft/CJONmart/OmMainWebviewActivity;->f()Z@72	 lastOffset = 210
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/signed_a_devRoot/signed_signed_a.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_signed_a.ilog)
+b29e6a69: Running Application: com.susoft.CJONmart
+b29e6a69: Top-activity: com.susoft.CJONmart/.OmMainWebviewActivity
+PIDs--------------------------------------------------------------------------
+u0_a3534       7101    429 15129444 204536 0                  0 S com.susoft.CJONmart
+b29e6a69: Terminated logcat thread...by itself
+PIDs--------------------------------------------------------------------------
+u0_a3534       7101    429 15129444 204536 0                  0 S com.susoft.CJONmart
+Stopping app: com.susoft.CJONmart
+Tryging remove : uninstall com.susoft.CJONmart(com.susoft.CJONmart)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 262560261
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 26
+b29e6a69: isFailedToLaunch: com.susoft.CJONmart/.OmMainWebviewActivity
+b29e6a69: 	--result: Good :)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_signed_a.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_signed_a.ilog)
+b29e6a69: adding filter -- 61743a
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 61743a
+Action is completely same :)
+android.app.AlertDialog$Builder/show:()Landroid/app/AlertDialog;:60ae08		=(rels)=>		1
+[*] Unique action: 1:68433 : <<CALL>> : com.susoft.CJONmart.OmMainWebviewActivity/HiFWNPghwMvusoGN:(Landroid/app/AlertDialog$Builder;)Landroid/app/AlertDialog;:60ae08  =>  android.app.AlertDialog$Builder/show:()Landroid/app/AlertDialog;:19e3bc
+	1:compareBackwardBranch: 1:70273 : <<BRANCH>> : com.susoft.CJONmart.OmMainWebviewActivity/onCreate:(Landroid/os/Bundle;)V:622202  =>  com.susoft.CJONmart.OmMainWebviewActivity/onCreate:(Landroid/os/Bundle;)V:622888
+Entry: 621ff8
+com.susoft.CJONmart.OmMainWebviewActivity/onCreate:(Landroid/os/Bundle;)V: 622202 -> 622888
+		com.susoft.CJONmart.OmMainWebviewActivity/onCreate:(Landroid/os/Bundle;)V: 20a -> 890
+addPatchReadme: java.lang.Class<com.susoft.CJONmart.OmMainWebviewActivity>onCreate(Landroid/os/Bundle;)V 20a t
+b29e6a69: [+] Patches found in this round: 1
+b29e6a69: [*] Found Patch size: 1
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_signed_a.ilog)
+b29e6a69: Querying offset: 622202
+b29e6a69: 	--Add method name to patch = com.susoft.CJONmart.OmMainWebviewActivity/onCreate:(Landroid/os/Bundle;)V 	622202
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: patching method: com.susoft.CJONmart.OmMainWebviewActivity/f:()Z
+b29e6a69: patching method: com.susoft.CJONmart.OmMainWebviewActivity/onCreate:(Landroid/os/Bundle;)V
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/signed_a_devRoot
+Wow!!!!!  --  com.susoft.CJONmart.OmMainWebviewActivity/f:()Z
+fallthrough: 76
+branchTarget: 58
+label = cond_0
+GOTO -- 76 	58
+Wow!!!!!  --  com.susoft.CJONmart.OmMainWebviewActivity/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 210
+branchTarget: 890
+label = sswitch_data_5
+GOTO -- 210 	890
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/signed_a_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/signed_a_devRoot/signed_a.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/signed_a_devRoot/signed_signed_a.apk
+b29e6a69: First address of Lcom/susoft/CJONmart/OmMainWebviewActivity;->f()Z = 6173d8
+b29e6a69: Address - Lcom/susoft/CJONmart/OmMainWebviewActivity;->f()Z@72	 lastOffset = 210
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Lcom/susoft/CJONmart/OmMainWebviewActivity;->onCreate(Landroid/os/Bundle;)V = 622008
+b29e6a69: Address - Lcom/susoft/CJONmart/OmMainWebviewActivity;->onCreate(Landroid/os/Bundle;)V@20a	 lastOffset = c58
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/signed_a_devRoot/signed_signed_a.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_signed_a.ilog)
+b29e6a69: Running Application: com.susoft.CJONmart
+b29e6a69: Running is done - starting comparing... : 10001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.susoft.CJONmart
+Tryging remove : uninstall com.susoft.CJONmart(com.susoft.CJONmart)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 20197084
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 25
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+b29e6a69: /home/santapark/Extended3/DEEPerence/reEx/signed_a.apk launch is failed on devRoot
+b29e6a69: adding filter -- 61743a
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 622202
+-- current localPatchFilter: 61743a
+Action is completely same :)
+android.app.AlertDialog$Builder/show:()Landroid/app/AlertDialog;:60ae08		=(rels)=>		1
+[*] Unique action: 1:68433 : <<CALL>> : com.susoft.CJONmart.OmMainWebviewActivity/HiFWNPghwMvusoGN:(Landroid/app/AlertDialog$Builder;)Landroid/app/AlertDialog;:60ae08  =>  android.app.AlertDialog$Builder/show:()Landroid/app/AlertDialog;:19e3bc
+	1:compareBackwardBranch: 1:70259 : <<BRANCH>> : com.susoft.CJONmart.OmMainWebviewActivity/onCreate:(Landroid/os/Bundle;)V:62221c  =>  com.susoft.CJONmart.OmMainWebviewActivity/onCreate:(Landroid/os/Bundle;)V:622228
+Entry: 621ff8
+com.susoft.CJONmart.OmMainWebviewActivity/onCreate:(Landroid/os/Bundle;)V: 62221c -> 622228
+		com.susoft.CJONmart.OmMainWebviewActivity/onCreate:(Landroid/os/Bundle;)V: 224 -> 230
+addPatchReadme: java.lang.Class<com.susoft.CJONmart.OmMainWebviewActivity>onCreate(Landroid/os/Bundle;)V 224 t
+b29e6a69: [+] Patches found in this round: 1
+b29e6a69: [*] Found Patch size: 1
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_signed_a.ilog)
+b29e6a69: Querying offset: 62221c
+b29e6a69: 	--Add method name to patch = com.susoft.CJONmart.OmMainWebviewActivity/onCreate:(Landroid/os/Bundle;)V 	62221c
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: patching method: com.susoft.CJONmart.OmMainWebviewActivity/f:()Z
+b29e6a69: patching method: com.susoft.CJONmart.OmMainWebviewActivity/onCreate:(Landroid/os/Bundle;)V
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/signed_a_devRoot
+Wow!!!!!  --  com.susoft.CJONmart.OmMainWebviewActivity/f:()Z
+fallthrough: 76
+branchTarget: 58
+label = cond_0
+GOTO -- 76 	58
+Wow!!!!!  --  com.susoft.CJONmart.OmMainWebviewActivity/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 228
+branchTarget: 230
+label = cond_4
+GOTO -- 228 	230
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/signed_a_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/signed_a_devRoot/signed_a.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/signed_a_devRoot/signed_signed_a.apk
+b29e6a69: First address of Lcom/susoft/CJONmart/OmMainWebviewActivity;->f()Z = 6173d8
+b29e6a69: Address - Lcom/susoft/CJONmart/OmMainWebviewActivity;->f()Z@72	 lastOffset = 210
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: First address of Lcom/susoft/CJONmart/OmMainWebviewActivity;->onCreate(Landroid/os/Bundle;)V = 622008
+b29e6a69: Address - Lcom/susoft/CJONmart/OmMainWebviewActivity;->onCreate(Landroid/os/Bundle;)V@224	 lastOffset = c58
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/signed_a_devRoot/signed_signed_a.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_signed_a.ilog)
+b29e6a69: Running Application: com.susoft.CJONmart
+b29e6a69: Top-activity: com.susoft.CJONmart/.OmMainWebviewActivity
+PIDs--------------------------------------------------------------------------
+u0_a3536       7724    429 15139596 202288 0                  0 S com.susoft.CJONmart
+b29e6a69: Terminated logcat thread...by itself
+PIDs--------------------------------------------------------------------------
+u0_a3536       7724    429 15139596 202288 0                  0 S com.susoft.CJONmart
+Stopping app: com.susoft.CJONmart
+Tryging remove : uninstall com.susoft.CJONmart(com.susoft.CJONmart)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 261416740
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 24
+b29e6a69: isFailedToLaunch: com.susoft.CJONmart/.OmMainWebviewActivity
+b29e6a69: 	--result: Good :)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_signed_a.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_signed_a.ilog)
+b29e6a69: adding filter -- 62221c
+b29e6a69: adding filter -- 61743a
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 61743a
+-- current localPatchFilter: 62221c
+Action is completely same :)
+Action is completely same :)
+b29e6a69: There is no difference. (tryAgain=false)
+-- HPFinder will be done in this iteration :)
+hasAntiAnalysis? - devTamper: false on com.susoft.CJONmart.OmMainWebviewActivity
+hasAntiAnalysis? - devRoot: true on com.susoft.CJONmart.OmMainWebviewActivity
+	isRemovedThem? - devRoot: true on com.susoft.CJONmart.OmMainWebviewActivity	-	tryCount: 5
+hasAntiAnalysis? - devDebug: false on com.susoft.CJONmart.OmMainWebviewActivity
+*****REPORT: com.susoft.CJONmart
+* Package name: com.susoft.CJONmart
+* Running time: 877
+* FileSize: 9409527
+devTamper : 282594716
+devRef : 281190121
+devRoot : 261416740
+devDebug : 281828262
+hasAntiAnalysis? - devTamper: false on com.susoft.CJONmart.OmMainWebviewActivity
+hasAntiAnalysis? - devRoot: true on com.susoft.CJONmart.OmMainWebviewActivity
+	isRemovedThem? - devRoot: true on com.susoft.CJONmart.OmMainWebviewActivity	-	tryCount: 5
+hasAntiAnalysis? - devDebug: false on com.susoft.CJONmart.OmMainWebviewActivity
+46604b9f: trying remove : com.susoft.CJONmart
+3601a6ff: trying remove : com.susoft.CJONmart
+b29e6a69: trying remove : com.susoft.CJONmart
+159ceeed: trying remove : com.susoft.CJONmart
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+159ceeed: result = true
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+3601a6ff: result = true
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+46604b9f: result = true
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+b29e6a69: result = true
+3601a6ff: isFailedToLaunch: com.susoft.CJONmart/.OmMainWebviewActivity
+3601a6ff: 	--result: Good :)

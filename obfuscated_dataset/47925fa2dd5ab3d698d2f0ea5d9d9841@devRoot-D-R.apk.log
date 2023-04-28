@@ -1,0 +1,396 @@
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/obfuscated/AndroidManifest.xml
+launchable-activity: name='com.tattvafoundation.aarogyakendra.screens.SplashActivity'  label='' icon=''
+{ACTIVITY, com.tattvafoundation.aarogyakendra.screens.LoginActivity}
+{ACTIVITY, com.tattvafoundation.aarogyakendra.screens.SplashActivity, android.intent.action.MAIN}
+{ACTIVITY, com.tattvafoundation.aarogyakendra.screens.PrintPdfActivity}
+{ACTIVITY, com.tattvafoundation.aarogyakendra.gapanalysis.BasicInformation}
+{ACTIVITY, com.tattvafoundation.aarogyakendra.gapanalysis.VillageDetails}
+{ACTIVITY, com.tattvafoundation.aarogyakendra.gapanalysis.HumanResources}
+{ACTIVITY, com.tattvafoundation.aarogyakendra.gapanalysis.Infrastructure}
+{ACTIVITY, com.tattvafoundation.aarogyakendra.gapanalysis.Equipments}
+{ACTIVITY, com.tattvafoundation.aarogyakendra.gapanalysis.DrugsAndSupplies}
+{ACTIVITY, com.tattvafoundation.aarogyakendra.gapanalysis.Protocols}
+{ACTIVITY, com.tattvafoundation.aarogyakendra.gapanalysis.ServiceStatistics}
+{ACTIVITY, com.tattvafoundation.aarogyakendra.gapanalysis.UnitedFunds}
+{ACTIVITY, com.tattvafoundation.aarogyakendra.gapanalysis.PrivateFacilities}
+{ACTIVITY, com.tattvafoundation.aarogyakendra.people_enumeration.HwPanel}
+{ACTIVITY, com.tattvafoundation.aarogyakendra.people_enumeration.HouseholdListActivity}
+{ACTIVITY, com.tattvafoundation.aarogyakendra.people_enumeration.HouseholdRoast}
+{ACTIVITY, com.tattvafoundation.aarogyakendra.people_enumeration.Household_Head_Detail}
+{ACTIVITY, com.tattvafoundation.aarogyakendra.screens.BcpmProfileActivity}
+{ACTIVITY, com.tattvafoundation.aarogyakendra.screens.DashboardActivity}
+{ACTIVITY, com.tattvafoundation.aarogyakendra.aarogyakendra.FollowupListActivity}
+{ACTIVITY, com.tattvafoundation.aarogyakendra.aarogyakendra.OPDListActivity}
+{ACTIVITY, com.tattvafoundation.aarogyakendra.screens.AboutUs}
+{ACTIVITY, com.tattvafoundation.aarogyakendra.aarogyakendra.RefferalListActivity}
+{RECEIVER, com.google.android.gms.analytics.AnalyticsReceiver, com.google.android.gms.analytics.ANALYTICS_DISPATCH}
+{SERVICE, com.google.android.gms.analytics.AnalyticsService}
+{RECEIVER, com.google.android.gms.analytics.CampaignTrackingReceiver, com.android.vending.INSTALL_REFERRER}
+{SERVICE, com.google.android.gms.analytics.CampaignTrackingService}
+{ACTIVITY, com.tattvafoundation.aarogyakendra.gapanalysis.Welcome}
+{ACTIVITY, com.tattvafoundation.aarogyakendra.gapanalysis.Finish}
+{ACTIVITY, com.tattvafoundation.aarogyakendra.gapanalysis.SubcenterPhotos}
+{ACTIVITY, com.tattvafoundation.aarogyakendra.gapanalysis.ServeyStatus}
+{ACTIVITY, com.tattvafoundation.aarogyakendra.people_enumeration.FamilyMemberDetails}
+{ACTIVITY, com.tattvafoundation.aarogyakendra.people_enumeration.HouseholdChracterstics}
+{ACTIVITY, com.tattvafoundation.aarogyakendra.people_enumeration.CharatersticsList}
+{ACTIVITY, com.tattvafoundation.aarogyakendra.people_enumeration.LifeStyleAndPhysicalActivity}
+{ACTIVITY, com.tattvafoundation.aarogyakendra.people_enumeration.LifeStyleHeadsListActivity}
+{ACTIVITY, com.tattvafoundation.aarogyakendra.people_enumeration.LifeStyleFamilyMemberDetails}
+{ACTIVITY, com.tattvafoundation.aarogyakendra.screens.PanelActivity}
+{ACTIVITY, com.tattvafoundation.aarogyakendra.people_enumeration.NCDDetailsActivity}
+{ACTIVITY, com.tattvafoundation.aarogyakendra.aarogyakendra.SearchPeopleActivity}
+{ACTIVITY, com.tattvafoundation.aarogyakendra.aarogyakendra.ServicesList}
+{ACTIVITY, com.tattvafoundation.aarogyakendra.aarogyakendra.SummaryEncounter}
+{ACTIVITY, com.tattvafoundation.aarogyakendra.extra.Extra}
+{ACTIVITY, com.tattvafoundation.aarogyakendra.screens.WebTelemedicineActivity}
+{ACTIVITY, com.tattvafoundation.aarogyakendra.screens.WebEncounterSessionActivity}
+{ACTIVITY, com.tattvafoundation.aarogyakendra.aarogyakendra.TestActivity}
+{SERVICE, com.tattvafoundation.aarogyakendra.Utils.MyFirebaseMessagingService, com.google.firebase.MESSAGING_EVENT}
+{SERVICE, com.tattvafoundation.aarogyakendra.Utils.MyFirebaseInstanceIDService, com.google.firebase.INSTANCE_ID_EVENT}
+{ACTIVITY, com.tattvafoundation.aarogyakendra.screens.ConsultancyListActivity}
+{ACTIVITY, com.tattvafoundation.aarogyakendra.screens.CommandCenterActivity}
+{SERVICE, com.tattvafoundation.aarogyakendra.fcm.FirebasePushMessagingService, com.google.firebase.MESSAGING_EVENT}
+{ACTIVITY, com.tattvafoundation.aarogyakendra.screens.WEBRTC_Activity}
+{ACTIVITY, com.tattvafoundation.aarogyakendra.people_enumeration.VhndPlanActivity}
+{ACTIVITY, com.tattvafoundation.aarogyakendra.people_enumeration.VhncMeetingActivity}
+{ACTIVITY, com.tattvafoundation.aarogyakendra.people_enumeration.AAA_MeetingActivity}
+{ACTIVITY, com.tattvafoundation.aarogyakendra.people_enumeration.PerformanceIndicatorActivity}
+{ACTIVITY, com.tattvafoundation.aarogyakendra.daily_entry.DailyEntryTabHostActivity}
+{ACTIVITY, com.tattvafoundation.aarogyakendra.daily_entry.Main2Activity}
+{ACTIVITY, com.intentfilter.androidpermissions.PermissionsActivity}
+{SERVICE, com.google.android.gms.analytics.AnalyticsJobService}
+{SERVICE, com.google.firebase.messaging.FirebaseMessagingService, com.google.firebase.MESSAGING_EVENT}
+{SERVICE, com.google.firebase.components.ComponentDiscoveryService}
+{RECEIVER, com.google.android.gms.measurement.AppMeasurementReceiver}
+{RECEIVER, com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver, com.android.vending.INSTALL_REFERRER}
+{SERVICE, com.google.android.gms.measurement.AppMeasurementService}
+{SERVICE, com.google.android.gms.measurement.AppMeasurementJobService}
+{RECEIVER, com.google.firebase.iid.FirebaseInstanceIdReceiver, com.google.android.c2dm.intent.RECEIVE}
+{SERVICE, com.google.firebase.iid.FirebaseInstanceIdService, com.google.firebase.INSTANCE_ID_EVENT}
+{ACTIVITY, com.tattvafoundation.aarogyakendra.screens.LoginActivity}
+{ACTIVITY, com.tattvafoundation.aarogyakendra.screens.SplashActivity, android.intent.action.MAIN}
+{ACTIVITY, com.tattvafoundation.aarogyakendra.screens.PrintPdfActivity}
+{ACTIVITY, com.tattvafoundation.aarogyakendra.gapanalysis.BasicInformation}
+{ACTIVITY, com.tattvafoundation.aarogyakendra.gapanalysis.VillageDetails}
+{ACTIVITY, com.tattvafoundation.aarogyakendra.gapanalysis.HumanResources}
+{ACTIVITY, com.tattvafoundation.aarogyakendra.gapanalysis.Infrastructure}
+{ACTIVITY, com.tattvafoundation.aarogyakendra.gapanalysis.Equipments}
+{ACTIVITY, com.tattvafoundation.aarogyakendra.gapanalysis.DrugsAndSupplies}
+{ACTIVITY, com.tattvafoundation.aarogyakendra.gapanalysis.Protocols}
+{ACTIVITY, com.tattvafoundation.aarogyakendra.gapanalysis.ServiceStatistics}
+{ACTIVITY, com.tattvafoundation.aarogyakendra.gapanalysis.UnitedFunds}
+{ACTIVITY, com.tattvafoundation.aarogyakendra.gapanalysis.PrivateFacilities}
+{ACTIVITY, com.tattvafoundation.aarogyakendra.people_enumeration.HwPanel}
+{ACTIVITY, com.tattvafoundation.aarogyakendra.people_enumeration.HouseholdListActivity}
+{ACTIVITY, com.tattvafoundation.aarogyakendra.people_enumeration.HouseholdRoast}
+{ACTIVITY, com.tattvafoundation.aarogyakendra.people_enumeration.Household_Head_Detail}
+{ACTIVITY, com.tattvafoundation.aarogyakendra.screens.BcpmProfileActivity}
+{ACTIVITY, com.tattvafoundation.aarogyakendra.screens.DashboardActivity}
+{ACTIVITY, com.tattvafoundation.aarogyakendra.aarogyakendra.FollowupListActivity}
+{ACTIVITY, com.tattvafoundation.aarogyakendra.aarogyakendra.OPDListActivity}
+{ACTIVITY, com.tattvafoundation.aarogyakendra.screens.AboutUs}
+{ACTIVITY, com.tattvafoundation.aarogyakendra.aarogyakendra.RefferalListActivity}
+{RECEIVER, com.google.android.gms.analytics.AnalyticsReceiver, com.google.android.gms.analytics.ANALYTICS_DISPATCH}
+{SERVICE, com.google.android.gms.analytics.AnalyticsService}
+{RECEIVER, com.google.android.gms.analytics.CampaignTrackingReceiver, com.android.vending.INSTALL_REFERRER}
+{SERVICE, com.google.android.gms.analytics.CampaignTrackingService}
+{ACTIVITY, com.tattvafoundation.aarogyakendra.gapanalysis.Welcome}
+{ACTIVITY, com.tattvafoundation.aarogyakendra.gapanalysis.Finish}
+{ACTIVITY, com.tattvafoundation.aarogyakendra.gapanalysis.SubcenterPhotos}
+{ACTIVITY, com.tattvafoundation.aarogyakendra.gapanalysis.ServeyStatus}
+{ACTIVITY, com.tattvafoundation.aarogyakendra.people_enumeration.FamilyMemberDetails}
+{ACTIVITY, com.tattvafoundation.aarogyakendra.people_enumeration.HouseholdChracterstics}
+{ACTIVITY, com.tattvafoundation.aarogyakendra.people_enumeration.CharatersticsList}
+{ACTIVITY, com.tattvafoundation.aarogyakendra.people_enumeration.LifeStyleAndPhysicalActivity}
+{ACTIVITY, com.tattvafoundation.aarogyakendra.people_enumeration.LifeStyleHeadsListActivity}
+{ACTIVITY, com.tattvafoundation.aarogyakendra.people_enumeration.LifeStyleFamilyMemberDetails}
+{ACTIVITY, com.tattvafoundation.aarogyakendra.screens.PanelActivity}
+{ACTIVITY, com.tattvafoundation.aarogyakendra.people_enumeration.NCDDetailsActivity}
+{ACTIVITY, com.tattvafoundation.aarogyakendra.aarogyakendra.SearchPeopleActivity}
+{ACTIVITY, com.tattvafoundation.aarogyakendra.aarogyakendra.ServicesList}
+{ACTIVITY, com.tattvafoundation.aarogyakendra.aarogyakendra.SummaryEncounter}
+{ACTIVITY, com.tattvafoundation.aarogyakendra.extra.Extra}
+{ACTIVITY, com.tattvafoundation.aarogyakendra.screens.WebTelemedicineActivity}
+{ACTIVITY, com.tattvafoundation.aarogyakendra.screens.WebEncounterSessionActivity}
+{ACTIVITY, com.tattvafoundation.aarogyakendra.aarogyakendra.TestActivity}
+{SERVICE, com.tattvafoundation.aarogyakendra.Utils.MyFirebaseMessagingService, com.google.firebase.MESSAGING_EVENT}
+{SERVICE, com.tattvafoundation.aarogyakendra.Utils.MyFirebaseInstanceIDService, com.google.firebase.INSTANCE_ID_EVENT}
+{ACTIVITY, com.tattvafoundation.aarogyakendra.screens.ConsultancyListActivity}
+{ACTIVITY, com.tattvafoundation.aarogyakendra.screens.CommandCenterActivity}
+{SERVICE, com.tattvafoundation.aarogyakendra.fcm.FirebasePushMessagingService, com.google.firebase.MESSAGING_EVENT}
+{ACTIVITY, com.tattvafoundation.aarogyakendra.screens.WEBRTC_Activity}
+{ACTIVITY, com.tattvafoundation.aarogyakendra.people_enumeration.VhndPlanActivity}
+{ACTIVITY, com.tattvafoundation.aarogyakendra.people_enumeration.VhncMeetingActivity}
+{ACTIVITY, com.tattvafoundation.aarogyakendra.people_enumeration.AAA_MeetingActivity}
+{ACTIVITY, com.tattvafoundation.aarogyakendra.people_enumeration.PerformanceIndicatorActivity}
+{ACTIVITY, com.tattvafoundation.aarogyakendra.daily_entry.DailyEntryTabHostActivity}
+{ACTIVITY, com.tattvafoundation.aarogyakendra.daily_entry.Main2Activity}
+{ACTIVITY, com.intentfilter.androidpermissions.PermissionsActivity}
+{SERVICE, com.google.android.gms.analytics.AnalyticsJobService}
+{SERVICE, com.google.firebase.messaging.FirebaseMessagingService, com.google.firebase.MESSAGING_EVENT}
+{SERVICE, com.google.firebase.components.ComponentDiscoveryService}
+{RECEIVER, com.google.android.gms.measurement.AppMeasurementReceiver}
+{RECEIVER, com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver, com.android.vending.INSTALL_REFERRER}
+{SERVICE, com.google.android.gms.measurement.AppMeasurementService}
+{SERVICE, com.google.android.gms.measurement.AppMeasurementJobService}
+{RECEIVER, com.google.firebase.iid.FirebaseInstanceIdReceiver, com.google.android.c2dm.intent.RECEIVE}
+{SERVICE, com.google.firebase.iid.FirebaseInstanceIdService, com.google.firebase.INSTANCE_ID_EVENT}
+_getAllDexFiles: /home/santapark/Extended3/DEEPerence/reEx/obfuscated/classes.dex
+----------------/home/santapark/Extended3/DEEPerence/reEx/obfuscated.apk
+dexFile = org.jf.dexlib2.dexbacked.DexBackedDexFile@2f7a7219
+com.tattvafoundation.aarogyakendra
+com.tattvafoundation.aarogyakendra.screens.SplashActivity
+debuggable: false
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/obfuscated.apk
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/obfuscated.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/obfuscated.apk
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/obfuscated_46604b9f/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/obfuscated_46604b9f/obfuscated.apk
+159ceeed: Installation Success
+3601a6ff: Installation Success
+b29e6a69: Installation Success
+46604b9f: Installing repackaged apk File: 
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/obfuscated_46604b9f/signed_obfuscated.apk
+46604b9f: Installation Success
+46604b9f: startApplication called! - devTamper
+3601a6ff: startApplication called! - devRef
+b29e6a69: startApplication called! - devRoot
+159ceeed: startApplication called! - devDebug
+46604b9f: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devTamper_obfuscated.ilog)
+3601a6ff: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRef_obfuscated.ilog)
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_obfuscated.ilog)
+46604b9f: Running Application: com.tattvafoundation.aarogyakendra
+3601a6ff: Running Application: com.tattvafoundation.aarogyakendra
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_obfuscated.ilog)
+b29e6a69: Running Application: com.tattvafoundation.aarogyakendra
+PIDs--------------------------------------------------------------------------
+u0_a186        3274    423 14475076 112816 0                  0 S com.tattvafoundation.aarogyakendra
+forward tcp:35535 jdwp:3274
+[*]Found JDWP Target: 3274
+159ceeed: Running Application: com.tattvafoundation.aarogyakendra
+PIDs--------------------------------------------------------------------------
+u0_a186        3274    423 14689168 146268 0                  0 S com.tattvafoundation.aarogyakendra
+159ceeed: Tryging attach jdb to 3274
+jdb -connect com.sun.jdi.SocketAttach:hostname=localhost,port=35535
+159ceeed: Running is done - starting comparing... : 10001
+159ceeed: Terminated logcat thread...by itself
+b29e6a69: Running is done - starting comparing... : 10001
+b29e6a69: Terminated logcat thread...by itself
+46604b9f: Running is done - starting comparing... : 10001
+46604b9f: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.tattvafoundation.aarogyakendra/.screens.LoginActivity
+PIDs--------------------------------------------------------------------------
+u0_a3621      10009    425 14828856 141204 0                  0 S com.tattvafoundation.aarogyakendra
+b29e6a69: savedPid = 10009
+PIDs--------------------------------------------------------------------------
+u0_a3621      10009    425 14828856 141204 0                  0 S com.tattvafoundation.aarogyakendra
+b29e6a69: savedPid2 = 10009
+Stopping app: com.tattvafoundation.aarogyakendra
+46604b9f: Top-activity: com.tattvafoundation.aarogyakendra/.screens.LoginActivity
+PIDs--------------------------------------------------------------------------
+u0_a731       15828    427 14966724 145348 0                  0 S com.tattvafoundation.aarogyakendra
+46604b9f: savedPid = 15828
+PIDs--------------------------------------------------------------------------
+u0_a731       15828    427 14966724 145348 0                  0 S com.tattvafoundation.aarogyakendra
+46604b9f: savedPid2 = 15828
+Stopping app: com.tattvafoundation.aarogyakendra
+3601a6ff: Running is done - starting comparing... : 10001
+3601a6ff: Terminated logcat thread...by itself
+3601a6ff: Top-activity: com.tattvafoundation.aarogyakendra/.screens.LoginActivity
+PIDs--------------------------------------------------------------------------
+u0_a212       27470    417 14984148 140500 0                  0 S com.tattvafoundation.aarogyakendra
+3601a6ff: savedPid = 27470
+PIDs--------------------------------------------------------------------------
+u0_a212       27470    417 14984148 140500 0                  0 S com.tattvafoundation.aarogyakendra
+3601a6ff: savedPid2 = 27470
+Stopping app: com.tattvafoundation.aarogyakendra
+Tryging remove : uninstall com.tattvafoundation.aarogyakendra(com.tattvafoundation.aarogyakendra)
+46604b9f: Remove Success
+46604b9f: ilog file size: 15086623
+46604b9f: End of collecting logcat...
+Tryging remove : uninstall com.tattvafoundation.aarogyakendra(com.tattvafoundation.aarogyakendra)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 13803297
+b29e6a69: End of collecting logcat...
+Tryging remove : uninstall com.tattvafoundation.aarogyakendra(com.tattvafoundation.aarogyakendra)
+3601a6ff: Remove Success
+3601a6ff: ilog file size: 15175914
+3601a6ff: End of collecting logcat...
+159ceeed: Top-activity: com.tattvafoundation.aarogyakendra/.screens.LoginActivity
+PIDs--------------------------------------------------------------------------
+u0_a186        3274    423 14933704 158548 0                  0 S com.tattvafoundation.aarogyakendra
+159ceeed: savedPid = 3274
+PIDs--------------------------------------------------------------------------
+u0_a186        3274    423 14933704 158548 0                  0 S com.tattvafoundation.aarogyakendra
+159ceeed: savedPid2 = 3274
+Stopping app: com.tattvafoundation.aarogyakendra
+Tryging remove : uninstall com.tattvafoundation.aarogyakendra(com.tattvafoundation.aarogyakendra)
+159ceeed: Remove Success
+159ceeed: ilog file size: 15192988
+159ceeed: End of collecting logcat...
+HPFinder's try count remains: 29
+46604b9f: isFailedToLaunch: com.tattvafoundation.aarogyakendra/.screens.LoginActivity
+46604b9f: 	--result: Good :)
+46604b9f: isFailedToLaunch: com.tattvafoundation.aarogyakendra/.screens.LoginActivity
+46604b9f: 	--result: Good :)
+b29e6a69: isFailedToLaunch: com.tattvafoundation.aarogyakendra/.screens.LoginActivity
+b29e6a69: 	--result: Good :)
+b29e6a69: isFailedToLaunch: com.tattvafoundation.aarogyakendra/.screens.LoginActivity
+b29e6a69: 	--result: Good :)
+159ceeed: isFailedToLaunch: com.tattvafoundation.aarogyakendra/.screens.LoginActivity
+159ceeed: 	--result: Good :)
+159ceeed: isFailedToLaunch: com.tattvafoundation.aarogyakendra/.screens.LoginActivity
+159ceeed: 	--result: Good :)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devTamper_obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_obfuscated.ilog)
+[*] FlowManager: adjust finished.
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:66e53e		=(rels)=>		1
+[*] Unique action: 1:42454 : <<CALL>> : com.tattvafoundation.aarogyakendra.screens.LoginActivity/onCreate:(Landroid/os/Bundle;)V:66e53e  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+[*] FlowManager: adjust finished.
+[*] FlowManager: adjust finished.
+Action is completely same :)
+Action is completely same :)
+159ceeed: There is no difference. (tryAgain=false)
+Action is completely same :)
+Action is completely same :)
+46604b9f: There is no difference. (tryAgain=false)
+	1:compareBackwardBranch: 1:42048 : <<BRANCH>> : com.tattvafoundation.aarogyakendra.screens.LoginActivity/onCreate:(Landroid/os/Bundle;)V:66e2fc  =>  com.tattvafoundation.aarogyakendra.screens.LoginActivity/onCreate:(Landroid/os/Bundle;)V:66e368
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:66e5ec		=(rels)=>		1
+[*] Unique action: 1:42488 : <<CALL>> : com.tattvafoundation.aarogyakendra.screens.LoginActivity/onCreate:(Landroid/os/Bundle;)V:66e5ec  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:42048 : <<BRANCH>> : com.tattvafoundation.aarogyakendra.screens.LoginActivity/onCreate:(Landroid/os/Bundle;)V:66e2fc  =>  com.tattvafoundation.aarogyakendra.screens.LoginActivity/onCreate:(Landroid/os/Bundle;)V:66e368
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:66e5d8		=(rels)=>		1
+[*] Unique action: 1:42484 : <<CALL>> : com.tattvafoundation.aarogyakendra.screens.LoginActivity/onCreate:(Landroid/os/Bundle;)V:66e5d8  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:42048 : <<BRANCH>> : com.tattvafoundation.aarogyakendra.screens.LoginActivity/onCreate:(Landroid/os/Bundle;)V:66e2fc  =>  com.tattvafoundation.aarogyakendra.screens.LoginActivity/onCreate:(Landroid/os/Bundle;)V:66e368
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:66e468		=(rels)=>		1
+[*] Unique action: 1:42283 : <<CALL>> : com.tattvafoundation.aarogyakendra.screens.LoginActivity/onCreate:(Landroid/os/Bundle;)V:66e468  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:42048 : <<BRANCH>> : com.tattvafoundation.aarogyakendra.screens.LoginActivity/onCreate:(Landroid/os/Bundle;)V:66e2fc  =>  com.tattvafoundation.aarogyakendra.screens.LoginActivity/onCreate:(Landroid/os/Bundle;)V:66e368
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:45b6b4		=(rels)=>		1
+[*] Unique action: 1:37436 : <<CALL>> : android.support.v4.widget.NestedScrollView/YzzEaXMwycXLDMqH:(Landroid/widget/FrameLayout;Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:45b6b4  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+	1:compareBackwardBranch: 1:42048 : <<BRANCH>> : com.tattvafoundation.aarogyakendra.screens.LoginActivity/onCreate:(Landroid/os/Bundle;)V:66e2fc  =>  com.tattvafoundation.aarogyakendra.screens.LoginActivity/onCreate:(Landroid/os/Bundle;)V:66e368
+android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:45d184		=(rels)=>		1
+[*] Unique action: 1:37442 : <<CALL>> : android.support.v4.widget.NestedScrollView/rLJhUVCPQOQsgGMS:(Landroid/widget/FrameLayout;Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:45d184  =>  android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:1959fc
+	1:compareBackwardBranch: 1:42048 : <<BRANCH>> : com.tattvafoundation.aarogyakendra.screens.LoginActivity/onCreate:(Landroid/os/Bundle;)V:66e2fc  =>  com.tattvafoundation.aarogyakendra.screens.LoginActivity/onCreate:(Landroid/os/Bundle;)V:66e368
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:4664a4		=(rels)=>		1
+[*] Unique action: 1:39348 : <<CALL>> : android.support.v7.app.AlertController/d:(Landroid/view/ViewGroup;)V:4664a4  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:42048 : <<BRANCH>> : com.tattvafoundation.aarogyakendra.screens.LoginActivity/onCreate:(Landroid/os/Bundle;)V:66e2fc  =>  com.tattvafoundation.aarogyakendra.screens.LoginActivity/onCreate:(Landroid/os/Bundle;)V:66e368
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:466382		=(rels)=>		1
+[*] Unique action: 1:39330 : <<CALL>> : android.support.v7.app.AlertController/d:(Landroid/view/ViewGroup;)V:466382  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:42048 : <<BRANCH>> : com.tattvafoundation.aarogyakendra.screens.LoginActivity/onCreate:(Landroid/os/Bundle;)V:66e2fc  =>  com.tattvafoundation.aarogyakendra.screens.LoginActivity/onCreate:(Landroid/os/Bundle;)V:66e368
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:4663c0		=(rels)=>		1
+[*] Unique action: 1:39333 : <<CALL>> : android.support.v7.app.AlertController/d:(Landroid/view/ViewGroup;)V:4663c0  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:42048 : <<BRANCH>> : com.tattvafoundation.aarogyakendra.screens.LoginActivity/onCreate:(Landroid/os/Bundle;)V:66e2fc  =>  com.tattvafoundation.aarogyakendra.screens.LoginActivity/onCreate:(Landroid/os/Bundle;)V:66e368
+android.app.Dialog/show:()V:66e35e		=(rels)=>		1
+[*] Unique action: 1:35120 : <<CALL>> : com.tattvafoundation.aarogyakendra.screens.LoginActivity/onCreate:(Landroid/os/Bundle;)V:66e35e  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:42048 : <<BRANCH>> : com.tattvafoundation.aarogyakendra.screens.LoginActivity/onCreate:(Landroid/os/Bundle;)V:66e2fc  =>  com.tattvafoundation.aarogyakendra.screens.LoginActivity/onCreate:(Landroid/os/Bundle;)V:66e368
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:466418		=(rels)=>		1
+[*] Unique action: 1:39341 : <<CALL>> : android.support.v7.app.AlertController/d:(Landroid/view/ViewGroup;)V:466418  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:42048 : <<BRANCH>> : com.tattvafoundation.aarogyakendra.screens.LoginActivity/onCreate:(Landroid/os/Bundle;)V:66e2fc  =>  com.tattvafoundation.aarogyakendra.screens.LoginActivity/onCreate:(Landroid/os/Bundle;)V:66e368
+Entry: 66e2d0
+com.tattvafoundation.aarogyakendra.screens.LoginActivity/onCreate:(Landroid/os/Bundle;)V: 66e2fc -> 66e368
+		com.tattvafoundation.aarogyakendra.screens.LoginActivity/onCreate:(Landroid/os/Bundle;)V: 2c -> 98
+addPatchReadme: java.lang.Class<com.tattvafoundation.aarogyakendra.screens.LoginActivity>onCreate(Landroid/os/Bundle;)V 2c t
+b29e6a69: [+] Patches found in this round: 1
+b29e6a69: [*] Found Patch size: 1
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_obfuscated.ilog)
+b29e6a69: 	@@@Found patch addr: 66e30c
+b29e6a69: Querying offset: 66e2fc
+b29e6a69: 	--Add method name to patch = com.tattvafoundation.aarogyakendra.screens.LoginActivity/onCreate:(Landroid/os/Bundle;)V 	66e2fc
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: patching method: com.tattvafoundation.aarogyakendra.screens.LoginActivity/onCreate:(Landroid/os/Bundle;)V
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/obfuscated_devRoot
+Wow!!!!!  --  com.tattvafoundation.aarogyakendra.screens.LoginActivity/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 30
+branchTarget: 98
+label = cond_0
+GOTO -- 30 	98
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/obfuscated_devRoot/obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/obfuscated_devRoot/signed_obfuscated.apk
+b29e6a69: First address of Lcom/tattvafoundation/aarogyakendra/screens/LoginActivity;->onCreate(Landroid/os/Bundle;)V = 66e2e0
+b29e6a69: Address - Lcom/tattvafoundation/aarogyakendra/screens/LoginActivity;->onCreate(Landroid/os/Bundle;)V@2c	 lastOffset = 37e
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/obfuscated_devRoot/signed_obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_obfuscated.ilog)
+b29e6a69: Running Application: com.tattvafoundation.aarogyakendra
+b29e6a69: Running is done - starting comparing... : 10001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.tattvafoundation.aarogyakendra/.screens.LoginActivity
+PIDs--------------------------------------------------------------------------
+u0_a3622      10103    425 14814188 144636 0                  0 S com.tattvafoundation.aarogyakendra
+b29e6a69: savedPid = 10103
+PIDs--------------------------------------------------------------------------
+u0_a3622      10103    425 14814188 144636 0                  0 S com.tattvafoundation.aarogyakendra
+b29e6a69: savedPid2 = 10103
+Stopping app: com.tattvafoundation.aarogyakendra
+Tryging remove : uninstall com.tattvafoundation.aarogyakendra(com.tattvafoundation.aarogyakendra)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 13617223
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 28
+b29e6a69: isFailedToLaunch: com.tattvafoundation.aarogyakendra/.screens.LoginActivity
+b29e6a69: 	--result: Good :)
+b29e6a69: isFailedToLaunch: com.tattvafoundation.aarogyakendra/.screens.LoginActivity
+b29e6a69: 	--result: Good :)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_obfuscated.ilog)
+b29e6a69: adding filter -- 66e2fc
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 66e2fc
+Action is completely same :)
+Action is completely same :)
+b29e6a69: There is no difference. (tryAgain=false)
+-- HPFinder will be done in this iteration :)
+hasAntiAnalysis? - devTamper: false on com.tattvafoundation.aarogyakendra.screens.SplashActivity
+hasAntiAnalysis? - devRoot: true on com.tattvafoundation.aarogyakendra.screens.SplashActivity
+	isRemovedThem? - devRoot: true on com.tattvafoundation.aarogyakendra.screens.SplashActivity	-	tryCount: 1
+hasAntiAnalysis? - devDebug: false on com.tattvafoundation.aarogyakendra.screens.SplashActivity
+*****REPORT: com.tattvafoundation.aarogyakendra
+* Package name: com.tattvafoundation.aarogyakendra
+* Running time: 142
+* FileSize: 10921951
+devTamper : 15086623
+devRef : 15175914
+devRoot : 13617223
+devDebug : 15192988
+hasAntiAnalysis? - devTamper: false on com.tattvafoundation.aarogyakendra.screens.SplashActivity
+hasAntiAnalysis? - devRoot: true on com.tattvafoundation.aarogyakendra.screens.SplashActivity
+	isRemovedThem? - devRoot: true on com.tattvafoundation.aarogyakendra.screens.SplashActivity	-	tryCount: 1
+hasAntiAnalysis? - devDebug: false on com.tattvafoundation.aarogyakendra.screens.SplashActivity
+Obfuscation failed - Try once more.... :( - /home/santapark/Extended3/DEEPerence/reEx/obfuscated.apk
+Obfuscation failed - Finally failed... :( - /home/santapark/Extended3/DEEPerence/reEx/obfuscated.apk
+46604b9f: trying remove : com.tattvafoundation.aarogyakendra
+3601a6ff: trying remove : com.tattvafoundation.aarogyakendra
+b29e6a69: trying remove : com.tattvafoundation.aarogyakendra
+159ceeed: trying remove : com.tattvafoundation.aarogyakendra
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+159ceeed: result = true
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+3601a6ff: result = true
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+b29e6a69: result = true
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+46604b9f: result = true
+3601a6ff: isFailedToLaunch: com.tattvafoundation.aarogyakendra/.screens.LoginActivity
+3601a6ff: 	--result: Good :)

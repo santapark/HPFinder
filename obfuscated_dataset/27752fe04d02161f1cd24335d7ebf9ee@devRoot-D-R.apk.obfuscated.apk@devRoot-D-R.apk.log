@@ -1,0 +1,258 @@
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample73.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH/AndroidManifest.xml
+launchable-activity: name='com.hyundai.mautoway2.CompanyActivity'  label='' icon=''
+{ACTIVITY, com.hyundai.mautoway2.CompanyActivity, android.intent.action.MAIN}
+{ACTIVITY, com.mcnc.bizmob.base.ntv.NativeSlideFragmentActivity}
+{SERVICE, com.mcnc.bizmob.fcm.McncFirebaseMessagingService, com.google.firebase.MESSAGING_EVENT}
+{ACTIVITY, com.mcnc.bizmob.view.DummyActivity, android.intent.action.VIEW, OPEN_FCM_CONTROL_ACTIVITY}
+{ACTIVITY, com.mcnc.bizmob.view.barcode.CaptureActivity}
+{ACTIVITY, com.mcnc.bizmob.view.log.LogViewerActivity}
+{ACTIVITY, com.mcnc.bizmob.view.filebrowser.FileBrowserActivity}
+{ACTIVITY, com.mcnc.bizmob.view.internal.InternalBrowserActivity}
+{ACTIVITY, com.mcnc.bizmob.view.image.CustomGalleryActivity}
+{ACTIVITY, com.hyundai.fido.rpsdk.client.FidoSDKActivity}
+{ACTIVITY, com.hyundai.fido.client.process.UAFClient}
+{ACTIVITY, com.hyundai.fido.client.asm.ui.AsmListActivity}
+{ACTIVITY, com.hyundai.fido.authenticator.asm.api.ASMProcessorActivity}
+{ACTIVITY, com.hyundai.fido.authenticator.finger.local.UserLocal_Normal_Activity}
+{RECEIVER, com.mcnc.bizmob.util.BootReceiver, android.intent.action.ACTION_SHUTDOWN}
+{ACTIVITY, com.mcnc.bizmob.core.view.deviceregist.DeviceRegistActivity}
+{ACTIVITY, com.mcnc.bizmob.core.view.signature.SignatureActivity}
+{ACTIVITY, com.mcnc.bizmob.core.view.image.ImageViewerActivity}
+{ACTIVITY, com.mcnc.bizmob.core.view.crash.CrashLogListViewerActivity}
+{ACTIVITY, com.mcnc.bizmob.core.view.crash.CrashLogViewerActivity}
+{SERVICE, com.google.firebase.messaging.FirebaseMessagingService, com.google.firebase.MESSAGING_EVENT}
+{SERVICE, com.google.firebase.components.ComponentDiscoveryService}
+{RECEIVER, com.google.firebase.iid.FirebaseInstanceIdReceiver, com.google.android.c2dm.intent.RECEIVE}
+{SERVICE, com.google.firebase.iid.FirebaseInstanceIdService, com.google.firebase.INSTANCE_ID_EVENT}
+{ACTIVITY, com.google.android.gms.common.api.GoogleApiActivity}
+{ACTIVITY, com.journeyapps.barcodescanner.CaptureActivity}
+{ACTIVITY, com.hyundai.mautoway2.CompanyActivity, android.intent.action.MAIN}
+{ACTIVITY, com.mcnc.bizmob.base.ntv.NativeSlideFragmentActivity}
+{SERVICE, com.mcnc.bizmob.fcm.McncFirebaseMessagingService, com.google.firebase.MESSAGING_EVENT}
+{ACTIVITY, com.mcnc.bizmob.view.DummyActivity, android.intent.action.VIEW, OPEN_FCM_CONTROL_ACTIVITY}
+{ACTIVITY, com.mcnc.bizmob.view.barcode.CaptureActivity}
+{ACTIVITY, com.mcnc.bizmob.view.log.LogViewerActivity}
+{ACTIVITY, com.mcnc.bizmob.view.filebrowser.FileBrowserActivity}
+{ACTIVITY, com.mcnc.bizmob.view.internal.InternalBrowserActivity}
+{ACTIVITY, com.mcnc.bizmob.view.image.CustomGalleryActivity}
+{ACTIVITY, com.hyundai.fido.rpsdk.client.FidoSDKActivity}
+{ACTIVITY, com.hyundai.fido.client.process.UAFClient}
+{ACTIVITY, com.hyundai.fido.client.asm.ui.AsmListActivity}
+{ACTIVITY, com.hyundai.fido.authenticator.asm.api.ASMProcessorActivity}
+{ACTIVITY, com.hyundai.fido.authenticator.finger.local.UserLocal_Normal_Activity}
+{RECEIVER, com.mcnc.bizmob.util.BootReceiver, android.intent.action.ACTION_SHUTDOWN}
+{ACTIVITY, com.mcnc.bizmob.core.view.deviceregist.DeviceRegistActivity}
+{ACTIVITY, com.mcnc.bizmob.core.view.signature.SignatureActivity}
+{ACTIVITY, com.mcnc.bizmob.core.view.image.ImageViewerActivity}
+{ACTIVITY, com.mcnc.bizmob.core.view.crash.CrashLogListViewerActivity}
+{ACTIVITY, com.mcnc.bizmob.core.view.crash.CrashLogViewerActivity}
+{SERVICE, com.google.firebase.messaging.FirebaseMessagingService, com.google.firebase.MESSAGING_EVENT}
+{SERVICE, com.google.firebase.components.ComponentDiscoveryService}
+{RECEIVER, com.google.firebase.iid.FirebaseInstanceIdReceiver, com.google.android.c2dm.intent.RECEIVE}
+{SERVICE, com.google.firebase.iid.FirebaseInstanceIdService, com.google.firebase.INSTANCE_ID_EVENT}
+{ACTIVITY, com.google.android.gms.common.api.GoogleApiActivity}
+{ACTIVITY, com.journeyapps.barcodescanner.CaptureActivity}
+_getAllDexFiles: /home/santapark/Extended3/DEEPerence/reEx/sample73.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH/classes.dex
+----------------/home/santapark/Extended3/DEEPerence/reEx/sample73.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH.apk
+dexFile = org.jf.dexlib2.dexbacked.DexBackedDexFile@29df4d43
+com.hyundai.mautoway2
+com.hyundai.mautoway2.CompanyActivity
+debuggable: true
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample73.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample73.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH.apk
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample73.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample73.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH/sample73.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH.apk
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample73.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH_46604b9f/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample73.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH_46604b9f/sample73.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH.apk
+3601a6ff: Installation Success
+b29e6a69: Installation Success
+159ceeed: Installing debuggable .apk file: 
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample73.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH/signed_sample73.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH.apk
+46604b9f: Installing repackaged apk File: 
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample73.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH_46604b9f/signed_sample73.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH.apk
+159ceeed: Installation Success
+46604b9f: Installation Success
+46604b9f: startApplication called! - devTamper
+3601a6ff: startApplication called! - devRef
+b29e6a69: startApplication called! - devRoot
+159ceeed: startApplication called! - devDebug
+3601a6ff: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample73@devRoot-D-R.obfuscated@FAILED_LAUNCH.ilog)
+46604b9f: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devTamper_sample73@devRoot-D-R.obfuscated@FAILED_LAUNCH.ilog)
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample73@devRoot-D-R.obfuscated@FAILED_LAUNCH.ilog)
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample73@devRoot-D-R.obfuscated@FAILED_LAUNCH.ilog)
+3601a6ff: Running Application: com.hyundai.mautoway2
+46604b9f: Running Application: com.hyundai.mautoway2
+b29e6a69: Running Application: com.hyundai.mautoway2
+PIDs--------------------------------------------------------------------------
+u0_a844       10834    428 14750264 102652 0                  0 R com.hyundai.mautoway2
+forward tcp:5005 jdwp:10834
+[*]Found JDWP Target: 10834
+159ceeed: Running Application: com.hyundai.mautoway2
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+3601a6ff: Running is done - starting comparing... : 5001
+3601a6ff: Terminated logcat thread...by itself
+159ceeed: Running is done - starting comparing... : 5001
+159ceeed: Terminated logcat thread...by itself
+46604b9f: Running is done - starting comparing... : 5001
+46604b9f: Terminated logcat thread...by itself
+3601a6ff: Top-activity: com.hyundai.mautoway2/.CompanyActivity
+b29e6a69: Top-activity: com.hyundai.mautoway2/.CompanyActivity
+PIDs--------------------------------------------------------------------------
+u0_a3476      14746    428 14856612 136936 0                  0 S com.hyundai.mautoway2
+PIDs--------------------------------------------------------------------------
+u0_a212       32391    407 14959656 140468 0                  0 S com.hyundai.mautoway2
+PIDs--------------------------------------------------------------------------
+u0_a3476      14746    428 14856612 136936 0                  0 S com.hyundai.mautoway2
+Stopping app: com.hyundai.mautoway2
+PIDs--------------------------------------------------------------------------
+u0_a212       32391    407 14959656 140468 0                  0 S com.hyundai.mautoway2
+Stopping app: com.hyundai.mautoway2
+46604b9f: Top-activity: com.hyundai.mautoway2/.CompanyActivity
+PIDs--------------------------------------------------------------------------
+u0_a902       16921    425 14941228 139876 0                  0 S com.hyundai.mautoway2
+PIDs--------------------------------------------------------------------------
+u0_a902       16921    425 14941228 139876 0                  0 S com.hyundai.mautoway2
+Stopping app: com.hyundai.mautoway2
+159ceeed: Top-activity: com.hyundai.mautoway2/.CompanyActivity
+PIDs--------------------------------------------------------------------------
+u0_a844       10834    428 15012908 140096 0                  0 S com.hyundai.mautoway2
+PIDs--------------------------------------------------------------------------
+u0_a844       10834    428 15012908 140096 0                  0 S com.hyundai.mautoway2
+Stopping app: com.hyundai.mautoway2
+Tryging remove : uninstall com.hyundai.mautoway2(com.hyundai.mautoway2)
+3601a6ff: Remove Success
+3601a6ff: ilog file size: 16241781
+3601a6ff: End of collecting logcat...
+Tryging remove : uninstall com.hyundai.mautoway2(com.hyundai.mautoway2)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 7873608
+b29e6a69: End of collecting logcat...
+Tryging remove : uninstall com.hyundai.mautoway2(com.hyundai.mautoway2)
+46604b9f: Remove Success
+46604b9f: ilog file size: 16590438
+46604b9f: End of collecting logcat...
+Tryging remove : uninstall com.hyundai.mautoway2(com.hyundai.mautoway2)
+159ceeed: Remove Success
+159ceeed: ilog file size: 16568549
+159ceeed: End of collecting logcat...
+HPFinder's try count remains: 19
+46604b9f: isFailedToLaunch: com.hyundai.mautoway2/.CompanyActivity
+46604b9f: 	--result: Good :)
+b29e6a69: isFailedToLaunch: com.hyundai.mautoway2/.CompanyActivity
+b29e6a69: 	--result: Good :)
+159ceeed: isFailedToLaunch: com.hyundai.mautoway2/.CompanyActivity
+159ceeed: 	--result: Good :)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample73@devRoot-D-R.obfuscated@FAILED_LAUNCH.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample73@devRoot-D-R.obfuscated@FAILED_LAUNCH.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample73@devRoot-D-R.obfuscated@FAILED_LAUNCH.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample73@devRoot-D-R.obfuscated@FAILED_LAUNCH.ilog)
+[*] FlowManager: adjust finished.
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.app.Dialog/show:()V:5e6c68		=(rels)=>		1
+[*] Unique action: 1:70877 : <<CALL>> : com.mcnc.bizmob.plugin.base.ProgressPlugin$a/run:()V:5e6c68  =>  android.app.Dialog/show:()V:1b4adc
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devTamper_sample73@devRoot-D-R.obfuscated@FAILED_LAUNCH.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample73@devRoot-D-R.obfuscated@FAILED_LAUNCH.ilog)
+[*] FlowManager: adjust finished.
+Action is completely same :)
+Action is completely same :)
+46604b9f: There is no difference. (tryAgain=false)
+[*] FlowManager: adjust finished.
+Action is completely same :)
+Action is completely same :)
+159ceeed: There is no difference. (tryAgain=false)
+org.apache.http.impl.client.DefaultHttpClient/<init>:(Lorg/apache/http/conn/ClientConnectionManager;Lorg/apache/http/params/HttpParams;)V:5c186a		=(rels)=>		1
+[*] Unique action: 18:70429 : <<CALL>> : com.mcnc.bizmob.core.util.k.a/<clinit>:()V:5c186a  =>  org.apache.http.impl.client.DefaultHttpClient/<init>:(Lorg/apache/http/conn/ClientConnectionManager;Lorg/apache/http/params/HttpParams;)V:31acc
+org.apache.http.impl.client.DefaultHttpClient/<init>:(Lorg/apache/http/conn/ClientConnectionManager;Lorg/apache/http/params/HttpParams;)V:5c1990		=(rels)=>		1
+[*] Unique action: 18:70457 : <<CALL>> : com.mcnc.bizmob.core.util.k.a/a:(I)I:5c1990  =>  org.apache.http.impl.client.DefaultHttpClient/<init>:(Lorg/apache/http/conn/ClientConnectionManager;Lorg/apache/http/params/HttpParams;)V:31acc
+Action is completely same :)
+Entry: 616758
+com.scottyab.rootbeer.b/k:()Z: 6168d0 -> 6168d4
+		com.scottyab.rootbeer.b/k:()Z: 178 -> 17c
+addPatchReadme: java.lang.Class<com.scottyab.rootbeer.b>k()Z 178 f
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample73@devRoot-D-R.obfuscated@FAILED_LAUNCH.ilog)
+b29e6a69: Patch size: 1
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample73.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH_devRoot
+Wow!!!!!  --  com.scottyab.rootbeer.b/k:()Z
+fallthrough: 17c
+branchTarget: 17c
+NOP!
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample73.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample73.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH_devRoot/sample73.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample73.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH_devRoot/signed_sample73.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH.apk
+b29e6a69: First address of Lcom/scottyab/rootbeer/b;->k()Z = 616768
+b29e6a69: Address - Lcom/scottyab/rootbeer/b;->k()Z@178	 lastOffset = 818
+b29e6a69: Instruction@@: IF_NEZ
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample73.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH_devRoot/signed_sample73.apk@devRoot-D-R.apk.obfuscated.apk@FAILED_LAUNCH.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample73@devRoot-D-R.obfuscated@FAILED_LAUNCH.ilog)
+b29e6a69: Running Application: com.hyundai.mautoway2
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.hyundai.mautoway2/.CompanyActivity
+PIDs--------------------------------------------------------------------------
+u0_a3477      14891    428 15026564 140368 0                  0 S com.hyundai.mautoway2
+PIDs--------------------------------------------------------------------------
+u0_a3477      14891    428 15026564 140368 0                  0 S com.hyundai.mautoway2
+Stopping app: com.hyundai.mautoway2
+Tryging remove : uninstall com.hyundai.mautoway2(com.hyundai.mautoway2)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 16497399
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 18
+b29e6a69: isFailedToLaunch: com.hyundai.mautoway2/.CompanyActivity
+b29e6a69: 	--result: Good :)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample73@devRoot-D-R.obfuscated@FAILED_LAUNCH.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample73@devRoot-D-R.obfuscated@FAILED_LAUNCH.ilog)
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 6168d0
+Action is completely same :)
+Action is completely same :)
+b29e6a69: There is no difference. (tryAgain=false)
+-- HPFinder will be done in this iteration :)
+hasAntiAnalysis? - devTamper: false on com.hyundai.mautoway2.CompanyActivity
+hasAntiAnalysis? - devRoot: true on com.hyundai.mautoway2.CompanyActivity
+	isRemovedThem? - devRoot: true on com.hyundai.mautoway2.CompanyActivity	-	tryCount: 1
+hasAntiAnalysis? - devDebug: false on com.hyundai.mautoway2.CompanyActivity
+*****REPORT: com.hyundai.mautoway2
+* Package name: com.hyundai.mautoway2
+* Running time: 112
+* FileSize: 9822682
+devTamper : 16590438
+devRef : 16241781
+devRoot : 16497399
+devDebug : 16568549
+hasAntiAnalysis? - devTamper: false on com.hyundai.mautoway2.CompanyActivity
+hasAntiAnalysis? - devRoot: true on com.hyundai.mautoway2.CompanyActivity
+	isRemovedThem? - devRoot: true on com.hyundai.mautoway2.CompanyActivity	-	tryCount: 1
+hasAntiAnalysis? - devDebug: false on com.hyundai.mautoway2.CompanyActivity
+46604b9f: trying remove : com.hyundai.mautoway2
+3601a6ff: trying remove : com.hyundai.mautoway2
+b29e6a69: trying remove : com.hyundai.mautoway2
+159ceeed: trying remove : com.hyundai.mautoway2
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+3601a6ff: result = true
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+b29e6a69: result = true
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+159ceeed: result = true
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+46604b9f: result = true
+3601a6ff: isFailedToLaunch: com.hyundai.mautoway2/.CompanyActivity
+3601a6ff: 	--result: Good :)

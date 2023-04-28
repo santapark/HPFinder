@@ -1,0 +1,679 @@
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample33.apk@devRoot-D-R.apk.obfuscated/AndroidManifest.xml
+launchable-activity: name='com.lcode.mgrb.LaunchScreen'  label='' icon=''
+{ACTIVITY, com.lcode.mgrb.LaunchScreen, android.intent.action.MAIN}
+{ACTIVITY, com.lcode.mgrb.MainActivity}
+{ACTIVITY, com.lcode.mgrb.ExitScreen}
+{ACTIVITY, com.lcode.mgrb.LoginScreen}
+{ACTIVITY, com.lcode.mgrb.ChangeMpin}
+{ACTIVITY, com.lcode.mgrb.RESETSQA}
+{ACTIVITY, com.lcode.mgrb.ForceChangeMpin}
+{ACTIVITY, com.lcode.mgrb.LoginOtpScreen}
+{ACTIVITY, com.lcode.mgrb.RegisterScreen}
+{ACTIVITY, com.lcode.mgrb.RegisterDebit}
+{ACTIVITY, com.lcode.mgrb.RegisterMobile}
+{ACTIVITY, com.lcode.mgrb.RegisterOtp}
+{ACTIVITY, com.lcode.mgrb.BrnRegisterValidateMpin}
+{ACTIVITY, com.mbbank.service.Ticketing}
+{ACTIVITY, com.mbbank.service.Goibibo}
+{ACTIVITY, com.mobile.banking.MenuService}
+{ACTIVITY, com.mbbank.service.IfscSearchHelp}
+{ACTIVITY, com.mbbank.service.BeneficiaryActivation}
+{ACTIVITY, com.mbbank.service.BeneficiaryAddition}
+{ACTIVITY, com.mbbank.service.BeneficiaryTransfertype}
+{ACTIVITY, com.mbbank.service.BeneficiaryList}
+{ACTIVITY, com.mbbank.service.AccTransferTypeList}
+{ACTIVITY, com.mbbank.service.ChequeStatusConfirm}
+{ACTIVITY, com.lcode.mgrb.OtpScreen}
+{ACTIVITY, com.lcode.mgrb.ForgotPassOtpScreen}
+{ACTIVITY, com.lcode.mgrb.MpinScreen}
+{ACTIVITY, com.lcode.mgrb.ForgotPassRegisterScreen}
+{ACTIVITY, com.lcode.mgrb.ForgotPassRegisterDebit}
+{ACTIVITY, com.mbbank.account.AccountsType}
+{ACTIVITY, com.mbbank.account.AccountsDetailView}
+{ACTIVITY, com.mbbank.account.TransacDetailsView}
+{ACTIVITY, com.mbbank.service.ChequeStatus}
+{ACTIVITY, com.mbbank.service.ChequeStop}
+{ACTIVITY, com.mbbank.service.ChequeStopConfirm}
+{ACTIVITY, com.mbbank.service.ChequeRevoke}
+{ACTIVITY, com.mbbank.service.ChequeRevokeConfirm}
+{ACTIVITY, com.mbbank.service.DebitCardHotlist}
+{ACTIVITY, com.mbbank.service.DebitCardHotlistConfirm}
+{ACTIVITY, com.mbbank.service.AadharSeeding}
+{ACTIVITY, com.mbbank.service.AadharSeedingConfirm}
+{ACTIVITY, com.mbbank.service.EbankingBlock}
+{ACTIVITY, com.mbbank.service.EmailRegister}
+{ACTIVITY, com.mbbank.service.BillpayRecharge}
+{ACTIVITY, com.mbbank.service.BillpayRechargeConfirm}
+{ACTIVITY, com.mbbank.service.BillpayManager}
+{ACTIVITY, com.mbbank.service.BillpayAdd}
+{ACTIVITY, com.mbbank.service.BillpayDetails}
+{ACTIVITY, com.mbbank.service.BillPaytrf}
+{ACTIVITY, com.mbbank.service.BillPaytrfConfirm}
+{ACTIVITY, com.mbbank.service.BillpayViewBills}
+{ACTIVITY, com.mbbank.service.BillPayQuciktrf}
+{ACTIVITY, com.mbbank.service.BillPayQuciktrfConfirm}
+{ACTIVITY, com.mbbank.service.ChequeBookReq}
+{ACTIVITY, com.mbbank.service.ChequeBookReqConfirm}
+{ACTIVITY, com.mbbank.service.UpdateUserProfile}
+{ACTIVITY, com.mbbank.service.Payowntrf}
+{ACTIVITY, com.mbbank.service.PayowntrfConfirm}
+{ACTIVITY, com.mbbank.service.Paythptrf}
+{ACTIVITY, com.mbbank.service.PaythptrfConfirm}
+{ACTIVITY, com.mbbank.service.QPaythptrf}
+{ACTIVITY, com.mbbank.service.QPaythptrfConfirm}
+{ACTIVITY, com.mbbank.service.TransactionHist}
+{ACTIVITY, com.mbbank.service.TransactionHistDtls}
+{ACTIVITY, com.mbbank.service.Paynefttrf}
+{ACTIVITY, com.mbbank.service.PaynefttrfConfirm}
+{ACTIVITY, com.mbbank.service.Payrtgstrf}
+{ACTIVITY, com.mbbank.service.PayrtgstrfConfirm}
+{ACTIVITY, com.mbbank.service.Payp2atrf}
+{ACTIVITY, com.mbbank.service.Payp2atrfConfirm}
+{ACTIVITY, com.mbbank.service.Payp2ptrf}
+{ACTIVITY, com.mbbank.service.Payp2ptrfConfirm}
+{ACTIVITY, com.mbbank.service.Payp2mtrf}
+{ACTIVITY, com.mbbank.service.Payp2mtrfConfirm}
+{ACTIVITY, com.mbbank.service.Payp2utrf}
+{ACTIVITY, com.mbbank.service.Payp2utrfConfirm}
+{ACTIVITY, com.mbbank.service.QPayp2atrf}
+{ACTIVITY, com.mbbank.service.QPayp2atrfConfirm}
+{ACTIVITY, com.mbbank.service.QPayp2ptrf}
+{ACTIVITY, com.mbbank.service.QPayp2ptrfConfirm}
+{ACTIVITY, com.mbbank.service.QPayp2mtrf}
+{ACTIVITY, com.mbbank.service.QPayp2mtrfConfirm}
+{ACTIVITY, com.mbbank.service.QPayp2utrf}
+{ACTIVITY, com.mbbank.service.QPayp2utrfConfirm}
+{ACTIVITY, com.mbbank.service.DepositFixed}
+{ACTIVITY, com.mbbank.service.DepositFixedConfirm}
+{ACTIVITY, com.mbbank.service.DepositRecurr}
+{ACTIVITY, com.mbbank.service.DepositRecurrConfirm}
+{ACTIVITY, com.mbbank.service.FDInquiryConfirm}
+{ACTIVITY, com.mbbank.service.StandingInst}
+{ACTIVITY, com.mbbank.service.StandingInstConfirm}
+{ACTIVITY, com.mbbank.service.StandInstViewDelete}
+{ACTIVITY, com.mbbank.service.StandInstViewDeleteConfirm}
+{ACTIVITY, com.mbbank.service.ScheduledPayViewDelete}
+{ACTIVITY, com.mbbank.service.ScheduledPayViewDeleteConfirm}
+{ACTIVITY, com.mbbank.service.AccountClosure}
+{ACTIVITY, com.mbbank.service.AccountClosureConfirm}
+{ACTIVITY, com.mbbank.service.UserProfileView}
+{ACTIVITY, com.mbbank.service.MmidView}
+{ACTIVITY, com.mbbank.service.MmidGen}
+{ACTIVITY, com.mbbank.service.MmidDel}
+{ACTIVITY, com.mbbank.service.MmidDelConfirm}
+{ACTIVITY, com.mbbank.service.MmidGenConfirm}
+{ACTIVITY, com.mbbank.account.AccountsList}
+{ACTIVITY, com.lcode.bankpgm.Feedback}
+{ACTIVITY, com.lcode.bankpgm.ComplainFeedback}
+{ACTIVITY, com.lcode.bankpgm.AlertActivity}
+{ACTIVITY, com.lcode.bankpgm.Offers}
+{ACTIVITY, com.lcode.bankpgm.OffersMain}
+{ACTIVITY, com.lcode.bankpgm.FAQMain}
+{ACTIVITY, com.mbbank.service.ContactUs}
+{ACTIVITY, com.mbbank.account.AcStatement}
+{ACTIVITY, com.mbbank.account.AcStatementView}
+{ACTIVITY, com.mbbank.account.AcStatementViewPdf}
+{ACTIVITY, com.mbbank.service.CardLimits}
+{ACTIVITY, com.mbbank.service.CardUsage}
+{ACTIVITY, com.mbbank.service.CardEnquiry}
+{ACTIVITY, com.lcode.mgrb.ProfilePicCapture}
+{ACTIVITY, com.mbbank.service.GreenPin}
+{ACTIVITY, com.lcode.mgrb.LaunchScreen, android.intent.action.MAIN}
+{ACTIVITY, com.lcode.mgrb.MainActivity}
+{ACTIVITY, com.lcode.mgrb.ExitScreen}
+{ACTIVITY, com.lcode.mgrb.LoginScreen}
+{ACTIVITY, com.lcode.mgrb.ChangeMpin}
+{ACTIVITY, com.lcode.mgrb.RESETSQA}
+{ACTIVITY, com.lcode.mgrb.ForceChangeMpin}
+{ACTIVITY, com.lcode.mgrb.LoginOtpScreen}
+{ACTIVITY, com.lcode.mgrb.RegisterScreen}
+{ACTIVITY, com.lcode.mgrb.RegisterDebit}
+{ACTIVITY, com.lcode.mgrb.RegisterMobile}
+{ACTIVITY, com.lcode.mgrb.RegisterOtp}
+{ACTIVITY, com.lcode.mgrb.BrnRegisterValidateMpin}
+{ACTIVITY, com.mbbank.service.Ticketing}
+{ACTIVITY, com.mbbank.service.Goibibo}
+{ACTIVITY, com.mobile.banking.MenuService}
+{ACTIVITY, com.mbbank.service.IfscSearchHelp}
+{ACTIVITY, com.mbbank.service.BeneficiaryActivation}
+{ACTIVITY, com.mbbank.service.BeneficiaryAddition}
+{ACTIVITY, com.mbbank.service.BeneficiaryTransfertype}
+{ACTIVITY, com.mbbank.service.BeneficiaryList}
+{ACTIVITY, com.mbbank.service.AccTransferTypeList}
+{ACTIVITY, com.mbbank.service.ChequeStatusConfirm}
+{ACTIVITY, com.lcode.mgrb.OtpScreen}
+{ACTIVITY, com.lcode.mgrb.ForgotPassOtpScreen}
+{ACTIVITY, com.lcode.mgrb.MpinScreen}
+{ACTIVITY, com.lcode.mgrb.ForgotPassRegisterScreen}
+{ACTIVITY, com.lcode.mgrb.ForgotPassRegisterDebit}
+{ACTIVITY, com.mbbank.account.AccountsType}
+{ACTIVITY, com.mbbank.account.AccountsDetailView}
+{ACTIVITY, com.mbbank.account.TransacDetailsView}
+{ACTIVITY, com.mbbank.service.ChequeStatus}
+{ACTIVITY, com.mbbank.service.ChequeStop}
+{ACTIVITY, com.mbbank.service.ChequeStopConfirm}
+{ACTIVITY, com.mbbank.service.ChequeRevoke}
+{ACTIVITY, com.mbbank.service.ChequeRevokeConfirm}
+{ACTIVITY, com.mbbank.service.DebitCardHotlist}
+{ACTIVITY, com.mbbank.service.DebitCardHotlistConfirm}
+{ACTIVITY, com.mbbank.service.AadharSeeding}
+{ACTIVITY, com.mbbank.service.AadharSeedingConfirm}
+{ACTIVITY, com.mbbank.service.EbankingBlock}
+{ACTIVITY, com.mbbank.service.EmailRegister}
+{ACTIVITY, com.mbbank.service.BillpayRecharge}
+{ACTIVITY, com.mbbank.service.BillpayRechargeConfirm}
+{ACTIVITY, com.mbbank.service.BillpayManager}
+{ACTIVITY, com.mbbank.service.BillpayAdd}
+{ACTIVITY, com.mbbank.service.BillpayDetails}
+{ACTIVITY, com.mbbank.service.BillPaytrf}
+{ACTIVITY, com.mbbank.service.BillPaytrfConfirm}
+{ACTIVITY, com.mbbank.service.BillpayViewBills}
+{ACTIVITY, com.mbbank.service.BillPayQuciktrf}
+{ACTIVITY, com.mbbank.service.BillPayQuciktrfConfirm}
+{ACTIVITY, com.mbbank.service.ChequeBookReq}
+{ACTIVITY, com.mbbank.service.ChequeBookReqConfirm}
+{ACTIVITY, com.mbbank.service.UpdateUserProfile}
+{ACTIVITY, com.mbbank.service.Payowntrf}
+{ACTIVITY, com.mbbank.service.PayowntrfConfirm}
+{ACTIVITY, com.mbbank.service.Paythptrf}
+{ACTIVITY, com.mbbank.service.PaythptrfConfirm}
+{ACTIVITY, com.mbbank.service.QPaythptrf}
+{ACTIVITY, com.mbbank.service.QPaythptrfConfirm}
+{ACTIVITY, com.mbbank.service.TransactionHist}
+{ACTIVITY, com.mbbank.service.TransactionHistDtls}
+{ACTIVITY, com.mbbank.service.Paynefttrf}
+{ACTIVITY, com.mbbank.service.PaynefttrfConfirm}
+{ACTIVITY, com.mbbank.service.Payrtgstrf}
+{ACTIVITY, com.mbbank.service.PayrtgstrfConfirm}
+{ACTIVITY, com.mbbank.service.Payp2atrf}
+{ACTIVITY, com.mbbank.service.Payp2atrfConfirm}
+{ACTIVITY, com.mbbank.service.Payp2ptrf}
+{ACTIVITY, com.mbbank.service.Payp2ptrfConfirm}
+{ACTIVITY, com.mbbank.service.Payp2mtrf}
+{ACTIVITY, com.mbbank.service.Payp2mtrfConfirm}
+{ACTIVITY, com.mbbank.service.Payp2utrf}
+{ACTIVITY, com.mbbank.service.Payp2utrfConfirm}
+{ACTIVITY, com.mbbank.service.QPayp2atrf}
+{ACTIVITY, com.mbbank.service.QPayp2atrfConfirm}
+{ACTIVITY, com.mbbank.service.QPayp2ptrf}
+{ACTIVITY, com.mbbank.service.QPayp2ptrfConfirm}
+{ACTIVITY, com.mbbank.service.QPayp2mtrf}
+{ACTIVITY, com.mbbank.service.QPayp2mtrfConfirm}
+{ACTIVITY, com.mbbank.service.QPayp2utrf}
+{ACTIVITY, com.mbbank.service.QPayp2utrfConfirm}
+{ACTIVITY, com.mbbank.service.DepositFixed}
+{ACTIVITY, com.mbbank.service.DepositFixedConfirm}
+{ACTIVITY, com.mbbank.service.DepositRecurr}
+{ACTIVITY, com.mbbank.service.DepositRecurrConfirm}
+{ACTIVITY, com.mbbank.service.FDInquiryConfirm}
+{ACTIVITY, com.mbbank.service.StandingInst}
+{ACTIVITY, com.mbbank.service.StandingInstConfirm}
+{ACTIVITY, com.mbbank.service.StandInstViewDelete}
+{ACTIVITY, com.mbbank.service.StandInstViewDeleteConfirm}
+{ACTIVITY, com.mbbank.service.ScheduledPayViewDelete}
+{ACTIVITY, com.mbbank.service.ScheduledPayViewDeleteConfirm}
+{ACTIVITY, com.mbbank.service.AccountClosure}
+{ACTIVITY, com.mbbank.service.AccountClosureConfirm}
+{ACTIVITY, com.mbbank.service.UserProfileView}
+{ACTIVITY, com.mbbank.service.MmidView}
+{ACTIVITY, com.mbbank.service.MmidGen}
+{ACTIVITY, com.mbbank.service.MmidDel}
+{ACTIVITY, com.mbbank.service.MmidDelConfirm}
+{ACTIVITY, com.mbbank.service.MmidGenConfirm}
+{ACTIVITY, com.mbbank.account.AccountsList}
+{ACTIVITY, com.lcode.bankpgm.Feedback}
+{ACTIVITY, com.lcode.bankpgm.ComplainFeedback}
+{ACTIVITY, com.lcode.bankpgm.AlertActivity}
+{ACTIVITY, com.lcode.bankpgm.Offers}
+{ACTIVITY, com.lcode.bankpgm.OffersMain}
+{ACTIVITY, com.lcode.bankpgm.FAQMain}
+{ACTIVITY, com.mbbank.service.ContactUs}
+{ACTIVITY, com.mbbank.account.AcStatement}
+{ACTIVITY, com.mbbank.account.AcStatementView}
+{ACTIVITY, com.mbbank.account.AcStatementViewPdf}
+{ACTIVITY, com.mbbank.service.CardLimits}
+{ACTIVITY, com.mbbank.service.CardUsage}
+{ACTIVITY, com.mbbank.service.CardEnquiry}
+{ACTIVITY, com.lcode.mgrb.ProfilePicCapture}
+{ACTIVITY, com.mbbank.service.GreenPin}
+_getAllDexFiles: /home/santapark/Extended3/DEEPerence/reEx/sample33.apk@devRoot-D-R.apk.obfuscated/classes.dex
+----------------/home/santapark/Extended3/DEEPerence/reEx/sample33.apk@devRoot-D-R.apk.obfuscated.apk
+dexFile = org.jf.dexlib2.dexbacked.DexBackedDexFile@4566d049
+com.lcode.mgrb
+com.lcode.mgrb.LaunchScreen
+debuggable: true
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample33.apk@devRoot-D-R.apk.obfuscated.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample33.apk@devRoot-D-R.apk.obfuscated.apk
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample33.apk@devRoot-D-R.apk.obfuscated_46604b9f/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample33.apk@devRoot-D-R.apk.obfuscated_46604b9f/sample33.apk@devRoot-D-R.apk.obfuscated.apk
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample33.apk@devRoot-D-R.apk.obfuscated/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample33.apk@devRoot-D-R.apk.obfuscated/sample33.apk@devRoot-D-R.apk.obfuscated.apk
+3601a6ff: Installation Success
+b29e6a69: Installation Success
+46604b9f: Installing repackaged apk File: 
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample33.apk@devRoot-D-R.apk.obfuscated_46604b9f/signed_sample33.apk@devRoot-D-R.apk.obfuscated.apk
+159ceeed: Installing debuggable .apk file: 
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample33.apk@devRoot-D-R.apk.obfuscated/signed_sample33.apk@devRoot-D-R.apk.obfuscated.apk
+159ceeed: Installation Success
+46604b9f: Installation Success
+46604b9f: startApplication called! - devTamper
+3601a6ff: startApplication called! - devRef
+b29e6a69: startApplication called! - devRoot
+159ceeed: startApplication called! - devDebug
+46604b9f: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devTamper_sample33@devRoot-D-R.obfuscated.ilog)
+3601a6ff: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample33@devRoot-D-R.obfuscated.ilog)
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample33@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample33@devRoot-D-R.obfuscated.ilog)
+46604b9f: Running Application: com.lcode.mgrb
+3601a6ff: Running Application: com.lcode.mgrb
+b29e6a69: Running Application: com.lcode.mgrb
+PIDs--------------------------------------------------------------------------
+u0_a721        6627    429 14557540 104248 0                  0 S com.lcode.mgrb
+forward tcp:5005 jdwp:6627
+[*]Found JDWP Target: 6627
+159ceeed: Running Application: com.lcode.mgrb
+3601a6ff: Running is done - starting comparing... : 5001
+3601a6ff: Terminated logcat thread...by itself
+3601a6ff: Top-activity: com.lcode.mgrb/.LaunchScreen
+159ceeed: Running is done - starting comparing... : 5001
+159ceeed: Terminated logcat thread...by itself
+PIDs--------------------------------------------------------------------------
+u0_a220       29251    407 14714556 135556 0                  0 S com.lcode.mgrb
+PIDs--------------------------------------------------------------------------
+u0_a220       29251    407 14714556 135556 0                  0 S com.lcode.mgrb
+Stopping app: com.lcode.mgrb
+46604b9f: Running is done - starting comparing... : 5001
+46604b9f: Terminated logcat thread...by itself
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+46604b9f: Top-activity: com.lcode.mgrb/.LaunchScreen
+PIDs--------------------------------------------------------------------------
+u0_a910       14039    425 14738956 133728 0                  0 S com.lcode.mgrb
+PIDs--------------------------------------------------------------------------
+u0_a910       14039    425 14738956 133728 0                  0 S com.lcode.mgrb
+Stopping app: com.lcode.mgrb
+159ceeed: Top-activity: com.lcode.mgrb/.LaunchScreen
+PIDs--------------------------------------------------------------------------
+u0_a721        6627    429 14678568 134208 0                  0 S com.lcode.mgrb
+PIDs--------------------------------------------------------------------------
+u0_a721        6627    429 14678568 134208 0                  0 S com.lcode.mgrb
+Stopping app: com.lcode.mgrb
+b29e6a69: Top-activity: com.lcode.mgrb/.LaunchScreen
+PIDs--------------------------------------------------------------------------
+u0_a3078       8494    429 14646988 137212 0                  0 S com.lcode.mgrb
+PIDs--------------------------------------------------------------------------
+u0_a3078       8494    429 14646988 137212 0                  0 S com.lcode.mgrb
+Stopping app: com.lcode.mgrb
+Tryging remove : uninstall com.lcode.mgrb(com.lcode.mgrb)
+3601a6ff: Remove Success
+3601a6ff: ilog file size: 15361579
+3601a6ff: End of collecting logcat...
+Tryging remove : uninstall com.lcode.mgrb(com.lcode.mgrb)
+46604b9f: Remove Success
+46604b9f: ilog file size: 15384957
+46604b9f: End of collecting logcat...
+Tryging remove : uninstall com.lcode.mgrb(com.lcode.mgrb)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 15747036
+b29e6a69: End of collecting logcat...
+Tryging remove : uninstall com.lcode.mgrb(com.lcode.mgrb)
+159ceeed: Remove Success
+159ceeed: ilog file size: 15384957
+159ceeed: End of collecting logcat...
+HPFinder's try count remains: 19
+46604b9f: isFailedToLaunch: com.lcode.mgrb/.LaunchScreen
+46604b9f: 	--result: Good :)
+b29e6a69: isFailedToLaunch: com.lcode.mgrb/.LaunchScreen
+b29e6a69: 	--result: Good :)
+159ceeed: isFailedToLaunch: com.lcode.mgrb/.LaunchScreen
+159ceeed: 	--result: Good :)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample33@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample33@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample33@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devTamper_sample33@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample33@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample33@devRoot-D-R.obfuscated.ilog)
+[*] FlowManager: adjust finished.
+Action is completely same :)
+Action is completely same :)
+46604b9f: There is no difference. (tryAgain=false)
+[*] FlowManager: adjust finished.
+Action is completely same :)
+Action is completely same :)
+159ceeed: There is no difference. (tryAgain=false)
+[*] FlowManager: adjust finished.
+Action is completely same :)
+android.app.Dialog/show:()V:4a19c6		=(rels)=>		1
+[*] Unique action: 1:15730 : <<CALL>> : com.mbbank.common.i/SnlnSgHHlWLiRvax:(Landroid/app/AlertDialog;)V:4a19c6  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:22609 : <<BRANCH>> : com.mbbank.common.i/onCreate:(Landroid/os/Bundle;)V:4ab732  =>  com.mbbank.common.i/onCreate:(Landroid/os/Bundle;)V:4aba54
+Entry: 4ab6a0
+com.mbbank.common.i/onCreate:(Landroid/os/Bundle;)V: 4ab732 -> 4aba54
+		com.mbbank.common.i/onCreate:(Landroid/os/Bundle;)V: 92 -> 3b4
+addPatchReadme: java.lang.Class<com.mbbank.common.i>onCreate(Landroid/os/Bundle;)V 92 t
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample33@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Patch size: 1
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample33.apk@devRoot-D-R.apk.obfuscated_devRoot
+Wow!!!!!  --  com.mbbank.common.i/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 98
+branchTarget: 3b4
+label = sswitch_data_1
+GOTO -- 98 	3b4
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample33.apk@devRoot-D-R.apk.obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample33.apk@devRoot-D-R.apk.obfuscated_devRoot/sample33.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample33.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample33.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: First address of Lcom/mbbank/common/i;->onCreate(Landroid/os/Bundle;)V = 4ab6b0
+b29e6a69: Address - Lcom/mbbank/common/i;->onCreate(Landroid/os/Bundle;)V@92	 lastOffset = 8ec
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample33.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample33.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample33@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Running Application: com.lcode.mgrb
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.lcode.mgrb
+Tryging remove : uninstall com.lcode.mgrb(com.lcode.mgrb)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 79654
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 18
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+/home/santapark/Extended3/DEEPerence/reEx/sample33.apk@devRoot-D-R.apk.obfuscated.apk launch is failed on devRoot
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 4ab732
+Action is completely same :)
+android.app.Dialog/show:()V:4a19c6		=(rels)=>		1
+[*] Unique action: 1:15730 : <<CALL>> : com.mbbank.common.i/SnlnSgHHlWLiRvax:(Landroid/app/AlertDialog;)V:4a19c6  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:22606 : <<BRANCH>> : com.mbbank.common.i/onCreate:(Landroid/os/Bundle;)V:4ab84c  =>  com.mbbank.common.i/onCreate:(Landroid/os/Bundle;)V:4ab830
+Entry: 4ab6a0
+com.mbbank.common.i/onCreate:(Landroid/os/Bundle;)V: 4ab84c -> 4ab830
+		com.mbbank.common.i/onCreate:(Landroid/os/Bundle;)V: 1ac -> 190
+addPatchReadme: java.lang.Class<com.mbbank.common.i>onCreate(Landroid/os/Bundle;)V 1ac t
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample33@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Patch size: 1
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample33.apk@devRoot-D-R.apk.obfuscated_devRoot
+Wow!!!!!  --  com.mbbank.common.i/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 1b2
+branchTarget: 190
+label = sswitch_data_6
+GOTO -- 1b2 	190
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample33.apk@devRoot-D-R.apk.obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample33.apk@devRoot-D-R.apk.obfuscated_devRoot/sample33.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample33.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample33.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: First address of Lcom/mbbank/common/i;->onCreate(Landroid/os/Bundle;)V = 4ab6b0
+b29e6a69: Address - Lcom/mbbank/common/i;->onCreate(Landroid/os/Bundle;)V@1ac	 lastOffset = 8ec
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample33.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample33.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample33@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Running Application: com.lcode.mgrb
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.lcode.mgrb
+Tryging remove : uninstall com.lcode.mgrb(com.lcode.mgrb)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 79441
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 17
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+/home/santapark/Extended3/DEEPerence/reEx/sample33.apk@devRoot-D-R.apk.obfuscated.apk launch is failed on devRoot
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 4ab84c
+-- current localPatchFilter: 4ab732
+Action is completely same :)
+android.app.Dialog/show:()V:4a19c6		=(rels)=>		1
+[*] Unique action: 1:15730 : <<CALL>> : com.mbbank.common.i/SnlnSgHHlWLiRvax:(Landroid/app/AlertDialog;)V:4a19c6  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:22603 : <<BRANCH>> : com.mbbank.common.i/onCreate:(Landroid/os/Bundle;)V:4ab868  =>  com.mbbank.common.i/onCreate:(Landroid/os/Bundle;)V:4ab876
+Entry: 4ab6a0
+com.mbbank.common.i/onCreate:(Landroid/os/Bundle;)V: 4ab868 -> 4ab876
+		com.mbbank.common.i/onCreate:(Landroid/os/Bundle;)V: 1c8 -> 1d6
+addPatchReadme: java.lang.Class<com.mbbank.common.i>onCreate(Landroid/os/Bundle;)V 1c8 t
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample33@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Patch size: 1
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample33.apk@devRoot-D-R.apk.obfuscated_devRoot
+Wow!!!!!  --  com.mbbank.common.i/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 1ce
+branchTarget: 1d6
+label = sswitch_data_7
+GOTO -- 1ce 	1d6
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample33.apk@devRoot-D-R.apk.obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample33.apk@devRoot-D-R.apk.obfuscated_devRoot/sample33.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample33.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample33.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: First address of Lcom/mbbank/common/i;->onCreate(Landroid/os/Bundle;)V = 4ab6b0
+b29e6a69: Address - Lcom/mbbank/common/i;->onCreate(Landroid/os/Bundle;)V@1c8	 lastOffset = 8ec
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample33.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample33.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample33@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Running Application: com.lcode.mgrb
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.lcode.mgrb
+Tryging remove : uninstall com.lcode.mgrb(com.lcode.mgrb)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 79654
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 16
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+/home/santapark/Extended3/DEEPerence/reEx/sample33.apk@devRoot-D-R.apk.obfuscated.apk launch is failed on devRoot
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 4ab868
+-- current localPatchFilter: 4ab84c
+-- current localPatchFilter: 4ab732
+Action is completely same :)
+android.app.Dialog/show:()V:4a19c6		=(rels)=>		1
+[*] Unique action: 1:15730 : <<CALL>> : com.mbbank.common.i/SnlnSgHHlWLiRvax:(Landroid/app/AlertDialog;)V:4a19c6  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:22600 : <<BRANCH>> : com.mbbank.common.i/onCreate:(Landroid/os/Bundle;)V:4ab896  =>  com.mbbank.common.i/onCreate:(Landroid/os/Bundle;)V:4ab87c
+Entry: 4ab6a0
+com.mbbank.common.i/onCreate:(Landroid/os/Bundle;)V: 4ab896 -> 4ab87c
+		com.mbbank.common.i/onCreate:(Landroid/os/Bundle;)V: 1f6 -> 1dc
+addPatchReadme: java.lang.Class<com.mbbank.common.i>onCreate(Landroid/os/Bundle;)V 1f6 t
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample33@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Patch size: 1
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample33.apk@devRoot-D-R.apk.obfuscated_devRoot
+Wow!!!!!  --  com.mbbank.common.i/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 1fc
+branchTarget: 1dc
+label = sswitch_data_8
+GOTO -- 1fc 	1dc
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample33.apk@devRoot-D-R.apk.obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample33.apk@devRoot-D-R.apk.obfuscated_devRoot/sample33.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample33.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample33.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: First address of Lcom/mbbank/common/i;->onCreate(Landroid/os/Bundle;)V = 4ab6b0
+b29e6a69: Address - Lcom/mbbank/common/i;->onCreate(Landroid/os/Bundle;)V@1f6	 lastOffset = 8ec
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample33.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample33.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample33@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Running Application: com.lcode.mgrb
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.lcode.mgrb
+Tryging remove : uninstall com.lcode.mgrb(com.lcode.mgrb)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 79654
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 15
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+/home/santapark/Extended3/DEEPerence/reEx/sample33.apk@devRoot-D-R.apk.obfuscated.apk launch is failed on devRoot
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 4ab868
+-- current localPatchFilter: 4ab84c
+-- current localPatchFilter: 4ab732
+-- current localPatchFilter: 4ab896
+Action is completely same :)
+android.app.Dialog/show:()V:4a19c6		=(rels)=>		1
+[*] Unique action: 1:15730 : <<CALL>> : com.mbbank.common.i/SnlnSgHHlWLiRvax:(Landroid/app/AlertDialog;)V:4a19c6  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:22597 : <<BRANCH>> : com.mbbank.common.i/onCreate:(Landroid/os/Bundle;)V:4ab8be  =>  com.mbbank.common.i/onCreate:(Landroid/os/Bundle;)V:4ab8a4
+Entry: 4ab6a0
+com.mbbank.common.i/onCreate:(Landroid/os/Bundle;)V: 4ab8be -> 4ab8a4
+		com.mbbank.common.i/onCreate:(Landroid/os/Bundle;)V: 21e -> 204
+addPatchReadme: java.lang.Class<com.mbbank.common.i>onCreate(Landroid/os/Bundle;)V 21e t
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample33@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Patch size: 1
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample33.apk@devRoot-D-R.apk.obfuscated_devRoot
+Wow!!!!!  --  com.mbbank.common.i/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 224
+branchTarget: 204
+label = sswitch_data_9
+GOTO -- 224 	204
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample33.apk@devRoot-D-R.apk.obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample33.apk@devRoot-D-R.apk.obfuscated_devRoot/sample33.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample33.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample33.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: First address of Lcom/mbbank/common/i;->onCreate(Landroid/os/Bundle;)V = 4ab6b0
+b29e6a69: Address - Lcom/mbbank/common/i;->onCreate(Landroid/os/Bundle;)V@21e	 lastOffset = 8ec
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample33.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample33.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample33@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Running Application: com.lcode.mgrb
+b29e6a69: Running is done - starting comparing... : 5003
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.lcode.mgrb
+Tryging remove : uninstall com.lcode.mgrb(com.lcode.mgrb)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 80477
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 14
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+/home/santapark/Extended3/DEEPerence/reEx/sample33.apk@devRoot-D-R.apk.obfuscated.apk launch is failed on devRoot
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 4ab868
+-- current localPatchFilter: 4ab8be
+-- current localPatchFilter: 4ab84c
+-- current localPatchFilter: 4ab732
+-- current localPatchFilter: 4ab896
+Action is completely same :)
+android.app.Dialog/show:()V:4a19c6		=(rels)=>		1
+[*] Unique action: 1:15730 : <<CALL>> : com.mbbank.common.i/SnlnSgHHlWLiRvax:(Landroid/app/AlertDialog;)V:4a19c6  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:22594 : <<BRANCH>> : com.mbbank.common.i/onCreate:(Landroid/os/Bundle;)V:4ab8da  =>  com.mbbank.common.i/onCreate:(Landroid/os/Bundle;)V:4ab8cc
+Entry: 4ab6a0
+com.mbbank.common.i/onCreate:(Landroid/os/Bundle;)V: 4ab8da -> 4ab8cc
+		com.mbbank.common.i/onCreate:(Landroid/os/Bundle;)V: 23a -> 22c
+addPatchReadme: java.lang.Class<com.mbbank.common.i>onCreate(Landroid/os/Bundle;)V 23a t
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample33@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Patch size: 1
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample33.apk@devRoot-D-R.apk.obfuscated_devRoot
+Wow!!!!!  --  com.mbbank.common.i/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 23e
+branchTarget: 22c
+label = cond_1
+GOTO -- 23e 	22c
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample33.apk@devRoot-D-R.apk.obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample33.apk@devRoot-D-R.apk.obfuscated_devRoot/sample33.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample33.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample33.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: First address of Lcom/mbbank/common/i;->onCreate(Landroid/os/Bundle;)V = 4ab6b0
+b29e6a69: Address - Lcom/mbbank/common/i;->onCreate(Landroid/os/Bundle;)V@23a	 lastOffset = 8ec
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample33.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample33.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample33@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Running Application: com.lcode.mgrb
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.lcode.mgrb/.LaunchScreen
+PIDs--------------------------------------------------------------------------
+u0_a3084       9207    429 14632552 135312 0                  0 S com.lcode.mgrb
+PIDs--------------------------------------------------------------------------
+u0_a3084       9207    429 14632552 135312 0                  0 S com.lcode.mgrb
+Stopping app: com.lcode.mgrb
+Tryging remove : uninstall com.lcode.mgrb(com.lcode.mgrb)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 13915882
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 13
+b29e6a69: isFailedToLaunch: com.lcode.mgrb/.LaunchScreen
+b29e6a69: 	--result: Good :)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample33@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample33@devRoot-D-R.obfuscated.ilog)
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 4ab8da
+Action is completely same :)
+Action is completely same :)
+b29e6a69: There is no difference. (tryAgain=false)
+-- HPFinder will be done in this iteration :)
+hasAntiAnalysis? - devTamper: false on com.lcode.mgrb.LaunchScreen
+hasAntiAnalysis? - devRoot: true on com.lcode.mgrb.LaunchScreen
+	isRemovedThem? - devRoot: true on com.lcode.mgrb.LaunchScreen	-	tryCount: 6
+hasAntiAnalysis? - devDebug: false on com.lcode.mgrb.LaunchScreen
+*****REPORT: com.lcode.mgrb
+* Package name: com.lcode.mgrb
+* Running time: 313
+* FileSize: 8679343
+devTamper : 15384957
+devRef : 15361579
+devRoot : 13915882
+devDebug : 15384957
+hasAntiAnalysis? - devTamper: false on com.lcode.mgrb.LaunchScreen
+hasAntiAnalysis? - devRoot: true on com.lcode.mgrb.LaunchScreen
+	isRemovedThem? - devRoot: true on com.lcode.mgrb.LaunchScreen	-	tryCount: 6
+hasAntiAnalysis? - devDebug: false on com.lcode.mgrb.LaunchScreen
+46604b9f: trying remove : com.lcode.mgrb
+3601a6ff: trying remove : com.lcode.mgrb
+b29e6a69: trying remove : com.lcode.mgrb
+159ceeed: trying remove : com.lcode.mgrb
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+3601a6ff: result = true
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+b29e6a69: result = true
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+46604b9f: result = true
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+159ceeed: result = true
+3601a6ff: isFailedToLaunch: com.lcode.mgrb/.LaunchScreen
+3601a6ff: 	--result: Good :)

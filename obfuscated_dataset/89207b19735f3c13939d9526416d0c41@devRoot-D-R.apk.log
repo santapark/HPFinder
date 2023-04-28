@@ -1,0 +1,310 @@
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample90.apk.obfuscated_flattened/AndroidManifest.xml
+launchable-activity: name='com.itlavka.hazeltree.ui.start.StartActivity'  label='Hazeltree' icon=''
+{ACTIVITY, com.itlavka.hazeltree.ui.start.StartActivity, android.intent.action.MAIN}
+{ACTIVITY, com.itlavka.hazeltree.ui.firstauth.FirstAuthActivity}
+{ACTIVITY, com.itlavka.hazeltree.ui.loginrefresh.LoginRefreshActivity}
+{ACTIVITY, com.itlavka.hazeltree.ui.accountverification.AccountVerificationActivity}
+{ACTIVITY, com.itlavka.hazeltree.ui.codeconfirmation.CodeConfirmationActivity}
+{ACTIVITY, com.itlavka.hazeltree.ui.accesscode.AccessCodeActivity}
+{ACTIVITY, com.itlavka.hazeltree.ui.auth.AuthActivity}
+{ACTIVITY, com.itlavka.hazeltree.ui.main.MainActivity}
+{ACTIVITY, com.itlavka.hazeltree.ui.search.SearchActivity}
+{ACTIVITY, com.itlavka.hazeltree.ui.voucherconfirmation.VoucherConfirmationActivity}
+{ACTIVITY, com.itlavka.hazeltree.ui.voucher.VoucherActivity}
+{ACTIVITY, com.itlavka.hazeltree.ui.transaction.TransactionActivity}
+{ACTIVITY, com.itlavka.hazeltree.ui.note.NoteActivity}
+{ACTIVITY, com.itlavka.hazeltree.ui.ssidi.SsiDiActivity}
+{ACTIVITY, com.itlavka.hazeltree.ui.blank.BlankActivity}
+{SERVICE, com.itlavka.hazeltree.fcm.MessagingService, com.google.firebase.MESSAGING_EVENT}
+{SERVICE, com.google.firebase.messaging.FirebaseMessagingService, com.google.firebase.MESSAGING_EVENT}
+{SERVICE, com.google.firebase.components.ComponentDiscoveryService}
+{RECEIVER, com.google.firebase.iid.FirebaseInstanceIdReceiver, com.google.android.c2dm.intent.RECEIVE}
+{ACTIVITY, com.itlavka.hazeltree.ui.start.StartActivity, android.intent.action.MAIN}
+{ACTIVITY, com.itlavka.hazeltree.ui.firstauth.FirstAuthActivity}
+{ACTIVITY, com.itlavka.hazeltree.ui.loginrefresh.LoginRefreshActivity}
+{ACTIVITY, com.itlavka.hazeltree.ui.accountverification.AccountVerificationActivity}
+{ACTIVITY, com.itlavka.hazeltree.ui.codeconfirmation.CodeConfirmationActivity}
+{ACTIVITY, com.itlavka.hazeltree.ui.accesscode.AccessCodeActivity}
+{ACTIVITY, com.itlavka.hazeltree.ui.auth.AuthActivity}
+{ACTIVITY, com.itlavka.hazeltree.ui.main.MainActivity}
+{ACTIVITY, com.itlavka.hazeltree.ui.search.SearchActivity}
+{ACTIVITY, com.itlavka.hazeltree.ui.voucherconfirmation.VoucherConfirmationActivity}
+{ACTIVITY, com.itlavka.hazeltree.ui.voucher.VoucherActivity}
+{ACTIVITY, com.itlavka.hazeltree.ui.transaction.TransactionActivity}
+{ACTIVITY, com.itlavka.hazeltree.ui.note.NoteActivity}
+{ACTIVITY, com.itlavka.hazeltree.ui.ssidi.SsiDiActivity}
+{ACTIVITY, com.itlavka.hazeltree.ui.blank.BlankActivity}
+{SERVICE, com.itlavka.hazeltree.fcm.MessagingService, com.google.firebase.MESSAGING_EVENT}
+{SERVICE, com.google.firebase.messaging.FirebaseMessagingService, com.google.firebase.MESSAGING_EVENT}
+{SERVICE, com.google.firebase.components.ComponentDiscoveryService}
+{RECEIVER, com.google.firebase.iid.FirebaseInstanceIdReceiver, com.google.android.c2dm.intent.RECEIVE}
+_getAllDexFiles: /home/santapark/Extended3/DEEPerence/reEx/sample90.apk.obfuscated_flattened/classes.dex
+----------------/home/santapark/Extended3/DEEPerence/reEx/sample90.apk.obfuscated_flattened.apk
+dexFile = org.jf.dexlib2.dexbacked.DexBackedDexFile@27d4a09
+com.itlavka.hazeltree
+com.itlavka.hazeltree.ui.start.StartActivity
+debuggable: true
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample90.apk.obfuscated_flattened.apk
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample90.apk.obfuscated_flattened.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample90.apk.obfuscated_flattened.apk
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample90.apk.obfuscated_flattened_46604b9f/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample90.apk.obfuscated_flattened_46604b9f/sample90.apk.obfuscated_flattened.apk
+46604b9f: Installing repackaged apk File: 
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample90.apk.obfuscated_flattened_46604b9f/signed_sample90.apk.obfuscated_flattened.apk
+3601a6ff: Installation Success
+159ceeed: Installation Success
+b29e6a69: Installation Success
+46604b9f: Installation Success
+46604b9f: startApplication called! - devTamper
+3601a6ff: startApplication called! - devRef
+b29e6a69: startApplication called! - devRoot
+159ceeed: startApplication called! - devDebug
+46604b9f: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devTamper_sample90.obfuscated_flattened.ilog)
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample90.obfuscated_flattened.ilog)
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample90.obfuscated_flattened.ilog)
+3601a6ff: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample90.obfuscated_flattened.ilog)
+46604b9f: Running Application: com.itlavka.hazeltree
+b29e6a69: Running Application: com.itlavka.hazeltree
+3601a6ff: Running Application: com.itlavka.hazeltree
+PIDs--------------------------------------------------------------------------
+u0_a176        2099    423 13991268 101404 0                  0 S com.itlavka.hazeltree
+forward tcp:35535 jdwp:2099
+[*]Found JDWP Target: 2099
+159ceeed: Running Application: com.itlavka.hazeltree
+PIDs--------------------------------------------------------------------------
+u0_a176        2099    423 14232800 137512 0                  0 S com.itlavka.hazeltree
+159ceeed: Tryging attach jdb to 2099
+jdb -connect com.sun.jdi.SocketAttach:hostname=localhost,port=35535
+46604b9f: Top-activity: com.itlavka.hazeltree/.ui.firstauth.FirstAuthActivity
+3601a6ff: Top-activity: com.itlavka.hazeltree/.ui.firstauth.FirstAuthActivity
+PIDs--------------------------------------------------------------------------
+u0_a721       14617    427 14526216 135824 0                  0 S com.itlavka.hazeltree
+46604b9f: savedPid = 14617
+46604b9f: Terminated logcat thread...by itself
+PIDs--------------------------------------------------------------------------
+u0_a206       26368    417 14486588 135468 0                  0 S com.itlavka.hazeltree
+3601a6ff: savedPid = 26368
+3601a6ff: Terminated logcat thread...by itself
+PIDs--------------------------------------------------------------------------
+u0_a721       14617    427 14526216 135824 0                  0 S com.itlavka.hazeltree
+46604b9f: savedPid2 = 14617
+Stopping app: com.itlavka.hazeltree
+PIDs--------------------------------------------------------------------------
+u0_a206       26368    417 14486588 135468 0                  0 S com.itlavka.hazeltree
+3601a6ff: savedPid2 = 26368
+Stopping app: com.itlavka.hazeltree
+b29e6a69: Top-activity: com.itlavka.hazeltree/.ui.start.StartActivity
+PIDs--------------------------------------------------------------------------
+u0_a3572       4358    425 14265324 133940 0                  0 S com.itlavka.hazeltree
+b29e6a69: savedPid = 4358
+b29e6a69: Terminated logcat thread...by itself
+PIDs--------------------------------------------------------------------------
+u0_a3572       4358    425 14265324 133940 0                  0 S com.itlavka.hazeltree
+b29e6a69: savedPid2 = 4358
+Stopping app: com.itlavka.hazeltree
+Tryging remove : uninstall com.itlavka.hazeltree(com.itlavka.hazeltree)
+3601a6ff: Remove Success
+3601a6ff: ilog file size: 44297926
+3601a6ff: End of collecting logcat...
+Tryging remove : uninstall com.itlavka.hazeltree(com.itlavka.hazeltree)
+46604b9f: Remove Success
+46604b9f: ilog file size: 44614970
+46604b9f: End of collecting logcat...
+Tryging remove : uninstall com.itlavka.hazeltree(com.itlavka.hazeltree)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 17901669
+b29e6a69: End of collecting logcat...
+159ceeed: Top-activity: com.itlavka.hazeltree/.ui.firstauth.FirstAuthActivity
+PIDs--------------------------------------------------------------------------
+u0_a176        2099    423 14306200 146660 0                  0 S com.itlavka.hazeltree
+159ceeed: savedPid = 2099
+159ceeed: Terminated logcat thread...by itself
+PIDs--------------------------------------------------------------------------
+u0_a176        2099    423 14306200 146660 0                  0 S com.itlavka.hazeltree
+159ceeed: savedPid2 = 2099
+Stopping app: com.itlavka.hazeltree
+Tryging remove : uninstall com.itlavka.hazeltree(com.itlavka.hazeltree)
+159ceeed: Remove Success
+159ceeed: ilog file size: 44926017
+159ceeed: End of collecting logcat...
+HPFinder's try count remains: 29
+46604b9f: isFailedToLaunch: com.itlavka.hazeltree/.ui.firstauth.FirstAuthActivity
+46604b9f: 	--result: Good :)
+46604b9f: isFailedToLaunch: com.itlavka.hazeltree/.ui.firstauth.FirstAuthActivity
+b29e6a69: isFailedToLaunch: com.itlavka.hazeltree/.ui.start.StartActivity
+46604b9f: 	--result: Good :)
+b29e6a69: 	--result: Good :)
+b29e6a69: isFailedToLaunch: com.itlavka.hazeltree/.ui.start.StartActivity
+b29e6a69: 	--result: Good :)
+159ceeed: isFailedToLaunch: com.itlavka.hazeltree/.ui.firstauth.FirstAuthActivity
+159ceeed: 	--result: Good :)
+159ceeed: isFailedToLaunch: com.itlavka.hazeltree/.ui.firstauth.FirstAuthActivity
+159ceeed: 	--result: Good :)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample90.obfuscated_flattened.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample90.obfuscated_flattened.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample90.obfuscated_flattened.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample90.obfuscated_flattened.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample90.obfuscated_flattened.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devTamper_sample90.obfuscated_flattened.ilog)
+[*] FlowManager: adjust finished.
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:2f89be		=(rels)=>		1
+[*] Unique action: 1:169197 : <<CALL>> : com.itlavka.hazeltree.ui.views.EditTextLayout/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:2f89be  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:146243 : <<BRANCH>> : com.itlavka.hazeltree.ui.start.r/f:()V:2f62a8  =>  com.itlavka.hazeltree.ui.start.r/f:()V:2f6296
+android.widget.EditText/getText:()Landroid/text/Editable;:1eaa0c		=(rels)=>		1
+[*] Unique action: 1:168633 : <<CALL>> : androidx.appcompat.widget.r/getText:()Landroid/text/Editable;:1eaa0c  =>  android.widget.EditText/getText:()Landroid/text/Editable;:2330f8
+[*] FlowManager: adjust finished.
+[*] FlowManager: adjust finished.
+Action is completely same :)
+Action is completely same :)
+Action is completely same :)
+46604b9f: There is no difference. (tryAgain=false)
+Action is completely same :)
+159ceeed: There is no difference. (tryAgain=false)
+	1:compareBackwardBranch: 1:146243 : <<BRANCH>> : com.itlavka.hazeltree.ui.start.r/f:()V:2f62a8  =>  com.itlavka.hazeltree.ui.start.r/f:()V:2f6296
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:2e8528		=(rels)=>		1
+[*] Unique action: 1:176792 : <<CALL>> : com.itlavka.hazeltree.ui.firstauth.FirstAuthActivity_ViewBinding/<init>:(Lcom/itlavka/hazeltree/ui/firstauth/FirstAuthActivity;Landroid/view/View;)V:2e8528  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:146243 : <<BRANCH>> : com.itlavka.hazeltree.ui.start.r/f:()V:2f62a8  =>  com.itlavka.hazeltree.ui.start.r/f:()V:2f6296
+android.app.Activity/startActivity:(Landroid/content/Intent;)V:2e5616		=(rels)=>		1
+[*] Unique action: 1:161451 : <<CALL>> : com.itlavka.hazeltree.ui.base.BaseMvpActivity/e:()V:2e5616  =>  android.app.Activity/startActivity:(Landroid/content/Intent;)V:19cda0
+	1:compareBackwardBranch: 1:146243 : <<BRANCH>> : com.itlavka.hazeltree.ui.start.r/f:()V:2f62a8  =>  com.itlavka.hazeltree.ui.start.r/f:()V:2f6296
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:2e83c6		=(rels)=>		1
+[*] Unique action: 1:176722 : <<CALL>> : com.itlavka.hazeltree.ui.firstauth.FirstAuthActivity_ViewBinding/<init>:(Lcom/itlavka/hazeltree/ui/firstauth/FirstAuthActivity;Landroid/view/View;)V:2e83c6  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:146243 : <<BRANCH>> : com.itlavka.hazeltree.ui.start.r/f:()V:2f62a8  =>  com.itlavka.hazeltree.ui.start.r/f:()V:2f6296
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:2e84d4		=(rels)=>		1
+[*] Unique action: 1:176775 : <<CALL>> : com.itlavka.hazeltree.ui.firstauth.FirstAuthActivity_ViewBinding/<init>:(Lcom/itlavka/hazeltree/ui/firstauth/FirstAuthActivity;Landroid/view/View;)V:2e84d4  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:146243 : <<BRANCH>> : com.itlavka.hazeltree.ui.start.r/f:()V:2f62a8  =>  com.itlavka.hazeltree.ui.start.r/f:()V:2f6296
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:2f88d2		=(rels)=>		1
+[*] Unique action: 1:168372 : <<CALL>> : com.itlavka.hazeltree.ui.views.EditTextLayout/a:(Landroid/content/Context;)V:2f88d2  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:146243 : <<BRANCH>> : com.itlavka.hazeltree.ui.start.r/f:()V:2f62a8  =>  com.itlavka.hazeltree.ui.start.r/f:()V:2f6296
+android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:2f8970		=(rels)=>		1
+[*] Unique action: 1:168361 : <<CALL>> : com.itlavka.hazeltree.ui.views.EditTextLayout/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:2f8970  =>  android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:1959fc
+	1:compareBackwardBranch: 1:146243 : <<BRANCH>> : com.itlavka.hazeltree.ui.start.r/f:()V:2f62a8  =>  com.itlavka.hazeltree.ui.start.r/f:()V:2f6296
+android.app.Dialog/show:()V:1c44ac		=(rels)=>		1
+[*] Unique action: 1:53124 : <<CALL>> : androidx.appcompat.app.n$a/c:()Landroidx/appcompat/app/n;:1c44ac  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:43295 : <<BRANCH>> : b.d.g/a:(I)V:242c44  =>  b.d.g/a:(I)V:242c58
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:1bfb2a		=(rels)=>		1
+[*] Unique action: 1:57557 : <<CALL>> : androidx.appcompat.app.AlertController/a:(Landroid/view/ViewGroup;)V:1bfb2a  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:43295 : <<BRANCH>> : b.d.g/a:(I)V:242c44  =>  b.d.g/a:(I)V:242c58
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bfaf8		=(rels)=>		1
+[*] Unique action: 1:57554 : <<CALL>> : androidx.appcompat.app.AlertController/a:(Landroid/view/ViewGroup;)V:1bfaf8  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:43295 : <<BRANCH>> : b.d.g/a:(I)V:242c44  =>  b.d.g/a:(I)V:242c58
+android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:200af4		=(rels)=>		1
+[*] Unique action: 1:55527 : <<CALL>> : androidx.core.widget.NestedScrollView/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:200af4  =>  android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:1959fc
+	1:compareBackwardBranch: 1:43295 : <<BRANCH>> : b.d.g/a:(I)V:242c44  =>  b.d.g/a:(I)V:242c58
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:200b28		=(rels)=>		1
+[*] Unique action: 1:55524 : <<CALL>> : androidx.core.widget.NestedScrollView/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:200b28  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+	1:compareBackwardBranch: 1:43295 : <<BRANCH>> : b.d.g/a:(I)V:242c44  =>  b.d.g/a:(I)V:242c58
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:1bfde6		=(rels)=>		1
+[*] Unique action: 1:57531 : <<CALL>> : androidx.appcompat.app.AlertController/b:(Landroid/view/ViewGroup;)V:1bfde6  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:43295 : <<BRANCH>> : b.d.g/a:(I)V:242c44  =>  b.d.g/a:(I)V:242c58
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf9e6		=(rels)=>		1
+[*] Unique action: 1:57540 : <<CALL>> : androidx.appcompat.app.AlertController/a:(Landroid/view/ViewGroup;)V:1bf9e6  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:43295 : <<BRANCH>> : b.d.g/a:(I)V:242c44  =>  b.d.g/a:(I)V:242c58
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bfa74		=(rels)=>		1
+[*] Unique action: 1:57547 : <<CALL>> : androidx.appcompat.app.AlertController/a:(Landroid/view/ViewGroup;)V:1bfa74  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:43295 : <<BRANCH>> : b.d.g/a:(I)V:242c44  =>  b.d.g/a:(I)V:242c58
+Entry: 242a54
+b.d.g/a:(I)V: 242c44 -> 242c58
+		b.d.g/a:(I)V: 1f0 -> 204
+addPatchReadme: java.lang.Class<b.d.g>a(I)V 1f0 t
+Entry: 2f61c8
+com.itlavka.hazeltree.ui.start.r/f:()V: 2f62a8 -> 2f6296
+		com.itlavka.hazeltree.ui.start.r/f:()V: e0 -> ce
+addPatchReadme: java.lang.Class<com.itlavka.hazeltree.ui.start.r>f()V e0 t
+b29e6a69: [+] Patches found in this round: 2
+b29e6a69: [*] Found Patch size: 1
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample90.obfuscated_flattened.ilog)
+b29e6a69: 	@@@Found patch addr: 2f62b8
+b29e6a69: Querying offset: 2f62a8
+b29e6a69: 	--Add method name to patch = com.itlavka.hazeltree.ui.start.r/f:()V 	2f62a8
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: patching method: com.itlavka.hazeltree.ui.start.r/f:()V
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample90.apk.obfuscated_flattened_devRoot
+Wow!!!!!  --  com.itlavka.hazeltree.ui.start.r/f:()V
+fallthrough: e4
+branchTarget: ce
+label = cond_0
+GOTO -- e4 	ce
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample90.apk.obfuscated_flattened_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample90.apk.obfuscated_flattened_devRoot/sample90.apk.obfuscated_flattened.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample90.apk.obfuscated_flattened_devRoot/signed_sample90.apk.obfuscated_flattened.apk
+b29e6a69: First address of Lcom/itlavka/hazeltree/ui/start/r;->f()V = 2f61d8
+b29e6a69: Address - Lcom/itlavka/hazeltree/ui/start/r;->f()V@e0	 lastOffset = 214
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample90.apk.obfuscated_flattened_devRoot/signed_sample90.apk.obfuscated_flattened.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample90.obfuscated_flattened.ilog)
+b29e6a69: Running Application: com.itlavka.hazeltree
+b29e6a69: Top-activity: com.itlavka.hazeltree/.ui.firstauth.FirstAuthActivity
+PIDs--------------------------------------------------------------------------
+u0_a3573       4466    425 14344188 136676 0                  0 S com.itlavka.hazeltree
+b29e6a69: savedPid = 4466
+b29e6a69: Terminated logcat thread...by itself
+PIDs--------------------------------------------------------------------------
+u0_a3573       4466    425 14344188 136676 0                  0 S com.itlavka.hazeltree
+b29e6a69: savedPid2 = 4466
+Stopping app: com.itlavka.hazeltree
+Tryging remove : uninstall com.itlavka.hazeltree(com.itlavka.hazeltree)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 27097591
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 28
+b29e6a69: isFailedToLaunch: com.itlavka.hazeltree/.ui.firstauth.FirstAuthActivity
+b29e6a69: 	--result: Good :)
+b29e6a69: isFailedToLaunch: com.itlavka.hazeltree/.ui.firstauth.FirstAuthActivity
+b29e6a69: 	--result: Good :)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample90.obfuscated_flattened.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample90.obfuscated_flattened.ilog)
+b29e6a69: adding filter -- 2f62a8
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 2f62a8
+Action is completely same :)
+Action is completely same :)
+b29e6a69: There is no difference. (tryAgain=false)
+-- HPFinder will be done in this iteration :)
+hasAntiAnalysis? - devTamper: false on com.itlavka.hazeltree.ui.start.StartActivity
+hasAntiAnalysis? - devRoot: true on com.itlavka.hazeltree.ui.start.StartActivity
+	isRemovedThem? - devRoot: true on com.itlavka.hazeltree.ui.start.StartActivity	-	tryCount: 1
+hasAntiAnalysis? - devDebug: false on com.itlavka.hazeltree.ui.start.StartActivity
+*****REPORT: com.itlavka.hazeltree
+* Package name: com.itlavka.hazeltree
+* Running time: 333
+* FileSize: 5192711
+devTamper : 44614970
+devRef : 44297926
+devRoot : 27097591
+devDebug : 44926017
+hasAntiAnalysis? - devTamper: false on com.itlavka.hazeltree.ui.start.StartActivity
+hasAntiAnalysis? - devRoot: true on com.itlavka.hazeltree.ui.start.StartActivity
+	isRemovedThem? - devRoot: true on com.itlavka.hazeltree.ui.start.StartActivity	-	tryCount: 1
+hasAntiAnalysis? - devDebug: false on com.itlavka.hazeltree.ui.start.StartActivity
+46604b9f: trying remove : com.itlavka.hazeltree
+3601a6ff: trying remove : com.itlavka.hazeltree
+b29e6a69: trying remove : com.itlavka.hazeltree
+159ceeed: trying remove : com.itlavka.hazeltree
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+159ceeed: result = true
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+3601a6ff: result = true
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+b29e6a69: result = true
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+46604b9f: result = true
+3601a6ff: isFailedToLaunch: com.itlavka.hazeltree/.ui.firstauth.FirstAuthActivity
+3601a6ff: 	--result: Good :)

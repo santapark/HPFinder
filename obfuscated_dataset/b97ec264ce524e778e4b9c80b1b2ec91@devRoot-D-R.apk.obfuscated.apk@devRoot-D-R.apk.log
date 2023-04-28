@@ -1,0 +1,649 @@
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample7.apk@devRoot-D-R.apk.obfuscated/AndroidManifest.xml
+launchable-activity: name='com.lcode.fcb.LaunchScreen'  label='' icon=''
+{ACTIVITY, com.lcode.fcb.LaunchScreen, android.intent.action.MAIN}
+{ACTIVITY, com.lcode.fcb.MainActivity}
+{ACTIVITY, com.lcode.fcb.ExitScreen}
+{ACTIVITY, com.lcode.fcb.LoginScreen}
+{ACTIVITY, com.lcode.fcb.ChangeMpin}
+{ACTIVITY, com.lcode.fcb.RESETSQA}
+{ACTIVITY, com.lcode.fcb.ForceChangeMpin}
+{ACTIVITY, com.lcode.fcb.LoginOtpScreen}
+{ACTIVITY, com.lcode.fcb.RegisterScreen}
+{ACTIVITY, com.lcode.fcb.RegisterDebit}
+{ACTIVITY, com.lcode.fcb.RegisterMobile}
+{ACTIVITY, com.lcode.fcb.RegisterOtp}
+{ACTIVITY, com.lcode.fcb.BrnRegisterValidateMpin}
+{ACTIVITY, com.mbbank.service.Ticketing}
+{ACTIVITY, com.mbbank.service.Goibibo}
+{ACTIVITY, com.mobile.banking.MenuService}
+{ACTIVITY, com.mbbank.service.IfscSearchHelp}
+{ACTIVITY, com.mbbank.service.BeneficiaryActivation}
+{ACTIVITY, com.mbbank.service.BeneficiaryAddition}
+{ACTIVITY, com.mbbank.service.BeneficiaryTransfertype}
+{ACTIVITY, com.mbbank.service.BeneficiaryList}
+{ACTIVITY, com.mbbank.service.AccTransferTypeList}
+{ACTIVITY, com.mbbank.service.ChequeStatusConfirm}
+{ACTIVITY, com.lcode.fcb.OtpScreen}
+{ACTIVITY, com.lcode.fcb.ForgotPassOtpScreen}
+{ACTIVITY, com.lcode.fcb.MpinScreen}
+{ACTIVITY, com.lcode.fcb.ForgotPassRegisterScreen}
+{ACTIVITY, com.lcode.fcb.ForgotPassRegisterDebit}
+{ACTIVITY, com.mbbank.account.AccountsType}
+{ACTIVITY, com.mbbank.account.AccountsDetailView}
+{ACTIVITY, com.mbbank.account.TransacDetailsView}
+{ACTIVITY, com.mbbank.service.ChequeStatus}
+{ACTIVITY, com.mbbank.service.ChequeStop}
+{ACTIVITY, com.mbbank.service.ChequeStopConfirm}
+{ACTIVITY, com.mbbank.service.ChequeRevoke}
+{ACTIVITY, com.mbbank.service.ChequeRevokeConfirm}
+{ACTIVITY, com.mbbank.service.DebitCardHotlist}
+{ACTIVITY, com.mbbank.service.DebitCardHotlistConfirm}
+{ACTIVITY, com.mbbank.service.AadharSeeding}
+{ACTIVITY, com.mbbank.service.AadharSeedingConfirm}
+{ACTIVITY, com.mbbank.service.EbankingBlock}
+{ACTIVITY, com.mbbank.service.EmailRegister}
+{ACTIVITY, com.mbbank.service.BillpayRecharge}
+{ACTIVITY, com.mbbank.service.BillpayRechargeConfirm}
+{ACTIVITY, com.mbbank.service.BillpayManager}
+{ACTIVITY, com.mbbank.service.BillpayAdd}
+{ACTIVITY, com.mbbank.service.BillpayDetails}
+{ACTIVITY, com.mbbank.service.BillPaytrf}
+{ACTIVITY, com.mbbank.service.BillPaytrfConfirm}
+{ACTIVITY, com.mbbank.service.BillpayViewBills}
+{ACTIVITY, com.mbbank.service.BillPayQuciktrf}
+{ACTIVITY, com.mbbank.service.BillPayQuciktrfConfirm}
+{ACTIVITY, com.mbbank.service.ChequeBookReq}
+{ACTIVITY, com.mbbank.service.ChequeBookReqConfirm}
+{ACTIVITY, com.mbbank.service.UpdateUserProfile}
+{ACTIVITY, com.mbbank.service.Payowntrf}
+{ACTIVITY, com.mbbank.service.PayowntrfConfirm}
+{ACTIVITY, com.mbbank.service.Paythptrf}
+{ACTIVITY, com.mbbank.service.PaythptrfConfirm}
+{ACTIVITY, com.mbbank.service.QPaythptrf}
+{ACTIVITY, com.mbbank.service.QPaythptrfConfirm}
+{ACTIVITY, com.mbbank.service.TransactionHist}
+{ACTIVITY, com.mbbank.service.TransactionHistDtls}
+{ACTIVITY, com.mbbank.service.Paynefttrf}
+{ACTIVITY, com.mbbank.service.PaynefttrfConfirm}
+{ACTIVITY, com.mbbank.service.Payrtgstrf}
+{ACTIVITY, com.mbbank.service.PayrtgstrfConfirm}
+{ACTIVITY, com.mbbank.service.Payp2atrf}
+{ACTIVITY, com.mbbank.service.Payp2atrfConfirm}
+{ACTIVITY, com.mbbank.service.Payp2ptrf}
+{ACTIVITY, com.mbbank.service.Payp2ptrfConfirm}
+{ACTIVITY, com.mbbank.service.Payp2mtrf}
+{ACTIVITY, com.mbbank.service.Payp2mtrfConfirm}
+{ACTIVITY, com.mbbank.service.Payp2utrf}
+{ACTIVITY, com.mbbank.service.Payp2utrfConfirm}
+{ACTIVITY, com.mbbank.service.QPayp2atrf}
+{ACTIVITY, com.mbbank.service.QPayp2atrfConfirm}
+{ACTIVITY, com.mbbank.service.QPayp2ptrf}
+{ACTIVITY, com.mbbank.service.QPayp2ptrfConfirm}
+{ACTIVITY, com.mbbank.service.QPayp2mtrf}
+{ACTIVITY, com.mbbank.service.QPayp2mtrfConfirm}
+{ACTIVITY, com.mbbank.service.QPayp2utrf}
+{ACTIVITY, com.mbbank.service.QPayp2utrfConfirm}
+{ACTIVITY, com.mbbank.service.DepositFixed}
+{ACTIVITY, com.mbbank.service.DepositFixedConfirm}
+{ACTIVITY, com.mbbank.service.DepositRecurr}
+{ACTIVITY, com.mbbank.service.DepositRecurrConfirm}
+{ACTIVITY, com.mbbank.service.StandingInst}
+{ACTIVITY, com.mbbank.service.StandingInstConfirm}
+{ACTIVITY, com.mbbank.service.StandInstViewDelete}
+{ACTIVITY, com.mbbank.service.StandInstViewDeleteConfirm}
+{ACTIVITY, com.mbbank.service.ScheduledPayViewDelete}
+{ACTIVITY, com.mbbank.service.ScheduledPayViewDeleteConfirm}
+{ACTIVITY, com.mbbank.service.AccountClosure}
+{ACTIVITY, com.mbbank.service.AccountClosureConfirm}
+{ACTIVITY, com.mbbank.service.UserProfileView}
+{ACTIVITY, com.mbbank.service.MmidView}
+{ACTIVITY, com.mbbank.service.MmidGen}
+{ACTIVITY, com.mbbank.service.MmidDel}
+{ACTIVITY, com.mbbank.service.MmidDelConfirm}
+{ACTIVITY, com.mbbank.service.MmidGenConfirm}
+{ACTIVITY, com.mbbank.account.AccountsList}
+{ACTIVITY, com.lcode.bankpgm.Feedback}
+{ACTIVITY, com.lcode.bankpgm.ComplainFeedback}
+{ACTIVITY, com.lcode.bankpgm.AlertActivity}
+{ACTIVITY, com.lcode.bankpgm.Offers}
+{ACTIVITY, com.lcode.bankpgm.OffersMain}
+{ACTIVITY, com.lcode.bankpgm.FAQMain}
+{ACTIVITY, com.mbbank.service.ContactUs}
+{ACTIVITY, com.mbbank.account.AcStatement}
+{ACTIVITY, com.mbbank.account.AcStatementView}
+{ACTIVITY, com.mbbank.account.AcStatementViewPdf}
+{ACTIVITY, com.mbbank.service.CardLimits}
+{ACTIVITY, com.mbbank.service.CardUsage}
+{ACTIVITY, com.mbbank.service.CardEnquiry}
+{ACTIVITY, com.lcode.fcb.ProfilePicCapture}
+{ACTIVITY, com.mbbank.service.GreenPin}
+{ACTIVITY, com.mbbank.service.GreenPinConfirm}
+{ACTIVITY, com.mbbank.service.AtmActivation}
+{ACTIVITY, com.mbbank.service.AtmActivationConfirm}
+{ACTIVITY, com.mbbank.service.AtmDeactivation}
+{ACTIVITY, com.mbbank.service.AtmDeactivationConfirm}
+{ACTIVITY, com.mbbank.service.FDRDNomineeCreation}
+{ACTIVITY, com.mbbank.service.FDRDNomineeCreationConfirm}
+{ACTIVITY, com.mbbank.service.FDRDClosure}
+{ACTIVITY, com.mbbank.service.FDRDClosureConfirm}
+{ACTIVITY, com.mbbank.service.ChannelControl}
+{ACTIVITY, com.mbbank.service.AtmLimitSet}
+{ACTIVITY, com.lcode.fcb.LaunchScreen, android.intent.action.MAIN}
+{ACTIVITY, com.lcode.fcb.MainActivity}
+{ACTIVITY, com.lcode.fcb.ExitScreen}
+{ACTIVITY, com.lcode.fcb.LoginScreen}
+{ACTIVITY, com.lcode.fcb.ChangeMpin}
+{ACTIVITY, com.lcode.fcb.RESETSQA}
+{ACTIVITY, com.lcode.fcb.ForceChangeMpin}
+{ACTIVITY, com.lcode.fcb.LoginOtpScreen}
+{ACTIVITY, com.lcode.fcb.RegisterScreen}
+{ACTIVITY, com.lcode.fcb.RegisterDebit}
+{ACTIVITY, com.lcode.fcb.RegisterMobile}
+{ACTIVITY, com.lcode.fcb.RegisterOtp}
+{ACTIVITY, com.lcode.fcb.BrnRegisterValidateMpin}
+{ACTIVITY, com.mbbank.service.Ticketing}
+{ACTIVITY, com.mbbank.service.Goibibo}
+{ACTIVITY, com.mobile.banking.MenuService}
+{ACTIVITY, com.mbbank.service.IfscSearchHelp}
+{ACTIVITY, com.mbbank.service.BeneficiaryActivation}
+{ACTIVITY, com.mbbank.service.BeneficiaryAddition}
+{ACTIVITY, com.mbbank.service.BeneficiaryTransfertype}
+{ACTIVITY, com.mbbank.service.BeneficiaryList}
+{ACTIVITY, com.mbbank.service.AccTransferTypeList}
+{ACTIVITY, com.mbbank.service.ChequeStatusConfirm}
+{ACTIVITY, com.lcode.fcb.OtpScreen}
+{ACTIVITY, com.lcode.fcb.ForgotPassOtpScreen}
+{ACTIVITY, com.lcode.fcb.MpinScreen}
+{ACTIVITY, com.lcode.fcb.ForgotPassRegisterScreen}
+{ACTIVITY, com.lcode.fcb.ForgotPassRegisterDebit}
+{ACTIVITY, com.mbbank.account.AccountsType}
+{ACTIVITY, com.mbbank.account.AccountsDetailView}
+{ACTIVITY, com.mbbank.account.TransacDetailsView}
+{ACTIVITY, com.mbbank.service.ChequeStatus}
+{ACTIVITY, com.mbbank.service.ChequeStop}
+{ACTIVITY, com.mbbank.service.ChequeStopConfirm}
+{ACTIVITY, com.mbbank.service.ChequeRevoke}
+{ACTIVITY, com.mbbank.service.ChequeRevokeConfirm}
+{ACTIVITY, com.mbbank.service.DebitCardHotlist}
+{ACTIVITY, com.mbbank.service.DebitCardHotlistConfirm}
+{ACTIVITY, com.mbbank.service.AadharSeeding}
+{ACTIVITY, com.mbbank.service.AadharSeedingConfirm}
+{ACTIVITY, com.mbbank.service.EbankingBlock}
+{ACTIVITY, com.mbbank.service.EmailRegister}
+{ACTIVITY, com.mbbank.service.BillpayRecharge}
+{ACTIVITY, com.mbbank.service.BillpayRechargeConfirm}
+{ACTIVITY, com.mbbank.service.BillpayManager}
+{ACTIVITY, com.mbbank.service.BillpayAdd}
+{ACTIVITY, com.mbbank.service.BillpayDetails}
+{ACTIVITY, com.mbbank.service.BillPaytrf}
+{ACTIVITY, com.mbbank.service.BillPaytrfConfirm}
+{ACTIVITY, com.mbbank.service.BillpayViewBills}
+{ACTIVITY, com.mbbank.service.BillPayQuciktrf}
+{ACTIVITY, com.mbbank.service.BillPayQuciktrfConfirm}
+{ACTIVITY, com.mbbank.service.ChequeBookReq}
+{ACTIVITY, com.mbbank.service.ChequeBookReqConfirm}
+{ACTIVITY, com.mbbank.service.UpdateUserProfile}
+{ACTIVITY, com.mbbank.service.Payowntrf}
+{ACTIVITY, com.mbbank.service.PayowntrfConfirm}
+{ACTIVITY, com.mbbank.service.Paythptrf}
+{ACTIVITY, com.mbbank.service.PaythptrfConfirm}
+{ACTIVITY, com.mbbank.service.QPaythptrf}
+{ACTIVITY, com.mbbank.service.QPaythptrfConfirm}
+{ACTIVITY, com.mbbank.service.TransactionHist}
+{ACTIVITY, com.mbbank.service.TransactionHistDtls}
+{ACTIVITY, com.mbbank.service.Paynefttrf}
+{ACTIVITY, com.mbbank.service.PaynefttrfConfirm}
+{ACTIVITY, com.mbbank.service.Payrtgstrf}
+{ACTIVITY, com.mbbank.service.PayrtgstrfConfirm}
+{ACTIVITY, com.mbbank.service.Payp2atrf}
+{ACTIVITY, com.mbbank.service.Payp2atrfConfirm}
+{ACTIVITY, com.mbbank.service.Payp2ptrf}
+{ACTIVITY, com.mbbank.service.Payp2ptrfConfirm}
+{ACTIVITY, com.mbbank.service.Payp2mtrf}
+{ACTIVITY, com.mbbank.service.Payp2mtrfConfirm}
+{ACTIVITY, com.mbbank.service.Payp2utrf}
+{ACTIVITY, com.mbbank.service.Payp2utrfConfirm}
+{ACTIVITY, com.mbbank.service.QPayp2atrf}
+{ACTIVITY, com.mbbank.service.QPayp2atrfConfirm}
+{ACTIVITY, com.mbbank.service.QPayp2ptrf}
+{ACTIVITY, com.mbbank.service.QPayp2ptrfConfirm}
+{ACTIVITY, com.mbbank.service.QPayp2mtrf}
+{ACTIVITY, com.mbbank.service.QPayp2mtrfConfirm}
+{ACTIVITY, com.mbbank.service.QPayp2utrf}
+{ACTIVITY, com.mbbank.service.QPayp2utrfConfirm}
+{ACTIVITY, com.mbbank.service.DepositFixed}
+{ACTIVITY, com.mbbank.service.DepositFixedConfirm}
+{ACTIVITY, com.mbbank.service.DepositRecurr}
+{ACTIVITY, com.mbbank.service.DepositRecurrConfirm}
+{ACTIVITY, com.mbbank.service.StandingInst}
+{ACTIVITY, com.mbbank.service.StandingInstConfirm}
+{ACTIVITY, com.mbbank.service.StandInstViewDelete}
+{ACTIVITY, com.mbbank.service.StandInstViewDeleteConfirm}
+{ACTIVITY, com.mbbank.service.ScheduledPayViewDelete}
+{ACTIVITY, com.mbbank.service.ScheduledPayViewDeleteConfirm}
+{ACTIVITY, com.mbbank.service.AccountClosure}
+{ACTIVITY, com.mbbank.service.AccountClosureConfirm}
+{ACTIVITY, com.mbbank.service.UserProfileView}
+{ACTIVITY, com.mbbank.service.MmidView}
+{ACTIVITY, com.mbbank.service.MmidGen}
+{ACTIVITY, com.mbbank.service.MmidDel}
+{ACTIVITY, com.mbbank.service.MmidDelConfirm}
+{ACTIVITY, com.mbbank.service.MmidGenConfirm}
+{ACTIVITY, com.mbbank.account.AccountsList}
+{ACTIVITY, com.lcode.bankpgm.Feedback}
+{ACTIVITY, com.lcode.bankpgm.ComplainFeedback}
+{ACTIVITY, com.lcode.bankpgm.AlertActivity}
+{ACTIVITY, com.lcode.bankpgm.Offers}
+{ACTIVITY, com.lcode.bankpgm.OffersMain}
+{ACTIVITY, com.lcode.bankpgm.FAQMain}
+{ACTIVITY, com.mbbank.service.ContactUs}
+{ACTIVITY, com.mbbank.account.AcStatement}
+{ACTIVITY, com.mbbank.account.AcStatementView}
+{ACTIVITY, com.mbbank.account.AcStatementViewPdf}
+{ACTIVITY, com.mbbank.service.CardLimits}
+{ACTIVITY, com.mbbank.service.CardUsage}
+{ACTIVITY, com.mbbank.service.CardEnquiry}
+{ACTIVITY, com.lcode.fcb.ProfilePicCapture}
+{ACTIVITY, com.mbbank.service.GreenPin}
+{ACTIVITY, com.mbbank.service.GreenPinConfirm}
+{ACTIVITY, com.mbbank.service.AtmActivation}
+{ACTIVITY, com.mbbank.service.AtmActivationConfirm}
+{ACTIVITY, com.mbbank.service.AtmDeactivation}
+{ACTIVITY, com.mbbank.service.AtmDeactivationConfirm}
+{ACTIVITY, com.mbbank.service.FDRDNomineeCreation}
+{ACTIVITY, com.mbbank.service.FDRDNomineeCreationConfirm}
+{ACTIVITY, com.mbbank.service.FDRDClosure}
+{ACTIVITY, com.mbbank.service.FDRDClosureConfirm}
+{ACTIVITY, com.mbbank.service.ChannelControl}
+{ACTIVITY, com.mbbank.service.AtmLimitSet}
+_getAllDexFiles: /home/santapark/Extended3/DEEPerence/reEx/sample7.apk@devRoot-D-R.apk.obfuscated/classes.dex
+----------------/home/santapark/Extended3/DEEPerence/reEx/sample7.apk@devRoot-D-R.apk.obfuscated.apk
+dexFile = org.jf.dexlib2.dexbacked.DexBackedDexFile@619bfe29
+com.lcode.fcb
+com.lcode.fcb.LaunchScreen
+debuggable: true
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample7.apk@devRoot-D-R.apk.obfuscated.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample7.apk@devRoot-D-R.apk.obfuscated.apk
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample7.apk@devRoot-D-R.apk.obfuscated_46604b9f/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample7.apk@devRoot-D-R.apk.obfuscated_46604b9f/sample7.apk@devRoot-D-R.apk.obfuscated.apk
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample7.apk@devRoot-D-R.apk.obfuscated/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample7.apk@devRoot-D-R.apk.obfuscated/sample7.apk@devRoot-D-R.apk.obfuscated.apk
+3601a6ff: Installation Success
+159ceeed: Installing debuggable .apk file: 
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample7.apk@devRoot-D-R.apk.obfuscated/signed_sample7.apk@devRoot-D-R.apk.obfuscated.apk
+46604b9f: Installing repackaged apk File: 
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample7.apk@devRoot-D-R.apk.obfuscated_46604b9f/signed_sample7.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Installation Success
+159ceeed: Installation Success
+46604b9f: Installation Success
+46604b9f: startApplication called! - devTamper
+3601a6ff: startApplication called! - devRef
+b29e6a69: startApplication called! - devRoot
+159ceeed: startApplication called! - devDebug
+3601a6ff: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample7@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample7@devRoot-D-R.obfuscated.ilog)
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample7@devRoot-D-R.obfuscated.ilog)
+46604b9f: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devTamper_sample7@devRoot-D-R.obfuscated.ilog)
+3601a6ff: Running Application: com.lcode.fcb
+b29e6a69: Running Application: com.lcode.fcb
+46604b9f: Running Application: com.lcode.fcb
+PIDs--------------------------------------------------------------------------
+u0_a90         4129    429 14558712 106020 0                  0 S com.lcode.fcb
+forward tcp:5005 jdwp:4129
+[*]Found JDWP Target: 4129
+159ceeed: Running Application: com.lcode.fcb
+3601a6ff: Running is done - starting comparing... : 5001
+3601a6ff: Terminated logcat thread...by itself
+159ceeed: Running is done - starting comparing... : 5001
+159ceeed: Terminated logcat thread...by itself
+3601a6ff: Top-activity: com.lcode.fcb/.LaunchScreen
+PIDs--------------------------------------------------------------------------
+u0_a217       26890    407 14807888 135392 0                  0 S com.lcode.fcb
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+PIDs--------------------------------------------------------------------------
+u0_a217       26890    407 14807888 135392 0                  0 S com.lcode.fcb
+Stopping app: com.lcode.fcb
+46604b9f: Running is done - starting comparing... : 5001
+46604b9f: Terminated logcat thread...by itself
+46604b9f: Top-activity: com.lcode.fcb/.LaunchScreen
+PIDs--------------------------------------------------------------------------
+u0_a907       11640    425 14752420 135632 0                  0 S com.lcode.fcb
+PIDs--------------------------------------------------------------------------
+u0_a907       11640    425 14752420 135632 0                  0 S com.lcode.fcb
+Stopping app: com.lcode.fcb
+159ceeed: Top-activity: com.lcode.fcb/.LaunchScreen
+PIDs--------------------------------------------------------------------------
+u0_a90         4129    429 14693100 136208 0                  0 S com.lcode.fcb
+PIDs--------------------------------------------------------------------------
+u0_a90         4129    429 14693100 136208 0                  0 S com.lcode.fcb
+Stopping app: com.lcode.fcb
+b29e6a69: Top-activity: com.lcode.fcb/.LaunchScreen
+PIDs--------------------------------------------------------------------------
+u0_a90         4161    429 14658472 137596 0                  0 S com.lcode.fcb
+PIDs--------------------------------------------------------------------------
+u0_a90         4161    429 14658472 137596 0                  0 S com.lcode.fcb
+Stopping app: com.lcode.fcb
+Tryging remove : uninstall com.lcode.fcb(com.lcode.fcb)
+3601a6ff: Remove Success
+3601a6ff: ilog file size: 15315313
+3601a6ff: End of collecting logcat...
+Tryging remove : uninstall com.lcode.fcb(com.lcode.fcb)
+46604b9f: Remove Success
+46604b9f: ilog file size: 15340335
+46604b9f: End of collecting logcat...
+Tryging remove : uninstall com.lcode.fcb(com.lcode.fcb)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 15702437
+b29e6a69: End of collecting logcat...
+Tryging remove : uninstall com.lcode.fcb(com.lcode.fcb)
+159ceeed: Remove Success
+159ceeed: ilog file size: 15335590
+159ceeed: End of collecting logcat...
+HPFinder's try count remains: 19
+46604b9f: isFailedToLaunch: com.lcode.fcb/.LaunchScreen
+46604b9f: 	--result: Good :)
+b29e6a69: isFailedToLaunch: com.lcode.fcb/.LaunchScreen
+b29e6a69: 	--result: Good :)
+159ceeed: isFailedToLaunch: com.lcode.fcb/.LaunchScreen
+159ceeed: 	--result: Good :)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample7@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample7@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample7@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devTamper_sample7@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample7@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample7@devRoot-D-R.obfuscated.ilog)
+[*] FlowManager: adjust finished.
+[*] FlowManager: adjust finished.
+Action is completely same :)
+Action is completely same :)
+[*] FlowManager: adjust finished.
+android.app.Dialog/show:()V:4b2ffe		=(rels)=>		1
+Action is completely same :)
+Action is completely same :)
+46604b9f: There is no difference. (tryAgain=false)
+Action is completely same :)
+159ceeed: There is no difference. (tryAgain=false)
+[*] Unique action: 1:15758 : <<CALL>> : com.mbbank.common.k/ihZykOndOTLoLSob:(Landroid/app/AlertDialog;)V:4b2ffe  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:22655 : <<BRANCH>> : com.mbbank.common.k/onCreate:(Landroid/os/Bundle;)V:4ba1de  =>  com.mbbank.common.k/onCreate:(Landroid/os/Bundle;)V:4ba1c2
+Entry: 4ba038
+com.mbbank.common.k/onCreate:(Landroid/os/Bundle;)V: 4ba1de -> 4ba1c2
+		com.mbbank.common.k/onCreate:(Landroid/os/Bundle;)V: 1a6 -> 18a
+addPatchReadme: java.lang.Class<com.mbbank.common.k>onCreate(Landroid/os/Bundle;)V 1a6 t
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample7@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Patch size: 1
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample7.apk@devRoot-D-R.apk.obfuscated_devRoot
+Wow!!!!!  --  com.mbbank.common.k/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 1ac
+branchTarget: 18a
+label = sswitch_data_6
+GOTO -- 1ac 	18a
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample7.apk@devRoot-D-R.apk.obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample7.apk@devRoot-D-R.apk.obfuscated_devRoot/sample7.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample7.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample7.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: First address of Lcom/mbbank/common/k;->onCreate(Landroid/os/Bundle;)V = 4ba048
+b29e6a69: Address - Lcom/mbbank/common/k;->onCreate(Landroid/os/Bundle;)V@1a6	 lastOffset = 8f0
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample7.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample7.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample7@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Running Application: com.lcode.fcb
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.lcode.fcb
+Tryging remove : uninstall com.lcode.fcb(com.lcode.fcb)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 84453
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 18
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+/home/santapark/Extended3/DEEPerence/reEx/sample7.apk@devRoot-D-R.apk.obfuscated.apk launch is failed on devRoot
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 4ba1de
+Action is completely same :)
+android.app.Dialog/show:()V:4b2ffe		=(rels)=>		1
+[*] Unique action: 1:15758 : <<CALL>> : com.mbbank.common.k/ihZykOndOTLoLSob:(Landroid/app/AlertDialog;)V:4b2ffe  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:22652 : <<BRANCH>> : com.mbbank.common.k/onCreate:(Landroid/os/Bundle;)V:4ba208  =>  com.mbbank.common.k/onCreate:(Landroid/os/Bundle;)V:4ba1ee
+Entry: 4ba038
+com.mbbank.common.k/onCreate:(Landroid/os/Bundle;)V: 4ba208 -> 4ba1ee
+		com.mbbank.common.k/onCreate:(Landroid/os/Bundle;)V: 1d0 -> 1b6
+addPatchReadme: java.lang.Class<com.mbbank.common.k>onCreate(Landroid/os/Bundle;)V 1d0 t
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample7@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Patch size: 1
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample7.apk@devRoot-D-R.apk.obfuscated_devRoot
+Wow!!!!!  --  com.mbbank.common.k/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 1d6
+branchTarget: 1b6
+label = sswitch_data_7
+GOTO -- 1d6 	1b6
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample7.apk@devRoot-D-R.apk.obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample7.apk@devRoot-D-R.apk.obfuscated_devRoot/sample7.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample7.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample7.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: First address of Lcom/mbbank/common/k;->onCreate(Landroid/os/Bundle;)V = 4ba048
+b29e6a69: Address - Lcom/mbbank/common/k;->onCreate(Landroid/os/Bundle;)V@1d0	 lastOffset = 8f0
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample7.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample7.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample7@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Running Application: com.lcode.fcb
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.lcode.fcb
+Tryging remove : uninstall com.lcode.fcb(com.lcode.fcb)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 79402
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 17
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+/home/santapark/Extended3/DEEPerence/reEx/sample7.apk@devRoot-D-R.apk.obfuscated.apk launch is failed on devRoot
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 4ba208
+-- current localPatchFilter: 4ba1de
+Action is completely same :)
+android.app.Dialog/show:()V:4b2ffe		=(rels)=>		1
+[*] Unique action: 1:15758 : <<CALL>> : com.mbbank.common.k/ihZykOndOTLoLSob:(Landroid/app/AlertDialog;)V:4b2ffe  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:22649 : <<BRANCH>> : com.mbbank.common.k/onCreate:(Landroid/os/Bundle;)V:4ba230  =>  com.mbbank.common.k/onCreate:(Landroid/os/Bundle;)V:4ba216
+Entry: 4ba038
+com.mbbank.common.k/onCreate:(Landroid/os/Bundle;)V: 4ba230 -> 4ba216
+		com.mbbank.common.k/onCreate:(Landroid/os/Bundle;)V: 1f8 -> 1de
+addPatchReadme: java.lang.Class<com.mbbank.common.k>onCreate(Landroid/os/Bundle;)V 1f8 t
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample7@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Patch size: 1
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample7.apk@devRoot-D-R.apk.obfuscated_devRoot
+Wow!!!!!  --  com.mbbank.common.k/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 1fe
+branchTarget: 1de
+label = sswitch_data_8
+GOTO -- 1fe 	1de
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample7.apk@devRoot-D-R.apk.obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample7.apk@devRoot-D-R.apk.obfuscated_devRoot/sample7.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample7.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample7.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: First address of Lcom/mbbank/common/k;->onCreate(Landroid/os/Bundle;)V = 4ba048
+b29e6a69: Address - Lcom/mbbank/common/k;->onCreate(Landroid/os/Bundle;)V@1f8	 lastOffset = 8f0
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample7.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample7.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample7@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Running Application: com.lcode.fcb
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.lcode.fcb
+Tryging remove : uninstall com.lcode.fcb(com.lcode.fcb)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 79189
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 16
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+/home/santapark/Extended3/DEEPerence/reEx/sample7.apk@devRoot-D-R.apk.obfuscated.apk launch is failed on devRoot
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 4ba208
+-- current localPatchFilter: 4ba1de
+-- current localPatchFilter: 4ba230
+Action is completely same :)
+android.app.Dialog/show:()V:4b2ffe		=(rels)=>		1
+[*] Unique action: 1:15758 : <<CALL>> : com.mbbank.common.k/ihZykOndOTLoLSob:(Landroid/app/AlertDialog;)V:4b2ffe  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:22646 : <<BRANCH>> : com.mbbank.common.k/onCreate:(Landroid/os/Bundle;)V:4ba24c  =>  com.mbbank.common.k/onCreate:(Landroid/os/Bundle;)V:4ba25a
+Entry: 4ba038
+com.mbbank.common.k/onCreate:(Landroid/os/Bundle;)V: 4ba24c -> 4ba25a
+		com.mbbank.common.k/onCreate:(Landroid/os/Bundle;)V: 214 -> 222
+addPatchReadme: java.lang.Class<com.mbbank.common.k>onCreate(Landroid/os/Bundle;)V 214 t
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample7@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Patch size: 1
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample7.apk@devRoot-D-R.apk.obfuscated_devRoot
+Wow!!!!!  --  com.mbbank.common.k/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 21a
+branchTarget: 222
+label = sswitch_data_9
+GOTO -- 21a 	222
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample7.apk@devRoot-D-R.apk.obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample7.apk@devRoot-D-R.apk.obfuscated_devRoot/sample7.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample7.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample7.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: First address of Lcom/mbbank/common/k;->onCreate(Landroid/os/Bundle;)V = 4ba048
+b29e6a69: Address - Lcom/mbbank/common/k;->onCreate(Landroid/os/Bundle;)V@214	 lastOffset = 8f0
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample7.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample7.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample7@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Running Application: com.lcode.fcb
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.lcode.fcb
+Tryging remove : uninstall com.lcode.fcb(com.lcode.fcb)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 79402
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 15
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+/home/santapark/Extended3/DEEPerence/reEx/sample7.apk@devRoot-D-R.apk.obfuscated.apk launch is failed on devRoot
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 4ba208
+-- current localPatchFilter: 4ba1de
+-- current localPatchFilter: 4ba24c
+-- current localPatchFilter: 4ba230
+Action is completely same :)
+android.app.Dialog/show:()V:4b2ffe		=(rels)=>		1
+[*] Unique action: 1:15758 : <<CALL>> : com.mbbank.common.k/ihZykOndOTLoLSob:(Landroid/app/AlertDialog;)V:4b2ffe  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:22643 : <<BRANCH>> : com.mbbank.common.k/onCreate:(Landroid/os/Bundle;)V:4ba26e  =>  com.mbbank.common.k/onCreate:(Landroid/os/Bundle;)V:4ba260
+Entry: 4ba038
+com.mbbank.common.k/onCreate:(Landroid/os/Bundle;)V: 4ba26e -> 4ba260
+		com.mbbank.common.k/onCreate:(Landroid/os/Bundle;)V: 236 -> 228
+addPatchReadme: java.lang.Class<com.mbbank.common.k>onCreate(Landroid/os/Bundle;)V 236 t
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample7@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Patch size: 1
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample7.apk@devRoot-D-R.apk.obfuscated_devRoot
+Wow!!!!!  --  com.mbbank.common.k/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 23a
+branchTarget: 228
+label = cond_1
+GOTO -- 23a 	228
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample7.apk@devRoot-D-R.apk.obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample7.apk@devRoot-D-R.apk.obfuscated_devRoot/sample7.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample7.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample7.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: First address of Lcom/mbbank/common/k;->onCreate(Landroid/os/Bundle;)V = 4ba048
+b29e6a69: Address - Lcom/mbbank/common/k;->onCreate(Landroid/os/Bundle;)V@236	 lastOffset = 8f0
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample7.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample7.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample7@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Running Application: com.lcode.fcb
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.lcode.fcb/.LaunchScreen
+PIDs--------------------------------------------------------------------------
+u0_a3057       4870    429 14618400 134936 0                  0 S com.lcode.fcb
+PIDs--------------------------------------------------------------------------
+u0_a3057       4870    429 14618400 134936 0                  0 S com.lcode.fcb
+Stopping app: com.lcode.fcb
+Tryging remove : uninstall com.lcode.fcb(com.lcode.fcb)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 13880525
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 14
+b29e6a69: isFailedToLaunch: com.lcode.fcb/.LaunchScreen
+b29e6a69: 	--result: Good :)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample7@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample7@devRoot-D-R.obfuscated.ilog)
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 4ba26e
+Action is completely same :)
+Action is completely same :)
+b29e6a69: There is no difference. (tryAgain=false)
+-- HPFinder will be done in this iteration :)
+hasAntiAnalysis? - devTamper: false on com.lcode.fcb.LaunchScreen
+hasAntiAnalysis? - devRoot: true on com.lcode.fcb.LaunchScreen
+	isRemovedThem? - devRoot: true on com.lcode.fcb.LaunchScreen	-	tryCount: 5
+hasAntiAnalysis? - devDebug: false on com.lcode.fcb.LaunchScreen
+*****REPORT: com.lcode.fcb
+* Package name: com.lcode.fcb
+* Running time: 286
+* FileSize: 9293346
+devTamper : 15340335
+devRef : 15315313
+devRoot : 13880525
+devDebug : 15335590
+hasAntiAnalysis? - devTamper: false on com.lcode.fcb.LaunchScreen
+hasAntiAnalysis? - devRoot: true on com.lcode.fcb.LaunchScreen
+	isRemovedThem? - devRoot: true on com.lcode.fcb.LaunchScreen	-	tryCount: 5
+hasAntiAnalysis? - devDebug: false on com.lcode.fcb.LaunchScreen
+46604b9f: trying remove : com.lcode.fcb
+3601a6ff: trying remove : com.lcode.fcb
+b29e6a69: trying remove : com.lcode.fcb
+159ceeed: trying remove : com.lcode.fcb
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+3601a6ff: result = true
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+46604b9f: result = true
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+b29e6a69: result = true
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+159ceeed: result = true
+3601a6ff: isFailedToLaunch: com.lcode.fcb/.LaunchScreen
+3601a6ff: 	--result: Good :)

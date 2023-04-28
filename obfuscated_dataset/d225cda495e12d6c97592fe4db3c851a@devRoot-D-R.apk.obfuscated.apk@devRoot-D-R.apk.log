@@ -1,0 +1,436 @@
+axmlPath: /home/santapark/Extended3/DEEPerence/obfuscated/sample31.apk@devRoot-D-R.apk.obfuscated/AndroidManifest.xml
+launchable-activity: name='com.beyondinc.woodel.Login.ActLogin'  label='' icon=''
+{ACTIVITY, com.beyondinc.woodel.Login.ActLogin, android.intent.action.MAIN, android.intent.action.VIEW}
+{SERVICE, com.beyondinc.woodel.common.MyFirebaseMessagingService, com.google.firebase.MESSAGING_EVENT}
+{ACTIVITY, com.beyondinc.woodel.Main.ActMain}
+{ACTIVITY, com.beyondinc.woodel.Join.ActJoin}
+{ACTIVITY, com.beyondinc.woodel.FindPasswd.ActFindPasswd}
+{ACTIVITY, com.beyondinc.woodel.Navigation.ActPersonalInfo}
+{ACTIVITY, com.beyondinc.woodel.Navigation.ActCalculateDetail}
+{ACTIVITY, com.beyondinc.woodel.Navigation.ActSetting}
+{ACTIVITY, com.beyondinc.woodel.Navigation.ActTrophy}
+{ACTIVITY, com.beyondinc.woodel.Navigation.ActMypage}
+{ACTIVITY, com.beyondinc.woodel.Navigation.ActDepositAccount}
+{ACTIVITY, com.beyondinc.woodel.Navigation.ActDeliveryAreaChange}
+{ACTIVITY, com.beyondinc.woodel.Navigation.ActDeliveryVehicleChange}
+{ACTIVITY, com.beyondinc.woodel.Navigation.ActMemberWithdrawal}
+{ACTIVITY, com.beyondinc.woodel.Navigation.ActNotice}
+{ACTIVITY, com.beyondinc.woodel.Navigation.ActMyIncome}
+{ACTIVITY, com.beyondinc.woodel.Navigation.ActTermsConfirm}
+{ACTIVITY, com.beyondinc.woodel.Navigation.ActPrivacyPolicy}
+{ACTIVITY, com.beyondinc.woodel.Navigation.ActServiceCenter}
+{ACTIVITY, com.beyondinc.woodel.Main.List.Detail.ActMainListItemDetail}
+{ACTIVITY, com.beyondinc.woodel.Main.List.Detail.ActSendMessage}
+{ACTIVITY, com.beyondinc.woodel.Navigation.ActDeliveryDetail}
+{ACTIVITY, com.beyondinc.woodel.Navigation.ActMemberWithDrawConfirm}
+{ACTIVITY, com.beyondinc.woodel.Main.List.Detail.ActPickUpCheck}
+{ACTIVITY, com.beyondinc.woodel.utils.ActDialog}
+{ACTIVITY, com.beyondinc.woodel.Navigation.ActNoticeEventWeb}
+{ACTIVITY, com.beyondinc.woodel.Navigation.ActAdReceiveSetting}
+{ACTIVITY, com.beyondinc.woodel.Main.ActMainPopup}
+{ACTIVITY, com.beyondinc.woodel.Main.ActMainPopupLarge}
+{ACTIVITY, com.beyondinc.woodel.Main.ActWoochinIdentification}
+{ACTIVITY, com.beyondinc.woodel.Main.ActReTermsAccept}
+{SERVICE, com.beyondinc.woodel.common.AppService}
+{SERVICE, com.google.firebase.messaging.FirebaseMessagingService, com.google.firebase.MESSAGING_EVENT}
+{SERVICE, com.google.firebase.components.ComponentDiscoveryService}
+{RECEIVER, com.google.firebase.iid.FirebaseInstanceIdReceiver, com.google.android.c2dm.intent.RECEIVE}
+{SERVICE, com.google.firebase.iid.FirebaseInstanceIdService, com.google.firebase.INSTANCE_ID_EVENT}
+{ACTIVITY, com.beyondinc.woodel.Login.ActLogin, android.intent.action.MAIN, android.intent.action.VIEW}
+{SERVICE, com.beyondinc.woodel.common.MyFirebaseMessagingService, com.google.firebase.MESSAGING_EVENT}
+{ACTIVITY, com.beyondinc.woodel.Main.ActMain}
+{ACTIVITY, com.beyondinc.woodel.Join.ActJoin}
+{ACTIVITY, com.beyondinc.woodel.FindPasswd.ActFindPasswd}
+{ACTIVITY, com.beyondinc.woodel.Navigation.ActPersonalInfo}
+{ACTIVITY, com.beyondinc.woodel.Navigation.ActCalculateDetail}
+{ACTIVITY, com.beyondinc.woodel.Navigation.ActSetting}
+{ACTIVITY, com.beyondinc.woodel.Navigation.ActTrophy}
+{ACTIVITY, com.beyondinc.woodel.Navigation.ActMypage}
+{ACTIVITY, com.beyondinc.woodel.Navigation.ActDepositAccount}
+{ACTIVITY, com.beyondinc.woodel.Navigation.ActDeliveryAreaChange}
+{ACTIVITY, com.beyondinc.woodel.Navigation.ActDeliveryVehicleChange}
+{ACTIVITY, com.beyondinc.woodel.Navigation.ActMemberWithdrawal}
+{ACTIVITY, com.beyondinc.woodel.Navigation.ActNotice}
+{ACTIVITY, com.beyondinc.woodel.Navigation.ActMyIncome}
+{ACTIVITY, com.beyondinc.woodel.Navigation.ActTermsConfirm}
+{ACTIVITY, com.beyondinc.woodel.Navigation.ActPrivacyPolicy}
+{ACTIVITY, com.beyondinc.woodel.Navigation.ActServiceCenter}
+{ACTIVITY, com.beyondinc.woodel.Main.List.Detail.ActMainListItemDetail}
+{ACTIVITY, com.beyondinc.woodel.Main.List.Detail.ActSendMessage}
+{ACTIVITY, com.beyondinc.woodel.Navigation.ActDeliveryDetail}
+{ACTIVITY, com.beyondinc.woodel.Navigation.ActMemberWithDrawConfirm}
+{ACTIVITY, com.beyondinc.woodel.Main.List.Detail.ActPickUpCheck}
+{ACTIVITY, com.beyondinc.woodel.utils.ActDialog}
+{ACTIVITY, com.beyondinc.woodel.Navigation.ActNoticeEventWeb}
+{ACTIVITY, com.beyondinc.woodel.Navigation.ActAdReceiveSetting}
+{ACTIVITY, com.beyondinc.woodel.Main.ActMainPopup}
+{ACTIVITY, com.beyondinc.woodel.Main.ActMainPopupLarge}
+{ACTIVITY, com.beyondinc.woodel.Main.ActWoochinIdentification}
+{ACTIVITY, com.beyondinc.woodel.Main.ActReTermsAccept}
+{SERVICE, com.beyondinc.woodel.common.AppService}
+{SERVICE, com.google.firebase.messaging.FirebaseMessagingService, com.google.firebase.MESSAGING_EVENT}
+{SERVICE, com.google.firebase.components.ComponentDiscoveryService}
+{RECEIVER, com.google.firebase.iid.FirebaseInstanceIdReceiver, com.google.android.c2dm.intent.RECEIVE}
+{SERVICE, com.google.firebase.iid.FirebaseInstanceIdService, com.google.firebase.INSTANCE_ID_EVENT}
+_getAllDexFiles: /home/santapark/Extended3/DEEPerence/obfuscated/sample31.apk@devRoot-D-R.apk.obfuscated/classes.dex
+----------------/home/santapark/Extended3/DEEPerence/obfuscated/sample31.apk@devRoot-D-R.apk.obfuscated.apk
+dexFile = org.jf.dexlib2.dexbacked.DexBackedDexFile@d7dc40e
+com.beyondinc.woodel.dev
+com.beyondinc.woodel.Login.ActLogin
+debuggable: true
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+Installing apk: /home/santapark/Extended3/DEEPerence/obfuscated/sample31.apk@devRoot-D-R.apk.obfuscated.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/obfuscated/sample31.apk@devRoot-D-R.apk.obfuscated.apk
+axmlPath: /home/santapark/Extended3/DEEPerence/obfuscated/sample31.apk@devRoot-D-R.apk.obfuscated_46604b9f/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/obfuscated/sample31.apk@devRoot-D-R.apk.obfuscated_46604b9f/sample31.apk@devRoot-D-R.apk.obfuscated.apk
+axmlPath: /home/santapark/Extended3/DEEPerence/obfuscated/sample31.apk@devRoot-D-R.apk.obfuscated/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/obfuscated/sample31.apk@devRoot-D-R.apk.obfuscated/sample31.apk@devRoot-D-R.apk.obfuscated.apk
+159ceeed: Installing debuggable .apk file: 
+Installing apk: /home/santapark/Extended3/DEEPerence/obfuscated/sample31.apk@devRoot-D-R.apk.obfuscated/signed_sample31.apk@devRoot-D-R.apk.obfuscated.apk
+46604b9f: Installing repackaged apk File: 
+Installing apk: /home/santapark/Extended3/DEEPerence/obfuscated/sample31.apk@devRoot-D-R.apk.obfuscated_46604b9f/signed_sample31.apk@devRoot-D-R.apk.obfuscated.apk
+3601a6ff: Installation Success
+b29e6a69: Installation Success
+159ceeed: Installation Success
+46604b9f: Installation Success
+46604b9f: startApplication called! - devTamper
+3601a6ff: startApplication called! - devRef
+b29e6a69: startApplication called! - devRoot
+159ceeed: startApplication called! - devDebug
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/obfuscated/devDebug_sample31@devRoot-D-R.obfuscated.ilog)
+46604b9f: Collecting logcat... (/home/santapark/Extended3/DEEPerence/obfuscated/devTamper_sample31@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/obfuscated/devRoot_sample31@devRoot-D-R.obfuscated.ilog)
+3601a6ff: Collecting logcat... (/home/santapark/Extended3/DEEPerence/obfuscated/devRef_sample31@devRoot-D-R.obfuscated.ilog)
+46604b9f: Running Application: com.beyondinc.woodel.dev
+b29e6a69: Running Application: com.beyondinc.woodel.dev
+3601a6ff: Running Application: com.beyondinc.woodel.dev
+PIDs--------------------------------------------------------------------------
+u0_a783       23339    428 14784716 109284 0                  0 R com.beyondinc.woodel.dev
+forward tcp:5005 jdwp:23339
+[*]Found JDWP Target: 23339
+159ceeed: Running Application: com.beyondinc.woodel.dev
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.beyondinc.woodel.dev/com.beyondinc.woodel.Login.ActLogin
+PIDs--------------------------------------------------------------------------
+u0_a3429       7543    428 14878740 136024 0                  0 S com.beyondinc.woodel.dev
+PIDs--------------------------------------------------------------------------
+u0_a3429       7543    428 14878740 136024 0                  0 S com.beyondinc.woodel.dev
+Stopping app: com.beyondinc.woodel.dev
+Tryging remove : uninstall com.beyondinc.woodel.dev(com.beyondinc.woodel.dev)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 1098589
+b29e6a69: End of collecting logcat...
+46604b9f: Top-activity: com.beyondinc.woodel.dev/com.beyondinc.woodel.Login.ActLogin
+PIDs--------------------------------------------------------------------------
+u0_a851       15434    427 14770920 137768 0                  0 S com.beyondinc.woodel.dev
+46604b9f: Terminated logcat thread...by itself
+PIDs--------------------------------------------------------------------------
+u0_a851       15434    427 14770920 137768 0                  0 S com.beyondinc.woodel.dev
+Stopping app: com.beyondinc.woodel.dev
+3601a6ff: Top-activity: com.beyondinc.woodel.dev/com.beyondinc.woodel.Login.ActLogin
+PIDs--------------------------------------------------------------------------
+u0_a175       15343    407 14769412 138732 0                  0 S com.beyondinc.woodel.dev
+3601a6ff: Terminated logcat thread...by itself
+PIDs--------------------------------------------------------------------------
+u0_a175       15343    407 14769412 138732 0                  0 S com.beyondinc.woodel.dev
+Stopping app: com.beyondinc.woodel.dev
+159ceeed: Top-activity: com.beyondinc.woodel.dev/com.beyondinc.woodel.Login.ActLogin
+PIDs--------------------------------------------------------------------------
+u0_a783       23339    428 14847684 138212 0                  0 S com.beyondinc.woodel.dev
+159ceeed: Terminated logcat thread...by itself
+PIDs--------------------------------------------------------------------------
+u0_a783       23339    428 14847684 138212 0                  0 S com.beyondinc.woodel.dev
+Stopping app: com.beyondinc.woodel.dev
+Tryging remove : uninstall com.beyondinc.woodel.dev(com.beyondinc.woodel.dev)
+46604b9f: Remove Success
+46604b9f: ilog file size: 210664002
+46604b9f: End of collecting logcat...
+Tryging remove : uninstall com.beyondinc.woodel.dev(com.beyondinc.woodel.dev)
+3601a6ff: Remove Success
+3601a6ff: ilog file size: 335949684
+3601a6ff: End of collecting logcat...
+Tryging remove : uninstall com.beyondinc.woodel.dev(com.beyondinc.woodel.dev)
+159ceeed: Remove Success
+159ceeed: ilog file size: 221215625
+159ceeed: End of collecting logcat...
+HPFinder's try count remains: 19
+46604b9f: isFailedToLaunch: com.beyondinc.woodel.dev/com.beyondinc.woodel.Login.ActLogin
+46604b9f: 	--result: Good :)
+b29e6a69: isFailedToLaunch: com.beyondinc.woodel.dev/com.beyondinc.woodel.Login.ActLogin
+b29e6a69: 	--result: Good :)
+159ceeed: isFailedToLaunch: com.beyondinc.woodel.dev/com.beyondinc.woodel.Login.ActLogin
+159ceeed: 	--result: Good :)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/obfuscated/devRef_sample31@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/obfuscated/devRef_sample31@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/obfuscated/devRef_sample31@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/obfuscated/devRoot_sample31@devRoot-D-R.obfuscated.ilog)
+[*] FlowManager: adjust finished.
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:4b9108		=(rels)=>		1
+[*] Unique action: 1:7454 : <<CALL>> : com.beyondinc.woodel.Login.ActLogin/TgbRiSsjRhPsexly:(Landroid/widget/ImageView;Landroid/view/View$OnClickListener;)V:4b9108  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:4939 : <<BRANCH>> : com.beyondinc.woodel.Login.ActLogin/onCreate:(Landroid/os/Bundle;)V:4c3dee  =>  com.beyondinc.woodel.Login.ActLogin/onCreate:(Landroid/os/Bundle;)V:4c44a2
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:4b7e3c		=(rels)=>		1
+[*] Unique action: 1:7987 : <<CALL>> : com.beyondinc.woodel.Login.ActLogin/MOHVGYDvptKdFngf:(Landroid/widget/LinearLayout;Landroid/view/View$OnClickListener;)V:4b7e3c  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:4939 : <<BRANCH>> : com.beyondinc.woodel.Login.ActLogin/onCreate:(Landroid/os/Bundle;)V:4c3dee  =>  com.beyondinc.woodel.Login.ActLogin/onCreate:(Landroid/os/Bundle;)V:4c44a2
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:4c0164		=(rels)=>		1
+[*] Unique action: 1:7914 : <<CALL>> : com.beyondinc.woodel.Login.ActLogin/txCEqIoOYZuvMcPO:(Landroid/widget/LinearLayout;Landroid/view/View$OnClickListener;)V:4c0164  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:4939 : <<BRANCH>> : com.beyondinc.woodel.Login.ActLogin/onCreate:(Landroid/os/Bundle;)V:4c3dee  =>  com.beyondinc.woodel.Login.ActLogin/onCreate:(Landroid/os/Bundle;)V:4c44a2
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:4b6d00		=(rels)=>		1
+[*] Unique action: 1:8060 : <<CALL>> : com.beyondinc.woodel.Login.ActLogin/GMVhxWZgFDKfkyLr:(Landroid/widget/LinearLayout;Landroid/view/View$OnClickListener;)V:4b6d00  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:4939 : <<BRANCH>> : com.beyondinc.woodel.Login.ActLogin/onCreate:(Landroid/os/Bundle;)V:4c3dee  =>  com.beyondinc.woodel.Login.ActLogin/onCreate:(Landroid/os/Bundle;)V:4c44a2
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:432790		=(rels)=>		1
+[*] Unique action: 1:4446 : <<CALL>> : c.b.a.l.a/nruANfatVkOYrwGk:(Landroid/widget/Button;Landroid/view/View$OnClickListener;)V:432790  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:4939 : <<BRANCH>> : com.beyondinc.woodel.Login.ActLogin/onCreate:(Landroid/os/Bundle;)V:4c3dee  =>  com.beyondinc.woodel.Login.ActLogin/onCreate:(Landroid/os/Bundle;)V:4c44a2
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:432810		=(rels)=>		1
+[*] Unique action: 1:4391 : <<CALL>> : c.b.a.l.a/sQspHxaKBAbeZCeo:(Landroid/widget/Button;Ljava/lang/CharSequence;)V:432810  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:4939 : <<BRANCH>> : com.beyondinc.woodel.Login.ActLogin/onCreate:(Landroid/os/Bundle;)V:4c3dee  =>  com.beyondinc.woodel.Login.ActLogin/onCreate:(Landroid/os/Bundle;)V:4c44a2
+android.app.Dialog/show:()V:4b9a4e		=(rels)=>		1
+[*] Unique action: 1:4330 : <<CALL>> : com.beyondinc.woodel.Login.ActLogin/WgOvfOLbhMDWaPZV:(Landroid/app/Dialog;)V:4b9a4e  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:4939 : <<BRANCH>> : com.beyondinc.woodel.Login.ActLogin/onCreate:(Landroid/os/Bundle;)V:4c3dee  =>  com.beyondinc.woodel.Login.ActLogin/onCreate:(Landroid/os/Bundle;)V:4c44a2
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:432684		=(rels)=>		1
+[*] Unique action: 1:4449 : <<CALL>> : c.b.a.l.a/ZKaEWxDwDiNNSupz:(Landroid/widget/Button;Landroid/view/View$OnClickListener;)V:432684  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:4939 : <<BRANCH>> : com.beyondinc.woodel.Login.ActLogin/onCreate:(Landroid/os/Bundle;)V:4c3dee  =>  com.beyondinc.woodel.Login.ActLogin/onCreate:(Landroid/os/Bundle;)V:4c44a2
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:4325ec		=(rels)=>		1
+[*] Unique action: 1:4394 : <<CALL>> : c.b.a.l.a/VsnZMyHtToJarrwV:(Landroid/widget/Button;Ljava/lang/CharSequence;)V:4325ec  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:4939 : <<BRANCH>> : com.beyondinc.woodel.Login.ActLogin/onCreate:(Landroid/os/Bundle;)V:4c3dee  =>  com.beyondinc.woodel.Login.ActLogin/onCreate:(Landroid/os/Bundle;)V:4c44a2
+Entry: 4c3d78
+com.beyondinc.woodel.Login.ActLogin/onCreate:(Landroid/os/Bundle;)V: 4c3dee -> 4c44a2
+		com.beyondinc.woodel.Login.ActLogin/onCreate:(Landroid/os/Bundle;)V: 76 -> 72a
+addPatchReadme: java.lang.Class<com.beyondinc.woodel.Login.ActLogin>onCreate(Landroid/os/Bundle;)V 76 t
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/obfuscated/devRoot_sample31@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Patch size: 1
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/obfuscated/devTamper_sample31@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/obfuscated/devDebug_sample31@devRoot-D-R.obfuscated.ilog)
+[*] FlowManager: adjust finished.
+Action is completely same :)
+Action is completely same :)
+46604b9f: There is no difference. (tryAgain=false)
+[*] FlowManager: adjust finished.
+Action is completely same :)
+Action is completely same :)
+159ceeed: There is no difference. (tryAgain=false)
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/obfuscated/sample31.apk@devRoot-D-R.apk.obfuscated_devRoot
+Wow!!!!!  --  com.beyondinc.woodel.Login.ActLogin/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 7c
+branchTarget: 72a
+label = sswitch_data_2
+GOTO -- 7c 	72a
+axmlPath: /home/santapark/Extended3/DEEPerence/obfuscated/sample31.apk@devRoot-D-R.apk.obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/obfuscated/sample31.apk@devRoot-D-R.apk.obfuscated_devRoot/sample31.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/obfuscated/sample31.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample31.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: First address of Lcom/beyondinc/woodel/Login/ActLogin;->onCreate(Landroid/os/Bundle;)V = 4c3d88
+b29e6a69: Address - Lcom/beyondinc/woodel/Login/ActLogin;->onCreate(Landroid/os/Bundle;)V@76	 lastOffset = 1c14
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/obfuscated/sample31.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample31.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/obfuscated/devRoot_sample31@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Running Application: com.beyondinc.woodel.dev
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.beyondinc.woodel.dev
+Tryging remove : uninstall com.beyondinc.woodel.dev(com.beyondinc.woodel.dev)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 971024
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 18
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+/home/santapark/Extended3/DEEPerence/obfuscated/sample31.apk@devRoot-D-R.apk.obfuscated.apk launch is failed on devRoot
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 4c3dee
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:4b9108		=(rels)=>		1
+[*] Unique action: 1:7454 : <<CALL>> : com.beyondinc.woodel.Login.ActLogin/TgbRiSsjRhPsexly:(Landroid/widget/ImageView;Landroid/view/View$OnClickListener;)V:4b9108  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:4936 : <<BRANCH>> : com.beyondinc.woodel.Login.ActLogin/onCreate:(Landroid/os/Bundle;)V:4c43f8  =>  com.beyondinc.woodel.Login.ActLogin/onCreate:(Landroid/os/Bundle;)V:4c43dc
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:4b7e3c		=(rels)=>		1
+[*] Unique action: 1:7987 : <<CALL>> : com.beyondinc.woodel.Login.ActLogin/MOHVGYDvptKdFngf:(Landroid/widget/LinearLayout;Landroid/view/View$OnClickListener;)V:4b7e3c  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:4936 : <<BRANCH>> : com.beyondinc.woodel.Login.ActLogin/onCreate:(Landroid/os/Bundle;)V:4c43f8  =>  com.beyondinc.woodel.Login.ActLogin/onCreate:(Landroid/os/Bundle;)V:4c43dc
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:4c0164		=(rels)=>		1
+[*] Unique action: 1:7914 : <<CALL>> : com.beyondinc.woodel.Login.ActLogin/txCEqIoOYZuvMcPO:(Landroid/widget/LinearLayout;Landroid/view/View$OnClickListener;)V:4c0164  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:4936 : <<BRANCH>> : com.beyondinc.woodel.Login.ActLogin/onCreate:(Landroid/os/Bundle;)V:4c43f8  =>  com.beyondinc.woodel.Login.ActLogin/onCreate:(Landroid/os/Bundle;)V:4c43dc
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:4b6d00		=(rels)=>		1
+[*] Unique action: 1:8060 : <<CALL>> : com.beyondinc.woodel.Login.ActLogin/GMVhxWZgFDKfkyLr:(Landroid/widget/LinearLayout;Landroid/view/View$OnClickListener;)V:4b6d00  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:4936 : <<BRANCH>> : com.beyondinc.woodel.Login.ActLogin/onCreate:(Landroid/os/Bundle;)V:4c43f8  =>  com.beyondinc.woodel.Login.ActLogin/onCreate:(Landroid/os/Bundle;)V:4c43dc
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:432790		=(rels)=>		1
+[*] Unique action: 1:4446 : <<CALL>> : c.b.a.l.a/nruANfatVkOYrwGk:(Landroid/widget/Button;Landroid/view/View$OnClickListener;)V:432790  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:4936 : <<BRANCH>> : com.beyondinc.woodel.Login.ActLogin/onCreate:(Landroid/os/Bundle;)V:4c43f8  =>  com.beyondinc.woodel.Login.ActLogin/onCreate:(Landroid/os/Bundle;)V:4c43dc
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:432810		=(rels)=>		1
+[*] Unique action: 1:4391 : <<CALL>> : c.b.a.l.a/sQspHxaKBAbeZCeo:(Landroid/widget/Button;Ljava/lang/CharSequence;)V:432810  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:4936 : <<BRANCH>> : com.beyondinc.woodel.Login.ActLogin/onCreate:(Landroid/os/Bundle;)V:4c43f8  =>  com.beyondinc.woodel.Login.ActLogin/onCreate:(Landroid/os/Bundle;)V:4c43dc
+android.app.Dialog/show:()V:4b9a4e		=(rels)=>		1
+[*] Unique action: 1:4330 : <<CALL>> : com.beyondinc.woodel.Login.ActLogin/WgOvfOLbhMDWaPZV:(Landroid/app/Dialog;)V:4b9a4e  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:4936 : <<BRANCH>> : com.beyondinc.woodel.Login.ActLogin/onCreate:(Landroid/os/Bundle;)V:4c43f8  =>  com.beyondinc.woodel.Login.ActLogin/onCreate:(Landroid/os/Bundle;)V:4c43dc
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:432684		=(rels)=>		1
+[*] Unique action: 1:4449 : <<CALL>> : c.b.a.l.a/ZKaEWxDwDiNNSupz:(Landroid/widget/Button;Landroid/view/View$OnClickListener;)V:432684  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:4936 : <<BRANCH>> : com.beyondinc.woodel.Login.ActLogin/onCreate:(Landroid/os/Bundle;)V:4c43f8  =>  com.beyondinc.woodel.Login.ActLogin/onCreate:(Landroid/os/Bundle;)V:4c43dc
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:4325ec		=(rels)=>		1
+[*] Unique action: 1:4394 : <<CALL>> : c.b.a.l.a/VsnZMyHtToJarrwV:(Landroid/widget/Button;Ljava/lang/CharSequence;)V:4325ec  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:4936 : <<BRANCH>> : com.beyondinc.woodel.Login.ActLogin/onCreate:(Landroid/os/Bundle;)V:4c43f8  =>  com.beyondinc.woodel.Login.ActLogin/onCreate:(Landroid/os/Bundle;)V:4c43dc
+Entry: 4c3d78
+com.beyondinc.woodel.Login.ActLogin/onCreate:(Landroid/os/Bundle;)V: 4c43f8 -> 4c43dc
+		com.beyondinc.woodel.Login.ActLogin/onCreate:(Landroid/os/Bundle;)V: 680 -> 664
+addPatchReadme: java.lang.Class<com.beyondinc.woodel.Login.ActLogin>onCreate(Landroid/os/Bundle;)V 680 t
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/obfuscated/devRoot_sample31@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Patch size: 1
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/obfuscated/sample31.apk@devRoot-D-R.apk.obfuscated_devRoot
+Wow!!!!!  --  com.beyondinc.woodel.Login.ActLogin/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 686
+branchTarget: 664
+label = sswitch_data_23
+GOTO -- 686 	664
+axmlPath: /home/santapark/Extended3/DEEPerence/obfuscated/sample31.apk@devRoot-D-R.apk.obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/obfuscated/sample31.apk@devRoot-D-R.apk.obfuscated_devRoot/sample31.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/obfuscated/sample31.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample31.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: First address of Lcom/beyondinc/woodel/Login/ActLogin;->onCreate(Landroid/os/Bundle;)V = 4c3d88
+b29e6a69: Address - Lcom/beyondinc/woodel/Login/ActLogin;->onCreate(Landroid/os/Bundle;)V@680	 lastOffset = 1c14
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/obfuscated/sample31.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample31.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/obfuscated/devRoot_sample31@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Running Application: com.beyondinc.woodel.dev
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.beyondinc.woodel.dev
+Tryging remove : uninstall com.beyondinc.woodel.dev(com.beyondinc.woodel.dev)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 970811
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 17
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+/home/santapark/Extended3/DEEPerence/obfuscated/sample31.apk@devRoot-D-R.apk.obfuscated.apk launch is failed on devRoot
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 4c3dee
+-- current localPatchFilter: 4c43f8
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:4b9108		=(rels)=>		1
+[*] Unique action: 1:7454 : <<CALL>> : com.beyondinc.woodel.Login.ActLogin/TgbRiSsjRhPsexly:(Landroid/widget/ImageView;Landroid/view/View$OnClickListener;)V:4b9108  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:4933 : <<BRANCH>> : com.beyondinc.woodel.Login.ActLogin/onCreate:(Landroid/os/Bundle;)V:4c4400  =>  com.beyondinc.woodel.Login.ActLogin/onCreate:(Landroid/os/Bundle;)V:4c440a
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:4b7e3c		=(rels)=>		1
+[*] Unique action: 1:7987 : <<CALL>> : com.beyondinc.woodel.Login.ActLogin/MOHVGYDvptKdFngf:(Landroid/widget/LinearLayout;Landroid/view/View$OnClickListener;)V:4b7e3c  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:4933 : <<BRANCH>> : com.beyondinc.woodel.Login.ActLogin/onCreate:(Landroid/os/Bundle;)V:4c4400  =>  com.beyondinc.woodel.Login.ActLogin/onCreate:(Landroid/os/Bundle;)V:4c440a
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:4c0164		=(rels)=>		1
+[*] Unique action: 1:7914 : <<CALL>> : com.beyondinc.woodel.Login.ActLogin/txCEqIoOYZuvMcPO:(Landroid/widget/LinearLayout;Landroid/view/View$OnClickListener;)V:4c0164  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:4933 : <<BRANCH>> : com.beyondinc.woodel.Login.ActLogin/onCreate:(Landroid/os/Bundle;)V:4c4400  =>  com.beyondinc.woodel.Login.ActLogin/onCreate:(Landroid/os/Bundle;)V:4c440a
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:4b6d00		=(rels)=>		1
+[*] Unique action: 1:8060 : <<CALL>> : com.beyondinc.woodel.Login.ActLogin/GMVhxWZgFDKfkyLr:(Landroid/widget/LinearLayout;Landroid/view/View$OnClickListener;)V:4b6d00  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:4933 : <<BRANCH>> : com.beyondinc.woodel.Login.ActLogin/onCreate:(Landroid/os/Bundle;)V:4c4400  =>  com.beyondinc.woodel.Login.ActLogin/onCreate:(Landroid/os/Bundle;)V:4c440a
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:432790		=(rels)=>		1
+[*] Unique action: 1:4446 : <<CALL>> : c.b.a.l.a/nruANfatVkOYrwGk:(Landroid/widget/Button;Landroid/view/View$OnClickListener;)V:432790  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:4933 : <<BRANCH>> : com.beyondinc.woodel.Login.ActLogin/onCreate:(Landroid/os/Bundle;)V:4c4400  =>  com.beyondinc.woodel.Login.ActLogin/onCreate:(Landroid/os/Bundle;)V:4c440a
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:432810		=(rels)=>		1
+[*] Unique action: 1:4391 : <<CALL>> : c.b.a.l.a/sQspHxaKBAbeZCeo:(Landroid/widget/Button;Ljava/lang/CharSequence;)V:432810  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:4933 : <<BRANCH>> : com.beyondinc.woodel.Login.ActLogin/onCreate:(Landroid/os/Bundle;)V:4c4400  =>  com.beyondinc.woodel.Login.ActLogin/onCreate:(Landroid/os/Bundle;)V:4c440a
+android.app.Dialog/show:()V:4b9a4e		=(rels)=>		1
+[*] Unique action: 1:4330 : <<CALL>> : com.beyondinc.woodel.Login.ActLogin/WgOvfOLbhMDWaPZV:(Landroid/app/Dialog;)V:4b9a4e  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:4933 : <<BRANCH>> : com.beyondinc.woodel.Login.ActLogin/onCreate:(Landroid/os/Bundle;)V:4c4400  =>  com.beyondinc.woodel.Login.ActLogin/onCreate:(Landroid/os/Bundle;)V:4c440a
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:432684		=(rels)=>		1
+[*] Unique action: 1:4449 : <<CALL>> : c.b.a.l.a/ZKaEWxDwDiNNSupz:(Landroid/widget/Button;Landroid/view/View$OnClickListener;)V:432684  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:4933 : <<BRANCH>> : com.beyondinc.woodel.Login.ActLogin/onCreate:(Landroid/os/Bundle;)V:4c4400  =>  com.beyondinc.woodel.Login.ActLogin/onCreate:(Landroid/os/Bundle;)V:4c440a
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:4325ec		=(rels)=>		1
+[*] Unique action: 1:4394 : <<CALL>> : c.b.a.l.a/VsnZMyHtToJarrwV:(Landroid/widget/Button;Ljava/lang/CharSequence;)V:4325ec  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:4933 : <<BRANCH>> : com.beyondinc.woodel.Login.ActLogin/onCreate:(Landroid/os/Bundle;)V:4c4400  =>  com.beyondinc.woodel.Login.ActLogin/onCreate:(Landroid/os/Bundle;)V:4c440a
+Entry: 4c3d78
+com.beyondinc.woodel.Login.ActLogin/onCreate:(Landroid/os/Bundle;)V: 4c4400 -> 4c440a
+		com.beyondinc.woodel.Login.ActLogin/onCreate:(Landroid/os/Bundle;)V: 688 -> 692
+addPatchReadme: java.lang.Class<com.beyondinc.woodel.Login.ActLogin>onCreate(Landroid/os/Bundle;)V 688 t
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/obfuscated/devRoot_sample31@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Patch size: 1
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/obfuscated/sample31.apk@devRoot-D-R.apk.obfuscated_devRoot
+Wow!!!!!  --  com.beyondinc.woodel.Login.ActLogin/onCreate:(Landroid/os/Bundle;)V
+fallthrough: 68c
+branchTarget: 692
+label = cond_11
+GOTO -- 68c 	692
+axmlPath: /home/santapark/Extended3/DEEPerence/obfuscated/sample31.apk@devRoot-D-R.apk.obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/obfuscated/sample31.apk@devRoot-D-R.apk.obfuscated_devRoot/sample31.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/obfuscated/sample31.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample31.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: First address of Lcom/beyondinc/woodel/Login/ActLogin;->onCreate(Landroid/os/Bundle;)V = 4c3d88
+b29e6a69: Address - Lcom/beyondinc/woodel/Login/ActLogin;->onCreate(Landroid/os/Bundle;)V@688	 lastOffset = 1c14
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/obfuscated/sample31.apk@devRoot-D-R.apk.obfuscated_devRoot/signed_sample31.apk@devRoot-D-R.apk.obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/obfuscated/devRoot_sample31@devRoot-D-R.obfuscated.ilog)
+b29e6a69: Running Application: com.beyondinc.woodel.dev
+b29e6a69: Top-activity: com.beyondinc.woodel.dev/com.beyondinc.woodel.Login.ActLogin
+PIDs--------------------------------------------------------------------------
+u0_a3432       8035    428 14887844 140616 0                  0 S com.beyondinc.woodel.dev
+b29e6a69: Terminated logcat thread...by itself
+PIDs--------------------------------------------------------------------------
+u0_a3432       8035    428 14887844 140616 0                  0 S com.beyondinc.woodel.dev
+Stopping app: com.beyondinc.woodel.dev
+Tryging remove : uninstall com.beyondinc.woodel.dev(com.beyondinc.woodel.dev)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 199811488
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 16
+b29e6a69: isFailedToLaunch: com.beyondinc.woodel.dev/com.beyondinc.woodel.Login.ActLogin
+b29e6a69: 	--result: Good :)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/obfuscated/devRef_sample31@devRoot-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/obfuscated/devRoot_sample31@devRoot-D-R.obfuscated.ilog)
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 4c4400
+Action is completely same :)
+Action is completely same :)
+b29e6a69: There is no difference. (tryAgain=false)
+-- HPFinder will be done in this iteration :)
+hasAntiAnalysis? - devTamper: false on com.beyondinc.woodel.Login.ActLogin
+hasAntiAnalysis? - devRoot: true on com.beyondinc.woodel.Login.ActLogin
+	isRemovedThem? - devRoot: true on com.beyondinc.woodel.Login.ActLogin	-	tryCount: 3
+hasAntiAnalysis? - devDebug: false on com.beyondinc.woodel.Login.ActLogin
+*****REPORT: com.beyondinc.woodel.dev
+* Package name: com.beyondinc.woodel.dev
+* Running time: 414
+* FileSize: 12290056
+devTamper : 210664002
+devRef : 335949684
+devRoot : 199811488
+devDebug : 221215625
+hasAntiAnalysis? - devTamper: false on com.beyondinc.woodel.Login.ActLogin
+hasAntiAnalysis? - devRoot: true on com.beyondinc.woodel.Login.ActLogin
+	isRemovedThem? - devRoot: true on com.beyondinc.woodel.Login.ActLogin	-	tryCount: 3
+hasAntiAnalysis? - devDebug: false on com.beyondinc.woodel.Login.ActLogin
+46604b9f: trying remove : com.beyondinc.woodel.dev
+3601a6ff: trying remove : com.beyondinc.woodel.dev
+b29e6a69: trying remove : com.beyondinc.woodel.dev
+159ceeed: trying remove : com.beyondinc.woodel.dev
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+3601a6ff: result = true
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+159ceeed: result = true
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+b29e6a69: result = true
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+46604b9f: result = true
+3601a6ff: isFailedToLaunch: com.beyondinc.woodel.dev/com.beyondinc.woodel.Login.ActLogin
+3601a6ff: 	--result: Good :)

@@ -1,0 +1,494 @@
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/com.obs.android.olm.tristate.prod.apk.obfuscated_flattened/AndroidManifest.xml
+launchable-activity: name='com.obs.android.messenger.MainActivity'  label='' icon=''
+{ACTIVITY, com.obs.android.messenger.MainActivity, android.intent.action.MAIN}
+{ACTIVITY, com.obs.mobile_tablet.components.CheckImageActivity}
+{ACTIVITY, com.obs.mobile_tablet.transactions.deposits.DepositsCaptureImageActivity}
+{ACTIVITY, com.obs.android.shared.RegistrationActivity}
+{ACTIVITY, com.obs.android.messenger.MainActivity, android.intent.action.MAIN}
+{ACTIVITY, com.obs.mobile_tablet.components.CheckImageActivity}
+{ACTIVITY, com.obs.mobile_tablet.transactions.deposits.DepositsCaptureImageActivity}
+{ACTIVITY, com.obs.android.shared.RegistrationActivity}
+_getAllDexFiles: /home/santapark/Extended3/DEEPerence/reEx/com.obs.android.olm.tristate.prod.apk.obfuscated_flattened/classes.dex
+----------------/home/santapark/Extended3/DEEPerence/reEx/com.obs.android.olm.tristate.prod.apk.obfuscated_flattened.apk
+dexFile = org.jf.dexlib2.dexbacked.DexBackedDexFile@284f2861
+com.obs.android.olm.tristate.prod
+com.obs.android.messenger.MainActivity
+debuggable: false
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/com.obs.android.olm.tristate.prod.apk.obfuscated_flattened.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/com.obs.android.olm.tristate.prod.apk.obfuscated_flattened.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/com.obs.android.olm.tristate.prod.apk.obfuscated_flattened.apk
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/com.obs.android.olm.tristate.prod.apk.obfuscated_flattened_46604b9f/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/com.obs.android.olm.tristate.prod.apk.obfuscated_flattened_46604b9f/com.obs.android.olm.tristate.prod.apk.obfuscated_flattened.apk
+46604b9f: Installing repackaged apk File: 
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/com.obs.android.olm.tristate.prod.apk.obfuscated_flattened_46604b9f/signed_com.obs.android.olm.tristate.prod.apk.obfuscated_flattened.apk
+159ceeed: Installation Success
+3601a6ff: Installation Success
+b29e6a69: Installation Success
+46604b9f: Installation Success
+46604b9f: startApplication called! - devTamper
+3601a6ff: startApplication called! - devRef
+b29e6a69: startApplication called! - devRoot
+159ceeed: startApplication called! - devDebug
+3601a6ff: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRef_com.obs.android.olm.tristate.prod.obfuscated_flattened.ilog)
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_com.obs.android.olm.tristate.prod.obfuscated_flattened.ilog)
+46604b9f: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devTamper_com.obs.android.olm.tristate.prod.obfuscated_flattened.ilog)
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_com.obs.android.olm.tristate.prod.obfuscated_flattened.ilog)
+b29e6a69: Running Application: com.obs.android.olm.tristate.prod
+3601a6ff: Running Application: com.obs.android.olm.tristate.prod
+46604b9f: Running Application: com.obs.android.olm.tristate.prod
+PIDs--------------------------------------------------------------------------
+u0_a745        3348    423 14434168 94600 0                   0 R com.obs.android.olm.tristate.prod
+forward tcp:35535 jdwp:3348
+[*]Found JDWP Target: 3348
+159ceeed: Running Application: com.obs.android.olm.tristate.prod
+PIDs--------------------------------------------------------------------------
+u0_a745        3990    423 13763292 102040 0                  0 R com.obs.android.olm.tristate.prod
+159ceeed: pid changed(3348) --> 3990
+b29e6a69: Terminated logcat thread...by itself
+3601a6ff: Terminated logcat thread...by itself
+46604b9f: Terminated logcat thread...by itself
+46604b9f: Top-activity: com.obs.android.olm.tristate.prod/com.obs.android.shared.RegistrationActivity
+PIDs--------------------------------------------------------------------------
+u0_a304        8033    425 14214872 173296 0                  0 S com.obs.android.olm.tristate.prod
+46604b9f: savedPid = 8033
+3601a6ff: Top-activity: com.obs.android.olm.tristate.prod/com.obs.android.shared.RegistrationActivity
+PIDs--------------------------------------------------------------------------
+u0_a304        8033    425 14214872 173296 0                  0 S com.obs.android.olm.tristate.prod
+46604b9f: savedPid2 = 8033
+Stopping app: com.obs.android.olm.tristate.prod
+PIDs--------------------------------------------------------------------------
+u0_a360       11777    414 14247564 171136 0                  0 S com.obs.android.olm.tristate.prod
+3601a6ff: savedPid = 11777
+PIDs--------------------------------------------------------------------------
+u0_a360       11777    414 14247564 171136 0                  0 S com.obs.android.olm.tristate.prod
+3601a6ff: savedPid2 = 11777
+Stopping app: com.obs.android.olm.tristate.prod
+b29e6a69: Top-activity: com.obs.android.olm.tristate.prod/com.obs.android.messenger.MainActivity
+PIDs--------------------------------------------------------------------------
+u0_a416       16132    430 14532404 67920 0                   0 R com.obs.android.olm.tristate.prod
+b29e6a69: savedPid = 16132
+PIDs--------------------------------------------------------------------------
+u0_a416       16132    430 13907828 96712 0                   0 R com.obs.android.olm.tristate.prod
+b29e6a69: savedPid2 = 16132
+Stopping app: com.obs.android.olm.tristate.prod
+159ceeed: Terminated logcat thread...by itself
+159ceeed: Top-activity: com.obs.android.olm.tristate.prod/com.obs.android.messenger.MainActivity
+PIDs--------------------------------------------------------------------------
+159ceeed: savedPid = null
+PIDs--------------------------------------------------------------------------
+159ceeed: savedPid2 = null
+Stopping app: com.obs.android.olm.tristate.prod
+Tryging remove : uninstall com.obs.android.olm.tristate.prod(com.obs.android.olm.tristate.prod)
+46604b9f: Remove Success
+46604b9f: ilog file size: 111732454
+46604b9f: End of collecting logcat...
+Tryging remove : uninstall com.obs.android.olm.tristate.prod(com.obs.android.olm.tristate.prod)
+3601a6ff: Remove Success
+3601a6ff: ilog file size: 179536010
+3601a6ff: End of collecting logcat...
+Tryging remove : uninstall com.obs.android.olm.tristate.prod(com.obs.android.olm.tristate.prod)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 51906663
+b29e6a69: End of collecting logcat...
+Tryging remove : uninstall com.obs.android.olm.tristate.prod(com.obs.android.olm.tristate.prod)
+159ceeed: Remove Success
+159ceeed: ilog file size: 60946112
+159ceeed: End of collecting logcat...
+HPFinder's try count remains: 29
+Target PID : 11777
+Target PID : 11777
+Target PID : 11777
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_com.obs.android.olm.tristate.prod.obfuscated_flattened.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_com.obs.android.olm.tristate.prod.obfuscated_flattened.ilog)
+Target PID : 8033
+Target PID : 
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_com.obs.android.olm.tristate.prod.obfuscated_flattened.ilog)
+Target PID : 16132
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_com.obs.android.olm.tristate.prod.obfuscated_flattened.ilog)
+ExitReason-Code: 6 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_com.obs.android.olm.tristate.prod.obfuscated_flattened.ilog)
+[*] FlowManager: adjust finished.
+[GOOD]: Anti-analysis is identified! :) -- 1 --devRoot
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:372b16		=(rels)=>		1
+[*] Unique action: 1:88277 : <<CALL>> : com.obs.mobile_tablet.MainActivity/a:(Landroid/view/LayoutInflater;Landroid/view/ViewGroup;Landroid/os/Bundle;)Landroid/view/View;:372b16  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+[*] FlowManager: adjust finished.
+[GOOD]: Anti-analysis is identified! :) -- 1 --devDebug
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:372b16		=(rels)=>		1
+[*] Unique action: 1:88277 : <<CALL>> : com.obs.mobile_tablet.MainActivity/a:(Landroid/view/LayoutInflater;Landroid/view/ViewGroup;Landroid/os/Bundle;)Landroid/view/View;:372b16  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devTamper_com.obs.android.olm.tristate.prod.obfuscated_flattened.ilog)
+	1:compareBackwardBranch: 1:1134 : <<BRANCH>> : com.obs.android.shared.CBSApplication/b:(Landroid/content/Context;)Z:344fde  =>  com.obs.android.shared.CBSApplication/b:(Landroid/content/Context;)Z:344fd8
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:372a76		=(rels)=>		1
+[*] Unique action: 1:88258 : <<CALL>> : com.obs.mobile_tablet.MainActivity/a:(Landroid/view/LayoutInflater;Landroid/view/ViewGroup;Landroid/os/Bundle;)Landroid/view/View;:372a76  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:1322 : <<BRANCH>> : com.obs.android.shared.a.a/a:(Landroid/content/Context;)Z:3569f6  =>  com.obs.android.shared.a.a/a:(Landroid/content/Context;)Z:356a06
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:372a76		=(rels)=>		1
+[*] Unique action: 1:88258 : <<CALL>> : com.obs.mobile_tablet.MainActivity/a:(Landroid/view/LayoutInflater;Landroid/view/ViewGroup;Landroid/os/Bundle;)Landroid/view/View;:372a76  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:1134 : <<BRANCH>> : com.obs.android.shared.CBSApplication/b:(Landroid/content/Context;)Z:344fde  =>  com.obs.android.shared.CBSApplication/b:(Landroid/content/Context;)Z:344fd8
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:28d3ca		=(rels)=>		1
+[*] Unique action: 1:25500 : <<CALL>> : android.support.v7.widget.Toolbar/a:(Landroid/view/View;Z)V:28d3ca  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+	1:compareBackwardBranch: 1:1322 : <<BRANCH>> : com.obs.android.shared.a.a/a:(Landroid/content/Context;)Z:3569f6  =>  com.obs.android.shared.a.a/a:(Landroid/content/Context;)Z:356a06
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:28d3ca		=(rels)=>		1
+[*] Unique action: 1:25500 : <<CALL>> : android.support.v7.widget.Toolbar/a:(Landroid/view/View;Z)V:28d3ca  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+	1:compareBackwardBranch: 1:1134 : <<BRANCH>> : com.obs.android.shared.CBSApplication/b:(Landroid/content/Context;)Z:344fde  =>  com.obs.android.shared.CBSApplication/b:(Landroid/content/Context;)Z:344fd8
+android.view.ViewGroup/addView:(Landroid/view/View;)V:297d2a		=(rels)=>		1
+[*] Unique action: 1:87911 : <<CALL>> : android.support.v7.widget.aw/a:(Landroid/view/View;)V:297d2a  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:1322 : <<BRANCH>> : com.obs.android.shared.a.a/a:(Landroid/content/Context;)Z:3569f6  =>  com.obs.android.shared.a.a/a:(Landroid/content/Context;)Z:356a06
+android.view.ViewGroup/addView:(Landroid/view/View;)V:297d2a		=(rels)=>		1
+[*] Unique action: 1:87911 : <<CALL>> : android.support.v7.widget.aw/a:(Landroid/view/View;)V:297d2a  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:1134 : <<BRANCH>> : com.obs.android.shared.CBSApplication/b:(Landroid/content/Context;)Z:344fde  =>  com.obs.android.shared.CBSApplication/b:(Landroid/content/Context;)Z:344fd8
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:27a982		=(rels)=>		1
+[*] Unique action: 1:107529 : <<CALL>> : android.support.v7.app.m/a:(Landroid/view/View;Landroid/util/AttributeSet;)V:27a982  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:1322 : <<BRANCH>> : com.obs.android.shared.a.a/a:(Landroid/content/Context;)Z:3569f6  =>  com.obs.android.shared.a.a/a:(Landroid/content/Context;)Z:356a06
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:27a982		=(rels)=>		1
+[*] Unique action: 1:107529 : <<CALL>> : android.support.v7.app.m/a:(Landroid/view/View;Landroid/util/AttributeSet;)V:27a982  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:1134 : <<BRANCH>> : com.obs.android.shared.CBSApplication/b:(Landroid/content/Context;)Z:344fde  =>  com.obs.android.shared.CBSApplication/b:(Landroid/content/Context;)Z:344fd8
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:351410		=(rels)=>		1
+[*] Unique action: 1:112609 : <<CALL>> : com.obs.android.shared.RegistrationActivity$e/a:(Landroid/view/LayoutInflater;Landroid/view/ViewGroup;Landroid/os/Bundle;)Landroid/view/View;:351410  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:1322 : <<BRANCH>> : com.obs.android.shared.a.a/a:(Landroid/content/Context;)Z:3569f6  =>  com.obs.android.shared.a.a/a:(Landroid/content/Context;)Z:356a06
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:351410		=(rels)=>		1
+[*] Unique action: 1:112609 : <<CALL>> : com.obs.android.shared.RegistrationActivity$e/a:(Landroid/view/LayoutInflater;Landroid/view/ViewGroup;Landroid/os/Bundle;)Landroid/view/View;:351410  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:1134 : <<BRANCH>> : com.obs.android.shared.CBSApplication/b:(Landroid/content/Context;)Z:344fde  =>  com.obs.android.shared.CBSApplication/b:(Landroid/content/Context;)Z:344fd8
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:28f42e		=(rels)=>		1
+[*] Unique action: 1:25508 : <<CALL>> : android.support.v7.widget.Toolbar/setTitle:(Ljava/lang/CharSequence;)V:28f42e  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:1322 : <<BRANCH>> : com.obs.android.shared.a.a/a:(Landroid/content/Context;)Z:3569f6  =>  com.obs.android.shared.a.a/a:(Landroid/content/Context;)Z:356a06
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:28f42e		=(rels)=>		1
+[*] Unique action: 1:25508 : <<CALL>> : android.support.v7.widget.Toolbar/setTitle:(Ljava/lang/CharSequence;)V:28f42e  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:1134 : <<BRANCH>> : com.obs.android.shared.CBSApplication/b:(Landroid/content/Context;)Z:344fde  =>  com.obs.android.shared.CBSApplication/b:(Landroid/content/Context;)Z:344fd8
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:372850		=(rels)=>		1
+[*] Unique action: 1:87797 : <<CALL>> : com.obs.mobile_tablet.MainActivity/a:(Landroid/view/LayoutInflater;Landroid/view/ViewGroup;Landroid/os/Bundle;)Landroid/view/View;:372850  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:1322 : <<BRANCH>> : com.obs.android.shared.a.a/a:(Landroid/content/Context;)Z:3569f6  =>  com.obs.android.shared.a.a/a:(Landroid/content/Context;)Z:356a06
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:372850		=(rels)=>		1
+[*] Unique action: 1:87797 : <<CALL>> : com.obs.mobile_tablet.MainActivity/a:(Landroid/view/LayoutInflater;Landroid/view/ViewGroup;Landroid/os/Bundle;)Landroid/view/View;:372850  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:1134 : <<BRANCH>> : com.obs.android.shared.CBSApplication/b:(Landroid/content/Context;)Z:344fde  =>  com.obs.android.shared.CBSApplication/b:(Landroid/content/Context;)Z:344fd8
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:34e37c		=(rels)=>		1
+[*] Unique action: 1:114744 : <<CALL>> : com.obs.android.shared.RegistrationActivity$a/a:(Landroid/view/LayoutInflater;Landroid/view/ViewGroup;Landroid/os/Bundle;)Landroid/view/View;:34e37c  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:1322 : <<BRANCH>> : com.obs.android.shared.a.a/a:(Landroid/content/Context;)Z:3569f6  =>  com.obs.android.shared.a.a/a:(Landroid/content/Context;)Z:356a06
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:34e37c		=(rels)=>		1
+[*] Unique action: 1:114744 : <<CALL>> : com.obs.android.shared.RegistrationActivity$a/a:(Landroid/view/LayoutInflater;Landroid/view/ViewGroup;Landroid/os/Bundle;)Landroid/view/View;:34e37c  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:1134 : <<BRANCH>> : com.obs.android.shared.CBSApplication/b:(Landroid/content/Context;)Z:344fde  =>  com.obs.android.shared.CBSApplication/b:(Landroid/content/Context;)Z:344fd8
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:37283c		=(rels)=>		1
+[*] Unique action: 1:87789 : <<CALL>> : com.obs.mobile_tablet.MainActivity/a:(Landroid/view/LayoutInflater;Landroid/view/ViewGroup;Landroid/os/Bundle;)Landroid/view/View;:37283c  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:1322 : <<BRANCH>> : com.obs.android.shared.a.a/a:(Landroid/content/Context;)Z:3569f6  =>  com.obs.android.shared.a.a/a:(Landroid/content/Context;)Z:356a06
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:37283c		=(rels)=>		1
+[*] Unique action: 1:87789 : <<CALL>> : com.obs.mobile_tablet.MainActivity/a:(Landroid/view/LayoutInflater;Landroid/view/ViewGroup;Landroid/os/Bundle;)Landroid/view/View;:37283c  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:1134 : <<BRANCH>> : com.obs.android.shared.CBSApplication/b:(Landroid/content/Context;)Z:344fde  =>  com.obs.android.shared.CBSApplication/b:(Landroid/content/Context;)Z:344fd8
+org.apache.http.impl.client.DefaultHttpClient/<init>:(Lorg/apache/http/conn/ClientConnectionManager;Lorg/apache/http/params/HttpParams;)V:3f8412		=(rels)=>		1
+[*] Unique action: 1:26759 : <<CALL>> : org.c.a.a.b/<init>:()V:3f8412  =>  org.apache.http.impl.client.DefaultHttpClient/<init>:(Lorg/apache/http/conn/ClientConnectionManager;Lorg/apache/http/params/HttpParams;)V:31acc
+	1:compareBackwardBranch: 1:1134 : <<BRANCH>> : com.obs.android.shared.CBSApplication/b:(Landroid/content/Context;)Z:344fde  =>  com.obs.android.shared.CBSApplication/b:(Landroid/content/Context;)Z:344fd8
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:390f68		=(rels)=>		1
+[*] Unique action: 1:94545 : <<CALL>> : com.obs.mobile_tablet.navigation.MainNavigation_ViewBinding/<init>:(Lcom/obs/mobile_tablet/navigation/MainNavigation;Landroid/view/View;)V:390f68  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:1322 : <<BRANCH>> : com.obs.android.shared.a.a/a:(Landroid/content/Context;)Z:3569f6  =>  com.obs.android.shared.a.a/a:(Landroid/content/Context;)Z:356a06
+org.apache.http.impl.client.DefaultHttpClient/<init>:(Lorg/apache/http/conn/ClientConnectionManager;Lorg/apache/http/params/HttpParams;)V:3f8412		=(rels)=>		1
+[*] Unique action: 1:26759 : <<CALL>> : org.c.a.a.b/<init>:()V:3f8412  =>  org.apache.http.impl.client.DefaultHttpClient/<init>:(Lorg/apache/http/conn/ClientConnectionManager;Lorg/apache/http/params/HttpParams;)V:31acc
+	1:compareBackwardBranch: 1:1322 : <<BRANCH>> : com.obs.android.shared.a.a/a:(Landroid/content/Context;)Z:3569f6  =>  com.obs.android.shared.a.a/a:(Landroid/content/Context;)Z:356a06
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:390f68		=(rels)=>		1
+[*] Unique action: 1:94545 : <<CALL>> : com.obs.mobile_tablet.navigation.MainNavigation_ViewBinding/<init>:(Lcom/obs/mobile_tablet/navigation/MainNavigation;Landroid/view/View;)V:390f68  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:1134 : <<BRANCH>> : com.obs.android.shared.CBSApplication/b:(Landroid/content/Context;)Z:344fde  =>  com.obs.android.shared.CBSApplication/b:(Landroid/content/Context;)Z:344fd8
+android.view.ViewGroup/addView:(Landroid/view/View;)V:250534		=(rels)=>		1
+[*] Unique action: 1:88287 : <<CALL>> : android.support.v4.a.n/a:(Landroid/support/v4/a/h;IIIZ)V:250534  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:1322 : <<BRANCH>> : com.obs.android.shared.a.a/a:(Landroid/content/Context;)Z:3569f6  =>  com.obs.android.shared.a.a/a:(Landroid/content/Context;)Z:356a06
+android.view.ViewGroup/addView:(Landroid/view/View;)V:250534		=(rels)=>		1
+[*] Unique action: 1:88287 : <<CALL>> : android.support.v4.a.n/a:(Landroid/support/v4/a/h;IIIZ)V:250534  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:1134 : <<BRANCH>> : com.obs.android.shared.CBSApplication/b:(Landroid/content/Context;)Z:344fde  =>  com.obs.android.shared.CBSApplication/b:(Landroid/content/Context;)Z:344fd8
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:390eaa		=(rels)=>		1
+[*] Unique action: 1:94527 : <<CALL>> : com.obs.mobile_tablet.navigation.MainNavigation_ViewBinding/<init>:(Lcom/obs/mobile_tablet/navigation/MainNavigation;Landroid/view/View;)V:390eaa  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:1322 : <<BRANCH>> : com.obs.android.shared.a.a/a:(Landroid/content/Context;)Z:3569f6  =>  com.obs.android.shared.a.a/a:(Landroid/content/Context;)Z:356a06
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:390eaa		=(rels)=>		1
+[*] Unique action: 1:94527 : <<CALL>> : com.obs.mobile_tablet.navigation.MainNavigation_ViewBinding/<init>:(Lcom/obs/mobile_tablet/navigation/MainNavigation;Landroid/view/View;)V:390eaa  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:1134 : <<BRANCH>> : com.obs.android.shared.CBSApplication/b:(Landroid/content/Context;)Z:344fde  =>  com.obs.android.shared.CBSApplication/b:(Landroid/content/Context;)Z:344fd8
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:28f19e		=(rels)=>		1
+[*] Unique action: 1:25080 : <<CALL>> : android.support.v7.widget.Toolbar/setNavigationOnClickListener:(Landroid/view/View$OnClickListener;)V:28f19e  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:1134 : <<BRANCH>> : com.obs.android.shared.CBSApplication/b:(Landroid/content/Context;)Z:344fde  =>  com.obs.android.shared.CBSApplication/b:(Landroid/content/Context;)Z:344fd8
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:390f8e		=(rels)=>		1
+[*] Unique action: 1:94553 : <<CALL>> : com.obs.mobile_tablet.navigation.MainNavigation_ViewBinding/<init>:(Lcom/obs/mobile_tablet/navigation/MainNavigation;Landroid/view/View;)V:390f8e  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:1322 : <<BRANCH>> : com.obs.android.shared.a.a/a:(Landroid/content/Context;)Z:3569f6  =>  com.obs.android.shared.a.a/a:(Landroid/content/Context;)Z:356a06
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:28f19e		=(rels)=>		1
+[*] Unique action: 1:25080 : <<CALL>> : android.support.v7.widget.Toolbar/setNavigationOnClickListener:(Landroid/view/View$OnClickListener;)V:28f19e  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:1322 : <<BRANCH>> : com.obs.android.shared.a.a/a:(Landroid/content/Context;)Z:3569f6  =>  com.obs.android.shared.a.a/a:(Landroid/content/Context;)Z:356a06
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:390f8e		=(rels)=>		1
+[*] Unique action: 1:94553 : <<CALL>> : com.obs.mobile_tablet.navigation.MainNavigation_ViewBinding/<init>:(Lcom/obs/mobile_tablet/navigation/MainNavigation;Landroid/view/View;)V:390f8e  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:1134 : <<BRANCH>> : com.obs.android.shared.CBSApplication/b:(Landroid/content/Context;)Z:344fde  =>  com.obs.android.shared.CBSApplication/b:(Landroid/content/Context;)Z:344fd8
+android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:2b0a7c		=(rels)=>		1
+[*] Unique action: 1:97833 : <<CALL>> : com.a.a.a/onActivityPaused:(Landroid/app/Activity;)V:2b0a7c  =>  android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:30ca84
+	1:compareBackwardBranch: 1:1322 : <<BRANCH>> : com.obs.android.shared.a.a/a:(Landroid/content/Context;)Z:3569f6  =>  com.obs.android.shared.a.a/a:(Landroid/content/Context;)Z:356a06
+android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:2b0a7c		=(rels)=>		1
+[*] Unique action: 1:97833 : <<CALL>> : com.a.a.a/onActivityPaused:(Landroid/app/Activity;)V:2b0a7c  =>  android.os.Handler/postDelayed:(Ljava/lang/Runnable;J)Z:30ca84
+	1:compareBackwardBranch: 1:1134 : <<BRANCH>> : com.obs.android.shared.CBSApplication/b:(Landroid/content/Context;)Z:344fde  =>  com.obs.android.shared.CBSApplication/b:(Landroid/content/Context;)Z:344fd8
+android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:238094		=(rels)=>		1
+[*] Unique action: 1:26477 : <<CALL>> : android.support.constraint.ConstraintLayout/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:238094  =>  android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:1959fc
+	1:compareBackwardBranch: 1:1134 : <<BRANCH>> : com.obs.android.shared.CBSApplication/b:(Landroid/content/Context;)Z:344fde  =>  com.obs.android.shared.CBSApplication/b:(Landroid/content/Context;)Z:344fd8
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:37340e		=(rels)=>		1
+[*] Unique action: 1:96940 : <<CALL>> : com.obs.mobile_tablet.MainActivity/permissionsUpdate:(Lcom/obs/mobile_core/b/a/k;)V:37340e  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:1322 : <<BRANCH>> : com.obs.android.shared.a.a/a:(Landroid/content/Context;)Z:3569f6  =>  com.obs.android.shared.a.a/a:(Landroid/content/Context;)Z:356a06
+android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:238094		=(rels)=>		1
+[*] Unique action: 1:26477 : <<CALL>> : android.support.constraint.ConstraintLayout/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:238094  =>  android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:1959fc
+	1:compareBackwardBranch: 1:1322 : <<BRANCH>> : com.obs.android.shared.a.a/a:(Landroid/content/Context;)Z:3569f6  =>  com.obs.android.shared.a.a/a:(Landroid/content/Context;)Z:356a06
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:37340e		=(rels)=>		1
+[*] Unique action: 1:96940 : <<CALL>> : com.obs.mobile_tablet.MainActivity/permissionsUpdate:(Lcom/obs/mobile_core/b/a/k;)V:37340e  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:1134 : <<BRANCH>> : com.obs.android.shared.CBSApplication/b:(Landroid/content/Context;)Z:344fde  =>  com.obs.android.shared.CBSApplication/b:(Landroid/content/Context;)Z:344fd8
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:390e84		=(rels)=>		1
+[*] Unique action: 1:94517 : <<CALL>> : com.obs.mobile_tablet.navigation.MainNavigation_ViewBinding/<init>:(Lcom/obs/mobile_tablet/navigation/MainNavigation;Landroid/view/View;)V:390e84  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:1322 : <<BRANCH>> : com.obs.android.shared.a.a/a:(Landroid/content/Context;)Z:3569f6  =>  com.obs.android.shared.a.a/a:(Landroid/content/Context;)Z:356a06
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:390e84		=(rels)=>		1
+[*] Unique action: 1:94517 : <<CALL>> : com.obs.mobile_tablet.navigation.MainNavigation_ViewBinding/<init>:(Lcom/obs/mobile_tablet/navigation/MainNavigation;Landroid/view/View;)V:390e84  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:1134 : <<BRANCH>> : com.obs.android.shared.CBSApplication/b:(Landroid/content/Context;)Z:344fde  =>  com.obs.android.shared.CBSApplication/b:(Landroid/content/Context;)Z:344fd8
+android.view.ViewGroup/addView:(Landroid/view/View;)V:3426ca		=(rels)=>		1
+[*] Unique action: 1:27345 : <<CALL>> : com.obs.android.messenger.MainActivity/onCreate:(Landroid/os/Bundle;)V:3426ca  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:1134 : <<BRANCH>> : com.obs.android.shared.CBSApplication/b:(Landroid/content/Context;)Z:344fde  =>  com.obs.android.shared.CBSApplication/b:(Landroid/content/Context;)Z:344fd8
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:391026		=(rels)=>		1
+[*] Unique action: 1:94569 : <<CALL>> : com.obs.mobile_tablet.navigation.MainNavigation_ViewBinding/<init>:(Lcom/obs/mobile_tablet/navigation/MainNavigation;Landroid/view/View;)V:391026  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:1322 : <<BRANCH>> : com.obs.android.shared.a.a/a:(Landroid/content/Context;)Z:3569f6  =>  com.obs.android.shared.a.a/a:(Landroid/content/Context;)Z:356a06
+android.view.ViewGroup/addView:(Landroid/view/View;)V:3426ca		=(rels)=>		1
+[*] Unique action: 1:27345 : <<CALL>> : com.obs.android.messenger.MainActivity/onCreate:(Landroid/os/Bundle;)V:3426ca  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch: 1:1322 : <<BRANCH>> : com.obs.android.shared.a.a/a:(Landroid/content/Context;)Z:3569f6  =>  com.obs.android.shared.a.a/a:(Landroid/content/Context;)Z:356a06
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:391026		=(rels)=>		1
+[*] Unique action: 1:94569 : <<CALL>> : com.obs.mobile_tablet.navigation.MainNavigation_ViewBinding/<init>:(Lcom/obs/mobile_tablet/navigation/MainNavigation;Landroid/view/View;)V:391026  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:1134 : <<BRANCH>> : com.obs.android.shared.CBSApplication/b:(Landroid/content/Context;)Z:344fde  =>  com.obs.android.shared.CBSApplication/b:(Landroid/content/Context;)Z:344fd8
+java.lang.System/exit:(I)V:3444da		=(rels)=>		1
+[*] Unique action: 1:693 : <<CALL>> : com.obs.android.shared.CBSApplication/b:()V:3444da  =>  java.lang.System/exit:(I)V:ea908
+	1:compareBackwardBranch: 1:1322 : <<BRANCH>> : com.obs.android.shared.a.a/a:(Landroid/content/Context;)Z:3569f6  =>  com.obs.android.shared.a.a/a:(Landroid/content/Context;)Z:356a06
+java.lang.System/exit:(I)V:3444da		=(rels)=>		1
+[*] Unique action: 1:1353 : <<CALL>> : com.obs.android.shared.CBSApplication/b:()V:3444da  =>  java.lang.System/exit:(I)V:ea908
+	1:compareBackwardBranch2: 1:1134 : <<BRANCH>> : com.obs.android.shared.CBSApplication/b:(Landroid/content/Context;)Z:344fde  =>  com.obs.android.shared.CBSApplication/b:(Landroid/content/Context;)Z:344fd8
+Entry: 344618
+com.obs.android.shared.CBSApplication/b:(Landroid/content/Context;)Z: 344fde -> 344fd8
+		com.obs.android.shared.CBSApplication/b:(Landroid/content/Context;)Z: 9c6 -> 9c0
+addPatchReadme: java.lang.Class<com.obs.android.shared.CBSApplication>b(Landroid/content/Context;)Z 9c6 t
+b29e6a69: [+] Patches found in this round: 1
+b29e6a69: [*] Found Patch size: 1
+Target PID : 
+	1:compareBackwardBranch2: 1:1322 : <<BRANCH>> : com.obs.android.shared.a.a/a:(Landroid/content/Context;)Z:3569f6  =>  com.obs.android.shared.a.a/a:(Landroid/content/Context;)Z:356a06
+Entry: 356884
+com.obs.android.shared.a.a/a:(Landroid/content/Context;)Z: 3569f6 -> 356a06
+		com.obs.android.shared.a.a/a:(Landroid/content/Context;)Z: 172 -> 182
+addPatchReadme: java.lang.Class<com.obs.android.shared.a.a>a(Landroid/content/Context;)Z 172 t
+159ceeed: [+] Patches found in this round: 1
+159ceeed: [*] Found Patch size: 1
+Target PID : 
+ExitReason-Code: 6 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_com.obs.android.olm.tristate.prod.obfuscated_flattened.ilog)
+b29e6a69: 	@@@Found patch addr: 344fee
+b29e6a69: Querying offset: 344fde
+b29e6a69: 	--Add method name to patch = com.obs.android.shared.CBSApplication/b:(Landroid/content/Context;)Z 	344fde
+[*] FlowManager: adjust finished.
+Action is completely same :)
+Action is completely same :)
+46604b9f: There is no difference. (tryAgain=false)
+ExitReason-Code: 6 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_com.obs.android.olm.tristate.prod.obfuscated_flattened.ilog)
+159ceeed: 	@@@Found patch addr: 356a06
+159ceeed: Querying offset: 3569f6
+159ceeed: 	--Add method name to patch = com.obs.android.shared.a.a/a:(Landroid/content/Context;)Z 	3569f6
+Devices presenting anti-analysis: 
+	devRoot
+	devDebug
+b29e6a69: patching method: com.obs.android.shared.CBSApplication/b:(Landroid/content/Context;)Z
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/com.obs.android.olm.tristate.prod.apk.obfuscated_flattened_devRoot
+Wow!!!!!  --  com.obs.android.shared.CBSApplication/b:(Landroid/content/Context;)Z
+fallthrough: 9ca
+branchTarget: 9c0
+label = cond_11
+GOTO -- 9ca 	9c0
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/com.obs.android.olm.tristate.prod.apk.obfuscated_flattened_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/com.obs.android.olm.tristate.prod.apk.obfuscated_flattened_devRoot/com.obs.android.olm.tristate.prod.apk.obfuscated_flattened.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/com.obs.android.olm.tristate.prod.apk.obfuscated_flattened_devRoot/signed_com.obs.android.olm.tristate.prod.apk.obfuscated_flattened.apk
+b29e6a69: First address of Lcom/obs/android/shared/CBSApplication;->b(Landroid/content/Context;)Z = 344628
+b29e6a69: Address - Lcom/obs/android/shared/CBSApplication;->b(Landroid/content/Context;)Z@9c6	 lastOffset = 1b40
+b29e6a69: Instruction@@: IF_NEZ
+159ceeed: patching method: com.obs.android.shared.a.a/a:(Landroid/content/Context;)Z
+159ceeed: outDir - /home/santapark/Extended3/DEEPerence/reEx/com.obs.android.olm.tristate.prod.apk.obfuscated_flattened_devDebug
+Wow!!!!!  --  com.obs.android.shared.a.a/a:(Landroid/content/Context;)Z
+fallthrough: 176
+branchTarget: 182
+label = cond_1
+GOTO -- 176 	182
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/com.obs.android.olm.tristate.prod.apk.obfuscated_flattened_devDebug/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/com.obs.android.olm.tristate.prod.apk.obfuscated_flattened_devDebug/com.obs.android.olm.tristate.prod.apk.obfuscated_flattened.apk
+159ceeed: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/com.obs.android.olm.tristate.prod.apk.obfuscated_flattened_devDebug/signed_com.obs.android.olm.tristate.prod.apk.obfuscated_flattened.apk
+159ceeed: First address of Lcom/obs/android/shared/a/a;->a(Landroid/content/Context;)Z = 356894
+159ceeed: Address - Lcom/obs/android/shared/a/a;->a(Landroid/content/Context;)Z@172	 lastOffset = 450
+159ceeed: Instruction@@: IF_EQZ
+b29e6a69: (Not Installed) Trying remove : true
+159ceeed: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/com.obs.android.olm.tristate.prod.apk.obfuscated_flattened_devRoot/signed_com.obs.android.olm.tristate.prod.apk.obfuscated_flattened.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/com.obs.android.olm.tristate.prod.apk.obfuscated_flattened_devDebug/signed_com.obs.android.olm.tristate.prod.apk.obfuscated_flattened.apk
+159ceeed: Installation Success
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+159ceeed: startApplication called! - devDebug
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_com.obs.android.olm.tristate.prod.obfuscated_flattened.ilog)
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_com.obs.android.olm.tristate.prod.obfuscated_flattened.ilog)
+b29e6a69: Running Application: com.obs.android.olm.tristate.prod
+PIDs--------------------------------------------------------------------------
+u0_a746        8219    423 13816368 108220 0                  0 R com.obs.android.olm.tristate.prod
+forward tcp:35535 jdwp:8219
+[*]Found JDWP Target: 8219
+159ceeed: Running Application: com.obs.android.olm.tristate.prod
+PIDs--------------------------------------------------------------------------
+u0_a746        8219    423 14127216 156976 0                  0 S com.obs.android.olm.tristate.prod
+159ceeed: Tryging attach jdb to 8219
+jdb -connect com.sun.jdi.SocketAttach:hostname=localhost,port=35535
+159ceeed: Running is done - starting comparing... : 10001
+159ceeed: Terminated logcat thread...by itself
+159ceeed: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+159ceeed: savedPid = null
+PIDs--------------------------------------------------------------------------
+159ceeed: savedPid2 = null
+Stopping app: com.obs.android.olm.tristate.prod
+Tryging remove : uninstall com.obs.android.olm.tristate.prod(com.obs.android.olm.tristate.prod)
+159ceeed: Remove Success
+159ceeed: ilog file size: 48623708
+159ceeed: End of collecting logcat...
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.obs.android.olm.tristate.prod/com.obs.android.shared.RegistrationActivity
+PIDs--------------------------------------------------------------------------
+u0_a417       16206    430 14277692 177660 0                  0 S com.obs.android.olm.tristate.prod
+b29e6a69: savedPid = 16206
+PIDs--------------------------------------------------------------------------
+u0_a417       16206    430 14277692 177660 0                  0 S com.obs.android.olm.tristate.prod
+b29e6a69: savedPid2 = 16206
+Stopping app: com.obs.android.olm.tristate.prod
+Tryging remove : uninstall com.obs.android.olm.tristate.prod(com.obs.android.olm.tristate.prod)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 190572595
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 28
+Target PID : 11777
+Target PID : 11777
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_com.obs.android.olm.tristate.prod.obfuscated_flattened.ilog)
+Target PID : 
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_com.obs.android.olm.tristate.prod.obfuscated_flattened.ilog)
+Target PID : 16206
+ExitReason-Code: 6 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_com.obs.android.olm.tristate.prod.obfuscated_flattened.ilog)
+159ceeed: adding filter -- 3569f6
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_com.obs.android.olm.tristate.prod.obfuscated_flattened.ilog)
+b29e6a69: adding filter -- 344fde
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 3569f6
+Action is completely same :)
+java.lang.System/exit:(I)V:3444da		=(rels)=>		1
+[*] Unique action: 17:240873 : <<CALL>> : com.obs.android.shared.CBSApplication/b:()V:3444da  =>  java.lang.System/exit:(I)V:ea908
+	1:compareBackwardBranch2: 14:1278 : <<BRANCH>> : com.obs.android.shared.a.a$1/run:()V:356702  =>  com.obs.android.shared.a.a$1/run:()V:3566f4
+Entry: 35663c
+com.obs.android.shared.a.a$1/run:()V: 356702 -> 3566f4
+		com.obs.android.shared.a.a$1/run:()V: c6 -> b8
+addPatchReadme: java.lang.Class<com.obs.android.shared.a.a$1>run()V c6 t
+159ceeed: [+] Patches found in this round: 1
+159ceeed: [*] Found Patch size: 1
+Target PID : 
+ExitReason-Code: 6 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_com.obs.android.olm.tristate.prod.obfuscated_flattened.ilog)
+159ceeed: @@localPatchFilter -- 356a06
+159ceeed: 	@@@Found patch addr: 356712
+159ceeed: Querying offset: 356702
+159ceeed: 	--Add method name to patch = com.obs.android.shared.a.a$1/run:()V 	356702
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 344fde
+Action is completely same :)
+Action is completely same :)
+b29e6a69: There is no difference. (tryAgain=false)
+Devices presenting anti-analysis: 
+	devDebug
+159ceeed: patching method: com.obs.android.shared.a.a/a:(Landroid/content/Context;)Z
+159ceeed: patching method: com.obs.android.shared.a.a$1/run:()V
+159ceeed: outDir - /home/santapark/Extended3/DEEPerence/reEx/com.obs.android.olm.tristate.prod.apk.obfuscated_flattened_devDebug
+Wow!!!!!  --  com.obs.android.shared.a.a$1/run:()V
+fallthrough: ca
+branchTarget: b8
+label = cond_0
+GOTO -- ca 	b8
+Wow!!!!!  --  com.obs.android.shared.a.a/a:(Landroid/content/Context;)Z
+fallthrough: 176
+branchTarget: 182
+label = cond_1
+GOTO -- 176 	182
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/com.obs.android.olm.tristate.prod.apk.obfuscated_flattened_devDebug/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/com.obs.android.olm.tristate.prod.apk.obfuscated_flattened_devDebug/com.obs.android.olm.tristate.prod.apk.obfuscated_flattened.apk
+159ceeed: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/com.obs.android.olm.tristate.prod.apk.obfuscated_flattened_devDebug/signed_com.obs.android.olm.tristate.prod.apk.obfuscated_flattened.apk
+159ceeed: First address of Lcom/obs/android/shared/a/a;->a(Landroid/content/Context;)Z = 356894
+159ceeed: Address - Lcom/obs/android/shared/a/a;->a(Landroid/content/Context;)Z@172	 lastOffset = 450
+159ceeed: Instruction@@: IF_EQZ
+159ceeed: First address of Lcom/obs/android/shared/a/a$1;->run()V = 35664c
+159ceeed: Address - Lcom/obs/android/shared/a/a$1;->run()V@c6	 lastOffset = 164
+159ceeed: Instruction@@: IF_EQZ
+159ceeed: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/com.obs.android.olm.tristate.prod.apk.obfuscated_flattened_devDebug/signed_com.obs.android.olm.tristate.prod.apk.obfuscated_flattened.apk
+159ceeed: Installation Success
+159ceeed: startApplication called! - devDebug
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_com.obs.android.olm.tristate.prod.obfuscated_flattened.ilog)
+PIDs--------------------------------------------------------------------------
+u0_a747        8355    423 13816360 108024 0                  0 S com.obs.android.olm.tristate.prod
+forward tcp:35535 jdwp:8355
+[*]Found JDWP Target: 8355
+159ceeed: Running Application: com.obs.android.olm.tristate.prod
+PIDs--------------------------------------------------------------------------
+u0_a747        8355    423 14109772 155772 0                  0 S com.obs.android.olm.tristate.prod
+159ceeed: Tryging attach jdb to 8355
+jdb -connect com.sun.jdi.SocketAttach:hostname=localhost,port=35535
+159ceeed: Terminated logcat thread...by itself
+159ceeed: Top-activity: com.obs.android.olm.tristate.prod/com.obs.android.shared.RegistrationActivity
+PIDs--------------------------------------------------------------------------
+u0_a747        8355    423 14242524 188636 0                  0 S com.obs.android.olm.tristate.prod
+159ceeed: savedPid = 8355
+PIDs--------------------------------------------------------------------------
+u0_a747        8355    423 14242524 188636 0                  0 S com.obs.android.olm.tristate.prod
+159ceeed: savedPid2 = 8355
+Stopping app: com.obs.android.olm.tristate.prod
+Tryging remove : uninstall com.obs.android.olm.tristate.prod(com.obs.android.olm.tristate.prod)
+159ceeed: Remove Success
+159ceeed: ilog file size: 111813390
+159ceeed: End of collecting logcat...
+HPFinder's try count remains: 27
+Target PID : 11777
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_com.obs.android.olm.tristate.prod.obfuscated_flattened.ilog)
+Target PID : 8355
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_com.obs.android.olm.tristate.prod.obfuscated_flattened.ilog)
+159ceeed: adding filter -- 3569f6
+159ceeed: adding filter -- 356702
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 3569f6
+-- current localPatchFilter: 356702
+Action is completely same :)
+Action is completely same :)
+159ceeed: There is no difference. (tryAgain=false)
+-- HPFinder will be done in this iteration :)
+hasAntiAnalysis? - devTamper: false on com.obs.android.messenger.MainActivity
+hasAntiAnalysis? - devRoot: true on com.obs.android.messenger.MainActivity
+	isRemovedThem? - devRoot: true on com.obs.android.messenger.MainActivity	-	tryCount: 1
+hasAntiAnalysis? - devDebug: true on com.obs.android.messenger.MainActivity
+	isRemovedThem? - devDebug: true on com.obs.android.messenger.MainActivity	-	tryCount: 2
+*****REPORT: com.obs.android.olm.tristate.prod
+* Package name: com.obs.android.olm.tristate.prod
+* Running time: 544
+* FileSize: 5731071
+devTamper : 111732454
+devRef : 179536010
+devRoot : 190572595
+devDebug : 111813390
+hasAntiAnalysis? - devTamper: false on com.obs.android.messenger.MainActivity
+hasAntiAnalysis? - devRoot: true on com.obs.android.messenger.MainActivity
+	isRemovedThem? - devRoot: true on com.obs.android.messenger.MainActivity	-	tryCount: 1
+hasAntiAnalysis? - devDebug: true on com.obs.android.messenger.MainActivity
+	isRemovedThem? - devDebug: true on com.obs.android.messenger.MainActivity	-	tryCount: 2
+46604b9f: trying remove : com.obs.android.olm.tristate.prod
+3601a6ff: trying remove : com.obs.android.olm.tristate.prod
+b29e6a69: trying remove : com.obs.android.olm.tristate.prod
+159ceeed: trying remove : com.obs.android.olm.tristate.prod
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+159ceeed: result = true
+b29e6a69: (Not Installed) Trying remove : true
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+46604b9f: result = true
+b29e6a69: -- Success
+b29e6a69: result = true
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+3601a6ff: result = true
+3601a6ff: isFailedToLaunch: com.obs.android.olm.tristate.prod/com.obs.android.shared.RegistrationActivity
+3601a6ff: 	--result: Good :)

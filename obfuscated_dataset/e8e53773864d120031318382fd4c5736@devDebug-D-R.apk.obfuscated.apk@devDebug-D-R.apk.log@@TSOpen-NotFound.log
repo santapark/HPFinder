@@ -1,0 +1,255 @@
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/com.gsenc.xivisitmyhouse_1.0.0.apk@devDebug-D-R.apk.obfuscated/AndroidManifest.xml
+launchable-activity: name='com.gsenc.xivisitmyhouse.__Template__'  label='Xi내집방문' icon=''
+{ACTIVITY, __Template__, android.intent.action.MAIN, android.intent.action.VIEW}
+{RECEIVER, com.mxp.c2dm.core.C2DMReceiver, com.google.android.c2dm.intent.RECEIVE, com.google.android.c2dm.intent.REGISTRATION}
+{SERVICE, com.mxp.c2dm.engine.C2dmReceiverService}
+{ACTIVITY, com.mxp.command.webdialog.WebDialogActivity}
+{SERVICE, com.mxp.c2dm.core.C2DMControlService, com.mxp.c2dm.engine.REGISTER, com.mxp.c2dm.engine.UNREGISTER}
+{SERVICE, com.mxp.c2dm.engine.C2dmReceiverJobService}
+{SERVICE, com.mxp.command.appcomm.MXPAuthenticationService, android.accounts.AccountAuthenticator}
+{ACTIVITY, com.google.zxing.client.android.CaptureActivity, com.google.zxing.client.android.SCAN}
+{ACTIVITY, com.google.zxing.client.android.encode.EncodeActivity, com.google.zxing.client.android.ENCODE}
+{RECEIVER, com.mxp.command.localnotification.LocalNotificationReceiver}
+{ACTIVITY, __Template__, android.intent.action.MAIN, android.intent.action.VIEW}
+{RECEIVER, com.mxp.c2dm.core.C2DMReceiver, com.google.android.c2dm.intent.RECEIVE, com.google.android.c2dm.intent.REGISTRATION}
+{SERVICE, com.mxp.c2dm.engine.C2dmReceiverService}
+{ACTIVITY, com.mxp.command.webdialog.WebDialogActivity}
+{SERVICE, com.mxp.c2dm.core.C2DMControlService, com.mxp.c2dm.engine.REGISTER, com.mxp.c2dm.engine.UNREGISTER}
+{SERVICE, com.mxp.c2dm.engine.C2dmReceiverJobService}
+{SERVICE, com.mxp.command.appcomm.MXPAuthenticationService, android.accounts.AccountAuthenticator}
+{ACTIVITY, com.google.zxing.client.android.CaptureActivity, com.google.zxing.client.android.SCAN}
+{ACTIVITY, com.google.zxing.client.android.encode.EncodeActivity, com.google.zxing.client.android.ENCODE}
+{RECEIVER, com.mxp.command.localnotification.LocalNotificationReceiver}
+_getAllDexFiles: /home/santapark/Extended3/DEEPerence/reEx/com.gsenc.xivisitmyhouse_1.0.0.apk@devDebug-D-R.apk.obfuscated/classes.dex
+----------------/home/santapark/Extended3/DEEPerence/reEx/com.gsenc.xivisitmyhouse_1.0.0.apk@devDebug-D-R.apk.obfuscated.apk
+dexFile = org.jf.dexlib2.dexbacked.DexBackedDexFile@13c27452
+com.gsenc.xivisitmyhouse
+com.gsenc.xivisitmyhouse.__Template__
+debuggable: false
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/com.gsenc.xivisitmyhouse_1.0.0.apk@devDebug-D-R.apk.obfuscated.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/com.gsenc.xivisitmyhouse_1.0.0.apk@devDebug-D-R.apk.obfuscated.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/com.gsenc.xivisitmyhouse_1.0.0.apk@devDebug-D-R.apk.obfuscated.apk
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/com.gsenc.xivisitmyhouse_1.0.0.apk@devDebug-D-R.apk.obfuscated_46604b9f/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/com.gsenc.xivisitmyhouse_1.0.0.apk@devDebug-D-R.apk.obfuscated_46604b9f/com.gsenc.xivisitmyhouse_1.0.0.apk@devDebug-D-R.apk.obfuscated.apk
+159ceeed: Installation Success
+3601a6ff: Installation Success
+b29e6a69: Installation Success
+46604b9f: Installing repackaged apk File: 
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/com.gsenc.xivisitmyhouse_1.0.0.apk@devDebug-D-R.apk.obfuscated_46604b9f/signed_com.gsenc.xivisitmyhouse_1.0.0.apk@devDebug-D-R.apk.obfuscated.apk
+46604b9f: Installation Success
+46604b9f: startApplication called! - devTamper
+3601a6ff: startApplication called! - devRef
+b29e6a69: startApplication called! - devRoot
+159ceeed: startApplication called! - devDebug
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_com.gsenc.xivisitmyhouse_1.0.0@devDebug-D-R.obfuscated.ilog)
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_com.gsenc.xivisitmyhouse_1.0.0@devDebug-D-R.obfuscated.ilog)
+46604b9f: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devTamper_com.gsenc.xivisitmyhouse_1.0.0@devDebug-D-R.obfuscated.ilog)
+3601a6ff: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRef_com.gsenc.xivisitmyhouse_1.0.0@devDebug-D-R.obfuscated.ilog)
+b29e6a69: Running Application: com.gsenc.xivisitmyhouse
+46604b9f: Running Application: com.gsenc.xivisitmyhouse
+3601a6ff: Running Application: com.gsenc.xivisitmyhouse
+PIDs--------------------------------------------------------------------------
+u0_a958       23115    424 1025080  98204 0                   0 R com.gsenc.xivisitmyhouse
+forward tcp:35535 jdwp:23115
+[*]Found JDWP Target: 23115
+159ceeed: Running Application: com.gsenc.xivisitmyhouse
+PIDs--------------------------------------------------------------------------
+u0_a958       23115    424 1092260 159644 0                   0 S com.gsenc.xivisitmyhouse
+159ceeed: Tryging attach jdb to 23115
+jdb -connect com.sun.jdi.SocketAttach:hostname=localhost,port=35535
+3601a6ff: Running is done - starting comparing... : 10001
+3601a6ff: Terminated logcat thread...by itself
+3601a6ff: Top-activity: com.gsenc.xivisitmyhouse/.__Template__
+PIDs--------------------------------------------------------------------------
+u0_a519       18812    415 1086940 155380 0                   0 S com.gsenc.xivisitmyhouse
+3601a6ff: savedPid = 18812
+PIDs--------------------------------------------------------------------------
+u0_a519       18812    415 1086940 155380 0                   0 S com.gsenc.xivisitmyhouse
+3601a6ff: savedPid2 = 18812
+Stopping app: com.gsenc.xivisitmyhouse
+Tryging remove : uninstall com.gsenc.xivisitmyhouse(com.gsenc.xivisitmyhouse)
+3601a6ff: Remove Success
+3601a6ff: ilog file size: 18649904
+3601a6ff: End of collecting logcat...
+46604b9f: Terminated logcat thread...by itself
+b29e6a69: Terminated logcat thread...by itself
+46604b9f: Top-activity: com.gsenc.xivisitmyhouse/.__Template__
+PIDs--------------------------------------------------------------------------
+u0_a500       27848    426 1082496 154344 0                   0 S com.gsenc.xivisitmyhouse
+46604b9f: savedPid = 27848
+PIDs--------------------------------------------------------------------------
+u0_a500       27848    426 1082496 154344 0                   0 S com.gsenc.xivisitmyhouse
+46604b9f: savedPid2 = 27848
+Stopping app: com.gsenc.xivisitmyhouse
+b29e6a69: Top-activity: com.gsenc.xivisitmyhouse/.__Template__
+PIDs--------------------------------------------------------------------------
+u0_a651       26805    431 1086804 156916 0                   0 S com.gsenc.xivisitmyhouse
+b29e6a69: savedPid = 26805
+PIDs--------------------------------------------------------------------------
+u0_a651       26805    431 1086784 154940 0                   0 S com.gsenc.xivisitmyhouse
+b29e6a69: savedPid2 = 26805
+Stopping app: com.gsenc.xivisitmyhouse
+Tryging remove : uninstall com.gsenc.xivisitmyhouse(com.gsenc.xivisitmyhouse)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 333058776
+b29e6a69: End of collecting logcat...
+Tryging remove : uninstall com.gsenc.xivisitmyhouse(com.gsenc.xivisitmyhouse)
+46604b9f: Remove Success
+46604b9f: ilog file size: 349965121
+46604b9f: End of collecting logcat...
+159ceeed: Terminated logcat thread...by itself
+159ceeed: Top-activity: com.gsenc.xivisitmyhouse/.__Template__
+PIDs--------------------------------------------------------------------------
+u0_a958       23115    424 1104216 167624 0                   0 S com.gsenc.xivisitmyhouse
+159ceeed: savedPid = 23115
+PIDs--------------------------------------------------------------------------
+u0_a958       23115    424 1104216 167888 0                   0 S com.gsenc.xivisitmyhouse
+159ceeed: savedPid2 = 23115
+Stopping app: com.gsenc.xivisitmyhouse
+Tryging remove : uninstall com.gsenc.xivisitmyhouse(com.gsenc.xivisitmyhouse)
+159ceeed: Remove Success
+159ceeed: ilog file size: 391397780
+159ceeed: End of collecting logcat...
+HPFinder's try count remains: 29
+Target PID : 18812
+Target PID : 18812
+Target PID : 18812
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_com.gsenc.xivisitmyhouse_1.0.0@devDebug-D-R.obfuscated.ilog)
+Target PID : 27848
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_com.gsenc.xivisitmyhouse_1.0.0@devDebug-D-R.obfuscated.ilog)
+Target PID : 26805
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_com.gsenc.xivisitmyhouse_1.0.0@devDebug-D-R.obfuscated.ilog)
+Target PID : 23115
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_com.gsenc.xivisitmyhouse_1.0.0@devDebug-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devTamper_com.gsenc.xivisitmyhouse_1.0.0@devDebug-D-R.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_com.gsenc.xivisitmyhouse_1.0.0@devDebug-D-R.obfuscated.ilog)
+[*] FlowManager: adjust finished.
+Action is completely same :)
+Action is completely same :)
+b29e6a69: There is no difference. (tryAgain=false)
+[*] FlowManager: adjust finished.
+Action is completely same :)
+Action is completely same :)
+46604b9f: There is no difference. (tryAgain=false)
+[*] FlowManager: adjust finished.
+Action is completely same :)
+android.view.ViewGroup/addView:(Landroid/view/View;)V:cc44dc		=(rels)=>		1
+[*] Unique action: 1:58638 : <<CALL>> : com.mxp.r2client.engine.R2DeviceEngine/initiallizeLoadingPopupWindow:()V:cc44dc  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch2: 1:56109 : <<BRANCH>> : com.mxp.command.MXPBaseActivity/onResume:()V:af72d6  =>  com.mxp.command.MXPBaseActivity/onResume:()V:af72ca
+android.view.ViewGroup/addView:(Landroid/view/View;)V:cc4518		=(rels)=>		1
+[*] Unique action: 1:58907 : <<CALL>> : com.mxp.r2client.engine.R2DeviceEngine/initiallizeLoadingPopupWindow:()V:cc4518  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch2: 1:56109 : <<BRANCH>> : com.mxp.command.MXPBaseActivity/onResume:()V:af72d6  =>  com.mxp.command.MXPBaseActivity/onResume:()V:af72ca
+java.net.ServerSocket/accept:()Ljava/net/Socket;:cc623a		=(rels)=>		0
+android.view.ViewGroup/addView:(Landroid/view/View;)V:cc4550		=(rels)=>		1
+[*] Unique action: 1:59036 : <<CALL>> : com.mxp.r2client.engine.R2DeviceEngine/initiallizeLoadingPopupWindow:()V:cc4550  =>  android.view.ViewGroup/addView:(Landroid/view/View;)V:19596c
+	1:compareBackwardBranch2: 1:56109 : <<BRANCH>> : com.mxp.command.MXPBaseActivity/onResume:()V:af72d6  =>  com.mxp.command.MXPBaseActivity/onResume:()V:af72ca
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:cc4512		=(rels)=>		1
+[*] Unique action: 1:58902 : <<CALL>> : com.mxp.r2client.engine.R2DeviceEngine/initiallizeLoadingPopupWindow:()V:cc4512  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch2: 1:56109 : <<BRANCH>> : com.mxp.command.MXPBaseActivity/onResume:()V:af72d6  =>  com.mxp.command.MXPBaseActivity/onResume:()V:af72ca
+Entry: af7244
+com.mxp.command.MXPBaseActivity/onResume:()V: af72d6 -> af72ca
+		com.mxp.command.MXPBaseActivity/onResume:()V: 92 -> 86
+addPatchReadme: java.lang.Class<com.mxp.command.MXPBaseActivity>onResume()V 92 t
+159ceeed: [+] Patches found in this round: 1
+159ceeed: [*] Found Patch size: 1
+Target PID : 
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_com.gsenc.xivisitmyhouse_1.0.0@devDebug-D-R.obfuscated.ilog)
+159ceeed: 	@@@Found patch addr: af72e6
+159ceeed: Querying offset: af72d6
+159ceeed: 	--Add method name to patch = com.mxp.command.MXPBaseActivity/onResume:()V 	af72d6
+Devices presenting anti-analysis: 
+	devDebug
+159ceeed: patching method: com.mxp.command.MXPBaseActivity/onResume:()V
+159ceeed: outDir - /home/santapark/Extended3/DEEPerence/reEx/com.gsenc.xivisitmyhouse_1.0.0.apk@devDebug-D-R.apk.obfuscated_devDebug
+Wow!!!!!  --  com.mxp.command.MXPBaseActivity/onResume:()V
+fallthrough: 96
+branchTarget: 86
+label = cond_0
+GOTO -- 96 	86
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/com.gsenc.xivisitmyhouse_1.0.0.apk@devDebug-D-R.apk.obfuscated_devDebug/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/com.gsenc.xivisitmyhouse_1.0.0.apk@devDebug-D-R.apk.obfuscated_devDebug/com.gsenc.xivisitmyhouse_1.0.0.apk@devDebug-D-R.apk.obfuscated.apk
+159ceeed: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/com.gsenc.xivisitmyhouse_1.0.0.apk@devDebug-D-R.apk.obfuscated_devDebug/signed_com.gsenc.xivisitmyhouse_1.0.0.apk@devDebug-D-R.apk.obfuscated.apk
+159ceeed: First address of Lcom/mxp/command/MXPBaseActivity;->onResume()V = af7254
+159ceeed: Address - Lcom/mxp/command/MXPBaseActivity;->onResume()V@92	 lastOffset = 510
+159ceeed: Instruction@@: IF_EQZ
+159ceeed: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/com.gsenc.xivisitmyhouse_1.0.0.apk@devDebug-D-R.apk.obfuscated_devDebug/signed_com.gsenc.xivisitmyhouse_1.0.0.apk@devDebug-D-R.apk.obfuscated.apk
+159ceeed: Installation Success
+159ceeed: startApplication called! - devDebug
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_com.gsenc.xivisitmyhouse_1.0.0@devDebug-D-R.obfuscated.ilog)
+PIDs--------------------------------------------------------------------------
+u0_a959       23277    424 1026136  98060 0                   0 R com.gsenc.xivisitmyhouse
+forward tcp:35535 jdwp:23277
+[*]Found JDWP Target: 23277
+159ceeed: Running Application: com.gsenc.xivisitmyhouse
+PIDs--------------------------------------------------------------------------
+u0_a959       23277    424 1089688 157636 0                   0 S com.gsenc.xivisitmyhouse
+159ceeed: Tryging attach jdb to 23277
+jdb -connect com.sun.jdi.SocketAttach:hostname=localhost,port=35535
+159ceeed: Terminated logcat thread...by itself
+159ceeed: Top-activity: com.gsenc.xivisitmyhouse/.__Template__
+PIDs--------------------------------------------------------------------------
+u0_a959       23277    424 1102720 169176 0                   0 S com.gsenc.xivisitmyhouse
+159ceeed: savedPid = 23277
+PIDs--------------------------------------------------------------------------
+u0_a959       23277    424 1102720 169440 0                   0 S com.gsenc.xivisitmyhouse
+159ceeed: savedPid2 = 23277
+Stopping app: com.gsenc.xivisitmyhouse
+Tryging remove : uninstall com.gsenc.xivisitmyhouse(com.gsenc.xivisitmyhouse)
+159ceeed: Remove Success
+159ceeed: ilog file size: 383768564
+159ceeed: End of collecting logcat...
+HPFinder's try count remains: 28
+Target PID : 18812
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_com.gsenc.xivisitmyhouse_1.0.0@devDebug-D-R.obfuscated.ilog)
+Target PID : 23277
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_com.gsenc.xivisitmyhouse_1.0.0@devDebug-D-R.obfuscated.ilog)
+159ceeed: adding filter -- af72d6
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: af72d6
+Action is completely same :)
+Action is completely same :)
+159ceeed: There is no difference. (tryAgain=false)
+-- HPFinder will be done in this iteration :)
+hasAntiAnalysis? - devTamper: false on com.gsenc.xivisitmyhouse.__Template__
+hasAntiAnalysis? - devRoot: false on com.gsenc.xivisitmyhouse.__Template__
+hasAntiAnalysis? - devDebug: true on com.gsenc.xivisitmyhouse.__Template__
+	isRemovedThem? - devDebug: true on com.gsenc.xivisitmyhouse.__Template__	-	tryCount: 1
+*****REPORT: com.gsenc.xivisitmyhouse
+* Package name: com.gsenc.xivisitmyhouse
+* Running time: 431
+* FileSize: 6232095
+devTamper : 349965121
+devRef : 18649904
+devRoot : 333058776
+devDebug : 383768564
+hasAntiAnalysis? - devTamper: false on com.gsenc.xivisitmyhouse.__Template__
+hasAntiAnalysis? - devRoot: false on com.gsenc.xivisitmyhouse.__Template__
+hasAntiAnalysis? - devDebug: true on com.gsenc.xivisitmyhouse.__Template__
+	isRemovedThem? - devDebug: true on com.gsenc.xivisitmyhouse.__Template__	-	tryCount: 1
+46604b9f: trying remove : com.gsenc.xivisitmyhouse
+3601a6ff: trying remove : com.gsenc.xivisitmyhouse
+b29e6a69: trying remove : com.gsenc.xivisitmyhouse
+159ceeed: trying remove : com.gsenc.xivisitmyhouse
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+159ceeed: result = true
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+46604b9f: result = true
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+b29e6a69: result = true
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+3601a6ff: result = true
+3601a6ff: isFailedToLaunch: com.gsenc.xivisitmyhouse/.__Template__
+3601a6ff: 	--result: Good :)

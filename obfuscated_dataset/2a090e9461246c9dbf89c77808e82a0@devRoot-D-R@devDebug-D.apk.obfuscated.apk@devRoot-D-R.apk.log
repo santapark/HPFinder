@@ -1,0 +1,571 @@
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample62.apk@devRoot-D-R@devDebug-D.apk.obfuscated/AndroidManifest.xml
+launchable-activity: name='com.kcue.KcueMobileService.activity.MainActivity'  label='어디가' icon=''
+{ACTIVITY, com.kcue.KcueMobileService.activity.MainActivity, android.intent.action.MAIN}
+{SERVICE, com.kcue.KcueMobileService.fcm.MyFirebaseMessagingService, com.google.firebase.MESSAGING_EVENT}
+{SERVICE, com.google.firebase.messaging.FirebaseMessagingService, com.google.firebase.MESSAGING_EVENT}
+{SERVICE, com.google.firebase.components.ComponentDiscoveryService}
+{RECEIVER, com.google.android.gms.measurement.AppMeasurementReceiver}
+{RECEIVER, com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver, com.android.vending.INSTALL_REFERRER}
+{SERVICE, com.google.android.gms.measurement.AppMeasurementService}
+{SERVICE, com.google.android.gms.measurement.AppMeasurementJobService}
+{RECEIVER, com.google.firebase.iid.FirebaseInstanceIdReceiver, com.google.android.c2dm.intent.RECEIVE}
+{SERVICE, com.google.firebase.iid.FirebaseInstanceIdService, com.google.firebase.INSTANCE_ID_EVENT}
+{ACTIVITY, com.kcue.KcueMobileService.activity.MainActivity, android.intent.action.MAIN}
+{SERVICE, com.kcue.KcueMobileService.fcm.MyFirebaseMessagingService, com.google.firebase.MESSAGING_EVENT}
+{SERVICE, com.google.firebase.messaging.FirebaseMessagingService, com.google.firebase.MESSAGING_EVENT}
+{SERVICE, com.google.firebase.components.ComponentDiscoveryService}
+{RECEIVER, com.google.android.gms.measurement.AppMeasurementReceiver}
+{RECEIVER, com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver, com.android.vending.INSTALL_REFERRER}
+{SERVICE, com.google.android.gms.measurement.AppMeasurementService}
+{SERVICE, com.google.android.gms.measurement.AppMeasurementJobService}
+{RECEIVER, com.google.firebase.iid.FirebaseInstanceIdReceiver, com.google.android.c2dm.intent.RECEIVE}
+{SERVICE, com.google.firebase.iid.FirebaseInstanceIdService, com.google.firebase.INSTANCE_ID_EVENT}
+_getAllDexFiles: /home/santapark/Extended3/DEEPerence/reEx/sample62.apk@devRoot-D-R@devDebug-D.apk.obfuscated/classes.dex
+----------------/home/santapark/Extended3/DEEPerence/reEx/sample62.apk@devRoot-D-R@devDebug-D.apk.obfuscated.apk
+dexFile = org.jf.dexlib2.dexbacked.DexBackedDexFile@c0c2f8d
+com.kcue.KcueMobileService
+com.kcue.KcueMobileService.activity.MainActivity
+debuggable: true
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample62.apk@devRoot-D-R@devDebug-D.apk.obfuscated.apk
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample62.apk@devRoot-D-R@devDebug-D.apk.obfuscated.apk
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample62.apk@devRoot-D-R@devDebug-D.apk.obfuscated_46604b9f/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample62.apk@devRoot-D-R@devDebug-D.apk.obfuscated_46604b9f/sample62.apk@devRoot-D-R@devDebug-D.apk.obfuscated.apk
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample62.apk@devRoot-D-R@devDebug-D.apk.obfuscated/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample62.apk@devRoot-D-R@devDebug-D.apk.obfuscated/sample62.apk@devRoot-D-R@devDebug-D.apk.obfuscated.apk
+3601a6ff: Installation Success
+b29e6a69: Installation Success
+159ceeed: Installing debuggable .apk file: 
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample62.apk@devRoot-D-R@devDebug-D.apk.obfuscated/signed_sample62.apk@devRoot-D-R@devDebug-D.apk.obfuscated.apk
+46604b9f: Installing repackaged apk File: 
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample62.apk@devRoot-D-R@devDebug-D.apk.obfuscated_46604b9f/signed_sample62.apk@devRoot-D-R@devDebug-D.apk.obfuscated.apk
+159ceeed: Installation Success
+46604b9f: Installation Success
+46604b9f: startApplication called! - devTamper
+b29e6a69: startApplication called! - devRoot
+159ceeed: startApplication called! - devDebug
+3601a6ff: startApplication called! - devRef
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample62@devRoot-D-R@devDebug-D.obfuscated.ilog)
+3601a6ff: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample62@devRoot-D-R@devDebug-D.obfuscated.ilog)
+159ceeed: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample62@devRoot-D-R@devDebug-D.obfuscated.ilog)
+46604b9f: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devTamper_sample62@devRoot-D-R@devDebug-D.obfuscated.ilog)
+b29e6a69: Running Application: com.kcue.KcueMobileService
+3601a6ff: Running Application: com.kcue.KcueMobileService
+46604b9f: Running Application: com.kcue.KcueMobileService
+PIDs--------------------------------------------------------------------------
+u0_a733       19232    429 14556372 97924 0                   0 S com.kcue.KcueMobileService
+forward tcp:5005 jdwp:19232
+[*]Found JDWP Target: 19232
+159ceeed: Running Application: com.kcue.KcueMobileService
+3601a6ff: Running is done - starting comparing... : 5001
+3601a6ff: Terminated logcat thread...by itself
+159ceeed: Running is done - starting comparing... : 5001
+159ceeed: Terminated logcat thread...by itself
+46604b9f: Running is done - starting comparing... : 5001
+46604b9f: Terminated logcat thread...by itself
+3601a6ff: Top-activity: com.kcue.KcueMobileService/.activity.MainActivity
+PIDs--------------------------------------------------------------------------
+u0_a237        9262    407 15148576 180724 0                  0 S com.kcue.KcueMobileService
+PIDs--------------------------------------------------------------------------
+u0_a237        9262    407 15148576 180724 0                  0 S com.kcue.KcueMobileService
+Stopping app: com.kcue.KcueMobileService
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+46604b9f: Top-activity: com.kcue.KcueMobileService/.activity.MainActivity
+PIDs--------------------------------------------------------------------------
+u0_a922       26388    425 15110044 181436 0                  0 S com.kcue.KcueMobileService
+PIDs--------------------------------------------------------------------------
+u0_a922       26388    425 15110044 181436 0                  0 S com.kcue.KcueMobileService
+Stopping app: com.kcue.KcueMobileService
+159ceeed: Top-activity: com.kcue.KcueMobileService/.activity.MainActivity
+PIDs--------------------------------------------------------------------------
+u0_a733       19232    429 15009156 181428 0                  0 S com.kcue.KcueMobileService
+PIDs--------------------------------------------------------------------------
+u0_a733       19232    429 15009156 181428 0                  0 S com.kcue.KcueMobileService
+Stopping app: com.kcue.KcueMobileService
+b29e6a69: Top-activity: com.kcue.KcueMobileService/.activity.MainActivity
+PIDs--------------------------------------------------------------------------
+u0_a3132      27950    429 15003624 184404 0                  0 S com.kcue.KcueMobileService
+PIDs--------------------------------------------------------------------------
+u0_a3132      27950    429 15003624 184404 0                  0 S com.kcue.KcueMobileService
+Stopping app: com.kcue.KcueMobileService
+Tryging remove : uninstall com.kcue.KcueMobileService(com.kcue.KcueMobileService)
+3601a6ff: Remove Success
+3601a6ff: ilog file size: 9092738
+3601a6ff: End of collecting logcat...
+Tryging remove : uninstall com.kcue.KcueMobileService(com.kcue.KcueMobileService)
+46604b9f: Remove Success
+46604b9f: ilog file size: 9132857
+46604b9f: End of collecting logcat...
+Tryging remove : uninstall com.kcue.KcueMobileService(com.kcue.KcueMobileService)
+159ceeed: Remove Success
+159ceeed: ilog file size: 9133339
+159ceeed: End of collecting logcat...
+Tryging remove : uninstall com.kcue.KcueMobileService(com.kcue.KcueMobileService)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 8971020
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 19
+46604b9f: isFailedToLaunch: com.kcue.KcueMobileService/.activity.MainActivity
+46604b9f: 	--result: Good :)
+b29e6a69: isFailedToLaunch: com.kcue.KcueMobileService/.activity.MainActivity
+b29e6a69: 	--result: Good :)
+159ceeed: isFailedToLaunch: com.kcue.KcueMobileService/.activity.MainActivity
+159ceeed: 	--result: Good :)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample62@devRoot-D-R@devDebug-D.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample62@devRoot-D-R@devDebug-D.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample62@devRoot-D-R@devDebug-D.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample62@devRoot-D-R@devDebug-D.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devTamper_sample62@devRoot-D-R@devDebug-D.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devDebug_sample62@devRoot-D-R@devDebug-D.obfuscated.ilog)
+[*] FlowManager: adjust finished.
+[*] FlowManager: adjust finished.
+Action is completely same :)
+[*] FlowManager: adjust finished.
+Action is completely same :)
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:3e389c		=(rels)=>		1
+Action is completely same :)
+159ceeed: There is no difference. (tryAgain=false)
+Action is completely same :)
+Action is completely same :)
+46604b9f: There is no difference. (tryAgain=false)
+[*] Unique action: 1:25672 : <<CALL>> : android.support.v7.app.AlertController/RHmMfGcjJVfKFXxR:(Landroid/widget/Button;Landroid/view/View$OnClickListener;)V:3e389c  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:33360 : <<BRANCH>> : com.kcue.KcueMobileService.activity.MainActivity/onStart:()V:595bf2  =>  com.kcue.KcueMobileService.activity.MainActivity/onStart:()V:595d0a
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:3d9798		=(rels)=>		1
+[*] Unique action: 1:23026 : <<CALL>> : android.support.v4.widget.NestedScrollView/WrIOEfyCYcTlRZww:(Landroid/widget/FrameLayout;Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:3d9798  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+	1:compareBackwardBranch: 1:33360 : <<BRANCH>> : com.kcue.KcueMobileService.activity.MainActivity/onStart:()V:595bf2  =>  com.kcue.KcueMobileService.activity.MainActivity/onStart:()V:595d0a
+android.app.Dialog/show:()V:3e6608		=(rels)=>		1
+[*] Unique action: 1:20445 : <<CALL>> : android.support.v7.app.b$a/aVDhbbykJjBDwgnx:(Landroid/support/v7/app/b;)V:3e6608  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:33360 : <<BRANCH>> : com.kcue.KcueMobileService.activity.MainActivity/onStart:()V:595bf2  =>  com.kcue.KcueMobileService.activity.MainActivity/onStart:()V:595d0a
+android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:3daab4		=(rels)=>		1
+[*] Unique action: 1:23032 : <<CALL>> : android.support.v4.widget.NestedScrollView/jbujjYdWXiFKOUfB:(Landroid/widget/FrameLayout;Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:3daab4  =>  android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:1959fc
+	1:compareBackwardBranch: 1:33360 : <<BRANCH>> : com.kcue.KcueMobileService.activity.MainActivity/onStart:()V:595bf2  =>  com.kcue.KcueMobileService.activity.MainActivity/onStart:()V:595d0a
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:3e37b4		=(rels)=>		1
+[*] Unique action: 1:25641 : <<CALL>> : android.support.v7.app.AlertController/NSxjXaQRUtGjOaYz:(Landroid/widget/Button;Ljava/lang/CharSequence;)V:3e37b4  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:33360 : <<BRANCH>> : com.kcue.KcueMobileService.activity.MainActivity/onStart:()V:595bf2  =>  com.kcue.KcueMobileService.activity.MainActivity/onStart:()V:595d0a
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:3e4894		=(rels)=>		1
+[*] Unique action: 1:25634 : <<CALL>> : android.support.v7.app.AlertController/mKGKDxIfQJirGlPb:(Landroid/widget/Button;Landroid/view/View$OnClickListener;)V:3e4894  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:33360 : <<BRANCH>> : com.kcue.KcueMobileService.activity.MainActivity/onStart:()V:595bf2  =>  com.kcue.KcueMobileService.activity.MainActivity/onStart:()V:595d0a
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:3e38d0		=(rels)=>		1
+[*] Unique action: 1:25657 : <<CALL>> : android.support.v7.app.AlertController/RweNSxIpdomoSdcQ:(Landroid/widget/Button;Landroid/view/View$OnClickListener;)V:3e38d0  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:33360 : <<BRANCH>> : com.kcue.KcueMobileService.activity.MainActivity/onStart:()V:595bf2  =>  com.kcue.KcueMobileService.activity.MainActivity/onStart:()V:595d0a
+Entry: 595b14
+com.kcue.KcueMobileService.activity.MainActivity/onStart:()V: 595bf2 -> 595d0a
+		com.kcue.KcueMobileService.activity.MainActivity/onStart:()V: de -> 1f6
+addPatchReadme: java.lang.Class<com.kcue.KcueMobileService.activity.MainActivity>onStart()V de t
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample62@devRoot-D-R@devDebug-D.obfuscated.ilog)
+b29e6a69: Patch size: 1
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample62.apk@devRoot-D-R@devDebug-D.apk.obfuscated_devRoot
+Wow!!!!!  --  com.kcue.KcueMobileService.activity.MainActivity/onStart:()V
+fallthrough: e4
+branchTarget: 1f6
+label = sswitch_data_1
+GOTO -- e4 	1f6
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample62.apk@devRoot-D-R@devDebug-D.apk.obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample62.apk@devRoot-D-R@devDebug-D.apk.obfuscated_devRoot/sample62.apk@devRoot-D-R@devDebug-D.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample62.apk@devRoot-D-R@devDebug-D.apk.obfuscated_devRoot/signed_sample62.apk@devRoot-D-R@devDebug-D.apk.obfuscated.apk
+b29e6a69: First address of Lcom/kcue/KcueMobileService/activity/MainActivity;->onStart()V = 595b24
+b29e6a69: Address - Lcom/kcue/KcueMobileService/activity/MainActivity;->onStart()V@de	 lastOffset = 2bc
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample62.apk@devRoot-D-R@devDebug-D.apk.obfuscated_devRoot/signed_sample62.apk@devRoot-D-R@devDebug-D.apk.obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample62@devRoot-D-R@devDebug-D.obfuscated.ilog)
+b29e6a69: Running Application: com.kcue.KcueMobileService
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.kcue.KcueMobileService
+Tryging remove : uninstall com.kcue.KcueMobileService(com.kcue.KcueMobileService)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 4459354
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 18
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+/home/santapark/Extended3/DEEPerence/reEx/sample62.apk@devRoot-D-R@devDebug-D.apk.obfuscated.apk launch is failed on devRoot
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 595bf2
+Action is completely same :)
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:3e389c		=(rels)=>		1
+[*] Unique action: 1:25672 : <<CALL>> : android.support.v7.app.AlertController/RHmMfGcjJVfKFXxR:(Landroid/widget/Button;Landroid/view/View$OnClickListener;)V:3e389c  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:33357 : <<BRANCH>> : com.kcue.KcueMobileService.activity.MainActivity/onStart:()V:595c1a  =>  com.kcue.KcueMobileService.activity.MainActivity/onStart:()V:595c00
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:3d9798		=(rels)=>		1
+[*] Unique action: 1:23026 : <<CALL>> : android.support.v4.widget.NestedScrollView/WrIOEfyCYcTlRZww:(Landroid/widget/FrameLayout;Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:3d9798  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+	1:compareBackwardBranch: 1:33357 : <<BRANCH>> : com.kcue.KcueMobileService.activity.MainActivity/onStart:()V:595c1a  =>  com.kcue.KcueMobileService.activity.MainActivity/onStart:()V:595c00
+android.app.Dialog/show:()V:3e6608		=(rels)=>		1
+[*] Unique action: 1:20445 : <<CALL>> : android.support.v7.app.b$a/aVDhbbykJjBDwgnx:(Landroid/support/v7/app/b;)V:3e6608  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:33357 : <<BRANCH>> : com.kcue.KcueMobileService.activity.MainActivity/onStart:()V:595c1a  =>  com.kcue.KcueMobileService.activity.MainActivity/onStart:()V:595c00
+android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:3daab4		=(rels)=>		1
+[*] Unique action: 1:23032 : <<CALL>> : android.support.v4.widget.NestedScrollView/jbujjYdWXiFKOUfB:(Landroid/widget/FrameLayout;Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:3daab4  =>  android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:1959fc
+	1:compareBackwardBranch: 1:33357 : <<BRANCH>> : com.kcue.KcueMobileService.activity.MainActivity/onStart:()V:595c1a  =>  com.kcue.KcueMobileService.activity.MainActivity/onStart:()V:595c00
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:3e37b4		=(rels)=>		1
+[*] Unique action: 1:25641 : <<CALL>> : android.support.v7.app.AlertController/NSxjXaQRUtGjOaYz:(Landroid/widget/Button;Ljava/lang/CharSequence;)V:3e37b4  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:33357 : <<BRANCH>> : com.kcue.KcueMobileService.activity.MainActivity/onStart:()V:595c1a  =>  com.kcue.KcueMobileService.activity.MainActivity/onStart:()V:595c00
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:3e4894		=(rels)=>		1
+[*] Unique action: 1:25634 : <<CALL>> : android.support.v7.app.AlertController/mKGKDxIfQJirGlPb:(Landroid/widget/Button;Landroid/view/View$OnClickListener;)V:3e4894  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:33357 : <<BRANCH>> : com.kcue.KcueMobileService.activity.MainActivity/onStart:()V:595c1a  =>  com.kcue.KcueMobileService.activity.MainActivity/onStart:()V:595c00
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:3e38d0		=(rels)=>		1
+[*] Unique action: 1:25657 : <<CALL>> : android.support.v7.app.AlertController/RweNSxIpdomoSdcQ:(Landroid/widget/Button;Landroid/view/View$OnClickListener;)V:3e38d0  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:33357 : <<BRANCH>> : com.kcue.KcueMobileService.activity.MainActivity/onStart:()V:595c1a  =>  com.kcue.KcueMobileService.activity.MainActivity/onStart:()V:595c00
+Entry: 595b14
+com.kcue.KcueMobileService.activity.MainActivity/onStart:()V: 595c1a -> 595c00
+		com.kcue.KcueMobileService.activity.MainActivity/onStart:()V: 106 -> ec
+addPatchReadme: java.lang.Class<com.kcue.KcueMobileService.activity.MainActivity>onStart()V 106 t
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample62@devRoot-D-R@devDebug-D.obfuscated.ilog)
+b29e6a69: Patch size: 1
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample62.apk@devRoot-D-R@devDebug-D.apk.obfuscated_devRoot
+Wow!!!!!  --  com.kcue.KcueMobileService.activity.MainActivity/onStart:()V
+fallthrough: 10c
+branchTarget: ec
+label = sswitch_data_2
+GOTO -- 10c 	ec
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample62.apk@devRoot-D-R@devDebug-D.apk.obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample62.apk@devRoot-D-R@devDebug-D.apk.obfuscated_devRoot/sample62.apk@devRoot-D-R@devDebug-D.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample62.apk@devRoot-D-R@devDebug-D.apk.obfuscated_devRoot/signed_sample62.apk@devRoot-D-R@devDebug-D.apk.obfuscated.apk
+b29e6a69: First address of Lcom/kcue/KcueMobileService/activity/MainActivity;->onStart()V = 595b24
+b29e6a69: Address - Lcom/kcue/KcueMobileService/activity/MainActivity;->onStart()V@106	 lastOffset = 2bc
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample62.apk@devRoot-D-R@devDebug-D.apk.obfuscated_devRoot/signed_sample62.apk@devRoot-D-R@devDebug-D.apk.obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample62@devRoot-D-R@devDebug-D.obfuscated.ilog)
+b29e6a69: Running Application: com.kcue.KcueMobileService
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.kcue.KcueMobileService
+Tryging remove : uninstall com.kcue.KcueMobileService(com.kcue.KcueMobileService)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 4459042
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 17
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+/home/santapark/Extended3/DEEPerence/reEx/sample62.apk@devRoot-D-R@devDebug-D.apk.obfuscated.apk launch is failed on devRoot
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 595c1a
+-- current localPatchFilter: 595bf2
+Action is completely same :)
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:3e389c		=(rels)=>		1
+[*] Unique action: 1:25672 : <<CALL>> : android.support.v7.app.AlertController/RHmMfGcjJVfKFXxR:(Landroid/widget/Button;Landroid/view/View$OnClickListener;)V:3e389c  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:33354 : <<BRANCH>> : com.kcue.KcueMobileService.activity.MainActivity/onStart:()V:595c42  =>  com.kcue.KcueMobileService.activity.MainActivity/onStart:()V:595c28
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:3d9798		=(rels)=>		1
+[*] Unique action: 1:23026 : <<CALL>> : android.support.v4.widget.NestedScrollView/WrIOEfyCYcTlRZww:(Landroid/widget/FrameLayout;Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:3d9798  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+	1:compareBackwardBranch: 1:33354 : <<BRANCH>> : com.kcue.KcueMobileService.activity.MainActivity/onStart:()V:595c42  =>  com.kcue.KcueMobileService.activity.MainActivity/onStart:()V:595c28
+android.app.Dialog/show:()V:3e6608		=(rels)=>		1
+[*] Unique action: 1:20445 : <<CALL>> : android.support.v7.app.b$a/aVDhbbykJjBDwgnx:(Landroid/support/v7/app/b;)V:3e6608  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:33354 : <<BRANCH>> : com.kcue.KcueMobileService.activity.MainActivity/onStart:()V:595c42  =>  com.kcue.KcueMobileService.activity.MainActivity/onStart:()V:595c28
+android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:3daab4		=(rels)=>		1
+[*] Unique action: 1:23032 : <<CALL>> : android.support.v4.widget.NestedScrollView/jbujjYdWXiFKOUfB:(Landroid/widget/FrameLayout;Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:3daab4  =>  android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:1959fc
+	1:compareBackwardBranch: 1:33354 : <<BRANCH>> : com.kcue.KcueMobileService.activity.MainActivity/onStart:()V:595c42  =>  com.kcue.KcueMobileService.activity.MainActivity/onStart:()V:595c28
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:3e37b4		=(rels)=>		1
+[*] Unique action: 1:25641 : <<CALL>> : android.support.v7.app.AlertController/NSxjXaQRUtGjOaYz:(Landroid/widget/Button;Ljava/lang/CharSequence;)V:3e37b4  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:33354 : <<BRANCH>> : com.kcue.KcueMobileService.activity.MainActivity/onStart:()V:595c42  =>  com.kcue.KcueMobileService.activity.MainActivity/onStart:()V:595c28
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:3e4894		=(rels)=>		1
+[*] Unique action: 1:25634 : <<CALL>> : android.support.v7.app.AlertController/mKGKDxIfQJirGlPb:(Landroid/widget/Button;Landroid/view/View$OnClickListener;)V:3e4894  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:33354 : <<BRANCH>> : com.kcue.KcueMobileService.activity.MainActivity/onStart:()V:595c42  =>  com.kcue.KcueMobileService.activity.MainActivity/onStart:()V:595c28
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:3e38d0		=(rels)=>		1
+[*] Unique action: 1:25657 : <<CALL>> : android.support.v7.app.AlertController/RweNSxIpdomoSdcQ:(Landroid/widget/Button;Landroid/view/View$OnClickListener;)V:3e38d0  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:33354 : <<BRANCH>> : com.kcue.KcueMobileService.activity.MainActivity/onStart:()V:595c42  =>  com.kcue.KcueMobileService.activity.MainActivity/onStart:()V:595c28
+Entry: 595b14
+com.kcue.KcueMobileService.activity.MainActivity/onStart:()V: 595c42 -> 595c28
+		com.kcue.KcueMobileService.activity.MainActivity/onStart:()V: 12e -> 114
+addPatchReadme: java.lang.Class<com.kcue.KcueMobileService.activity.MainActivity>onStart()V 12e t
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample62@devRoot-D-R@devDebug-D.obfuscated.ilog)
+b29e6a69: Patch size: 1
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample62.apk@devRoot-D-R@devDebug-D.apk.obfuscated_devRoot
+Wow!!!!!  --  com.kcue.KcueMobileService.activity.MainActivity/onStart:()V
+fallthrough: 134
+branchTarget: 114
+label = sswitch_data_3
+GOTO -- 134 	114
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample62.apk@devRoot-D-R@devDebug-D.apk.obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample62.apk@devRoot-D-R@devDebug-D.apk.obfuscated_devRoot/sample62.apk@devRoot-D-R@devDebug-D.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample62.apk@devRoot-D-R@devDebug-D.apk.obfuscated_devRoot/signed_sample62.apk@devRoot-D-R@devDebug-D.apk.obfuscated.apk
+b29e6a69: First address of Lcom/kcue/KcueMobileService/activity/MainActivity;->onStart()V = 595b24
+b29e6a69: Address - Lcom/kcue/KcueMobileService/activity/MainActivity;->onStart()V@12e	 lastOffset = 2bc
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample62.apk@devRoot-D-R@devDebug-D.apk.obfuscated_devRoot/signed_sample62.apk@devRoot-D-R@devDebug-D.apk.obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample62@devRoot-D-R@devDebug-D.obfuscated.ilog)
+b29e6a69: Running Application: com.kcue.KcueMobileService
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.kcue.KcueMobileService
+Tryging remove : uninstall com.kcue.KcueMobileService(com.kcue.KcueMobileService)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 4458064
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 16
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+/home/santapark/Extended3/DEEPerence/reEx/sample62.apk@devRoot-D-R@devDebug-D.apk.obfuscated.apk launch is failed on devRoot
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 595c1a
+-- current localPatchFilter: 595bf2
+-- current localPatchFilter: 595c42
+Action is completely same :)
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:3e389c		=(rels)=>		1
+[*] Unique action: 1:25672 : <<CALL>> : android.support.v7.app.AlertController/RHmMfGcjJVfKFXxR:(Landroid/widget/Button;Landroid/view/View$OnClickListener;)V:3e389c  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:33351 : <<BRANCH>> : com.kcue.KcueMobileService.activity.MainActivity/onStart:()V:595c6a  =>  com.kcue.KcueMobileService.activity.MainActivity/onStart:()V:595c50
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:3d9798		=(rels)=>		1
+[*] Unique action: 1:23026 : <<CALL>> : android.support.v4.widget.NestedScrollView/WrIOEfyCYcTlRZww:(Landroid/widget/FrameLayout;Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:3d9798  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+	1:compareBackwardBranch: 1:33351 : <<BRANCH>> : com.kcue.KcueMobileService.activity.MainActivity/onStart:()V:595c6a  =>  com.kcue.KcueMobileService.activity.MainActivity/onStart:()V:595c50
+android.app.Dialog/show:()V:3e6608		=(rels)=>		1
+[*] Unique action: 1:20445 : <<CALL>> : android.support.v7.app.b$a/aVDhbbykJjBDwgnx:(Landroid/support/v7/app/b;)V:3e6608  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:33351 : <<BRANCH>> : com.kcue.KcueMobileService.activity.MainActivity/onStart:()V:595c6a  =>  com.kcue.KcueMobileService.activity.MainActivity/onStart:()V:595c50
+android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:3daab4		=(rels)=>		1
+[*] Unique action: 1:23032 : <<CALL>> : android.support.v4.widget.NestedScrollView/jbujjYdWXiFKOUfB:(Landroid/widget/FrameLayout;Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:3daab4  =>  android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:1959fc
+	1:compareBackwardBranch: 1:33351 : <<BRANCH>> : com.kcue.KcueMobileService.activity.MainActivity/onStart:()V:595c6a  =>  com.kcue.KcueMobileService.activity.MainActivity/onStart:()V:595c50
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:3e37b4		=(rels)=>		1
+[*] Unique action: 1:25641 : <<CALL>> : android.support.v7.app.AlertController/NSxjXaQRUtGjOaYz:(Landroid/widget/Button;Ljava/lang/CharSequence;)V:3e37b4  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:33351 : <<BRANCH>> : com.kcue.KcueMobileService.activity.MainActivity/onStart:()V:595c6a  =>  com.kcue.KcueMobileService.activity.MainActivity/onStart:()V:595c50
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:3e4894		=(rels)=>		1
+[*] Unique action: 1:25634 : <<CALL>> : android.support.v7.app.AlertController/mKGKDxIfQJirGlPb:(Landroid/widget/Button;Landroid/view/View$OnClickListener;)V:3e4894  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:33351 : <<BRANCH>> : com.kcue.KcueMobileService.activity.MainActivity/onStart:()V:595c6a  =>  com.kcue.KcueMobileService.activity.MainActivity/onStart:()V:595c50
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:3e38d0		=(rels)=>		1
+[*] Unique action: 1:25657 : <<CALL>> : android.support.v7.app.AlertController/RweNSxIpdomoSdcQ:(Landroid/widget/Button;Landroid/view/View$OnClickListener;)V:3e38d0  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:33351 : <<BRANCH>> : com.kcue.KcueMobileService.activity.MainActivity/onStart:()V:595c6a  =>  com.kcue.KcueMobileService.activity.MainActivity/onStart:()V:595c50
+Entry: 595b14
+com.kcue.KcueMobileService.activity.MainActivity/onStart:()V: 595c6a -> 595c50
+		com.kcue.KcueMobileService.activity.MainActivity/onStart:()V: 156 -> 13c
+addPatchReadme: java.lang.Class<com.kcue.KcueMobileService.activity.MainActivity>onStart()V 156 t
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample62@devRoot-D-R@devDebug-D.obfuscated.ilog)
+b29e6a69: Patch size: 1
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample62.apk@devRoot-D-R@devDebug-D.apk.obfuscated_devRoot
+Wow!!!!!  --  com.kcue.KcueMobileService.activity.MainActivity/onStart:()V
+fallthrough: 15c
+branchTarget: 13c
+label = sswitch_data_4
+GOTO -- 15c 	13c
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample62.apk@devRoot-D-R@devDebug-D.apk.obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample62.apk@devRoot-D-R@devDebug-D.apk.obfuscated_devRoot/sample62.apk@devRoot-D-R@devDebug-D.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample62.apk@devRoot-D-R@devDebug-D.apk.obfuscated_devRoot/signed_sample62.apk@devRoot-D-R@devDebug-D.apk.obfuscated.apk
+b29e6a69: First address of Lcom/kcue/KcueMobileService/activity/MainActivity;->onStart()V = 595b24
+b29e6a69: Address - Lcom/kcue/KcueMobileService/activity/MainActivity;->onStart()V@156	 lastOffset = 2bc
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample62.apk@devRoot-D-R@devDebug-D.apk.obfuscated_devRoot/signed_sample62.apk@devRoot-D-R@devDebug-D.apk.obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample62@devRoot-D-R@devDebug-D.obfuscated.ilog)
+b29e6a69: Running Application: com.kcue.KcueMobileService
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.kcue.KcueMobileService
+Tryging remove : uninstall com.kcue.KcueMobileService(com.kcue.KcueMobileService)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 4459083
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 15
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+/home/santapark/Extended3/DEEPerence/reEx/sample62.apk@devRoot-D-R@devDebug-D.apk.obfuscated.apk launch is failed on devRoot
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 595c1a
+-- current localPatchFilter: 595c6a
+-- current localPatchFilter: 595bf2
+-- current localPatchFilter: 595c42
+Action is completely same :)
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:3e389c		=(rels)=>		1
+[*] Unique action: 1:25672 : <<CALL>> : android.support.v7.app.AlertController/RHmMfGcjJVfKFXxR:(Landroid/widget/Button;Landroid/view/View$OnClickListener;)V:3e389c  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:33348 : <<BRANCH>> : com.kcue.KcueMobileService.activity.MainActivity/onStart:()V:595c86  =>  com.kcue.KcueMobileService.activity.MainActivity/onStart:()V:595caa
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:3d9798		=(rels)=>		1
+[*] Unique action: 1:23026 : <<CALL>> : android.support.v4.widget.NestedScrollView/WrIOEfyCYcTlRZww:(Landroid/widget/FrameLayout;Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:3d9798  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+	1:compareBackwardBranch: 1:33348 : <<BRANCH>> : com.kcue.KcueMobileService.activity.MainActivity/onStart:()V:595c86  =>  com.kcue.KcueMobileService.activity.MainActivity/onStart:()V:595caa
+android.app.Dialog/show:()V:3e6608		=(rels)=>		1
+[*] Unique action: 1:20445 : <<CALL>> : android.support.v7.app.b$a/aVDhbbykJjBDwgnx:(Landroid/support/v7/app/b;)V:3e6608  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:33348 : <<BRANCH>> : com.kcue.KcueMobileService.activity.MainActivity/onStart:()V:595c86  =>  com.kcue.KcueMobileService.activity.MainActivity/onStart:()V:595caa
+android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:3daab4		=(rels)=>		1
+[*] Unique action: 1:23032 : <<CALL>> : android.support.v4.widget.NestedScrollView/jbujjYdWXiFKOUfB:(Landroid/widget/FrameLayout;Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:3daab4  =>  android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:1959fc
+	1:compareBackwardBranch: 1:33348 : <<BRANCH>> : com.kcue.KcueMobileService.activity.MainActivity/onStart:()V:595c86  =>  com.kcue.KcueMobileService.activity.MainActivity/onStart:()V:595caa
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:3e37b4		=(rels)=>		1
+[*] Unique action: 1:25641 : <<CALL>> : android.support.v7.app.AlertController/NSxjXaQRUtGjOaYz:(Landroid/widget/Button;Ljava/lang/CharSequence;)V:3e37b4  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:33348 : <<BRANCH>> : com.kcue.KcueMobileService.activity.MainActivity/onStart:()V:595c86  =>  com.kcue.KcueMobileService.activity.MainActivity/onStart:()V:595caa
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:3e4894		=(rels)=>		1
+[*] Unique action: 1:25634 : <<CALL>> : android.support.v7.app.AlertController/mKGKDxIfQJirGlPb:(Landroid/widget/Button;Landroid/view/View$OnClickListener;)V:3e4894  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:33348 : <<BRANCH>> : com.kcue.KcueMobileService.activity.MainActivity/onStart:()V:595c86  =>  com.kcue.KcueMobileService.activity.MainActivity/onStart:()V:595caa
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:3e38d0		=(rels)=>		1
+[*] Unique action: 1:25657 : <<CALL>> : android.support.v7.app.AlertController/RweNSxIpdomoSdcQ:(Landroid/widget/Button;Landroid/view/View$OnClickListener;)V:3e38d0  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:33348 : <<BRANCH>> : com.kcue.KcueMobileService.activity.MainActivity/onStart:()V:595c86  =>  com.kcue.KcueMobileService.activity.MainActivity/onStart:()V:595caa
+Entry: 595b14
+com.kcue.KcueMobileService.activity.MainActivity/onStart:()V: 595c86 -> 595caa
+		com.kcue.KcueMobileService.activity.MainActivity/onStart:()V: 172 -> 196
+addPatchReadme: java.lang.Class<com.kcue.KcueMobileService.activity.MainActivity>onStart()V 172 t
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample62@devRoot-D-R@devDebug-D.obfuscated.ilog)
+b29e6a69: Patch size: 1
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample62.apk@devRoot-D-R@devDebug-D.apk.obfuscated_devRoot
+Wow!!!!!  --  com.kcue.KcueMobileService.activity.MainActivity/onStart:()V
+fallthrough: 178
+branchTarget: 196
+label = sswitch_data_5
+GOTO -- 178 	196
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample62.apk@devRoot-D-R@devDebug-D.apk.obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample62.apk@devRoot-D-R@devDebug-D.apk.obfuscated_devRoot/sample62.apk@devRoot-D-R@devDebug-D.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample62.apk@devRoot-D-R@devDebug-D.apk.obfuscated_devRoot/signed_sample62.apk@devRoot-D-R@devDebug-D.apk.obfuscated.apk
+b29e6a69: First address of Lcom/kcue/KcueMobileService/activity/MainActivity;->onStart()V = 595b24
+b29e6a69: Address - Lcom/kcue/KcueMobileService/activity/MainActivity;->onStart()V@172	 lastOffset = 2bc
+b29e6a69: Instruction@@: SPARSE_SWITCH
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample62.apk@devRoot-D-R@devDebug-D.apk.obfuscated_devRoot/signed_sample62.apk@devRoot-D-R@devDebug-D.apk.obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample62@devRoot-D-R@devDebug-D.obfuscated.ilog)
+b29e6a69: Running Application: com.kcue.KcueMobileService
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.android.launcher3/.Launcher
+PIDs--------------------------------------------------------------------------
+PIDs--------------------------------------------------------------------------
+Stopping app: com.kcue.KcueMobileService
+Tryging remove : uninstall com.kcue.KcueMobileService(com.kcue.KcueMobileService)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 4457907
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 14
+b29e6a69: isFailedToLaunch: com.android.launcher3/.Launcher
+b29e6a69: 	--result: Failed :( (1)
+/home/santapark/Extended3/DEEPerence/reEx/sample62.apk@devRoot-D-R@devDebug-D.apk.obfuscated.apk launch is failed on devRoot
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 595c1a
+-- current localPatchFilter: 595c6a
+-- current localPatchFilter: 595bf2
+-- current localPatchFilter: 595c42
+-- current localPatchFilter: 595c86
+Action is completely same :)
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:3e389c		=(rels)=>		1
+[*] Unique action: 1:25672 : <<CALL>> : android.support.v7.app.AlertController/RHmMfGcjJVfKFXxR:(Landroid/widget/Button;Landroid/view/View$OnClickListener;)V:3e389c  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:33345 : <<BRANCH>> : com.kcue.KcueMobileService.activity.MainActivity/onStart:()V:595ca0  =>  com.kcue.KcueMobileService.activity.MainActivity/onStart:()V:595cb0
+android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:3d9798		=(rels)=>		1
+[*] Unique action: 1:23026 : <<CALL>> : android.support.v4.widget.NestedScrollView/WrIOEfyCYcTlRZww:(Landroid/widget/FrameLayout;Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:3d9798  =>  android.view.ViewGroup/addView:(Landroid/view/View;Landroid/view/ViewGroup$LayoutParams;)V:195988
+	1:compareBackwardBranch: 1:33345 : <<BRANCH>> : com.kcue.KcueMobileService.activity.MainActivity/onStart:()V:595ca0  =>  com.kcue.KcueMobileService.activity.MainActivity/onStart:()V:595cb0
+android.app.Dialog/show:()V:3e6608		=(rels)=>		1
+[*] Unique action: 1:20445 : <<CALL>> : android.support.v7.app.b$a/aVDhbbykJjBDwgnx:(Landroid/support/v7/app/b;)V:3e6608  =>  android.app.Dialog/show:()V:1b4adc
+	1:compareBackwardBranch: 1:33345 : <<BRANCH>> : com.kcue.KcueMobileService.activity.MainActivity/onStart:()V:595ca0  =>  com.kcue.KcueMobileService.activity.MainActivity/onStart:()V:595cb0
+android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:3daab4		=(rels)=>		1
+[*] Unique action: 1:23032 : <<CALL>> : android.support.v4.widget.NestedScrollView/jbujjYdWXiFKOUfB:(Landroid/widget/FrameLayout;Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:3daab4  =>  android.view.ViewGroup/addView:(Landroid/view/View;ILandroid/view/ViewGroup$LayoutParams;)V:1959fc
+	1:compareBackwardBranch: 1:33345 : <<BRANCH>> : com.kcue.KcueMobileService.activity.MainActivity/onStart:()V:595ca0  =>  com.kcue.KcueMobileService.activity.MainActivity/onStart:()V:595cb0
+android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:3e37b4		=(rels)=>		1
+[*] Unique action: 1:25641 : <<CALL>> : android.support.v7.app.AlertController/NSxjXaQRUtGjOaYz:(Landroid/widget/Button;Ljava/lang/CharSequence;)V:3e37b4  =>  android.widget.TextView/setText:(Ljava/lang/CharSequence;)V:29ee34
+	1:compareBackwardBranch: 1:33345 : <<BRANCH>> : com.kcue.KcueMobileService.activity.MainActivity/onStart:()V:595ca0  =>  com.kcue.KcueMobileService.activity.MainActivity/onStart:()V:595cb0
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:3e4894		=(rels)=>		1
+[*] Unique action: 1:25634 : <<CALL>> : android.support.v7.app.AlertController/mKGKDxIfQJirGlPb:(Landroid/widget/Button;Landroid/view/View$OnClickListener;)V:3e4894  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:33345 : <<BRANCH>> : com.kcue.KcueMobileService.activity.MainActivity/onStart:()V:595ca0  =>  com.kcue.KcueMobileService.activity.MainActivity/onStart:()V:595cb0
+android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:3e38d0		=(rels)=>		1
+[*] Unique action: 1:25657 : <<CALL>> : android.support.v7.app.AlertController/RweNSxIpdomoSdcQ:(Landroid/widget/Button;Landroid/view/View$OnClickListener;)V:3e38d0  =>  android.view.View/setOnClickListener:(Landroid/view/View$OnClickListener;)V:1bf5f8
+	1:compareBackwardBranch: 1:33345 : <<BRANCH>> : com.kcue.KcueMobileService.activity.MainActivity/onStart:()V:595ca0  =>  com.kcue.KcueMobileService.activity.MainActivity/onStart:()V:595cb0
+Entry: 595b14
+com.kcue.KcueMobileService.activity.MainActivity/onStart:()V: 595ca0 -> 595cb0
+		com.kcue.KcueMobileService.activity.MainActivity/onStart:()V: 18c -> 19c
+addPatchReadme: java.lang.Class<com.kcue.KcueMobileService.activity.MainActivity>onStart()V 18c t
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample62@devRoot-D-R@devDebug-D.obfuscated.ilog)
+b29e6a69: Patch size: 1
+Devices presenting anti-analysis: 
+	devRoot
+b29e6a69: outDir - /home/santapark/Extended3/DEEPerence/reEx/sample62.apk@devRoot-D-R@devDebug-D.apk.obfuscated_devRoot
+Wow!!!!!  --  com.kcue.KcueMobileService.activity.MainActivity/onStart:()V
+fallthrough: 190
+branchTarget: 19c
+label = cond_0
+GOTO -- 190 	19c
+axmlPath: /home/santapark/Extended3/DEEPerence/reEx/sample62.apk@devRoot-D-R@devDebug-D.apk.obfuscated_devRoot/AndroidManifest.xml
+outDir: /home/santapark/Extended3/DEEPerence/reEx/sample62.apk@devRoot-D-R@devDebug-D.apk.obfuscated_devRoot/sample62.apk@devRoot-D-R@devDebug-D.apk.obfuscated.apk
+b29e6a69: Patched APK File: /home/santapark/Extended3/DEEPerence/reEx/sample62.apk@devRoot-D-R@devDebug-D.apk.obfuscated_devRoot/signed_sample62.apk@devRoot-D-R@devDebug-D.apk.obfuscated.apk
+b29e6a69: First address of Lcom/kcue/KcueMobileService/activity/MainActivity;->onStart()V = 595b24
+b29e6a69: Address - Lcom/kcue/KcueMobileService/activity/MainActivity;->onStart()V@18c	 lastOffset = 2bc
+b29e6a69: Instruction@@: IF_EQZ
+b29e6a69: (Not Installed) Trying remove : true
+Installing apk: /home/santapark/Extended3/DEEPerence/reEx/sample62.apk@devRoot-D-R@devDebug-D.apk.obfuscated_devRoot/signed_sample62.apk@devRoot-D-R@devDebug-D.apk.obfuscated.apk
+b29e6a69: Installation Success
+b29e6a69: startApplication called! - devRoot
+b29e6a69: Collecting logcat... (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample62@devRoot-D-R@devDebug-D.obfuscated.ilog)
+b29e6a69: Running Application: com.kcue.KcueMobileService
+b29e6a69: Running is done - starting comparing... : 5001
+b29e6a69: Terminated logcat thread...by itself
+b29e6a69: Top-activity: com.kcue.KcueMobileService/.activity.MainActivity
+PIDs--------------------------------------------------------------------------
+u0_a3138      28724    429 14994420 181420 0                  0 S com.kcue.KcueMobileService
+PIDs--------------------------------------------------------------------------
+u0_a3138      28724    429 14994420 181420 0                  0 S com.kcue.KcueMobileService
+Stopping app: com.kcue.KcueMobileService
+Tryging remove : uninstall com.kcue.KcueMobileService(com.kcue.KcueMobileService)
+b29e6a69: Remove Success
+b29e6a69: ilog file size: 5993661
+b29e6a69: End of collecting logcat...
+HPFinder's try count remains: 13
+b29e6a69: isFailedToLaunch: com.kcue.KcueMobileService/.activity.MainActivity
+b29e6a69: 	--result: Good :)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRef_sample62@devRoot-D-R@devDebug-D.obfuscated.ilog)
+ExitReason-Code: 1 (/home/santapark/Extended3/DEEPerence/reEx/devRoot_sample62@devRoot-D-R@devDebug-D.obfuscated.ilog)
+[*] FlowManager: adjust finished.
+-- current localPatchFilter: 595ca0
+Action is completely same :)
+Action is completely same :)
+b29e6a69: There is no difference. (tryAgain=false)
+-- HPFinder will be done in this iteration :)
+hasAntiAnalysis? - devTamper: false on com.kcue.KcueMobileService.activity.MainActivity
+hasAntiAnalysis? - devRoot: true on com.kcue.KcueMobileService.activity.MainActivity
+	isRemovedThem? - devRoot: true on com.kcue.KcueMobileService.activity.MainActivity	-	tryCount: 6
+hasAntiAnalysis? - devDebug: false on com.kcue.KcueMobileService.activity.MainActivity
+*****REPORT: com.kcue.KcueMobileService
+* Package name: com.kcue.KcueMobileService
+* Running time: 280
+* FileSize: 6862489
+devTamper : 9132857
+devRef : 9092738
+devRoot : 5993661
+devDebug : 9133339
+hasAntiAnalysis? - devTamper: false on com.kcue.KcueMobileService.activity.MainActivity
+hasAntiAnalysis? - devRoot: true on com.kcue.KcueMobileService.activity.MainActivity
+	isRemovedThem? - devRoot: true on com.kcue.KcueMobileService.activity.MainActivity	-	tryCount: 6
+hasAntiAnalysis? - devDebug: false on com.kcue.KcueMobileService.activity.MainActivity
+46604b9f: trying remove : com.kcue.KcueMobileService
+3601a6ff: trying remove : com.kcue.KcueMobileService
+b29e6a69: trying remove : com.kcue.KcueMobileService
+159ceeed: trying remove : com.kcue.KcueMobileService
+3601a6ff: (Not Installed) Trying remove : true
+3601a6ff: -- Success
+3601a6ff: result = true
+46604b9f: (Not Installed) Trying remove : true
+46604b9f: -- Success
+46604b9f: result = true
+159ceeed: (Not Installed) Trying remove : true
+159ceeed: -- Success
+159ceeed: result = true
+b29e6a69: (Not Installed) Trying remove : true
+b29e6a69: -- Success
+b29e6a69: result = true
+3601a6ff: isFailedToLaunch: com.kcue.KcueMobileService/.activity.MainActivity
+3601a6ff: 	--result: Good :)
