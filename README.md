@@ -1,5 +1,24 @@
 # HPFinder (Dataset) for AsiaCCS 2024
 
+This is the dataset introduced in our paper, "HPFinder: A Novel Approach to Automatically Analyze Android Malware with Obfuscated Anti-Sandbox Techniques".
+The dataset consists of the following two datasets:
+
+1. Obfuscated samples:
+We collected the samples from Google Play and VirusTotal. We checked that it is working in our experiment board operating AOSP 10.
+We obfuscated the samples with the control flow flattening and reflection. To apply control flow flattening, we used the BlackObfuscator, a open-source obfuscator for an Android app.
+We also used the Obfuscapk to apply reflection. These two obfuscation techniques are well-known and widespread in the read-world.
+The samples contained at least one anti-sandbox feature among root, tamper, and debugger detection.
+We do not provide an APK file directly. It's because there might be a legal problem. So we provide MD5 hash value.
+
+The file name contains the summary information about the anti-sandbox feature and experiment result in the HPFinder.
+It's like this "Root-D-R".
+"Root" means that the sample contains a root detection feature.
+"D" means that HPFinder detected the root detection feature.
+"R" means that HPFinder successfully removed the root detection feature.
+
+As we explained in the paper, we found some interesting samples containing cross-language, multi-threaded anti-sandbox features.
+The sample's hash values are the following.
+
 -- MD5 hashes
 
 * Multi-thread samples - 7
@@ -39,5 +58,14 @@ ff41bd6ed433c138fac937ab8bfa5e64
 9f9f736af56e89a6be7bc6d7297d8f76
 
 551791ae21f77732b28c9b1da3943dda
+
+
+
+3. EBTSuite:
+   
+
+
+
+
 
 
